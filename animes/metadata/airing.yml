@@ -1,0 +1,7 @@
+collections:
+  Airing:
+    sonarr_taglist: animes
+    item_label: Airing
+    non_item_remove_label: Airing
+    sync_mode: sync
+    build_collection: false

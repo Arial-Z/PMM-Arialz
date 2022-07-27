@@ -1,0 +1,130 @@
+templates:
+  IMDB_Ratingred:                                                               #IDMB Rating Logo
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+    collection_level: <<overlay_level>>
+    overlay:
+      name: <<overlay_name>>
+      file: config/overlays/Images/Rating/<<overlay>>
+      queue: Rating_Queue_Logo
+      weight: <<weight>>
+
+  Audience_Rating:                                                               #Audience Rating Text (IMDB Rating)
+    optional:
+      - overlay_level
+    default:
+      rating_type: audience_rating
+    collection_level: <<overlay_level>>
+    overlay:
+      name: text(<<rating_type>>)
+      queue: Rating_Queue_Text
+      weight: <<weight>>
+      font: fonts/Roboto-Bold.ttf
+      font_size: 72
+      font_color: "#FFFFFF"
+
+  MDB_Rating:                                                                    #MDBList Rating Logo
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+    collection_level: <<overlay_level>>
+    overlay:
+      name: <<overlay_name>>
+      file: config/overlays/Images/Rating/<<overlay>>  
+      queue: Rating_Queue_Logo
+      weight: <<weight>>
+
+  User_Rating:                                                                   #User Rating Text (MDBList Score)
+    optional:
+      - overlay_level
+    default:
+      rating_type: user_rating
+    collection_level: <<overlay_level>>
+    overlay:
+      name: text(<<rating_type>>)
+      queue: Rating_Queue_Text
+      weight: <<weight>>
+      font: fonts/Roboto-Bold.ttf
+      font_size: 72
+      font_color: "#FFFFFF"
+
+  Meta-Must:
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+    collection_level: <<overlay_level>>
+    mdblist_list: https://mdblist.com/lists/frostywolf/metacritic-must-see/
+    overlay:
+      name: <<overlay_name>>
+      file: config/overlays/Images/Rating/<<overlay>>      
+      weight: <<weight>>
+      horizontal_offset: 2
+      horizontal_align: right
+      vertical_offset: 2
+      vertical_align: bottom
+
+queues:
+  Rating_Queue_Logo:
+    - horizontal_offset: 10
+      horizontal_align: left
+      vertical_offset: 10
+      vertical_align: bottom
+    - horizontal_offset: 321
+      horizontal_align: left
+      vertical_offset: 10
+      vertical_align: bottom
+  Rating_Queue_Text:
+    - horizontal_offset: 182
+      horizontal_align: left
+      vertical_offset: 40
+      vertical_align: bottom
+    - horizontal_offset: 492
+      horizontal_align: left
+      vertical_offset: 40
+      vertical_align: bottom
+
+overlays:
+  IMDB_Ratingred:
+    template:
+      - name: IMDB_Ratingred
+        weight: 100
+    plex_search:
+      all:
+        audience_rating.gte: 0.1
+        audience_rating.lte: 10
+
+  audience_rating:
+    template:
+      name: Audience_Rating
+      weight: 100
+    plex_search:
+      all:
+        audience_rating.gte: 0.1
+        audience_rating.lte: 10
+
+  MDB_Rating:
+    template:
+      - name: MDB_Rating
+        weight: 80
+    plex_search:
+      all:
+        user_rating.gte: 0.1
+        user_rating.lte: 10
+
+  user_rating:
+    template:
+      name: User_Rating
+      weight: 80
+    plex_search:
+      all:
+        user_rating.gte: 0.1
+        user_rating.lte: 10
+
+  MC-Must-See:
+    template:
+      - name: Meta-Must
+        weight: 45
