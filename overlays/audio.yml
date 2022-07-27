@@ -60,7 +60,7 @@ overlays:
     template:
       - name: AudioLanguage
         weight: 5
-    plex_search:
+    plex_all:
     filters:
       audio_language.count_lt: 2
 
