@@ -61,7 +61,6 @@ overlays:
       - name: AudioLanguage
         weight: 5
     plex_search:
-      audio_language.not: fr
     filters:
       audio_language.count_lt: 2
 
