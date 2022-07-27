@@ -57,7 +57,7 @@ templates:
       - <<use_<<opt2>>>>
     overlay:
       name: <<overlay_name>>
-      file: config/overlays/Images/Resolution/<<overlay>>
+      repo: /overlays/Images/Resolution/<<overlay>>
       group: res
       weight: <<weight>>
       horizontal_offset: <<horizontal_offset>>
@@ -81,7 +81,7 @@ templates:
       - <<use_<<opt2>>>>
     overlay:
       name: <<overlay_name>>
-      file: config/overlays/Images/Resolution/<<overlay>>
+      repo: /overlays/Images/Resolution/<<overlay>>
       group: res
       weight: <<weight>>
       horizontal_offset: <<horizontal_offset>>

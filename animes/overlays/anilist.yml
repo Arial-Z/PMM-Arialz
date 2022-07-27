@@ -12,7 +12,7 @@ templates:
       sort_by: score
     overlay:
       name: <<overlay_name>>
-      file: config/overlays/Images/Anilist/<<overlay>>
+      repo: /overlays/Images/Anilist/<<overlay>>
       weight: <<weight>>
       horizontal_offset: 0
       horizontal_align: right
@@ -32,7 +32,7 @@ templates:
       sort_by: score
     overlay:
       name: <<overlay_name>>
-      file: config/overlays/Images/Anilist/<<overlay>>
+      repo: /overlays/Images/Anilist/<<overlay>>
       weight: <<weight>>
       horizontal_offset: 0
       horizontal_align: right
@@ -52,7 +52,7 @@ templates:
       sort_by: score
     overlay:
       name: <<overlay_name>>
-      file: config/overlays/Images/Anilist/<<overlay>>
+      repo: /overlays/Images/Anilist/<<overlay>>
       weight: <<weight>>
       horizontal_offset: 0
       horizontal_align: right
@@ -72,7 +72,7 @@ templates:
       sort_by: score
     overlay:
       name: <<overlay_name>>
-      file: config/overlays/Images/Anilist/<<overlay>>
+      repo: /overlays/Images/Anilist/<<overlay>>
       weight: <<weight>>
       horizontal_offset: 0
       horizontal_align: right
@@ -92,7 +92,7 @@ templates:
       sort_by: score
     overlay:
       name: <<overlay_name>>
-      file: config/overlays/Images/Anilist/<<overlay>>
+      repo: /overlays/Images/Anilist/<<overlay>>
       weight: <<weight>>
       horizontal_offset: 0
       horizontal_align: right

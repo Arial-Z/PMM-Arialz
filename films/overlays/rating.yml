@@ -7,7 +7,7 @@ templates:
     collection_level: <<overlay_level>>
     overlay:
       name: <<overlay_name>>
-      git: /overlays/Images/Rating/<<overlay>>
+      repo: /overlays/Images/Rating/<<overlay>>
       queue: Rating_Queue_Logo
       weight: <<weight>>
 
@@ -33,7 +33,7 @@ templates:
     collection_level: <<overlay_level>>
     overlay:
       name: <<overlay_name>>
-      git: /overlays/Images/Rating/<<overlay>>
+      repo: /overlays/Images/Rating/<<overlay>>
       queue: Rating_Queue_Logo
       weight: <<weight>>
 
@@ -60,7 +60,7 @@ templates:
     imdb_list: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary&groups=top_100
     overlay:
       name: <<overlay_name>>
-      git: /overlays/Images/Rating/<<overlay>>
+      repo: /overlays/Images/Rating/<<overlay>>
       weight: <<weight>>
       horizontal_offset: 0
       horizontal_align: right
@@ -76,7 +76,7 @@ templates:
     imdb_list: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary&groups=top_250
     overlay:
       name: <<overlay_name>>
-      git: /overlays/Images/Rating/<<overlay>>
+      repo: /overlays/Images/Rating/<<overlay>>
       weight: <<weight>>
       horizontal_offset: 0
       horizontal_align: right
@@ -93,7 +93,7 @@ templates:
     mdblist_list: https://mdblist.com/lists/frostywolf/metacritic-must-see-movies/
     overlay:
       name: <<overlay_name>>
-      git: /overlays/Images/Rating/<<overlay>>
+      repo: /overlays/Images/Rating/<<overlay>>
       weight: <<weight>>
       horizontal_offset: 2
       horizontal_align: right

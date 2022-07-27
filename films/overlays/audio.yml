@@ -37,7 +37,7 @@ templates:
     collection_level: <<overlay_level>>
     overlay:
       name: <<overlay_name>>
-      file: config/overlays/Images/Audio/<<overlay>>     
+      repo: /overlays/Images/Audio/<<overlay>>
       group: audio_language
       weight: <<weight>>
       horizontal_offset: <<horizontal_offset>>

@@ -7,7 +7,7 @@ templates:
     collection_level: <<overlay_level>>
     overlay:
       name: <<overlay_name>>
-      file: config/overlays/Images/Rating/<<overlay>>
+      repo: /overlays/Images/Rating/<<overlay>>
       queue: Rating_Queue_Logo
       weight: <<weight>>
 
@@ -33,7 +33,7 @@ templates:
     collection_level: <<overlay_level>>
     overlay:
       name: <<overlay_name>>
-      file: config/overlays/Images/Rating/<<overlay>>  
+      repo: /overlays/Images/Rating/<<overlay>>  
       queue: Rating_Queue_Logo
       weight: <<weight>>
 
@@ -60,7 +60,7 @@ templates:
     mdblist_list: https://mdblist.com/lists/frostywolf/metacritic-must-see/
     overlay:
       name: <<overlay_name>>
-      file: config/overlays/Images/Rating/<<overlay>>      
+      repo: /overlays/Images/Rating/<<overlay>>      
       weight: <<weight>>
       horizontal_offset: 2
       horizontal_align: right

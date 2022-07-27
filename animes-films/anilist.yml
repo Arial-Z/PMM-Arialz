@@ -12,7 +12,7 @@ templates:
       sort_by: score
     overlay:
       name: <<overlay_name>>
-      file: config/overlays/Images/Anilist/<<overlay>>
+      repo: /overlays/Images/Anilist/<<overlay>>
       weight: <<weight>>
       horizontal_offset: 0
       horizontal_align: right
@@ -32,7 +32,7 @@ templates:
       sort_by: score
     overlay:
       name: <<overlay_name>>
-      file: config/overlays/Images/Anilist/<<overlay>>
+      repo: /overlays/Images/Anilist/<<overlay>>
       weight: <<weight>>
       horizontal_offset: 0
       horizontal_align: right
@@ -52,7 +52,7 @@ templates:
       sort_by: score
     overlay:
       name: <<overlay_name>>
-      file: config/overlays/Images/Anilist/<<overlay>>
+      repo: /overlays/Images/Anilist/<<overlay>>
       weight: <<weight>>
       horizontal_offset: 0
       horizontal_align: right
@@ -72,27 +72,7 @@ templates:
       sort_by: score
     overlay:
       name: <<overlay_name>>
-      file: config/overlays/Images/Anilist/<<overlay>>
-      weight: <<weight>>
-      horizontal_offset: 0
-      horizontal_align: right
-      vertical_offset: 0
-      vertical_align: bottom
-
-  Anilist-500:                                                               #Audience Rating Text (IMDB Rating)
-    optional:
-      - overlay_level
-    default:
-      overlay: <<overlay_name>>
-    collection_level: <<overlay_level>>
-    anilist_search:
-      adult: false
-      format: tv, short, special, ova, ona
-      limit: 500
-      sort_by: score
-    overlay:
-      name: <<overlay_name>>
-      file: config/overlays/Images/Anilist/<<overlay>>
+      repo: /overlays/Images/Anilist/<<overlay>>
       weight: <<weight>>
       horizontal_offset: 0
       horizontal_align: right
@@ -130,11 +110,4 @@ overlays:
   Anilist-250:
     template:
       - name: Anilist-250
-        weight: 45
-    suppress_overlays:
-      - Anilist-500
-
-  Anilist-500:
-    template:
-      - name: Anilist-500
         weight: 45
