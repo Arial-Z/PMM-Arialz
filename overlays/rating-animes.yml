@@ -1,5 +1,5 @@
 templates:
-  MAL_Rating:                                                               #IDMB Rating Logo
+  AniDB_Rating:                                                               #IDMB Rating Logo
     optional:
       - overlay_level
     default:
@@ -11,11 +11,11 @@ templates:
       queue: Rating_Queue_Logo
       weight: <<weight>>
 
-  Audience_Rating:                                                               #Audience Rating Text (IMDB Rating)
+  User_Rating:                                                                   #User Rating Text
     optional:
       - overlay_level
     default:
-      rating_type: audience_rating
+      rating_type: user_rating
     collection_level: <<overlay_level>>
     overlay:
       name: text(<<rating_type>>)
@@ -38,20 +38,20 @@ queues:
       vertical_align: bottom
 
 overlays:
-  MAL_Rating:
+  AniDB_Rating:
     template:
-      - name: MAL_Rating
+      - name: AniDB_Rating
         weight: 80
     plex_search:
       all:
         audience_rating.gte: 0.1
         audience_rating.lte: 10
 
-  audience_rating:
+  user_rating:
     template:
-      name: Audience_Rating
+      name: User_Rating
       weight: 80
     plex_search:
       all:
-        audience_rating.gte: 0.1
-        audience_rating.lte: 10
+        audience_rating.gte: 1
+        audience_rating.lte: 100

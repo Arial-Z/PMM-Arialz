@@ -1,5 +1,5 @@
 templates:
-  IMDB_Ratingred:                                                               #IDMB Rating Logo
+  IMDB_Rating:                                                               #IDMB Rating Logo
     optional:
       - overlay_level
     default:
@@ -88,9 +88,9 @@ queues:
       vertical_align: bottom
 
 overlays:
-  IMDB_Ratingred:
+  IMDB_Rating:
     template:
-      - name: IMDB_Ratingred
+      - name: IMDB_Rating
         weight: 100
     plex_search:
       all:
