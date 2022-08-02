@@ -51,7 +51,4 @@ overlays:
     template:
       name: User_Rating
       weight: 100
-    plex_search:
-      all:
-        user_rating.gte: 1
-        user_rating.lte: 100
+    plex_all: true
