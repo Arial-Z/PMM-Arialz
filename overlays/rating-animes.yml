@@ -38,28 +38,20 @@ queues:
       vertical_align: bottom
 
 overlays:
-  IMDB_Rating:                                                               #IDMB Rating Logo
-    optional:
-      - overlay_level
-    default:
-      overlay: <<overlay_name>>
-    collection_level: <<overlay_level>>
-    overlay:
-      name: <<overlay_name>>
-      repo: /overlays/Images/Rating/<<overlay>>
-      queue: Rating_Queue_Logo
-      weight: <<weight>>
+  IMDB_Rating:
+    template:
+      - name: IMDB_Rating
+        weight: 100
+    plex_search:
+      all:
+        audience_rating.gte: 0.1
+        audience_rating.lte: 10
 
-  Audience_Rating:                                                               #Audience Rating Text (IMDB Rating)
-    optional:
-      - overlay_level
-    default:
-      rating_type: audience_rating
-    collection_level: <<overlay_level>>
-    overlay:
-      name: text(<<rating_type>>)
-      queue: Rating_Queue_Text
-      weight: <<weight>>
-      font: fonts/Roboto-Bold.ttf
-      font_size: 72
-      font_color: "#FFFFFF"
+  audience_rating:
+    template:
+      name: Audience_Rating
+      weight: 100
+    plex_search:
+      all:
+        audience_rating.gte: 0.1
+        audience_rating.lte: 10
