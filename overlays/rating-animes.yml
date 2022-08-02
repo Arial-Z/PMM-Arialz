@@ -45,7 +45,7 @@ overlays:
     plex_search:
       all:
         user_rating.gte: 0.1
-        user_rating.lte: 100
+        user_rating.lte: 10
 
   user_rating:
     template:
@@ -54,4 +54,4 @@ overlays:
     plex_search:
       all:
         user_rating.gte: 0.1
-        user_rating.lte: 100
+        user_rating.lte: 10
