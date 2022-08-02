@@ -11,7 +11,7 @@ templates:
       queue: Rating_Queue_Logo
       weight: <<weight>>
 
-  User_Rating:                                                                   #User Rating Text
+  Critic_Rating:                                                                   #User Rating Text
     optional:
       - overlay_level
     default:
@@ -47,11 +47,8 @@ overlays:
         audience_rating.gte: 0.1
         audience_rating.lte: 10
 
-  user_rating:
+  critic_rating:
     template:
-      name: User_Rating
+      name: Critic_Rating
       weight: 80
-    plex_search:
-      all:
-        audience_rating.gte: 1
-        audience_rating.lte: 100
+    plex_search: all
