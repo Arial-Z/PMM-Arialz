@@ -1,5 +1,5 @@
 templates:
-  AniDB_Rating:                                                               #IDMB Rating Logo
+  IMDB_Rating:                                                               #IDMB Rating Logo
     optional:
       - overlay_level
     default:
@@ -11,11 +11,11 @@ templates:
       queue: Rating_Queue_Logo
       weight: <<weight>>
 
-  User_Rating:                                                               #Audience Rating Text
+  Audience_Rating:                                                               #Audience Rating Text (IMDB Rating)
     optional:
       - overlay_level
     default:
-      rating_type: user_rating
+      rating_type: audience_rating
     collection_level: <<overlay_level>>
     overlay:
       name: text(<<rating_type>>)
@@ -38,20 +38,28 @@ queues:
       vertical_align: bottom
 
 overlays:
-  AniDB_Rating:
-    template:
-      - name: AniDB_Rating
-        weight: 80
-    plex_search:
-      all:
-        user_rating.gte: 0.1
-        user_rating.lte: 10
+  IMDB_Rating:                                                               #IDMB Rating Logo
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+    collection_level: <<overlay_level>>
+    overlay:
+      name: <<overlay_name>>
+      repo: /overlays/Images/Rating/<<overlay>>
+      queue: Rating_Queue_Logo
+      weight: <<weight>>
 
-  user_rating:
-    template:
-      name: User_Rating
-      weight: 100
-    plex_search:
-      all:
-        user_rating.gte: 0.1
-        user_rating.lte: 10
+  Audience_Rating:                                                               #Audience Rating Text (IMDB Rating)
+    optional:
+      - overlay_level
+    default:
+      rating_type: audience_rating
+    collection_level: <<overlay_level>>
+    overlay:
+      name: text(<<rating_type>>)
+      queue: Rating_Queue_Text
+      weight: <<weight>>
+      font: fonts/Roboto-Bold.ttf
+      font_size: 72
+      font_color: "#FFFFFF"
