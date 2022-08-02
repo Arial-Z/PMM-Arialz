@@ -42,10 +42,7 @@ overlays:
     template:
       - name: AniDB_Rating
         weight: 80
-    plex_search:
-      all:
-        audience_rating.gte: 0.1
-        audience_rating.lte: 10
+    plex_all: true
 
   user_rating:
     template:
