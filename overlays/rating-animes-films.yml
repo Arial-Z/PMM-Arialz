@@ -38,18 +38,18 @@ queues:
       vertical_align: bottom
 
 overlays:
- MAL_Rating:
+  MAL_Rating:
     template:
-      - name:MAL_Rating
+      - name: MAL_Rating
         weight: 100
     plex_search:
       all:
         critic_rating.gte: 0.1
         critic_rating.lte: 10
 
-  Critic_rating:
+  critic_rating:
     template:
-      name: critic_Rating
+      name: Critic_Rating
       weight: 100
     plex_search:
       all:
