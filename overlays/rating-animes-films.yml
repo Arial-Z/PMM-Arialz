@@ -1,5 +1,5 @@
 templates:
-  AniDB_Rating:                                                               #IDMB Rating Logo
+  MAL_Rating:                                                               #IDMB Rating Logo
     optional:
       - overlay_level
     default:
@@ -15,7 +15,7 @@ templates:
     optional:
       - overlay_level
     default:
-      rating_type: User_rating
+      rating_type: user_rating
     collection_level: <<overlay_level>>
     overlay:
       name: text(<<rating_type>>)
@@ -38,9 +38,9 @@ queues:
       vertical_align: bottom
 
 overlays:
-  AniDB_Rating:
+ MAL_Rating:
     template:
-      - name: AniDB_Rating
+      - name:MAL_Rating
         weight: 100
     plex_search:
       all:
