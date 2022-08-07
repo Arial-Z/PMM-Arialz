@@ -5,7 +5,10 @@ templates:
     default:
       overlay: <<overlay_name>>
     collection_level: <<overlay_level>>
-      mal_movie: 10
+    mal_search:
+      type: movie
+      limit: 10
+      sort_by: rating.desc
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/Anilist/<<overlay>>
