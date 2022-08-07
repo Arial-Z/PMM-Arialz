@@ -11,20 +11,15 @@ templates:
       sort_by: rating.desc
     overlay:
       name: <<overlay_name>>
-      repo: /overlays/Images/Anilist/<<overlay>>
+      repo: /overlays/Images/MAL/<<overlay>>
       weight: <<weight>>
       horizontal_offset: 0
       horizontal_align: right
       vertical_offset: 0
       vertical_align: bottom
  
- overlays:
+overlays:
   MAL-10:
     template:
-      - name: Anilist-10
+      - name: MAL-10
         weight: 45
-    suppress_overlays:
-      - Anilist-50
-      - Anilist-100
-      - Anilist-250
-      - Anilist-500
