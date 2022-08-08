@@ -1,0 +1,70 @@
+templates:
+  IMDB100:                                                                      #IMDB Rating Logo (Top 100)
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+    collection_level: <<overlay_level>>
+    imdb_list: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary&groups=top_100
+    overlay:
+      name: <<overlay_name>>
+      repo: /overlays/Images/Rating/<<overlay>>
+      weight: <<weight>>
+      horizontal_offset: 0
+      horizontal_align: right
+      vertical_offset: 0
+      vertical_align: bottom
+      
+  IMDB250:                                                                      #IMDB Rating Logo (Top 250)
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+    collection_level: <<overlay_level>>
+    imdb_list: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary&groups=top_250
+    overlay:
+      name: <<overlay_name>>
+      repo: /overlays/Images/Rating/<<overlay>>
+      weight: <<weight>>
+      horizontal_offset: 0
+      horizontal_align: right
+      vertical_offset: 0
+      vertical_align: bottom
+
+  Meta-Must:
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+    collection_level: <<overlay_level>>
+    mdblist_list: https://mdblist.com/lists/frostywolf/metacritic-must-see-movies/
+    mdblist_list: https://mdblist.com/lists/frostywolf/metacritic-must-see/
+    overlay:
+      name: <<overlay_name>>
+      repo: /overlays/Images/Rating/<<overlay>>
+      weight: <<weight>>
+      horizontal_offset: 2
+      horizontal_align: right
+      vertical_offset: 2
+      vertical_align: bottom
+
+overlays:
+  IMDB100:
+    template:
+      - name: IMDB100
+        weight: 80
+    suppress_overlays:
+      - IMDB250
+      - MC-Must-See
+
+  IMDB250:
+    template:
+      - name: IMDB250
+        weight: 80
+    suppress_overlays:
+      - MC-Must-See
+                
+  MC-Must-See:
+    template:
+      - name: Meta-Must
+        weight: 45
