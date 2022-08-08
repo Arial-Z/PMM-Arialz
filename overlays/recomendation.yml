@@ -5,7 +5,9 @@ templates:
     default:
       overlay: <<overlay_name>>
     collection_level: <<overlay_level>>
-    imdb_list: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary&groups=top_100
+    IMDb Top 250:
+      imdb_chart: top_movies
+      limit: 100
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/Rating/<<overlay>>
@@ -21,7 +23,8 @@ templates:
     default:
       overlay: <<overlay_name>>
     collection_level: <<overlay_level>>
-    imdb_list: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary&groups=top_250
+    IMDb Top 250:
+      imdb_chart: top_movies
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/Rating/<<overlay>>
