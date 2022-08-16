@@ -6,7 +6,7 @@ templates:
       overlay: <<overlay_name>>
     collection_level: <<overlay_level>>
     mal_search:
-      adult: false
+      sfw : true
       type: movie
       limit: 10
       sort_by: score.desc
