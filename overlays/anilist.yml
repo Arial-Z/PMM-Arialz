@@ -7,7 +7,7 @@ templates:
     collection_level: <<overlay_level>>
     anilist_search:
       adult: false
-      format: tv, short, special, ova, ona
+      format: tv, ova, ona
       limit: 10
       sort_by: score
     overlay:
@@ -27,7 +27,7 @@ templates:
     collection_level: <<overlay_level>>
     anilist_search:
       adult: false
-      format: tv, short, special, ova, ona
+      format: tv, ova, ona
       limit: 50
       sort_by: score
     overlay:
@@ -47,7 +47,7 @@ templates:
     collection_level: <<overlay_level>>
     anilist_search:
       adult: false
-      format: tv, short, special, ova, ona
+      format: tv, ova, ona
       limit: 100
       sort_by: score
     overlay:
@@ -67,7 +67,7 @@ templates:
     collection_level: <<overlay_level>>
     anilist_search:
       adult: false
-      format: tv, short, special, ova, ona
+      format: tv, ova, ona
       limit: 250
       sort_by: score
     overlay:
@@ -87,7 +87,7 @@ templates:
     collection_level: <<overlay_level>>
     anilist_search:
       adult: false
-      format: tv, short, special, ova, ona
+      format: tv, ova, ona
       limit: 500
       sort_by: score
     overlay:
