@@ -15,7 +15,7 @@ templates:
     optional:
       - overlay_level
     default:
-      rating_type: critic_rating
+      rating_type: audience_rating
     collection_level: <<overlay_level>>
     overlay:
       name: text(<<rating_type>>)
@@ -44,14 +44,14 @@ overlays:
         weight: 100
     plex_search:
       all:
-        critic_rating.gte: 0.1
-        critic_rating.lte: 10
+        audience_rating.gte: 0.1
+        audience_rating.lte: 10
 
-  critic_rating:
+  audience_rating:
     template:
       name: Critic_Rating
       weight: 100
     plex_search:
       all:
-        critic_rating.gte: 0.1
-        critic_rating.lte: 10
+        audience_rating.gte: 0.1
+        audience_rating.lte: 10
