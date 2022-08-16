@@ -9,7 +9,7 @@ templates:
       sfw : true
       type: movie
       limit: 10
-      sort_by: score.desc
+      sort_by: rank.desc
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/MAL/<<overlay>>
