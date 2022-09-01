@@ -22,7 +22,7 @@ templates:
       queue: Rating_Queue_Text
       weight: <<weight>>
       font: fonts/Roboto-Bold.ttf
-      font_size: 85
+      font_size: 80
       font_color: "#FFFFFF"
 
 queues:
@@ -32,9 +32,9 @@ queues:
       vertical_offset: 10
       vertical_align: bottom
   Rating_Queue_Text:
-    - horizontal_offset: 238
+    - horizontal_offset: 230
       horizontal_align: left
-      vertical_offset: 42
+      vertical_offset: 38
       vertical_align: bottom
 
 overlays:
