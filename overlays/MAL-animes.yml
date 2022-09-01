@@ -134,7 +134,7 @@ overlays:
     suppress_overlays:
       - MAL-500
 
-  MAL-250:
+  MAL-500:
     template:
       - name: MAL-250
         weight: 10
