@@ -9,7 +9,7 @@ templates:
       sfw: true
       type: tv, ova, ona
       limit: 10
-      sort_by: rank.desc
+      sort_by: rank
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/MAL/<<overlay>>
@@ -29,7 +29,7 @@ templates:
       sfw: true
       type: tv, ova, ona
       limit: 50
-      sort_by: rank.desc
+      sort_by: rank.asc
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/MAL/<<overlay>>
@@ -49,7 +49,7 @@ templates:
       sfw: true
       type: tv, ova, ona
       limit: 100
-      sort_by: rank.desc
+      sort_by: rank.asc
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/MAL/<<overlay>>
@@ -69,7 +69,7 @@ templates:
       sfw: true
       type: tv, ova, ona
       limit: 250
-      sort_by: rank.desc
+      sort_by: rank.asc
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/MAL/<<overlay>>
@@ -89,7 +89,7 @@ templates:
       sfw: true
       type: tv, ova, ona
       limit: 500
-      sort_by: rank.desc
+      sort_by: rank.asc
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/MAL/<<overlay>>
