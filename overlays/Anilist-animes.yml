@@ -1,0 +1,140 @@
+templates:
+  Anilist-10:                                                               #Audience Rating Text (IMDB Rating)
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+    collection_level: <<overlay_level>>
+    anilist_search:
+      adult: false
+      format: tv, ova, ona
+      limit: 10
+      sort_by: score
+    overlay:
+      name: <<overlay_name>>
+      repo: /overlays/Images/Anilist/<<overlay>>
+      weight: <<weight>>
+      horizontal_offset: 0
+      horizontal_align: right
+      vertical_offset: 0
+      vertical_align: bottom
+
+  Anilist-50:                                                               #Audience Rating Text (IMDB Rating)
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+    collection_level: <<overlay_level>>
+    anilist_search:
+      adult: false
+      format: tv, ova, ona
+      limit: 50
+      sort_by: score
+    overlay:
+      name: <<overlay_name>>
+      repo: /overlays/Images/Anilist/<<overlay>>
+      weight: <<weight>>
+      horizontal_offset: 0
+      horizontal_align: right
+      vertical_offset: 0
+      vertical_align: bottom
+
+  Anilist-100:                                                               #Audience Rating Text (IMDB Rating)
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+    collection_level: <<overlay_level>>
+    anilist_search:
+      adult: false
+      format: tv, ova, ona
+      limit: 100
+      sort_by: score
+    overlay:
+      name: <<overlay_name>>
+      repo: /overlays/Images/Anilist/<<overlay>>
+      weight: <<weight>>
+      horizontal_offset: 0
+      horizontal_align: right
+      vertical_offset: 0
+      vertical_align: bottom  
+
+  Anilist-250:                                                               #Audience Rating Text (IMDB Rating)
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+    collection_level: <<overlay_level>>
+    anilist_search:
+      adult: false
+      format: tv, ova, ona
+      limit: 250
+      sort_by: score
+    overlay:
+      name: <<overlay_name>>
+      repo: /overlays/Images/Anilist/<<overlay>>
+      weight: <<weight>>
+      horizontal_offset: 0
+      horizontal_align: right
+      vertical_offset: 0
+      vertical_align: bottom
+
+  Anilist-500:                                                               #Audience Rating Text (IMDB Rating)
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+    collection_level: <<overlay_level>>
+    anilist_search:
+      adult: false
+      format: tv, ova, ona
+      limit: 500
+      sort_by: score
+    overlay:
+      name: <<overlay_name>>
+      repo: /overlays/Images/Anilist/<<overlay>>
+      weight: <<weight>>
+      horizontal_offset: 0
+      horizontal_align: right
+      vertical_offset: 0
+      vertical_align: bottom
+
+overlays:
+  Anilist-10:
+    template:
+      - name: Anilist-10
+        weight: 45
+    suppress_overlays:
+      - Anilist-50
+      - Anilist-100
+      - Anilist-250
+      - Anilist-500
+
+  Anilist-50:
+    template:
+      - name: Anilist-50
+        weight: 45
+    suppress_overlays:
+      - Anilist-100
+      - Anilist-250
+      - Anilist-500
+
+  Anilist-100:
+    template:
+      - name: Anilist-100
+        weight: 45
+    suppress_overlays:
+      - Anilist-250
+      - Anilist-500
+      
+  Anilist-250:
+    template:
+      - name: Anilist-250
+        weight: 45
+    suppress_overlays:
+      - Anilist-500
+
+  Anilist-500:
+    template:
+      - name: Anilist-500
+        weight: 45
