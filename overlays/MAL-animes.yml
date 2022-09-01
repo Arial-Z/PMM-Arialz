@@ -9,7 +9,7 @@ templates:
       sfw: true
       type: tv, ova, ona
       limit: 10
-      sort_by: rank
+      sort_by: rank.asc
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/MAL/<<overlay>>
