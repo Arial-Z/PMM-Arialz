@@ -6,10 +6,9 @@ templates:
       overlay: <<overlay_name>>
     collection_level: <<overlay_level>>
     mal_search:
-      sfw: true
       type: tv, ova, ona
       limit: 10
-      sort_by: rank.asc
+      sort_by: score.desc
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/MAL/<<overlay>>
@@ -26,10 +25,9 @@ templates:
       overlay: <<overlay_name>>
     collection_level: <<overlay_level>>
     mal_search:
-      sfw: true
       type: tv, ova, ona
       limit: 50
-      sort_by: rank.asc
+      sort_by: score.desc
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/MAL/<<overlay>>
@@ -46,10 +44,9 @@ templates:
       overlay: <<overlay_name>>
     collection_level: <<overlay_level>>
     mal_search:
-      sfw: true
       type: tv, ova, ona
       limit: 100
-      sort_by: rank.asc
+      sort_by: score.desc
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/MAL/<<overlay>>
@@ -66,10 +63,9 @@ templates:
       overlay: <<overlay_name>>
     collection_level: <<overlay_level>>
     mal_search:
-      sfw: true
       type: tv, ova, ona
       limit: 250
-      sort_by: rank.asc
+      sort_by: score.desc
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/MAL/<<overlay>>
@@ -86,10 +82,9 @@ templates:
       overlay: <<overlay_name>>
     collection_level: <<overlay_level>>
     mal_search:
-      sfw: true
       type: tv, ova, ona
       limit: 500
-      sort_by: rank.asc
+      sort_by: score.desc
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/MAL/<<overlay>>
