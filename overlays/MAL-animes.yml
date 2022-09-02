@@ -5,11 +5,10 @@ templates:
     default:
       overlay: <<overlay_name>>
     collection_level: <<overlay_level>>
-      mal_search:
-        sfw: true
-        type: tv, ova, ona
-        limit: 10
-        sort_by: rank.asc
+    mal_search:
+      type: tv, ova, ona
+      limit: 10
+      sort_by: score.desc
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/MAL/<<overlay>>
@@ -25,11 +24,10 @@ templates:
     default:
       overlay: <<overlay_name>>
     collection_level: <<overlay_level>>
-      mal_search:
-        sfw: true
-        type: tv, ova, ona
-        limit: 50
-        sort_by: rank.asc
+    mal_search:
+      type: tv, ova, ona
+      limit: 50
+      sort_by: score.desc
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/MAL/<<overlay>>
@@ -45,11 +43,10 @@ templates:
     default:
       overlay: <<overlay_name>>
     collection_level: <<overlay_level>>
-      mal_search:
-        sfw: true
-        type: tv, ova, ona
-        limit: 100
-        sort_by: rank.asc
+    mal_search:
+      type: tv, ova, ona
+      limit: 100
+      sort_by: score.desc
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/MAL/<<overlay>>
@@ -65,11 +62,10 @@ templates:
     default:
       overlay: <<overlay_name>>
     collection_level: <<overlay_level>>
-      mal_search:
-        sfw: true
-        type: tv, ova, ona
-        limit: 250
-        sort_by: rank.asc
+    mal_search:
+      type: tv, ova, ona
+      limit: 250
+      sort_by: score.desc
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/MAL/<<overlay>>
@@ -85,11 +81,10 @@ templates:
     default:
       overlay: <<overlay_name>>
     collection_level: <<overlay_level>>
-      mal_search:
-        sfw: true
-        type: tv, ova, ona
-        limit: 500
-        sort_by: rank.asc
+    mal_search:
+      type: tv, ova, ona
+      limit: 500
+      sort_by: score.desc
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/MAL/<<overlay>>
@@ -97,8 +92,8 @@ templates:
       horizontal_offset: 0
       horizontal_align: right
       vertical_offset: 0
-      vertical_align: bottom     
-      
+      vertical_align: bottom
+
 overlays:
   MAL-10:
     template:
@@ -118,7 +113,7 @@ overlays:
       - MAL-100
       - MAL-250
       - MAL-500
-        
+
   MAL-100:
     template:
       - name: MAL-100
@@ -126,7 +121,7 @@ overlays:
     suppress_overlays:
       - MAL-250
       - MAL-500
-        
+
   MAL-250:
     template:
       - name: MAL-250
