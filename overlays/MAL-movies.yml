@@ -7,7 +7,7 @@ templates:
     collection_level: <<overlay_level>>
     plex_search:
       all:
-        label: "AM-100"
+        label: AM-100
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/MAL/<<overlay>>
