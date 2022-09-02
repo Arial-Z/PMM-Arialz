@@ -1,403 +1,470 @@
 metadata:
-  "Akira":
-    alt_title: "Akira"
-    sort_title: "Akira"
-    audience_rating: 8.16
-    genre.sync: anime,Action,Adventure,Horror,Sci-Fi,Supernatural,Gore,Military,Seinen
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/47.jpg
-  "Ao no Exorcist Movie":
-    alt_title: "Ao no Exorcist Movie"
-    sort_title: "Ao no Exorcist Movie"
-    audience_rating: 7.59
-    genre.sync: anime,Action,Fantasy,Mythology,School,Shounen
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/11737.jpg
-  "Bakemono no Ko":
-    alt_title: "Bakemono no Ko"
-    sort_title: "Bakemono no Ko"
-    audience_rating: 8.27
-    genre.sync: anime,Adventure,Supernatural,Anthropomorphic,Isekai
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/28805.jpg
-  "Boku no Hero Academia the Movie 1: Futari no Hero":
-    alt_title: "Boku no Hero Academia the Movie 1: Futari no Hero"
-    sort_title: "Boku no Hero Academia the Movie 1: Futari no Hero"
-    audience_rating: 7.58
-    genre.sync: anime,Action,Super Power,Shounen
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/36896.jpg
-  "Boku no Hero Academia the Movie 2: Heroes:Rising":
-    alt_title: "Boku no Hero Academia the Movie 2: Heroes:Rising"
-    sort_title: "Boku no Hero Academia the Movie 2: Heroes:Rising"
-    audience_rating: 8.01
-    genre.sync: anime,Action,Super Power,Shounen
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/39565.jpg
-  "Boku no Hero Academia the Movie 3: World Heroes' Mission":
-    alt_title: "Boku no Hero Academia the Movie 3: World Heroes' Mission"
-    sort_title: "Boku no Hero Academia the Movie 3: World Heroes' Mission"
-    audience_rating: 7.57
-    genre.sync: anime,Action,Super Power,Shounen
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/44200.jpg
   "Bubble":
     alt_title: "Bubble"
     sort_title: "Bubble"
     audience_rating: 7.3
     genre.sync: anime,Sci-Fi
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/50549.jpg
-  "Byousoku 5 Centimeter":
-    alt_title: "Byousoku 5 Centimeter"
-    sort_title: "Byousoku 5 Centimeter"
-    audience_rating: 7.59
-    genre.sync: anime,Drama,Romance,Slice of Life
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/1689.jpg
-  "Chuunibyou demo Koi ga Shitai! Movie: Take On Me":
-    alt_title: "Chuunibyou demo Koi ga Shitai! Movie: Take On Me"
-    sort_title: "Chuunibyou demo Koi ga Shitai! Movie: Take On Me"
-    audience_rating: 8.12
-    genre.sync: anime,Comedy,Drama,Romance,Slice of Life,School
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/35608.jpg
-  "Code Geass: Fukkatsu no Lelouch":
-    alt_title: "Code Geass: Fukkatsu no Lelouch"
-    sort_title: "Code Geass: Fukkatsu no Lelouch"
-    audience_rating: 7.92
-    genre.sync: anime,Action,Drama,Sci-Fi,Mecha,Military,Super Power
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34437.jpg
-  "Code Geass: Hangyaku no Lelouch I - Koudou":
-    alt_title: "Code Geass: Hangyaku no Lelouch I - Koudou"
-    sort_title: "Code Geass: Hangyaku no Lelouch I - Koudou"
-    audience_rating: 7.89
-    genre.sync: anime,Action,Sci-Fi,Mecha,Military,School,Super Power
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34438.jpg
+#   mal_id: 50549
   "Code Geass: Hangyaku no Lelouch II - Handou":
     alt_title: "Code Geass: Hangyaku no Lelouch II - Handou"
     sort_title: "Code Geass: Hangyaku no Lelouch II - Handou"
     audience_rating: 7.65
     genre.sync: anime,Action,Sci-Fi,Mecha,Military,School,Super Power
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34439.jpg
+#   mal_id: 34439
   "Code Geass: Hangyaku no Lelouch III - Oudou":
     alt_title: "Code Geass: Hangyaku no Lelouch III - Oudou"
     sort_title: "Code Geass: Hangyaku no Lelouch III - Oudou"
     audience_rating: 7.99
     genre.sync: anime,Action,Sci-Fi,Mecha,Military,School,Super Power
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34440.jpg
-  "Evangelion: 1.0 You Are (Not) Alone":
-    alt_title: "Evangelion: 1.0 You Are (Not) Alone"
-    sort_title: "Evangelion: 1.0 You Are (Not) Alone"
-    audience_rating: 8.01
-    genre.sync: anime,Action,Drama,Sci-Fi,Mecha,Psychological
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/2759.jpg
-  "Evangelion: 2.0 You Can (Not) Advance":
-    alt_title: "Evangelion: 2.0 You Can (Not) Advance"
-    sort_title: "Evangelion: 2.0 You Can (Not) Advance"
-    audience_rating: 8.32
-    genre.sync: anime,Action,Drama,Sci-Fi,Mecha,Psychological
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/3784.jpg
-  "Evangelion: 3.0 You Can (Not) Redo":
-    alt_title: "Evangelion: 3.0 You Can (Not) Redo"
-    sort_title: "Evangelion: 3.0 You Can (Not) Redo"
-    audience_rating: 7.63
-    genre.sync: anime,Action,Drama,Sci-Fi,Mecha,Psychological
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/3785.jpg
-  "Evangelion: 3.0+1.0 Thrice Upon a Time":
-    alt_title: "Evangelion: 3.0+1.0 Thrice Upon a Time"
-    sort_title: "Evangelion: 3.0+1.0 Thrice Upon a Time"
-    audience_rating: 8.63
-    genre.sync: anime,Action,Drama,Sci-Fi,Mecha,Psychological
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/3786.jpg
-  "Eve no Jikan (Movie)":
-    alt_title: "Eve no Jikan (Movie)"
-    sort_title: "Eve no Jikan (Movie)"
-    audience_rating: 8
-    genre.sync: anime,Sci-Fi,Slice of Life
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/7465.jpg
-  "Ghost in the Shell":
-    alt_title: "Ghost in the Shell"
-    sort_title: "Ghost in the Shell"
-    audience_rating: 8.28
-    genre.sync: anime,Action,Sci-Fi,Adult Cast,Detective,Mecha,Psychological,Seinen
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/43.jpg
-  "Ghost in the Shell 2 : Innocence":
-    alt_title: "Ghost in the Shell 2 : Innocence"
-    sort_title: "Ghost in the Shell 2 : Innocence"
-    audience_rating: 7.79
-    genre.sync: anime,Sci-Fi,Adult Cast,Detective,Mecha,Military,Psychological
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/468.jpg
-  "Ghost in the Shell 2.0":
-    alt_title: "Ghost in the Shell 2.0"
-    sort_title: "Ghost in the Shell 2.0"
-    audience_rating: 7.99
-    genre.sync: anime,Action,Sci-Fi,Adult Cast,Detective,Mecha,Psychological,Seinen
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/4672.jpg
-  "Josee to Tora to Sakana-tachi":
-    alt_title: "Josee to Tora to Sakana-tachi"
-    sort_title: "Josee to Tora to Sakana-tachi"
-    audience_rating: 8.44
-    genre.sync: anime,Drama,Romance,Slice of Life,Visual Arts
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/40787.jpg
-  "Kara no Kyoukai Movie 1: Fukan Fuukei":
-    alt_title: "Kara no Kyoukai Movie 1: Fukan Fuukei"
-    sort_title: "Kara no Kyoukai Movie 1: Fukan Fuukei"
-    audience_rating: 7.59
-    genre.sync: anime,Action,Mystery,Supernatural,Suspense
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/2593.jpg
-  "Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen)":
-    alt_title: "Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen)"
-    sort_title: "Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen)"
-    audience_rating: 7.79
-    genre.sync: anime,Action,Mystery,Romance,Supernatural,Suspense
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/3782.jpg
-  "Kara no Kyoukai Movie 3: Tsuukaku Zanryuu":
-    alt_title: "Kara no Kyoukai Movie 3: Tsuukaku Zanryuu"
-    sort_title: "Kara no Kyoukai Movie 3: Tsuukaku Zanryuu"
-    audience_rating: 8.04
-    genre.sync: anime,Action,Drama,Mystery,Supernatural,Suspense
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/3783.jpg
-  "Kara no Kyoukai Movie 4: Garan no Dou":
-    alt_title: "Kara no Kyoukai Movie 4: Garan no Dou"
-    sort_title: "Kara no Kyoukai Movie 4: Garan no Dou"
-    audience_rating: 7.84
-    genre.sync: anime,Action,Mystery,Supernatural,Suspense
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/4280.jpg
-  "Kara no Kyoukai Movie 5: Mujun Rasen":
-    alt_title: "Kara no Kyoukai Movie 5: Mujun Rasen"
-    sort_title: "Kara no Kyoukai Movie 5: Mujun Rasen"
-    audience_rating: 8.54
-    genre.sync: anime,Action,Drama,Mystery,Romance,Supernatural,Suspense
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/4282.jpg
-  "Kara no Kyoukai Movie 6: Boukyaku Rokuon":
-    alt_title: "Kara no Kyoukai Movie 6: Boukyaku Rokuon"
-    sort_title: "Kara no Kyoukai Movie 6: Boukyaku Rokuon"
-    audience_rating: 7.47
-    genre.sync: anime,Action,Mystery,Romance,Supernatural,Suspense
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/5204.jpg
-  "Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go)":
-    alt_title: "Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go)"
-    sort_title: "Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go)"
-    audience_rating: 8.41
-    genre.sync: anime,Action,Mystery,Romance,Supernatural,Suspense
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/5205.jpg
-  "Kara no Kyoukai Movie 8: Shuushou":
-    alt_title: "Kara no Kyoukai Movie 8: Shuushou"
-    sort_title: "Kara no Kyoukai Movie 8: Shuushou"
-    audience_rating: 7.21
-    genre.sync: anime,Mystery
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/6954.jpg
+#   mal_id: 34440
+  "Code Geass: Hangyaku no Lelouch I - Koudou":
+    alt_title: "Code Geass: Hangyaku no Lelouch I - Koudou"
+    sort_title: "Code Geass: Hangyaku no Lelouch I - Koudou"
+    audience_rating: 7.89
+    genre.sync: anime,Action,Sci-Fi,Mecha,Military,School,Super Power
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34438.jpg
+#   mal_id: 34438
   "Kara no Kyoukai Remix: Gate of Seventh Heaven":
     alt_title: "Kara no Kyoukai Remix: Gate of Seventh Heaven"
     sort_title: "Kara no Kyoukai Remix: Gate of Seventh Heaven"
     audience_rating: 7.56
     genre.sync: anime,Action,Mystery,Romance,Suspense,Super Power
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/6624.jpg
-  "Karigurashi no Arrietty":
-    alt_title: "Karigurashi no Arrietty"
-    sort_title: "Karigurashi no Arrietty"
-    audience_rating: 7.89
-    genre.sync: anime,Fantasy
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/7711.jpg
+#   mal_id: 6624
+  "Kara no Kyoukai Movie 1: Fukan Fuukei":
+    alt_title: "Kara no Kyoukai Movie 1: Fukan Fuukei"
+    sort_title: "Kara no Kyoukai Movie 1: Fukan Fuukei"
+    audience_rating: 7.59
+    genre.sync: anime,Action,Mystery,Supernatural,Suspense
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/2593.jpg
+#   mal_id: 2593
+  "Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen)":
+    alt_title: "Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen)"
+    sort_title: "Kara no Kyoukai Movie 2: Satsujin Kousatsu (Zen)"
+    audience_rating: 7.79
+    genre.sync: anime,Action,Mystery,Romance,Supernatural,Suspense
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/3782.jpg
+#   mal_id: 3782
+  "Kara no Kyoukai Movie 3: Tsuukaku Zanryuu":
+    alt_title: "Kara no Kyoukai Movie 3: Tsuukaku Zanryuu"
+    sort_title: "Kara no Kyoukai Movie 3: Tsuukaku Zanryuu"
+    audience_rating: 8.04
+    genre.sync: anime,Action,Drama,Mystery,Supernatural,Suspense
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/3783.jpg
+#   mal_id: 3783
+  "Kara no Kyoukai Movie 4: Garan no Dou":
+    alt_title: "Kara no Kyoukai Movie 4: Garan no Dou"
+    sort_title: "Kara no Kyoukai Movie 4: Garan no Dou"
+    audience_rating: 7.84
+    genre.sync: anime,Action,Mystery,Supernatural,Suspense
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/4280.jpg
+#   mal_id: 4280
+  "Kara no Kyoukai Movie 5: Mujun Rasen":
+    alt_title: "Kara no Kyoukai Movie 5: Mujun Rasen"
+    sort_title: "Kara no Kyoukai Movie 5: Mujun Rasen"
+    audience_rating: 8.54
+    genre.sync: anime,Action,Drama,Mystery,Romance,Supernatural,Suspense
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/4282.jpg
+#   mal_id: 4282
+  "Kara no Kyoukai Movie 6: Boukyaku Rokuon":
+    alt_title: "Kara no Kyoukai Movie 6: Boukyaku Rokuon"
+    sort_title: "Kara no Kyoukai Movie 6: Boukyaku Rokuon"
+    audience_rating: 7.47
+    genre.sync: anime,Action,Mystery,Romance,Supernatural,Suspense
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/5204.jpg
+#   mal_id: 5204
+  "Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go)":
+    alt_title: "Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go)"
+    sort_title: "Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go)"
+    audience_rating: 8.41
+    genre.sync: anime,Action,Mystery,Romance,Supernatural,Suspense
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/5205.jpg
+#   mal_id: 5205
+  "Kara no Kyoukai Movie 8: Shuushou":
+    alt_title: "Kara no Kyoukai Movie 8: Shuushou"
+    sort_title: "Kara no Kyoukai Movie 8: Shuushou"
+    audience_rating: 7.21
+    genre.sync: anime,Mystery
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/6954.jpg
+#   mal_id: 6954
   "Kimetsu no Yaiba Movie: Mugen Ressha-hen":
     alt_title: "Kimetsu no Yaiba Movie: Mugen Ressha-hen"
     sort_title: "Kimetsu no Yaiba Movie: Mugen Ressha-hen"
     audience_rating: 8.65
     genre.sync: anime,Action,Fantasy,Historical,Shounen
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/40456.jpg
-  "Kimi no Na wa.":
-    alt_title: "Kimi no Na wa."
-    sort_title: "Kimi no Na wa."
-    audience_rating: 8.86
-    genre.sync: anime,Drama,Supernatural,Romantic Subtext
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/32281.jpg
-  "Kimi no Suizou wo Tabetai":
-    alt_title: "Kimi no Suizou wo Tabetai"
-    sort_title: "Kimi no Suizou wo Tabetai"
-    audience_rating: 8.56
-    genre.sync: anime,Drama,Romance,Slice of Life
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/36098.jpg
-  "Koe no Katachi":
-    alt_title: "Koe no Katachi"
-    sort_title: "Koe no Katachi"
-    audience_rating: 8.95
-    genre.sync: anime,Drama,Romantic Subtext,Shounen
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/28851.jpg
-  "Kokoro ga Sakebitagatterunda.":
-    alt_title: "Kokoro ga Sakebitagatterunda."
-    sort_title: "Kokoro ga Sakebitagatterunda."
-    audience_rating: 7.85
-    genre.sync: anime,Drama,Romance,Performing Arts,School
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/28725.jpg
-  "Kono Sekai no Katasumi ni":
-    alt_title: "Kono Sekai no Katasumi ni"
-    sort_title: "Kono Sekai no Katasumi ni"
-    audience_rating: 8.22
-    genre.sync: anime,Drama,Historical,Seinen
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/15227.jpg
-  "Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu":
-    alt_title: "Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu"
-    sort_title: "Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu"
-    audience_rating: 8.46
-    genre.sync: anime,Adventure,Comedy,Fantasy,Isekai,Parody,Reincarnation
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/38040.jpg
-  "Kotonoha no Niwa":
-    alt_title: "Kotonoha no Niwa"
-    sort_title: "Kotonoha no Niwa"
-    audience_rating: 7.91
-    genre.sync: anime,Drama,Romance,Slice of Life,Visual Arts
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/16782.jpg
+#   mal_id: 40456
   "Koutetsujou no Kabaneri Movie 3: Unato Kessen":
     alt_title: "Koutetsujou no Kabaneri Movie 3: Unato Kessen"
     sort_title: "Koutetsujou no Kabaneri Movie 3: Unato Kessen"
     audience_rating: 7.7
     genre.sync: anime,Action,Drama,Fantasy,Horror,Supernatural
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34544.jpg
+#   mal_id: 34544
   "Made in Abyss Movie 1: Tabidachi no Yoake":
     alt_title: "Made in Abyss Movie 1: Tabidachi no Yoake"
     sort_title: "Made in Abyss Movie 1: Tabidachi no Yoake"
     audience_rating: 8.14
     genre.sync: anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37514.jpg
+#   mal_id: 37514
   "Made in Abyss Movie 2: Hourou Suru Tasogare":
     alt_title: "Made in Abyss Movie 2: Hourou Suru Tasogare"
     sort_title: "Made in Abyss Movie 2: Hourou Suru Tasogare"
     audience_rating: 8.36
     genre.sync: anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37515.jpg
-  "Made in Abyss Movie 3: Fukaki Tamashii no Reimei":
-    alt_title: "Made in Abyss Movie 3: Fukaki Tamashii no Reimei"
-    sort_title: "Made in Abyss Movie 3: Fukaki Tamashii no Reimei"
-    audience_rating: 8.65
-    genre.sync: anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/36862.jpg
-  "Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo":
-    alt_title: "Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo"
-    sort_title: "Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo"
-    audience_rating: 7.46
-    genre.sync: anime,Action,Sci-Fi,Supernatural
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/32900.jpg
+#   mal_id: 37515
   "Mahouka Koukou no Rettousei: Tsuioku-hen":
     alt_title: "Mahouka Koukou no Rettousei: Tsuioku-hen"
     sort_title: "Mahouka Koukou no Rettousei: Tsuioku-hen"
     audience_rating: 7.72
     genre.sync: anime,Sci-Fi,Supernatural
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/48375.jpg
-  "Mirai no Mirai":
-    alt_title: "Mirai no Mirai"
-    sort_title: "Mirai no Mirai"
-    audience_rating: 7.29
-    genre.sync: anime,Adventure,Drama,Fantasy,Time Travel
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/36936.jpg
-  "Mobile Suit Gundam 00 The Movie: A Wakening of the Trailblazer":
-    alt_title: "Mobile Suit Gundam 00 The Movie: A Wakening of the Trailblazer"
-    sort_title: "Mobile Suit Gundam 00 The Movie: A Wakening of the Trailblazer"
-    audience_rating: 7.3
-    genre.sync: anime,Action,Sci-Fi,Mecha,Space
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/6288.jpg
-  "Mobile Suit Gundam Thunderbolt: Bandit Flower":
-    alt_title: "Mobile Suit Gundam Thunderbolt: Bandit Flower"
-    sort_title: "Mobile Suit Gundam Thunderbolt: Bandit Flower"
-    audience_rating: 7.27
-    genre.sync: anime,Action,Drama,Sci-Fi,Mecha,Military,Space
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/35949.jpg
-  "Mobile Suit Gundam Thunderbolt: December Sky":
-    alt_title: "Mobile Suit Gundam Thunderbolt: December Sky"
-    sort_title: "Mobile Suit Gundam Thunderbolt: December Sky"
-    audience_rating: 7.94
-    genre.sync: anime,Action,Drama,Sci-Fi,Mecha,Military,Space
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/33221.jpg
+#   mal_id: 48375
   "Mobile Suit Gundam: Hathaway's Flash":
     alt_title: "Mobile Suit Gundam: Hathaway's Flash"
     sort_title: "Mobile Suit Gundam: Hathaway's Flash"
     audience_rating: 7.85
     genre.sync: anime,Action,Drama,Sci-Fi,Mecha,Military,Space
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37765.jpg
-  "Ookami Kodomo no Ame to Yuki":
-    alt_title: "Ookami Kodomo no Ame to Yuki"
-    sort_title: "Ookami Kodomo no Ame to Yuki"
-    audience_rating: 8.59
-    genre.sync: anime,Fantasy,Slice of Life,Childcare
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/12355.jpg
+#   mal_id: 37765
+  "Mobile Suit Gundam Thunderbolt: Bandit Flower":
+    alt_title: "Mobile Suit Gundam Thunderbolt: Bandit Flower"
+    sort_title: "Mobile Suit Gundam Thunderbolt: Bandit Flower"
+    audience_rating: 7.27
+    genre.sync: anime,Action,Drama,Sci-Fi,Mecha,Military,Space
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/35949.jpg
+#   mal_id: 35949
+  "Boku no Hero Academia the Movie 2: Heroes:Rising":
+    alt_title: "Boku no Hero Academia the Movie 2: Heroes:Rising"
+    sort_title: "Boku no Hero Academia the Movie 2: Heroes:Rising"
+    audience_rating: 8.01
+    genre.sync: anime,Action,Super Power,Shounen
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/39565.jpg
+#   mal_id: 39565
   "Ryuu to Sobakasu no Hime":
     alt_title: "Ryuu to Sobakasu no Hime"
     sort_title: "Ryuu to Sobakasu no Hime"
     audience_rating: 7.57
     genre.sync: anime,Drama,Fantasy,Music
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/44807.jpg
-  "Sakasama no Patema":
-    alt_title: "Sakasama no Patema"
-    sort_title: "Sakasama no Patema"
-    audience_rating: 7.98
-    genre.sync: anime,Adventure,Sci-Fi
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/12477.jpg
-  "Sayonara no Asa ni Yakusoku no Hana wo Kazarou":
-    alt_title: "Sayonara no Asa ni Yakusoku no Hana wo Kazarou"
-    sort_title: "Sayonara no Asa ni Yakusoku no Hana wo Kazarou"
-    audience_rating: 8.41
-    genre.sync: anime,Drama,Fantasy
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/35851.jpg
+#   mal_id: 44807
   "Seitokai Yakuindomo Movie":
     alt_title: "Seitokai Yakuindomo Movie"
     sort_title: "Seitokai Yakuindomo Movie"
     audience_rating: 7.84
     genre.sync: anime,Comedy,Gag Humor,School,Shounen
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34504.jpg
+#   mal_id: 34504
   "Seitokai Yakuindomo Movie 2":
     alt_title: "Seitokai Yakuindomo Movie 2"
     sort_title: "Seitokai Yakuindomo Movie 2"
     audience_rating: 7.79
     genre.sync: anime,Comedy,Gag Humor,School,Shounen
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/40814.jpg
-  "Shirobako Movie":
-    alt_title: "Shirobako Movie"
-    sort_title: "Shirobako Movie"
-    audience_rating: 7.69
-    genre.sync: anime,Comedy,Drama,Adult Cast,Otaku Culture,Workplace
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37804.jpg
+#   mal_id: 40814
   "Sidonia no Kishi: Ai Tsumugu Hoshi":
     alt_title: "Sidonia no Kishi: Ai Tsumugu Hoshi"
     sort_title: "Sidonia no Kishi: Ai Tsumugu Hoshi"
     audience_rating: 7.44
     genre.sync: anime,Action,Sci-Fi,Mecha,Space,Seinen
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/35759.jpg
-  "Stranger: Mukou Hadan":
-    alt_title: "Stranger: Mukou Hadan"
-    sort_title: "Stranger: Mukou Hadan"
-    audience_rating: 8.27
-    genre.sync: anime,Action,Adventure,Historical,Samurai
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/2418.jpg
-  "Summer Wars":
-    alt_title: "Summer Wars"
-    sort_title: "Summer Wars"
-    audience_rating: 8.04
-    genre.sync: anime,Comedy,Sci-Fi
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/5681.jpg
-  "Sword Art Online Movie: Ordinal Scale":
-    alt_title: "Sword Art Online Movie: Ordinal Scale"
-    sort_title: "Sword Art Online Movie: Ordinal Scale"
-    audience_rating: 7.57
-    genre.sync: anime,Action,Adventure,Fantasy,Video Game
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/31765.jpg
+#   mal_id: 35759
   "Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria":
     alt_title: "Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria"
     sort_title: "Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria"
     audience_rating: 8.02
     genre.sync: anime,Action,Adventure,Fantasy,Video Game
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/42916.jpg
-  "Tenki no Ko":
-    alt_title: "Tenki no Ko"
-    sort_title: "Tenki no Ko"
-    audience_rating: 8.31
-    genre.sync: anime,Drama,Fantasy,Romance,Slice of Life
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/38826.jpg
-  "Toki wo Kakeru Shoujo":
-    alt_title: "Toki wo Kakeru Shoujo"
-    sort_title: "Toki wo Kakeru Shoujo"
-    audience_rating: 8.13
-    genre.sync: anime,Drama,Romance,Sci-Fi,School,Time Travel
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/2236.jpg
-  "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou":
-    alt_title: "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou"
-    sort_title: "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou"
-    audience_rating: 8.41
-    genre.sync: anime,Drama,Fantasy,Slice of Life
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/39741.jpg
+#   mal_id: 42916
   "Violet Evergarden Movie":
     alt_title: "Violet Evergarden Movie"
     sort_title: "Violet Evergarden Movie"
     audience_rating: 8.93
     genre.sync: anime,Drama,Fantasy,Slice of Life
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37987.jpg
+#   mal_id: 37987
+  "Ghost in the Shell":
+    alt_title: "Ghost in the Shell"
+    sort_title: "Ghost in the Shell"
+    audience_rating: 8.28
+    genre.sync: anime,Action,Sci-Fi,Adult Cast,Detective,Mecha,Psychological,Seinen
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/43.jpg
+#   mal_id: 43
+  "Ghost in the Shell 2 : Innocence":
+    alt_title: "Ghost in the Shell 2 : Innocence"
+    sort_title: "Ghost in the Shell 2 : Innocence"
+    audience_rating: 7.79
+    genre.sync: anime,Sci-Fi,Adult Cast,Detective,Mecha,Military,Psychological
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/468.jpg
+#   mal_id: 468
+  "Ghost in the Shell 2.0":
+    alt_title: "Ghost in the Shell 2.0"
+    sort_title: "Ghost in the Shell 2.0"
+    audience_rating: 7.99
+    genre.sync: anime,Action,Sci-Fi,Adult Cast,Detective,Mecha,Psychological,Seinen
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/4672.jpg
+#   mal_id: 4672
+  "Kimi no Suizou wo Tabetai":
+    alt_title: "Kimi no Suizou wo Tabetai"
+    sort_title: "Kimi no Suizou wo Tabetai"
+    audience_rating: 8.56
+    genre.sync: anime,Drama,Romance,Slice of Life
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/36098.jpg
+#   mal_id: 36098
+  "Digimon Adventure Movie":
+    alt_title: "Digimon, le film"
+    sort_title: "Digimon Adventure Movie"
+    audience_rating: 7.58
+    genre.sync: anime,Action,Fantasy,Sci-Fi,Kids
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/2961.jpg
+#   mal_id: 2961
+  "Ao no Exorcist Movie":
+    alt_title: "Ao no Exorcist Movie"
+    sort_title: "Ao no Exorcist Movie"
+    audience_rating: 7.59
+    genre.sync: anime,Action,Fantasy,Mythology,School,Shounen
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/11737.jpg
+#   mal_id: 11737
+  "Bakemono no Ko":
+    alt_title: "Bakemono no Ko"
+    sort_title: "Bakemono no Ko"
+    audience_rating: 8.27
+    genre.sync: anime,Adventure,Supernatural,Anthropomorphic,Isekai
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/28805.jpg
+#   mal_id: 28805
+  "Boku no Hero Academia the Movie 1: Futari no Hero":
+    alt_title: "Boku no Hero Academia the Movie 1: Futari no Hero"
+    sort_title: "Boku no Hero Academia the Movie 1: Futari no Hero"
+    audience_rating: 7.58
+    genre.sync: anime,Action,Super Power,Shounen
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/36896.jpg
+#   mal_id: 36896
+  "Boku no Hero Academia the Movie 3: World Heroes' Mission":
+    alt_title: "Boku no Hero Academia the Movie 3: World Heroes' Mission"
+    sort_title: "Boku no Hero Academia the Movie 3: World Heroes' Mission"
+    audience_rating: 7.57
+    genre.sync: anime,Action,Super Power,Shounen
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/44200.jpg
+#   mal_id: 44200
+  "Byousoku 5 Centimeter":
+    alt_title: "Byousoku 5 Centimeter"
+    sort_title: "Byousoku 5 Centimeter"
+    audience_rating: 7.59
+    genre.sync: anime,Drama,Romance,Slice of Life
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/1689.jpg
+#   mal_id: 1689
+  "Chuunibyou demo Koi ga Shitai! Movie: Take On Me":
+    alt_title: "Chuunibyou demo Koi ga Shitai! Movie: Take On Me"
+    sort_title: "Chuunibyou demo Koi ga Shitai! Movie: Take On Me"
+    audience_rating: 8.12
+    genre.sync: anime,Comedy,Drama,Romance,Slice of Life,School
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/35608.jpg
+#   mal_id: 35608
+  "Code Geass: Fukkatsu no Lelouch":
+    alt_title: "Code Geass: Fukkatsu no Lelouch"
+    sort_title: "Code Geass: Fukkatsu no Lelouch"
+    audience_rating: 7.92
+    genre.sync: anime,Action,Drama,Sci-Fi,Mecha,Military,Super Power
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34437.jpg
+#   mal_id: 34437
+  "Evangelion: 1.0 You Are (Not) Alone":
+    alt_title: "Evangelion: 1.0 You Are (Not) Alone"
+    sort_title: "Evangelion: 1.0 You Are (Not) Alone"
+    audience_rating: 8.01
+    genre.sync: anime,Action,Drama,Sci-Fi,Mecha,Psychological
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/2759.jpg
+#   mal_id: 2759
+  "Evangelion: 2.0 You Can (Not) Advance":
+    alt_title: "Evangelion: 2.0 You Can (Not) Advance"
+    sort_title: "Evangelion: 2.0 You Can (Not) Advance"
+    audience_rating: 8.32
+    genre.sync: anime,Action,Drama,Sci-Fi,Mecha,Psychological
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/3784.jpg
+#   mal_id: 3784
+  "Evangelion: 3.0 You Can (Not) Redo":
+    alt_title: "Evangelion: 3.0 You Can (Not) Redo"
+    sort_title: "Evangelion: 3.0 You Can (Not) Redo"
+    audience_rating: 7.63
+    genre.sync: anime,Action,Drama,Sci-Fi,Mecha,Psychological
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/3785.jpg
+#   mal_id: 3785
+  "Evangelion: 3.0+1.0 Thrice Upon a Time":
+    alt_title: "Evangelion: 3.0+1.0 Thrice Upon a Time"
+    sort_title: "Evangelion: 3.0+1.0 Thrice Upon a Time"
+    audience_rating: 8.63
+    genre.sync: anime,Action,Drama,Sci-Fi,Mecha,Psychological
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/3786.jpg
+#   mal_id: 3786
+  "Eve no Jikan (Movie)":
+    alt_title: "Eve no Jikan (Movie)"
+    sort_title: "Eve no Jikan (Movie)"
+    audience_rating: 8
+    genre.sync: anime,Sci-Fi,Slice of Life
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/7465.jpg
+#   mal_id: 7465
+  "Josee to Tora to Sakana-tachi":
+    alt_title: "Josee to Tora to Sakana-tachi"
+    sort_title: "Josee to Tora to Sakana-tachi"
+    audience_rating: 8.44
+    genre.sync: anime,Drama,Romance,Slice of Life,Visual Arts
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/40787.jpg
+#   mal_id: 40787
+  "Karigurashi no Arrietty":
+    alt_title: "Karigurashi no Arrietty"
+    sort_title: "Karigurashi no Arrietty"
+    audience_rating: 7.89
+    genre.sync: anime,Fantasy
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/7711.jpg
+#   mal_id: 7711
+  "Kimi no Na wa.":
+    alt_title: "Kimi no Na wa."
+    sort_title: "Kimi no Na wa."
+    audience_rating: 8.86
+    genre.sync: anime,Drama,Supernatural,Romantic Subtext
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/32281.jpg
+#   mal_id: 32281
+  "Koe no Katachi":
+    alt_title: "Koe no Katachi"
+    sort_title: "Koe no Katachi"
+    audience_rating: 8.95
+    genre.sync: anime,Drama,Romantic Subtext,Shounen
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/28851.jpg
+#   mal_id: 28851
+  "Kokoro ga Sakebitagatterunda.":
+    alt_title: "Kokoro ga Sakebitagatterunda."
+    sort_title: "Kokoro ga Sakebitagatterunda."
+    audience_rating: 7.85
+    genre.sync: anime,Drama,Romance,Performing Arts,School
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/28725.jpg
+#   mal_id: 28725
+  "Kono Sekai no Katasumi ni":
+    alt_title: "Kono Sekai no Katasumi ni"
+    sort_title: "Kono Sekai no Katasumi ni"
+    audience_rating: 8.22
+    genre.sync: anime,Drama,Historical,Seinen
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/15227.jpg
+#   mal_id: 15227
+  "Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu":
+    alt_title: "Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu"
+    sort_title: "Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu"
+    audience_rating: 8.46
+    genre.sync: anime,Adventure,Comedy,Fantasy,Isekai,Parody,Reincarnation
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/38040.jpg
+#   mal_id: 38040
+  "Kotonoha no Niwa":
+    alt_title: "Kotonoha no Niwa"
+    sort_title: "Kotonoha no Niwa"
+    audience_rating: 7.91
+    genre.sync: anime,Drama,Romance,Slice of Life,Visual Arts
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/16782.jpg
+#   mal_id: 16782
+  "Made in Abyss Movie 3: Fukaki Tamashii no Reimei":
+    alt_title: "Made in Abyss Movie 3: Fukaki Tamashii no Reimei"
+    sort_title: "Made in Abyss Movie 3: Fukaki Tamashii no Reimei"
+    audience_rating: 8.65
+    genre.sync: anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/36862.jpg
+#   mal_id: 36862
+  "Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo":
+    alt_title: "Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo"
+    sort_title: "Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo"
+    audience_rating: 7.46
+    genre.sync: anime,Action,Sci-Fi,Supernatural
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/32900.jpg
+#   mal_id: 32900
+  "Mirai no Mirai":
+    alt_title: "Mirai no Mirai"
+    sort_title: "Mirai no Mirai"
+    audience_rating: 7.29
+    genre.sync: anime,Adventure,Drama,Fantasy,Time Travel
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/36936.jpg
+#   mal_id: 36936
+  "Mobile Suit Gundam 00 The Movie: A Wakening of the Trailblazer":
+    alt_title: "Mobile Suit Gundam 00 The Movie: A Wakening of the Trailblazer"
+    sort_title: "Mobile Suit Gundam 00 The Movie: A Wakening of the Trailblazer"
+    audience_rating: 7.3
+    genre.sync: anime,Action,Sci-Fi,Mecha,Space
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/6288.jpg
+#   mal_id: 6288
+  "Mobile Suit Gundam Thunderbolt: December Sky":
+    alt_title: "Mobile Suit Gundam Thunderbolt: December Sky"
+    sort_title: "Mobile Suit Gundam Thunderbolt: December Sky"
+    audience_rating: 7.94
+    genre.sync: anime,Action,Drama,Sci-Fi,Mecha,Military,Space
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/33221.jpg
+#   mal_id: 33221
+  "Ookami Kodomo no Ame to Yuki":
+    alt_title: "Ookami Kodomo no Ame to Yuki"
+    sort_title: "Ookami Kodomo no Ame to Yuki"
+    audience_rating: 8.59
+    genre.sync: anime,Fantasy,Slice of Life,Childcare
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/12355.jpg
+#   mal_id: 12355
+  "Sakasama no Patema":
+    alt_title: "Sakasama no Patema"
+    sort_title: "Sakasama no Patema"
+    audience_rating: 7.98
+    genre.sync: anime,Adventure,Sci-Fi
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/12477.jpg
+#   mal_id: 12477
+  "Sayonara no Asa ni Yakusoku no Hana wo Kazarou":
+    alt_title: "Sayonara no Asa ni Yakusoku no Hana wo Kazarou"
+    sort_title: "Sayonara no Asa ni Yakusoku no Hana wo Kazarou"
+    audience_rating: 8.41
+    genre.sync: anime,Drama,Fantasy
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/35851.jpg
+#   mal_id: 35851
+  "Shirobako Movie":
+    alt_title: "Shirobako Movie"
+    sort_title: "Shirobako Movie"
+    audience_rating: 7.69
+    genre.sync: anime,Comedy,Drama,Adult Cast,Otaku Culture,Workplace
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37804.jpg
+#   mal_id: 37804
+  "Stranger: Mukou Hadan":
+    alt_title: "Stranger: Mukou Hadan"
+    sort_title: "Stranger: Mukou Hadan"
+    audience_rating: 8.27
+    genre.sync: anime,Action,Adventure,Historical,Samurai
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/2418.jpg
+#   mal_id: 2418
+  "Summer Wars":
+    alt_title: "Summer Wars"
+    sort_title: "Summer Wars"
+    audience_rating: 8.04
+    genre.sync: anime,Comedy,Sci-Fi
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/5681.jpg
+#   mal_id: 5681
+  "Sword Art Online Movie: Ordinal Scale":
+    alt_title: "Sword Art Online Movie: Ordinal Scale"
+    sort_title: "Sword Art Online Movie: Ordinal Scale"
+    audience_rating: 7.57
+    genre.sync: anime,Action,Adventure,Fantasy,Video Game
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/31765.jpg
+#   mal_id: 31765
+  "Tenki no Ko":
+    alt_title: "Tenki no Ko"
+    sort_title: "Tenki no Ko"
+    audience_rating: 8.31
+    genre.sync: anime,Drama,Fantasy,Romance,Slice of Life
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/38826.jpg
+#   mal_id: 38826
+  "Toki wo Kakeru Shoujo":
+    alt_title: "Toki wo Kakeru Shoujo"
+    sort_title: "Toki wo Kakeru Shoujo"
+    audience_rating: 8.13
+    genre.sync: anime,Drama,Romance,Sci-Fi,School,Time Travel
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/2236.jpg
+#   mal_id: 2236
+  "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou":
+    alt_title: "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou"
+    sort_title: "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou"
+    audience_rating: 8.41
+    genre.sync: anime,Drama,Fantasy,Slice of Life
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/39741.jpg
+#   mal_id: 39741
