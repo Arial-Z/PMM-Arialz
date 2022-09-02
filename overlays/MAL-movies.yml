@@ -5,8 +5,8 @@ templates:
     default:
       overlay: <<overlay_name>>
     collection_level: <<overlay_level>>
-    plex_all: true
-    filters:
+    plex_search:
+      all:
         label: "AM-100"
     overlay:
       name: <<overlay_name>>
