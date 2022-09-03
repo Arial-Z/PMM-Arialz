@@ -1061,13 +1061,6 @@ metadata:
     genre.sync: Anime,Adventure,Mystery,Sci-Fi,Slice of Life,Iyashikei
     label: A-250
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/35838.jpg
-  "Shouwa Genroku Rakugo Shinjuu: Yotarou Hourou-hen":
-    alt_title: "Shouwa Genroku Rakugo Shinjuu: Yotarou Hourou-hen"
-    sort_title: "Shouwa Genroku Rakugo Shinjuu: Yotarou Hourou-hen"
-    audience_rating: 7.58
-    genre.sync: Anime,Drama,Adult Cast,Love Polygon,Performing Arts,Josei
-    label.remove: Ongoing, A-100, A-250
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/25801.jpg
   "Sidonia no Kishi":
     alt_title: "Sidonia no Kishi"
     sort_title: "Sidonia no Kishi"
@@ -1376,3 +1369,10 @@ metadata:
     genre.sync: Anime,Action,Drama,Fantasy,Mystery,Psychological,Shounen
     label.remove: Ongoing, A-100, A-250
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/14075.jpg
+  "Shouwa Genroku Rakugo Shinjuu: Yotarou Hourou-hen":
+    alt_title: "Shouwa Genroku Rakugo Shinjuu: Yotarou Hourou-hen"
+    sort_title: "Shouwa Genroku Rakugo Shinjuu: Yotarou Hourou-hen"
+    audience_rating: 7.58
+    genre.sync: Anime,Drama,Adult Cast,Love Polygon,Performing Arts,Josei
+    label.remove: Ongoing
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/25801.jpg
