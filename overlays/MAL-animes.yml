@@ -1,52 +1,13 @@
 templates:
-  MAL-10:                                                               #Audience Rating Text (IMDB Rating)
-    optional:
-      - overlay_level
-    default:
-      overlay: <<overlay_name>>
-    collection_level: <<overlay_level>>
-    mal_search:
-      type: tv, ova, ona
-      limit: 10
-      sort_by: score.desc
-    overlay:
-      name: <<overlay_name>>
-      repo: /overlays/Images/MAL/<<overlay>>
-      weight: <<weight>>
-      horizontal_offset: 0
-      horizontal_align: right
-      vertical_offset: 0
-      vertical_align: bottom
-
-  MAL-50:                                                               #Audience Rating Text (IMDB Rating)
-    optional:
-      - overlay_level
-    default:
-      overlay: <<overlay_name>>
-    collection_level: <<overlay_level>>
-    mal_search:
-      type: tv, ova, ona
-      limit: 50
-      sort_by: score.desc
-    overlay:
-      name: <<overlay_name>>
-      repo: /overlays/Images/MAL/<<overlay>>
-      weight: <<weight>>
-      horizontal_offset: 0
-      horizontal_align: right
-      vertical_offset: 0
-      vertical_align: bottom
-
   MAL-100:                                                               #Audience Rating Text (IMDB Rating)
     optional:
       - overlay_level
     default:
       overlay: <<overlay_name>>
     collection_level: <<overlay_level>>
-    mal_search:
-      type: tv, ova, ona
-      limit: 100
-      sort_by: score.desc
+    plex_search:
+      all:
+        label: A-100
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/MAL/<<overlay>>
@@ -62,10 +23,9 @@ templates:
     default:
       overlay: <<overlay_name>>
     collection_level: <<overlay_level>>
-    mal_search:
-      type: tv, ova, ona
-      limit: 250
-      sort_by: score.desc
+    plex_search:
+      all:
+        label: A-250
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/MAL/<<overlay>>
@@ -74,62 +34,16 @@ templates:
       horizontal_align: right
       vertical_offset: 0
       vertical_align: bottom
-
-  MAL-500:                                                               #Audience Rating Text (IMDB Rating)
-    optional:
-      - overlay_level
-    default:
-      overlay: <<overlay_name>>
-    collection_level: <<overlay_level>>
-    mal_search:
-      type: tv, ova, ona
-      limit: 500
-      sort_by: score.desc
-    overlay:
-      name: <<overlay_name>>
-      repo: /overlays/Images/MAL/<<overlay>>
-      weight: <<weight>>
-      horizontal_offset: 0
-      horizontal_align: right
-      vertical_offset: 0
-      vertical_align: bottom
-
+      
 overlays:
-  MAL-10:
-    template:
-      - name: MAL-10
-        weight: 50
-    suppress_overlays:
-      - MAL-50
-      - MAL-100
-      - MAL-250
-      - MAL-500
-
-  MAL-50:
-    template:
-      - name: MAL-50
-        weight: 40
-    suppress_overlays:
-      - MAL-100
-      - MAL-250
-      - MAL-500
-
   MAL-100:
     template:
       - name: MAL-100
         weight: 30
     suppress_overlays:
       - MAL-250
-      - MAL-500
 
   MAL-250:
     template:
       - name: MAL-250
         weight: 20
-    suppress_overlays:
-      - MAL-500
-
-  MAL-500:
-    template:
-      - name: MAL-500
-        weight: 10
