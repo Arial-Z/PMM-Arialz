@@ -191,9 +191,9 @@ metadata:
   "Ghost in the Shell":
     alt_title: "Ghost in the Shell"
     sort_title: "Ghost in the Shell"
-    audience_rating: 8.28
+    audience_rating: 8.27
     genre.sync: Anime,Action,Sci-Fi,Adult Cast,Detective,Mecha,Psychological,Seinen
-    label: AM-100
+    label.remove: AM-100
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/43.jpg
   "Ghost in the Shell 2 : Innocence":
     alt_title: "Ghost in the Shell 2 : Innocence"
@@ -226,7 +226,7 @@ metadata:
   "Akira":
     alt_title: "Akira"
     sort_title: "Akira"
-    audience_rating: 8.16
+    audience_rating: 8.15
     genre.sync: Anime,Action,Adventure,Horror,Sci-Fi,Supernatural,Gore,Military,Seinen
     label: AM-100
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/47.jpg

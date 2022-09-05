@@ -135,7 +135,7 @@ metadata:
   "Shokei Shoujo no Virgin Road":
     alt_title: "Shokei Shoujo no Virgin Road"
     sort_title: "Shokei Shoujo no Virgin Road"
-    audience_rating: 6.85
+    audience_rating: 6.84
     genre.sync: Anime,Action,Adventure,Fantasy
     label.remove: Ongoing, A-100, A-250
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/47162.jpg
@@ -160,6 +160,13 @@ metadata:
     genre.sync: Anime,Comedy,Drama,Sports,Team Sports,Shounen
     label: A-250
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/627.jpg
+  "Shouwa Genroku Rakugo Shinjuu":
+    alt_title: "Shouwa Genroku Rakugo Shinjuu: Yotarou Hourou-hen"
+    sort_title: "Shouwa Genroku Rakugo Shinjuu"
+    audience_rating: 8.58
+    genre.sync: Anime,Drama,Historical,Love Polygon,Performing Arts,Josei
+    label: A-100
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/28735.jpg
   "3-gatsu no Lion":
     alt_title: "3-gatsu no Lion"
     sort_title: "3-gatsu no Lion"
@@ -170,15 +177,16 @@ metadata:
   "5-toubun no Hanayome":
     alt_title: "5-toubun no Hanayome"
     sort_title: "5-toubun no Hanayome"
-    audience_rating: 7.68
+    audience_rating: 7.67
     genre.sync: Anime,Comedy,Romance,Harem,School,Shounen
     label.remove: Ongoing, A-100, A-250
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/38101.jpg
   "86":
     alt_title: "86"
     sort_title: "86"
-    audience_rating: 8.25
-    label.remove: Ongoing, A-100, A-250
+    audience_rating: 8.26
+    genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military
+    label: A-250
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/41457.jpg
   "ACCA: 13-ku Kansatsu-ka":
     alt_title: "ACCA: 13-ku Kansatsu-ka"
@@ -211,8 +219,9 @@ metadata:
   "Ao no Exorcist":
     alt_title: "Ao no Exorcist"
     sort_title: "Ao no Exorcist"
-    genre.sync: anime,Action,Fantasy,Mythology,School,Shounen
-    label.remove: Ongoing
+    audience_rating: 7.51
+    genre.sync: Anime,Action,Fantasy,Mythology,School,Shounen
+    label.remove: Ongoing, A-100, A-250
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/9919.jpg
   "Baby Steps":
     alt_title: "Baby Steps"
@@ -256,13 +265,6 @@ metadata:
     genre.sync: Anime,Mystery,Psychological,Time Travel,Seinen
     label: A-250
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/31043.jpg
-  "Bucchigire!":
-    alt_title: "Bucchigire!"
-    sort_title: "Bucchigire!"
-    audience_rating: 6.13
-    genre.sync: Anime,Action,Samurai
-    label: Ongoing
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/51371.jpg
   "Casshern Sins":
     alt_title: "Casshern Sins"
     sort_title: "Casshern Sins"
@@ -508,13 +510,6 @@ metadata:
     genre.sync: Anime,Romance,School,Shounen
     label: A-250
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/42897.jpg
-  "Hoshi no Samidare":
-    alt_title: "Hoshi no Samidare"
-    sort_title: "Hoshi no Samidare"
-    audience_rating: 5.57
-    genre.sync: Anime,Action,Adventure,Comedy,Drama,Psychological,Seinen
-    label: Ongoing
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/50891.jpg
   "Hoshiai no Sora":
     alt_title: "Hoshiai no Sora"
     sort_title: "Hoshiai no Sora"
@@ -669,13 +664,6 @@ metadata:
     genre.sync: Anime,Action,Historical,Military,Seinen
     label: Ongoing
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/12031.jpg
-  "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu":
-    alt_title: "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu"
-    sort_title: "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu"
-    audience_rating: 7.05
-    genre.sync: Anime,Fantasy,Ecchi,School,Shounen
-    label: Ongoing
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/51213.jpg
   "Kiseijuu: Sei no Kakuritsu":
     alt_title: "Kiseijuu: Sei no Kakuritsu"
     sort_title: "Kiseijuu: Sei no Kakuritsu"
@@ -742,7 +730,7 @@ metadata:
   "Kuro no Shoukanshi":
     alt_title: "Kuro no Shoukanshi"
     sort_title: "Kuro no Shoukanshi"
-    audience_rating: 7.13
+    audience_rating: 7.14
     genre.sync: Anime,Action,Fantasy,Isekai,Reincarnation
     label: Ongoing
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/51064.jpg
@@ -805,7 +793,7 @@ metadata:
   "Mamahaha no Tsurego ga Motokano datta":
     alt_title: "Mamahaha no Tsurego ga Motokano datta"
     sort_title: "Mamahaha no Tsurego ga Motokano datta"
-    audience_rating: 7
+    audience_rating: 6.99
     genre.sync: Anime,Comedy,Romance
     label: Ongoing
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/49470.jpg
@@ -903,7 +891,7 @@ metadata:
   "Otome Game Sekai wa Mob ni Kibishii Sekai desu":
     alt_title: "Otome Game Sekai wa Mob ni Kibishii Sekai desu"
     sort_title: "Otome Game Sekai wa Mob ni Kibishii Sekai desu"
-    audience_rating: 7.37
+    audience_rating: 7.36
     genre.sync: Anime,Fantasy,Isekai,Mecha,Reincarnation,School
     label.remove: Ongoing, A-100, A-250
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/50461.jpg
@@ -938,7 +926,7 @@ metadata:
   "Princess Connect! Re:Dive":
     alt_title: "Princess Connect! Re:Dive"
     sort_title: "Princess Connect! Re:Dive"
-    audience_rating: 7.06
+    audience_rating: 7.05
     genre.sync: Anime,Action,Adventure,Comedy,Fantasy
     label.remove: Ongoing, A-100, A-250
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/39292.jpg
@@ -966,7 +954,7 @@ metadata:
   "RWBY: Hyousetsu Teikoku":
     alt_title: "RWBY: Hyousetsu Teikoku"
     sort_title: "RWBY: Hyousetsu Teikoku"
-    audience_rating: 6.87
+    audience_rating: 6.86
     genre.sync: Anime,Action
     label: Ongoing
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/51381.jpg
@@ -984,13 +972,6 @@ metadata:
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai,Reincarnation
     label.remove: Ongoing, A-100, A-250
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/48761.jpg
-  "Saikin Yatotta Maid ga Ayashii":
-    alt_title: "Saikin Yatotta Maid ga Ayashii"
-    sort_title: "Saikin Yatotta Maid ga Ayashii"
-    audience_rating: 6.44
-    genre.sync: Anime,Comedy,Romantic Subtext,Shounen
-    label: Ongoing
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/51837.jpg
   "Sakura-sou no Pet na Kanojo":
     alt_title: "Sakura-sou no Pet na Kanojo"
     sort_title: "Sakura-sou no Pet na Kanojo"
@@ -1078,7 +1059,7 @@ metadata:
   "Soredemo Ayumu wa Yosetekuru":
     alt_title: "Soredemo Ayumu wa Yosetekuru"
     sort_title: "Soredemo Ayumu wa Yosetekuru"
-    audience_rating: 7.26
+    audience_rating: 7.25
     genre.sync: Anime,Comedy,Slice of Life,Romantic Subtext,School,Shounen
     label: Ongoing
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/45653.jpg
@@ -1113,7 +1094,7 @@ metadata:
   "Summertime Render":
     alt_title: "Summertime Render"
     sort_title: "Summertime Render"
-    audience_rating: 8.48
+    audience_rating: 8.49
     genre.sync: Anime,Mystery,Supernatural,Suspense,Shounen
     label: Ongoing, A-100
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/47194.jpg
@@ -1250,13 +1231,6 @@ metadata:
     genre.sync: Anime,Slice of Life,Childcare,Iyashikei,Josei
     label: A-250
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/10162.jpg
-  "Utawarerumono":
-    alt_title: "Utawarerumono"
-    sort_title: "Utawarerumono"
-    audience_rating: 7.63
-    genre.sync: Anime,Action,Drama,Fantasy,Sci-Fi
-    label: Ongoing
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/856.jpg
   "Uzaki-chan wa Asobitai!":
     alt_title: "Uzaki-chan wa Asobitai!"
     sort_title: "Uzaki-chan wa Asobitai!"
@@ -1295,7 +1269,7 @@ metadata:
   "Warau Arsnotoria Sun!":
     alt_title: "Warau Arsnotoria Sun!"
     sort_title: "Warau Arsnotoria Sun!"
-    audience_rating: 5.9
+    audience_rating: 5.89
     genre.sync: Anime,Action
     label: Ongoing
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/51923.jpg
@@ -1369,10 +1343,3 @@ metadata:
     genre.sync: Anime,Action,Drama,Fantasy,Mystery,Psychological,Shounen
     label.remove: Ongoing, A-100, A-250
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/14075.jpg
-  "Shouwa Genroku Rakugo Shinjuu: Yotarou Hourou-hen":
-    alt_title: "Shouwa Genroku Rakugo Shinjuu: Yotarou Hourou-hen"
-    sort_title: "Shouwa Genroku Rakugo Shinjuu: Yotarou Hourou-hen"
-    audience_rating: 7.58
-    genre.sync: Anime,Drama,Adult Cast,Love Polygon,Performing Arts,Josei
-    label.remove: Ongoing, A-100, A-250
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/25801.jpg
