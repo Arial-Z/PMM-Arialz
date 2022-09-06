@@ -4,6 +4,8 @@ templates:
       - overlay_level
     default:
       overlay: <<overlay_name>>
+      - use_<<opt1>>
+      - use_<<opt2>>
     collection_level: <<overlay_level>>
     plex_search:
       all:
@@ -13,9 +15,9 @@ templates:
       repo: /overlays/Images/Studios/animes/<<overlay>>
       weight: <<weight>>
       horizontal_offset: 15
-      horizontal_align: right
+      horizontal_align: left
       vertical_offset: 15
-      vertical_align: bottom
+      vertical_align: top
       horizontal_offset: <<horizontal_offset>>
       horizontal_align: <<horizontal_align>>
       vertical_offset: <<vertical_offset>>
