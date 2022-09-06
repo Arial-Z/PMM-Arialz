@@ -1,5 +1,5 @@
 templates:
-  Studios:                                                               #Audience Rating Text (IMDB Rating)
+  Studios:
     optional:
       - overlay_level
     default:
@@ -10,7 +10,7 @@ templates:
         studio: <<overlay_name>>
     overlay:
       name: <<overlay_name>>
-      folder: config/animes/studios/animes/<<overlay>>
+      repo: /overlays/Images/Studios/animes/<<overlay>>
       weight: <<weight>>
       horizontal_offset: 15
       horizontal_align: left
@@ -20,135 +20,135 @@ templates:
 overlays:
   A-1 Pictures:
     template:
-      - name: A-1 Pictures
+      - name: Studios
         weight: 20
 
   Sunrise:
     template:
-      - name: Sunrise
+      - name: Studios
         weight: 20
 
   Madhouse:
     template:
-      - name: Madhouse
+      - name: Studios
         weight: 20
 
   Bones:
     template:
-      - name: Bones
+      - name: Studios
         weight: 20
 
   ufotable:
     template:
-      - name: ufotable
+      - name: Studios
         weight: 20
 
   Production I.G:
     template:
-      - name: Production I.G
+      - name: Studios
         weight: 20
 
   J.C.Staff:
     template:
-      - name: J.C.Staff
+      - name: Studios
         weight: 20
 
   Wit Studio:
     template:
-      - name: Wit Studio
+      - name: Studios
         weight: 20
 
   Kyoto Animation:
     template:
-      - name: Kyoto Animation
+      - name: Studios
         weight: 20
       
   White Fox:
     template:
-      - name: White Fox
+      - name: Studios
         weight: 20
 
   P.A. Works:
     template:
-      - name: P.A. Works
+      - name: Studios
         weight: 20
 
   Kinema Citrus:
     template:
-      - name: Kinema Citrus
+      - name: Studios
         weight: 20
 
   8bit:
     template:
-      - name: 8bit
+      - name: Studios
         weight: 20
 
   Pierrot:
     template:
-      - name: Pierrot
+      - name: Studios
         weight: 20
 
   MAPPA:
     template:
-      - name: MAPPA
+      - name: Studios
         weight: 20
 
   LIDENFILMS:
     template:
-      - name: LIDENFILMS
+      - name: Studios
         weight: 20
 
   CloverWorks:
     template:
-      - name: CloverWorks
+      - name: Studios
         weight: 20
 
   SILVER LINK.:
     template:
-      - name: SILVER LINK.
+      - name: Studios
         weight: 20
 
   TMS Entertainment:
     template:
-      - name: TMS Entertainment
+      - name: Studios
         weight: 20
 
   Studio Chizu:
     template:
-      - name: Studio Chizu
+      - name: Studios
         weight: 20
 
   Khara:
     template:
-      - name: Khara
+      - name: Studios
         weight: 20
 
   Doga Kobo:
     template:
-      - name: Doga Kobo
+      - name: Studios
         weight: 20
 
   CoMix Wave Films:
     template:
-      - name: CoMix Wave Films
+      - name: Studios
         weight: 20
 
   Toei Animation:
     template:
-      - name: Toei Animation
+      - name: Studios
         weight: 20
-      
+
   Studio Deen:
     template:
-      - name: Studio Deen
+      - name: Studios
         weight: 20
 
   OLM:
     template:
-      - name: OLM
+      - name: Studios
         weight: 20
 
   GoHands:
     template:
-      - name: GoHands
+      - name: Studios
         weight: 20
