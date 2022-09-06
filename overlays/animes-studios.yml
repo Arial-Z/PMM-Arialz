@@ -5,9 +5,9 @@ templates:
     default:
       overlay: <<overlay_name>>
       horizontal_offset: 15
-      horizontal_align: right
+      horizontal_align: left
       vertical_offset: 15
-      vertical_align: bottom
+      vertical_align: top
     collection_level: <<overlay_level>>
     plex_search:
       all:
