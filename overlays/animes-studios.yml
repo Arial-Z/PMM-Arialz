@@ -13,9 +13,9 @@ templates:
       repo: /overlays/Images/Studios/animes/<<overlay>>
       weight: <<weight>>
       horizontal_offset: 15
-      horizontal_align: left
+      horizontal_align: right
       vertical_offset: 15
-      vertical_align: top
+      vertical_align: bottom
       horizontal_offset: <<horizontal_offset>>
       horizontal_align: <<horizontal_align>>
       vertical_offset: <<vertical_offset>>
