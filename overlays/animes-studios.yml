@@ -1,5 +1,5 @@
 templates:
-  Studios:
+  Studios:                                                               #Audience Rating Text (IMDB Rating)
     optional:
       - overlay_level
     default:
@@ -8,21 +8,19 @@ templates:
       horizontal_align: left
       vertical_offset: 15
       vertical_align: top
-    overlay:
-      name: <<overlay_name>>
-      repo: /overlays/Images/Studios/animes/<<overlay>>
-      group: studios
-      horizontal_offset: <<horizontal_offset>>
-      horizontal_align: <<horizontal_align>>
-      vertical_offset: <<vertical_offset>>
-      vertical_align: <<vertical_align>>
-    collection_level: <<overlay_level>>
     plex_search:
       all:
         studio: <<overlay_name>>
-
+    overlay:
+      name: <<overlay_name>>
+      repo: /overlays/Images/Studios/animes/<<overlay>>
+      weight: <<weight>>
+      horizontal_offset: 15
+      horizontal_align: left
+      vertical_offset: 15
+      vertical_align: top
+      
 overlays:
-
   A-1 Pictures:
     template:
       - name: Studios
