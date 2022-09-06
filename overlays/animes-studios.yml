@@ -1,0 +1,140 @@
+templates:
+  Studios:
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+      horizontal_offset: 15
+      horizontal_align: left
+      vertical_offset: 15
+      vertical_align: top
+    overlay:
+      name: <<overlay_name>>
+      repo: /overlays/Images/Studios/animes/<<overlay>>
+      group: studios
+      horizontal_offset: <<horizontal_offset>>
+      horizontal_align: <<horizontal_align>>
+      vertical_offset: <<vertical_offset>>
+      vertical_align: <<vertical_align>>
+    collection_level: <<overlay_level>>
+    plex_search:
+      all:
+        label: <<overlay_name>>
+
+overlays:
+
+  A-1 Pictures:
+    template:
+      - name: Studios
+
+  Sunrise:
+    template:
+      - name: Studios
+
+  Madhouse:
+    template:
+      - name: Studios
+
+  Bones:
+    template:
+      - name: Studios
+
+  ufotable:
+    template:
+      - name: Studios
+
+  Production I.G:
+    template:
+      - name: Studios
+
+  J.C.Staff:
+    template:
+      - name: Studios
+
+  Wit Studio:
+    template:
+      - name: Studios
+
+  Kyoto Animation:
+    template:
+      - name: Studios
+      
+  White Fox:
+    template:
+      - name: Studios
+
+  SILVER LINK.:
+    template:
+      - name: Studios
+
+  P.A. Works:
+    template:
+      - name: Studios
+
+  Kinema Citrus:
+    template:
+      - name: Studios
+
+  8bit:
+    template:
+      - name: Studios
+
+  Pierrot:
+    template:
+      - name: Studios
+
+  MAPPA:
+    template:
+      - name: Studios
+
+  LIDENFILMS:
+    template:
+      - name: Studios
+
+  CloverWorks:
+    template:
+      - name: Studios
+
+  SILVER LINK.:
+    template:
+      - name: Studios
+
+  TMS Entertainment:
+    template:
+      - name: Studios
+
+  Studio Chizu:
+    template:
+      - name: Studios
+
+  Khara:
+    template:
+      - name: Studios
+
+  Doga Kobo:
+    template:
+      - name: Studios
+
+  CoMix Wave Films:
+    template:
+      - name: Studios
+
+  Toei Animation:
+    template:
+      - name: Studios
+      
+  Studio Deen:
+    template:
+      - name: Studios
+
+  OLM:
+    template:
+      - name: Studios
+
+  GoHands:
+    template:
+      - name: Studios
+
+  GoHands:
+    template:
+      - name: Studios
