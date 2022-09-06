@@ -16,6 +16,10 @@ templates:
       horizontal_align: left
       vertical_offset: 15
       vertical_align: top
+      horizontal_offset: <<horizontal_offset>>
+      horizontal_align: <<horizontal_align>>
+      vertical_offset: <<vertical_offset>>
+      vertical_align: <<vertical_align>>
       
 overlays:
   A-1 Pictures:
@@ -133,10 +137,10 @@ overlays:
       - name: Studios
         weight: 20
 
-#   Brain'\s Base:
-#    template:
-#      - name: Studios
-#        weight: 20
+   Brains Base:
+    template:
+      - name: Studios
+        weight: 20
 
   Toei Animation:
     template:
