@@ -4,16 +4,13 @@ templates:
       - overlay_level
     default:
       overlay: <<overlay_name>>
-      horizontal_offset: 15
-      horizontal_align: left
-      vertical_offset: 15
-      vertical_align: top
+    collection_level: <<overlay_level>>
     plex_search:
       all:
         studio: <<overlay_name>>
     overlay:
       name: <<overlay_name>>
-      repo: /overlays/Images/Studios/animes/<<overlay>>
+      folder: config/animes/studios/animes/<<overlay>>
       weight: <<weight>>
       horizontal_offset: 15
       horizontal_align: left
@@ -24,107 +21,134 @@ overlays:
   A-1 Pictures:
     template:
       - name: A-1 Pictures
+        weight: 20
 
   Sunrise:
     template:
       - name: Sunrise
+        weight: 20
 
   Madhouse:
     template:
       - name: Madhouse
+        weight: 20
 
   Bones:
     template:
       - name: Bones
+        weight: 20
 
   ufotable:
     template:
       - name: ufotable
+        weight: 20
 
   Production I.G:
     template:
       - name: Production I.G
+        weight: 20
 
   J.C.Staff:
     template:
       - name: J.C.Staff
+        weight: 20
 
   Wit Studio:
     template:
       - name: Wit Studio
+        weight: 20
 
   Kyoto Animation:
     template:
       - name: Kyoto Animation
+        weight: 20
       
   White Fox:
     template:
       - name: White Fox
+        weight: 20
 
   P.A. Works:
     template:
       - name: P.A. Works
+        weight: 20
 
   Kinema Citrus:
     template:
       - name: Kinema Citrus
+        weight: 20
 
   8bit:
     template:
       - name: 8bit
+        weight: 20
 
   Pierrot:
     template:
       - name: Pierrot
+        weight: 20
 
   MAPPA:
     template:
       - name: MAPPA
+        weight: 20
 
   LIDENFILMS:
     template:
       - name: LIDENFILMS
+        weight: 20
 
   CloverWorks:
     template:
       - name: CloverWorks
+        weight: 20
 
   SILVER LINK.:
     template:
       - name: SILVER LINK.
+        weight: 20
 
   TMS Entertainment:
     template:
       - name: TMS Entertainment
+        weight: 20
 
   Studio Chizu:
     template:
       - name: Studio Chizu
+        weight: 20
 
   Khara:
     template:
       - name: Khara
+        weight: 20
 
   Doga Kobo:
     template:
       - name: Doga Kobo
+        weight: 20
 
   CoMix Wave Films:
     template:
       - name: CoMix Wave Films
+        weight: 20
 
   Toei Animation:
     template:
       - name: Toei Animation
+        weight: 20
       
   Studio Deen:
     template:
       - name: Studio Deen
+        weight: 20
 
   OLM:
     template:
       - name: OLM
+        weight: 20
 
   GoHands:
     template:
       - name: GoHands
+        weight: 20
