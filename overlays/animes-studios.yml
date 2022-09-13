@@ -14,7 +14,7 @@ templates:
         studio: <<overlay_name>>
     overlay:
       name: <<overlay_name>>
-      repo: /overlays/Images/Studios/animes/<<overlay>>
+      repo: /overlays/Images/Studios/Animes/<<overlay>>
       weight: <<weight>>
       horizontal_offset: <<horizontal_offset>>
       horizontal_align: <<horizontal_align>>
@@ -218,6 +218,11 @@ overlays:
         weight: 20
 
   Ajia-Do:
+    template:
+      - name: Studios
+        weight: 20
+
+  Bandai Namco Pictures:
     template:
       - name: Studios
         weight: 20
