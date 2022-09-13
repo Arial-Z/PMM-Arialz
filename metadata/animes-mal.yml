@@ -138,7 +138,7 @@ metadata:
   "Seitokai Yakuindomo":
     alt_title: "Seitokai Yakuindomo"
     sort_title: "Seitokai Yakuindomo"
-    audience_rating: 7.57
+    audience_rating: 7.56
     genre.sync: Anime,Comedy,Gag Humor,School,Shounen
     label.remove: Ongoing, A-100, A-250
     studio: GoHands
@@ -418,7 +418,7 @@ metadata:
   "Engage Kiss":
     alt_title: "Engage Kiss"
     sort_title: "Engage Kiss"
-    audience_rating: 7.02
+    audience_rating: 7.01
     genre.sync: Anime,Comedy,Romance
     label: Ongoing
     studio: A-1 Pictures
@@ -626,7 +626,7 @@ metadata:
   "Isekai Ojisan":
     alt_title: "Isekai Ojisan"
     sort_title: "Isekai Ojisan"
-    audience_rating: 7.98
+    audience_rating: 7.97
     genre.sync: Anime,Comedy,Fantasy,Isekai
     label: Ongoing
     studio: AtelierPontdarc
@@ -690,7 +690,7 @@ metadata:
   "Kakkou no Iinazuke":
     alt_title: "Kakkou no Iinazuke"
     sort_title: "Kakkou no Iinazuke"
-    audience_rating: 7.24
+    audience_rating: 7.22
     genre.sync: Anime,Comedy,Romance,Harem,Shounen
     label: Ongoing
     studio: SynergySP
@@ -754,7 +754,7 @@ metadata:
   "Kingdom":
     alt_title: "Kingdom"
     sort_title: "Kingdom"
-    audience_rating: 7.96
+    audience_rating: 7.95
     genre.sync: Anime,Action,Historical,Military,Seinen
     label: Ongoing
     studio: Pierrot
@@ -906,7 +906,7 @@ metadata:
   "Mamahaha no Tsurego ga Motokano datta":
     alt_title: "Mamahaha no Tsurego ga Motokano datta"
     sort_title: "Mamahaha no Tsurego ga Motokano datta"
-    audience_rating: 6.99
+    audience_rating: 6.97
     genre.sync: Anime,Comedy,Romance
     label: Ongoing
     studio: Project No.9
@@ -1026,7 +1026,7 @@ metadata:
   "Ousama Ranking":
     alt_title: "Ousama Ranking"
     sort_title: "Ousama Ranking"
-    audience_rating: 8.6
+    audience_rating: 8.59
     genre.sync: Anime,Adventure,Fantasy
     label: A-100
     studio: Wit Studio
@@ -1042,7 +1042,7 @@ metadata:
   "Paripi Koumei":
     alt_title: "Paripi Koumei"
     sort_title: "Paripi Koumei"
-    audience_rating: 8.26
+    audience_rating: 8.25
     genre.sync: Anime,Adult Cast,Music,Reincarnation
     label: A-250
     studio: P.A. Works
@@ -1058,7 +1058,7 @@ metadata:
   "Princess Connect! Re:Dive":
     alt_title: "Princess Connect! Re:Dive"
     sort_title: "Princess Connect! Re:Dive"
-    audience_rating: 7.06
+    audience_rating: 7.05
     genre.sync: Anime,Action,Adventure,Comedy,Fantasy
     label.remove: Ongoing, A-100, A-250
     studio: CygamesPictures
@@ -1090,7 +1090,7 @@ metadata:
   "RWBY: Hyousetsu Teikoku":
     alt_title: "RWBY: Hyousetsu Teikoku"
     sort_title: "RWBY: Hyousetsu Teikoku"
-    audience_rating: 6.84
+    audience_rating: 6.78
     genre.sync: Anime,Action
     label: Ongoing
     studio: Shaft
@@ -1210,7 +1210,7 @@ metadata:
   "Soredemo Ayumu wa Yosetekuru":
     alt_title: "Soredemo Ayumu wa Yosetekuru"
     sort_title: "Soredemo Ayumu wa Yosetekuru"
-    audience_rating: 7.25
+    audience_rating: 7.24
     genre.sync: Anime,Comedy,Slice of Life,Romantic Subtext,School,Shounen
     label: Ongoing
     studio: SILVER LINK.
@@ -1290,9 +1290,9 @@ metadata:
   "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita":
     alt_title: "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita"
     sort_title: "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita"
-    audience_rating: 6.26
+    audience_rating: 6.24
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai
-    label: Ongoing
+    label.remove: Ongoing, A-100, A-250
     studio: Revoroot
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/47163.jpg
   "Tensei shitara Slime Datta Ken":
@@ -1322,7 +1322,7 @@ metadata:
   "Tokyo Ravens":
     alt_title: "Tokyo Ravens"
     sort_title: "Tokyo Ravens"
-    audience_rating: 7.45
+    audience_rating: 7.44
     genre.sync: Anime,Action,Comedy,Romance,Supernatural,School
     label.remove: Ongoing, A-100, A-250
     studio: 8bit
@@ -1338,7 +1338,7 @@ metadata:
   "Tonari no Kaibutsu-kun":
     alt_title: "Tonari no Kaibutsu-kun"
     sort_title: "Tonari no Kaibutsu-kun"
-    audience_rating: 7.49
+    audience_rating: 7.48
     genre.sync: Anime,Comedy,Romance,School,Shoujo
     label.remove: Ongoing, A-100, A-250
     studio: Brains Base
@@ -1450,7 +1450,7 @@ metadata:
   "Warau Arsnotoria Sun!":
     alt_title: "Warau Arsnotoria Sun!"
     sort_title: "Warau Arsnotoria Sun!"
-    audience_rating: 5.89
+    audience_rating: 5.86
     genre.sync: Anime,Action
     label: Ongoing
     studio: LIDENFILMS
@@ -1535,3 +1535,19 @@ metadata:
     label.remove: Ongoing, A-100, A-250
     studio: Bones
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/14075.jpg
+  "Hoshi no Samidare":
+    alt_title: "Lucifer and the Biscuit Hammer"
+    sort_title: "Hoshi no Samidare"
+    audience_rating: 5.51
+    genre.sync: Anime,Action,Adventure,Comedy,Drama,Psychological,Seinen
+    label: Ongoing
+    studio: NAZ
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/50891.jpg
+  "D.Gray-man Hallow":
+    alt_title: "D.Gray-man Hallow"
+    sort_title: "D.Gray-man Hallow"
+    audience_rating: 7.71
+    genre.sync: Anime,Action,Adventure,Mythology,Super Power,Shounen
+    label.remove: Ongoing, A-100, A-250
+    studio: TMS Entertainment
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/32370.jpg
