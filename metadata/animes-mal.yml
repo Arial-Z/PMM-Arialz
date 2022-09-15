@@ -191,6 +191,14 @@ metadata:
     label: A-100
     studio: Studio Deen
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/28735.jpg
+  "Cyberpunk: Edgerunners":
+    alt_title: "Cyberpunk: Edgerunners"
+    sort_title: "Cyberpunk: Edgerunners"
+    audience_rating: 8.58
+    genre.sync: Anime,Action,Sci-Fi
+    label.remove: Ongoing, A-100, A-250
+    studio: Trigger
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/42310.jpg
   "3-gatsu no Lion":
     alt_title: "3-gatsu no Lion"
     sort_title: "3-gatsu no Lion"
@@ -327,14 +335,6 @@ metadata:
     label.remove: Ongoing, A-100, A-250
     studio: Madhouse
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/10800.jpg
-  "Chuunibyou demo Koi ga Shitai!":
-    alt_title: "Chuunibyou demo Koi ga Shitai!"
-    sort_title: "Chuunibyou demo Koi ga Shitai!"
-    audience_rating: 7.72
-    genre.sync: Anime,Comedy,Romance,School
-    label.remove: Ongoing, A-100, A-250
-    studio: Kyoto Animation
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/14741.jpg
   "Claymore":
     alt_title: "Claymore"
     sort_title: "Claymore"
@@ -344,13 +344,21 @@ metadata:
     studio: Madhouse
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/1818.jpg
   "D.Gray-man":
-    alt_title: "D.Gray-man"
+    alt_title: "D.Gray-Man"
     sort_title: "D.Gray-man"
     audience_rating: 8.02
     genre.sync: Anime,Action,Adventure,Comedy,Mythology,Super Power,Shounen
     label.remove: Ongoing, A-100, A-250
     studio: TMS Entertainment
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/1482.jpg
+  "D.Gray-man Hallow":
+    alt_title: "D.Gray-man Hallow"
+    sort_title: "D.Gray-man Hallow"
+    audience_rating: 7.71
+    genre.sync: Anime,Action,Adventure,Mythology,Super Power,Shounen
+    label.remove: Ongoing, A-100, A-250
+    studio: TMS Entertainment
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/32370.jpg
   "Darker than Black: Kuro no Keiyakusha":
     alt_title: "Darker than Black: Kuro no Keiyakusha"
     sort_title: "Darker than Black: Kuro no Keiyakusha"
@@ -560,7 +568,7 @@ metadata:
     studio: Doga Kobo
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/28825.jpg
   "Hitori no Shita: The Outcast":
-    alt_title: "Hitori No Shita : The Outcast"
+    alt_title: "Hitori no Shita: The Outcast"
     sort_title: "Hitori no Shita: The Outcast"
     audience_rating: 6.82
     genre.sync: Anime,Action,Supernatural,Super Power
@@ -847,6 +855,14 @@ metadata:
     label.remove: Ongoing, A-100, A-250
     studio: Brains Base
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/39017.jpg
+  "Chuunibyou demo Koi ga Shitai!":
+    alt_title: "Love, Chunibyo & Other Delusions !"
+    sort_title: "Chuunibyou demo Koi ga Shitai!"
+    audience_rating: 7.72
+    genre.sync: Anime,Comedy,Romance,School
+    label.remove: Ongoing, A-100, A-250
+    studio: Kyoto Animation
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/14741.jpg
   "Lycoris Recoil":
     alt_title: "Lycoris Recoil"
     sort_title: "Lycoris Recoil"
@@ -1535,27 +1551,3 @@ metadata:
     label.remove: Ongoing, A-100, A-250
     studio: Bones
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/14075.jpg
-  "Hoshi no Samidare":
-    alt_title: "Lucifer and the Biscuit Hammer"
-    sort_title: "Hoshi no Samidare"
-    audience_rating: 5.5
-    genre.sync: Anime,Action,Adventure,Comedy,Drama,Psychological,Seinen
-    label: Ongoing
-    studio: NAZ
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/50891.jpg
-  "D.Gray-man Hallow":
-    alt_title: "D.Gray-man Hallow"
-    sort_title: "D.Gray-man Hallow"
-    audience_rating: 7.71
-    genre.sync: Anime,Action,Adventure,Mythology,Super Power,Shounen
-    label.remove: Ongoing, A-100, A-250
-    studio: TMS Entertainment
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/32370.jpg
-  "Cyberpunk: Edgerunners":
-    alt_title: "Cyberpunk: Edgerunners"
-    sort_title: "Cyberpunk: Edgerunners"
-    audience_rating: 8.58
-    genre.sync: Anime,Action,Sci-Fi
-    label.remove: Ongoing, A-100, A-250
-    studio: Trigger
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/42310.jpg
