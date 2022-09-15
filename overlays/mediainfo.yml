@@ -141,7 +141,7 @@ overlays:
         weight: 130
         opt1: 4k
     plex_search:
-      any:
+      all:
         resolution.regex: '(?i)2160|4k'
 
   1080P-DV:
@@ -173,7 +173,7 @@ overlays:
         weight: 100
         opt1: 1080p
     plex_search:
-      any:
+      all:
         resolution.regex: '(?i)1080|2k'
 
   720P:
@@ -182,7 +182,7 @@ overlays:
         weight: 70
         opt1: 720p
     plex_search:
-      any:
+      all:
         resolution.regex: '(?i)720|hd'
 
   576P:
@@ -191,7 +191,7 @@ overlays:
         weight: 40
         opt1: 576p
     plex_search:
-      any:
+      all:
         resolution.regex: '(?i)576'
 
   480P-DV:
@@ -212,7 +212,7 @@ overlays:
         weight: 10
         opt1: 480p
     plex_search:
-      any:
+      all:
         resolution.regex: '(?i)480|sd'
 
   Audio-VF:
@@ -220,7 +220,8 @@ overlays:
       - name: AudioLanguage
         weight: 10
     plex_search:
-      audio_language: fr
+      all:
+        audio_language: fr
     filters:
       audio_language.count_lt: 2
 
