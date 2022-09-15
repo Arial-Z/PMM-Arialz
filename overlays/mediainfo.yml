@@ -1,50 +1,7 @@
-#############################################################
-#                    Resolution Overlay                     #
-#         Created by Yozora, Bullmoose20, & Sohjiro         #
-#            Credit to Magic815 for base images             #
-#############################################################
-#  Designed for TRaSH Guides filename naming scheme         #
-#  https://trash-guides.info/                               #
-#                                                           #
-#  Call this from your config.yml (Movie or Show):          #
-#  If nothing is specified these are the defaults           #
-#                                                           #
-#    overlay_path:                                          #
-#      - git: PMM/overlays/resolution                       #
-#        template_variables:                                #
-#          # Set episode or season to overlay               #
-#          overlay_level:                                   #
-#          # Set the horizontal offset for the overlay      #
-#          horizontal_offset: 15                            #
-#          # Set the horizontal align for the overlay       #
-#          horizontal_align: left                           #
-#          # Set the vertical offset for the overlay        #
-#          vertical_offset: 15                              #
-#          # Set the vertical align for the overlay         #
-#          vertical_align: top                              #
-#                                                           #
-#          # Use the 4K overlay                             #
-#          use_4k: true                                     #
-#          # Use the 1080P overlay                          #
-#          use_1080p: true                                  #
-#          # Use the 720P overlay                           #
-#          use_720p: true                                   #
-#          # Use the 576P overlay                           #
-#          use_576p: true                                   #
-#          # Use the 480P overlay                           #
-#          use_480p: true                                   #
-#          # Use the DV overlay                             #
-#          use_dv: true                                     #
-#          # Use the HDR overlay                            #
-#          use_hdr: true                                    #
-#############################################################
-
 templates:
   Resolution:
     optional:
       - overlay_level
-      - use_<<opt1>>
-      - use_<<opt2>>
     default:
       overlay: <<overlay_name>>
       horizontal_offset: 15
@@ -52,34 +9,6 @@ templates:
       vertical_offset: 15
       vertical_align: top
     collection_level: <<overlay_level>>
-    allowed_library_types:
-      - <<use_<<opt1>>>>
-      - <<use_<<opt2>>>>
-    overlay:
-      name: <<overlay_name>>
-      repo: /overlays/Images/Resolution/<<overlay>>
-      group: res
-      weight: <<weight>>
-      horizontal_offset: <<horizontal_offset>>
-      horizontal_align: <<horizontal_align>>
-      vertical_offset: <<vertical_offset>>
-      vertical_align: <<vertical_align>>
-
-  NoResolution:
-    optional:
-      - overlay_level
-      - use_<<opt1>>
-      - use_<<opt2>>
-    default:
-      overlay: <<overlay_name>>
-      horizontal_offset: 15
-      horizontal_align: left
-      vertical_offset: 15
-      vertical_align: top
-    collection_level: <<overlay_level>>
-    allowed_library_types:
-      - <<use_<<opt1>>>>
-      - <<use_<<opt2>>>>
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/Resolution/<<overlay>>
