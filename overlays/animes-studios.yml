@@ -226,3 +226,8 @@ overlays:
     template:
       - name: Studios
         weight: 20
+
+  Trigger:
+    template:
+      - name: Studios
+        weight: 20
