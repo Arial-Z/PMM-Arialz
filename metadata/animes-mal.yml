@@ -92,7 +92,7 @@ metadata:
     sort_title: "Made in Abyss"
     audience_rating: 8.67
     genre.sync: Anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi
-    label: Ongoing, A-100
+    label: A-100
     studio: Kinema Citrus
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34599.jpg
   "Mobile Suit Gundam 00":
@@ -428,7 +428,7 @@ metadata:
     sort_title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
     audience_rating: 7.56
     genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Romance
-    label: Ongoing
+    label.remove: Ongoing, A-100, A-250
     studio: J.C.Staff
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/28121.jpg
   "Darker than Black: Kuro no Keiyakusha":
@@ -460,7 +460,7 @@ metadata:
     sort_title: "Hataraku Maou-sama!"
     audience_rating: 7.77
     genre.sync: Anime,Comedy,Fantasy,Romance,Supernatural,Mythology
-    label: Ongoing
+    label.remove: Ongoing, A-100, A-250
     studio: White Fox
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/15809.jpg
   "Domestic na Kanojo":
@@ -1316,7 +1316,7 @@ metadata:
     sort_title: "Summertime Render"
     audience_rating: 8.5
     genre.sync: Anime,Mystery,Supernatural,Suspense,Shounen
-    label: Ongoing, A-100
+    label: A-100
     studio: OLM
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/47194.jpg
   "Sword Art Online":
