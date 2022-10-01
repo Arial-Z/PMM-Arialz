@@ -3,14 +3,6 @@ metadata:
     alt_title: "Bubble"
     sort_title: "Bubble"
     audience_rating: 7.29
-    sort_title: "Seitokai Yakuindomo Movie"
-    audience_rating: 7.84
-    genre.sync: Anime,Comedy,Gag Humor,School,Shounen
-    studio: GoHands
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34504.jpg
-  "Seitokai Yakuindomo Movie 2":
-    alt_title: "Seitokai Yakuindomo Movie 2"
-    sort_title: "Seitokai Yakuindomo Movie 2"
     audience_rating: 7.78
     genre.sync: Anime,Comedy,Gag Humor,School,Shounen
     studio: GoHands
@@ -515,3 +507,10 @@ metadata:
     genre.sync: Anime,Drama,Fantasy,Music
     studio: Studio Chizu
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/44807.jpg
+  "Seitokai Yakuindomo Movie":
+    alt_title: ""
+    sort_title: "Seitokai Yakuindomo Movie"
+    audience_rating: 7.84
+    genre.sync: Anime,Comedy,Gag Humor,School,Shounen
+    studio: GoHands
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34504.jpg
