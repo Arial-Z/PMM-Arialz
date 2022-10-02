@@ -3,14 +3,6 @@ metadata:
     alt_title: "Bubble"
     sort_title: "Bubble"
     audience_rating: 7.29
-  "Ghost in the Shell 2 : Innocence":
-    alt_title: "Ghost in the Shell 2 : Innocence"
-    sort_title: "Ghost in the Shell 2 : Innocence"
-    audience_rating: 7.79
-    genre.sync: Anime,Sci-Fi,Adult Cast,Detective,Mecha,Military,Psychological
-    studio: Production I.G
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/468.jpg
-  "Ghost in the Shell 2.0":
     alt_title: "Ghost in the Shell 2.0"
     sort_title: "Ghost in the Shell 2.0"
     audience_rating: 7.98
@@ -510,3 +502,10 @@ metadata:
     genre.sync: Anime,Drama,Fantasy,Slice of Life
     studio: Kyoto Animation
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37987.jpg
+  "Ghost in the Shell":
+    alt_title: ""
+    sort_title: "Ghost in the Shell"
+    audience_rating: 8.27
+    genre.sync: Anime,Action,Sci-Fi,Adult Cast,Detective,Mecha,Psychological,Seinen
+    studio: Production I.G
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/43.jpg
