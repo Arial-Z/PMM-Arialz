@@ -354,7 +354,7 @@ metadata:
   "Yofukashi no Uta":
     alt_title: "Call of the Night"
     sort_title: "Yofukashi no Uta"
-    audience_rating: 8.16
+    audience_rating: 8.14
     genre.sync: Anime,Romance,Supernatural,Vampire,Shounen
     label.remove: Ongoing, A-100, A-250
     studio: LIDENFILMS
@@ -404,7 +404,7 @@ metadata:
     sort_title: "Kakkou no Iinazuke"
     audience_rating: 7.16
     genre.sync: Anime,Comedy,Romance,Harem,Shounen
-    label: Ongoing
+    label.remove: Ongoing, A-100, A-250
     studio: SynergySP
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/48675.jpg
   "D.Gray-man":
@@ -796,7 +796,7 @@ metadata:
     sort_title: "Kingdom"
     audience_rating: 7.95
     genre.sync: Anime,Action,Historical,Military,Seinen
-    label: Ongoing
+    label.remove: Ongoing, A-100, A-250
     studio: Pierrot
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/12031.jpg
   "Sidonia no Kishi":
@@ -1314,7 +1314,7 @@ metadata:
   "Summertime Render":
     alt_title: "Summer Time Rendering"
     sort_title: "Summertime Render"
-    audience_rating: 8.59
+    audience_rating: 8.6
     genre.sync: Anime,Mystery,Supernatural,Suspense,Shounen
     label: A-100
     studio: OLM
@@ -1578,7 +1578,7 @@ metadata:
   "Akuyaku Reijou nanode Last Boss wo Kattemimashita":
     alt_title: "Si je suis la Vilaine, autant mater le boss final"
     sort_title: "Akuyaku Reijou nanode Last Boss wo Kattemimashita"
-    audience_rating: 7.46
+    audience_rating: 7.47
     genre.sync: Anime,Comedy,Fantasy,Romance,Isekai,Shoujo
     label: Ongoing
     studio: Maho Film
