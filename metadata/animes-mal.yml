@@ -588,7 +588,7 @@ metadata:
     sort_title: "Golden Kamuy"
     audience_rating: 7.87
     genre.sync: Anime,Action,Adventure,Historical,Seinen
-    label.remove: Ongoing, A-100, A-250
+    label: Ongoing
     studio: Geno Studio
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/36028.jpg
   "Grand Blue":
@@ -1588,7 +1588,7 @@ metadata:
     sort_title: "Shinobi no Ittoki"
     audience_rating: null
     genre.sync: Anime,Action
-    label.remove: Ongoing, A-100, A-250
+    label: Ongoing
     studio: TROYCA
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/51098.jpg
   "Koukyuu no Karasu":
@@ -1596,7 +1596,7 @@ metadata:
     sort_title: "Koukyuu no Karasu"
     audience_rating: 7.11
     genre.sync: Anime,Fantasy,Historical
-    label.remove: Ongoing, A-100, A-250
+    label: Ongoing
     studio: Bandai Namco Pictures
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/50590.jpg
   "Mobile Suit Gundam: The Witch from Mercury":
@@ -1604,6 +1604,6 @@ metadata:
     sort_title: "Mobile Suit Gundam: The Witch from Mercury"
     audience_rating: 8.11
     genre.sync: Anime,Mecha
-    label.remove: Ongoing, A-100, A-250
+    label: Ongoing
     studio: Sunrise
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/49828.jpg
