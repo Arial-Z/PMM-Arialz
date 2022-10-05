@@ -1594,7 +1594,7 @@ metadata:
   "Koukyuu no Karasu":
     alt_title: "Koukyuu no Karasu"
     sort_title: "Koukyuu no Karasu"
-    audience_rating: 7.11
+    audience_rating: 7.14
     genre.sync: Anime,Fantasy,Historical
     label: Ongoing
     studio: Bandai Namco Pictures
@@ -1602,8 +1602,24 @@ metadata:
   "Mobile Suit Gundam: The Witch from Mercury":
     alt_title: "Mobile Suit Gundam: the Witch from Mercury"
     sort_title: "Mobile Suit Gundam: The Witch from Mercury"
-    audience_rating: 8.11
+    audience_rating: 8.12
     genre.sync: Anime,Mecha
     label: Ongoing
     studio: Sunrise
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/49828.jpg
+  "Kage no Jitsuryokusha ni Naritakute!":
+    alt_title: "Kage no Jitsuryokusha ni Naritakute!"
+    sort_title: "Kage no Jitsuryokusha ni Naritakute!"
+    audience_rating: null
+    genre.sync: Anime,Action,Comedy,Fantasy,Isekai,Reincarnation
+    label.remove: Ongoing, A-100, A-250
+    studio: Nexus
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/48316.jpg
+  "Tensei shitara Ken Deshita":
+    alt_title: "Tensei Shitara Ken Deshita"
+    sort_title: "Tensei shitara Ken Deshita"
+    audience_rating: 7.15
+    genre.sync: Anime,Action,Fantasy,Isekai,Reincarnation
+    label: Ongoing
+    studio: C2C
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/49891.jpg
