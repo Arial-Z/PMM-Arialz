@@ -20,7 +20,7 @@ metadata:
     sort_title: "Boku no Hero Academia"
     audience_rating: 7.92
     genre.sync: Anime,Action,School,Super Power,Shounen
-    label.sync: Ongoing
+    label: Ongoing
     studio: Bones
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/31964.jpg
   "Chikyuugai Shounen Shoujo":
@@ -36,7 +36,7 @@ metadata:
     sort_title: "Code Geass: Hangyaku no Lelouch"
     audience_rating: 8.7
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,School,Super Power
-    label.sync: A-100
+    label.remove: Ongoing, A-100, A-250
     studio: Sunrise
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/1575.jpg
   "Gintama":
@@ -44,7 +44,7 @@ metadata:
     sort_title: "Gintama"
     audience_rating: 8.94
     genre.sync: Anime,Action,Comedy,Sci-Fi,Gag Humor,Historical,Parody,Samurai,Shounen
-    label.sync: A-100
+    label.remove: Ongoing, A-100, A-250
     studio: Sunrise
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/918.jpg
   "Haikyuu!!":
@@ -52,7 +52,7 @@ metadata:
     sort_title: "Haikyuu!!"
     audience_rating: 8.45
     genre.sync: Anime,Sports,School,Team Sports,Shounen
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: Production I.G
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/20583.jpg
   "Kamisama Hajimemashita":
@@ -68,7 +68,7 @@ metadata:
     sort_title: "Kimetsu no Yaiba"
     audience_rating: 8.53
     genre.sync: Anime,Action,Fantasy,Historical,Shounen
-    label.sync: A-100
+    label.remove: Ongoing, A-100, A-250
     studio: ufotable
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/38000.jpg
   "Kyoukai no Kanata":
@@ -92,7 +92,7 @@ metadata:
     sort_title: "Made in Abyss"
     audience_rating: 8.67
     genre.sync: Anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi
-    label.sync: A-100
+    label.remove: Ongoing, A-100, A-250
     studio: Kinema Citrus
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34599.jpg
   "Mobile Suit Gundam 00":
@@ -124,7 +124,7 @@ metadata:
     sort_title: "Re:Zero kara Hajimeru Isekai Seikatsu"
     audience_rating: 8.24
     genre.sync: Anime,Drama,Fantasy,Suspense,Isekai,Psychological,Time Travel
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: White Fox
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/31240.jpg
   "Ryman's Club":
@@ -148,7 +148,7 @@ metadata:
     sort_title: "Shingeki no Kyojin"
     audience_rating: 8.53
     genre.sync: Anime,Action,Drama,Gore,Military,Survival,Shounen
-    label.sync: A-100
+    label.remove: Ongoing, A-100, A-250
     studio: Wit Studio
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/16498.jpg
   "Shokei Shoujo no Virgin Road":
@@ -172,7 +172,7 @@ metadata:
     sort_title: "Saiki Kusuo no Ψ-nan"
     audience_rating: 8.42
     genre.sync: Anime,Comedy,Supernatural,Gag Humor,School,Shounen
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: J.C.Staff
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/33255.jpg
   "Major":
@@ -188,7 +188,7 @@ metadata:
     sort_title: "Shouwa Genroku Rakugo Shinjuu"
     audience_rating: 8.58
     genre.sync: Anime,Drama,Historical,Love Polygon,Performing Arts,Josei
-    label.sync: A-100
+    label.remove: Ongoing, A-100, A-250
     studio: Studio Deen
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/28735.jpg
   "Cyberpunk: Edgerunners":
@@ -196,7 +196,7 @@ metadata:
     sort_title: "Cyberpunk: Edgerunners"
     audience_rating: 8.75
     genre.sync: Anime,Action,Sci-Fi
-    label.sync: A-100
+    label.remove: Ongoing, A-100, A-250
     studio: Trigger
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/42310.jpg
   "86":
@@ -204,7 +204,7 @@ metadata:
     sort_title: "86"
     audience_rating: 8.26
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: A-1 Pictures
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/41457.jpg
   "ACCA: 13-ku Kansatsu-ka":
@@ -252,7 +252,7 @@ metadata:
     sort_title: "Ao Ashi"
     audience_rating: 8.32
     genre.sync: Anime,Sports,Team Sports,Seinen
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: Production I.G
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/49052.jpg
   "Ijiranaide, Nagatoro-san":
@@ -284,7 +284,7 @@ metadata:
     sort_title: "Bakuman."
     audience_rating: 8.19
     genre.sync: Anime,Comedy,Drama,Romance,Otaku Culture,Shounen
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: J.C.Staff
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/7674.jpg
   "Barakamon":
@@ -292,7 +292,7 @@ metadata:
     sort_title: "Barakamon"
     audience_rating: 8.39
     genre.sync: Anime,Slice of Life,Childcare,Iyashikei,Visual Arts
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: Kinema Citrus
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/22789.jpg
   "Beastars":
@@ -396,7 +396,7 @@ metadata:
     sort_title: "Isekai Ojisan"
     audience_rating: 7.91
     genre.sync: Anime,Comedy,Fantasy,Isekai
-    label.sync: Ongoing
+    label: Ongoing
     studio: AtelierPontdarc
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/49220.jpg
   "Kakkou no Iinazuke":
@@ -484,7 +484,7 @@ metadata:
     sort_title: "Dr. Stone"
     audience_rating: 8.29
     genre.sync: Anime,Adventure,Comedy,Sci-Fi,Survival,Time Travel,Shounen
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: TMS Entertainment
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/38691.jpg
   "Engage Kiss":
@@ -500,7 +500,7 @@ metadata:
     sort_title: "Boku dake ga Inai Machi"
     audience_rating: 8.31
     genre.sync: Anime,Mystery,Supernatural,Psychological,Time Travel,Seinen
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: A-1 Pictures
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/31043.jpg
   "Fairy Tail":
@@ -540,7 +540,7 @@ metadata:
     sort_title: "Fullmetal Alchemist: Brotherhood"
     audience_rating: 9.13
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Military,Shounen
-    label.sync: A-100
+    label.remove: Ongoing, A-100, A-250
     studio: Bones
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/5114.jpg
   "Gankutsuou":
@@ -580,7 +580,7 @@ metadata:
     sort_title: "Shoujo Shuumatsu Ryokou"
     audience_rating: 8.2
     genre.sync: Anime,Adventure,Mystery,Sci-Fi,Slice of Life,Iyashikei
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: White Fox
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/35838.jpg
   "Golden Kamuy":
@@ -588,7 +588,7 @@ metadata:
     sort_title: "Golden Kamuy"
     audience_rating: 7.87
     genre.sync: Anime,Action,Adventure,Historical,Seinen
-    label.sync: Ongoing
+    label: Ongoing
     studio: Geno Studio
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/36028.jpg
   "Grand Blue":
@@ -596,7 +596,7 @@ metadata:
     sort_title: "Grand Blue"
     audience_rating: 8.43
     genre.sync: Anime,Comedy,Seinen
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: Zero-G
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37105.jpg
   "Hajime no Ippo":
@@ -604,7 +604,7 @@ metadata:
     sort_title: "Hajime no Ippo"
     audience_rating: 8.75
     genre.sync: Anime,Sports,Combat Sports,Shounen
-    label.sync: A-100
+    label.remove: Ongoing, A-100, A-250
     studio: Madhouse
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/263.jpg
   "Heion Sedai no Idaten-tachi":
@@ -620,7 +620,7 @@ metadata:
     sort_title: "Hellsing Ultimate"
     audience_rating: 8.36
     genre.sync: Anime,Action,Horror,Supernatural,Adult Cast,Gore,Military,Vampire,Seinen
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: Madhouse
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/777.jpg
   "Hige wo Soru. Soshite Joshikousei wo Hirou.":
@@ -660,7 +660,7 @@ metadata:
     sort_title: "Horimiya"
     audience_rating: 8.2
     genre.sync: Anime,Romance,School,Shounen
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: CloverWorks
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/42897.jpg
   "Hoshiai no Sora":
@@ -724,7 +724,7 @@ metadata:
     sort_title: "Jujutsu Kaisen"
     audience_rating: 8.67
     genre.sync: Anime,Action,Fantasy,School,Shounen
-    label.sync: A-100
+    label.remove: Ongoing, A-100, A-250
     studio: MAPPA
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/40748.jpg
   "Koutetsujou no Kabaneri":
@@ -740,7 +740,7 @@ metadata:
     sort_title: "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
     audience_rating: 8.41
     genre.sync: Anime,Comedy,Psychological,Romantic Subtext,School,Seinen
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: A-1 Pictures
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37999.jpg
   "Kaiba":
@@ -756,7 +756,7 @@ metadata:
     sort_title: "Katanagatari"
     audience_rating: 8.32
     genre.sync: Anime,Action,Adventure,Romance,Historical,Martial Arts
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: White Fox
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/6594.jpg
   "Kaze ga Tsuyoku Fuiteiru":
@@ -764,7 +764,7 @@ metadata:
     sort_title: "Kaze ga Tsuyoku Fuiteiru"
     audience_rating: 8.4
     genre.sync: Anime,Drama,Sports
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: Production I.G
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37965.jpg
   "Kemono Jihen":
@@ -844,7 +844,7 @@ metadata:
     sort_title: "Houseki no Kuni"
     audience_rating: 8.4
     genre.sync: Anime,Action,Drama,Fantasy,Mystery,Anthropomorphic,Seinen
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: Orange
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/35557.jpg
   "Tonari no Kaibutsu-kun":
@@ -860,7 +860,7 @@ metadata:
     sort_title: "Natsume Yuujinchou"
     audience_rating: 8.32
     genre.sync: Anime,Drama,Slice of Life,Supernatural,Iyashikei,Mythology,Shoujo
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: Brains Base
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/4081.jpg
   "Sentouin, Hakenshimasu!":
@@ -892,7 +892,7 @@ metadata:
     sort_title: "Lycoris Recoil"
     audience_rating: 8.31
     genre.sync: Anime,Action
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: A-1 Pictures
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/50709.jpg
   "Magi: The Labyrinth of Magic":
@@ -924,7 +924,7 @@ metadata:
     sort_title: "3-gatsu no Lion"
     audience_rating: 8.39
     genre.sync: Anime,Drama,Slice of Life,Childcare,Iyashikei,Strategy Game,Seinen
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: Shaft
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/31646.jpg
   "Kobayashi-san Chi no Maid Dragon":
@@ -940,7 +940,7 @@ metadata:
     sort_title: "Mob Psycho 100"
     audience_rating: 8.48
     genre.sync: Anime,Action,Comedy,Supernatural,Super Power
-    label.sync: Ongoing, A-100
+    label: Ongoing
     studio: Bones
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/32182.jpg
   "Mobile Suit Gundam: Iron-Blooded Orphans":
@@ -972,7 +972,7 @@ metadata:
     sort_title: "Mushoku Tensei: Isekai Ittara Honki Dasu"
     audience_rating: 8.38
     genre.sync: Anime,Drama,Fantasy,Ecchi,Isekai,Reincarnation
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: Studio Bind
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/39535.jpg
   "Sono Bisque Doll wa Koi wo Suru":
@@ -980,7 +980,7 @@ metadata:
     sort_title: "Sono Bisque Doll wa Koi wo Suru"
     audience_rating: 8.31
     genre.sync: Anime,Romance,Slice of Life,Otaku Culture,School,Seinen
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: CloverWorks
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/48736.jpg
   "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita":
@@ -1020,7 +1020,7 @@ metadata:
     sort_title: "One Piece"
     audience_rating: 8.67
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
-    label.sync: Ongoing, A-100
+    label: Ongoing
     studio: Toei Animation
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/21.jpg
   "One Punch Man":
@@ -1028,7 +1028,7 @@ metadata:
     sort_title: "One Punch Man"
     audience_rating: 8.51
     genre.sync: Anime,Action,Comedy,Parody,Super Power,Seinen
-    label.sync: A-100
+    label.remove: Ongoing, A-100, A-250
     studio: Madhouse
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/30276.jpg
   "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen":
@@ -1052,7 +1052,7 @@ metadata:
     sort_title: "Kiseijuu: Sei no Kakuritsu"
     audience_rating: 8.35
     genre.sync: Anime,Action,Horror,Sci-Fi,Gore,Psychological,Seinen
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: Madhouse
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/22535.jpg
   "Sakura-sou no Pet na Kanojo":
@@ -1092,7 +1092,7 @@ metadata:
     sort_title: "Yakusoku no Neverland"
     audience_rating: 8.53
     genre.sync: Anime,Mystery,Sci-Fi,Suspense,Psychological,Survival,Shounen
-    label.sync: A-100
+    label.remove: Ongoing, A-100, A-250
     studio: CloverWorks
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37779.jpg
   "5-toubun no Hanayome":
@@ -1124,7 +1124,7 @@ metadata:
     sort_title: "Ousama Ranking"
     audience_rating: 8.59
     genre.sync: Anime,Adventure,Fantasy
-    label.sync: A-100
+    label.remove: Ongoing, A-100, A-250
     studio: Wit Studio
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/40834.jpg
   "Net-juu no Susume":
@@ -1228,7 +1228,7 @@ metadata:
     sort_title: "Shiguang Dailiren"
     audience_rating: 8.78
     genre.sync: Anime,Drama,Supernatural,Time Travel
-    label.sync: A-100
+    label.remove: Ongoing, A-100, A-250
     studio: Studio LAN
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/44074.jpg
   "Shirobako":
@@ -1236,7 +1236,7 @@ metadata:
     sort_title: "Shirobako"
     audience_rating: 8.29
     genre.sync: Anime,Comedy,Drama,Adult Cast,Otaku Culture,Workplace
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: P.A. Works
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/25835.jpg
   "Gin no Saji":
@@ -1276,7 +1276,7 @@ metadata:
     sort_title: "Uchuu Kyoudai"
     audience_rating: 8.5
     genre.sync: Anime,Comedy,Sci-Fi,Slice of Life,Adult Cast,Space,Workplace,Seinen
-    label.sync: A-100
+    label.remove: Ongoing, A-100, A-250
     studio: A-1 Pictures
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/12431.jpg
   "Ookami to Koushinryou":
@@ -1284,7 +1284,7 @@ metadata:
     sort_title: "Ookami to Koushinryou"
     audience_rating: 8.23
     genre.sync: Anime,Adventure,Fantasy,Romance,Adult Cast,Historical
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: Imagin
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/2966.jpg
   "Spy x Family":
@@ -1292,7 +1292,7 @@ metadata:
     sort_title: "Spy x Family"
     audience_rating: 8.75
     genre.sync: Anime,Action,Comedy,Childcare,Shounen
-    label.sync: Ongoing, A-100
+    label: Ongoing
     studio: Wit Studio
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/50265.jpg
   "Steins;Gate":
@@ -1300,7 +1300,7 @@ metadata:
     sort_title: "Steins;Gate"
     audience_rating: 9.08
     genre.sync: Anime,Drama,Sci-Fi,Suspense,Psychological,Time Travel
-    label.sync: A-100
+    label.remove: Ongoing, A-100, A-250
     studio: White Fox
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/9253.jpg
   "Steins;Gate 0":
@@ -1308,7 +1308,7 @@ metadata:
     sort_title: "Steins;Gate 0"
     audience_rating: 8.52
     genre.sync: Anime,Drama,Sci-Fi,Suspense,Time Travel
-    label.sync: A-100
+    label.remove: Ongoing, A-100, A-250
     studio: White Fox
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/30484.jpg
   "Summertime Render":
@@ -1316,7 +1316,7 @@ metadata:
     sort_title: "Summertime Render"
     audience_rating: 8.59
     genre.sync: Anime,Mystery,Supernatural,Suspense,Time Travel,Shounen
-    label.sync: A-100
+    label.remove: Ongoing, A-100, A-250
     studio: OLM
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/47194.jpg
   "Sword Art Online":
@@ -1356,7 +1356,7 @@ metadata:
     sort_title: "Fumetsu no Anata e"
     audience_rating: 8.38
     genre.sync: Anime,Adventure,Drama,Supernatural,Shounen
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: Brains Base
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/41025.jpg
   "Tokyo Ravens":
@@ -1444,7 +1444,7 @@ metadata:
     sort_title: "Usagi Drop"
     audience_rating: 8.37
     genre.sync: Anime,Slice of Life,Childcare,Iyashikei,Josei
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: Production I.G
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/10162.jpg
   "Uzaki-chan wa Asobitai!":
@@ -1452,7 +1452,7 @@ metadata:
     sort_title: "Uzaki-chan wa Asobitai!"
     audience_rating: 7.01
     genre.sync: Anime,Comedy,Ecchi,Romantic Subtext
-    label.sync: Ongoing
+    label: Ongoing
     studio: ENGI
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/41226.jpg
   "Vinland Saga":
@@ -1460,7 +1460,7 @@ metadata:
     sort_title: "Vinland Saga"
     audience_rating: 8.73
     genre.sync: Anime,Action,Adventure,Drama,Historical,Seinen
-    label.sync: A-100
+    label.remove: Ongoing, A-100, A-250
     studio: Wit Studio
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37521.jpg
   "Violet Evergarden":
@@ -1468,7 +1468,7 @@ metadata:
     sort_title: "Violet Evergarden"
     audience_rating: 8.67
     genre.sync: Anime,Drama,Fantasy,Slice of Life
-    label.sync: A-100
+    label.remove: Ongoing, A-100, A-250
     studio: Kyoto Animation
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/33352.jpg
   "Vivy: Fluorite Eye's Song":
@@ -1476,7 +1476,7 @@ metadata:
     sort_title: "Vivy: Fluorite Eye's Song"
     audience_rating: 8.43
     genre.sync: Anime,Action,Sci-Fi,Suspense,Music,Time Travel
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: Wit Studio
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/46095.jpg
   "Mairimashita! Iruma-kun":
@@ -1484,7 +1484,7 @@ metadata:
     sort_title: "Mairimashita! Iruma-kun"
     audience_rating: 7.75
     genre.sync: Anime,Comedy,Fantasy,Isekai,Mythology,School,Shounen
-    label.sync: Ongoing
+    label: Ongoing
     studio: Bandai Namco Pictures
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/39196.jpg
   "Ookami Shoujo to Kuro Ouji":
@@ -1548,7 +1548,7 @@ metadata:
     sort_title: "Paripi Koumei"
     audience_rating: 8.24
     genre.sync: Anime,Adult Cast,Music,Reincarnation
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: P.A. Works
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/50380.jpg
   "Kumichou Musume to Sewagakari":
@@ -1564,7 +1564,7 @@ metadata:
     sort_title: "Shigatsu wa Kimi no Uso"
     audience_rating: 8.66
     genre.sync: Anime,Drama,Romance,Music,School,Shounen
-    label.sync: A-100
+    label.remove: Ongoing, A-100, A-250
     studio: A-1 Pictures
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/23273.jpg
   "Yuru Camp△":
@@ -1572,7 +1572,7 @@ metadata:
     sort_title: "Yuru Camp△"
     audience_rating: 8.27
     genre.sync: Anime,Slice of Life,CGDCT,Iyashikei
-    label.sync: A-250
+    label.remove: Ongoing, A-100, A-250
     studio: C-Station
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34798.jpg
   "Akuyaku Reijou nanode Last Boss wo Kattemimashita":
@@ -1580,7 +1580,7 @@ metadata:
     sort_title: "Akuyaku Reijou nanode Last Boss wo Kattemimashita"
     audience_rating: 7.46
     genre.sync: Anime,Comedy,Fantasy,Romance,Isekai,Shoujo
-    label.sync: Ongoing
+    label: Ongoing
     studio: Maho Film
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/49979.jpg
   "Shinobi no Ittoki":
@@ -1588,7 +1588,7 @@ metadata:
     sort_title: "Shinobi no Ittoki"
     audience_rating: 6.96
     genre.sync: Anime,Action
-    label.sync: Ongoing
+    label: Ongoing
     studio: TROYCA
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/51098.jpg
   "Koukyuu no Karasu":
@@ -1596,7 +1596,7 @@ metadata:
     sort_title: "Koukyuu no Karasu"
     audience_rating: 7.24
     genre.sync: Anime,Fantasy,Historical
-    label.sync: Ongoing
+    label: Ongoing
     studio: Bandai Namco Pictures
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/50590.jpg
   "Mobile Suit Gundam: The Witch from Mercury":
@@ -1604,7 +1604,7 @@ metadata:
     sort_title: "Mobile Suit Gundam: The Witch from Mercury"
     audience_rating: 8.13
     genre.sync: Anime,Mecha
-    label.sync: Ongoing
+    label: Ongoing
     studio: Sunrise
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/49828.jpg
   "Kage no Jitsuryokusha ni Naritakute!":
@@ -1612,7 +1612,7 @@ metadata:
     sort_title: "Kage no Jitsuryokusha ni Naritakute!"
     audience_rating: 7.8
     genre.sync: Anime,Action,Comedy,Fantasy,Isekai,Reincarnation
-    label.sync: Ongoing
+    label: Ongoing
     studio: Nexus
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/48316.jpg
   "Tensei shitara Ken Deshita":
@@ -1620,7 +1620,7 @@ metadata:
     sort_title: "Tensei shitara Ken Deshita"
     audience_rating: 7.33
     genre.sync: Anime,Action,Fantasy,Isekai,Reincarnation
-    label.sync: Ongoing
+    label: Ongoing
     studio: C2C
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/49891.jpg
   "Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta.":
@@ -1628,7 +1628,7 @@ metadata:
     sort_title: "Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta."
     audience_rating: 6.49
     genre.sync: Anime,Action,Adventure,Fantasy
-    label.sync: Ongoing
+    label: Ongoing
     studio: Studio A-CAT
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/51128.jpg
   "Blue Lock":
@@ -1636,6 +1636,6 @@ metadata:
     sort_title: "Blue Lock"
     audience_rating: 8.47
     genre.sync: Anime,Sports,Team Sports,Shounen
-    label.sync: Ongoing, A-100
+    label: Ongoing
     studio: 8bit
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/49596.jpg
