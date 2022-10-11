@@ -890,7 +890,7 @@ metadata:
   "Lycoris Recoil":
     alt_title: "Lycoris Recoil"
     sort_title: "Lycoris Recoil"
-    audience_rating: 8.31
+    audience_rating: 8.3
     genre.sync: Anime,Action
     label.remove: Ongoing, A-100, A-250
     studio: A-1 Pictures
@@ -1043,7 +1043,7 @@ metadata:
     alt_title: "Parallel World Pharmacy"
     sort_title: "Isekai Yakkyoku"
     audience_rating: 7.35
-    genre.sync: Anime,Fantasy,Isekai,Medical
+    genre.sync: Anime,Fantasy,Isekai,Medical,Reincarnation
     label.remove: Ongoing, A-100, A-250
     studio: Diomedéa
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/49438.jpg
@@ -1554,7 +1554,7 @@ metadata:
   "Kumichou Musume to Sewagakari":
     alt_title: "The Yakuza’s Guide to Babysitting"
     sort_title: "Kumichou Musume to Sewagakari"
-    audience_rating: 7.78
+    audience_rating: 7.79
     genre.sync: Anime,Slice of Life,Childcare,Organized Crime
     label.remove: Ongoing, A-100, A-250
     studio: feel.
@@ -1578,7 +1578,7 @@ metadata:
   "Akuyaku Reijou nanode Last Boss wo Kattemimashita":
     alt_title: "Si je suis la Vilaine, autant mater le boss final"
     sort_title: "Akuyaku Reijou nanode Last Boss wo Kattemimashita"
-    audience_rating: 7.48
+    audience_rating: 7.49
     genre.sync: Anime,Comedy,Fantasy,Romance,Isekai,Shoujo
     label: Ongoing
     studio: Maho Film
@@ -1634,8 +1634,16 @@ metadata:
   "Blue Lock":
     alt_title: "Blue Lock"
     sort_title: "Blue Lock"
-    audience_rating: 8.45
+    audience_rating: 8.44
     genre.sync: Anime,Sports,Team Sports,Shounen
     label: Ongoing
     studio: 8bit
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/49596.jpg
+  "Chainsaw Man":
+    alt_title: "Chensō man"
+    sort_title: "Chainsaw Man"
+    audience_rating: null
+    genre.sync: Anime,Action,Supernatural,Gore,Shounen
+    label.remove: Ongoing, A-100, A-250
+    studio: MAPPA
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/44511.jpg
