@@ -104,21 +104,13 @@ metadata:
     studio: Sunrise
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/2581.jpg
   "Mobile Suit Gundam Unicorn":
-    alt_title: "5-toubun no Hanayome"
+    alt_title: "Mobile Suit Gundam Unicorn RE:0096"
     sort_title: "Mobile Suit Gundam Unicorn"
     audience_rating: 8.11
     genre.sync: Anime,Action,Drama,Sci-Fi,Mecha,Military,Space
     label.remove: Ongoing
     studio: Sunrise
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/6336.jpg
-  "":
-    alt_title: ""
-    sort_title: ""
-    audience_rating: 
-    genre.sync: Anime,
-    label.remove: Ongoing
-    studio: 
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/.jpg
   "Overlord":
     alt_title: "Overlord"
     sort_title: "Overlord"
@@ -223,14 +215,14 @@ metadata:
     label: Ongoing
     studio: 8bit
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/49596.jpg
-  "5-toubun no Hanayome":
-    alt_title: "5-toubun no Hanayome"
-    sort_title: "5-toubun no Hanayome"
-    audience_rating: 7.67
-    genre.sync: Anime,Comedy,Romance,Harem,School,Shounen
+  "3-gatsu no Lion":
+    alt_title: "3-gatsu no Lion"
+    sort_title: "3-gatsu no Lion"
+    audience_rating: 8.39
+    genre.sync: Anime,Drama,Slice of Life,Childcare,Iyashikei,Strategy Game,Seinen
     label.remove: Ongoing
-    studio: Tezuka Productions
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/38101.jpg
+    studio: Shaft
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/31646.jpg
   "86":
     alt_title: "86"
     sort_title: "86"
@@ -482,7 +474,7 @@ metadata:
   "Engage Kiss":
     alt_title: "Engage Kiss"
     sort_title: "Engage Kiss"
-    audience_rating: 6.91
+    audience_rating: 6.9
     genre.sync: Anime,Comedy,Romance
     label.remove: Ongoing
     studio: A-1 Pictures
@@ -906,7 +898,7 @@ metadata:
   "Kuro no Shoukanshi":
     alt_title: "Kuro no Shoukanshi"
     sort_title: "Kuro no Shoukanshi"
-    audience_rating: 7.12
+    audience_rating: 7.13
     genre.sync: Anime,Action,Fantasy,Isekai,Reincarnation
     label.remove: Ongoing
     studio: Satelight
@@ -991,14 +983,6 @@ metadata:
     label.remove: Ongoing
     studio: Arms
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/14833.jpg
-  "3-gatsu no Lion":
-    alt_title: "March Comes in like a Lion"
-    sort_title: "3-gatsu no Lion"
-    audience_rating: 8.39
-    genre.sync: Anime,Drama,Slice of Life,Childcare,Iyashikei,Strategy Game,Seinen
-    label.remove: Ongoing
-    studio: Shaft
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/31646.jpg
   "Mashiro no Oto":
     alt_title: "Mashiro no Oto"
     sort_title: "Mashiro no Oto"
@@ -1167,6 +1151,14 @@ metadata:
     label.remove: Ongoing
     studio: B.CMAY PICTURES
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/33926.jpg
+  "5-toubun no Hanayome":
+    alt_title: "The Quintessential Quintuplets"
+    sort_title: "5-toubun no Hanayome"
+    audience_rating: 7.67
+    genre.sync: Anime,Comedy,Romance,Harem,School,Shounen
+    label.remove: Ongoing
+    studio: Tezuka Productions
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/38101.jpg
   "Radiant":
     alt_title: "Radiant"
     sort_title: "Radiant"
