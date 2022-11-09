@@ -231,3 +231,8 @@ overlays:
     template:
       - name: Studios
         weight: 20
+
+  Maho Film:
+    template:
+      - name: Studios
+        weight: 20
