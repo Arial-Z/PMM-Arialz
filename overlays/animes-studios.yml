@@ -10,8 +10,8 @@ templates:
       vertical_align: top
     collection_level: <<overlay_level>>
     plex_all: true
-      filters:
-        studio: <<overlay_name>>
+    filters:
+      studio: <<overlay_name>>
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/Studios/Animes/<<overlay>>
