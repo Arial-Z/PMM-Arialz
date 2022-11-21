@@ -263,14 +263,6 @@ metadata:
     label: Ongoing
     studio: Maho Film
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/49979.jpg
-  "Nejimaki Seirei Senki: Tenkyou no Alderamin":
-    alt_title: "Alderamin on the Sky"
-    sort_title: "Nejimaki Seirei Senki: Tenkyou no Alderamin"
-    audience_rating: 7.66
-    genre.sync: Anime,Action,Adventure,Fantasy,Military
-    label.remove: Ongoing
-    studio: Madhouse
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/31764.jpg
   "Aldnoah.Zero":
     alt_title: "Aldnoah.Zero"
     sort_title: "Aldnoah.Zero"
@@ -279,14 +271,6 @@ metadata:
     label.remove: Ongoing
     studio: A-1 Pictures
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/22729.jpg
-  "Shoukoku no Altair":
-    alt_title: "Altaïr"
-    sort_title: "Shoukoku no Altair"
-    audience_rating: 7.55
-    genre.sync: Anime,Adventure,Drama,Fantasy,Historical,Military,Shounen
-    label.remove: Ongoing
-    studio: MAPPA
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34547.jpg
   "Angolmois: Genkou Kassenki":
     alt_title: "Angolmois: Genkou Kassenki"
     sort_title: "Angolmois: Genkou Kassenki"
@@ -600,7 +584,7 @@ metadata:
     studio: Zero-G
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37105.jpg
   "Hai to Gensou no Grimgar":
-    alt_title: "Grimgar : Le Monde des cendres et de fantaisie"
+    alt_title: "Hai to Gensou no Grimgar"
     sort_title: "Hai to Gensou no Grimgar"
     audience_rating: 7.65
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Isekai
@@ -1111,6 +1095,14 @@ metadata:
     label.remove: Ongoing
     studio: Brains Base
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/4081.jpg
+  "Nejimaki Seirei Senki: Tenkyou no Alderamin":
+    alt_title: "Nejimaki Seirei Senki: Tenkyou no Alderamin"
+    sort_title: "Nejimaki Seirei Senki: Tenkyou no Alderamin"
+    audience_rating: 7.66
+    genre.sync: Anime,Action,Adventure,Fantasy,Military
+    label.remove: Ongoing
+    studio: Madhouse
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/31764.jpg
   "Net-juu no Susume":
     alt_title: "Net-juu no Susume"
     sort_title: "Net-juu no Susume"
@@ -1351,6 +1343,14 @@ metadata:
     label.remove: Ongoing
     studio: White Fox
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/35838.jpg
+  "Shoukoku no Altair":
+    alt_title: "Shoukoku no Altair"
+    sort_title: "Shoukoku no Altair"
+    audience_rating: 7.55
+    genre.sync: Anime,Adventure,Drama,Fantasy,Historical,Military,Shounen
+    label.remove: Ongoing
+    studio: MAPPA
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34547.jpg
   "Sidonia no Kishi":
     alt_title: "Sidonia no Kishi"
     sort_title: "Sidonia no Kishi"
