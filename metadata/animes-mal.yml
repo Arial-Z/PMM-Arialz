@@ -2,7 +2,7 @@ metadata:
   "Blue Lock":
     alt_title: "Blue Lock"
     sort_title: "Blue Lock"
-    audience_rating: 8.23
+    audience_rating: 8.24
     genre.sync: Anime,Sports,Team Sports,Shounen
     label: Ongoing
     studio: 8bit
@@ -194,7 +194,7 @@ metadata:
   "Koukyuu no Karasu":
     alt_title: "Koukyuu no Karasu"
     sort_title: "Koukyuu no Karasu"
-    audience_rating: 7.35
+    audience_rating: 7.36
     genre.sync: Anime,Fantasy,Mystery,Historical,Mythology,Josei
     label: Ongoing
     studio: Bandai Namco Pictures
@@ -263,6 +263,14 @@ metadata:
     label: Ongoing
     studio: Maho Film
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/49979.jpg
+  "Nejimaki Seirei Senki: Tenkyou no Alderamin":
+    alt_title: "Alderamin on the Sky"
+    sort_title: "Nejimaki Seirei Senki: Tenkyou no Alderamin"
+    audience_rating: 7.66
+    genre.sync: Anime,Action,Adventure,Fantasy,Military
+    label.remove: Ongoing
+    studio: Madhouse
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/31764.jpg
   "Aldnoah.Zero":
     alt_title: "Aldnoah.Zero"
     sort_title: "Aldnoah.Zero"
@@ -271,6 +279,14 @@ metadata:
     label.remove: Ongoing
     studio: A-1 Pictures
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/22729.jpg
+  "Shoukoku no Altair":
+    alt_title: "Altaïr"
+    sort_title: "Shoukoku no Altair"
+    audience_rating: 7.55
+    genre.sync: Anime,Adventure,Drama,Fantasy,Historical,Military,Shounen
+    label.remove: Ongoing
+    studio: MAPPA
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34547.jpg
   "Angolmois: Genkou Kassenki":
     alt_title: "Angolmois: Genkou Kassenki"
     sort_title: "Angolmois: Genkou Kassenki"
@@ -298,7 +314,7 @@ metadata:
   "Arknights: Reimei Zensou":
     alt_title: "Arknights: Reimei Zensou"
     sort_title: "Arknights: Reimei Zensou"
-    audience_rating: 7.84
+    audience_rating: 7.83
     genre.sync: Anime,Action,Fantasy
     label: Ongoing
     studio: Yostar Pictures
@@ -370,8 +386,8 @@ metadata:
   "Chainsaw Man":
     alt_title: "Chainsaw Man"
     sort_title: "Chainsaw Man"
-    audience_rating: 8.86
-    genre.sync: Anime,Action,Supernatural,Gore,Shounen
+    audience_rating: 8.85
+    genre.sync: Anime,Action,Fantasy,Gore,Shounen
     label: Ongoing
     studio: MAPPA
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/44511.jpg
@@ -583,6 +599,14 @@ metadata:
     label.remove: Ongoing
     studio: Zero-G
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37105.jpg
+  "Hai to Gensou no Grimgar":
+    alt_title: "Grimgar : Le Monde des cendres et de fantaisie"
+    sort_title: "Hai to Gensou no Grimgar"
+    audience_rating: 7.65
+    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Isekai
+    label.remove: Ongoing
+    studio: A-1 Pictures
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/31859.jpg
   "Haibane Renmei":
     alt_title: "Haibane Renmei"
     sort_title: "Haibane Renmei"
@@ -880,12 +904,12 @@ metadata:
     studio: SILVER LINK.
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/40595.jpg
   "Kingdom":
-    alt_title: "Kingdom"
+    alt_title: ""
     sort_title: "Kingdom"
-    audience_rating: 7.94
-    genre.sync: Anime,Action,Historical,Military,Seinen
+    audience_rating: 
+    genre.sync: Anime,
     label.remove: Ongoing
-    studio: Pierrot
+    studio: 
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/12031.jpg
   "Kiseijuu: Sei no Kakuritsu":
     alt_title: "Kiseijuu: Sei no Kakuritsu"
@@ -1306,7 +1330,7 @@ metadata:
   "Shinobi no Ittoki":
     alt_title: "Shinobi no Ittoki"
     sort_title: "Shinobi no Ittoki"
-    audience_rating: 6.21
+    audience_rating: 6.2
     genre.sync: Anime,Action,School
     label: Ongoing
     studio: TROYCA
