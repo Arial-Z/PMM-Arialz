@@ -244,13 +244,6 @@ metadata:
     genre.sync: Anime,Action,Military,School
     studio: A-1 Pictures
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37704.jpg
-  "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou":
-    alt_title: "Ore ga Ichiban Sexy"
-    sort_title: "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou"
-    audience_rating: 8.41
-    genre.sync: Anime,Drama,Fantasy,Slice of Life
-    studio: Kyoto Animation
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/39741.jpg
   "AKIRA":
     alt_title: "AKIRA"
     sort_title: "AKIRA"
@@ -524,3 +517,10 @@ metadata:
     genre.sync: Anime,Award Winning,Drama,Romance,Sci-Fi,School,Time Travel
     studio: Madhouse
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/2236.jpg
+  "null":
+    alt_title: "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou"
+    sort_title: "null"
+    audience_rating: 8.41
+    genre.sync: Anime,Drama,Fantasy,Slice of Life
+    studio: Kyoto Animation
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/39741.jpg
