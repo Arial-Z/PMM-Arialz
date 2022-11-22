@@ -36,7 +36,7 @@ metadata:
     sort_title: "Boku no Hero Academia"
     audience_rating: 7.91
     genre.sync: Anime,Action,Shounen
-    label: Ongoing
+    label.remove: Ongoing
     studio: Bones
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/31964.jpg
   "Chikyuugai Shounen Shoujo":
@@ -256,7 +256,7 @@ metadata:
     studio: Madhouse
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/33337.jpg
   "Akiba Meido Sensou":
-    alt_title: "Akiba Maid War"
+    alt_title: "Akiba Meido Sensou"
     sort_title: "Akiba Meido Sensou"
     audience_rating: 7.53
     genre.sync: Anime,Action,Comedy
@@ -356,11 +356,11 @@ metadata:
     sort_title: "BLEACH"
     audience_rating: 7.89
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
-    label.remove: Ongoing
+    label: Ongoing
     studio: Pierrot
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/269.jpg
   "Bocchi the Rock!":
-    alt_title: "BOCCHI THE ROCK!"
+    alt_title: "Bocchi the Rock!"
     sort_title: "Bocchi the Rock!"
     audience_rating: 8.66
     genre.sync: Anime,Comedy
@@ -540,7 +540,7 @@ metadata:
     sort_title: "Fumetsu no Anata e"
     audience_rating: 8.38
     genre.sync: Anime,Adventure,Drama,Supernatural,Shounen
-    label.remove: Ongoing
+    label: Ongoing
     studio: Brains Base
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/41025.jpg
   "Gankutsuou":
@@ -588,7 +588,7 @@ metadata:
     sort_title: "Golden Kamuy"
     audience_rating: 7.87
     genre.sync: Anime,Action,Adventure,Seinen
-    label.remove: Ongoing
+    label: Ongoing
     studio: Geno Studio
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/36028.jpg
   "Grand Blue":
@@ -1044,7 +1044,7 @@ metadata:
     sort_title: "Mairimashita! Iruma-kun"
     audience_rating: 7.75
     genre.sync: Anime,Comedy,Fantasy,Shounen
-    label.remove: Ongoing
+    label: Ongoing
     studio: Bandai Namco Pictures
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/39196.jpg
   "Major 2nd":
@@ -1084,7 +1084,7 @@ metadata:
     sort_title: "Mob Psycho 100"
     audience_rating: 8.49
     genre.sync: Anime,Action,Comedy,Supernatural
-    label.remove: Ongoing
+    label: Ongoing
     studio: Bones
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/32182.jpg
   "Mushoku Tensei: Isekai Ittara Honki Dasu":
@@ -1404,7 +1404,7 @@ metadata:
     sort_title: "SPY×FAMILY"
     audience_rating: 8.72
     genre.sync: Anime,Action,Comedy,Shounen
-    label.remove: Ongoing
+    label: Ongoing
     studio: Wit Studio
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/50265.jpg
   "Steins;Gate":
@@ -1604,7 +1604,7 @@ metadata:
     sort_title: "Uzaki-chan wa Asobitai!"
     audience_rating: 7.01
     genre.sync: Anime,Comedy
-    label.remove: Ongoing
+    label: Ongoing
     studio: ENGI
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/41226.jpg
   "Vanitas no Carte":
@@ -1692,7 +1692,7 @@ metadata:
     sort_title: "Xian Wang De Richang Shenghuo"
     audience_rating: 7.33
     genre.sync: Anime,Adventure,Comedy,Fantasy,Slice of Life
-    label.remove: Ongoing
+    label: Ongoing
     studio: Haoliners Animation League
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/41094.jpg
   "Yakusoku no Neverland":
