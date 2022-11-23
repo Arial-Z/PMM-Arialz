@@ -236,3 +236,8 @@ overlays:
     template:
       - name: Studios
         weight: 20
+
+  Studio Ghibli:
+    template:
+      - name: Studios
+        weight: 20
