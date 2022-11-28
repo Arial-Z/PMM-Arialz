@@ -241,3 +241,8 @@ overlays:
     template:
       - name: Studios
         weight: 20
+        
+  C-Station:
+    template:
+      - name: Studios
+        weight: 20
