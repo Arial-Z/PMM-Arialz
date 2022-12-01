@@ -19,26 +19,6 @@ templates:
       vertical_offset: <<vertical_offset>>
       vertical_align: <<vertical_align>>
 
-  AudioLanguage:
-    optional:
-      - overlay_level
-    default:
-      overlay: <<overlay_name>>
-      horizontal_offset: 395
-      horizontal_align: left
-      vertical_offset: 15
-      vertical_align: top
-    collection_level: <<overlay_level>>
-    overlay:
-      name: <<overlay_name>>
-      repo: /overlays/Images/Audio/<<overlay>>
-      group: audio_language
-      weight: <<weight>>
-      horizontal_offset: <<horizontal_offset>>
-      horizontal_align: <<horizontal_align>>
-      vertical_offset: <<vertical_offset>>
-      vertical_align: <<vertical_align>>
-
 overlays:
 
   4K-DV:
@@ -143,38 +123,3 @@ overlays:
     plex_search:
       all:
         resolution.regex: '(?i)480|sd'
-
-  Audio-VF:
-    template:
-      - name: AudioLanguage
-        weight: 10
-    plex_search:
-      all:
-        audio_language: fr
-    filters:
-      audio_language.count_lt: 2
-
-  Audio-VO:
-    template:
-      - name: AudioLanguage
-        weight: 5
-    plex_all: true
-    filters:
-      audio_language.count_lt: 2
-
-  Audio-Dual:
-    template:
-      - name: AudioLanguage
-        weight: 20
-    plex_all: true
-    filters:
-      audio_language.count_gte: 2
-      audio_language.count_lt: 3
-
-  Audio-Multi:
-    template:
-      - name: AudioLanguage
-        weight: 30
-    plex_all: true
-    filters:
-      audio_language.count_gt: 2
