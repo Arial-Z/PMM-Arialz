@@ -103,18 +103,6 @@ overlays:
       all:
         resolution.regex: '(?i)576'
 
-  480P-DV:
-    template:
-      - name: Resolution
-        weight: 30
-        opt1: 480p
-        opt2: dv
-    plex_search:
-      all:
-        resolution.regex: '(?i)480|sd'
-    filters:
-      has_dolby_vision: true
-
   480P:
     template:
       - name: Resolution

@@ -21,6 +21,27 @@ templates:
 
 overlays:
 
+  Audio-Multi:
+    template:
+      - name: AudioLanguage
+        weight: 30
+    plex_search:
+      all:
+      audio_language: fr
+    filters:
+      audio_language.count_gt: 2
+
+  Audio-Dual:
+    template:
+      - name: AudioLanguage
+        weight: 20
+    plex_search:
+      all:
+        audio_language: fr
+    filters:
+      audio_language.count_gte: 2
+      audio_language.count_lt: 3
+
   Audio-VF:
     template:
       - name: AudioLanguage
@@ -30,28 +51,9 @@ overlays:
         audio_language: fr
     filters:
       audio_language.count_lt: 2
-
+      
   Audio-VO:
     template:
       - name: AudioLanguage
         weight: 5
     plex_all: true
-    filters:
-      audio_language.count_lt: 2
-
-  Audio-Dual:
-    template:
-      - name: AudioLanguage
-        weight: 20
-    plex_all: true
-    filters:
-      audio_language.count_gte: 2
-      audio_language.count_lt: 3
-
-  Audio-Multi:
-    template:
-      - name: AudioLanguage
-        weight: 30
-    plex_all: true
-    filters:
-      audio_language.count_gt: 2
