@@ -44,8 +44,8 @@ overlays:
         weight: 100
     plex_search:
       all:
-        audience_rating.gte: 0.1
-        audience_rating.lte: 10
+        critic_rating.gte: 0.1
+        critic_rating.lte: 10
 
   critic_rating:
     template:
