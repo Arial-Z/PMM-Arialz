@@ -11,11 +11,11 @@ templates:
       queue: Rating_Queue_Logo
       weight: <<weight>>
 
-  Audience_Rating:                                                               #Audience Rating Text (IMDB Rating)
+  Critic_Rating:                                                               #Critic Rating Text (MAL Rating)
     optional:
       - overlay_level
     default:
-      rating_type: audience_rating
+      rating_type: critic_rating
     collection_level: <<overlay_level>>
     overlay:
       name: text(<<rating_type>>)
@@ -47,11 +47,11 @@ overlays:
         audience_rating.gte: 0.1
         audience_rating.lte: 10
 
-  audience_rating:
+  critic_rating:
     template:
-      name: Audience_Rating
+      name: Critic_Rating
       weight: 100
     plex_search:
       all:
-        audience_rating.gte: 0.1
-        audience_rating.lte: 10
+        critic_rating.gte: 0.1
+        critic_rating.lte: 10
