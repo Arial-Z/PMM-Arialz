@@ -45,24 +45,24 @@ overlays:
     template:
       - name: DR
         weight: 30
-    plex_search:
-      all:
-        has_dolby_vision: true
+    plex_all: true
+    filters:
+      has_dolby_vision: true
   HDR:
     template:
       - name: DR
         weight: 20
-    plex_search:
-      all:
-        hdr: true
+    plex_all: true
+    filters:
+      hdr: true
 
   SDR:
     template:
       - name: DR
         weight: 10
-    plex_search:
-      all:
-        hdr: false
+    plex_all: true
+    filters:
+      hdr: false
 
   4K:
     template:
