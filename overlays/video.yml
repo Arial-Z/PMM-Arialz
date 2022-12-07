@@ -12,7 +12,6 @@ templates:
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/Resolution/<<overlay>>
-      group: res
       weight: <<weight>>
       horizontal_offset: <<horizontal_offset>>
       horizontal_align: <<horizontal_align>>
@@ -32,7 +31,6 @@ templates:
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/Resolution/<<overlay>>
-      group: res
       weight: <<weight>>
       horizontal_offset: <<horizontal_offset>>
       horizontal_align: <<horizontal_align>>
