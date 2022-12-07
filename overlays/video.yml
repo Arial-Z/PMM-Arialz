@@ -19,30 +19,50 @@ templates:
       vertical_offset: <<vertical_offset>>
       vertical_align: <<vertical_align>>
 
+  DR:
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+      horizontal_offset: 15
+      horizontal_align: left
+      vertical_offset: 130
+      vertical_align: top
+    collection_level: <<overlay_level>>
+    overlay:
+      name: <<overlay_name>>
+      repo: /overlays/Images/Resolution/<<overlay>>
+      group: res
+      weight: <<weight>>
+      horizontal_offset: <<horizontal_offset>>
+      horizontal_align: <<horizontal_align>>
+      vertical_offset: <<vertical_offset>>
+      vertical_align: <<vertical_align>>
+
 overlays:
 
-  4K-DV:
+  DV:
     template:
-      - name: Resolution
-        weight: 150
-        opt1: 4k
-        opt2: dv
+      - name: DR
+        weight: 120
     plex_search:
       all:
-        resolution.regex: '(?i)2160|4k'
-    filters:
-      has_dolby_vision: true
-
-  4K-HDR:
+        has_dolby_vision: true
+  HDR:
     template:
-      - name: Resolution
-        weight: 140
-        opt1: 4k
-        opt2: hdr
+      - name: DR
+        weight: 110
     plex_search:
       all:
-        resolution.regex: '(?i)2160|4k'
         hdr: true
+
+  SDR:
+    template:
+      - name: DR
+        weight: 100
+    plex_search:
+      all:
+        hdr: false
 
   4K:
     template:
@@ -52,29 +72,6 @@ overlays:
     plex_search:
       all:
         resolution.regex: '(?i)2160|4k'
-
-  1080P-DV:
-    template:
-      - name: Resolution
-        weight: 120
-        opt1: 1080p
-        opt2: dv
-    plex_search:
-      all:
-        resolution.regex: '(?i)1080|2k'
-    filters:
-      has_dolby_vision: true
-
-  1080P-HDR:
-    template:
-      - name: Resolution
-        weight: 110
-        opt1: 1080p
-        opt2: hdr
-    plex_search:
-      all:
-        resolution.regex: '(?i)1080|2k'
-        hdr: true
 
   1080P:
     template:
