@@ -12,25 +12,7 @@ templates:
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/Resolution/<<overlay>>
-      weight: <<weight>>
-      horizontal_offset: <<horizontal_offset>>
-      horizontal_align: <<horizontal_align>>
-      vertical_offset: <<vertical_offset>>
-      vertical_align: <<vertical_align>>
-
-  DR:
-    optional:
-      - overlay_level
-    default:
-      overlay: <<overlay_name>>
-      horizontal_offset: 15
-      horizontal_align: left
-      vertical_offset: 130
-      vertical_align: top
-    collection_level: <<overlay_level>>
-    overlay:
-      name: <<overlay_name>>
-      repo: /overlays/Images/Resolution/<<overlay>>
+      group: res
       weight: <<weight>>
       horizontal_offset: <<horizontal_offset>>
       horizontal_align: <<horizontal_align>>
@@ -39,42 +21,65 @@ templates:
 
 overlays:
 
-  DV:
+  4K-DV:
     template:
-      - name: DR
-        weight: 30
-    plex_all: true
+      - name: Resolution
+        weight: 150
+        opt1: 4k
+        opt2: dv
+    plex_search:
+      all:
+        resolution.regex: '(?i)2160|4k'
     filters:
       has_dolby_vision: true
-  HDR:
-    template:
-      - name: DR
-        weight: 20
-    plex_all: true
-    filters:
-      hdr: true
 
-  SDR:
+  4K-HDR:
     template:
-      - name: DR
-        weight: 10
-    plex_all: true
-    filters:
-      hdr: false
+      - name: Resolution
+        weight: 140
+        opt1: 4k
+        opt2: hdr
+    plex_search:
+      all:
+        resolution.regex: '(?i)2160|4k'
+        hdr: true
 
   4K:
     template:
       - name: Resolution
-        weight: 50
+        weight: 130
         opt1: 4k
     plex_search:
       all:
         resolution.regex: '(?i)2160|4k'
 
+  1080P-DV:
+    template:
+      - name: Resolution
+        weight: 120
+        opt1: 1080p
+        opt2: dv
+    plex_search:
+      all:
+        resolution.regex: '(?i)1080|2k'
+    filters:
+      has_dolby_vision: true
+
+  1080P-HDR:
+    template:
+      - name: Resolution
+        weight: 110
+        opt1: 1080p
+        opt2: hdr
+    plex_search:
+      all:
+        resolution.regex: '(?i)1080|2k'
+        hdr: true
+
   1080P:
     template:
       - name: Resolution
-        weight: 40
+        weight: 100
         opt1: 1080p
     plex_search:
       all:
@@ -83,7 +88,7 @@ overlays:
   720P:
     template:
       - name: Resolution
-        weight: 30
+        weight: 70
         opt1: 720p
     plex_search:
       all:
@@ -92,7 +97,7 @@ overlays:
   576P:
     template:
       - name: Resolution
-        weight: 20
+        weight: 40
         opt1: 576p
     plex_search:
       all:
