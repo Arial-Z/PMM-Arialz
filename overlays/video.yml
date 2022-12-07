@@ -44,14 +44,14 @@ overlays:
   DV:
     template:
       - name: DR
-        weight: 120
+        weight: 30
     plex_search:
       all:
         has_dolby_vision: true
   HDR:
     template:
       - name: DR
-        weight: 110
+        weight: 20
     plex_search:
       all:
         hdr: true
@@ -59,7 +59,7 @@ overlays:
   SDR:
     template:
       - name: DR
-        weight: 100
+        weight: 10
     plex_search:
       all:
         hdr: false
@@ -67,7 +67,7 @@ overlays:
   4K:
     template:
       - name: Resolution
-        weight: 130
+        weight: 50
         opt1: 4k
     plex_search:
       all:
@@ -76,7 +76,7 @@ overlays:
   1080P:
     template:
       - name: Resolution
-        weight: 100
+        weight: 40
         opt1: 1080p
     plex_search:
       all:
@@ -85,7 +85,7 @@ overlays:
   720P:
     template:
       - name: Resolution
-        weight: 70
+        weight: 30
         opt1: 720p
     plex_search:
       all:
@@ -94,7 +94,7 @@ overlays:
   576P:
     template:
       - name: Resolution
-        weight: 40
+        weight: 20
         opt1: 576p
     plex_search:
       all:
