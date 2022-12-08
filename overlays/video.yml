@@ -42,7 +42,7 @@ templates:
 overlays:
   DV:
     template:
-      - name: Dynamic-Range
+      - name: DynamicRange
         weight: 30
     plex_all: true
     filters:
@@ -50,7 +50,7 @@ overlays:
 
   HDR:
     template:
-      - name: Dynamic-Range
+      - name: DynamicRange
         weight: 20
     plex_search:
       all:
