@@ -27,7 +27,7 @@ overlays:
         weight: 30
     plex_search:
       all:
-      audio_language: fr
+        audio_language: fr
     filters:
       audio_language.count_gte: 3
 
