@@ -38,7 +38,6 @@ templates:
       vertical_align: <<vertical_align>>
 
 overlays:
-
   DV:
     template:
       - name: Dynamic-Range
