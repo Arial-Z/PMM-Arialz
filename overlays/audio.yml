@@ -29,7 +29,7 @@ overlays:
       all:
       audio_language: fr
     filters:
-      audio_language.count_gt: 2
+      audio_language.count_gte: 3
 
   Audio-Dual:
     template:
