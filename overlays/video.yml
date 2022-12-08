@@ -1,5 +1,5 @@
 templates:
-  Dynamic-Range:
+  DynamicRange:
     optional:
       - overlay_level
     default:
@@ -12,7 +12,7 @@ templates:
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/Resolution/<<overlay>>
-      group: DR
+      group: dynamic_range
       weight: <<weight>>
       horizontal_offset: <<horizontal_offset>>
       horizontal_align: <<horizontal_align>>
@@ -32,7 +32,7 @@ templates:
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/Resolution/<<overlay>>
-      group: res
+      group: resolution
       weight: <<weight>>
       horizontal_offset: <<horizontal_offset>>
       horizontal_align: <<horizontal_align>>
@@ -43,7 +43,6 @@ overlays:
   DV:
     template:
       - name: Dynamic-Range
-      - group: DR
         weight: 30
     plex_all: true
     filters:
@@ -52,7 +51,6 @@ overlays:
   HDR:
     template:
       - name: Dynamic-Range
-      - group: DR
         weight: 20
     plex_search:
       all:
@@ -61,7 +59,6 @@ overlays:
   4K:
     template:
       - name: Resolution
-      - group: res
         weight: 50
     plex_search:
       all:
@@ -69,7 +66,6 @@ overlays:
   1080P:
     template:
       - name: Resolution
-      - group: res
         weight: 40
     plex_search:
       all:
@@ -78,7 +74,6 @@ overlays:
   720P:
     template:
       - name: Resolution
-      - group: res
         weight: 30
     plex_search:
       all:
@@ -87,7 +82,6 @@ overlays:
   576P:
     template:
       - name: Resolution
-      - group: res
         weight: 20
     plex_search:
       all:
@@ -96,7 +90,6 @@ overlays:
   480P:
     template:
       - name: Resolution
-      - group: res
         weight: 10
     plex_search:
       all:
