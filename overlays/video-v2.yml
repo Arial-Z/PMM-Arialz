@@ -30,7 +30,7 @@ templates:
     collection_level: <<overlay_level>>
     overlay:
       name: <<overlay_name>>
-      repo: /overlays/Images/Resolution/<<overlay>>
+      repo: /overlays/Images/Resolution/v2/<<overlay>>
       weight: <<weight>>
       horizontal_offset: <<horizontal_offset>>
       horizontal_align: <<horizontal_align>>
@@ -51,9 +51,9 @@ overlays:
     template:
       - name: DR
         weight: 20
-    plex_all: true
-    filters:
-      hdr: true
+    plex_search:
+      all:
+        hdr: true
 
   4K:
     template:
