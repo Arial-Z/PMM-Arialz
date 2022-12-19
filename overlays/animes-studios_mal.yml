@@ -1,0 +1,247 @@
+templates:
+  Studios:
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+      horizontal_offset: 15
+      horizontal_align: left
+      vertical_offset: 15
+      vertical_align: top
+    collection_level: <<overlay_level>>
+    mal_search:
+      studio: <<overlay_name>>
+    overlay:
+      name: <<overlay_name>>
+      repo: /overlays/Images/Studios/Animes/<<overlay>>
+      weight: <<weight>>
+      horizontal_offset: <<horizontal_offset>>
+      horizontal_align: <<horizontal_align>>
+      vertical_offset: <<vertical_offset>>
+      vertical_align: <<vertical_align>>
+      
+overlays:
+  A-1 Pictures:
+    template:
+      - name: Studios
+        weight: 20
+
+  Sunrise:
+    template:
+      - name: Studios
+        weight: 20
+
+  Madhouse:
+    template:
+      - name: Studios
+        weight: 20
+
+  Bones:
+    template:
+      - name: Studios
+        weight: 20
+
+  ufotable:
+    template:
+      - name: Studios
+        weight: 20
+
+  Production I.G:
+    template:
+      - name: Studios
+        weight: 20
+
+  J.C.Staff:
+    template:
+      - name: Studios
+        weight: 20
+
+  Wit Studio:
+    template:
+      - name: Studios
+        weight: 20
+
+  Kyoto Animation:
+    template:
+      - name: Studios
+        weight: 20
+      
+  White Fox:
+    template:
+      - name: Studios
+        weight: 20
+
+  P.A. Works:
+    template:
+      - name: Studios
+        weight: 20
+
+  Kinema Citrus:
+    template:
+      - name: Studios
+        weight: 20
+
+  8bit:
+    template:
+      - name: Studios
+        weight: 20
+
+  Pierrot:
+    template:
+      - name: Studios
+        weight: 20
+
+  MAPPA:
+    template:
+      - name: Studios
+        weight: 20
+
+  LIDENFILMS:
+    template:
+      - name: Studios
+        weight: 20
+
+  CloverWorks:
+    template:
+      - name: Studios
+        weight: 20
+
+  SILVER LINK.:
+    template:
+      - name: Studios
+        weight: 20
+
+  TMS Entertainment:
+    template:
+      - name: Studios
+        weight: 20
+
+  Studio Chizu:
+    template:
+      - name: Studios
+        weight: 20
+
+  Khara:
+    template:
+      - name: Studios
+        weight: 20
+
+  Doga Kobo:
+    template:
+      - name: Studios
+        weight: 20
+
+  CoMix Wave Films:
+    template:
+      - name: Studios
+        weight: 20
+
+  Brain's Base:
+    template:
+      - name: Studios
+        weight: 20
+
+  Toei Animation:
+    template:
+      - name: Studios
+        weight: 20
+
+  Studio Deen:
+    template:
+      - name: Studios
+        weight: 20
+
+  OLM:
+    template:
+      - name: Studios
+        weight: 20
+
+  GoHands:
+    template:
+      - name: Studios
+        weight: 20
+        
+  Diomedéa:
+    template:
+      - name: Studios
+        weight: 20
+
+  Telecom Animation Film:
+    template:
+      - name: Studios
+        weight: 20
+
+  Studio Rikka:
+    template:
+      - name: Studios
+        weight: 20
+
+  Shaft:
+    template:
+      - name: Studios
+        weight: 20
+
+  Satelight:
+    template:
+      - name: Studios
+        weight: 20
+
+  Project No.9:
+    template:
+      - name: Studios
+        weight: 20
+
+  Polygon Pictures:
+    template:
+      - name: Studios
+        weight: 20
+
+  Orange:
+    template:
+      - name: Studios
+        weight: 20
+
+  NAZ:
+    template:
+      - name: Studios
+        weight: 20
+
+  feel.:
+    template:
+      - name: Studios
+        weight: 20
+
+  ENGI:
+    template:
+      - name: Studios
+        weight: 20
+
+  Ajia-Do:
+    template:
+      - name: Studios
+        weight: 20
+
+  Bandai Namco Pictures:
+    template:
+      - name: Studios
+        weight: 20
+
+  Trigger:
+    template:
+      - name: Studios
+        weight: 20
+
+  Maho Film:
+    template:
+      - name: Studios
+        weight: 20
+
+  Studio Ghibli:
+    template:
+      - name: Studios
+        weight: 20
+        
+  C-Station:
+    template:
+      - name: Studios
+        weight: 20
