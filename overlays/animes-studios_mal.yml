@@ -21,7 +21,7 @@ templates:
       vertical_align: <<vertical_align>>
       
 overlays:
-  56:
+  A-1 Pictures:
     template:
       - name: Studios
         weight: 20
