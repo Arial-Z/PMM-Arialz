@@ -10,7 +10,7 @@ templates:
       vertical_align: top
     collection_level: <<overlay_level>>
     mal_search:
-      studio: <<overlay_name>>
+      studio: <<key>>
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/Studios/Animes/<<overlay>>
@@ -24,6 +24,7 @@ overlays:
   A-1 Pictures:
     template:
       - name: Studios
+      - key : 56
         weight: 20
 
   Sunrise:
