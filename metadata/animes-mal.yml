@@ -372,7 +372,7 @@ metadata:
     sort_title: "Bocchi the Rock!"
     critic_rating: 8.86
     genre.sync: Anime,Comedy
-    label: Ongoing
+    label.remove: Ongoing
     studio: CloverWorks
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/47917.jpg
   "Boku dake ga Inai Machi":
@@ -1332,7 +1332,7 @@ metadata:
     sort_title: "SPY×FAMILY"
     critic_rating: 8.71
     genre.sync: Anime,Action,Comedy,Shounen
-    label: Ongoing
+    label.remove: Ongoing
     studio: Wit Studio
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/50265.jpg
   "Steins;Gate":
@@ -1660,7 +1660,7 @@ metadata:
     sort_title: "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau"
     critic_rating: 6.92
     genre.sync: Anime,Action,Fantasy
-    label: Ongoing
+    label.remove: Ongoing
     studio: EMT Squared
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/52046.jpg
   "Zetsuen no Tempest":
