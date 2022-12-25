@@ -194,15 +194,15 @@ metadata:
   "Koukyuu no Karasu":
     alt_title: "Koukyuu no Karasu"
     sort_title: "Koukyuu no Karasu"
-    critic_rating: 7.4
+    critic_rating: 7.52
     genre.sync: Anime,Fantasy,Mystery,Josei
-    label: Ongoing
+    label.remove: Ongoing
     studio: Bandai Namco Pictures
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/50590.jpg
   "Kidou Senshi Gundam: Suisei no Majo":
     alt_title: "Kidou Senshi Gundam: Suisei no Majo"
     sort_title: "Kidou Senshi Gundam: Suisei no Majo"
-    critic_rating: 7.91
+    critic_rating: 7.9
     genre.sync: Anime,Sci-Fi
     label: Ongoing
     studio: Sunrise
@@ -210,7 +210,7 @@ metadata:
   "Romantic Killer":
     alt_title: "Romantic Killer"
     sort_title: "Romantic Killer"
-    critic_rating: 8.16
+    critic_rating: 8.15
     genre.sync: Anime,Comedy,Romance,Shounen
     label.remove: Ongoing
     studio: domerica
@@ -242,7 +242,7 @@ metadata:
   "86: Eighty Six":
     alt_title: "86: Eighty Six"
     sort_title: "86: Eighty Six"
-    critic_rating: 8.27
+    critic_rating: 8.26
     genre.sync: Anime,Action,Drama,Sci-Fi
     label.remove: Ongoing
     studio: A-1 Pictures
@@ -258,7 +258,7 @@ metadata:
   "Akiba Meido Sensou":
     alt_title: "Akiba Meido Sensou"
     sort_title: "Akiba Meido Sensou"
-    critic_rating: 7.49
+    critic_rating: 7.71
     genre.sync: Anime,Action,Comedy
     label.remove: Ongoing
     studio: P.A. Works
@@ -266,7 +266,7 @@ metadata:
   "Akuyaku Reijou nano de Last Boss wo Kattemimashita":
     alt_title: "Akuyaku Reijou nano de Last Boss wo Kattemimashita"
     sort_title: "Akuyaku Reijou nano de Last Boss wo Kattemimashita"
-    critic_rating: 7.32
+    critic_rating: 7.31
     genre.sync: Anime,Comedy,Fantasy,Romance,Shoujo
     label.remove: Ongoing
     studio: Maho Film
@@ -282,7 +282,7 @@ metadata:
   "Angolmois: Genkou Kassenki":
     alt_title: "Angolmois: Genkou Kassenki"
     sort_title: "Angolmois: Genkou Kassenki"
-    critic_rating: 7.13
+    critic_rating: 7.12
     genre.sync: Anime,Action,Drama
     label.remove: Ongoing
     studio: NAZ
@@ -306,7 +306,7 @@ metadata:
   "Arknights: Reimei Zensou":
     alt_title: "Arknights: Reimei Zensou"
     sort_title: "Arknights: Reimei Zensou"
-    critic_rating: 7.33
+    critic_rating: 7.3
     genre.sync: Anime,Action,Fantasy
     label.remove: Ongoing
     studio: Yostar Pictures
@@ -370,7 +370,7 @@ metadata:
   "Bocchi the Rock!":
     alt_title: "Bocchi the Rock!"
     sort_title: "Bocchi the Rock!"
-    critic_rating: 8.86
+    critic_rating: 8.92
     genre.sync: Anime,Comedy
     label.remove: Ongoing
     studio: CloverWorks
@@ -379,7 +379,7 @@ metadata:
     alt_title: "Boku dake ga Inai Machi"
     sort_title: "Boku dake ga Inai Machi"
     critic_rating: 8.31
-    genre.sync: Anime,Mystery,Supernatural,Seinen
+    genre.sync: Anime,Mystery,Supernatural,Suspense,Seinen
     label.remove: Ongoing
     studio: A-1 Pictures
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/31043.jpg
@@ -394,7 +394,7 @@ metadata:
   "Chainsaw Man":
     alt_title: "Chainsaw Man"
     sort_title: "Chainsaw Man"
-    critic_rating: 8.82
+    critic_rating: 8.81
     genre.sync: Anime,Action,Fantasy,Shounen
     label: Ongoing
     studio: MAPPA
@@ -514,7 +514,7 @@ metadata:
   "Engage Kiss":
     alt_title: "Engage Kiss"
     sort_title: "Engage Kiss"
-    critic_rating: 6.9
+    critic_rating: 6.89
     genre.sync: Anime,Action,Comedy,Romance
     label.remove: Ongoing
     studio: A-1 Pictures
@@ -1146,7 +1146,7 @@ metadata:
   "Paripi Koumei":
     alt_title: "Paripi Koumei"
     sort_title: "Paripi Koumei"
-    critic_rating: 8.22
+    critic_rating: 8.21
     genre.sync: Anime,Comedy
     label.remove: Ongoing
     studio: P.A. Works
@@ -1202,7 +1202,7 @@ metadata:
   "RWBY: Hyousetsu Teikoku":
     alt_title: "RWBY: Hyousetsu Teikoku"
     sort_title: "RWBY: Hyousetsu Teikoku"
-    critic_rating: 6.41
+    critic_rating: 6.4
     genre.sync: Anime,Action
     label.remove: Ongoing
     studio: Shaft
@@ -1362,7 +1362,7 @@ metadata:
   "Summer Time Render":
     alt_title: "Summer Time Render"
     sort_title: "Summer Time Render"
-    critic_rating: 8.55
+    critic_rating: 8.54
     genre.sync: Anime,Mystery,Supernatural,Suspense,Shounen
     label.remove: Ongoing
     studio: OLM
@@ -1524,7 +1524,7 @@ metadata:
     sort_title: "Uzaki-chan wa Asobitai!"
     critic_rating: 7.01
     genre.sync: Anime,Comedy
-    label: Ongoing
+    label.remove: Ongoing
     studio: ENGI
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/41226.jpg
   "Vanitas no Carte":
@@ -1658,7 +1658,7 @@ metadata:
   "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau":
     alt_title: "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau"
     sort_title: "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau"
-    critic_rating: 6.92
+    critic_rating: 7.02
     genre.sync: Anime,Action,Fantasy
     label.remove: Ongoing
     studio: EMT Squared
