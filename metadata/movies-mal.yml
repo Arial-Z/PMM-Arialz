@@ -1,1 +1,554 @@
 metadata:
+  "Bubble":
+    alt_title: "Bubble"
+    sort_title: "Bubble"
+    critic_rating: 7.28
+    genre.sync: Anime,Action,Sci-Fi
+    studio: Wit Studio
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/50549.jpg
+  "Code Geass: Hangyaku no Lelouch II - Handou":
+    alt_title: "Code Geass: Hangyaku no Lelouch II - Handou"
+    sort_title: "Code Geass: Hangyaku no Lelouch II - Handou"
+    critic_rating: 7.65
+    genre.sync: Anime,Action,Sci-Fi
+    studio: Sunrise
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34439.jpg
+  "Code Geass: Hangyaku no Lelouch III - Oudou":
+    alt_title: "Code Geass: Hangyaku no Lelouch III - Oudou"
+    sort_title: "Code Geass: Hangyaku no Lelouch III - Oudou"
+    critic_rating: 7.99
+    genre.sync: Anime,Action,Sci-Fi
+    studio: Sunrise
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34440.jpg
+  "Code Geass: Hangyaku no Lelouch I - Koudou":
+    alt_title: "Code Geass: Hangyaku no Lelouch I - Koudou"
+    sort_title: "Code Geass: Hangyaku no Lelouch I - Koudou"
+    critic_rating: 7.89
+    genre.sync: Anime,Action,Sci-Fi
+    studio: Sunrise
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34438.jpg
+  "Kara no Kyoukai Remix: Gate of Seventh Heaven":
+    alt_title: "Kara no Kyoukai Remix: Gate of Seventh Heaven"
+    sort_title: "Kara no Kyoukai Remix: Gate of Seventh Heaven"
+    critic_rating: 7.56
+    genre.sync: Anime,Action,Mystery,Romance,Suspense
+    studio: ufotable
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/6624.jpg
+  "Kara no Kyoukai: Fukan Fuukei":
+    alt_title: "Kara no Kyoukai: Fukan Fuukei"
+    sort_title: "Kara no Kyoukai: Fukan Fuukei"
+    critic_rating: 7.58
+    genre.sync: Anime,Action,Mystery,Supernatural,Suspense
+    studio: ufotable
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/2593.jpg
+  "Kara no Kyoukai: Satsujin Kousatsu (Zen)":
+    alt_title: "Kara no Kyoukai: Satsujin Kousatsu (Zen)"
+    sort_title: "Kara no Kyoukai: Satsujin Kousatsu (Zen)"
+    critic_rating: 7.79
+    genre.sync: Anime,Action,Mystery,Romance,Supernatural,Suspense
+    studio: ufotable
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/3782.jpg
+  "Kara no Kyoukai: Tsuukaku Zanryuu":
+    alt_title: "Kara no Kyoukai: Tsuukaku Zanryuu"
+    sort_title: "Kara no Kyoukai: Tsuukaku Zanryuu"
+    critic_rating: 8.03
+    genre.sync: Anime,Action,Drama,Mystery,Supernatural,Suspense
+    studio: ufotable
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/3783.jpg
+  "Kara no Kyoukai: Garan no Dou":
+    alt_title: "Kara no Kyoukai: Garan no Dou"
+    sort_title: "Kara no Kyoukai: Garan no Dou"
+    critic_rating: 7.84
+    genre.sync: Anime,Action,Mystery,Supernatural,Suspense
+    studio: ufotable
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/4280.jpg
+  "Kara no Kyoukai: Mujun Rasen":
+    alt_title: "Kara no Kyoukai: Mujun Rasen"
+    sort_title: "Kara no Kyoukai: Mujun Rasen"
+    critic_rating: 8.53
+    genre.sync: Anime,Action,Drama,Mystery,Romance,Supernatural,Suspense
+    studio: ufotable
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/4282.jpg
+  "Kara no Kyoukai: Boukyaku Rokuon":
+    alt_title: "Kara no Kyoukai: Boukyaku Rokuon"
+    sort_title: "Kara no Kyoukai: Boukyaku Rokuon"
+    critic_rating: 7.47
+    genre.sync: Anime,Action,Mystery,Romance,Supernatural,Suspense
+    studio: ufotable
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/5204.jpg
+  "Kara no Kyoukai: Satsujin Kousatsu (Kou)":
+    alt_title: "Kara no Kyoukai: Satsujin Kousatsu (Kou)"
+    sort_title: "Kara no Kyoukai: Satsujin Kousatsu (Kou)"
+    critic_rating: 8.4
+    genre.sync: Anime,Action,Mystery,Romance,Supernatural,Suspense
+    studio: ufotable
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/5205.jpg
+  "Kara no Kyoukai: Shuushou":
+    alt_title: "Kara no Kyoukai: Shuushou"
+    sort_title: "Kara no Kyoukai: Shuushou"
+    critic_rating: 7.21
+    genre.sync: Anime,Mystery
+    studio: ufotable
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/6954.jpg
+  "Kimetsu no Yaiba: Mugen Ressha-hen":
+    alt_title: "Kimetsu no Yaiba: Mugen Ressha-hen"
+    sort_title: "Kimetsu no Yaiba: Mugen Ressha-hen"
+    critic_rating: 8.64
+    genre.sync: Anime,Action,Fantasy,Shounen
+    studio: ufotable
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/40456.jpg
+  "Koutetsujou no Kabaneri: Unato Kessen":
+    alt_title: "Koutetsujou no Kabaneri: Unato Kessen"
+    sort_title: "Koutetsujou no Kabaneri: Unato Kessen"
+    critic_rating: 7.69
+    genre.sync: Anime,Action,Drama,Fantasy,Horror
+    studio: Wit Studio
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34544.jpg
+  "Made in Abyss: Tabidachi no Yoake":
+    alt_title: "Made in Abyss: Tabidachi no Yoake"
+    sort_title: "Made in Abyss: Tabidachi no Yoake"
+    critic_rating: 8.15
+    genre.sync: Anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi
+    studio: Kinema Citrus
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37514.jpg
+  "Made in Abyss: Hourou Suru Tasogare":
+    alt_title: "Made in Abyss: Hourou Suru Tasogare"
+    sort_title: "Made in Abyss: Hourou Suru Tasogare"
+    critic_rating: 8.37
+    genre.sync: Anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi
+    studio: Kinema Citrus
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37515.jpg
+  "Mahouka Koukou no Rettousei: Tsuioku-hen":
+    alt_title: "Mahouka Koukou no Rettousei: Tsuioku-hen"
+    sort_title: "Mahouka Koukou no Rettousei: Tsuioku-hen"
+    critic_rating: 7.72
+    genre.sync: Anime,Sci-Fi,Supernatural
+    studio: 8bit
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/48375.jpg
+  "Kidou Senshi Gundam: Senkou no Hathaway":
+    alt_title: "Kidou Senshi Gundam: Senkou no Hathaway"
+    sort_title: "Kidou Senshi Gundam: Senkou no Hathaway"
+    critic_rating: 7.83
+    genre.sync: Anime,Action,Drama,Sci-Fi
+    studio: Sunrise
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37765.jpg
+  "Kidou Senshi Gundam Thunderbolt: Bandit Flower":
+    alt_title: "Kidou Senshi Gundam Thunderbolt: Bandit Flower"
+    sort_title: "Kidou Senshi Gundam Thunderbolt: Bandit Flower"
+    critic_rating: 7.26
+    genre.sync: Anime,Action,Drama,Sci-Fi
+    studio: Sunrise
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/35949.jpg
+  "Boku no Hero Academia THE MOVIE: Heroes:Rising":
+    alt_title: "Boku no Hero Academia THE MOVIE: Heroes:Rising"
+    sort_title: "Boku no Hero Academia THE MOVIE: Heroes:Rising"
+    critic_rating: 8
+    genre.sync: Anime,Action,Shounen
+    studio: Bones
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/39565.jpg
+  "Ryuu to Sobakasu no Hime":
+    alt_title: "Ryuu to Sobakasu no Hime"
+    sort_title: "Ryuu to Sobakasu no Hime"
+    critic_rating: 7.55
+    genre.sync: Anime,Drama,Fantasy
+    studio: Studio Chizu
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/44807.jpg
+  "Seitokai Yakuindomo Movie":
+    alt_title: "Seitokai Yakuindomo Movie"
+    sort_title: "Seitokai Yakuindomo Movie"
+    critic_rating: 7.84
+    genre.sync: Anime,Comedy,Shounen
+    studio: GoHands
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34504.jpg
+  "Seitokai Yakuindomo Movie 2":
+    alt_title: "Seitokai Yakuindomo Movie 2"
+    sort_title: "Seitokai Yakuindomo Movie 2"
+    critic_rating: 7.78
+    genre.sync: Anime,Comedy,Shounen
+    studio: GoHands
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/40814.jpg
+  "Sidonia no Kishi: Ai Tsumugu Hoshi":
+    alt_title: "Sidonia no Kishi: Ai Tsumugu Hoshi"
+    sort_title: "Sidonia no Kishi: Ai Tsumugu Hoshi"
+    critic_rating: 7.44
+    genre.sync: Anime,Action,Sci-Fi,Seinen
+    studio: Polygon Pictures
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/35759.jpg
+  "Sword Art Online: Progressive - Hoshinaki Yoru no Aria":
+    alt_title: "Sword Art Online: Progressive - Hoshinaki Yoru no Aria"
+    sort_title: "Sword Art Online: Progressive - Hoshinaki Yoru no Aria"
+    critic_rating: 8.01
+    genre.sync: Anime,Action,Adventure,Fantasy
+    studio: A-1 Pictures
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/42916.jpg
+  "Violet Evergarden Movie":
+    alt_title: "Violet Evergarden Movie"
+    sort_title: "Violet Evergarden Movie"
+    critic_rating: 8.92
+    genre.sync: Anime,Award Winning,Drama,Fantasy
+    studio: Kyoto Animation
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37987.jpg
+  "Ghost in the Shell":
+    alt_title: "Ghost in the Shell"
+    sort_title: "Ghost in the Shell"
+    critic_rating: 8.27
+    genre.sync: Anime,Action,Mystery,Sci-Fi,Suspense,Seinen
+    studio: Production I.G
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/43.jpg
+  "Ghost in the Shell 2 : Innocence":
+    alt_title: "Ghost in the Shell 2 : Innocence"
+    sort_title: "Ghost in the Shell 2 : Innocence"
+    critic_rating: 7.79
+    genre.sync: Anime,Sci-Fi
+    studio: Production I.G
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/468.jpg
+  "Ghost in the Shell 2.0":
+    alt_title: "Ghost in the Shell 2.0"
+    sort_title: "Ghost in the Shell 2.0"
+    critic_rating: 7.98
+    genre.sync: Anime,Action,Sci-Fi,Seinen
+    studio: Production I.G
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/4672.jpg
+  "Digimon Adventure Movie":
+    alt_title: "Digimon Adventure Movie"
+    sort_title: "Digimon Adventure Movie"
+    critic_rating: 7.59
+    genre.sync: Anime,Action,Fantasy,Sci-Fi,Kids
+    studio: Toei Animation
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/2961.jpg
+  "Kyoukai no Kanata: I'LL BE HERE - Kako-hen":
+    alt_title: "Kyoukai no Kanata: I'LL BE HERE - Kako-hen"
+    sort_title: "Kyoukai no Kanata: I'LL BE HERE - Kako-hen"
+    critic_rating: 7.72
+    genre.sync: Anime,Action,Fantasy
+    studio: Kyoto Animation
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/25015.jpg
+  "Kyoukai no Kanata: I'LL BE HERE - Mirai-hen":
+    alt_title: "Kyoukai no Kanata: I'LL BE HERE - Mirai-hen"
+    sort_title: "Kyoukai no Kanata: I'LL BE HERE - Mirai-hen"
+    critic_rating: 8.16
+    genre.sync: Anime,Action,Fantasy,Romance
+    studio: Kyoto Animation
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/28675.jpg
+  "High School Fleet Movie":
+    alt_title: "High School Fleet Movie"
+    sort_title: "High School Fleet Movie"
+    critic_rating: 7.62
+    genre.sync: Anime,Action
+    studio: A-1 Pictures
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37704.jpg
+  "Yuru Camp△ Movie":
+    alt_title: "Yuru Camp△ Movie"
+    sort_title: "Yuru Camp△ Movie"
+    critic_rating: 8.5
+    genre.sync: Anime,Slice of Life
+    studio: C-Station
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/38475.jpg
+  "Quanzhi Gaoshou: Dianfeng Rongyao":
+    alt_title: "Quanzhi Gaoshou: Dianfeng Rongyao"
+    sort_title: "Quanzhi Gaoshou: Dianfeng Rongyao"
+    critic_rating: 8.08
+    genre.sync: Anime,Action
+    studio: Colored Pencil Animation
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/40080.jpg
+  "AKIRA":
+    alt_title: "AKIRA"
+    sort_title: "AKIRA"
+    critic_rating: 8.16
+    genre.sync: Anime,Action,Adventure,Horror,Sci-Fi,Supernatural,Seinen
+    studio: Tokyo Movie Shinsha
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/47.jpg
+  "Ao no Exorcist Movie":
+    alt_title: "Ao no Exorcist Movie"
+    sort_title: "Ao no Exorcist Movie"
+    critic_rating: 7.58
+    genre.sync: Anime,Action,Fantasy,Shounen
+    studio: A-1 Pictures
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/11737.jpg
+  "Bakemono no Ko":
+    alt_title: "Bakemono no Ko"
+    sort_title: "Bakemono no Ko"
+    critic_rating: 8.26
+    genre.sync: Anime,Adventure,Supernatural
+    studio: Studio Chizu
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/28805.jpg
+  "Boku no Hero Academia THE MOVIE: Futari no Hero":
+    alt_title: "Boku no Hero Academia THE MOVIE: Futari no Hero"
+    sort_title: "Boku no Hero Academia THE MOVIE: Futari no Hero"
+    critic_rating: 7.57
+    genre.sync: Anime,Action,Shounen
+    studio: Bones
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/36896.jpg
+  "Boku no Hero Academia THE MOVIE: World Heroes' Mission":
+    alt_title: "Boku no Hero Academia THE MOVIE: World Heroes' Mission"
+    sort_title: "Boku no Hero Academia THE MOVIE: World Heroes' Mission"
+    critic_rating: 7.58
+    genre.sync: Anime,Action,Shounen
+    studio: Bones
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/44200.jpg
+  "Byousoku 5 Centimeter":
+    alt_title: "Byousoku 5 Centimeter"
+    sort_title: "Byousoku 5 Centimeter"
+    critic_rating: 7.59
+    genre.sync: Anime,Drama,Romance
+    studio: CoMix Wave Films
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/1689.jpg
+  "Chuunibyou demo Koi ga Shitai!: Take On Me":
+    alt_title: "Chuunibyou demo Koi ga Shitai!: Take On Me"
+    sort_title: "Chuunibyou demo Koi ga Shitai!: Take On Me"
+    critic_rating: 8.11
+    genre.sync: Anime,Comedy,Drama,Romance
+    studio: Kyoto Animation
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/35608.jpg
+  "Code Geass: Fukkatsu no Lelouch":
+    alt_title: "Code Geass: Fukkatsu no Lelouch"
+    sort_title: "Code Geass: Fukkatsu no Lelouch"
+    critic_rating: 7.91
+    genre.sync: Anime,Action,Drama,Sci-Fi
+    studio: Sunrise
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/34437.jpg
+  "Evangelion Shin Movie: Ha":
+    alt_title: "Evangelion Shin Movie: Ha"
+    sort_title: "Evangelion Shin Movie: Ha"
+    critic_rating: 8.31
+    genre.sync: Anime,Action,Drama,Sci-Fi
+    studio: Khara
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/3784.jpg
+  "Evangelion Shin Movie: Jo":
+    alt_title: "Evangelion Shin Movie: Jo"
+    sort_title: "Evangelion Shin Movie: Jo"
+    critic_rating: 8.01
+    genre.sync: Anime,Action,Award Winning,Drama,Sci-Fi
+    studio: Khara
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/2759.jpg
+  "Evangelion Shin Movie: Kyuu":
+    alt_title: "Evangelion Shin Movie: Kyuu"
+    sort_title: "Evangelion Shin Movie: Kyuu"
+    critic_rating: 7.63
+    genre.sync: Anime,Action,Award Winning,Drama,Sci-Fi
+    studio: Khara
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/3785.jpg
+  "Eve no Jikan Movie":
+    alt_title: "Eve no Jikan Movie"
+    sort_title: "Eve no Jikan Movie"
+    critic_rating: 7.99
+    genre.sync: Anime,Sci-Fi,Slice of Life
+    studio: Studio Rikka
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/7465.jpg
+  "Gintama: Kanketsu-hen - Yorozuya yo Eien Nare":
+    alt_title: "Gintama: Kanketsu-hen - Yorozuya yo Eien Nare"
+    sort_title: "Gintama: Kanketsu-hen - Yorozuya yo Eien Nare"
+    critic_rating: 8.92
+    genre.sync: Anime,Action,Comedy,Sci-Fi,Shounen
+    studio: Sunrise
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/15335.jpg
+  "Gintama: Shinyaku Benizakura-hen":
+    alt_title: "Gintama: Shinyaku Benizakura-hen"
+    sort_title: "Gintama: Shinyaku Benizakura-hen"
+    critic_rating: 8.52
+    genre.sync: Anime,Action,Comedy,Sci-Fi,Shounen
+    studio: Sunrise
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/7472.jpg
+  "Gintama: THE FINAL":
+    alt_title: "Gintama: THE FINAL"
+    sort_title: "Gintama: THE FINAL"
+    critic_rating: 9.05
+    genre.sync: Anime,Action,Comedy,Drama,Sci-Fi,Shounen
+    studio: Bandai Namco Pictures
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/39486.jpg
+  "Josee to Tora to Sakanatachi":
+    alt_title: "Josee to Tora to Sakanatachi"
+    sort_title: "Josee to Tora to Sakanatachi"
+    critic_rating: 8.42
+    genre.sync: Anime,Drama,Romance
+    studio: Bones
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/40787.jpg
+  "Jujutsu Kaisen 0":
+    alt_title: "Jujutsu Kaisen 0"
+    sort_title: "Jujutsu Kaisen 0"
+    critic_rating: 8.5
+    genre.sync: Anime,Action,Fantasy,Shounen
+    studio: MAPPA
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/48561.jpg
+  "Karigurashi no Arrietty":
+    alt_title: "Karigurashi no Arrietty"
+    sort_title: "Karigurashi no Arrietty"
+    critic_rating: 7.89
+    genre.sync: Anime,Award Winning,Fantasy
+    studio: Studio Ghibli
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/7711.jpg
+  "Kidou Senshi Gundam 00: A wakening of the Trailblazer":
+    alt_title: "Kidou Senshi Gundam 00: A wakening of the Trailblazer"
+    sort_title: "Kidou Senshi Gundam 00: A wakening of the Trailblazer"
+    critic_rating: 7.3
+    genre.sync: Anime,Action,Sci-Fi
+    studio: Sunrise
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/6288.jpg
+  "Kidou Senshi Gundam Thunderbolt: December Sky":
+    alt_title: "Kidou Senshi Gundam Thunderbolt: December Sky"
+    sort_title: "Kidou Senshi Gundam Thunderbolt: December Sky"
+    critic_rating: 7.94
+    genre.sync: Anime,Action,Drama,Sci-Fi
+    studio: Sunrise
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/33221.jpg
+  "Kimi no Na wa.":
+    alt_title: "Kimi no Na wa."
+    sort_title: "Kimi no Na wa."
+    critic_rating: 8.85
+    genre.sync: Anime,Award Winning,Drama,Supernatural
+    studio: CoMix Wave Films
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/32281.jpg
+  "Kimi no Suizou wo Tabetai":
+    alt_title: "Kimi no Suizou wo Tabetai"
+    sort_title: "Kimi no Suizou wo Tabetai"
+    critic_rating: 8.56
+    genre.sync: Anime,Drama,Romance
+    studio: Studio VOLN
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/36098.jpg
+  "Koe no Katachi":
+    alt_title: "Koe no Katachi"
+    sort_title: "Koe no Katachi"
+    critic_rating: 8.94
+    genre.sync: Anime,Award Winning,Drama,Shounen
+    studio: Kyoto Animation
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/28851.jpg
+  "Kokoro ga Sakebitagatterun da.":
+    alt_title: "Kokoro ga Sakebitagatterun da."
+    sort_title: "Kokoro ga Sakebitagatterun da."
+    critic_rating: 7.84
+    genre.sync: Anime,Drama,Romance
+    studio: A-1 Pictures
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/28725.jpg
+  "Kono Sekai no Katasumi ni":
+    alt_title: "Kono Sekai no Katasumi ni"
+    sort_title: "Kono Sekai no Katasumi ni"
+    critic_rating: 8.22
+    genre.sync: Anime,Award Winning,Drama,Seinen
+    studio: MAPPA
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/15227.jpg
+  "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu":
+    alt_title: "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu"
+    sort_title: "Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu"
+    critic_rating: 8.46
+    genre.sync: Anime,Adventure,Comedy,Fantasy
+    studio: J.C.Staff
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/38040.jpg
+  "Kotonoha no Niwa":
+    alt_title: "Kotonoha no Niwa"
+    sort_title: "Kotonoha no Niwa"
+    critic_rating: 7.9
+    genre.sync: Anime,Drama,Romance
+    studio: CoMix Wave Films
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/16782.jpg
+  "Made in Abyss: Fukaki Tamashii no Reimei":
+    alt_title: "Made in Abyss: Fukaki Tamashii no Reimei"
+    sort_title: "Made in Abyss: Fukaki Tamashii no Reimei"
+    critic_rating: 8.64
+    genre.sync: Anime,Adventure,Drama,Fantasy,Mystery,Sci-Fi
+    studio: Kinema Citrus
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/36862.jpg
+  "Mahouka Koukou no Rettousei: Hoshi wo Yobu Shoujo":
+    alt_title: "Mahouka Koukou no Rettousei: Hoshi wo Yobu Shoujo"
+    sort_title: "Mahouka Koukou no Rettousei: Hoshi wo Yobu Shoujo"
+    critic_rating: 7.46
+    genre.sync: Anime,Action,Sci-Fi,Supernatural
+    studio: 8bit
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/32900.jpg
+  "Mirai no Mirai":
+    alt_title: "Mirai no Mirai"
+    sort_title: "Mirai no Mirai"
+    critic_rating: 7.28
+    genre.sync: Anime,Adventure,Drama,Fantasy
+    studio: Studio Chizu
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/36936.jpg
+  "Nanatsu no Taizai Movie: Tenkuu no Torawarebito":
+    alt_title: "Nanatsu no Taizai Movie: Tenkuu no Torawarebito"
+    sort_title: "Nanatsu no Taizai Movie: Tenkuu no Torawarebito"
+    critic_rating: 7.12
+    genre.sync: Anime,Action,Adventure,Fantasy,Shounen
+    studio: A-1 Pictures
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/35946.jpg
+  "Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi":
+    alt_title: "Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi"
+    sort_title: "Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi"
+    critic_rating: 7.12
+    genre.sync: Anime,Action,Adventure,Fantasy,Shounen
+    studio: Studio Deen
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/46420.jpg
+  "Ookami Kodomo no Ame to Yuki":
+    alt_title: "Ookami Kodomo no Ame to Yuki"
+    sort_title: "Ookami Kodomo no Ame to Yuki"
+    critic_rating: 8.58
+    genre.sync: Anime,Award Winning,Fantasy,Slice of Life
+    studio: Studio Chizu
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/12355.jpg
+  "Sakasama no Patema":
+    alt_title: "Sakasama no Patema"
+    sort_title: "Sakasama no Patema"
+    critic_rating: 7.97
+    genre.sync: Anime,Adventure,Award Winning,Sci-Fi
+    studio: Studio Rikka
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/12477.jpg
+  "Sayonara no Asa ni Yakusoku no Hana wo Kazarou":
+    alt_title: "Sayonara no Asa ni Yakusoku no Hana wo Kazarou"
+    sort_title: "Sayonara no Asa ni Yakusoku no Hana wo Kazarou"
+    critic_rating: 8.4
+    genre.sync: Anime,Drama,Fantasy
+    studio: P.A. Works
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/35851.jpg
+  "Shin Evangelion Movie:||":
+    alt_title: "Shin Evangelion Movie"
+    sort_title: "Shin Evangelion Movie:||"
+    critic_rating: 8.62
+    genre.sync: Anime,Action,Award Winning,Drama,Sci-Fi,Suspense
+    studio: Khara
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/3786.jpg
+  "SHIROBAKO Movie":
+    alt_title: "SHIROBAKO Movie"
+    sort_title: "SHIROBAKO Movie"
+    critic_rating: 7.68
+    genre.sync: Anime,Comedy,Drama
+    studio: P.A. Works
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37804.jpg
+  "Stranger: Mukou Hadan":
+    alt_title: "Stranger: Mukou Hadan"
+    sort_title: "Stranger: Mukou Hadan"
+    critic_rating: 8.27
+    genre.sync: Anime,Action,Adventure
+    studio: Bones
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/2418.jpg
+  "Summer Wars":
+    alt_title: "Summer Wars"
+    sort_title: "Summer Wars"
+    critic_rating: 8.04
+    genre.sync: Anime,Award Winning,Comedy,Sci-Fi
+    studio: Madhouse
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/5681.jpg
+  "Sword Art Online: Ordinal Scale":
+    alt_title: "Sword Art Online: Ordinal Scale"
+    sort_title: "Sword Art Online: Ordinal Scale"
+    critic_rating: 7.57
+    genre.sync: Anime,Action,Adventure,Fantasy
+    studio: A-1 Pictures
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/31765.jpg
+  "Tenki no Ko":
+    alt_title: "Tenki no Ko"
+    sort_title: "Tenki no Ko"
+    critic_rating: 8.3
+    genre.sync: Anime,Award Winning,Drama,Fantasy,Romance
+    studio: CoMix Wave Films
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/38826.jpg
+  "Toki wo Kakeru Shoujo":
+    alt_title: "Toki wo Kakeru Shoujo"
+    sort_title: "Toki wo Kakeru Shoujo"
+    critic_rating: 8.12
+    genre.sync: Anime,Award Winning,Drama,Romance,Sci-Fi
+    studio: Madhouse
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/2236.jpg
+  "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou":
+    alt_title: "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou"
+    sort_title: "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou"
+    critic_rating: 8.41
+    genre.sync: Anime,Drama,Fantasy
+    studio: Kyoto Animation
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/39741.jpg
