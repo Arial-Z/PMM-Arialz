@@ -246,3 +246,8 @@ overlays:
     template:
       - name: Studios
         weight: 20
+
+  Actas:
+    template:
+      - name: Studios
+        weight: 20
