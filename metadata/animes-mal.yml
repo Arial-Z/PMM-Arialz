@@ -332,7 +332,7 @@ metadata:
     sort_title: "Ars no Kyojuu"
     critic_rating: null
     genre.sync: Anime,Action,Adventure,Fantasy
-    label.remove: Ongoing
+    label: Ongoing
     studio: Asahi Production
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/53179.jpg
   "Arslan Senki (TV)":
@@ -1015,6 +1015,14 @@ metadata:
     label.remove: Ongoing
     studio: Brain's Base
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/39017.jpg
+  "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken":
+    alt_title: "L'ange d'à côté me pourri gâte"
+    sort_title: "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
+    critic_rating: null
+    genre.sync: Anime,Comedy,Romance
+    label: Ongoing
+    studio: Project No.9
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/50739.jpg
   "Lycoris Recoil":
     alt_title: "Lycoris Recoil"
     sort_title: "Lycoris Recoil"
@@ -1143,6 +1151,14 @@ metadata:
     label.remove: Ongoing
     studio: Signal.MD
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/36038.jpg
+  "NieR:Automata Ver 1.1a":
+    alt_title: "NieR:Automata Ver1.1a"
+    sort_title: "NieR:Automata Ver 1.1a"
+    critic_rating: null
+    genre.sync: Anime,Action,Fantasy,Sci-Fi
+    label: Ongoing
+    studio: A-1 Pictures
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/51105.jpg
   "Noragami":
     alt_title: "Noragami"
     sort_title: "Noragami"
@@ -1402,8 +1418,8 @@ metadata:
   "Spy Kyoushitsu":
     alt_title: "Spy Kyoushitsu"
     sort_title: "Spy Kyoushitsu"
-    critic_rating: null
-    genre.sync: Anime,Action,Comedy,Mystery,Romance
+    critic_rating: 7.03
+    genre.sync: Anime,Action,Comedy,Mystery
     label: Ongoing
     studio: feel.
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/51252.jpg
