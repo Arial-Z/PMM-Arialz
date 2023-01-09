@@ -268,7 +268,7 @@ metadata:
     sort_title: "Yowamushi Pedal"
     critic_rating: 7.94
     genre.sync: Anime,Comedy,Drama,Sports,Shounen
-    label.remove: Ongoing
+    label: Ongoing
     studio: TMS Entertainment
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/18179.jpg
   "3-gatsu no Lion":
@@ -354,7 +354,7 @@ metadata:
   "Ars no Kyojuu":
     alt_title: "Ars no Kyojuu"
     sort_title: "Ars no Kyojuu"
-    critic_rating: null
+    critic_rating: 7.03
     genre.sync: Anime,Action,Adventure,Fantasy
     label: Ongoing
     studio: Asahi Production
@@ -412,7 +412,7 @@ metadata:
     sort_title: "Benriya Saitou-san, Isekai ni Iku"
     critic_rating: null
     genre.sync: Anime,Adventure,Comedy,Fantasy
-    label.remove: Ongoing
+    label: Ongoing
     studio: C2C
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/50854.jpg
   "BLEACH":
@@ -1052,9 +1052,17 @@ metadata:
     sort_title: "Kyokou Suiri"
     critic_rating: 6.91
     genre.sync: Anime,Mystery,Romance,Supernatural,Shounen
-    label.remove: Ongoing
+    label: Ongoing
     studio: Brain's Base
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/39017.jpg
+  "Nokemono-tachi no Yoru":
+    alt_title: "Le Conte des Parias"
+    sort_title: "Nokemono-tachi no Yoru"
+    critic_rating: null
+    genre.sync: Anime,Fantasy,Shounen
+    label: Ongoing
+    studio: Ashi Productions
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/52274.jpg
   "Lycoris Recoil":
     alt_title: "Lycoris Recoil"
     sort_title: "Lycoris Recoil"
@@ -1602,7 +1610,7 @@ metadata:
   "Tomo-chan wa Onnanoko!":
     alt_title: "Tomo-chan wa Onnanoko!"
     sort_title: "Tomo-chan wa Onnanoko!"
-    critic_rating: 7.51
+    critic_rating: 7.52
     genre.sync: Anime,Comedy,Romance
     label: Ongoing
     studio: Lay-duce
