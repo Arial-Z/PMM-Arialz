@@ -204,7 +204,7 @@ metadata:
     sort_title: "Kidou Senshi Gundam: Suisei no Majo"
     critic_rating: 7.96
     genre.sync: Anime,Sci-Fi
-    label: Ongoing
+    label.remove: Ongoing
     studio: Sunrise
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/49828.jpg
   "Romantic Killer":
@@ -908,7 +908,7 @@ metadata:
     sort_title: "Kamitachi ni Hirowareta Otoko"
     critic_rating: 6.97
     genre.sync: Anime,Fantasy,Slice of Life
-    label.remove: Ongoing
+    label: Ongoing
     studio: Maho Film
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/41312.jpg
   "Katanagatari":
