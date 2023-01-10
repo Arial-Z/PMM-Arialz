@@ -14,7 +14,7 @@ templates:
         studio: <<overlay_name>>
     overlay:
       name: <<overlay_name>>
-      repo: /overlays/Images/Studios/Animes/<<overlay>>
+      repo: /overlays/Images/Studios-Animes/<<overlay>>
       weight: <<weight>>
       horizontal_offset: <<horizontal_offset>>
       horizontal_align: <<horizontal_align>>
