@@ -284,7 +284,7 @@ metadata:
     sort_title: "Mononogatari"
     critic_rating: null
     genre.sync: Anime,Action,Supernatural,Seinen
-    label.remove: Ongoing
+    label: Ongoing
     studio: Bandai Namco Pictures
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/50384.jpg
   "3-gatsu no Lion":
@@ -471,14 +471,6 @@ metadata:
     label: Ongoing
     studio: Bones
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/31478.jpg
-  "Tondemo Skill de Isekai Hourou Meshi":
-    alt_title: "Campfire Cooking in Another World with My Absurd Skill"
-    sort_title: "Tondemo Skill de Isekai Hourou Meshi"
-    critic_rating: null
-    genre.sync: Anime,Adventure,Comedy,Fantasy,Gourmet
-    label.remove: Ongoing
-    studio: MAPPA
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/53446.jpg
   "Casshern Sins":
     alt_title: "Casshern Sins"
     sort_title: "Casshern Sins"
@@ -612,7 +604,7 @@ metadata:
     sort_title: "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀"
     critic_rating: null
     genre.sync: Anime,Action,Fantasy
-    label.remove: Ongoing
+    label: Ongoing
     studio: Studio Comet
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/50481.jpg
   "Enen no Shouboutai":
@@ -1663,6 +1655,14 @@ metadata:
     label.remove: Ongoing
     studio: Brain's Base
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/14227.jpg
+  "Tondemo Skill de Isekai Hourou Meshi":
+    alt_title: "Tondemo Skill de Isekai Hourou Meshi"
+    sort_title: "Tondemo Skill de Isekai Hourou Meshi"
+    critic_rating: null
+    genre.sync: Anime,Adventure,Comedy,Fantasy,Gourmet
+    label.remove: Ongoing
+    studio: MAPPA
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/53446.jpg
   "Tonikaku Kawaii":
     alt_title: "Tonikaku Kawaii"
     sort_title: "Tonikaku Kawaii"
