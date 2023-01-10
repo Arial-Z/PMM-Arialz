@@ -62,12 +62,22 @@ overlays:
       - name: Studios
         weight: 20
 
+  C2C:
+    template:
+      - name: Studios
+        weight: 20
+
   CloverWorks:
     template:
       - name: Studios
         weight: 20
 
   CoMix Wave Films:
+    template:
+      - name: Studios
+        weight: 20
+
+  David Production:
     template:
       - name: Studios
         weight: 20
