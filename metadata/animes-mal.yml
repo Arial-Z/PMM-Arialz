@@ -23,6 +23,14 @@ metadata:
     label.remove: Ongoing
     studio: A-1 Pictures
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/6702.jpg
+  "Hajime no Ippo":
+    alt_title: "Hajime no Ippo: THE FIGHTING!"
+    sort_title: "Hajime no Ippo"
+    critic_rating: 8.75
+    genre.sync: Anime,Sports,Shounen
+    label.remove: Ongoing
+    studio: Madhouse
+    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/263.jpg
   "Inuyasha":
     alt_title: "Inuyasha"
     sort_title: "Inuyasha"
@@ -48,7 +56,7 @@ metadata:
     studio: Studio Hibari
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/627.jpg
   "One Piece":
-    alt_title: "ONE PIECE"
+    alt_title: "One Piece"
     sort_title: "One Piece"
     critic_rating: 8.68
     genre.sync: Anime,Action,Adventure,Fantasy,Shounen
@@ -551,14 +559,6 @@ metadata:
     label.remove: Ongoing
     studio: Production I.G
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/20583.jpg
-  "Hajime no Ippo: THE FIGHTING!":
-    alt_title: "Hajime no Ippo"
-    sort_title: "Hajime no Ippo: THE FIGHTING!"
-    critic_rating: 8.75
-    genre.sync: Anime,Sports,Shounen
-    label.remove: Ongoing
-    studio: Madhouse
-    file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/263.jpg
   "Hataraku Maou-sama!":
     alt_title: "Hataraku Maou-sama!"
     sort_title: "Hataraku Maou-sama!"
