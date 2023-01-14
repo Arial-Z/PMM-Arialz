@@ -236,7 +236,7 @@ metadata:
     sort_title: "Boku no Hero Academia"
     critic_rating: 7.91
     genre.sync: Anime,Action,Shounen
-    label.remove: Ongoing
+    label: Ongoing
     studio: Bones
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/31964.jpg
   "Buddy Daddies":
@@ -252,7 +252,7 @@ metadata:
     sort_title: "Bungou Stray Dogs"
     critic_rating: 7.82
     genre.sync: Anime,Action,Mystery,Supernatural,Seinen
-    label.remove: Ongoing
+    label: Ongoing
     studio: Bones
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/31478.jpg
   "Casshern Sins":
@@ -396,7 +396,7 @@ metadata:
     sort_title: "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
     critic_rating: 7.55
     genre.sync: Anime,Action,Adventure,Fantasy
-    label.remove: Ongoing
+    label: Ongoing
     studio: J.C.Staff
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/28121.jpg
   "Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀":
@@ -436,7 +436,7 @@ metadata:
     sort_title: "Fumetsu no Anata e"
     critic_rating: 8.37
     genre.sync: Anime,Adventure,Drama,Supernatural,Shounen
-    label.remove: Ongoing
+    label: Ongoing
     studio: Brain's Base
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/41025.jpg
   "Gankutsuou":
@@ -500,7 +500,7 @@ metadata:
     sort_title: "Golden Kamuy"
     critic_rating: 7.87
     genre.sync: Anime,Action,Adventure,Seinen
-    label.remove: Ongoing
+    label: Ongoing
     studio: Geno Studio
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/36028.jpg
   "Grand Blue":
@@ -660,7 +660,7 @@ metadata:
     sort_title: "Ijiranaide, Nagatoro-san"
     critic_rating: 7.33
     genre.sync: Anime,Comedy
-    label.remove: Ongoing
+    label: Ongoing
     studio: Telecom Animation Film
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/42361.jpg
   "Inu x Boku SS":
@@ -708,7 +708,7 @@ metadata:
     sort_title: "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu."
     critic_rating: 7.56
     genre.sync: Anime,Action,Adventure,Comedy,Fantasy
-    label.remove: Ongoing
+    label: Ongoing
     studio: SILVER LINK.
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/38790.jpg
   "Jormungand":
@@ -780,7 +780,7 @@ metadata:
     sort_title: "Kamitachi ni Hirowareta Otoko"
     critic_rating: 6.98
     genre.sync: Anime,Fantasy,Slice of Life
-    label.remove: Ongoing
+    label: Ongoing
     studio: Maho Film
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/41312.jpg
   "Katanagatari":
@@ -956,7 +956,7 @@ metadata:
     sort_title: "Kyokou Suiri"
     critic_rating: 6.91
     genre.sync: Anime,Mystery,Romance,Supernatural,Shounen
-    label.remove: Ongoing
+    label: Ongoing
     studio: Brain's Base
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/39017.jpg
   "Kyoukai no Kanata":
@@ -1020,7 +1020,7 @@ metadata:
     sort_title: "Mairimashita! Iruma-kun"
     critic_rating: 7.75
     genre.sync: Anime,Comedy,Fantasy,Shounen
-    label.remove: Ongoing
+    label: Ongoing
     studio: Bandai Namco Pictures
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/39196.jpg
   "Major 2nd":
@@ -1044,7 +1044,7 @@ metadata:
     sort_title: "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou"
     critic_rating: 7.38
     genre.sync: Anime,Action,Fantasy
-    label.remove: Ongoing
+    label: Ongoing
     studio: SILVER LINK.
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/40496.jpg
   "Maoyuu Maou Yuusha":
@@ -1620,7 +1620,7 @@ metadata:
     sort_title: "Tokyo Revengers"
     critic_rating: 8.05
     genre.sync: Anime,Action,Drama,Supernatural,Shounen
-    label.remove: Ongoing
+    label: Ongoing
     studio: LIDENFILMS
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/42249.jpg
   "Tomo-chan wa Onnanoko!":
@@ -1692,7 +1692,7 @@ metadata:
     sort_title: "Tsurune: Kazemai Koukou Kyuudou-bu"
     critic_rating: 7.64
     genre.sync: Anime,Sports
-    label.remove: Ongoing
+    label: Ongoing
     studio: Kyoto Animation
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/36653.jpg
   "Uchouten Kazoku":
@@ -1748,7 +1748,7 @@ metadata:
     sort_title: "VINLAND SAGA"
     critic_rating: 8.73
     genre.sync: Anime,Action,Adventure,Drama,Seinen
-    label.remove: Ongoing
+    label: Ongoing
     studio: Wit Studio
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/37521.jpg
   "Violet Evergarden":
@@ -1852,7 +1852,7 @@ metadata:
     sort_title: "Yowamushi Pedal"
     critic_rating: 7.94
     genre.sync: Anime,Sports,Shounen
-    label.remove: Ongoing
+    label: Ongoing
     studio: TMS Entertainment
     file_poster: /home/arialz/github/Plex-Romaji-Renamer/posters/18179.jpg
   "Yuru Camp△":
