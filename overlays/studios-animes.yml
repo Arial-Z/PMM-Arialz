@@ -8,7 +8,7 @@ templates:
       horizontal_align: left
       vertical_offset: 15
       vertical_align: top
-    collection_level: <<overlay_level>>
+    builder_level: <<overlay_level>>
     plex_search:
       all:
         studio: <<overlay_name>>
