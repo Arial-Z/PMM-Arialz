@@ -42,6 +42,11 @@ overlays:
       - name: Studios
         weight: 20
 
+  asread:
+    template:
+      - name: Studios
+        weight: 20
+
   Bandai Namco Pictures:
     template:
       - name: Studios
