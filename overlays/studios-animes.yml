@@ -8,7 +8,7 @@ templates:
       horizontal_align: left
       vertical_offset: 15
       vertical_align: top
-    collection_level: <<overlay_level>>
+    builder_level: <<overlay_level>>
     plex_search:
       all:
         studio: <<overlay_name>>
@@ -42,7 +42,7 @@ overlays:
       - name: Studios
         weight: 20
 
-  asread:
+  AtelierPontdarc:
     template:
       - name: Studios
         weight: 20
@@ -72,6 +72,11 @@ overlays:
       - name: Studios
         weight: 20
 
+  Cloud Hearts:
+    template:
+      - name: Studios
+        weight: 20
+
   CloverWorks:
     template:
       - name: Studios
@@ -97,6 +102,16 @@ overlays:
       - name: Studios
         weight: 20
 
+  Encourage Films:
+    template:
+      - name: Studios
+        weight: 20
+
+  EMT Squared:
+    template:
+      - name: Studios
+        weight: 20
+
   ENGI:
     template:
       - name: Studios
@@ -107,12 +122,32 @@ overlays:
       - name: Studios
         weight: 20
 
+  Gallop:
+    template:
+      - name: Studios
+        weight: 20
+
+  Geek Toys:
+    template:
+      - name: Studios
+        weight: 20
+
   GoHands:
     template:
       - name: Studios
         weight: 20
 
+  Lerche:
+    template:
+      - name: Studios
+        weight: 20
+
   J.C.Staff:
+    template:
+      - name: Studios
+        weight: 20
+
+  Kadokawa:
     template:
       - name: Studios
         weight: 20
@@ -157,6 +192,16 @@ overlays:
       - name: Studios
         weight: 20
 
+  Nexus:
+    template:
+      - name: Studios
+        weight: 20
+
+  Okuruto Noboru:
+    template:
+      - name: Studios
+        weight: 20
+
   OLM:
     template:
       - name: Studios
@@ -192,12 +237,42 @@ overlays:
       - name: Studios
         weight: 20
 
+  Quad:
+    template:
+      - name: Studios
+        weight: 20
+
+  Revoroot:
+    template:
+      - name: Studios
+        weight: 20
+
   Satelight:
     template:
       - name: Studios
         weight: 20
 
   Shaft:
+    template:
+      - name: Studios
+        weight: 20
+
+  Shuka:
+    template:
+      - name: Studios
+        weight: 20
+
+  Studio A-CAT:
+    template:
+      - name: Studios
+        weight: 20
+
+  Studio Bind:
+    template:
+      - name: Studios
+        weight: 20
+
+  Studio Blanc.:
     template:
       - name: Studios
         weight: 20
@@ -212,12 +287,27 @@ overlays:
       - name: Studios
         weight: 20
 
+  Studio Comet:
+    template:
+      - name: Studios
+        weight: 20
+
   Studio Deen:
     template:
       - name: Studios
         weight: 20
 
   Studio Ghibli:
+    template:
+      - name: Studios
+        weight: 20
+
+  Studio Kai:
+    template:
+      - name: Studios
+        weight: 20
+
+  studio MOTHER:
     template:
       - name: Studios
         weight: 20
@@ -232,7 +322,17 @@ overlays:
       - name: Studios
         weight: 20
 
+  Tatsunoko Production:
+    template:
+      - name: Studios
+        weight: 20
+
   Telecom Animation Film:
+    template:
+      - name: Studios
+        weight: 20
+
+  Tezuka Productions:
     template:
       - name: Studios
         weight: 20
@@ -243,6 +343,11 @@ overlays:
         weight: 20
 
   Toei Animation:
+    template:
+      - name: Studios
+        weight: 20
+
+  TROYCA:
     template:
       - name: Studios
         weight: 20
@@ -266,3 +371,24 @@ overlays:
     template:
       - name: Studios
         weight: 20
+        
+  Wit Studio:
+    template:
+      - name: Studios
+        weight: 20
+
+  Yokohama Animation Lab:
+    template:
+      - name: Studios
+        weight: 20
+
+  Yostar Pictures:
+    template:
+      - name: Studios
+        weight: 20
+
+  Zero-G:
+    template:
+      - name: Studios
+        weight: 20
+     
