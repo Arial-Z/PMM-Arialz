@@ -1,0 +1,77 @@
+templates:
+  DynamicRange_short:
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+      horizontal_offset: 15
+      horizontal_align: left
+      vertical_offset: 150
+      vertical_align: top
+    builder_level: <<overlay_level>>
+    overlay:
+      name: <<overlay_name>>
+      file: config/dynamicrange/<<overlay>>.png
+      group: dynamic_range
+      weight: <<weight>>
+      back_color: "#00000099"
+      back_radius: 30
+      back_width: 200
+      back_height: 105
+      horizontal_offset: <<horizontal_offset>>
+      horizontal_align: <<horizontal_align>>
+      vertical_offset: <<vertical_offset>>
+      vertical_align: <<vertical_align>>
+
+  DynamicRange_long:
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+      horizontal_offset: 15
+      horizontal_align: left
+      vertical_offset: 150
+      vertical_align: top
+    builder_level: <<overlay_level>>
+    overlay:
+      name: <<overlay_name>>
+      file: config/dynamicrange/<<overlay>>.png
+      group: dynamic_range
+      weight: <<weight>>
+      back_color: "#00000099"
+      back_radius: 30
+      back_width: 305
+      back_height: 105
+      horizontal_offset: <<horizontal_offset>>
+      horizontal_align: <<horizontal_align>>
+      vertical_offset: <<vertical_offset>>
+      vertical_align: <<vertical_align>>
+
+overlays:
+  DV+HDR:
+    template:
+      - name: DynamicRange_long
+        weight: 30
+    plex_search:
+      all:
+        hdr: true
+    filters:
+      has_dolby_vision: true
+
+  HDR:
+    template:
+      - name: DynamicRange_short
+        weight: 20
+    plex_search:
+      all:
+        hdr: true
+
+  DV:
+    template:
+      - name: DynamicRange_short
+        weight: 10
+    plex_search:
+      all:
+        hdr: false
+    filters:
+      has_dolby_vision: true

@@ -1,0 +1,62 @@
+##############################################################################
+#                               Status Overlay                               #
+#                 Created by Yozora, Bullmoose20, & Sohjiro                  #
+#          EDITING THIS FILE MAY CAUSE PULLING NEW UPDATES TO FAIL           #
+#      https://metamanager.wiki/en/latest/defaults/overlays/status.html      #
+##############################################################################
+
+external_templates:
+  pmm: templates
+  template_variables:
+    text_<<key>>: <<text>>
+    group: status
+    horizontal_offset: 15
+    horizontal_align: right
+    vertical_offset: 150
+    vertical_align: bottom
+    font_size: 58
+    back_color: "#000000B3"
+    back_radius: 30
+    back_width: 350
+    back_height: 120
+    allowed_libraries: show
+    final_name: text(<<text_<<key>>>>)
+
+templates:
+  status:
+    optional:
+      - last
+    conditionals:
+      all:
+        conditions:
+          - key: [ended, returning, canceled]
+            value: true
+      tmdb:
+        conditions:
+          - key: [ended, returning, canceled]
+            value: <<key>>
+    ignore_blank_results: true
+    plex_search:
+      any:
+        episode_air_date: <<last>>
+    plex_all: <<all>>
+    filters:
+      tmdb_status: <<tmdb>>
+
+overlays:
+
+  airing_shows:
+    variables: {key: airing, weight: 40, text: Diffusion, last: 14}
+    template: [name: standard, name: status]
+
+  returning_shows:
+    variables: {key: returning, weight: 30, text: Renouvellée}
+    template: [name: standard, name: status]
+
+  canceled_shows:
+    variables: {key: canceled, weight: 20, text: Annulée}
+    template: [name: standard, name: status]
+
+  ended_shows:
+    variables: {key: ended, weight: 10, text: Terminée}
+    template: [name: standard, name: status]

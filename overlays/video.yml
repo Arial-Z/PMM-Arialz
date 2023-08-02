@@ -1,0 +1,104 @@
+templates:
+  DynamicRange:
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+      horizontal_offset: 15
+      horizontal_align: left
+      vertical_offset: 150
+      vertical_align: top
+    builder_level: <<overlay_level>>
+    overlay:
+      name: <<overlay_name>>
+      repo: overlays/Images/Resolution/<<overlay>>
+      group: dynamic_range
+      weight: <<weight>>
+      back_color: "#000000B3"
+      back_radius: 30
+      back_width: 230
+      back_height: 120
+      horizontal_offset: <<horizontal_offset>>
+      horizontal_align: <<horizontal_align>>
+      vertical_offset: <<vertical_offset>>
+      vertical_align: <<vertical_align>>
+
+  Resolution:
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+      horizontal_offset: 15
+      horizontal_align: left
+      vertical_offset: 15
+      vertical_align: top
+    builder_level: <<overlay_level>>
+    overlay:
+      name: <<overlay_name>>
+      repo: /overlays/Images/Resolution/<<overlay>>
+      group: resolution
+      weight: <<weight>>
+      back_color: "#000000B3"
+      back_radius: 30
+      back_width: 230
+      back_height: 120
+      horizontal_offset: <<horizontal_offset>>
+      horizontal_align: <<horizontal_align>>
+      vertical_offset: <<vertical_offset>>
+      vertical_align: <<vertical_align>>
+
+overlays:
+  DV:
+    template:
+      - name: DynamicRange
+        weight: 30
+    plex_all: true
+    filters:
+      has_dolby_vision: true
+
+  HDR:
+    template:
+      - name: DynamicRange
+        weight: 20
+    plex_search:
+      all:
+        hdr: true
+
+  4K:
+    template:
+      - name: Resolution
+        weight: 50
+    plex_search:
+      all:
+        resolution.regex: '(?i)2160|4k'
+  1080P:
+    template:
+      - name: Resolution
+        weight: 40
+    plex_search:
+      all:
+        resolution.regex: '(?i)1080|2k'
+
+  720P:
+    template:
+      - name: Resolution
+        weight: 30
+    plex_search:
+      all:
+        resolution.regex: '(?i)720|hd'
+
+  576P:
+    template:
+      - name: Resolution
+        weight: 20
+    plex_search:
+      all:
+        resolution.regex: '(?i)576'
+
+  480P:
+    template:
+      - name: Resolution
+        weight: 10
+    plex_search:
+      all:
+        resolution.regex: '(?i)480|sd'

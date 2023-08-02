@@ -1,0 +1,31 @@
+external_templates:
+  pmm: templates
+  template_variables:
+    text_<<key>>: <<text>>
+    group: status
+    horizontal_offset: 15
+    horizontal_align: right
+    vertical_offset: 150
+    vertical_align: bottom
+    font_size: 58
+    back_color: "#000000B3"
+    back_radius: 30
+    back_width: 350
+    back_height: 120
+    allowed_libraries: show
+    final_name: text(<<text_<<key>>>>)
+
+overlays:
+  Airing:
+    variables: {key: airing, weight: 40, text: AIRING}
+    template: [name: standard]
+    plex_search:
+      all:
+        label: Ongoing
+
+  Ended:
+    variables: {key: ended, weight: 10, text: ENDED}
+    template: [name: standard]
+    plex_search:
+      all:
+        label.not: Ongoing

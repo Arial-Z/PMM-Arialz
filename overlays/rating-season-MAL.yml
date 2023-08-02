@@ -1,0 +1,62 @@
+templates:
+  MAL_Rating:                                                               #IDMB Rating Logo
+    default:
+      overlay: <<overlay_name>>
+    builder_level: season
+    overlay:
+      name: <<overlay_name>>
+      repo: overlays/Images/Rating/<<overlay>>
+      back_color: "#000000B3"
+      back_radius: 30
+      back_width: 330
+      back_height: 120
+      queue: Rating_Queue_Logo
+      weight: <<weight>>
+
+  User_Rating:                                                               #user Rating Text (MAL Rating)
+    optional:
+      - overlay_level
+    default:
+      rating_type: user_rating
+    builder_level: season
+    overlay:
+      name: text(<<rating_type>>)
+      queue: Rating_Queue_Text
+      weight: <<weight>>
+      font: fonts/Roboto-Bold.ttf
+      font_size: 80
+      font_color: "#FFFFFF"
+
+queues:
+  Rating_Queue_Logo:
+    - horizontal_offset: 10
+      horizontal_align: left
+      vertical_offset: 10
+      vertical_align: bottom
+  Rating_Queue_Text:
+    - horizontal_offset: 198
+      horizontal_align: left
+      vertical_offset: 40
+      vertical_align: bottom
+
+overlays:
+  MAL_Rating:
+    template:
+      - name: MAL_Rating
+        weight: 100
+    plex_search:
+      all:
+        season_label: score
+        user_rating.gte: 0.1
+        user_rating.lte: 10
+
+
+  user_rating:
+    template:
+      name: User_Rating
+      weight: 100
+    plex_search:
+      all:
+        season_label: score
+        user_rating.gte: 0.1
+        user_rating.lte: 10

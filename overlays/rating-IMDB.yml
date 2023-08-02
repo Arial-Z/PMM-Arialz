@@ -1,0 +1,61 @@
+templates:
+  IMDB_Rating:                                                               #IDMB Rating Logo
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+    builder_level: <<overlay_level>>
+    overlay:
+      name: <<overlay_name>>
+      repo: overlays/Images/Rating/<<overlay>>
+      back_color: "#000000B3"
+      back_radius: 30
+      back_width: 330
+      back_height: 120
+      queue: Rating_Queue_Logo
+      weight: <<weight>>
+
+  Critic_Rating:                                                               #Critic Rating Text (IMDB Rating)
+    optional:
+      - overlay_level
+    default:
+      rating_type: critic_rating
+    builder_level: <<overlay_level>>
+    overlay:
+      name: text(<<rating_type>>)
+      queue: Rating_Queue_Text
+      weight: <<weight>>
+      font: fonts/Roboto-Bold.ttf
+      font_size: 80
+      font_color: "#FFFFFF"
+
+queues:
+  Rating_Queue_Logo:
+    - horizontal_offset: 10
+      horizontal_align: left
+      vertical_offset: 10
+      vertical_align: bottom
+  Rating_Queue_Text:
+    - horizontal_offset: 198
+      horizontal_align: left
+      vertical_offset: 40
+      vertical_align: bottom
+
+overlays:
+  IMDB_Rating:
+    template:
+      - name: IMDB_Rating
+        weight: 100
+    plex_search:
+      all:
+        critic_rating.gte: 0.1
+        critic_rating.lte: 10
+
+  critic_rating:
+    template:
+      name: Critic_Rating
+      weight: 100
+    plex_search:
+      all:
+        critic_rating.gte: 0.1
+        critic_rating.lte: 10

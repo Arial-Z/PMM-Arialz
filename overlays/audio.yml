@@ -1,0 +1,54 @@
+templates:
+  AudioLanguage:
+    optional:
+      - overlay_level
+    default:
+      overlay: <<overlay_name>>
+      horizontal_offset: 260
+      horizontal_align: left
+      vertical_offset: 15
+      vertical_align: top
+    builder_level: <<overlay_level>>
+    overlay:
+      name: <<overlay_name>>
+      repo: overlays/Images/Audio/<<overlay>>
+      group: audio_language
+      weight: <<weight>>
+      back_color: "#000000B3"
+      back_radius: 30
+      back_width: 230
+      back_height: 120
+      horizontal_offset: <<horizontal_offset>>
+      horizontal_align: <<horizontal_align>>
+      vertical_offset: <<vertical_offset>>
+      vertical_align: <<vertical_align>>
+
+overlays:
+
+  Audio-VO:
+    template:
+      - name: AudioLanguage
+        weight: 30
+    plex_search:
+      all:
+        audio_language.not: fr
+
+  Audio-Multi:
+    template:
+      - name: AudioLanguage
+        weight: 20
+    plex_search:
+      all:
+        audio_language: fr
+    filters:
+      audio_language.count_gte: 2
+
+  Audio-VF:
+    template:
+      - name: AudioLanguage
+        weight: 10
+    plex_search:
+      all:
+        audio_language: fr
+    filters:
+      audio_language.count_lt: 2
