@@ -7,7 +7,7 @@ collections:
       sort_by: episode_release.desc
     sort_title: |-
       !0 - Series récentes à voir
-    collection_mode: hide_items
+    collection_mode: hide
     visible_library: true
     visible_home: true
     visible_shared: true
@@ -21,7 +21,7 @@ collections:
       sort_by: critic_rating.desc
     sort_title: |-
       !1 - Meilleures Series non vues
-    collection_mode: hide_items
+    collection_mode: hide
     visible_library: true
     visible_home: true
     visible_shared: true
