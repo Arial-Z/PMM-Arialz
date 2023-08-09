@@ -8,7 +8,7 @@ templates:
     overlay:
       name: <<overlay_name>>
       repo: overlays/Images/Rating/<<overlay>>
-      back_color: "#000000B3"
+      back_color: "#00000099"
       back_radius: 30
       back_width: 330
       back_height: 120
