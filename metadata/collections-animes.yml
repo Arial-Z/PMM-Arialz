@@ -35,6 +35,7 @@ collections:
     smart_filter:
       all:
         label: Ongoing
+      sort_by: title.desc
     sort_title: |-
       !0 - Ongoing All
     collection_mode: hide
