@@ -1,0 +1,13 @@
+collections:
+  Meilleurs Films non vus:
+    collection_filtering: user
+    smart_filter:
+      all:
+        unplayed: true
+      sort_by: critic_rating.desc
+    sort_title: |-
+      zzzzz1 - Meilleurs Films non vus
+    collection_mode: hide
+    visible_library: true
+    visible_home: true
+    visible_shared: true
