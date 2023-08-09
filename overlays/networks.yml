@@ -18,7 +18,7 @@ templates:
       repo: overlays/Images/Networks/<<key>>
       group: Networks
       weight: <<weight>>
-      back_color: "#000000B3"
+      back_color: "#00000099"
       back_radius: 30
       back_width: 350
       back_height: 120
