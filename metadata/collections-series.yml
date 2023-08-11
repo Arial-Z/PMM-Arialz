@@ -4,7 +4,7 @@ collections:
     smart_filter:
       all:
         unplayed_episodes: true
-      sort_by: episode_release.desc
+      sort_by: episode_added.desc
     sort_title: |-
       !0 - Series récentes à voir
     collection_mode: hide
