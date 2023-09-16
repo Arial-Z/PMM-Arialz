@@ -298,7 +298,7 @@ metadata:
     original_title: |-
       Ayaka
     genre.sync: Anime,Action,Supernatural,Super Power,Male Protagonist,Urban Fantasy,Orphan,Shounen
-    label: Ongoing
+    label.remove: Ongoing
     studio: Studio Blanc
     seasons:
       1:
@@ -2398,30 +2398,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.2
-  402033:
-    title: |-
-      Shiguang Dailiren
-    sort_title: |-
-      Shiguang Dailiren
-    original_title: |-
-      Link Click
-    genre.sync: Anime,Drama,Mystery,Supernatural,Thriller,Time Manipulation,Body Swapping,Super Power,Photography,Tragedy,Primarily Adult Cast,Crime,Male Protagonist,Urban Fantasy,Memory Manipulation,Urban
-    label: Ongoing
-    studio: Studio LAN
-    seasons:
-      0:
-        label.remove: score
-      1:
-        title: |-
-          Shiguang Dailiren
-        user_rating: 8.7
-        label: score
-      2:
-        title: |-
-          Shiguang Dailiren II
-        user_rating: 8.6
-        label: score
-    audience_rating: 8.6
   418340:
     title: |-
       Lv1 Maou to One Room Yuusha
@@ -3252,7 +3228,7 @@ metadata:
     original_title: |-
       Atelier Ryza: Ever Darkness & the Secret Hideout The Animation
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Alchemy,Iyashikei,Female Protagonist
-    label: Ongoing
+    label.remove: Ongoing
     studio: LIDENFILMS
     seasons:
       1:
@@ -3458,6 +3434,30 @@ metadata:
       1:
         label.remove: score
     audience_rating: 8.4
+  402033:
+    title: |-
+      Shiguang Dailiren
+    sort_title: |-
+      Shiguang Dailiren
+    original_title: |-
+      Link Click
+    genre.sync: Anime,Drama,Mystery,Supernatural,Thriller,Time Manipulation,Body Swapping,Super Power,Photography,Tragedy,Primarily Adult Cast,Crime,Male Protagonist,Urban Fantasy,Memory Manipulation,Urban
+    label: Ongoing
+    studio: Studio LAN
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          Shiguang Dailiren
+        user_rating: 8.7
+        label: score
+      2:
+        title: |-
+          Shiguang Dailiren II
+        user_rating: 8.6
+        label: score
+    audience_rating: 8.6
   267440:
     title: |-
       Shingeki no Kyojin
