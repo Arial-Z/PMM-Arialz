@@ -2392,12 +2392,36 @@ metadata:
     original_title: |-
       Liar, Liar
     genre.sync: Anime,Psychological,Romance,Male Protagonist,Tsundere,Gambling,School,Primarily Teen Cast
-    label: Ongoing
+    label.remove: Ongoing
     studio: GEEKTOYS
     seasons:
       1:
         label.remove: score
     audience_rating: 6.2
+  402033:
+    title: |-
+      Shiguang Dailiren
+    sort_title: |-
+      Shiguang Dailiren
+    original_title: |-
+      Link Click
+    genre.sync: Anime,Drama,Mystery,Supernatural,Thriller,Time Manipulation,Body Swapping,Super Power,Photography,Tragedy,Primarily Adult Cast,Crime,Male Protagonist,Urban Fantasy,Memory Manipulation,Urban
+    label: Ongoing
+    studio: Studio LAN
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          Shiguang Dailiren
+        user_rating: 8.7
+        label: score
+      2:
+        title: |-
+          Shiguang Dailiren II
+        user_rating: 8.6
+        label: score
+    audience_rating: 8.6
   418340:
     title: |-
       Lv1 Maou to One Room Yuusha
