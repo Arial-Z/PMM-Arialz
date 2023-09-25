@@ -21,7 +21,7 @@ collections:
       all:
         label.not: Ongoing
         unplayed_episodes: true
-      sort_by: viewed.desc
+      sort_by: added.desc
     sort_title: |-
       !2 - Ended à voir
     collection_mode: show_items
