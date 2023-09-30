@@ -453,7 +453,7 @@ metadata:
     original_title: |-
       Bleach
     genre.sync: Anime,Action,Adventure,Supernatural,Swordplay,Super Power,Shounen,Afterlife,Male Protagonist,Ghost,Urban Fantasy,Demons
-    label: Ongoing
+    label.remove: Ongoing
     studio: Studio Pierrot
     audience_rating: 7.7
   408629:
@@ -788,7 +788,7 @@ metadata:
       Dark Gathering
     original_title: |-
       Dark Gathering
-    genre.sync: Anime,Horror,Supernatural,Ghost,Necromancy,Urban Fantasy,Male Protagonist,Female Protagonist,Suicide,Body Horror,Rehabilitation
+    genre.sync: Anime,Horror,Supernatural,Ghost,Necromancy,Male Protagonist,Female Protagonist,Urban Fantasy,Suicide,Body Horror,Rehabilitation
     label: Ongoing
     studio: OLM
     seasons:
@@ -868,7 +868,7 @@ metadata:
       Dekiru Neko wa Kyou mo Yuuutsu
     original_title: |-
       The Masterful Cat is Depressed Again Today
-    genre.sync: Anime,Comedy,Fantasy,Slice of Life,Animals,Female Protagonist,Office Lady,Anthropomorphism,Iyashikei,Food,Episodic,Primarily Adult Cast
+    genre.sync: Anime,Comedy,Fantasy,Slice of Life,Animals,Female Protagonist,Office Lady,Anthropomorphism,Iyashikei,Episodic,Primarily Adult Cast,Food
     label.remove: Ongoing
     studio: GoHands
     seasons:
@@ -1172,20 +1172,6 @@ metadata:
     label.remove: Ongoing
     studio: Sunrise
     audience_rating: 8.5
-  424459:
-    title: |-
-      Ojou to Banken-kun
-    sort_title: |-
-      Ojou to Banken-kun
-    original_title: |-
-      A Girl & Her Guard Dog
-    genre.sync: Anime,Drama,Romance,Age Gap,Yakuza,Heterosexual,Shoujo,School
-    label: Ongoing
-    studio: project No.9
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 5.9
   262098:
     title: |-
       Girls und Panzer
@@ -2713,6 +2699,19 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.5
+  428394:
+    title: |-
+      Megumi no Daigo: Kyuukoku no Orange
+    sort_title: |-
+      Megumi no Daigo: Kyuukoku no Orange
+    original_title: |-
+      Firefighter Daigo: Rescuer in Orange
+    genre.sync: Anime,Action,Drama,Firefighters,Work
+    label: Ongoing
+    studio: Brain's Base
+    seasons:
+      1:
+        label.remove: score
   307375:
     title: |-
       Mob Psycho 100
@@ -2926,6 +2925,20 @@ metadata:
         user_rating: 8.0
         label: score
     audience_rating: 7.9
+  424459:
+    title: |-
+      Ojou to Banken-kun
+    sort_title: |-
+      Ojou to Banken-kun
+    original_title: |-
+      A Girl & Her Guard Dog
+    genre.sync: Anime,Drama,Romance,Age Gap,Yakuza,Heterosexual,Shoujo,School
+    label: Ongoing
+    studio: project No.9
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 5.9
   423096:
     title: |-
       Okashi na Tensei
@@ -3586,7 +3599,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 7.0
+    audience_rating: 7.2
   284564:
     title: |-
       Shirobako
@@ -3721,13 +3734,13 @@ metadata:
       Sousou no Frieren
     original_title: |-
       Frieren: Beyond Journey’s End
-    genre.sync: Anime,Adventure,Drama,Fantasy,Philosophy,Elf,Travel,Magic,Female Protagonist,Time Skip,Fairy Tale,Demons,Iyashikei
+    genre.sync: Anime,Adventure,Drama,Fantasy,Travel,Elf,Magic,Philosophy,Female Protagonist,Time Skip,Iyashikei
     label: Ongoing
     studio: MADHOUSE
     seasons:
       1:
         label.remove: score
-    audience_rating: 86.0
+    audience_rating: 8.6
   405920:
     title: |-
       Spy×family
@@ -3865,7 +3878,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.3
+    audience_rating: 6.4
   305104:
     title: |-
       Tanaka-kun wa Itsumo Kedaruge
@@ -4255,7 +4268,7 @@ metadata:
     original_title: |-
       My Tiny Senpai
     genre.sync: Anime,Comedy,Romance,Slice of Life,Seinen,Work,Heterosexual,Office Lady
-    label: Ongoing
+    label.remove: Ongoing
     studio: project No.9
     seasons:
       1:
