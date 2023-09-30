@@ -1762,7 +1762,7 @@ metadata:
     original_title: |-
       Am I Actually the Strongest?
     genre.sync: Anime,Comedy,Ecchi,Fantasy,Romance,Reincarnation,Magic,Isekai,Demons,Rehabilitation,Kemonomimi,Hikikomori,Gods,Male Protagonist
-    label: Ongoing
+    label.remove: Ongoing
     studio: Staple Entertainment
     seasons:
       1:
@@ -3234,6 +3234,19 @@ metadata:
         user_rating: 7.7
         label: score
     audience_rating: 7.6
+  417983:
+    title: |-
+      Ragna Crimson
+    sort_title: |-
+      Ragna Crimson
+    original_title: |-
+      Ragna Crimson
+    genre.sync: Anime,Action,Adventure,Fantasy,Mystery,Dragons,Revenge
+    label: Ongoing
+    studio: SILVER LINK.
+    seasons:
+      1:
+        label.remove: score
   299506:
     title: |-
       Rakudai Kishi no Cavalry
