@@ -202,22 +202,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.0
-  316842:
-    title: |-
-      Mahoutsukai no Yome
-    sort_title: |-
-      Mahoutsukai no Yome
-    original_title: |-
-      The Ancient Magus' Bride
-    genre.sync: Anime,Drama,Fantasy,Romance,Slice of Life,Supernatural,Magic,Female Protagonist,Mythology,Fairy,Skeleton,Urban Fantasy,Teacher,Monster Boy,Heterosexual,Dragons,Tragedy
-    label.remove: Ongoing
-    studio: Wit Studio
-    seasons:
-      0:
-        label.remove: score
-      1:
-        label.remove: score
-    audience_rating: 7.8
   348706:
     title: |-
       Angolmois: Genkou Kassenki
@@ -2600,6 +2584,22 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.4
+  316842:
+    title: |-
+      Mahoutsukai no Yome
+    sort_title: |-
+      Mahoutsukai no Yome
+    original_title: |-
+      The Ancient Magus' Bride
+    genre.sync: Anime,Drama,Fantasy,Romance,Slice of Life,Supernatural,Magic,Female Protagonist,Mythology,Fairy,Skeleton,Urban Fantasy,Teacher,Monster Boy,Heterosexual,Dragons,Tragedy
+    label.remove: Ongoing
+    studio: Wit Studio
+    seasons:
+      0:
+        label.remove: score
+      1:
+        label.remove: score
+    audience_rating: 7.8
   369144:
     title: |-
       Mairimashita! Iruma-kun
@@ -3317,20 +3317,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.0
-  315500:
-    title: |-
-      Youjo Senki
-    sort_title: |-
-      Youjo Senki
-    original_title: |-
-      Saga of Tanya the Evil
-    genre.sync: Anime,Action,Fantasy,Military,War,Anti-Hero,Female Protagonist,Revenge,Primarily Adult Cast,Gods,Reincarnation,Isekai,Magic,Foreign,Historical
-    label.remove: Ongoing
-    studio: NUT
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 7.7
   313435:
     title: |-
       Saiki Kusuo no Ψ-nan
@@ -3721,7 +3707,7 @@ metadata:
       Sousou no Frieren
     original_title: |-
       Frieren: Beyond Journey’s End
-    genre.sync: Anime,Adventure,Drama,Fantasy,Magic,Philosophy,Elf,Travel,Time Skip,Female Protagonist,Demons,Fairy Tale
+    genre.sync: Anime,Adventure,Drama,Fantasy,Philosophy,Magic,Elf,Travel,Female Protagonist,Time Skip,Demons,Fairy Tale
     label: Ongoing
     studio: MADHOUSE
     seasons:
@@ -4620,6 +4606,20 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.9
+  315500:
+    title: |-
+      Youjo Senki
+    sort_title: |-
+      Youjo Senki
+    original_title: |-
+      Saga of Tanya the Evil
+    genre.sync: Anime,Action,Fantasy,Military,War,Anti-Hero,Female Protagonist,Revenge,Primarily Adult Cast,Gods,Reincarnation,Isekai,Magic,Foreign,Historical
+    label.remove: Ongoing
+    studio: NUT
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 7.7
   427358:
     title: |-
       Yumemiru Danshi wa Genjitsushugisha
