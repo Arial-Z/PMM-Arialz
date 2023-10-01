@@ -2712,6 +2712,7 @@ metadata:
     seasons:
       1:
         label.remove: score
+    audience_rating: 60.0
   307375:
     title: |-
       Mob Psycho 100
@@ -3247,6 +3248,7 @@ metadata:
     seasons:
       1:
         label.remove: score
+    audience_rating: 71.0
   299506:
     title: |-
       Rakudai Kishi no Cavalry
@@ -3527,6 +3529,20 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.3
+  421855:
+    title: |-
+      Shangri-La Frontier
+    sort_title: |-
+      Shangri-La Frontier
+    original_title: |-
+      Shangri-La Frontier
+    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Virtual World,Video Games
+    label: Ongoing
+    studio: C2C
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 6.1
   279830:
     title: |-
       Shigatsu wa Kimi no Uso
