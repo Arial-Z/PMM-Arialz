@@ -1963,6 +1963,20 @@ metadata:
         user_rating: 6.7
         label: score
     audience_rating: 6.8
+  427919:
+    title: |-
+      Kamonohashi Ron no Kindan Suiri
+    sort_title: |-
+      Kamonohashi Ron no Kindan Suiri
+    original_title: |-
+      Ron Kamonohashi's Forbidden Deductions
+    genre.sync: Anime,Drama,Mystery,Detective,Crime,Work,Super Power,Police,Hikikomori
+    label: Ongoing
+    studio: diomedéa
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 71.0
   132941:
     title: |-
       Katanagatari
@@ -2741,6 +2755,20 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.0
+  414207:
+    title: |-
+      MF Ghost
+    sort_title: |-
+      MF Ghost
+    original_title: |-
+      Mf Ghost
+    genre.sync: Anime,Sci-Fi,Sports,Cars,Seinen,Primarily Male Cast,CGI
+    label: Ongoing
+    studio: Felix Film
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 7.0
   413466:
     title: |-
       Migi to Dali
@@ -2748,12 +2776,13 @@ metadata:
       Migi to Dali
     original_title: |-
       Migi&Dali
-    genre.sync: Anime,Drama,Mystery,Slice of Life,Found Family,Male Protagonist,Twins,Seinen
+    genre.sync: Anime,Drama,Mystery,Slice of Life,Twins,Found Family,Male Protagonist,Seinen
     label: Ongoing
     studio: GEEKTOYS
     seasons:
       1:
         label.remove: score
+    audience_rating: 59.0
   307375:
     title: |-
       Mob Psycho 100
@@ -3372,19 +3401,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 8.0
-  427919:
-    title: |-
-      Kamonohashi Ron no Kindan Suiri
-    sort_title: |-
-      Kamonohashi Ron no Kindan Suiri
-    original_title: |-
-      Ron Kamonohashi's Forbidden Deductions
-    genre.sync: Anime,Drama,Mystery,Detective,Crime,Work,Super Power,Police,Hikikomori
-    label: Ongoing
-    studio: diomedéa
-    seasons:
-      1:
-        label.remove: score
   413578:
     title: |-
       Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
@@ -3790,6 +3806,7 @@ metadata:
     seasons:
       1:
         label.remove: score
+    audience_rating: 68.0
   278154:
     title: |-
       Sidonia no Kishi
@@ -4174,6 +4191,7 @@ metadata:
     seasons:
       1:
         label.remove: score
+    audience_rating: 61.0
   281249:
     title: |-
       Tokyo Ghoul
@@ -4565,6 +4583,7 @@ metadata:
     seasons:
       1:
         label.remove: score
+    audience_rating: 73.0
   418665:
     title: |-
       Watashi no Shiawase na Kekkon
