@@ -15,7 +15,7 @@ templates:
         network: <<overlay>>
     overlay:
       name: <<overlay_name>>
-      repo: overlays/Images/Networks/<<key>>
+      url: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/overlays/Images/Networks/<<key>>.png
       group: Networks
       weight: <<weight>>
       back_color: "#00000099"
