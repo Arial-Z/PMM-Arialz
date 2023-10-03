@@ -1970,13 +1970,13 @@ metadata:
       Kamonohashi Ron no Kindan Suiri
     original_title: |-
       Ron Kamonohashi's Forbidden Deductions
-    genre.sync: Anime,Drama,Mystery,Detective,Crime,Work,Super Power,Police,Hikikomori
+    genre.sync: Anime,Drama,Mystery,Detective,Police,Crime,Work,Urban,Super Power,Primarily Adult Cast,Male Protagonist,Hikikomori
     label: Ongoing
     studio: diomedéa
     seasons:
       1:
         label.remove: score
-    audience_rating: 71.0
+    audience_rating: 7.1
   132941:
     title: |-
       Katanagatari
@@ -2776,13 +2776,13 @@ metadata:
       Migi to Dali
     original_title: |-
       Migi&Dali
-    genre.sync: Anime,Drama,Mystery,Slice of Life,Twins,Found Family,Male Protagonist,Seinen
+    genre.sync: Anime,Drama,Mystery,Slice of Life,Male Protagonist,Twins,Seinen,Found Family
     label: Ongoing
     studio: GEEKTOYS
     seasons:
       1:
         label.remove: score
-    audience_rating: 59.0
+    audience_rating: 5.9
   307375:
     title: |-
       Mob Psycho 100
@@ -3533,12 +3533,20 @@ metadata:
     original_title: |-
       The Saint's Magic Power is Omnipotent
     genre.sync: Anime,Fantasy,Romance,Slice of Life,Female Protagonist,Isekai,Magic,Shoujo,Primarily Adult Cast,Iyashikei,Medicine
-    label.remove: Ongoing
+    label: Ongoing
     studio: diomedéa
     seasons:
       1:
-        label.remove: score
-    audience_rating: 7.1
+        title: |-
+          Seijo no Maryoku wa Bannou desu
+        user_rating: 7.1
+        label: score
+      2:
+        title: |-
+          Seijo no Maryoku wa Bannou desu Season 2
+        user_rating: 0.0
+        label: score
+    audience_rating: 3.5
   412076:
     title: |-
       Seiken Gakuin no Maken Tsukai
@@ -3806,7 +3814,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 68.0
+    audience_rating: 6.8
   278154:
     title: |-
       Sidonia no Kishi
@@ -4191,7 +4199,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 61.0
+    audience_rating: 6.1
   281249:
     title: |-
       Tokyo Ghoul
@@ -4241,7 +4249,7 @@ metadata:
     original_title: |-
       Tokyo Revengers
     genre.sync: Anime,Action,Drama,Romance,Supernatural,Gangs,Delinquents,Time Manipulation,Age Regression,Male Protagonist,Tragedy,Primarily Male Cast,Urban,Crime,Alternate Universe,Revenge,Ensemble Cast,Shounen
-    label.remove: Ongoing
+    label: Ongoing
     studio: LIDENFILMS
     seasons:
       1:
@@ -4577,13 +4585,13 @@ metadata:
       Watashi no Oshi wa Akuyaku Reijou.
     original_title: |-
       I'm in Love with the Villainess
-    genre.sync: Anime,Comedy,Fantasy,Romance,Yuri,Villainess,Female Protagonist,Isekai,LGBTQ+ Themes,Reincarnation,Ojou-sama,Tsundere,Magic,School,Primarily Teen Cast,Primarily Female Cast,Politics
+    genre.sync: Anime,Comedy,Fantasy,Romance,Yuri,Villainess,Female Protagonist,Isekai,LGBTQ+ Themes,Tsundere,Reincarnation,Ojou-sama,Magic,School,Primarily Teen Cast,Primarily Female Cast,Politics
     label: Ongoing
     studio: Platinum Vision
     seasons:
       1:
         label.remove: score
-    audience_rating: 73.0
+    audience_rating: 7.3
   418665:
     title: |-
       Watashi no Shiawase na Kekkon
