@@ -1963,19 +1963,6 @@ metadata:
         user_rating: 6.7
         label: score
     audience_rating: 6.8
-  427919:
-    title: |-
-      Kamonohashi Ron no Kindan Suiri
-    sort_title: |-
-      Kamonohashi Ron no Kindan Suiri
-    original_title: |-
-      Ron Kamonohashi's Forbidden Deductions
-    genre.sync: Anime,Drama,Mystery,Detective,Crime,Hikikomori,Work,Super Power,Police
-    label: Ongoing
-    studio: diomedéa
-    seasons:
-      1:
-        label.remove: score
   132941:
     title: |-
       Katanagatari
@@ -3241,19 +3228,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.7
-  430925:
-    title: |-
-      Toaru Ossan no VRMMO Katsudouki
-    sort_title: |-
-      Toaru Ossan no VRMMO Katsudouki
-    original_title: |-
-      A Playthrough of a Certain Dude's VRMMO Life
-    genre.sync: Anime,Action,Adventure,Comedy,Fantasy
-    label: Ongoing
-    studio: Maho Film
-    seasons:
-      1:
-        label.remove: score
   262090:
     title: |-
       Psycho-pass
@@ -3398,6 +3372,19 @@ metadata:
       1:
         label.remove: score
     audience_rating: 8.0
+  427919:
+    title: |-
+      Kamonohashi Ron no Kindan Suiri
+    sort_title: |-
+      Kamonohashi Ron no Kindan Suiri
+    original_title: |-
+      Ron Kamonohashi's Forbidden Deductions
+    genre.sync: Anime,Drama,Mystery,Detective,Crime,Work,Super Power,Police,Hikikomori
+    label: Ongoing
+    studio: diomedéa
+    seasons:
+      1:
+        label.remove: score
   413578:
     title: |-
       Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
@@ -4174,6 +4161,19 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.9
+  430925:
+    title: |-
+      Toaru Ossan no VRMMO Katsudouki
+    sort_title: |-
+      Toaru Ossan no VRMMO Katsudouki
+    original_title: |-
+      A Playthrough of a Certain Dude's VRMMO Life
+    genre.sync: Anime,Action,Adventure,Comedy,Fantasy
+    label: Ongoing
+    studio: Maho Film
+    seasons:
+      1:
+        label.remove: score
   281249:
     title: |-
       Tokyo Ghoul
@@ -4559,7 +4559,7 @@ metadata:
       Watashi no Oshi wa Akuyaku Reijou.
     original_title: |-
       I'm in Love with the Villainess
-    genre.sync: Anime,Comedy,Fantasy,Romance,Yuri,Villainess,Female Protagonist,Isekai,LGBTQ+ Themes,Ojou-sama,Magic,Tsundere,Reincarnation,Politics
+    genre.sync: Anime,Comedy,Fantasy,Romance,Yuri,Villainess,Female Protagonist,Isekai,LGBTQ+ Themes,Reincarnation,Ojou-sama,Tsundere,Magic,School,Primarily Teen Cast,Primarily Female Cast,Politics
     label: Ongoing
     studio: Platinum Vision
     seasons:
