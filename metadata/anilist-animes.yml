@@ -582,6 +582,19 @@ metadata:
       1:
         label.remove: score
     audience_rating: 8.1
+  427359:
+    title: |-
+      Bullbuster
+    sort_title: |-
+      Bullbuster
+    original_title: |-
+      Bullbuster
+    genre.sync: Anime,Mecha
+    label: Ongoing
+    studio: NUT
+    seasons:
+      1:
+        label.remove: score
   305075:
     title: |-
       Bungou Stray Dogs
@@ -1596,6 +1609,19 @@ metadata:
       1:
         label.remove: score
     audience_rating: 8.3
+  424116:
+    title: |-
+      Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu
+    sort_title: |-
+      Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu
+    original_title: |-
+      I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness
+    genre.sync: Anime,Comedy,Fantasy,Romance,Slice of Life
+    label: Ongoing
+    studio: Zero-G
+    seasons:
+      1:
+        label.remove: score
   370377:
     title: |-
       Id: Invaded
@@ -1840,12 +1866,20 @@ metadata:
     original_title: |-
       The Eminence in Shadow
     genre.sync: Anime,Action,Comedy,Fantasy,Chuunibyou,Isekai,Male Protagonist,Parody,Anti-Hero,Magic,Cult,Acting,Swordplay,Reincarnation,Primarily Female Cast,Meta,Espionage
-    label.remove: Ongoing
+    label: Ongoing
     studio: Nexus
     seasons:
       1:
-        label.remove: score
-    audience_rating: 8.2
+        title: |-
+          Kage no Jitsuryokusha ni Naritakute!
+        user_rating: 8.2
+        label: score
+      2:
+        title: |-
+          Kage no Jitsuryokusha ni Naritakute! 2nd season
+        user_rating: 0.0
+        label: score
+    audience_rating: 4.1
   354198:
     title: |-
       Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen
@@ -3544,9 +3578,9 @@ metadata:
       2:
         title: |-
           Seijo no Maryoku wa Bannou desu Season 2
-        user_rating: 70.0
+        user_rating: 7.0
         label: score
-    audience_rating: 38.5
+    audience_rating: 7.1
   412076:
     title: |-
       Seiken Gakuin no Maken Tsukai
@@ -3883,13 +3917,13 @@ metadata:
       Sousou no Frieren
     original_title: |-
       Frieren: Beyond Journey’s End
-    genre.sync: Anime,Adventure,Drama,Fantasy,Travel,Elf,Magic,Philosophy,Female Protagonist,Time Skip,Iyashikei
+    genre.sync: Anime,Adventure,Drama,Fantasy,Travel,Magic,Philosophy,Elf,Female Protagonist,Time Skip,Iyashikei,Coming of Age,Kuudere,Fairy Tale
     label: Ongoing
     studio: MADHOUSE
     seasons:
       1:
         label.remove: score
-    audience_rating: 8.6
+    audience_rating: 8.7
   405920:
     title: |-
       Spy×family
