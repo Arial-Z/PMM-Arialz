@@ -2514,6 +2514,20 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.4
+  412076:
+    title: |-
+      Seiken Gakuin no Maken Tsukai
+    sort_title: |-
+      Seiken Gakuin no Maken Tsukai
+    original_title: |-
+      The Demon Sword Master of Excalibur Academy
+    genre.sync: Anime,Ecchi,Fantasy,Romance,Reincarnation,Demons,Male Protagonist,Female Protagonist
+    label: Ongoing
+    studio: Passione
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 6.6
   419854:
     title: |-
       Level 1 dakedo Unique Skill de Saikyou desu
@@ -3607,20 +3621,6 @@ metadata:
         user_rating: 7.0
         label: score
     audience_rating: 7.1
-  412076:
-    title: |-
-      Seiken Gakuin no Maken Tsukai
-    sort_title: |-
-      Seiken Gakuin no Maken Tsukai
-    original_title: |-
-      The Demon Sword Master of Excalibur Academy
-    genre.sync: Anime,Ecchi,Fantasy,Romance,Reincarnation,Demons,Male Protagonist,Female Protagonist
-    label: Ongoing
-    studio: Passione
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 6.6
   173271:
     title: |-
       Seitokai Yakuindomo
@@ -4322,7 +4322,12 @@ metadata:
           Tokyo Revengers: Seiya Kessen-hen
         user_rating: 7.7
         label: score
-    audience_rating: 7.8
+      3:
+        title: |-
+          Tokyo Revengers: Tenjiku-hen
+        user_rating: 7.4
+        label: score
+    audience_rating: 7.7
   421994:
     title: |-
       Tomo-chan wa Onnanoko!
