@@ -109,6 +109,7 @@ metadata:
     seasons:
       1:
         label.remove: score
+    audience_rating: 67.0
   306269:
     title: |-
       3-gatsu no Lion
@@ -608,6 +609,7 @@ metadata:
     seasons:
       1:
         label.remove: score
+    audience_rating: 51.0
   305075:
     title: |-
       Bungou Stray Dogs
@@ -1877,9 +1879,9 @@ metadata:
       2:
         title: |-
           Kage no Jitsuryokusha ni Naritakute! 2nd season
-        user_rating: 0.0
+        user_rating: 85.0
         label: score
-    audience_rating: 4.1
+    audience_rating: 46.6
   354198:
     title: |-
       Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen
@@ -1950,6 +1952,7 @@ metadata:
     seasons:
       1:
         label.remove: score
+    audience_rating: 49.0
   419126:
     title: |-
       Kaminaki Sekai no Kamisama Katsudou
@@ -2365,6 +2368,7 @@ metadata:
     seasons:
       1:
         label.remove: score
+    audience_rating: 66.0
   421514:
     title: |-
       Koori Zokusei Danshi to Cool na Douryou Joshi
@@ -2514,20 +2518,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.4
-  412076:
-    title: |-
-      Seiken Gakuin no Maken Tsukai
-    sort_title: |-
-      Seiken Gakuin no Maken Tsukai
-    original_title: |-
-      The Demon Sword Master of Excalibur Academy
-    genre.sync: Anime,Ecchi,Fantasy,Romance,Reincarnation,Demons,Male Protagonist,Female Protagonist
-    label: Ongoing
-    studio: Passione
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 6.6
   419854:
     title: |-
       Level 1 dakedo Unique Skill de Saikyou desu
@@ -3621,6 +3611,20 @@ metadata:
         user_rating: 7.0
         label: score
     audience_rating: 7.1
+  412076:
+    title: |-
+      Seiken Gakuin no Maken Tsukai
+    sort_title: |-
+      Seiken Gakuin no Maken Tsukai
+    original_title: |-
+      The Demon Sword Master of Excalibur Academy
+    genre.sync: Anime,Ecchi,Fantasy,Romance,Reincarnation,Demons,Male Protagonist,Female Protagonist
+    label: Ongoing
+    studio: Passione
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 6.6
   173271:
     title: |-
       Seitokai Yakuindomo
@@ -4664,7 +4668,7 @@ metadata:
       Watashi no Shiawase na Kekkon
     original_title: |-
       My Happy Marriage
-    genre.sync: Anime,Drama,Romance,Supernatural,Marriage,Female Protagonist,Historical,Heterosexual,Kuudere,Bullying
+    genre.sync: Anime,Drama,Romance,Supernatural,Marriage,Female Protagonist,Historical,Heterosexual,Bullying,Kuudere
     label.remove: Ongoing
     studio: Kinema Citrus
     seasons:
@@ -4965,7 +4969,7 @@ metadata:
       Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto
     original_title: |-
       Zom 100: Bucket List of the Dead
-    genre.sync: Anime,Action,Comedy,Horror,Zombie,Surreal Comedy,Post-Apocalyptic,Survival,Male Protagonist,Rehabilitation,Urban,Primarily Adult Cast
+    genre.sync: Anime,Action,Comedy,Horror,Supernatural,Zombie,Surreal Comedy,Post-Apocalyptic,Survival,Male Protagonist,Rehabilitation,Urban,Primarily Adult Cast
     label: Ongoing
     studio: BUG FILMS
     seasons:
