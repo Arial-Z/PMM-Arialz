@@ -280,7 +280,15 @@ metadata:
     studio: Yostar Pictures
     seasons:
       1:
-        label.remove: score
+        title: |-
+          Arknights: Reimei Zensou
+        user_rating: 7.0
+        label: score
+      2:
+        title: |-
+          Arknights: Fuyukomori Kaerimichi
+        user_rating: 0.0
+        label: score
     audience_rating: 7.0
   291630:
     title: |-
@@ -1266,6 +1274,28 @@ metadata:
         user_rating: 8.0
         label: score
     audience_rating: 7.8
+  350166:
+    title: |-
+      Goblin Slayer
+    sort_title: |-
+      Goblin Slayer
+    original_title: |-
+      Goblin Slayer
+    genre.sync: Anime,Action,Adventure,Fantasy,Goblin,Revenge,Gore,Male Protagonist,Tragedy
+    label: Ongoing
+    studio: White Fox
+    seasons:
+      1:
+        title: |-
+          Goblin Slayer
+        user_rating: 7.1
+        label: score
+      2:
+        title: |-
+          Goblin Slayer II
+        user_rating: 0.0
+        label: score
+    audience_rating: 7.1
   338455:
     title: |-
       Golden Kamuy
@@ -2265,6 +2295,19 @@ metadata:
         user_rating: 8.4
         label: score
     audience_rating: 8.1
+  430544:
+    title: |-
+      Hametsu no Oukoku
+    sort_title: |-
+      Hametsu no Oukoku
+    original_title: |-
+      The Kingdoms of Ruin
+    genre.sync: Anime,Action,Drama,Fantasy,Revenge,Magic,Witch,Gore
+    label: Ongoing
+    studio: Yokohama Animation Lab
+    seasons:
+      1:
+        label.remove: score
   279831:
     title: |-
       Kiseijuu: Sei no Kakuritsu
@@ -3211,6 +3254,19 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.7
+  424535:
+    title: |-
+      Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.
+    sort_title: |-
+      Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.
+    original_title: |-
+      Our Dating Story: The Experienced You and The Inexperienced Me
+    genre.sync: Anime,Romance,Heterosexual,Gyaru
+    label: Ongoing
+    studio: ENGI
+    seasons:
+      1:
+        label.remove: score
   391625:
     title: |-
       Ousama Ranking
