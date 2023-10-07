@@ -645,6 +645,19 @@ metadata:
         user_rating: 8.4
         label: score
     audience_rating: 8.1
+  413335:
+    title: |-
+      Buta no Liver wa Kanetsu Shiro
+    sort_title: |-
+      Buta no Liver wa Kanetsu Shiro
+    original_title: |-
+      Butareba -The Story of a Man Turned into a Pig-
+    genre.sync: Anime,Comedy,Fantasy,Male Protagonist,Isekai,Animals
+    label: Ongoing
+    studio: project No.9
+    seasons:
+      1:
+        label.remove: score
   83316:
     title: |-
       Casshern Sins
@@ -1123,6 +1136,28 @@ metadata:
         user_rating: 7.8
         label: score
     audience_rating: 7.7
+  401915:
+    title: |-
+      Saihate no Paladin
+    sort_title: |-
+      Saihate no Paladin
+    original_title: |-
+      The Faraway Paladin
+    genre.sync: Anime,Action,Adventure,Fantasy,Mystery,Psychological,Demons,Mythology,Adoption,Coming of Age,Afterlife,Magic,Gods,Religion,Isekai,Swordplay
+    label: Ongoing
+    studio: Children's Playground Entertainment
+    seasons:
+      1:
+        title: |-
+          Saihate no Paladin
+        user_rating: 6.7
+        label: score
+      2:
+        title: |-
+          Saihate no Paladin: Tetsusabi no Yama no Ou
+        user_rating: 0.0
+        label: score
+    audience_rating: 6.7
   278626:
     title: |-
       Fate/stay night: Unlimited Blade Works
@@ -1839,6 +1874,19 @@ metadata:
         user_rating: 7.1
         label: score
     audience_rating: 7.2
+  431495:
+    title: |-
+      Potion-danomi de Ikinobimasu!
+    sort_title: |-
+      Potion-danomi de Ikinobimasu!
+    original_title: |-
+      I Shall Survive Using Potions!
+    genre.sync: Anime,Fantasy,Isekai,Female Protagonist
+    label: Ongoing
+    studio: Jumondou
+    seasons:
+      1:
+        label.remove: score
   423121:
     title: |-
       Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
@@ -2993,6 +3041,19 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.7
+  434982:
+    title: |-
+      Atarashii Joushi wa Dotennen
+    sort_title: |-
+      Atarashii Joushi wa Dotennen
+    original_title: |-
+      My New Boss is Goofy
+    genre.sync: Anime,Comedy,Work,Iyashikei,Cute Boys Doing Cute Things,Primarily Male Cast
+    label: Ongoing
+    studio: A-1 Pictures
+    seasons:
+      1:
+        label.remove: score
   413333:
     title: |-
       Nanatsu no Maken ga Shihai Suru
@@ -3453,7 +3514,22 @@ metadata:
           Quanzhi Fashi 3
         user_rating: 7.2
         label: score
-    audience_rating: 3.4
+      4:
+        title: |-
+          Quanzhi Fashi 4
+        user_rating: 7.2
+        label: score
+      5:
+        title: |-
+          Quanzhi Fashi 5
+        user_rating: 7.1
+        label: score
+      6:
+        title: |-
+          Quanzhi Fashi 6
+        user_rating: 6.8
+        label: score
+    audience_rating: 6.9
   326270:
     title: |-
       Quanzhi Gaoshou
@@ -3546,6 +3622,19 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.8
+  432815:
+    title: |-
+      Kikansha no Mahou wa Tokubetsu desu
+    sort_title: |-
+      Kikansha no Mahou wa Tokubetsu desu
+    original_title: |-
+      A Returner's Magic Should Be Special
+    genre.sync: Anime,Action,Adventure,Fantasy,Male Protagonist,Magic,School
+    label: Ongoing
+    studio: Arvo Animation
+    seasons:
+      1:
+        label.remove: score
   423787:
     title: |-
       Romantic Killer
@@ -4236,6 +4325,19 @@ metadata:
         user_rating: 7.4
         label: score
     audience_rating: 7.2
+  424368:
+    title: |-
+      Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story
+    sort_title: |-
+      Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story
+    original_title: |-
+      Tearmoon Empire
+    genre.sync: Anime,Drama,Fantasy,Romance,Reincarnation,Female Protagonist,Time Manipulation,Shoujo
+    label: Ongoing
+    studio: SILVER LINK.
+    seasons:
+      1:
+        label.remove: score
   426165:
     title: |-
       Tengoku Daimakyou
@@ -5001,7 +5103,17 @@ metadata:
           Yi Ren Zhi Xia 2
         user_rating: 7.1
         label: score
-    audience_rating: 3.4
+      3:
+        title: |-
+          Yi Ren Zhi Xia 3
+        user_rating: 6.6
+        label: score
+      4:
+        title: |-
+          Yi Ren Zhi Xia 4
+        user_rating: 6.5
+        label: score
+    audience_rating: 6.7
   412374:
     title: |-
       Yofukashi no Uta
