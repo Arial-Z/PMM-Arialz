@@ -287,9 +287,9 @@ metadata:
       2:
         title: |-
           Arknights: Fuyukomori Kaerimichi
-        user_rating: 0.0
+        user_rating: 6.6
         label: score
-    audience_rating: 7.0
+    audience_rating: 6.8
   291630:
     title: |-
       Arslan Senki (TV)
@@ -1293,9 +1293,9 @@ metadata:
       2:
         title: |-
           Goblin Slayer II
-        user_rating: 0.0
+        user_rating: 7.4
         label: score
-    audience_rating: 7.1
+    audience_rating: 7.2
   338455:
     title: |-
       Golden Kamuy
@@ -1435,6 +1435,7 @@ metadata:
     seasons:
       1:
         label.remove: score
+    audience_rating: 6.8
   267441:
     title: |-
       Hataraku Maou-sama!
@@ -2111,6 +2112,7 @@ metadata:
     seasons:
       1:
         label.remove: score
+    audience_rating: 6.6
   390382:
     title: |-
       Kemono Jihen
@@ -3423,6 +3425,22 @@ metadata:
     label.remove: Ongoing
     studio: Foch
     seasons:
+      1:
+        title: |-
+          Quanzhi Fashi
+        user_rating: 6.8
+        label: score
+      2:
+        title: |-
+          Quanzhi Fashi 2
+        user_rating: 6.5
+        label: score
+      3:
+        title: |-
+          Quanzhi Fashi 3
+        user_rating: 7.2
+        label: score
+    audience_rating: 4.1
   326270:
     title: |-
       Quanzhi Gaoshou
@@ -4194,9 +4212,9 @@ metadata:
       3:
         title: |-
           Tate no Yuusha no Nariagari Season 3
-        user_rating: 0.0
+        user_rating: 7.4
         label: score
-    audience_rating: 7.1
+    audience_rating: 7.2
   426165:
     title: |-
       Tengoku Daimakyou
