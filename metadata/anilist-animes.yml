@@ -1558,6 +1558,19 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.1
+  429263:
+    title: |-
+      Hikikomari Kyuuketsuki no Monmon
+    sort_title: |-
+      Hikikomari Kyuuketsuki no Monmon
+    original_title: |-
+      The Vexations of a Shut-In Vampire Princess
+    genre.sync: Anime,Action,Comedy,Fantasy,Primarily Female Cast,Vampire,Female Protagonist,Yuri,LGBTQ+ Themes,Magic
+    label: Ongoing
+    studio: project No.9
+    seasons:
+      1:
+        label.remove: score
   293121:
     title: |-
       Himouto! Umaru-chan
@@ -3440,7 +3453,7 @@ metadata:
           Quanzhi Fashi 3
         user_rating: 7.2
         label: score
-    audience_rating: 4.1
+    audience_rating: 3.4
   326270:
     title: |-
       Quanzhi Gaoshou
@@ -4044,11 +4057,19 @@ metadata:
     original_title: |-
       SPY x FAMILY
     genre.sync: Anime,Action,Comedy,Slice of Life,Supernatural,Family Life,Espionage,Found Family,Assassins,Conspiracy,Adoption,Slapstick,Male Protagonist,Female Protagonist,Crime,Foreign,School,Super Power,Urban,Shounen,Ensemble Cast,Heterosexual,Surreal Comedy
-    label.remove: Ongoing
+    label: Ongoing
     studio: CloverWorks
     seasons:
       1:
-        label.remove: score
+        title: |-
+          Spy×family
+        user_rating: 8.5
+        label: score
+      2:
+        title: |-
+          SPY×FAMILY Season 2
+        user_rating: 0.0
+        label: score
     audience_rating: 8.5
   244061:
     title: |-
@@ -4632,6 +4653,20 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.8
+  423030:
+    title: |-
+      Undead Unluck
+    sort_title: |-
+      Undead Unluck
+    original_title: |-
+      Undead Unluck
+    genre.sync: Anime,Action,Comedy,Sci-Fi,Supernatural,Super Power,Female Protagonist,Male Protagonist,Shounen,Cosmic Horror,Tragedy,Martial Arts
+    label: Ongoing
+    studio: David Production
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 7.5
   409650:
     title: |-
       Under Ninja
