@@ -312,6 +312,19 @@ metadata:
         user_rating: 7.2
         label: score
     audience_rating: 7.2
+  434982:
+    title: |-
+      Atarashii Joushi wa Dotennen
+    sort_title: |-
+      Atarashii Joushi wa Dotennen
+    original_title: |-
+      My New Boss is Goofy
+    genre.sync: Anime,Comedy,Work,Iyashikei,Cute Boys Doing Cute Things,Primarily Male Cast
+    label: Ongoing
+    studio: A-1 Pictures
+    seasons:
+      1:
+        label.remove: score
   426440:
     title: |-
       Ayaka
@@ -1136,28 +1149,6 @@ metadata:
         user_rating: 7.8
         label: score
     audience_rating: 7.7
-  401915:
-    title: |-
-      Saihate no Paladin
-    sort_title: |-
-      Saihate no Paladin
-    original_title: |-
-      The Faraway Paladin
-    genre.sync: Anime,Action,Adventure,Fantasy,Mystery,Psychological,Demons,Mythology,Adoption,Coming of Age,Afterlife,Magic,Gods,Religion,Isekai,Swordplay
-    label: Ongoing
-    studio: Children's Playground Entertainment
-    seasons:
-      1:
-        title: |-
-          Saihate no Paladin
-        user_rating: 6.7
-        label: score
-      2:
-        title: |-
-          Saihate no Paladin: Tetsusabi no Yama no Ou
-        user_rating: 0.0
-        label: score
-    audience_rating: 6.7
   278626:
     title: |-
       Fate/stay night: Unlimited Blade Works
@@ -1874,19 +1865,6 @@ metadata:
         user_rating: 7.1
         label: score
     audience_rating: 7.2
-  431495:
-    title: |-
-      Potion-danomi de Ikinobimasu!
-    sort_title: |-
-      Potion-danomi de Ikinobimasu!
-    original_title: |-
-      I Shall Survive Using Potions!
-    genre.sync: Anime,Fantasy,Isekai,Female Protagonist
-    label: Ongoing
-    studio: Jumondou
-    seasons:
-      1:
-        label.remove: score
   423121:
     title: |-
       Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
@@ -2276,6 +2254,19 @@ metadata:
         user_rating: 7.9
         label: score
     audience_rating: 7.8
+  432815:
+    title: |-
+      Kikansha no Mahou wa Tokubetsu desu
+    sort_title: |-
+      Kikansha no Mahou wa Tokubetsu desu
+    original_title: |-
+      A Returner's Magic Should Be Special
+    genre.sync: Anime,Action,Adventure,Fantasy,Male Protagonist,Magic,School
+    label: Ongoing
+    studio: Arvo Animation
+    seasons:
+      1:
+        label.remove: score
   272074:
     title: |-
       Kill la Kill
@@ -3041,19 +3032,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.7
-  434982:
-    title: |-
-      Atarashii Joushi wa Dotennen
-    sort_title: |-
-      Atarashii Joushi wa Dotennen
-    original_title: |-
-      My New Boss is Goofy
-    genre.sync: Anime,Comedy,Work,Iyashikei,Cute Boys Doing Cute Things,Primarily Male Cast
-    label: Ongoing
-    studio: A-1 Pictures
-    seasons:
-      1:
-        label.remove: score
   413333:
     title: |-
       Nanatsu no Maken ga Shihai Suru
@@ -3461,6 +3439,19 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.7
+  431495:
+    title: |-
+      Potion-danomi de Ikinobimasu!
+    sort_title: |-
+      Potion-danomi de Ikinobimasu!
+    original_title: |-
+      I Shall Survive Using Potions!
+    genre.sync: Anime,Fantasy,Isekai,Female Protagonist
+    label: Ongoing
+    studio: Jumondou
+    seasons:
+      1:
+        label.remove: score
   262090:
     title: |-
       Psycho-pass
@@ -3622,19 +3613,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.8
-  432815:
-    title: |-
-      Kikansha no Mahou wa Tokubetsu desu
-    sort_title: |-
-      Kikansha no Mahou wa Tokubetsu desu
-    original_title: |-
-      A Returner's Magic Should Be Special
-    genre.sync: Anime,Action,Adventure,Fantasy,Male Protagonist,Magic,School
-    label: Ongoing
-    studio: Arvo Animation
-    seasons:
-      1:
-        label.remove: score
   423787:
     title: |-
       Romantic Killer
@@ -3691,6 +3669,28 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.0
+  401915:
+    title: |-
+      Saihate no Paladin
+    sort_title: |-
+      Saihate no Paladin
+    original_title: |-
+      The Faraway Paladin
+    genre.sync: Anime,Action,Adventure,Fantasy,Mystery,Psychological,Demons,Mythology,Adoption,Coming of Age,Afterlife,Magic,Gods,Religion,Isekai,Swordplay
+    label: Ongoing
+    studio: Children's Playground Entertainment
+    seasons:
+      1:
+        title: |-
+          Saihate no Paladin
+        user_rating: 6.7
+        label: score
+      2:
+        title: |-
+          Saihate no Paladin: Tetsusabi no Yama no Ou
+        user_rating: 0.0
+        label: score
+    audience_rating: 6.7
   313435:
     title: |-
       Saiki Kusuo no Ψ-nan
