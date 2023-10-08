@@ -319,12 +319,13 @@ metadata:
       Atarashii Joushi wa Dotennen
     original_title: |-
       My New Boss is Goofy
-    genre.sync: Anime,Comedy,Work,Iyashikei,Cute Boys Doing Cute Things,Primarily Male Cast
+    genre.sync: Anime,Comedy,Work,Cute Boys Doing Cute Things,Male Protagonist,Primarily Male Cast,Iyashikei
     label: Ongoing
     studio: A-1 Pictures
     seasons:
       1:
         label.remove: score
+    audience_rating: 60.0
   426440:
     title: |-
       Ayaka
@@ -671,6 +672,7 @@ metadata:
     seasons:
       1:
         label.remove: score
+    audience_rating: 56.0
   83316:
     title: |-
       Casshern Sins
@@ -1597,6 +1599,7 @@ metadata:
     seasons:
       1:
         label.remove: score
+    audience_rating: 69.0
   293121:
     title: |-
       Himouto! Umaru-chan
@@ -2267,6 +2270,7 @@ metadata:
     seasons:
       1:
         label.remove: score
+    audience_rating: 65.0
   272074:
     title: |-
       Kill la Kill
@@ -3425,6 +3429,22 @@ metadata:
       1:
         label.remove: score
     audience_rating: 8.0
+  75796:
+    title: |-
+      Planetes
+    sort_title: |-
+      Planetes
+    original_title: |-
+      Planetes
+    genre.sync: Anime,Drama,Romance,Sci-Fi,Slice of Life,Space,Primarily Adult Cast,Work,Seinen,Tragedy,Philosophy,Politics
+    label.remove: Ongoing
+    studio: Sunrise
+    seasons:
+      0:
+        label.remove: score
+      1:
+        label.remove: score
+    audience_rating: 7.9
   291627:
     title: |-
       Plastic Memories
@@ -3452,6 +3472,7 @@ metadata:
     seasons:
       1:
         label.remove: score
+    audience_rating: 59.0
   262090:
     title: |-
       Psycho-pass
@@ -3688,9 +3709,9 @@ metadata:
       2:
         title: |-
           Saihate no Paladin: Tetsusabi no Yama no Ou
-        user_rating: 0.0
+        user_rating: 67.0
         label: score
-    audience_rating: 6.7
+    audience_rating: 36.8
   313435:
     title: |-
       Saiki Kusuo no Ψ-nan
@@ -4157,9 +4178,9 @@ metadata:
       2:
         title: |-
           SPY×FAMILY Season 2
-        user_rating: 0.0
+        user_rating: 81.0
         label: score
-    audience_rating: 8.5
+    audience_rating: 44.8
   244061:
     title: |-
       Steins;Gate
@@ -4338,6 +4359,7 @@ metadata:
     seasons:
       1:
         label.remove: score
+    audience_rating: 66.0
   426165:
     title: |-
       Tengoku Daimakyou
