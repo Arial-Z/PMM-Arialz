@@ -4812,13 +4812,13 @@ metadata:
       Undead Unluck
     original_title: |-
       Undead Unluck
-    genre.sync: Anime,Action,Comedy,Sci-Fi,Supernatural,Super Power,Female Protagonist,Male Protagonist,Shounen,Cosmic Horror,Tragedy,Martial Arts
+    genre.sync: Anime,Action,Comedy,Sci-Fi,Supernatural,Super Power,Male Protagonist,Female Protagonist,Shounen,Cosmic Horror,Martial Arts,Tragedy,Primarily Adult Cast
     label: Ongoing
     studio: David Production
     seasons:
       1:
         label.remove: score
-    audience_rating: 7.5
+    audience_rating: 7.7
   409650:
     title: |-
       Under Ninja
@@ -5163,7 +5163,12 @@ metadata:
           Yi Ren Zhi Xia 4
         user_rating: 6.5
         label: score
-    audience_rating: 6.7
+      5:
+        title: |-
+          Yi Ren Zhi Xia 5
+        user_rating: 6.1
+        label: score
+    audience_rating: 6.5
   412374:
     title: |-
       Yofukashi no Uta
