@@ -1,4 +1,17 @@
 collections:
+  Ongoing All:
+    smart_filter:
+      all:
+        label: Ongoing
+      sort_by: title.asc
+    sort_title: |-
+      !0 - Ongoing All
+    collection_mode: hide
+    visible_library: false
+    visible_home: false
+    visible_shared: false
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_background.jpg
+
   Ongoing à voir:
     collection_filtering: user
     smart_filter:
@@ -31,15 +44,58 @@ collections:
     url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_ended.jpg
     url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_background.jpg
 
-  Ongoing All:
+  Shounen:
     smart_filter:
       all:
-        label: Ongoing
+        genre: Shounen
       sort_by: title.asc
     sort_title: |-
-      !0 - Ongoing All
+      !3 - Shonen
     collection_mode: hide
     visible_library: false
     visible_home: false
     visible_shared: false
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/Shonen.png
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_background.jpg
+
+  Seinen:
+    smart_filter:
+      all:
+        genre: Seinen
+      sort_by: title.asc
+    sort_title: |-
+      !4 - Seinen
+    collection_mode: hide
+    visible_library: false
+    visible_home: false
+    visible_shared: false
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/Seinen.png
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_background.jpg
+
+  Shoujo:
+    smart_filter:
+      all:
+        genre: Shoujo
+      sort_by: title.asc
+    sort_title: |-
+      !4 - Shoujo
+    collection_mode: hide
+    visible_library: false
+    visible_home: false
+    visible_shared: false
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/Shoujo.png
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_background.jpg
+
+  Josei:
+    smart_filter:
+      all:
+        genre: Josei
+      sort_by: title.asc
+    sort_title: |-
+      !4 - Josei
+    collection_mode: hide
+    visible_library: false
+    visible_home: false
+    visible_shared: false
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/Josei.png
     url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_background.jpg

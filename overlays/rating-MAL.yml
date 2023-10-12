@@ -31,14 +31,14 @@ templates:
 
 queues:
   Rating_Queue_Logo:
-    - horizontal_offset: 10
+    - horizontal_offset: 15
       horizontal_align: left
-      vertical_offset: 10
+      vertical_offset: 30
       vertical_align: bottom
   Rating_Queue_Text:
-    - horizontal_offset: 198
+    - horizontal_offset: 203
       horizontal_align: left
-      vertical_offset: 40
+      vertical_offset: 60
       vertical_align: bottom
 
 overlays:
