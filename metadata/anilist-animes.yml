@@ -325,7 +325,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.0
+    audience_rating: 6.6
   426440:
     title: |-
       Ayaka
@@ -680,7 +680,7 @@ metadata:
       Buta no Liver wa Kanetsu Shiro
     original_title: |-
       Butareba -The Story of a Man Turned into a Pig-
-    genre.sync: Anime,Comedy,Fantasy,Male Protagonist,Isekai,Animals
+    genre.sync: Anime,Comedy,Fantasy,Isekai,Male Protagonist
     label: Ongoing
     studio: project No.9
     seasons:
@@ -1046,7 +1046,7 @@ metadata:
     original_title: |-
       Dr. STONE
     genre.sync: Anime,Action,Adventure,Comedy,Sci-Fi,Post-Apocalyptic,Survival,Lost Civilization,Educational,Time Skip,Male Protagonist,Shounen,Environmental,Ensemble Cast
-    label.remove: Ongoing
+    label: Ongoing
     studio: TMS Entertainment
     seasons:
       0:
@@ -1607,13 +1607,13 @@ metadata:
       Hikikomari Kyuuketsuki no Monmon
     original_title: |-
       The Vexations of a Shut-In Vampire Princess
-    genre.sync: Anime,Action,Comedy,Fantasy,Primarily Female Cast,Vampire,Female Protagonist,Yuri,LGBTQ+ Themes,Magic,Hikikomori,War
+    genre.sync: Anime,Action,Comedy,Fantasy,Primarily Female Cast,Female Protagonist,Vampire,Yuri,LGBTQ+ Themes,Hikikomori,Magic,War
     label: Ongoing
     studio: project No.9
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.9
+    audience_rating: 7.0
   293121:
     title: |-
       Himouto! Umaru-chan
@@ -2284,7 +2284,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.5
+    audience_rating: 6.6
   272074:
     title: |-
       Kill la Kill
@@ -3737,9 +3737,9 @@ metadata:
       2:
         title: |-
           Saihate no Paladin: Tetsusabi no Yama no Ou
-        user_rating: 6.7
+        user_rating: 6.8
         label: score
-    audience_rating: 6.7
+    audience_rating: 6.8
   313435:
     title: |-
       Saiki Kusuo no Ψ-nan
@@ -4381,13 +4381,13 @@ metadata:
       Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story
     original_title: |-
       Tearmoon Empire
-    genre.sync: Anime,Drama,Fantasy,Romance,Reincarnation,Female Protagonist,Time Manipulation,Shoujo
+    genre.sync: Anime,Drama,Fantasy,Romance,Age Regression,Female Protagonist,Time Manipulation,Shoujo
     label: Ongoing
     studio: SILVER LINK.
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.6
+    audience_rating: 6.7
   426165:
     title: |-
       Tengoku Daimakyou
@@ -4871,6 +4871,20 @@ metadata:
         user_rating: 7.1
         label: score
     audience_rating: 6.9
+  426703:
+    title: |-
+      Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta
+    sort_title: |-
+      Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta
+    original_title: |-
+      My Daughter Left the Nest and Returned an S-Rank Adventurer
+    genre.sync: Anime,Adventure,Fantasy,Swordplay,Rural,Magic,Adoption
+    label: Ongoing
+    studio: TYPHOON GRAPHICS
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 6.4
   400133:
     title: |-
       Vanitas no Carte
