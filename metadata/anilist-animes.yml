@@ -603,7 +603,21 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 5.7
+    audience_rating: 5.6
+  426703:
+    title: |-
+      Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta
+    sort_title: |-
+      Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta
+    original_title: |-
+      My Daughter Left the Nest and Returned an S-Rank Adventurer
+    genre.sync: Anime,Adventure,Fantasy,Swordplay,Rural,Magic,Adoption
+    label: Ongoing
+    studio: TYPHOON GRAPHICS
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 6.4
   426530:
     title: |-
       Boushoku no Berserk
@@ -2340,7 +2354,7 @@ metadata:
       Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo
     original_title: |-
       The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You
-    genre.sync: Anime,Comedy,Romance,Female Harem,Ensemble Cast,Primarily Female Cast,Meta,Surreal Comedy,Male Protagonist,Parody,Tsundere,Slapstick
+    genre.sync: Anime,Comedy,Romance,Female Harem,Ensemble Cast,Primarily Female Cast,Meta,Surreal Comedy,Parody,Male Protagonist,Tsundere,Seinen,Slapstick
     label: Ongoing
     studio: Bibury Animation Studios
     seasons:
@@ -3072,7 +3086,7 @@ metadata:
     original_title: |-
       Reign of the Seven Spellblades
     genre.sync: Anime,Action,Fantasy,Magic,School,Revenge,Primarily Teen Cast,Shounen,Ensemble Cast,Anti-Hero,Gore,Elf,Swordplay,Male Protagonist
-    label: Ongoing
+    label.remove: Ongoing
     studio: J.C. Staff
     seasons:
       1:
@@ -4871,20 +4885,6 @@ metadata:
         user_rating: 7.1
         label: score
     audience_rating: 6.9
-  426703:
-    title: |-
-      Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta
-    sort_title: |-
-      Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta
-    original_title: |-
-      My Daughter Left the Nest and Returned an S-Rank Adventurer
-    genre.sync: Anime,Adventure,Fantasy,Swordplay,Rural,Magic,Adoption
-    label: Ongoing
-    studio: TYPHOON GRAPHICS
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 6.4
   400133:
     title: |-
       Vanitas no Carte
