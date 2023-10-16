@@ -319,13 +319,13 @@ metadata:
       Atarashii Joushi wa Dotennen
     original_title: |-
       My New Boss is Goofy
-    genre.sync: Anime,Comedy,Work,Cute Boys Doing Cute Things,Male Protagonist,Primarily Male Cast,Iyashikei
+    genre.sync: Anime,Comedy,Work,Cute Boys Doing Cute Things,Iyashikei,Male Protagonist,Primarily Male Cast
     label: Ongoing
     studio: A-1 Pictures
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.6
+    audience_rating: 6.8
   426440:
     title: |-
       Ayaka
@@ -534,6 +534,48 @@ metadata:
       1:
         label.remove: score
     audience_rating: 8.1
+  305074:
+    title: |-
+      Boku no Hero Academia
+    sort_title: |-
+      Boku no Hero Academia
+    original_title: |-
+      My Hero Academia
+    genre.sync: Anime,Action,Adventure,Comedy,Super Power,Superhero,Shounen,Male Protagonist,Primarily Teen Cast,School,Ensemble Cast,Urban Fantasy,Coming of Age
+    label.remove: Ongoing
+    studio: bones
+    seasons:
+      1:
+        title: |-
+          Boku no Hero Academia
+        user_rating: 7.7
+        label: score
+      2:
+        title: |-
+          Boku no Hero Academia 2
+        user_rating: 8.0
+        label: score
+      3:
+        title: |-
+          Boku no Hero Academia 3
+        user_rating: 7.9
+        label: score
+      4:
+        title: |-
+          Boku no Hero Academia 4
+        user_rating: 7.8
+        label: score
+      5:
+        title: |-
+          Boku no Hero Academia 5
+        user_rating: 7.3
+        label: score
+      6:
+        title: |-
+          Boku no Hero Academia 6
+        user_rating: 8.3
+        label: score
+    audience_rating: 7.8
   422981:
     title: |-
       Boku no Kokoro no Yabai Yatsu
@@ -575,7 +617,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.4
+    audience_rating: 6.3
   426530:
     title: |-
       Boushoku no Berserk
@@ -604,20 +646,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 8.1
-  427359:
-    title: |-
-      Bullbuster
-    sort_title: |-
-      Bullbuster
-    original_title: |-
-      Bullbuster
-    genre.sync: Anime,Mecha
-    label: Ongoing
-    studio: NUT
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 5.1
   305075:
     title: |-
       Bungou Stray Dogs
@@ -652,7 +680,7 @@ metadata:
       Buta no Liver wa Kanetsu Shiro
     original_title: |-
       Butareba -The Story of a Man Turned into a Pig-
-    genre.sync: Anime,Comedy,Fantasy,Isekai,Male Protagonist
+    genre.sync: Anime,Comedy,Fantasy,Male Protagonist,Isekai,Magic,Survival,Conspiracy,Amnesia,Tragedy
     label: Ongoing
     studio: project No.9
     seasons:
@@ -829,20 +857,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.4
-  422090:
-    title: |-
-      Dark Gathering
-    sort_title: |-
-      Dark Gathering
-    original_title: |-
-      Dark Gathering
-    genre.sync: Anime,Horror,Supernatural,Ghost,Necromancy,Urban Fantasy,Male Protagonist,Female Protagonist,Revenge,Suicide,Body Horror,Rehabilitation
-    label: Ongoing
-    studio: OLM
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 7.0
   80042:
     title: |-
       DARKER THAN BLACK: Kuro no Keiyakusha
@@ -1580,6 +1594,28 @@ metadata:
         user_rating: 7.1
         label: score
     audience_rating: 6.9
+  313488:
+    title: |-
+      Yi Ren Zhi Xia
+    sort_title: |-
+      Yi Ren Zhi Xia
+    original_title: |-
+      Hitori no Shita - The Outcast
+    genre.sync: Anime,Action,Adventure,Supernatural,Super Power,Urban Fantasy,Martial Arts,Cultivation
+    label.remove: Ongoing
+    studio: Haoliners Animation
+    seasons:
+      2:
+        title: |-
+          Yi Ren Zhi Xia 2
+        user_rating: 7.1
+        label: score
+      5:
+        title: |-
+          Yi Ren Zhi Xia 5
+        user_rating: 6.1
+        label: score
+    audience_rating: 6.6
   366263:
     title: |-
       Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
@@ -1981,20 +2017,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.4
-  432749:
-    title: |-
-      Kamierabi
-    sort_title: |-
-      Kamierabi
-    original_title: |-
-      KamiErabi GOD.app
-    genre.sync: Anime,Full CGI,Battle Royale
-    label: Ongoing
-    studio: UNEND
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 4.8
   419126:
     title: |-
       Kaminaki Sekai no Kamisama Katsudou
@@ -2895,20 +2917,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.2
-  413466:
-    title: |-
-      Migi to Dali
-    sort_title: |-
-      Migi to Dali
-    original_title: |-
-      Migi&Dali
-    genre.sync: Anime,Drama,Mystery,Slice of Life,Male Protagonist,Twins,Seinen,Adoption,Surreal Comedy,Found Family
-    label: Ongoing
-    studio: GEEKTOYS
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 6.4
   307375:
     title: |-
       Mob Psycho 100
@@ -2960,48 +2968,6 @@ metadata:
         user_rating: 8.3
         label: score
     audience_rating: 8.2
-  305074:
-    title: |-
-      Boku no Hero Academia
-    sort_title: |-
-      Boku no Hero Academia
-    original_title: |-
-      My Hero Academia
-    genre.sync: Anime,Action,Adventure,Comedy,Super Power,Superhero,Shounen,Male Protagonist,Primarily Teen Cast,School,Ensemble Cast,Urban Fantasy,Coming of Age
-    label.remove: Ongoing
-    studio: bones
-    seasons:
-      1:
-        title: |-
-          Boku no Hero Academia
-        user_rating: 7.7
-        label: score
-      2:
-        title: |-
-          Boku no Hero Academia 2
-        user_rating: 8.0
-        label: score
-      3:
-        title: |-
-          Boku no Hero Academia 3
-        user_rating: 7.9
-        label: score
-      4:
-        title: |-
-          Boku no Hero Academia 4
-        user_rating: 7.8
-        label: score
-      5:
-        title: |-
-          Boku no Hero Academia 5
-        user_rating: 7.3
-        label: score
-      6:
-        title: |-
-          Boku no Hero Academia 6
-        user_rating: 8.3
-        label: score
-    audience_rating: 7.8
   421452:
     title: |-
       My Home Hero
@@ -3212,8 +3178,6 @@ metadata:
     label.remove: Ongoing
     studio: MADHOUSE
     seasons:
-      0:
-        label.remove: score
       1:
         title: |-
           One Punch Man
@@ -4308,13 +4272,13 @@ metadata:
       Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story
     original_title: |-
       Tearmoon Empire
-    genre.sync: Anime,Drama,Fantasy,Romance,Age Regression,Female Protagonist,Time Manipulation,Shoujo
+    genre.sync: Anime,Drama,Fantasy,Romance,Age Regression,Female Protagonist,Conspiracy,Time Manipulation,Shoujo
     label: Ongoing
     studio: SILVER LINK.
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.7
+    audience_rating: 6.8
   426165:
     title: |-
       Tengoku Daimakyou
@@ -4437,20 +4401,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.9
-  430925:
-    title: |-
-      Toaru Ossan no VRMMO Katsudouki
-    sort_title: |-
-      Toaru Ossan no VRMMO Katsudouki
-    original_title: |-
-      A Playthrough of a Certain Dude's VRMMO Life
-    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Video Games
-    label: Ongoing
-    studio: Maho Film
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 6.0
   281249:
     title: |-
       Tokyo Ghoul
@@ -4652,6 +4602,8 @@ metadata:
     label.remove: Ongoing
     studio: Kyoto Animation
     seasons:
+      0:
+        label.remove: score
       1:
         title: |-
           Tsurune: Kazemai Koukou Kyuudou-bu
