@@ -534,48 +534,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 8.1
-  305074:
-    title: |-
-      Boku no Hero Academia
-    sort_title: |-
-      Boku no Hero Academia
-    original_title: |-
-      My Hero Academia
-    genre.sync: Anime,Action,Adventure,Comedy,Super Power,Superhero,Shounen,Male Protagonist,Primarily Teen Cast,School,Ensemble Cast,Urban Fantasy,Coming of Age
-    label.remove: Ongoing
-    studio: bones
-    seasons:
-      1:
-        title: |-
-          Boku no Hero Academia
-        user_rating: 7.7
-        label: score
-      2:
-        title: |-
-          Boku no Hero Academia 2
-        user_rating: 8.0
-        label: score
-      3:
-        title: |-
-          Boku no Hero Academia 3
-        user_rating: 7.9
-        label: score
-      4:
-        title: |-
-          Boku no Hero Academia 4
-        user_rating: 7.8
-        label: score
-      5:
-        title: |-
-          Boku no Hero Academia 5
-        user_rating: 7.3
-        label: score
-      6:
-        title: |-
-          Boku no Hero Academia 6
-        user_rating: 8.3
-        label: score
-    audience_rating: 7.8
   422981:
     title: |-
       Boku no Kokoro no Yabai Yatsu
@@ -772,20 +730,6 @@ metadata:
         user_rating: 8.4
         label: score
     audience_rating: 8.2
-  413555:
-    title: |-
-      Chikyuugai Shounen Shoujo
-    sort_title: |-
-      Chikyuugai Shounen Shoujo
-    original_title: |-
-      The Orbital Children
-    genre.sync: Anime,Adventure,Sci-Fi,Space,Survival,Artificial Intelligence,Primarily Child Cast,Conspiracy
-    label.remove: Ongoing
-    studio: Production +h
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 6.8
   261862:
     title: |-
       Chuunibyou demo Koi ga Shitai!
@@ -2329,20 +2273,6 @@ metadata:
         user_rating: 8.3
         label: score
     audience_rating: 8.4
-  432050:
-    title: |-
-      Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo
-    sort_title: |-
-      Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo
-    original_title: |-
-      The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You
-    genre.sync: Anime,Comedy,Romance,Female Harem,Ensemble Cast,Primarily Female Cast,Meta,Surreal Comedy,Parody,Male Protagonist,Tsundere,Seinen,Slapstick
-    label: Ongoing
-    studio: Bibury Animation Studios
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 7.7
   387027:
     title: |-
       Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen
@@ -2787,6 +2717,8 @@ metadata:
     label.remove: Ongoing
     studio: MADHOUSE
     seasons:
+      0:
+        label.remove: score
       1:
         title: |-
           Mahouka Koukou no Rettousei
@@ -3028,6 +2960,48 @@ metadata:
         user_rating: 8.3
         label: score
     audience_rating: 8.2
+  305074:
+    title: |-
+      Boku no Hero Academia
+    sort_title: |-
+      Boku no Hero Academia
+    original_title: |-
+      My Hero Academia
+    genre.sync: Anime,Action,Adventure,Comedy,Super Power,Superhero,Shounen,Male Protagonist,Primarily Teen Cast,School,Ensemble Cast,Urban Fantasy,Coming of Age
+    label.remove: Ongoing
+    studio: bones
+    seasons:
+      1:
+        title: |-
+          Boku no Hero Academia
+        user_rating: 7.7
+        label: score
+      2:
+        title: |-
+          Boku no Hero Academia 2
+        user_rating: 8.0
+        label: score
+      3:
+        title: |-
+          Boku no Hero Academia 3
+        user_rating: 7.9
+        label: score
+      4:
+        title: |-
+          Boku no Hero Academia 4
+        user_rating: 7.8
+        label: score
+      5:
+        title: |-
+          Boku no Hero Academia 5
+        user_rating: 7.3
+        label: score
+      6:
+        title: |-
+          Boku no Hero Academia 6
+        user_rating: 8.3
+        label: score
+    audience_rating: 7.8
   421452:
     title: |-
       My Home Hero
@@ -5037,43 +5011,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.9
-  313488:
-    title: |-
-      Yi Ren Zhi Xia
-    sort_title: |-
-      Yi Ren Zhi Xia
-    original_title: |-
-      Hitori no Shita - The Outcast
-    genre.sync: Anime,Action,Adventure,Supernatural,Super Power,Urban Fantasy,Martial Arts,Cultivation
-    label.remove: Ongoing
-    studio: Haoliners Animation
-    seasons:
-      1:
-        title: |-
-          Yi Ren Zhi Xia
-        user_rating: 6.4
-        label: score
-      2:
-        title: |-
-          Yi Ren Zhi Xia 2
-        user_rating: 7.1
-        label: score
-      3:
-        title: |-
-          Yi Ren Zhi Xia 3
-        user_rating: 6.6
-        label: score
-      4:
-        title: |-
-          Yi Ren Zhi Xia 4
-        user_rating: 6.5
-        label: score
-      5:
-        title: |-
-          Yi Ren Zhi Xia 5
-        user_rating: 6.1
-        label: score
-    audience_rating: 6.5
   412374:
     title: |-
       Yofukashi no Uta
