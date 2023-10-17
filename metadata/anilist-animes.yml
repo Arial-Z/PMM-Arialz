@@ -110,28 +110,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.0
-  306269:
-    title: |-
-      3-gatsu no Lion
-    sort_title: |-
-      3-gatsu no Lion
-    original_title: |-
-      March comes in like a lion
-    genre.sync: Anime,Drama,Slice of Life,Coming of Age,Rehabilitation,Shogi,Seinen,Family Life,Found Family,Male Protagonist,Philosophy,Tragedy
-    label.remove: Ongoing
-    studio: Shaft
-    seasons:
-      1:
-        title: |-
-          3-gatsu no Lion
-        user_rating: 8.3
-        label: score
-      2:
-        title: |-
-          3-gatsu no Lion 2
-        user_rating: 8.9
-        label: score
-    audience_rating: 8.6
   378609:
     title: |-
       86: Eighty Six
@@ -202,6 +180,20 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.1
+  309206:
+    title: |-
+      Nejimaki Seirei Senki: Tenkyou no Alderamin
+    sort_title: |-
+      Nejimaki Seirei Senki: Tenkyou no Alderamin
+    original_title: |-
+      Alderamin on the Sky
+    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Military,War,Guns,Swordplay,Politics,Male Protagonist
+    label.remove: Ongoing
+    studio: MADHOUSE
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 7.3
   279827:
     title: |-
       Aldnoah.Zero
@@ -301,6 +293,8 @@ metadata:
     label.remove: Ongoing
     studio: LIDENFILMS
     seasons:
+      0:
+        label.remove: score
       1:
         title: |-
           Arslan Senki (TV)
@@ -726,6 +720,8 @@ metadata:
     label.remove: Ongoing
     studio: P.A. Works
     seasons:
+      0:
+        label.remove: score
       1:
         label.remove: score
     audience_rating: 7.5
@@ -2189,28 +2185,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.9
-  299497:
-    title: |-
-      Kidou Senshi Gundam: Tekketsu no Orphans
-    sort_title: |-
-      Kidou Senshi Gundam: Tekketsu no Orphans
-    original_title: |-
-      Mobile Suit GUNDAM Iron Blooded Orphans
-    genre.sync: Anime,Action,Drama,Mecha,Sci-Fi,Orphan,Military,Real Robot,Politics,Tragedy,War,Kuudere,Anti-Hero,Dystopian,Ensemble Cast,Space,Found Family
-    label.remove: Ongoing
-    studio: Sunrise
-    seasons:
-      1:
-        title: |-
-          Kidou Senshi Gundam: Tekketsu no Orphans
-        user_rating: 7.7
-        label: score
-      2:
-        title: |-
-          Kidou Senshi Gundam: Tekketsu no Orphans 2
-        user_rating: 7.9
-        label: score
-    audience_rating: 7.8
   432815:
     title: |-
       Kikansha no Mahou wa Tokubetsu desu
@@ -2410,6 +2384,8 @@ metadata:
     label.remove: Ongoing
     studio: Studio DEEN
     seasons:
+      0:
+        label.remove: score
       1:
         title: |-
           Kono Subarashii Sekai ni Shukufuku wo!
@@ -2839,6 +2815,28 @@ metadata:
         user_rating: 6.9
         label: score
     audience_rating: 7.1
+  306269:
+    title: |-
+      3-gatsu no Lion
+    sort_title: |-
+      3-gatsu no Lion
+    original_title: |-
+      March comes in like a lion
+    genre.sync: Anime,Drama,Slice of Life,Coming of Age,Rehabilitation,Shogi,Seinen,Family Life,Found Family,Male Protagonist,Philosophy,Tragedy
+    label.remove: Ongoing
+    studio: Shaft
+    seasons:
+      1:
+        title: |-
+          3-gatsu no Lion
+        user_rating: 8.3
+        label: score
+      2:
+        title: |-
+          3-gatsu no Lion 2
+        user_rating: 8.9
+        label: score
+    audience_rating: 8.6
   397965:
     title: |-
       Mashiro no Oto
@@ -2922,6 +2920,28 @@ metadata:
         user_rating: 8.7
         label: score
     audience_rating: 8.6
+  299497:
+    title: |-
+      Kidou Senshi Gundam: Tekketsu no Orphans
+    sort_title: |-
+      Kidou Senshi Gundam: Tekketsu no Orphans
+    original_title: |-
+      Mobile Suit GUNDAM Iron Blooded Orphans
+    genre.sync: Anime,Action,Drama,Mecha,Sci-Fi,Orphan,Military,Real Robot,Politics,Tragedy,War,Kuudere,Anti-Hero,Dystopian,Ensemble Cast,Space,Found Family
+    label.remove: Ongoing
+    studio: Sunrise
+    seasons:
+      1:
+        title: |-
+          Kidou Senshi Gundam: Tekketsu no Orphans
+        user_rating: 7.7
+        label: score
+      2:
+        title: |-
+          Kidou Senshi Gundam: Tekketsu no Orphans 2
+        user_rating: 7.9
+        label: score
+    audience_rating: 7.8
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -3008,20 +3028,6 @@ metadata:
         user_rating: 6.5
         label: score
     audience_rating: 6.8
-  309206:
-    title: |-
-      Nejimaki Seirei Senki: Tenkyou no Alderamin
-    sort_title: |-
-      Nejimaki Seirei Senki: Tenkyou no Alderamin
-    original_title: |-
-      Alderamin on the Sky
-    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Military,War,Guns,Swordplay,Politics,Male Protagonist
-    label.remove: Ongoing
-    studio: MADHOUSE
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 7.3
   332771:
     title: |-
       Net-juu no Susume
@@ -3937,6 +3943,8 @@ metadata:
     label.remove: Ongoing
     studio: P.A. Works
     seasons:
+      0:
+        label.remove: score
       1:
         label.remove: score
     audience_rating: 8.2
