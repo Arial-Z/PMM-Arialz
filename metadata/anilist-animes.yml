@@ -603,7 +603,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 5.6
+    audience_rating: 5.5
   426703:
     title: |-
       Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta
@@ -1556,20 +1556,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.1
-  429263:
-    title: |-
-      Hikikomari Kyuuketsuki no Monmon
-    sort_title: |-
-      Hikikomari Kyuuketsuki no Monmon
-    original_title: |-
-      The Vexations of a Shut-In Vampire Princess
-    genre.sync: Anime,Action,Comedy,Fantasy,Primarily Female Cast,Female Protagonist,Vampire,Yuri,LGBTQ+ Themes,Hikikomori,Magic,War
-    label: Ongoing
-    studio: project No.9
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 7.0
   293121:
     title: |-
       Himouto! Umaru-chan
@@ -1594,28 +1580,6 @@ metadata:
         user_rating: 7.1
         label: score
     audience_rating: 6.9
-  313488:
-    title: |-
-      Yi Ren Zhi Xia
-    sort_title: |-
-      Yi Ren Zhi Xia
-    original_title: |-
-      Hitori no Shita - The Outcast
-    genre.sync: Anime,Action,Adventure,Supernatural,Super Power,Urban Fantasy,Martial Arts,Cultivation
-    label.remove: Ongoing
-    studio: Haoliners Animation
-    seasons:
-      2:
-        title: |-
-          Yi Ren Zhi Xia 2
-        user_rating: 7.1
-        label: score
-      5:
-        title: |-
-          Yi Ren Zhi Xia 5
-        user_rating: 6.1
-        label: score
-    audience_rating: 6.6
   366263:
     title: |-
       Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
@@ -4734,6 +4698,20 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.8
+  429263:
+    title: |-
+      Hikikomari Kyuuketsuki no Monmon
+    sort_title: |-
+      Hikikomari Kyuuketsuki no Monmon
+    original_title: |-
+      The Vexations of a Shut-In Vampire Princess
+    genre.sync: Anime,Action,Comedy,Fantasy,Primarily Female Cast,Female Protagonist,Vampire,Yuri,LGBTQ+ Themes,Hikikomori,Magic,War
+    label: Ongoing
+    studio: project No.9
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 7.0
   359274:
     title: |-
       Vinland Saga
@@ -4963,6 +4941,28 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.9
+  313488:
+    title: |-
+      Yi Ren Zhi Xia
+    sort_title: |-
+      Yi Ren Zhi Xia
+    original_title: |-
+      Hitori no Shita - The Outcast
+    genre.sync: Anime,Action,Adventure,Supernatural,Super Power,Urban Fantasy,Martial Arts,Cultivation
+    label.remove: Ongoing
+    studio: Haoliners Animation
+    seasons:
+      2:
+        title: |-
+          Yi Ren Zhi Xia 2
+        user_rating: 7.1
+        label: score
+      5:
+        title: |-
+          Yi Ren Zhi Xia 5
+        user_rating: 6.1
+        label: score
+    audience_rating: 6.6
   412374:
     title: |-
       Yofukashi no Uta
