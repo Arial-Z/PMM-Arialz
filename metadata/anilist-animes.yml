@@ -1155,6 +1155,22 @@ metadata:
       1:
         label.remove: score
     audience_rating: 8.0
+  85249:
+    title: |-
+      Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST
+    sort_title: |-
+      Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST
+    original_title: |-
+      Fullmetal Alchemist: Brotherhood
+    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Conspiracy,Alchemy,Military,War,Tragedy,Shounen,Politics,Male Protagonist,Philosophy,Necromancy,Ensemble Cast,Coming of Age,Gods,Foreign,Fugitive,Super Power,Steampunk,Cyborg
+    label.remove: Ongoing
+    studio: bones
+    seasons:
+      0:
+        label.remove: score
+      1:
+        label.remove: score
+    audience_rating: 9.0
   375271:
     title: |-
       Fumetsu no Anata e
@@ -1344,22 +1360,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 8.2
-  85249:
-    title: |-
-      Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST
-    sort_title: |-
-      Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST
-    original_title: |-
-      Fullmetal Alchemist: Brotherhood
-    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Conspiracy,Alchemy,Military,War,Tragedy,Shounen,Politics,Male Protagonist,Philosophy,Necromancy,Ensemble Cast,Coming of Age,Gods,Foreign,Fugitive,Super Power,Steampunk,Cyborg
-    label.remove: Ongoing
-    studio: bones
-    seasons:
-      0:
-        label.remove: score
-      1:
-        label.remove: score
-    audience_rating: 9.0
   303868:
     title: |-
       Hai to Gensou no Grimgar
@@ -2143,28 +2143,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.4
-  80675:
-    title: |-
-      Kidou Senshi Gundam 00
-    sort_title: |-
-      Kidou Senshi Gundam 00
-    original_title: |-
-      Mobile Suit Gundam 00
-    genre.sync: Anime,Action,Drama,Mecha,Sci-Fi,Terrorism,Real Robot,Politics,Military,Ensemble Cast,War
-    label.remove: Ongoing
-    studio: Sunrise
-    seasons:
-      1:
-        title: |-
-          Kidou Senshi Gundam 00
-        user_rating: 7.7
-        label: score
-      2:
-        title: |-
-          Kidou Senshi Gundam 00 2nd Season
-        user_rating: 7.7
-        label: score
-    audience_rating: 7.7
   403849:
     title: |-
       Kidou Senshi Gundam UC
@@ -2928,6 +2906,28 @@ metadata:
         user_rating: 8.7
         label: score
     audience_rating: 8.6
+  80675:
+    title: |-
+      Kidou Senshi Gundam 00
+    sort_title: |-
+      Kidou Senshi Gundam 00
+    original_title: |-
+      Mobile Suit Gundam 00
+    genre.sync: Anime,Action,Drama,Mecha,Sci-Fi,Terrorism,Real Robot,Politics,Military,Ensemble Cast,War
+    label.remove: Ongoing
+    studio: Sunrise
+    seasons:
+      1:
+        title: |-
+          Kidou Senshi Gundam 00
+        user_rating: 7.7
+        label: score
+      2:
+        title: |-
+          Kidou Senshi Gundam 00 2nd Season
+        user_rating: 7.7
+        label: score
+    audience_rating: 7.7
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -4532,6 +4532,8 @@ metadata:
     label.remove: Ongoing
     studio: J.C. Staff
     seasons:
+      0:
+        label.remove: score
       1:
         label.remove: score
     audience_rating: 7.8
