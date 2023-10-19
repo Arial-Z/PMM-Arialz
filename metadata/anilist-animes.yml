@@ -1417,7 +1417,7 @@ metadata:
       Hametsu no Oukoku
     original_title: |-
       The Kingdoms of Ruin
-    genre.sync: Anime,Action,Drama,Fantasy,Revenge,Magic,Witch,Tragedy,Terrorism,Gore
+    genre.sync: Anime,Action,Drama,Fantasy,Revenge,Magic,Witch,Terrorism,Tragedy,Gore
     label: Ongoing
     studio: Yokohama Animation Lab
     seasons:
@@ -3433,7 +3433,7 @@ metadata:
       2:
         title: |-
           Quanzhi Fashi 2
-        user_rating: 6.5
+        user_rating: 6.6
         label: score
       3:
         title: |-
@@ -4741,6 +4741,8 @@ metadata:
     label.remove: Ongoing
     studio: Kyoto Animation
     seasons:
+      0:
+        label.remove: score
       1:
         label.remove: score
     audience_rating: 8.5
