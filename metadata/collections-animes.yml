@@ -2,7 +2,7 @@ collections:
   Ongoing All:
     smart_filter:
       all:
-        label: Ongoing
+        label: Airing
       sort_by: title.asc
     sort_title: |-
       !0 - Ongoing All
@@ -16,7 +16,7 @@ collections:
     collection_filtering: user
     smart_filter:
       all:
-        label: Ongoing
+        label: Airing
         unplayed_episodes: true
       sort_by: viewed.desc
     sort_title: |-
@@ -32,7 +32,7 @@ collections:
     collection_filtering: user
     smart_filter:
       all:
-        label.not: Ongoing
+        label.not: Airing
         unplayed_episodes: true
       sort_by: added.desc
     sort_title: |-
