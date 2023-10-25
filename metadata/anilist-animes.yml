@@ -495,6 +495,36 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.3
+  83996:
+    title: |-
+      Kuroshitsuji
+    sort_title: |-
+      Kuroshitsuji
+    original_title: |-
+      Black Butler
+    genre.sync: Anime,Action,Comedy,Fantasy,Mystery,Supernatural,Butler,Crime,Demons,Revenge,Historical,Male Protagonist,Anti-Hero,Foreign,Primarily Male Cast,Tragedy,Detective,Gender Bending
+    label: Ended
+    label.remove: Planned,Airing
+    studio: A-1 Pictures
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          Kuroshitsuji
+        user_rating: 7.2
+        label: score
+      2:
+        title: |-
+          Kuroshitsuji II
+        user_rating: 6.6
+        label: score
+      3:
+        title: |-
+          Kuroshitsuji: Book of Circus
+        user_rating: 7.8
+        label: score
+    audience_rating: 7.2
   331753:
     title: |-
       Black Clover
