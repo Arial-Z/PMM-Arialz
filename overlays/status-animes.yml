@@ -1,32 +1,38 @@
-templates:
-  status-animes:
+external_templates:
+  pmm: templates
+  template_variables:
     text_<<key>>: <<text>>
-    group: status-animes
+    group: status
     horizontal_offset: 15
-    horizontal_align: left
-    vertical_offset: 165
+    horizontal_align: right
+    vertical_offset: 30
     vertical_align: bottom
-    font_size: 58
+    font: fonts/Roboto-Bold.ttf
+    font_size: 63
     back_color: "#00000099"
-    back_radius: 30
-    back_width: 350
+    back_width: 330
     back_height: 120
+    back_radius: 30
     allowed_libraries: show
     final_name: text(<<text_<<key>>>>)
+
+templates:
+  status:
     ignore_blank_results: true
     plex_search:
       all:
         label: <<key>>
 
 overlays:
-  Airing:
-    variables: {key: Airing, weight: 30, text: AIRING}
-    template: [name: status-animes]
 
-  Planned:
-    variables: {key: Planned, weight: 20, text: PLANNED}
-    template: [name: status-animes]
+  Airing_animes:
+    variables: {key: Airing, weight: 40, text: AIRING}
+    template: [name: standard, name: status]
 
-  Ended:
+  Planned_animes:
+    variables: {key: Planned, weight: 30, text: PLANNED}
+    template: [name: standard, name: status]
+
+  Ended_animes:
     variables: {key: Ended, weight: 10, text: ENDED}
-    template: [name: status-animes]
+    template: [name: standard, name: status]
