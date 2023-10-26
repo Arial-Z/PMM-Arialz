@@ -1,0 +1,32 @@
+templates:
+  status-animes:
+    text_<<key>>: <<text>>
+    group: status-animes
+    horizontal_offset: 15
+    horizontal_align: left
+    vertical_offset: 165
+    vertical_align: bottom
+    font_size: 58
+    back_color: "#00000099"
+    back_radius: 30
+    back_width: 350
+    back_height: 120
+    allowed_libraries: show
+    final_name: text(<<text_<<key>>>>)
+    ignore_blank_results: true
+    plex_search:
+      all:
+        label: <<key>>
+
+overlays:
+  Airing:
+    variables: {key: Airing, weight: 30, text: AIRING}
+    template: [name: status-animes]
+
+  Planned:
+    variables: {key: Planned, weight: 20, text: PLANNED}
+    template: [name: status-animes]
+
+  Ended:
+    variables: {key: Ended, weight: 10, text: ENDED}
+    template: [name: status-animes]
