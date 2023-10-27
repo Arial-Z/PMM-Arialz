@@ -107,7 +107,7 @@ metadata:
       16bit Sensation: ANOTHER LAYER
     original_title: |-
       16bit Sensation: Another Layer
-    genre.sync: Anime,Comedy,Slice of Life,Video Games,Software Development,Female Protagonist,Cute Girls Doing Cute Things,Otaku Culture
+    genre.sync: Anime,Comedy,Slice of Life,Video Games,Software Development,Female Protagonist,Otaku Culture
     label: Airing
     label.remove: Planned,Ended
     studio: Studio Silver
@@ -368,7 +368,7 @@ metadata:
       Azumanga Daiou THE ANIMATION
     original_title: |-
       Azumanga Daioh
-    genre.sync: Anime,Comedy,Slice of Life,School,Primarily Female Cast,Surreal Comedy,Slapstick,Cute Girls Doing Cute Things,Episodic,Ensemble Cast,Coming of Age,Primarily Teen Cast,Female Protagonist
+    genre.sync: Anime,Comedy,Slice of Life,School,Primarily Female Cast,Surreal Comedy,Slapstick,Cute Girls Doing Cute Things,Ensemble Cast,Episodic,Coming of Age,Primarily Teen Cast,Female Protagonist
     label: Ended
     label.remove: Planned,Airing
     studio: J.C. Staff
@@ -517,7 +517,7 @@ metadata:
       Bleach
     original_title: |-
       Bleach
-    genre.sync: Anime,Action,Adventure,Supernatural,Swordplay,Super Power,Shounen,Afterlife,Male Protagonist,Ghost,Urban Fantasy,Demons
+    genre.sync: Anime,Action,Adventure,Supernatural,Swordplay,Super Power,Shounen,Afterlife,Male Protagonist,Ghost,Urban Fantasy,Demons,Ensemble Cast
     label: Planned
     label.remove: Airing,Ended
     studio: Studio Pierrot
@@ -677,7 +677,7 @@ metadata:
       Bungou Stray Dogs
     original_title: |-
       Bungo Stray Dogs
-    genre.sync: Anime,Action,Comedy,Mystery,Supernatural,Super Power,Crime,Detective,Male Protagonist,Mafia,Urban Fantasy,Yakuza,Classic Literature,Urban,Ensemble Cast,Primarily Male Cast,Primarily Adult Cast,Orphan
+    genre.sync: Anime,Action,Comedy,Mystery,Supernatural,Super Power,Crime,Detective,Male Protagonist,Urban Fantasy,Mafia,Yakuza,Classic Literature,Urban,Ensemble Cast,Primarily Male Cast,Primarily Adult Cast,Orphan
     label: Ended
     label.remove: Planned,Airing
     studio: bones
@@ -987,14 +987,14 @@ metadata:
       Dekoboko Majo no Oyako Jijou
     original_title: |-
       The Family Circumstances of the Irregular Witch
-    genre.sync: Anime,Comedy,Fantasy,Witch,Family Life,Magic,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Found Family,Tanned Skin
+    genre.sync: Anime,Comedy,Fantasy,Witch,Family Life,Magic,Found Family,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Tanned Skin
     label: Airing
     label.remove: Planned,Ended
     studio: A-Real
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.0
+    audience_rating: 6.1
   273005:
     title: |-
       Diamond no Ace
@@ -1518,7 +1518,7 @@ metadata:
       1:
         title: |-
           Hataraku Maou-sama!
-        user_rating: 7.5
+        user_rating: 7.6
         label: score
       2:
         title: |-
@@ -2350,7 +2350,7 @@ metadata:
       Kill la Kill
     original_title: |-
       Kill la Kill
-    genre.sync: Anime,Action,Comedy,Ecchi,Henshin,Female Protagonist,Revenge,Nudity,Surreal Comedy,Parody,Tomboy,Dystopian,Super Power,Aliens,Coming of Age,Primarily Teen Cast,School,Military,Anti-Hero
+    genre.sync: Anime,Action,Comedy,Ecchi,Henshin,Female Protagonist,Revenge,Parody,Nudity,Surreal Comedy,Tomboy,Dystopian,Super Power,Aliens,Coming of Age,Primarily Teen Cast,School,Anti-Hero,Military
     label: Ended
     label.remove: Planned,Airing
     studio: Trigger
@@ -2573,7 +2573,7 @@ metadata:
       Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu
     original_title: |-
       I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness
-    genre.sync: Anime,Comedy,Fantasy,Romance,Slice of Life,Female Protagonist,Rehabilitation,Hikikomori,Fugitive,Heterosexual
+    genre.sync: Anime,Comedy,Fantasy,Romance,Slice of Life,Rehabilitation,Hikikomori,Fugitive,Heterosexual
     label: Airing
     label.remove: Planned,Ended
     studio: Zero-G
@@ -2821,7 +2821,7 @@ metadata:
       Lycoris Recoil
     original_title: |-
       Lycoris Recoil
-    genre.sync: Anime,Action,Slice of Life,Primarily Female Cast,Female Protagonist,Crime,Cute Girls Doing Cute Things,Guns,Terrorism,Assassins,Conspiracy,Urban,Kuudere,Work,Espionage,LGBTQ+ Themes
+    genre.sync: Anime,Action,Slice of Life,Primarily Female Cast,Female Protagonist,Crime,Cute Girls Doing Cute Things,Guns,Terrorism,Assassins,Conspiracy,Urban,Kuudere,Work,Espionage,LGBTQ+ Themes,Yuri
     label: Ended
     label.remove: Planned,Airing
     studio: A-1 Pictures
@@ -2882,7 +2882,7 @@ metadata:
       Magi: The labyrinth of magic
     original_title: |-
       Magi: The Labyrinth of Magic
-    genre.sync: Anime,Action,Adventure,Fantasy,Magic,Shounen,Male Protagonist,Politics,Tragedy,Desert,Dungeon
+    genre.sync: Anime,Action,Adventure,Fantasy,Magic,Shounen,Male Protagonist,Politics,Tragedy,Dungeon,Desert,War
     label: Ended
     label.remove: Planned,Airing
     studio: A-1 Pictures
@@ -3286,7 +3286,7 @@ metadata:
       NieR:Automata Ver1.1a
     original_title: |-
       NieR:Automata Ver1.1a
-    genre.sync: Anime,Action,Drama,Fantasy,Psychological,Sci-Fi,Artificial Intelligence,Robots,Tragedy,Lost Civilization,Female Protagonist,Post-Apocalyptic,Philosophy,Aliens,Swordplay,CGI
+    genre.sync: Anime,Action,Drama,Fantasy,Psychological,Sci-Fi,Artificial Intelligence,Robots,Tragedy,Lost Civilization,Post-Apocalyptic,Female Protagonist,Philosophy,Aliens,CGI,Swordplay
     label: Planned
     label.remove: Airing,Ended
     studio: A-1 Pictures
@@ -3371,7 +3371,7 @@ metadata:
       One Piece
     original_title: |-
       One Piece
-    genre.sync: Anime,Action,Adventure,Comedy,Drama,Fantasy,Pirates,Travel,Ensemble Cast,Shounen,Super Power,Tragedy,Found Family,Male Protagonist,Slapstick,Ships,Conspiracy,Time Skip,Slavery,Fugitive,War,Food,Politics,Gods,Crime,Medicine,Monster Boy,Fairy,Dystopian,Artificial Intelligence,Swordplay,Desert,Marriage,Lost Civilization,Prison
+    genre.sync: Anime,Action,Adventure,Comedy,Drama,Fantasy,Pirates,Travel,Ensemble Cast,Shounen,Super Power,Tragedy,Found Family,Male Protagonist,Slapstick,Conspiracy,Ships,Time Skip,Slavery,Fugitive,War,Politics,Gods,Dystopian,Crime,Monster Boy,Food,Swordplay,Lost Civilization,Prison
     label: Airing
     label.remove: Planned,Ended
     studio: Toei Animation
@@ -3656,7 +3656,7 @@ metadata:
       1:
         title: |-
           Psycho-pass
-        user_rating: 8.1
+        user_rating: 8.2
         label: score
       2:
         title: |-
@@ -4224,7 +4224,7 @@ metadata:
       Shokei Shoujo no Virgin Road
     original_title: |-
       The Executioner and Her Way of Life
-    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Anti-Hero,Magic,Memory Manipulation,Primarily Female Cast,Female Protagonist,Time Manipulation,Isekai,Assassins,LGBTQ+ Themes,Religion,Gore
+    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Anti-Hero,Magic,Memory Manipulation,Primarily Female Cast,Time Manipulation,Female Protagonist,Isekai,Assassins,LGBTQ+ Themes,Religion,Gore
     label: Ended
     label.remove: Planned,Airing
     studio: J.C. Staff
@@ -4436,7 +4436,7 @@ metadata:
       Summer Time Render
     original_title: |-
       Summer Time Rendering
-    genre.sync: Anime,Action,Drama,Mystery,Supernatural,Thriller,Time Manipulation,Shapeshifting,Reincarnation,Super Power,Tragedy,Rural,Mythology,Alternate Universe,Body Swapping,Dissociative Identities,Cosmic Horror,Ensemble Cast,Religion,Heterosexual,Male Protagonist,Shounen,Gore,Amnesia,Body Horror
+    genre.sync: Anime,Action,Drama,Mystery,Supernatural,Thriller,Time Manipulation,Shapeshifting,Reincarnation,Super Power,Tragedy,Rural,Mythology,Alternate Universe,Body Swapping,Dissociative Identities,Ensemble Cast,Religion,Heterosexual,Cosmic Horror,Male Protagonist,Shounen,Gore,Amnesia,Body Horror
     label: Ended
     label.remove: Planned,Airing
     studio: OLM
@@ -4750,7 +4750,7 @@ metadata:
       3:
         title: |-
           Tokyo Revengers: Tenjiku-hen
-        user_rating: 7.6
+        user_rating: 7.7
         label: score
     audience_rating: 7.7
   421994:
@@ -5106,7 +5106,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 7.2
+    audience_rating: 7.3
   418665:
     title: |-
       Watashi no Shiawase na Kekkon
@@ -5265,29 +5265,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.9
-  313488:
-    title: |-
-      Yi Ren Zhi Xia
-    sort_title: |-
-      Yi Ren Zhi Xia
-    original_title: |-
-      Hitori no Shita - The Outcast
-    genre.sync: Anime,Action,Adventure,Supernatural,Super Power,Urban Fantasy,Martial Arts,Cultivation
-    label: Ended
-    label.remove: Planned,Airing
-    studio: Haoliners Animation
-    seasons:
-      2:
-        title: |-
-          Yi Ren Zhi Xia 2
-        user_rating: 7.1
-        label: score
-      5:
-        title: |-
-          Yi Ren Zhi Xia 5
-        user_rating: 6.1
-        label: score
-    audience_rating: 6.6
   412374:
     title: |-
       Yofukashi no Uta
@@ -5404,4 +5381,4 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 7.9
+    audience_rating: 7.8
