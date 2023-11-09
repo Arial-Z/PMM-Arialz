@@ -160,7 +160,7 @@ metadata:
       [Oshi no Ko]
     original_title: |-
       【推しの子】
-    genre.sync: Anime,Drama,Mystery,Psychological,Supernatural,Acting,Idol,Tragedy,Seinen,Revenge,Urban,Twins,Male Protagonist,Reincarnation,Detective,Anti-Hero,Female Protagonist,Coming of Age
+    genre.sync: Anime,Drama,Mystery,Psychological,Supernatural,Acting,Idol,Tragedy,Revenge,Seinen,Urban,Twins,Male Protagonist,Reincarnation,Detective,Anti-Hero,Female Protagonist,Coming of Age
     label: Planned
     label.remove: Airing,Ended
     studio: Doga Kobo
@@ -220,7 +220,7 @@ metadata:
       Aldnoah.Zero
     original_title: |-
       アルドノア・ゼロ
-    genre.sync: Anime,Action,Mecha,Sci-Fi,Military,War,Conspiracy,Space Opera,CGI
+    genre.sync: Anime,Action,Mecha,Sci-Fi,Military,War,Conspiracy,Space Opera,Real Robot,Politics,Post-Apocalyptic,CGI
     label: Ended
     label.remove: Planned,Airing
     studio: A-1 Pictures
@@ -338,7 +338,7 @@ metadata:
       Atarashii Joushi wa Dotennen
     original_title: |-
       新しい上司はど天然
-    genre.sync: Anime,Comedy,Cute Boys Doing Cute Things,Primarily Male Cast,Work,Iyashikei,Male Protagonist,Primarily Adult Cast,Slapstick
+    genre.sync: Anime,Comedy,Cute Boys Doing Cute Things,Primarily Male Cast,Iyashikei,Work,Male Protagonist,Slapstick,Primarily Adult Cast
     label: Airing
     label.remove: Planned,Ended
     studio: A-1 Pictures
@@ -360,7 +360,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.0
+    audience_rating: 6.1
   79077:
     title: |-
       Azumanga Daiou THE ANIMATION
@@ -544,7 +544,7 @@ metadata:
       Bocchi the Rock!
     original_title: |-
       ぼっち・ざ・ろっく！
-    genre.sync: Anime,Comedy,Music,Slice of Life,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Cute Girls Doing Cute Things,Hikikomori,Rehabilitation,Surreal Comedy
+    genre.sync: Anime,Comedy,Music,Slice of Life,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Cute Girls Doing Cute Things,Hikikomori,Rehabilitation,Yuri,Surreal Comedy
     label: Ended
     label.remove: Planned,Airing
     studio: CloverWorks
@@ -654,7 +654,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.8
+    audience_rating: 6.7
   426294:
     title: |-
       Buddy Daddies
@@ -712,7 +712,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 5.6
+    audience_rating: 5.5
   83316:
     title: |-
       Casshern Sins
@@ -1288,7 +1288,7 @@ metadata:
       Gintama
     original_title: |-
       銀魂
-    genre.sync: Anime,Action,Comedy,Drama,Sci-Fi,Parody,Samurai,Ensemble Cast,Meta,Slapstick,Male Protagonist,Found Family,Surreal Comedy,Anachronism,Aliens,Police,Episodic,Shounen,Swordplay,Philosophy,Terrorism
+    genre.sync: Anime,Action,Comedy,Drama,Sci-Fi,Parody,Samurai,Ensemble Cast,Meta,Slapstick,Found Family,Male Protagonist,Anachronism,Surreal Comedy,Aliens,Episodic,Police,Shounen,Swordplay,Philosophy,Terrorism
     label: Ended
     label.remove: Planned,Airing
     studio: Sunrise
@@ -1495,14 +1495,14 @@ metadata:
       Hametsu no Oukoku
     original_title: |-
       はめつのおうこく
-    genre.sync: Anime,Action,Drama,Fantasy,Revenge,Magic,Tragedy,Witch,Gore,Terrorism,Male Protagonist
+    genre.sync: Anime,Action,Drama,Fantasy,Revenge,Magic,Tragedy,Witch,Gore,Terrorism,Male Protagonist,Anti-Hero
     label: Airing
     label.remove: Planned,Ended
     studio: Yokohama Animation Lab
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.8
+    audience_rating: 6.7
   267441:
     title: |-
       Hataraku Maou-sama!
@@ -1518,7 +1518,7 @@ metadata:
       1:
         title: |-
           Hataraku Maou-sama!
-        user_rating: 7.6
+        user_rating: 7.5
         label: score
       2:
         title: |-
@@ -1647,7 +1647,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 7.0
+    audience_rating: 7.1
   293121:
     title: |-
       Himouto! Umaru-chan
@@ -1843,8 +1843,8 @@ metadata:
     original_title: |-
       異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～
     genre.sync: Anime,Action,Adventure,Fantasy,Romance,Isekai,Male Protagonist,Magic,School,Female Harem,Alternate Universe
-    label: Planned
-    label.remove: Airing,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Millepensee
     seasons:
       1:
@@ -1917,7 +1917,7 @@ metadata:
       Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.
     original_title: |-
       痛いのは嫌なので防御力に極振りしたいと思います。
-    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Slice of Life,Video Games,Virtual World,Female Protagonist,Cute Girls Doing Cute Things,Primarily Female Cast,Magic,Henshin,Isekai,Parody
+    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Slice of Life,Video Games,Virtual World,Female Protagonist,Cute Girls Doing Cute Things,Primarily Female Cast,Magic,Henshin,Parody
     label: Ended
     label.remove: Planned,Airing
     studio: SILVER LINK.
@@ -2000,7 +2000,7 @@ metadata:
       Jujutsu Kaisen
     original_title: |-
       呪術廻戦
-    genre.sync: Anime,Action,Drama,Supernatural,Urban Fantasy,Shounen,Youkai,Super Power,Primarily Teen Cast,Male Protagonist,Dissociative Identities,Body Horror,Demons,Magic
+    genre.sync: Anime,Action,Drama,Supernatural,Urban Fantasy,Shounen,Youkai,Super Power,Male Protagonist,Primarily Teen Cast,Dissociative Identities,Body Horror,Demons,Magic
     label: Airing
     label.remove: Planned,Ended
     studio: MAPPA
@@ -2259,7 +2259,7 @@ metadata:
       Kidou Senshi Gundam 00
     original_title: |-
       機動戦士ガンダム00
-    genre.sync: Anime,Action,Drama,Mecha,Sci-Fi,Terrorism,Real Robot,Politics,Military,Ensemble Cast,War
+    genre.sync: Anime,Action,Drama,Mecha,Sci-Fi,Terrorism,Real Robot,Politics,Military,Ensemble Cast,War,Space
     label: Ended
     label.remove: Planned,Airing
     studio: Sunrise
@@ -2400,7 +2400,7 @@ metadata:
       Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo
     original_title: |-
       君のことが大大大大大好きな100人の彼女
-    genre.sync: Anime,Comedy,Romance,Female Harem,Ensemble Cast,Primarily Female Cast,Surreal Comedy,Meta,Male Protagonist,Parody,Tsundere,Slapstick,Seinen,Primarily Teen Cast
+    genre.sync: Anime,Comedy,Romance,Female Harem,Primarily Female Cast,Ensemble Cast,Surreal Comedy,Meta,Male Protagonist,Parody,Tsundere,Slapstick,Seinen,Primarily Teen Cast
     label: Airing
     label.remove: Planned,Ended
     studio: Bibury Animation Studios
@@ -2573,7 +2573,7 @@ metadata:
       Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu
     original_title: |-
       婚約破棄された令嬢を拾った俺が、イケナイことを教え込む
-    genre.sync: Anime,Comedy,Fantasy,Romance,Slice of Life,Rehabilitation,Hikikomori,Fugitive,Shoujo,Heterosexual
+    genre.sync: Anime,Comedy,Fantasy,Romance,Slice of Life,Rehabilitation,Hikikomori,Fugitive,Iyashikei,Shoujo,Heterosexual
     label: Airing
     label.remove: Planned,Ended
     studio: Zero-G
@@ -2743,7 +2743,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 8.3
+    audience_rating: 8.4
   368565:
     title: |-
       Kyokou Suiri
@@ -2821,7 +2821,7 @@ metadata:
       Lycoris Recoil
     original_title: |-
       リコリス・リコイル
-    genre.sync: Anime,Action,Slice of Life,Female Protagonist,Primarily Female Cast,Crime,Cute Girls Doing Cute Things,Guns,Terrorism,Assassins,Conspiracy,Urban,Kuudere,Work,Espionage
+    genre.sync: Anime,Action,Slice of Life,Female Protagonist,Primarily Female Cast,Crime,Cute Girls Doing Cute Things,Guns,Terrorism,Assassins,Conspiracy,Urban,Yuri,Kuudere,Work,Espionage
     label: Ended
     label.remove: Planned,Airing
     studio: A-1 Pictures
@@ -2859,7 +2859,7 @@ metadata:
       Made in Abyss
     original_title: |-
       メイドインアビス
-    genre.sync: Anime,Adventure,Drama,Fantasy,Horror,Mystery,Sci-Fi,Survival,Primarily Child Cast,Environmental,Chibi,Philosophy,Body Horror,Travel,Tragedy,Lost Civilization,Dungeon,Seinen,Female Protagonist,Amnesia,Gore
+    genre.sync: Anime,Adventure,Drama,Fantasy,Horror,Mystery,Sci-Fi,Survival,Primarily Child Cast,Environmental,Chibi,Philosophy,Travel,Body Horror,Tragedy,Lost Civilization,Dungeon,Seinen,Female Protagonist,Amnesia,Gore
     label: Ended
     label.remove: Planned,Airing
     studio: Kinema Citrus
@@ -3286,7 +3286,7 @@ metadata:
       NieR:Automata Ver1.1a
     original_title: |-
       NieR:Automata Ver1.1a
-    genre.sync: Anime,Action,Drama,Fantasy,Psychological,Sci-Fi,Artificial Intelligence,Robots,Tragedy,Lost Civilization,Post-Apocalyptic,Female Protagonist,Philosophy,Aliens,CGI,Swordplay
+    genre.sync: Anime,Action,Drama,Fantasy,Psychological,Sci-Fi,Artificial Intelligence,Robots,Lost Civilization,Tragedy,Post-Apocalyptic,Female Protagonist,Philosophy,Aliens,CGI,Swordplay
     label: Planned
     label.remove: Airing,Ended
     studio: A-1 Pictures
@@ -4124,7 +4124,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 7.7
+    audience_rating: 7.8
   279830:
     title: |-
       Shigatsu wa Kimi no Uso
@@ -4362,7 +4362,7 @@ metadata:
       Sousou no Frieren
     original_title: |-
       葬送のフリーレン
-    genre.sync: Anime,Adventure,Drama,Fantasy,Travel,Magic,Elf,Philosophy,Female Protagonist,Time Skip,Iyashikei,Coming of Age,Environmental,Kuudere,Dragons
+    genre.sync: Anime,Adventure,Drama,Fantasy,Travel,Magic,Elf,Female Protagonist,Philosophy,Time Skip,Coming of Age,Iyashikei,Environmental,Kuudere,Dragons
     label: Airing
     label.remove: Planned,Ended
     studio: MADHOUSE
@@ -4476,7 +4476,7 @@ metadata:
       1:
         title: |-
           Sword Art Online
-        user_rating: 6.9
+        user_rating: 6.8
         label: score
       2:
         title: |-
@@ -4549,7 +4549,7 @@ metadata:
       3:
         title: |-
           Tate no Yuusha no Nariagari Season 3
-        user_rating: 7.4
+        user_rating: 7.3
         label: score
     audience_rating: 7.2
   424368:
@@ -4566,7 +4566,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.9
+    audience_rating: 7.0
   426165:
     title: |-
       Tengoku Daimakyou
@@ -5012,14 +5012,14 @@ metadata:
       Under Ninja
     original_title: |-
       アンダーニンジャ
-    genre.sync: Anime,Action,Comedy,Ninja,School,Male Protagonist,Military,Seinen
+    genre.sync: Anime,Action,Comedy,Ninja,Male Protagonist,Military,School,Conspiracy
     label: Airing
     label.remove: Planned,Ended
     studio: Tezuka Productions
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.1
+    audience_rating: 6.2
   249872:
     title: |-
       Usagi Drop
@@ -5137,7 +5137,7 @@ metadata:
       Watashi no Oshi wa Akuyaku Reijou.
     original_title: |-
       私の推しは悪役令嬢。
-    genre.sync: Anime,Comedy,Fantasy,Romance,Villainess,Yuri,Female Protagonist,LGBTQ+ Themes,Isekai,Reincarnation,Video Games,Tsundere,Magic,Ojou-sama,School,Primarily Teen Cast,Primarily Female Cast,Politics,Maids,Bisexual
+    genre.sync: Anime,Comedy,Fantasy,Romance,Villainess,Yuri,Female Protagonist,LGBTQ+ Themes,Isekai,Reincarnation,Tsundere,Video Games,Magic,Ojou-sama,School,Politics,Primarily Teen Cast,Primarily Female Cast,Maids,Bisexual,Crossdressing
     label: Airing
     label.remove: Planned,Ended
     studio: Platinum Vision
@@ -5159,14 +5159,14 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 7.9
+    audience_rating: 7.8
   145211:
     title: |-
       Working!!
     sort_title: |-
       Working!!
     original_title: |-
-      Working!!
+      WORKING!!
     genre.sync: Anime,Comedy,Slice of Life,Work,Heterosexual,Ensemble Cast,Male Protagonist
     label: Ended
     label.remove: Planned,Airing
