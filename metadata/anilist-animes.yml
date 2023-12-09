@@ -1404,21 +1404,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 8.2
-  80096:
-    title: |-
-      Tengen Toppa Gurren Lagann
-    sort_title: |-
-      Tengen Toppa Gurren Lagann
-    original_title: |-
-      天元突破グレンラガン
-    genre.sync: Anime,Action,Comedy,Drama,Mecha,Romance,Sci-Fi,Super Robot,Coming of Age,Found Family,Male Protagonist,Post-Apocalyptic,Space Opera,Tragedy,Space,Travel,Time Skip,Aliens,Politics,War
-    label: Ended
-    label.remove: Planned,Airing
-    studio: Gainax
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 8.5
   85249:
     title: |-
       Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST
@@ -4582,6 +4567,21 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.0
+  80096:
+    title: |-
+      Tengen Toppa Gurren Lagann
+    sort_title: |-
+      Tengen Toppa Gurren Lagann
+    original_title: |-
+      天元突破グレンラガン
+    genre.sync: Anime,Action,Comedy,Drama,Mecha,Romance,Sci-Fi,Super Robot,Coming of Age,Found Family,Male Protagonist,Post-Apocalyptic,Space Opera,Tragedy,Space,Travel,Time Skip,Aliens,Politics,War
+    label: Ended
+    label.remove: Planned,Airing
+    studio: Gainax
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 8.5
   426165:
     title: |-
       Tengoku Daimakyou
