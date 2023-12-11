@@ -27,7 +27,6 @@ templates:
       vertical_offset: 90
       vertical_align: bottom
       name: text(<<rating_type>>)
-      queue: Rating_Queue_Text
       weight: <<weight>>
       font: fonts/Roboto-Bold.ttf
       font_size: 95
