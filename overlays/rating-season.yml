@@ -1,10 +1,6 @@
 templates:
   Background_Rating:
-    optional:
-      - overlay_level
-    default:
-      overlay: <<overlay_name>>
-    builder_level: <<overlay_level>>
+    builder_level: season
     overlay:
       horizontal_offset: 15
       horizontal_align: left
@@ -15,9 +11,7 @@ templates:
       group: background
       weight: <<weight>>
 
-  User_Rating:                                                               #user Rating Text (MAL Rating)
-    optional:
-      - overlay_level
+  User_Rating:
     default:
       rating_type: user_rating
     builder_level: season
