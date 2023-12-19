@@ -1549,8 +1549,8 @@ metadata:
     original_title: |-
       Helck
     genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Female Protagonist,Demons,War,Surreal Comedy,Tragedy,Parody,Male Protagonist,Magic
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Satelight
     seasons:
       1:
@@ -3847,8 +3847,8 @@ metadata:
     original_title: |-
       るろうに剣心 －明治剣客浪漫譚－(2023)
     genre.sync: Anime,Action,Adventure,Drama,Romance,Swordplay,Samurai,Shounen,Historical,Male Protagonist,Martial Arts
-    label: Ended
-    label.remove: Planned,Airing
+    label: Planned
+    label.remove: Airing,Ended
     studio: LIDENFILMS
     seasons:
       1:
@@ -4002,8 +4002,8 @@ metadata:
     original_title: |-
       聖女の魔力は万能です
     genre.sync: Anime,Fantasy,Romance,Slice of Life,Female Protagonist,Isekai,Magic,Shoujo,Iyashikei,Primarily Adult Cast,Medicine,Heterosexual
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: diomedéa
     seasons:
       1:
@@ -5305,7 +5305,7 @@ metadata:
           Xian Wang De Richang Shenghuo 3
         user_rating: 7.3
         label: score
-    audience_rating: 7.3
+    audience_rating: 5.5
   348002:
     title: |-
       Yakusoku no Neverland
