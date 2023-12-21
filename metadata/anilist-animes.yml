@@ -633,8 +633,8 @@ metadata:
     original_title: |-
       冒険者になりたいと都に出て行った娘がＳランクになってた
     genre.sync: Anime,Adventure,Fantasy,Adoption,Swordplay,Rural,Magic,Foreign,Disability
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: TYPHOON GRAPHICS
     seasons:
       1:
@@ -1063,8 +1063,8 @@ metadata:
     original_title: |-
       Dr.STONE
     genre.sync: Anime,Action,Adventure,Comedy,Sci-Fi,Post-Apocalyptic,Survival,Lost Civilization,Educational,Time Skip,Male Protagonist,Shounen,Environmental,Ensemble Cast,Primarily Teen Cast
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: TMS Entertainment
     seasons:
       0:
@@ -2961,8 +2961,8 @@ metadata:
     original_title: |-
       魔法使いの嫁
     genre.sync: Anime,Drama,Fantasy,Romance,Slice of Life,Supernatural,Magic,Female Protagonist,Mythology,Fairy,Skeleton,Urban Fantasy,Teacher,Monster Boy,Heterosexual,Dragons,Tragedy,Foreign,Philosophy,Primarily Adult Cast,Age Gap
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Wit Studio
     seasons:
       0:
@@ -3342,8 +3342,8 @@ metadata:
     original_title: |-
       お嬢と番犬くん
     genre.sync: Anime,Drama,Romance,Age Gap,School,Shoujo,Heterosexual,Yakuza,Female Protagonist
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: project No.9
     seasons:
       1:
@@ -3782,6 +3782,21 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.2
+  345596:
+    title: |-
+      Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+    sort_title: |-
+      Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
+    original_title: |-
+      青春ブタ野郎はバニーガール先輩の夢を見ない
+    genre.sync: Anime,Comedy,Drama,Mystery,Psychological,Romance,Supernatural,Urban Fantasy,Primarily Teen Cast,Heterosexual,Male Protagonist,Coming of Age,Primarily Female Cast,Memory Manipulation,Rehabilitation,Dissociative Identities,Bullying,Amnesia,School,Time Manipulation,Tragedy
+    label: Ended
+    label.remove: Planned,Airing
+    studio: CloverWorks
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 8.0
   305089:
     title: |-
       Re:Zero kara Hajimeru Isekai Seikatsu
@@ -5056,8 +5071,8 @@ metadata:
     original_title: |-
       アンダーニンジャ
     genre.sync: Anime,Action,Comedy,Ninja,School,Male Protagonist,Conspiracy,Surreal Comedy,Meta,Seinen,Espionage,Achronological Order
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Tezuka Productions
     seasons:
       1:
