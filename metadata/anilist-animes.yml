@@ -943,8 +943,8 @@ metadata:
     original_title: |-
       デッドマウント・デスプレイ
     genre.sync: Anime,Action,Fantasy,Supernatural,Thriller,Urban Fantasy,Crime,Conspiracy,Necromancy,Isekai,Magic,Urban,Male Protagonist,Reincarnation,Anti-Hero,Ghost,Police,Ensemble Cast,Seinen,Assassins,Gangs
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: GEEKTOYS
     seasons:
       1:
@@ -2170,8 +2170,8 @@ metadata:
     original_title: |-
       鴨乃橋ロンの禁断推理
     genre.sync: Anime,Drama,Mystery,Detective,Work,Police,Male Protagonist,Primarily Adult Cast,Crime,Super Power
-    label: Airing
-    label.remove: Planned,Ended
+    label: Planned
+    label.remove: Airing,Ended
     studio: diomedéa
     seasons:
       1:
@@ -5301,8 +5301,8 @@ metadata:
     original_title: |-
       仙王的日常生活
     genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Slice of Life,Super Power,Male Protagonist,School,Magic,Heterosexual,Urban Fantasy,Parody,Satire,Cultivation
-    label: Ended
-    label.remove: Planned,Airing
+    label: Airing
+    label.remove: Planned,Ended
     studio: Haoliners Animation
     seasons:
       1:
@@ -5320,7 +5320,12 @@ metadata:
           Xian Wang De Richang Shenghuo 3
         user_rating: 7.3
         label: score
-    audience_rating: 5.5
+      4:
+        title: |-
+          Xian Wang De Richang Shenghuo 4
+        user_rating: 6.8
+        label: score
+    audience_rating: 7.2
   348002:
     title: |-
       Yakusoku no Neverland
@@ -5471,8 +5476,8 @@ metadata:
     original_title: |-
       ゾン100～ゾンビになるまでにしたい100のこと～
     genre.sync: Anime,Action,Comedy,Horror,Supernatural,Zombie,Post-Apocalyptic,Surreal Comedy,Survival,Male Protagonist,Rehabilitation,Urban,Primarily Adult Cast,Gore,Slapstick
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: BUG FILMS
     seasons:
       1:
