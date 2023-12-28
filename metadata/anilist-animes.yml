@@ -2001,8 +2001,8 @@ metadata:
     original_title: |-
       呪術廻戦
     genre.sync: Anime,Action,Drama,Supernatural,Urban Fantasy,Shounen,Youkai,Super Power,Male Protagonist,Primarily Teen Cast,Dissociative Identities,Body Horror,Demons,Magic,Ensemble Cast,Martial Arts,Gore,Swordplay
-    label: Airing
-    label.remove: Planned,Ended
+    label: Planned
+    label.remove: Airing,Ended
     studio: MAPPA
     seasons:
       1:
@@ -3436,6 +3436,8 @@ metadata:
     label.remove: Planned,Airing
     studio: POLYGON PICTURES
     seasons:
+      0:
+        label.remove: score
       1:
         label.remove: score
     audience_rating: 6.4
