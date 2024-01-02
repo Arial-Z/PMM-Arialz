@@ -980,21 +980,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.5
-  361709:
-    title: |-
-      Maou-sama, Retry!
-    sort_title: |-
-      Maou-sama, Retry!
-    original_title: |-
-      魔王様、リトライ!
-    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Isekai,Male Protagonist,Demons,Anti-Hero
-    label: Ended
-    label.remove: Planned,Airing
-    studio: EKACHI EPILKA
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 6.2
   273005:
     title: |-
       Diamond no Ace
@@ -1864,6 +1849,7 @@ metadata:
     seasons:
       1:
         label.remove: score
+    audience_rating: 65.0
   405214:
     title: |-
       Isekai Oji-san
@@ -3051,6 +3037,21 @@ metadata:
         user_rating: 6.9
         label: score
     audience_rating: 7.1
+  361709:
+    title: |-
+      Maou-sama, Retry!
+    sort_title: |-
+      Maou-sama, Retry!
+    original_title: |-
+      魔王様、リトライ!
+    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Isekai,Male Protagonist,Demons,Anti-Hero
+    label: Ended
+    label.remove: Planned,Airing
+    studio: EKACHI EPILKA
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 6.2
   397965:
     title: |-
       Mashiro no Oto
