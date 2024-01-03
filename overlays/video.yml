@@ -70,14 +70,14 @@ overlays:
         weight: 50
     plex_search:
       all:
-        resolution.regex: '(?i)2160|4k'
+        resolution: '4K'
   1080P:
     template:
       - name: Resolution
         weight: 40
     plex_search:
       all:
-        resolution.regex: '(?i)1080|2k'
+        resolution: '1080p'
 
   720P:
     template:
@@ -85,7 +85,7 @@ overlays:
         weight: 30
     plex_search:
       all:
-        resolution.regex: '(?i)720|hd'
+        resolution: '720p'
 
   576P:
     template:
@@ -93,7 +93,7 @@ overlays:
         weight: 20
     plex_search:
       all:
-        resolution.regex: '(?i)576'
+        resolution: '576p'
 
   480P:
     template:
@@ -101,4 +101,12 @@ overlays:
         weight: 10
     plex_search:
       all:
-        resolution.regex: '(?i)480|sd'
+        resolution: '480p'
+
+  SD:
+    template:
+      - name: Resolution
+        weight: 10
+    plex_search:
+      all:
+        resolution: 'SD'
