@@ -994,6 +994,20 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.5
+  437236:
+    title: |-
+      Momochi-san Chi no Ayakashi Ouji
+    sort_title: |-
+      Momochi-san Chi no Ayakashi Ouji
+    original_title: |-
+      百千さん家のあやかし王子
+    genre.sync: Anime,Romance,Supernatural,Shoujo,Youkai
+    label: Airing
+    label.remove: Planned,Ended
+    studio: Drive
+    seasons:
+      1:
+        label.remove: score
   273005:
     title: |-
       Diamond no Ace
@@ -3386,8 +3400,8 @@ metadata:
     original_title: |-
       望まぬ不死の冒険者
     genre.sync: Anime,Action,Adventure,Fantasy
-    label: Ended
-    label.remove: Planned,Airing
+    label: Airing
+    label.remove: Planned,Ended
     studio: CONNECT
     seasons:
       1:
