@@ -1077,14 +1077,14 @@ metadata:
       Dungeon Meshi
     original_title: |-
       ダンジョン飯
-    genre.sync: Anime,Adventure,Comedy,Fantasy,Food,Dungeon,Magic
+    genre.sync: Anime,Adventure,Comedy,Fantasy,Food,Dungeon,Magic,Elf,Seinen
     label: Airing
     label.remove: Planned,Ended
     studio: Trigger
     seasons:
       1:
         label.remove: score
-    audience_rating: 75.0
+    audience_rating: 7.5
   289882:
     title: |-
       Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
@@ -3111,7 +3111,21 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 68.0
+    audience_rating: 6.8
+  415440:
+    title: |-
+      Chiyu Mahou no Machigatta Tsukaikata
+    sort_title: |-
+      Chiyu Mahou no Machigatta Tsukaikata
+    original_title: |-
+      治癒魔法の間違った使い方
+    genre.sync: Anime,Action,Fantasy,Isekai,Magic,Demons
+    label: Airing
+    label.remove: Planned,Ended
+    studio: Shin-Ei Animation
+    seasons:
+      1:
+        label.remove: score
   428394:
     title: |-
       Megumi no Daigo: Kyuukoku no Orange
@@ -3364,6 +3378,20 @@ metadata:
         user_rating: 8.0
         label: score
     audience_rating: 7.9
+  419112:
+    title: |-
+      Nozomanu Fushi no Boukensha
+    sort_title: |-
+      Nozomanu Fushi no Boukensha
+    original_title: |-
+      望まぬ不死の冒険者
+    genre.sync: Anime,Action,Adventure,Fantasy
+    label: Ended
+    label.remove: Planned,Airing
+    studio: CONNECT
+    seasons:
+      1:
+        label.remove: score
   424459:
     title: |-
       Ojou to Banken-kun
@@ -4011,6 +4039,20 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.0
+  422728:
+    title: |-
+      Sasaki to Pi-chan
+    sort_title: |-
+      Sasaki to Pi-chan
+    original_title: |-
+      佐々木とピーちゃん
+    genre.sync: Anime,Comedy,Fantasy,Mahou Shoujo
+    label: Airing
+    label.remove: Planned,Ended
+    studio: SILVER LINK.
+    seasons:
+      1:
+        label.remove: score
   425756:
     title: |-
       Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
@@ -4401,7 +4443,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 61.0
+    audience_rating: 6.1
   401233:
     title: |-
       Sono Bisque Doll wa Koi wo Suru
