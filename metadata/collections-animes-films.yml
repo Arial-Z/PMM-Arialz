@@ -83,6 +83,30 @@ collections:
     url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/Josei.png
     url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_background.jpg
 
+  Ao no Exorcist:
+    plex_search:
+      all:
+        title.begins: Ao no Exorcist
+      sort_by: release.asc
+    sort_title: |-
+      Ao no Exorcist
+    collection_mode: hide_items
+    visible_library: true
+    visible_home: false
+    visible_shared: false
+
+  Bungo Stray Dogs:
+    plex_search:
+      all:
+        title.begins: Bungo Stray Dogs
+      sort_by: release.asc
+    sort_title: |-
+      Bungo Stray Dogs
+    collection_mode: hide_items
+    visible_library: true
+    visible_home: false
+    visible_shared: false
+
   Boku no Hero Academia:
     plex_search:
       all:
@@ -95,3 +119,66 @@ collections:
     visible_home: false
     visible_shared: false
     url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/Boku_no_Hero_Academia.jpg
+
+  Chuunibyou demo Koi ga Shitai!:
+    plex_search:
+      all:
+        title.begins: Chuunibyou demo Koi ga Shitai!
+      sort_by: release.asc
+    sort_title: |-
+      Chuunibyou demo Koi ga Shitai!
+    collection_mode: hide_items
+    visible_library: true
+    visible_home: false
+    visible_shared: false
+
+  Code Geass:
+    plex_search:
+      all:
+        title.begins: Code Geass
+      sort_by: release.asc
+    sort_title: |-
+      Code Geass
+    collection_mode: hide_items
+    visible_library: true
+    visible_home: false
+    visible_shared: false
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/Code_Geass.jpg
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/Code_Geass_background.jpg
+
+  Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka:
+    plex_search:
+      all:
+        title.begins: Dungeon ni Deai wo
+      sort_by: release.asc
+    sort_title: |-
+      Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
+    collection_mode: hide_items
+    visible_library: true
+    visible_home: false
+    visible_shared: false
+
+  Evangelion:
+    plex_search:
+      all:
+        title.contains: Evangelion Movie
+      sort_by: release.asc
+    sort_title: |-
+      Evangelion
+    collection_mode: hide_items
+    visible_library: true
+    visible_home: false
+    visible_shared: false
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/Evangelion.jpg
+
+  Final Fantasy:
+    plex_search:
+      all:
+        title.contains: Final Fantasy
+      sort_by: release.asc
+    sort_title: |-
+      Final Fantasy
+    collection_mode: hide_items
+    visible_library: true
+    visible_home: false
+    visible_shared: false
