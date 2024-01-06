@@ -775,6 +775,21 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.8
+  415440:
+    title: |-
+      Chiyu Mahou no Machigatta Tsukaikata
+    sort_title: |-
+      Chiyu Mahou no Machigatta Tsukaikata
+    original_title: |-
+      治癒魔法の間違った使い方
+    genre.sync: Anime,Action,Fantasy,Isekai,Magic,Demons
+    label: Airing
+    label.remove: Planned,Ended
+    studio: Shin-Ei Animation
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 70.0
   261862:
     title: |-
       Chuunibyou demo Koi ga Shitai!
@@ -3112,20 +3127,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.8
-  415440:
-    title: |-
-      Chiyu Mahou no Machigatta Tsukaikata
-    sort_title: |-
-      Chiyu Mahou no Machigatta Tsukaikata
-    original_title: |-
-      治癒魔法の間違った使い方
-    genre.sync: Anime,Action,Fantasy,Isekai,Magic,Demons
-    label: Airing
-    label.remove: Planned,Ended
-    studio: Shin-Ei Animation
-    seasons:
-      1:
-        label.remove: score
   428394:
     title: |-
       Megumi no Daigo: Kyuukoku no Orange
@@ -3184,6 +3185,21 @@ metadata:
         user_rating: 8.7
         label: score
     audience_rating: 8.6
+  437236:
+    title: |-
+      Momochi-san Chi no Ayakashi Ouji
+    sort_title: |-
+      Momochi-san Chi no Ayakashi Ouji
+    original_title: |-
+      百千さん家のあやかし王子
+    genre.sync: Anime,Romance,Supernatural,Shoujo,Youkai
+    label: Airing
+    label.remove: Planned,Ended
+    studio: Drive
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 59.0
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -3386,12 +3402,13 @@ metadata:
     original_title: |-
       望まぬ不死の冒険者
     genre.sync: Anime,Action,Adventure,Fantasy
-    label: Ended
-    label.remove: Planned,Airing
+    label: Airing
+    label.remove: Planned,Ended
     studio: CONNECT
     seasons:
       1:
         label.remove: score
+    audience_rating: 66.0
   424459:
     title: |-
       Ojou to Banken-kun
@@ -4053,6 +4070,7 @@ metadata:
     seasons:
       1:
         label.remove: score
+    audience_rating: 68.0
   425756:
     title: |-
       Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
