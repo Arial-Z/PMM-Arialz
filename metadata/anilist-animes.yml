@@ -251,8 +251,8 @@ metadata:
     original_title: |-
       青の祓魔師
     genre.sync: Anime,Action,Fantasy,Supernatural,Demons,Shounen,Super Power,Male Protagonist,Youkai,Twins,Religion,Primarily Teen Cast,School,Urban Fantasy,Adoption
-    label: Planned
-    label.remove: Airing,Ended
+    label: Airing
+    label.remove: Planned,Ended
     studio: A-1 Pictures
     seasons:
       0:
@@ -266,6 +266,11 @@ metadata:
         title: |-
           Ao no Exorcist: Kyoto Fujouou-hen
         user_rating: 7.2
+        label: score
+      3:
+        title: |-
+          Ao no Exorcist: Shimane Illuminati-hen
+        user_rating: 0.0
         label: score
     audience_rating: 7.2
   407840:
@@ -668,21 +673,6 @@ metadata:
         user_rating: 8.4
         label: score
     audience_rating: 8.1
-  413335:
-    title: |-
-      Buta no Liver wa Kanetsu Shiro
-    sort_title: |-
-      Buta no Liver wa Kanetsu Shiro
-    original_title: |-
-      豚のレバーは加熱しろ
-    genre.sync: Anime,Comedy,Fantasy,Male Protagonist,Isekai,Conspiracy,Amnesia,Tragedy,Religion,Survival,Travel,Magic,Slavery
-    label: Airing
-    label.remove: Planned,Ended
-    studio: project No.9
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 5.5
   83316:
     title: |-
       Casshern Sins
@@ -789,7 +779,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 70.0
+    audience_rating: 7.0
   261862:
     title: |-
       Chuunibyou demo Koi ga Shitai!
@@ -815,6 +805,34 @@ metadata:
         user_rating: 7.3
         label: score
     audience_rating: 7.4
+  329822:
+    title: |-
+      Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
+    sort_title: |-
+      Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
+    original_title: |-
+      ようこそ実力至上主義の教室へ
+    genre.sync: Anime,Drama,Psychological,School,Ensemble Cast,Anti-Hero,Coming of Age,Primarily Teen Cast,Male Protagonist,Philosophy,Battle Royale,Survival
+    label: Airing
+    label.remove: Planned,Ended
+    studio: Lerche
+    seasons:
+      1:
+        title: |-
+          Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
+        user_rating: 7.7
+        label: score
+      2:
+        title: |-
+          Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season
+        user_rating: 8.0
+        label: score
+      3:
+        title: |-
+          Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season
+        user_rating: 7.8
+        label: score
+    audience_rating: 7.8
   79995:
     title: |-
       Claymore
@@ -853,6 +871,21 @@ metadata:
         user_rating: 8.6
         label: score
     audience_rating: 8.5
+  344076:
+    title: |-
+      Comic Girls
+    sort_title: |-
+      Comic Girls
+    original_title: |-
+      こみっくがーるず
+    genre.sync: Anime,Comedy,Slice of Life,Drawing,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Work,Writing,Coming of Age,Chuunibyou,Tomboy,Yuri,Otaku Culture
+    label: Ended
+    label.remove: Planned,Airing
+    studio: Nexus
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 7.2
   384541:
     title: |-
       Cyberpunk: Edgerunners
@@ -920,6 +953,41 @@ metadata:
         user_rating: 7.1
         label: score
     audience_rating: 7.4
+  264663:
+    title: |-
+      Date A Live
+    sort_title: |-
+      Date A Live
+    original_title: |-
+      デート・ア・ライブ
+    genre.sync: Anime,Action,Comedy,Ecchi,Fantasy,Mecha,Romance,Sci-Fi,Female Harem,Male Protagonist,Super Power,Henshin,Primarily Teen Cast,Heterosexual,Primarily Female Cast,Ensemble Cast,Urban Fantasy
+    label: Planned
+    label.remove: Airing,Ended
+    studio: AIC Plus+
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          Date A Live
+        user_rating: 6.8
+        label: score
+      2:
+        title: |-
+          Date A Live II
+        user_rating: 6.8
+        label: score
+      3:
+        title: |-
+          Date A Live III
+        user_rating: 6.9
+        label: score
+      4:
+        title: |-
+          Date A Live IV
+        user_rating: 7.6
+        label: score
+    audience_rating: 7.0
   413480:
     title: |-
       Dawang Raoming
@@ -1586,6 +1654,21 @@ metadata:
       1:
         label.remove: score
     audience_rating: 8.0
+  79999:
+    title: |-
+      Heroic Age
+    sort_title: |-
+      Heroic Age
+    original_title: |-
+      ヒロイック・エイジ
+    genre.sync: Anime,Action,Mecha,Sci-Fi,Space,Military,Super Robot,Aliens,Time Manipulation,Space Opera
+    label: Ended
+    label.remove: Planned,Airing
+    studio: Xebec
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 7.0
   426528:
     title: |-
       Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
@@ -1872,14 +1955,14 @@ metadata:
       Isekai de Mofumofu Nadenade Suru Tame ni Ganbattemasu.
     original_title: |-
       異世界でもふもふなでなでするためにがんばってます。
-    genre.sync: Anime,Adventure,Fantasy,Slice of Life,Isekai,Animals,Female Protagonist
+    genre.sync: Anime,Adventure,Fantasy,Slice of Life,Isekai,Animals,Female Protagonist,Shoujo,Reincarnation,Iyashikei
     label: Airing
     label.remove: Planned,Ended
     studio: EMT Squared
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.5
+    audience_rating: 6.6
   405214:
     title: |-
       Isekai Oji-san
@@ -2461,8 +2544,8 @@ metadata:
     original_title: |-
       キングダム
     genre.sync: Anime,Action,Drama,Historical,War,Military,CGI,Foreign,Primarily Male Cast,Swordplay,Politics,Male Protagonist,Seinen
-    label: Planned
-    label.remove: Airing,Ended
+    label: Airing
+    label.remove: Planned,Ended
     studio: Studio Pierrot
     seasons:
       1:
@@ -3105,12 +3188,20 @@ metadata:
     original_title: |-
       マッシュル-MASHLE-
     genre.sync: Anime,Action,Comedy,Fantasy,Shounen,Magic,Male Protagonist,School,Parody,Primarily Teen Cast,Slapstick,Kuudere,Fitness,Super Power,Primarily Male Cast,Dragons
-    label: Planned
-    label.remove: Airing,Ended
+    label: Airing
+    label.remove: Planned,Ended
     studio: A-1 Pictures
     seasons:
       1:
-        label.remove: score
+        title: |-
+          Mashle
+        user_rating: 7.5
+        label: score
+      2:
+        title: |-
+          MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen
+        user_rating: 0.0
+        label: score
     audience_rating: 7.5
   412656:
     title: |-
@@ -3127,36 +3218,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.8
-  428394:
-    title: |-
-      Megumi no Daigo: Kyuukoku no Orange
-    sort_title: |-
-      Megumi no Daigo: Kyuukoku no Orange
-    original_title: |-
-      め組の大吾 救国のオレンジ
-    genre.sync: Anime,Action,Drama,Thriller,Work,Firefighters,Primarily Adult Cast
-    label: Airing
-    label.remove: Planned,Ended
-    studio: Brain's Base
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 6.3
-  414207:
-    title: |-
-      MF Ghost
-    sort_title: |-
-      MF Ghost
-    original_title: |-
-      MFゴースト
-    genre.sync: Anime,Sci-Fi,Sports,Cars,Seinen,Heterosexual,Primarily Male Cast,CGI,Male Protagonist,Primarily Adult Cast
-    label: Planned
-    label.remove: Airing,Ended
-    studio: Felix Film
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 7.4
   307375:
     title: |-
       Mob Psycho 100
@@ -3192,14 +3253,14 @@ metadata:
       Momochi-san Chi no Ayakashi Ouji
     original_title: |-
       百千さん家のあやかし王子
-    genre.sync: Anime,Romance,Supernatural,Shoujo,Youkai
+    genre.sync: Anime,Romance,Supernatural,Shoujo,Youkai,Male Harem,Primarily Male Cast
     label: Airing
     label.remove: Planned,Ended
     studio: Drive
     seasons:
       1:
         label.remove: score
-    audience_rating: 59.0
+    audience_rating: 5.9
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -3240,6 +3301,21 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.7
+  401874:
+    title: |-
+      Senpai ga Uzai Kouhai no Hanashi
+    sort_title: |-
+      Senpai ga Uzai Kouhai no Hanashi
+    original_title: |-
+      先輩がうざい後輩の話
+    genre.sync: Anime,Comedy,Romance,Slice of Life,Office Lady,Primarily Adult Cast,Female Protagonist,Work,Tsundere,Heterosexual,Josei
+    label: Ended
+    label.remove: Planned,Airing
+    studio: Doga Kobo
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 7.5
   413333:
     title: |-
       Nanatsu no Maken ga Shihai Suru
@@ -3322,6 +3398,31 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.3
+  309532:
+    title: |-
+      New Game!
+    sort_title: |-
+      New Game!
+    original_title: |-
+      NEW GAME!
+    genre.sync: Anime,Slice of Life,Cute Girls Doing Cute Things,Work,Primarily Female Cast,Software Development,Office Lady,Video Games,Female Protagonist,Seinen,Ensemble Cast,Primarily Adult Cast,Urban,Drawing
+    label: Ended
+    label.remove: Planned,Airing
+    studio: Doga Kobo
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          New Game!
+        user_rating: 7.4
+        label: score
+      2:
+        title: |-
+          New Game!!
+        user_rating: 7.6
+        label: score
+    audience_rating: 7.5
   240291:
     title: |-
       Nichijou
@@ -3408,22 +3509,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 66.0
-  424459:
-    title: |-
-      Ojou to Banken-kun
-    sort_title: |-
-      Ojou to Banken-kun
-    original_title: |-
-      お嬢と番犬くん
-    genre.sync: Anime,Drama,Romance,Age Gap,Female Protagonist,School,Shoujo,Heterosexual,Yakuza
-    label: Ended
-    label.remove: Planned,Airing
-    studio: project No.9
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 5.2
+    audience_rating: 6.6
   423096:
     title: |-
       Okashi na Tensei
@@ -4063,14 +4149,49 @@ metadata:
       Sasaki to Pi-chan
     original_title: |-
       佐々木とピーちゃん
-    genre.sync: Anime,Comedy,Fantasy,Mahou Shoujo
+    genre.sync: Anime,Comedy,Fantasy,Mahou Shoujo,Isekai
     label: Airing
     label.remove: Planned,Ended
     studio: SILVER LINK.
     seasons:
       1:
         label.remove: score
-    audience_rating: 68.0
+    audience_rating: 6.8
+  358612:
+    title: |-
+      Cike Wu Liuqi
+    sort_title: |-
+      Cike Wu Liuqi
+    original_title: |-
+      刺客伍六七
+    genre.sync: Anime,Action,Comedy,Drama,Mystery,Romance,Assassins,Surreal Comedy,Amnesia,Male Protagonist,Satire,Urban,Super Power,Martial Arts,Slapstick
+    label: Planned
+    label.remove: Airing,Ended
+    studio: Sharefun Studio
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          Cike Wu Liuqi
+        user_rating: 7.8
+        label: score
+      2:
+        title: |-
+          Wu Liuqi: Zui Qiang Faxingshi
+        user_rating: 8.1
+        label: score
+      3:
+        title: |-
+          Wu Liuqi: Xuanwu Guo Pian
+        user_rating: 8.4
+        label: score
+      4:
+        title: |-
+          Wu Liuqi: Anying Suming
+        user_rating: 8.1
+        label: score
+    audience_rating: 8.1
   425756:
     title: |-
       Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
@@ -4432,6 +4553,20 @@ metadata:
         user_rating: 7.4
         label: score
     audience_rating: 7.3
+  436899:
+    title: |-
+      Yubisaki to Renren
+    sort_title: |-
+      Yubisaki to Renren
+    original_title: |-
+      ゆびさきと恋々
+    genre.sync: Anime,Romance,Slice of Life,Shoujo,Disability,Language Barrier,College,Female Protagonist,Heterosexual
+    label: Airing
+    label.remove: Planned,Ended
+    studio: Ajiado
+    seasons:
+      1:
+        label.remove: score
   412696:
     title: |-
       Skip to Loafer
@@ -4462,6 +4597,20 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.1
+  389597:
+    title: |-
+      Ore dake Level Up na Ken
+    sort_title: |-
+      Ore dake Level Up na Ken
+    original_title: |-
+      俺だけレベルアップな件
+    genre.sync: Anime,Action,Adventure,Fantasy,Male Protagonist,Dungeon,Urban Fantasy,Necromancy,Magic,Cultivation,War,Anti-Hero,Tragedy
+    label: Airing
+    label.remove: Planned,Ended
+    studio: A-1 Pictures
+    seasons:
+      1:
+        label.remove: score
   401233:
     title: |-
       Sono Bisque Doll wa Koi wo Suru
