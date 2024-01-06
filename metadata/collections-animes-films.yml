@@ -98,7 +98,7 @@ collections:
   Bungo Stray Dogs:
     plex_search:
       all:
-        title.begins: Bungo Stray Dogs
+        title.begins: Bungo Stray
       sort_by: release.asc
     sort_title: |-
       Bungo Stray Dogs
@@ -161,7 +161,7 @@ collections:
   Evangelion:
     plex_search:
       all:
-        title.contains: Evangelion Movie
+        title: Evangelion Movie
       sort_by: release.asc
     sort_title: |-
       Evangelion
@@ -174,7 +174,7 @@ collections:
   Final Fantasy:
     plex_search:
       all:
-        title.contains: Final Fantasy
+        title: Final Fantasy
       sort_by: release.asc
     sort_title: |-
       Final Fantasy
