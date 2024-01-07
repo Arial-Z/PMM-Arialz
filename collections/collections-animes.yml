@@ -10,7 +10,7 @@ collections:
     visible_library: false
     visible_home: false
     visible_shared: false
-    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_background.jpg
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_background.jpg
 
   Ongoing à voir:
     collection_filtering: user
@@ -25,8 +25,8 @@ collections:
     visible_library: true
     visible_home: true
     visible_shared: true
-    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_ongoing.jpg
-    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_background.jpg
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_ongoing.jpg
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_background.jpg
 
   Ended à voir:
     collection_filtering: user
@@ -41,8 +41,8 @@ collections:
     visible_library: true
     visible_home: true
     visible_shared: true
-    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_ended.jpg
-    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_background.jpg
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_ended.jpg
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_background.jpg
 
   Shounen:
     smart_filter:
@@ -55,8 +55,8 @@ collections:
     visible_library: false
     visible_home: false
     visible_shared: false
-    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/Shounen.jpg
-    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_background.jpg
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Shounen.jpg
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_background.jpg
 
   Seinen:
     smart_filter:
@@ -69,8 +69,8 @@ collections:
     visible_library: false
     visible_home: false
     visible_shared: false
-    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/Seinen.jpg
-    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_background.jpg
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Seinen.jpg
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_background.jpg
 
   Shoujo:
     smart_filter:
@@ -83,8 +83,8 @@ collections:
     visible_library: false
     visible_home: false
     visible_shared: false
-    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/Shoujo.jpg
-    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_background.jpg
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Shoujo.jpg
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_background.jpg
 
   Josei:
     smart_filter:
@@ -97,5 +97,5 @@ collections:
     visible_library: false
     visible_home: false
     visible_shared: false
-    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/Josei.jpg
-    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_background.jpg
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Josei.jpg
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_background.jpg

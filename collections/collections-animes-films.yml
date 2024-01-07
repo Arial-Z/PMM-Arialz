@@ -24,8 +24,8 @@ collections:
     visible_library: false
     visible_home: false
     visible_shared: false
-    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/Studio_Ghibli.png
-    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/Studio_Ghibli_background.jpg
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Studio_Ghibli.png
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Studio_Ghibli_background.jpg
 
   Shounen:
     smart_filter:
@@ -38,8 +38,8 @@ collections:
     visible_library: false
     visible_home: false
     visible_shared: false
-    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/Shounen.jpg
-    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_background.jpg
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Shounen.jpg
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_background.jpg
 
   Seinen:
     smart_filter:
@@ -52,8 +52,8 @@ collections:
     visible_library: false
     visible_home: false
     visible_shared: false
-    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/Seinen.jpg
-    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_background.jpg
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Seinen.jpg
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_background.jpg
 
   Shoujo:
     smart_filter:
@@ -66,8 +66,8 @@ collections:
     visible_library: false
     visible_home: false
     visible_shared: false
-    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/Shoujo.jpg
-    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_background.jpg
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Shoujo.jpg
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_background.jpg
 
   Josei:
     smart_filter:
@@ -80,8 +80,8 @@ collections:
     visible_library: false
     visible_home: false
     visible_shared: false
-    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/Josei.png
-    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/animes_background.jpg
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Josei.png
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_background.jpg
 
   Ao no Exorcist:
     plex_search:
@@ -118,7 +118,7 @@ collections:
     visible_library: true
     visible_home: false
     visible_shared: false
-    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/Boku_no_Hero_Academia.jpg
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Boku_no_Hero_Academia.jpg
 
   Chuunibyou demo Koi ga Shitai!:
     plex_search:
@@ -143,8 +143,8 @@ collections:
     visible_library: true
     visible_home: false
     visible_shared: false
-    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/Code_Geass.jpg
-    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/Code_Geass_background.jpg
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Code_Geass.jpg
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Code_Geass_background.jpg
 
   Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka:
     plex_search:
@@ -169,7 +169,7 @@ collections:
     visible_library: true
     visible_home: false
     visible_shared: false
-    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/metadata/Images/Evangelion.jpg
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Evangelion.jpg
 
   Final Fantasy:
     plex_search:
@@ -182,3 +182,44 @@ collections:
     visible_library: true
     visible_home: false
     visible_shared: false
+
+  Seishun Buta Yarou wa:
+    plex_search:
+      all:
+        title: Seishun Buta Yarou wa
+      sort_by: release.asc
+    sort_title: |-
+      Seishun Buta Yarou wa
+    collection_mode: hide_items
+    visible_library: true
+    visible_home: false
+    visible_shared: false
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Seishun_Buta_Yarou_wa.jpg
+
+  Sword Art Online:
+    plex_search:
+      all:
+        title.begins: Sword Art Online
+      sort_by: release.asc
+    sort_title: |-
+      Sword Art Online
+    collection_mode: hide_items
+    visible_library: true
+    visible_home: false
+    visible_shared: false
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Sword_Art_Online.jpg
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Sword_Art_Online_background.jpg
+
+  Violet Evergarden:
+    plex_search:
+      all:
+        title.begins: Violet Evergarden
+      sort_by: release.asc
+    sort_title: |-
+      Violet Evergarden
+    collection_mode: hide_items
+    visible_library: true
+    visible_home: false
+    visible_shared: false
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Violet_Evergarden.jpg
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Violet_Evergarden_background.jpg
