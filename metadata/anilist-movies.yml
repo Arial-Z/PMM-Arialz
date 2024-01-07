@@ -96,7 +96,7 @@ metadata:
       Bubble
     original_title: |-
       バブル
-    genre.sync: Anime,Romance,Sci-Fi,Sports,Supernatural,Parkour,Post-Apocalyptic,Male Protagonist,Urban Fantasy,Tragedy,Dystopian,Female Protagonist,Urban,Heterosexual,Cosmic Horror,Primarily Teen Cast,Aliens
+    genre.sync: Anime,Romance,Sci-Fi,Sports,Supernatural,Parkour,Post-Apocalyptic,Male Protagonist,Urban Fantasy,Tragedy,Dystopian,Female Protagonist,Urban,Cosmic Horror,Primarily Teen Cast,Heterosexual,Aliens
     studio: Wit Studio
     audience_rating: 7.1
   tt8391976:
@@ -136,7 +136,7 @@ metadata:
       Cider no You ni Kotoba ga Wakiagaru
     original_title: |-
       サイダーのように言葉が湧き上がる
-    genre.sync: Anime,Romance,Slice of Life,Coming of Age,Primarily Teen Cast,Heterosexual,Calligraphy
+    genre.sync: Anime,Romance,Slice of Life,Coming of Age,Primarily Teen Cast,Heterosexual
     studio: Signal.MD
     audience_rating: 7.4
   tt6344664:
@@ -216,7 +216,7 @@ metadata:
       Evangelion Shin Movie: Ha
     original_title: |-
       ヱヴァンゲリヲン新劇場版:破
-    genre.sync: Anime,Action,Drama,Mecha,Psychological,Sci-Fi,Kaiju,Super Robot,Military,Real Robot,Denpa,Meta,Post-Apocalyptic,Cosmic Horror,CGI,Male Protagonist,Aliens
+    genre.sync: Anime,Action,Drama,Mecha,Psychological,Sci-Fi,Kaiju,Super Robot,Military,Denpa,Meta,Real Robot,Post-Apocalyptic,Cosmic Horror,Aliens,Male Protagonist,CGI,Coming of Age
     studio: Gainax
     audience_rating: 8.1
   tt0923811:
@@ -308,7 +308,7 @@ metadata:
       GHOST IN THE SHELL / 攻殻機動隊2.0
     genre.sync: Anime,Action,Mecha,Psychological,Sci-Fi,Military,Cyberpunk,Cyborg
     studio: Production I.G
-    audience_rating: 7.6
+    audience_rating: 7.5
   tt2374144:
     title: |-
       Gintama: Kanketsu-hen - Yorozuya yo Eien Nare
@@ -856,7 +856,7 @@ metadata:
       Mononoke-hime
     original_title: |-
       もののけ姫
-    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Environmental,Mythology,Animals,War,Gods,Philosophy,Youkai,Rural,Demons,Female Protagonist,Revenge,Guns,Disability
+    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Environmental,Mythology,Animals,War,Gods,Philosophy,Rural,Youkai,Demons,Female Protagonist,Revenge,Historical,Guns,Disability
     studio: Studio Ghibli
     audience_rating: 8.4
   tt9089294:
@@ -1066,7 +1066,7 @@ metadata:
       Shin Evangelion Movie:||
     original_title: |-
       シン・エヴァンゲリオン劇場版:||
-    genre.sync: Anime,Action,Drama,Mecha,Psychological,Sci-Fi,Rehabilitation,Post-Apocalyptic,Coming of Age,Meta,Alternate Universe,Gods,Robots,Philosophy,Time Skip,Cosmic Horror,Denpa,Time Manipulation,Male Protagonist,Super Robot,Clone,Kaiju,CGI
+    genre.sync: Anime,Action,Drama,Mecha,Psychological,Sci-Fi,Rehabilitation,Coming of Age,Post-Apocalyptic,Alternate Universe,Meta,Gods,Robots,Philosophy,Time Skip,Denpa,Cosmic Horror,Time Manipulation,Super Robot,Male Protagonist,Ships,Kaiju,Space,CGI,Clone
     studio: Studio Khara
     audience_rating: 8.5
   tt8346438:
@@ -1116,9 +1116,19 @@ metadata:
       Suzume no Tojimari
     original_title: |-
       すずめの戸締まり
-    genre.sync: Anime,Adventure,Fantasy,Mystery,Supernatural,Urban Fantasy,Female Protagonist,Travel,Coming of Age,Shapeshifting,Magic,Orphan,Environmental,Family Life,Found Family,Gods,Age Gap
+    genre.sync: Anime,Adventure,Fantasy,Mystery,Supernatural,Urban Fantasy,Female Protagonist,Travel,Coming of Age,Orphan,Shapeshifting,Magic,Family Life,Environmental,Found Family,Gods,Age Gap
     studio: CoMix Wave
     audience_rating: 8.3
+  tt15830702:
+    title: |-
+      Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo
+    sort_title: |-
+      Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo
+    original_title: |-
+      劇場版 ソードアート・オンライン プログレッシブ 冥き夕闇のスケルツォ
+    genre.sync: Anime,Action,Adventure,Fantasy,Romance,Virtual World,Isekai,Death Game,Female Protagonist,Swordplay
+    studio: A-1 Pictures
+    audience_rating: 7.7
   tt5544384:
     title: |-
       Sword Art Online: Ordinal Scale
