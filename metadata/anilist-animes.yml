@@ -138,6 +138,20 @@ metadata:
         user_rating: 8.9
         label: score
     audience_rating: 8.6
+  435005:
+    title: |-
+      Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru
+    sort_title: |-
+      Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru
+    original_title: |-
+      ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する
+    genre.sync: Anime,Fantasy,Romance,Time Manipulation,Reincarnation,Shoujo,Female Protagonist,Villainess,Ojou-sama
+    label: Airing
+    label.remove: Planned,Ended
+    studio: HORNETS
+    seasons:
+      1:
+        label.remove: score
   378609:
     title: |-
       86: Eighty Six
@@ -270,9 +284,9 @@ metadata:
       3:
         title: |-
           Ao no Exorcist: Shimane Illuminati-hen
-        user_rating: 71.0
+        user_rating: 7.1
         label: score
-    audience_rating: 28.5
+    audience_rating: 7.2
   407840:
     title: |-
       Aoashi
@@ -417,6 +431,29 @@ metadata:
         user_rating: 8.3
         label: score
     audience_rating: 8.1
+  400573:
+    title: |-
+      Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita
+    sort_title: |-
+      Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita
+    original_title: |-
+      真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました
+    genre.sync: Anime,Action,Adventure,Fantasy,Romance,Slice of Life,Magic,Heterosexual,Medicine
+    label: Airing
+    label.remove: Planned,Ended
+    studio: WolfsBane
+    seasons:
+      1:
+        title: |-
+          Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita
+        user_rating: 6.8
+        label: score
+      2:
+        title: |-
+          Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd
+        user_rating: 0.0
+        label: score
+    audience_rating: 6.8
   281270:
     title: |-
       Barakamon
@@ -3207,9 +3244,9 @@ metadata:
       2:
         title: |-
           MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen
-        user_rating: 77.0
+        user_rating: 7.7
         label: score
-    audience_rating: 42.2
+    audience_rating: 7.6
   412656:
     title: |-
       Mato Seihei no Slave
@@ -3487,6 +3524,21 @@ metadata:
         user_rating: 8.0
         label: score
     audience_rating: 7.9
+  419112:
+    title: |-
+      Nozomanu Fushi no Boukensha
+    sort_title: |-
+      Nozomanu Fushi no Boukensha
+    original_title: |-
+      望まぬ不死の冒険者
+    genre.sync: Anime,Action,Adventure,Fantasy
+    label: Airing
+    label.remove: Planned,Ended
+    studio: CONNECT
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 6.6
   423096:
     title: |-
       Okashi na Tensei
@@ -3593,7 +3645,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 82.0
+    audience_rating: 8.2
   412826:
     title: |-
       Otomege Sekai wa Mob ni Kibishii Sekai desu
@@ -5263,21 +5315,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.7
-  419112:
-    title: |-
-      Nozomanu Fushi no Boukensha
-    sort_title: |-
-      Nozomanu Fushi no Boukensha
-    original_title: |-
-      望まぬ不死の冒険者
-    genre.sync: Anime,Action,Adventure,Fantasy
-    label: Airing
-    label.remove: Planned,Ended
-    studio: CONNECT
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 6.6
   249872:
     title: |-
       Usagi Drop
@@ -5631,14 +5668,14 @@ metadata:
       Yubisaki to Renren
     original_title: |-
       ゆびさきと恋々
-    genre.sync: Anime,Romance,Slice of Life,Shoujo,Disability,Language Barrier,College,Female Protagonist,Heterosexual
+    genre.sync: Anime,Romance,Slice of Life,Shoujo,Disability,Language Barrier,Female Protagonist,College,Heterosexual
     label: Airing
     label.remove: Planned,Ended
     studio: Ajiado
     seasons:
       1:
         label.remove: score
-    audience_rating: 79.0
+    audience_rating: 7.9
   330692:
     title: |-
       Yuru Camp△
