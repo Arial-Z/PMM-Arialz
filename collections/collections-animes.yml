@@ -127,3 +127,17 @@ collections:
     visible_shared: false
     url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Psycho-Pass.jpg
     url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Psycho-Pass_background.jpg
+
+  Seitokai Yakuindomo:
+    plex_search:
+      all:
+        title.begins: Seitokai Yakuindomo
+      sort_by: release.asc
+    sort_title: |-
+      Seitokai Yakuindomo
+    collection_mode: hide_items
+    visible_library: true
+    visible_home: false
+    visible_shared: false
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Seitokai_Yakuindomo.jpg
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Seitokai_Yakuindomo_background.jpg
