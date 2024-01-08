@@ -1130,6 +1130,20 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.9
+  426410:
+    title: |-
+      Dosanko Gal wa Namaramenkoi
+    sort_title: |-
+      Dosanko Gal wa Namaramenkoi
+    original_title: |-
+      道産子ギャルはなまらめんこい
+    genre.sync: Anime,Comedy,Romance,Slice of Life,Gyaru,Male Protagonist,Female Protagonist,Love Triangle,Teens' Love,Kuudere,Female Harem,Nudity,School,Heterosexual,Rural
+    label: Airing
+    label.remove: Planned,Ended
+    studio: BLADE
+    seasons:
+      1:
+        label.remove: score
   355774:
     title: |-
       Dr. STONE
@@ -1699,12 +1713,20 @@ metadata:
     original_title: |-
       HIGH CARD
     genre.sync: Anime,Action,Fantasy,Super Power,Urban Fantasy,Card Battle,Male Protagonist,Primarily Adult Cast,Foreign,Cars
-    label: Planned
-    label.remove: Airing,Ended
+    label: Airing
+    label.remove: Planned,Ended
     studio: TMS Entertainment
     seasons:
       1:
-        label.remove: score
+        title: |-
+          High Card
+        user_rating: 7.0
+        label: score
+      2:
+        title: |-
+          HIGH CARD season 2
+        user_rating: 0.0
+        label: score
     audience_rating: 7.0
   306743:
     title: |-
@@ -2911,14 +2933,14 @@ metadata:
       Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru
     original_title: |-
       ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する
-    genre.sync: Anime,Fantasy,Romance,Time Manipulation,Reincarnation,Shoujo,Female Protagonist,Villainess,Ojou-sama
+    genre.sync: Anime,Fantasy,Romance,Time Manipulation,Reincarnation,Shoujo,Female Protagonist,Ojou-sama
     label: Airing
     label.remove: Planned,Ended
     studio: HORNETS
     seasons:
       1:
         label.remove: score
-    audience_rating: 71.0
+    audience_rating: 7.1
   418340:
     title: |-
       Lv1 Maou to One Room Yuusha
@@ -3841,6 +3863,20 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.2
+  436603:
+    title: |-
+      Hime-sama, "Goumon" no Jikan desu
+    sort_title: |-
+      Hime-sama, "Goumon" no Jikan desu
+    original_title: |-
+      姫様“拷問”の時間です
+    genre.sync: Anime,Comedy,Fantasy,Food,Female Protagonist
+    label: Airing
+    label.remove: Planned,Ended
+    studio: PINE JAM
+    seasons:
+      1:
+        label.remove: score
   262090:
     title: |-
       Psycho-pass
@@ -4417,9 +4453,9 @@ metadata:
       2:
         title: |-
           Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd
-        user_rating: 69.0
+        user_rating: 6.9
         label: score
-    audience_rating: 37.9
+    audience_rating: 6.8
   267440:
     title: |-
       Shingeki no Kyojin
@@ -5191,6 +5227,29 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.9
+  390832:
+    title: |-
+      Tsuki ga Michibiku Isekai Douchuu
+    sort_title: |-
+      Tsuki ga Michibiku Isekai Douchuu
+    original_title: |-
+      月が導く異世界道中
+    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Isekai,Magic,Male Protagonist,Monster Girl,Meta,Female Harem
+    label: Airing
+    label.remove: Planned,Ended
+    studio: C2C
+    seasons:
+      1:
+        title: |-
+          Tsuki ga Michibiku Isekai Douchuu
+        user_rating: 7.6
+        label: score
+      2:
+        title: |-
+          Tsuki ga Michibiku Isekai Douchuu 2nd Season
+        user_rating: 0.0
+        label: score
+    audience_rating: 7.6
   422405:
     title: |-
       Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san
