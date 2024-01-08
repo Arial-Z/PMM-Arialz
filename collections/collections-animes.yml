@@ -99,3 +99,17 @@ collections:
     visible_shared: false
     url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Josei.jpg
     url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_background.jpg
+
+  KonoSuba:
+    plex_search:
+      all:
+        title.begins: Kono Subarashii Sekai ni
+      sort_by: release.asc
+    sort_title: |-
+      KonoSuba
+    collection_mode: hide_items
+    visible_library: true
+    visible_home: false
+    visible_shared: false
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/KonoSuba.jpg
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/KonoSuba_background.jpg
