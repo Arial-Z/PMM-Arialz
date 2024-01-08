@@ -113,3 +113,17 @@ collections:
     visible_shared: false
     url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/KonoSuba.jpg
     url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/KonoSuba_background.jpg
+
+  Psycho-Pass:
+    plex_search:
+      all:
+        title.begins: Psycho-Pass
+      sort_by: release.asc
+    sort_title: |-
+      Psycho-Pass
+    collection_mode: hide_items
+    visible_library: true
+    visible_home: false
+    visible_shared: false
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Psycho-Pass.jpg
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Psycho-Pass_background.jpg
