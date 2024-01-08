@@ -138,20 +138,6 @@ metadata:
         user_rating: 8.9
         label: score
     audience_rating: 8.6
-  435005:
-    title: |-
-      Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru
-    sort_title: |-
-      Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru
-    original_title: |-
-      ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する
-    genre.sync: Anime,Fantasy,Romance,Time Manipulation,Reincarnation,Shoujo,Female Protagonist,Villainess,Ojou-sama
-    label: Airing
-    label.remove: Planned,Ended
-    studio: HORNETS
-    seasons:
-      1:
-        label.remove: score
   378609:
     title: |-
       86: Eighty Six
@@ -431,29 +417,6 @@ metadata:
         user_rating: 8.3
         label: score
     audience_rating: 8.1
-  400573:
-    title: |-
-      Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita
-    sort_title: |-
-      Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita
-    original_title: |-
-      真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました
-    genre.sync: Anime,Action,Adventure,Fantasy,Romance,Slice of Life,Magic,Heterosexual,Medicine
-    label: Airing
-    label.remove: Planned,Ended
-    studio: WolfsBane
-    seasons:
-      1:
-        title: |-
-          Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita
-        user_rating: 6.8
-        label: score
-      2:
-        title: |-
-          Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd
-        user_rating: 0.0
-        label: score
-    audience_rating: 6.8
   281270:
     title: |-
       Barakamon
@@ -2941,6 +2904,21 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.2
+  435005:
+    title: |-
+      Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru
+    sort_title: |-
+      Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru
+    original_title: |-
+      ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する
+    genre.sync: Anime,Fantasy,Romance,Time Manipulation,Reincarnation,Shoujo,Female Protagonist,Villainess,Ojou-sama
+    label: Airing
+    label.remove: Planned,Ended
+    studio: HORNETS
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 71.0
   418340:
     title: |-
       Lv1 Maou to One Room Yuusha
@@ -4419,6 +4397,29 @@ metadata:
         user_rating: 8.6
         label: score
     audience_rating: 8.6
+  400573:
+    title: |-
+      Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita
+    sort_title: |-
+      Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita
+    original_title: |-
+      真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました
+    genre.sync: Anime,Action,Adventure,Fantasy,Romance,Slice of Life,Magic,Heterosexual,Medicine
+    label: Airing
+    label.remove: Planned,Ended
+    studio: WolfsBane
+    seasons:
+      1:
+        title: |-
+          Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita
+        user_rating: 6.8
+        label: score
+      2:
+        title: |-
+          Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd
+        user_rating: 69.0
+        label: score
+    audience_rating: 37.9
   267440:
     title: |-
       Shingeki no Kyojin
