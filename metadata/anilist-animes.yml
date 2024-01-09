@@ -1144,6 +1144,7 @@ metadata:
     seasons:
       1:
         label.remove: score
+    audience_rating: 69.0
   355774:
     title: |-
       Dr. STONE
@@ -1725,9 +1726,9 @@ metadata:
       2:
         title: |-
           HIGH CARD season 2
-        user_rating: 0.0
+        user_rating: 67.0
         label: score
-    audience_rating: 7.0
+    audience_rating: 37.0
   306743:
     title: |-
       High School Fleet
@@ -1775,6 +1776,21 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.0
+  436603:
+    title: |-
+      Hime-sama, "Goumon" no Jikan desu
+    sort_title: |-
+      Hime-sama, "Goumon" no Jikan desu
+    original_title: |-
+      姫様“拷問”の時間です
+    genre.sync: Anime,Comedy,Fantasy,Food,Female Protagonist
+    label: Airing
+    label.remove: Planned,Ended
+    studio: PINE JAM
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 66.0
   293121:
     title: |-
       Himouto! Umaru-chan
@@ -3863,20 +3879,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.2
-  436603:
-    title: |-
-      Hime-sama, "Goumon" no Jikan desu
-    sort_title: |-
-      Hime-sama, "Goumon" no Jikan desu
-    original_title: |-
-      姫様“拷問”の時間です
-    genre.sync: Anime,Comedy,Fantasy,Food,Female Protagonist
-    label: Airing
-    label.remove: Planned,Ended
-    studio: PINE JAM
-    seasons:
-      1:
-        label.remove: score
   262090:
     title: |-
       Psycho-pass
@@ -5247,9 +5249,9 @@ metadata:
       2:
         title: |-
           Tsuki ga Michibiku Isekai Douchuu 2nd Season
-        user_rating: 0.0
+        user_rating: 76.0
         label: score
-    audience_rating: 7.6
+    audience_rating: 41.8
   422405:
     title: |-
       Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san
