@@ -212,6 +212,7 @@ metadata:
     seasons:
       1:
         label.remove: score
+    audience_rating: 68.0
   411821:
     title: |-
       Akuyaku Reijou nano de Last Boss wo Kattemimashita
@@ -1307,21 +1308,6 @@ metadata:
         user_rating: 7.8
         label: score
     audience_rating: 7.7
-  418367:
-    title: |-
-      Isekai Nonbiri Nouka
-    sort_title: |-
-      Isekai Nonbiri Nouka
-    original_title: |-
-      異世界のんびり農家
-    genre.sync: Anime,Fantasy,Slice of Life,Agriculture,Male Protagonist,Isekai,Iyashikei,Female Harem,Magic,Found Family,Reincarnation,Heterosexual,Primarily Female Cast,Monster Girl
-    label: Ended
-    label.remove: Planned,Airing
-    studio: Zero-G
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 7.5
   278626:
     title: |-
       Fate/stay night: Unlimited Blade Works
@@ -1975,6 +1961,21 @@ metadata:
         user_rating: 7.4
         label: score
     audience_rating: 7.2
+  79520:
+    title: |-
+      Ima, Soko ni Iru Boku
+    sort_title: |-
+      Ima, Soko ni Iru Boku
+    original_title: |-
+      今、そこにいる僕
+    genre.sync: Anime,Adventure,Drama,Fantasy,Sci-Fi,Tragedy,Dystopian,War,Slavery,Survival,Fugitive,Primarily Child Cast,Post-Apocalyptic,Military,Coming of Age,Isekai,Desert,Philosophy,Male Protagonist,Guns
+    label: Ended
+    label.remove: Planned,Airing
+    studio: AIC
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 7.2
   255133:
     title: |-
       Inu x Boku SS
@@ -2037,6 +2038,21 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.6
+  418367:
+    title: |-
+      Isekai Nonbiri Nouka
+    sort_title: |-
+      Isekai Nonbiri Nouka
+    original_title: |-
+      異世界のんびり農家
+    genre.sync: Anime,Fantasy,Slice of Life,Agriculture,Male Protagonist,Isekai,Iyashikei,Female Harem,Magic,Found Family,Reincarnation,Heterosexual,Primarily Female Cast,Monster Girl
+    label: Ended
+    label.remove: Planned,Airing
+    studio: Zero-G
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 7.5
   405214:
     title: |-
       Isekai Oji-san
@@ -2971,21 +2987,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.4
-  79520:
-    title: |-
-      Ima, Soko ni Iru Boku
-    sort_title: |-
-      Ima, Soko ni Iru Boku
-    original_title: |-
-      今、そこにいる僕
-    genre.sync: Anime,Adventure,Drama,Fantasy,Sci-Fi,Tragedy,Dystopian,War,Slavery,Survival,Fugitive,Primarily Child Cast,Post-Apocalyptic,Military,Coming of Age,Isekai,Desert,Philosophy,Male Protagonist,Guns
-    label: Ended
-    label.remove: Planned,Airing
-    studio: AIC
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 7.2
   419854:
     title: |-
       Level 1 dakedo Unique Skill de Saikyou desu
