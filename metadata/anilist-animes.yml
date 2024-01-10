@@ -212,7 +212,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 68.0
+    audience_rating: 6.8
   411821:
     title: |-
       Akuyaku Reijou nano de Last Boss wo Kattemimashita
@@ -794,7 +794,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 7.0
+    audience_rating: 7.2
   261862:
     title: |-
       Chuunibyou demo Koi ga Shitai!
@@ -3070,6 +3070,21 @@ metadata:
         user_rating: 7.8
         label: score
     audience_rating: 7.7
+  81086:
+    title: |-
+      Macross Frontier
+    sort_title: |-
+      Macross Frontier
+    original_title: |-
+      マクロスF
+    genre.sync: Anime,Action,Mecha,Music,Romance,Sci-Fi,Space Opera,Love Triangle,Idol,Military,Real Robot,Space,Aliens,Anti-Hero,Amnesia
+    label: Ended
+    label.remove: Planned,Airing
+    studio: Satelight
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 7.6
   326109:
     title: |-
       Made in Abyss
@@ -3338,6 +3353,20 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.7
+  432747:
+    title: |-
+      Metallic Rouge
+    sort_title: |-
+      Metallic Rouge
+    original_title: |-
+      メタリックルージュ
+    genre.sync: Anime,Action,Mecha,Sci-Fi,Henshin,Female Protagonist,Super Power,Tanned Skin,Tokusatsu,Artificial Intelligence
+    label: Airing
+    label.remove: Planned,Ended
+    studio: bones
+    seasons:
+      1:
+        label.remove: score
   307375:
     title: |-
       Mob Psycho 100
@@ -3373,14 +3402,14 @@ metadata:
       Momochi-san Chi no Ayakashi Ouji
     original_title: |-
       百千さん家のあやかし王子
-    genre.sync: Anime,Romance,Supernatural,Shoujo,Youkai,Male Harem,Primarily Male Cast
+    genre.sync: Anime,Romance,Supernatural,Shoujo,Youkai,Female Protagonist,Male Harem,Primarily Male Cast
     label: Airing
     label.remove: Planned,Ended
     studio: Drive
     seasons:
       1:
         label.remove: score
-    audience_rating: 5.9
+    audience_rating: 6.0
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -3614,7 +3643,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.6
+    audience_rating: 6.7
   423096:
     title: |-
       Okashi na Tensei
@@ -4279,19 +4308,19 @@ metadata:
     audience_rating: 7.0
   422728:
     title: |-
-      Sasaki to Pi-chan
+      Sasaki to Pii-chan
     sort_title: |-
-      Sasaki to Pi-chan
+      Sasaki to Pii-chan
     original_title: |-
       佐々木とピーちゃん
-    genre.sync: Anime,Comedy,Fantasy,Mahou Shoujo,Isekai
+    genre.sync: Anime,Comedy,Fantasy,Mahou Shoujo,Isekai,Animals,Urban Fantasy
     label: Airing
     label.remove: Planned,Ended
     studio: SILVER LINK.
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.8
+    audience_rating: 7.1
   425756:
     title: |-
       Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
