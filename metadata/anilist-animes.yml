@@ -1167,7 +1167,7 @@ metadata:
       Dosanko Gal wa Namaramenkoi
     original_title: |-
       道産子ギャルはなまらめんこい
-    genre.sync: Anime,Comedy,Romance,Slice of Life,Gyaru,Male Protagonist,Female Protagonist,Love Triangle,Teens' Love,Kuudere,Nudity,Female Harem,School,Heterosexual,Rural
+    genre.sync: Anime,Comedy,Romance,Slice of Life,Gyaru,Male Protagonist,Female Protagonist,Rural,Love Triangle,Teens' Love,Kuudere,Nudity,Female Harem,School,Heterosexual
     label: Airing
     label.remove: Planned,Ended
     studio: BLADE
@@ -1771,9 +1771,9 @@ metadata:
       2:
         title: |-
           HIGH CARD season 2
-        user_rating: 6.7
+        user_rating: 6.8
         label: score
-    audience_rating: 6.8
+    audience_rating: 6.9
   306743:
     title: |-
       High School Fleet
@@ -1828,7 +1828,7 @@ metadata:
       Hime-sama, "Goumon" no Jikan desu
     original_title: |-
       姫様“拷問”の時間です
-    genre.sync: Anime,Comedy,Fantasy,Food,Female Protagonist
+    genre.sync: Anime,Comedy,Fantasy,Food,Female Protagonist,Cute Girls Doing Cute Things,Monster Girl,Slapstick,Surreal Comedy,Demons
     label: Airing
     label.remove: Planned,Ended
     studio: PINE JAM
@@ -2679,8 +2679,8 @@ metadata:
     original_title: |-
       キングダム
     genre.sync: Anime,Action,Drama,Historical,War,Military,CGI,Foreign,Primarily Male Cast,Swordplay,Politics,Male Protagonist,Seinen
-    label: Planned
-    label.remove: Airing,Ended
+    label: Airing
+    label.remove: Planned,Ended
     studio: Studio Pierrot
     seasons:
       1:
@@ -2702,6 +2702,11 @@ metadata:
         title: |-
           Kingdom 4th Season
         user_rating: 8.4
+        label: score
+      5:
+        title: |-
+          Kingdom 5th Season
+        user_rating: 0.0
         label: score
     audience_rating: 8.1
   279831:
@@ -4309,7 +4314,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 67.0
+    audience_rating: 6.7
   313435:
     title: |-
       Saiki Kusuo no Ψ-nan
