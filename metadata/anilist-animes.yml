@@ -4295,6 +4295,21 @@ metadata:
         user_rating: 7.2
         label: score
     audience_rating: 6.9
+  427066:
+    title: |-
+      Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.
+    sort_title: |-
+      Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.
+    original_title: |-
+      最弱テイマーはゴミ拾いの旅を始めました。
+    genre.sync: Anime,Adventure,Fantasy,Isekai,Reincarnation,Female Protagonist,Homeless,Magic,Travel
+    label: Airing
+    label.remove: Planned,Ended
+    studio: Studio Massket
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 67.0
   313435:
     title: |-
       Saiki Kusuo no Ψ-nan
@@ -5416,7 +5431,7 @@ metadata:
       Tsuki ga Michibiku Isekai Douchuu
     original_title: |-
       月が導く異世界道中
-    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Isekai,Magic,Male Protagonist,Monster Girl,Meta,Female Harem
+    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Isekai,Magic,Male Protagonist,Monster Girl,Meta,Female Harem,Anthropomorphism
     label: Airing
     label.remove: Planned,Ended
     studio: C2C
@@ -5697,20 +5712,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.8
-  427066:
-    title: |-
-      Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.
-    sort_title: |-
-      Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.
-    original_title: |-
-      最弱テイマーはゴミ拾いの旅を始めました。
-    genre.sync: Anime,Adventure,Fantasy,Isekai,Reincarnation,Female Protagonist,Homeless,Magic,Travel
-    label: Airing
-    label.remove: Planned,Ended
-    studio: Studio Massket
-    seasons:
-      1:
-        label.remove: score
   145211:
     title: |-
       Working!!
