@@ -675,6 +675,21 @@ metadata:
       1:
         label.remove: score
     audience_rating: 8.0
+  427359:
+    title: |-
+      Bullbuster
+    sort_title: |-
+      Bullbuster
+    original_title: |-
+      ブルバスター
+    genre.sync: Anime,Mecha,Work,Primarily Adult Cast,Real Robot
+    label: Ended
+    label.remove: Planned,Airing
+    studio: NUT
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 5.6
   305075:
     title: |-
       Bungou Stray Dogs
@@ -1100,6 +1115,18 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.4
+  72454:
+    title: |-
+      Meitantei Conan
+    sort_title: |-
+      Meitantei Conan
+    original_title: |-
+      名探偵コナン
+    genre.sync: Anime,Adventure,Comedy,Mystery,Psychological,Detective,Espionage,Tragedy,Crime,Age Regression,Conspiracy,Police,Male Protagonist,Fugitive,Ensemble Cast,Episodic,Primarily Teen Cast,Heterosexual,Shounen,Primarily Adult Cast,School
+    label: Airing
+    label.remove: Planned,Ended
+    studio: TMS Entertainment
+    audience_rating: 8.1
   273005:
     title: |-
       Diamond no Ace
@@ -1799,12 +1826,20 @@ metadata:
     original_title: |-
       火狩りの王
     genre.sync: Anime,Action,Adventure,Drama,Fantasy,Mystery,Female Protagonist,Post-Apocalyptic,Animals,Steampunk,Rural
-    label: Planned
-    label.remove: Airing,Ended
+    label: Airing
+    label.remove: Planned,Ended
     studio: Signal.MD
     seasons:
       1:
-        label.remove: score
+        title: |-
+          Hikari no Ou
+        user_rating: 6.1
+        label: score
+      2:
+        title: |-
+          Hikari no Ou 2nd Season
+        user_rating: 0.0
+        label: score
     audience_rating: 6.1
   429263:
     title: |-
@@ -2706,9 +2741,9 @@ metadata:
       5:
         title: |-
           Kingdom 5th Season
-        user_rating: 71.0
+        user_rating: 7.1
         label: score
-    audience_rating: 20.6
+    audience_rating: 7.9
   279831:
     title: |-
       Kiseijuu: Sei no Kakuritsu
@@ -3476,6 +3511,21 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.0
+  431499:
+    title: |-
+      Kyuujitsu no Warumono-san
+    sort_title: |-
+      Kyuujitsu no Warumono-san
+    original_title: |-
+      休日のわるものさん
+    genre.sync: Anime,Comedy,Slice of Life,Male Protagonist,Primarily Adult Cast,Urban,Shoujo,Iyashikei
+    label: Airing
+    label.remove: Planned,Ended
+    studio: Shin-Ei Animation
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 6.7
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
