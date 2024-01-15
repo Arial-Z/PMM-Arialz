@@ -824,7 +824,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 7.2
+    audience_rating: 7.3
   261862:
     title: |-
       Chuunibyou demo Koi ga Shitai!
@@ -1115,18 +1115,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.4
-  72454:
-    title: |-
-      Meitantei Conan
-    sort_title: |-
-      Meitantei Conan
-    original_title: |-
-      名探偵コナン
-    genre.sync: Anime,Adventure,Comedy,Mystery,Psychological,Detective,Espionage,Tragedy,Crime,Age Regression,Conspiracy,Police,Male Protagonist,Fugitive,Ensemble Cast,Episodic,Primarily Teen Cast,Heterosexual,Shounen,Primarily Adult Cast,School
-    label: Airing
-    label.remove: Planned,Ended
-    studio: TMS Entertainment
-    audience_rating: 8.1
   273005:
     title: |-
       Diamond no Ace
@@ -1838,9 +1826,9 @@ metadata:
       2:
         title: |-
           Hikari no Ou 2nd Season
-        user_rating: 0.0
+        user_rating: 56.0
         label: score
-    audience_rating: 6.1
+    audience_rating: 31.0
   429263:
     title: |-
       Hikikomari Kyuuketsuki no Monmon
@@ -3057,6 +3045,21 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.4
+  431499:
+    title: |-
+      Kyuujitsu no Warumono-san
+    sort_title: |-
+      Kyuujitsu no Warumono-san
+    original_title: |-
+      休日のわるものさん
+    genre.sync: Anime,Comedy,Slice of Life,Male Protagonist,Primarily Adult Cast,Urban,Shoujo,Iyashikei
+    label: Airing
+    label.remove: Planned,Ended
+    studio: Shin-Ei Animation
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 6.7
   419854:
     title: |-
       Level 1 dakedo Unique Skill de Saikyou desu
@@ -3453,6 +3456,18 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.6
+  72454:
+    title: |-
+      Meitantei Conan
+    sort_title: |-
+      Meitantei Conan
+    original_title: |-
+      名探偵コナン
+    genre.sync: Anime,Adventure,Comedy,Mystery,Psychological,Detective,Espionage,Tragedy,Crime,Age Regression,Conspiracy,Police,Male Protagonist,Fugitive,Ensemble Cast,Episodic,Primarily Teen Cast,Heterosexual,Shounen,Primarily Adult Cast,School
+    label: Airing
+    label.remove: Planned,Ended
+    studio: TMS Entertainment
+    audience_rating: 8.1
   432747:
     title: |-
       Metallic Rouge
@@ -3511,21 +3526,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.0
-  431499:
-    title: |-
-      Kyuujitsu no Warumono-san
-    sort_title: |-
-      Kyuujitsu no Warumono-san
-    original_title: |-
-      休日のわるものさん
-    genre.sync: Anime,Comedy,Slice of Life,Male Protagonist,Primarily Adult Cast,Urban,Shoujo,Iyashikei
-    label: Airing
-    label.remove: Planned,Ended
-    studio: Shin-Ei Animation
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 6.7
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -3752,14 +3752,14 @@ metadata:
       Nozomanu Fushi no Boukensha
     original_title: |-
       望まぬ不死の冒険者
-    genre.sync: Anime,Action,Adventure,Fantasy
+    genre.sync: Anime,Action,Adventure,Fantasy,Dungeon
     label: Airing
     label.remove: Planned,Ended
     studio: CONNECT
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.7
+    audience_rating: 6.9
   423096:
     title: |-
       Okashi na Tensei
@@ -4444,7 +4444,7 @@ metadata:
       Sasaki to Pii-chan
     original_title: |-
       佐々木とピーちゃん
-    genre.sync: Anime,Comedy,Fantasy,Mahou Shoujo,Isekai,Animals,Urban Fantasy
+    genre.sync: Anime,Comedy,Fantasy,Mahou Shoujo,Isekai,Urban Fantasy,Animals,Work,Economics,Male Protagonist,Magic,Super Power,Police
     label: Airing
     label.remove: Planned,Ended
     studio: SILVER LINK.
