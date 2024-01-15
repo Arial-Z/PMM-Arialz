@@ -882,7 +882,7 @@ metadata:
       4:
         title: |-
           Wu Liuqi: Anying Suming
-        user_rating: 8.1
+        user_rating: 8.0
         label: score
     audience_rating: 8.1
   79995:
@@ -1115,6 +1115,18 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.4
+  72454:
+    title: |-
+      Meitantei Conan
+    sort_title: |-
+      Meitantei Conan
+    original_title: |-
+      名探偵コナン
+    genre.sync: Anime,Adventure,Comedy,Mystery,Psychological,Detective,Espionage,Tragedy,Crime,Age Regression,Conspiracy,Police,Male Protagonist,Fugitive,Ensemble Cast,Episodic,Primarily Teen Cast,Heterosexual,Shounen,Primarily Adult Cast,School
+    label: Airing
+    label.remove: Planned,Ended
+    studio: TMS Entertainment
+    audience_rating: 8.1
   273005:
     title: |-
       Diamond no Ace
@@ -1826,9 +1838,9 @@ metadata:
       2:
         title: |-
           Hikari no Ou 2nd Season
-        user_rating: 56.0
+        user_rating: 5.6
         label: score
-    audience_rating: 31.0
+    audience_rating: 5.8
   429263:
     title: |-
       Hikikomari Kyuuketsuki no Monmon
@@ -2083,7 +2095,7 @@ metadata:
       Isekai de Mofumofu Nadenade Suru Tame ni Ganbattemasu.
     original_title: |-
       異世界でもふもふなでなでするためにがんばってます。
-    genre.sync: Anime,Adventure,Fantasy,Slice of Life,Isekai,Animals,Female Protagonist,Shoujo,Iyashikei,Reincarnation
+    genre.sync: Anime,Adventure,Fantasy,Slice of Life,Isekai,Animals,Female Protagonist,Iyashikei,Shoujo,Reincarnation
     label: Airing
     label.remove: Planned,Ended
     studio: EMT Squared
@@ -3456,18 +3468,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.6
-  72454:
-    title: |-
-      Meitantei Conan
-    sort_title: |-
-      Meitantei Conan
-    original_title: |-
-      名探偵コナン
-    genre.sync: Anime,Adventure,Comedy,Mystery,Psychological,Detective,Espionage,Tragedy,Crime,Age Regression,Conspiracy,Police,Male Protagonist,Fugitive,Ensemble Cast,Episodic,Primarily Teen Cast,Heterosexual,Shounen,Primarily Adult Cast,School
-    label: Airing
-    label.remove: Planned,Ended
-    studio: TMS Entertainment
-    audience_rating: 8.1
   432747:
     title: |-
       Metallic Rouge
@@ -3475,14 +3475,14 @@ metadata:
       Metallic Rouge
     original_title: |-
       メタリックルージュ
-    genre.sync: Anime,Action,Mecha,Sci-Fi,Henshin,Female Protagonist,Artificial Intelligence,Robots,Crime,Assassins,Super Power,Tanned Skin,Drugs
+    genre.sync: Anime,Action,Mecha,Sci-Fi,Henshin,Artificial Intelligence,Female Protagonist,Robots,Crime,Assassins,Super Power,Tanned Skin
     label: Airing
     label.remove: Planned,Ended
     studio: bones
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.8
+    audience_rating: 6.9
   307375:
     title: |-
       Mob Psycho 100
