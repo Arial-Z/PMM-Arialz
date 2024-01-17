@@ -1145,6 +1145,21 @@ metadata:
         user_rating: 8.2
         label: score
     audience_rating: 8.1
+  431705:
+    title: |-
+      Gekai Elise
+    sort_title: |-
+      Gekai Elise
+    original_title: |-
+      外科医エリーゼ
+    genre.sync: Anime,Comedy,Fantasy,Romance,Medicine,Female Protagonist,Heterosexual
+    label: Airing
+    label.remove: Planned,Ended
+    studio: Maho Film
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 6.6
   354170:
     title: |-
       Domestic na Kanojo
@@ -4357,14 +4372,14 @@ metadata:
       Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.
     original_title: |-
       最弱テイマーはゴミ拾いの旅を始めました。
-    genre.sync: Anime,Adventure,Fantasy,Isekai,Reincarnation,Female Protagonist,Homeless,Magic,Travel
+    genre.sync: Anime,Adventure,Fantasy,Homeless,Female Protagonist,Isekai,Reincarnation,Magic,Travel
     label: Airing
     label.remove: Planned,Ended
     studio: Studio Massket
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.7
+    audience_rating: 6.8
   313435:
     title: |-
       Saiki Kusuo no Ψ-nan
@@ -5276,8 +5291,8 @@ metadata:
     original_title: |-
       天官赐福
     genre.sync: Anime,Adventure,Drama,Fantasy,Romance,Gods,Male Protagonist,Ghost,Cultivation,Magic,Wuxia,Boys' Love,Rural,Travel,Demons,Tragedy
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Haoliners Animation
     seasons:
       1:
