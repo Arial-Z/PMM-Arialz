@@ -1145,21 +1145,6 @@ metadata:
         user_rating: 8.2
         label: score
     audience_rating: 8.1
-  431705:
-    title: |-
-      Gekai Elise
-    sort_title: |-
-      Gekai Elise
-    original_title: |-
-      外科医エリーゼ
-    genre.sync: Anime,Comedy,Fantasy,Romance,Medicine,Female Protagonist,Heterosexual
-    label: Airing
-    label.remove: Planned,Ended
-    studio: Maho Film
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 6.6
   354170:
     title: |-
       Domestic na Kanojo
@@ -1197,7 +1182,7 @@ metadata:
       Dosanko Gal wa Namaramenkoi
     original_title: |-
       道産子ギャルはなまらめんこい
-    genre.sync: Anime,Comedy,Romance,Slice of Life,Gyaru,Male Protagonist,Female Protagonist,Rural,Love Triangle,Teens' Love,Kuudere,Nudity,Female Harem,School,Heterosexual
+    genre.sync: Anime,Comedy,Romance,Slice of Life,Gyaru,Male Protagonist,Female Protagonist,Heterosexual,Love Triangle,Teens' Love,Kuudere,Nudity,Female Harem,Rural,School
     label: Airing
     label.remove: Planned,Ended
     studio: BLADE
@@ -1393,6 +1378,21 @@ metadata:
         user_rating: 7.9
         label: score
     audience_rating: 8.0
+  431705:
+    title: |-
+      Gekai Elise
+    sort_title: |-
+      Gekai Elise
+    original_title: |-
+      外科医エリーゼ
+    genre.sync: Anime,Comedy,Fantasy,Romance,Medicine,Female Protagonist,Heterosexual
+    label: Airing
+    label.remove: Planned,Ended
+    studio: Maho Film
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 6.6
   439759:
     title: |-
       Gekkan Mousou Kagaku
@@ -1866,7 +1866,7 @@ metadata:
       Hime-sama, "Goumon" no Jikan desu
     original_title: |-
       姫様“拷問”の時間です
-    genre.sync: Anime,Comedy,Fantasy,Food,Female Protagonist,Cute Girls Doing Cute Things,Monster Girl,Slapstick,Surreal Comedy,Demons
+    genre.sync: Anime,Comedy,Fantasy,Food,Female Protagonist,Iyashikei,Surreal Comedy,Cute Girls Doing Cute Things,Demons,Slapstick,Monster Girl
     label: Airing
     label.remove: Planned,Ended
     studio: PINE JAM
