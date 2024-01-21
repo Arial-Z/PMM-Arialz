@@ -1407,7 +1407,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 4.7
+    audience_rating: 4.5
   279804:
     title: |-
       Gekkan Shoujo Nozaki-kun
@@ -3334,14 +3334,14 @@ metadata:
       Majo to Yajuu
     original_title: |-
       魔女と野獣
-    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Witch,Seinen,Gender Bending,Body Swapping,Female Protagonist,Gore,Urban Fantasy,Zombie,Necromancy,Magic
+    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Witch,Seinen,Gender Bending,Body Swapping,Female Protagonist,Gore,Urban Fantasy,Magic,Zombie,Necromancy
     label: Airing
     label.remove: Planned,Ended
     studio: Yokohama Animation Lab
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.9
+    audience_rating: 6.8
   341436:
     title: |-
       Major 2nd
@@ -3760,6 +3760,21 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.9
+  398193:
+    title: |-
+      Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru
+    sort_title: |-
+      Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru
+    original_title: |-
+      世界最高の暗殺者、異世界貴族に転生する
+    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Mystery,Romance,Reincarnation,Assassins,Isekai,Anti-Hero,Magic,Male Protagonist,Female Harem
+    label: Planned
+    label.remove: Airing,Ended
+    studio: SILVER LINK.
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 7.2
   423096:
     title: |-
       Okashi na Tensei
@@ -4545,21 +4560,6 @@ metadata:
         user_rating: 7.5
         label: score
     audience_rating: 7.4
-  398193:
-    title: |-
-      null
-    sort_title: |-
-      null
-    original_title: |-
-      null
-    genre.sync: Anime,
-    label: Planned
-    label.remove: Airing,Ended
-    studio: 
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 72.0
   438151:
     title: |-
       Sengoku Youko
