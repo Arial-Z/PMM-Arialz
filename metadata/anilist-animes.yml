@@ -1227,14 +1227,14 @@ metadata:
       Dungeon Meshi
     original_title: |-
       ダンジョン飯
-    genre.sync: Anime,Adventure,Comedy,Fantasy,Food,Dungeon,Magic,Elf
+    genre.sync: Anime,Adventure,Comedy,Fantasy,Dungeon,Food,Magic,Elf,Foreign,Primarily Adult Cast,Ensemble Cast
     label: Airing
     label.remove: Planned,Ended
     studio: Trigger
     seasons:
       1:
         label.remove: score
-    audience_rating: 7.5
+    audience_rating: 7.6
   289882:
     title: |-
       Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
@@ -2744,7 +2744,7 @@ metadata:
       5:
         title: |-
           Kingdom 5th Season
-        user_rating: 7.6
+        user_rating: 7.7
         label: score
     audience_rating: 8.0
   279831:
@@ -4895,7 +4895,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.1
+    audience_rating: 6.0
   401233:
     title: |-
       Sono Bisque Doll wa Koi wo Suru
@@ -5088,8 +5088,8 @@ metadata:
     original_title: |-
       盾の勇者の成り上がり
     genre.sync: Anime,Action,Adventure,Fantasy,Isekai,Male Protagonist,Conspiracy,Crime,Revenge,Magic,Travel,Anti-Hero,Tragedy,Kemonomimi,Henshin,Bullying
-    label: Ended
-    label.remove: Planned,Airing
+    label: Planned
+    label.remove: Airing,Ended
     studio: Kinema Citrus
     seasons:
       1:
