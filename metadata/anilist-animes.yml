@@ -220,7 +220,7 @@ metadata:
       Akuyaku Reijou Level 99: Watashi wa Ura Boss desu ga Maou de wa Arimasen
     original_title: |-
       悪役令嬢レベル99 ～私は裏ボスですが魔王ではありません～
-    genre.sync: Anime,Fantasy,Romance,Villainess,Female Protagonist,Isekai,Kuudere,Magic,Shoujo
+    genre.sync: Anime,Fantasy,Romance,Villainess,Female Protagonist,Kuudere,Isekai,Magic
     label: Airing
     label.remove: Planned,Ended
     studio: Jumondou
@@ -2181,6 +2181,21 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.2
+  431014:
+    title: |-
+      Ishura
+    sort_title: |-
+      Ishura
+    original_title: |-
+      異修羅
+    genre.sync: Anime,Action,Drama,Fantasy,War,Dystopian,Battle Royale,Swordplay,Gore,CGI
+    label: Airing
+    label.remove: Planned,Ended
+    studio: Passione
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 6.1
   373679:
     title: |-
       Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.
@@ -4626,8 +4641,16 @@ metadata:
     studio: Bridge
     seasons:
       1:
-        label.remove: score
-    audience_rating: 6.3
+        title: |-
+          Shaman King (2021)
+        user_rating: 6.3
+        label: score
+      2:
+        title: |-
+          Shaman King: Flowers
+        user_rating: 6.0
+        label: score
+    audience_rating: 6.2
   421855:
     title: |-
       Shangri-La Frontier
