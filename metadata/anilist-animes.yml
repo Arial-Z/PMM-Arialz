@@ -872,7 +872,7 @@ metadata:
       2:
         title: |-
           Wu Liuqi: Zui Qiang Faxingshi
-        user_rating: 8.2
+        user_rating: 8.1
         label: score
       3:
         title: |-
@@ -3185,6 +3185,8 @@ metadata:
     label.remove: Planned,Airing
     studio: Satelight
     seasons:
+      0:
+        label.remove: score
       1:
         label.remove: score
     audience_rating: 7.6
@@ -3490,7 +3492,7 @@ metadata:
       Metallic Rouge
     original_title: |-
       メタリックルージュ
-    genre.sync: Anime,Action,Mecha,Sci-Fi,Robots,Henshin,Artificial Intelligence,Assassins,Female Protagonist,Crime,Super Power,Tanned Skin,Space,Espionage
+    genre.sync: Anime,Action,Mecha,Sci-Fi,Robots,Henshin,Artificial Intelligence,Assassins,Female Protagonist,Super Robot,Crime,Super Power,Tanned Skin,Espionage,Space,Tokusatsu
     label: Airing
     label.remove: Planned,Ended
     studio: bones
