@@ -78,7 +78,7 @@ metadata:
       僕のヒーローアカデミア THE MOVIE ヒーローズ:ライジング
     genre.sync: Anime,Action,Sci-Fi,Superhero,Super Power,Shounen,Rural,Male Protagonist,Terrorism,Anti-Hero,Chimera,Cultivation,Primarily Male Cast,Alternate Universe,School
     studio: bones
-    audience_rating: 7.9
+    audience_rating: 7.8
   tt13544716:
     title: |-
       Boku no Hero Academia THE MOVIE: World Heroes' Mission
@@ -276,7 +276,7 @@ metadata:
       Gake no Ue no Ponyo
     original_title: |-
       崖の上のポニョ
-    genre.sync: Anime,Adventure,Fantasy,Primarily Child Cast,Environmental,Rural,Magic
+    genre.sync: Anime,Adventure,Fantasy,Primarily Child Cast,Environmental,Magic,Rural,Family Life,Coastal,Anthropomorphism,Kids,Natural Disaster
     studio: Studio Ghibli
     audience_rating: 7.9
   tt0495596:
@@ -308,7 +308,7 @@ metadata:
       GHOST IN THE SHELL / 攻殻機動隊2.0
     genre.sync: Anime,Action,Psychological,Sci-Fi,Military,Cyberpunk,Cyborg
     studio: Production I.G
-    audience_rating: 7.6
+    audience_rating: 7.5
   tt2374144:
     title: |-
       Gintama: Kanketsu-hen - Yorozuya yo Eien Nare
@@ -386,7 +386,7 @@ metadata:
       Go-toubun no Hanayome Movie
     original_title: |-
       映画 五等分の花嫁
-    genre.sync: Anime,Comedy,Drama,Romance,Slice of Life,Twins,Female Harem,Male Protagonist,Coming of Age,Primarily Female Cast,Love Triangle,Ensemble Cast,Heterosexual,Teacher,Shounen,Marriage,School,Tsundere,Achronological Order,Kuudere
+    genre.sync: Anime,Comedy,Drama,Romance,Slice of Life,Twins,Female Harem,Male Protagonist,Coming of Age,Love Triangle,Primarily Female Cast,Ensemble Cast,Heterosexual,Teacher,Shounen,Marriage,School,Tsundere,Achronological Order,Kuudere
     studio: Bibury Animation Studios
     audience_rating: 7.8
   tt11639420:
@@ -426,7 +426,7 @@ metadata:
       Hotaru no Haka
     original_title: |-
       火垂るの墓
-    genre.sync: Anime,Drama,Tragedy,Orphan,Survival,War,Family Life,Historical,Primarily Child Cast,Military,Rural,Homeless
+    genre.sync: Anime,Drama,Tragedy,Survival,Orphan,War,Family Life,Historical,Primarily Child Cast,Rural,Military,Homeless
     studio: Studio Ghibli
     audience_rating: 8.2
   tt0347149:
@@ -656,7 +656,7 @@ metadata:
       Kimi no Na wa.
     original_title: |-
       君の名は。
-    genre.sync: Anime,Drama,Romance,Supernatural,Body Swapping,Time Manipulation,Urban Fantasy,Female Protagonist,Coming of Age,Memory Manipulation,Male Protagonist,Urban,Tragedy,Rural,Gender Bending,Primarily Teen Cast,Heterosexual
+    genre.sync: Anime,Drama,Romance,Supernatural,Body Swapping,Time Manipulation,Urban Fantasy,Female Protagonist,Coming of Age,Memory Manipulation,Male Protagonist,Urban,Tragedy,Rural,Gender Bending,Primarily Teen Cast,Time Skip,Heterosexual
     studio: CoMix Wave
     audience_rating: 8.5
   tt7236034:
@@ -666,7 +666,7 @@ metadata:
       Kimi no Suizou wo Tabetai
     original_title: |-
       君の膵臓をたべたい
-    genre.sync: Anime,Drama,Romance,Slice of Life,Tragedy,Coming of Age,Male Protagonist,Female Protagonist,Primarily Teen Cast,Philosophy,Heterosexual,Rehabilitation,Classic Literature
+    genre.sync: Anime,Drama,Romance,Slice of Life,Tragedy,Coming of Age,Male Protagonist,Female Protagonist,Primarily Teen Cast,Philosophy,Achronological Order,Heterosexual,Rehabilitation,Classic Literature
     studio: Studio VOLN
     audience_rating: 8.4
   tt5595168:
@@ -716,7 +716,7 @@ metadata:
       Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu
     original_title: |-
       この素晴らしい世界に祝福を！紅伝説
-    genre.sync: Anime,Action,Adventure,Comedy,Ecchi,Fantasy,Supernatural,Satire,Isekai,Parody,Magic,Male Protagonist,Chuunibyou,Female Protagonist,Primarily Female Cast,Afterlife
+    genre.sync: Anime,Action,Adventure,Comedy,Ecchi,Fantasy,Supernatural,Satire,Isekai,Parody,Magic,Male Protagonist,Chuunibyou,Female Protagonist,Primarily Female Cast,Afterlife,Chimera
     studio: J.C. Staff
     audience_rating: 8.3
   tt2591814:
@@ -746,7 +746,7 @@ metadata:
       Kurenai no Buta
     original_title: |-
       紅の豚
-    genre.sync: Anime,Action,Adventure,Comedy,Drama,Romance,Aviation,Foreign,Historical,Anthropomorphism,Philosophy,Primarily Adult Cast,Male Protagonist,Military,Fugitive,Pirates
+    genre.sync: Anime,Action,Adventure,Comedy,Drama,Romance,Aviation,Foreign,Historical,Anthropomorphism,Philosophy,Primarily Adult Cast,Coastal,Male Protagonist,Military,Fugitive,Pirates
     studio: Studio Ghibli
     audience_rating: 7.8
   tt6728390:
@@ -779,6 +779,26 @@ metadata:
     genre.sync: Anime,Action,Drama,Fantasy,Romance,Slice of Life,Supernatural,Urban Fantasy,Super Power,Demons,Male Protagonist,Amnesia,Magic,Primarily Teen Cast
     studio: Kyoto Animation
     audience_rating: 7.9
+  tt1548563:
+    title: |-
+      Macross Frontier: Itsuwari no Utahime
+    sort_title: |-
+      Macross Frontier: Itsuwari no Utahime
+    original_title: |-
+      劇場版 マクロスF 虚空歌姫 ~イツワリノウタヒメ~
+    genre.sync: Anime,Action,Mecha,Music,Romance,Sci-Fi,Aliens,Military,Idol,Love Triangle,Space
+    studio: Satelight
+    audience_rating: 7.4
+  tt1566528:
+    title: |-
+      Macross Frontier: Sayonara no Tsubasa
+    sort_title: |-
+      Macross Frontier: Sayonara no Tsubasa
+    original_title: |-
+      劇場版 マクロスF ~サヨナラノツバサ~
+    genre.sync: Anime,Action,Mecha,Music,Romance,Sci-Fi,Idol,Military,Space,Heterosexual
+    studio: Satelight
+    audience_rating: 7.7
   tt10068916:
     title: |-
       Made in Abyss: Fukaki Tamashii no Reimei
@@ -786,7 +806,7 @@ metadata:
       Made in Abyss: Fukaki Tamashii no Reimei
     original_title: |-
       メイドインアビス 深き魂の黎明
-    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Horror,Mystery,Psychological,Sci-Fi,Tragedy,Survival,Primarily Child Cast,Body Swapping,Seinen,Lost Civilization,Body Horror,Gore,Female Protagonist,Robots,Male Protagonist
+    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Horror,Mystery,Psychological,Sci-Fi,Tragedy,Survival,Primarily Child Cast,Body Swapping,Seinen,Lost Civilization,Gore,Body Horror,Female Protagonist,Robots,Male Protagonist
     studio: Kinema Citrus
     audience_rating: 8.5
   tt10068544:
@@ -1198,7 +1218,7 @@ metadata:
       劇場版 転生したらスライムだった件 紅蓮の絆編
     genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Isekai,Magic,Reincarnation,Monster Girl,Shounen,Demons,Politics
     studio: 8-bit
-    audience_rating: 7.8
+    audience_rating: 7.7
   tt0808506:
     title: |-
       Toki wo Kakeru Shoujo
