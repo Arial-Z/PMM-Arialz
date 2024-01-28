@@ -220,14 +220,14 @@ metadata:
       Akuyaku Reijou Level 99: Watashi wa Ura Boss desu ga Maou de wa Arimasen
     original_title: |-
       悪役令嬢レベル99 ～私は裏ボスですが魔王ではありません～
-    genre.sync: Anime,Fantasy,Romance,Villainess,Female Protagonist,Kuudere,Isekai,Magic
+    genre.sync: Anime,Comedy,Fantasy,Romance,Villainess,Female Protagonist,Magic,Kuudere,Isekai
     label: Airing
     label.remove: Planned,Ended
     studio: Jumondou
     seasons:
       1:
         label.remove: score
-    audience_rating: 7.1
+    audience_rating: 7.2
   411821:
     title: |-
       Akuyaku Reijou nano de Last Boss wo Kattemimashita
@@ -2195,7 +2195,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.1
+    audience_rating: 6.0
   373679:
     title: |-
       Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.
@@ -3105,21 +3105,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.2
-  432449:
-    title: |-
-      Mahou Shoujo ni Akogarete
-    sort_title: |-
-      Mahou Shoujo ni Akogarete
-    original_title: |-
-      魔法少女にあこがれて
-    genre.sync: Anime,Comedy,Ecchi,Mahou Shoujo,Slice of Life,Sadism,Yuri,Female Protagonist,Primarily Female Cast,Magic,Nudity,Anti-Hero,Masochism,Henshin,Parody,Cute Girls Doing Cute Things,Primarily Teen Cast,Bondage,Yandere,Guns
-    label: Airing
-    label.remove: Planned,Ended
-    studio: Asahi Production
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 7.2
   435005:
     title: |-
       Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru
@@ -3266,6 +3251,21 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.1
+  432449:
+    title: |-
+      Mahou Shoujo ni Akogarete
+    sort_title: |-
+      Mahou Shoujo ni Akogarete
+    original_title: |-
+      魔法少女にあこがれて
+    genre.sync: Anime,Comedy,Ecchi,Mahou Shoujo,Slice of Life,Sadism,Yuri,Female Protagonist,Primarily Female Cast,Magic,Nudity,Anti-Hero,Masochism,Henshin,Parody,Cute Girls Doing Cute Things,Primarily Teen Cast,Bondage,Yandere,Guns
+    label: Airing
+    label.remove: Planned,Ended
+    studio: Asahi Production
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 7.2
   278329:
     title: |-
       Mahouka Koukou no Rettousei
@@ -4665,7 +4665,7 @@ metadata:
       2:
         title: |-
           Shaman King: Flowers
-        user_rating: 6.0
+        user_rating: 6.1
         label: score
     audience_rating: 6.2
   421855:
