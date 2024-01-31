@@ -198,21 +198,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.5
-  310436:
-    title: |-
-      Aggressive Retsuko
-    sort_title: |-
-      Aggressive Retsuko
-    original_title: |-
-      アグレッシブ烈子
-    genre.sync: Anime,Comedy,Music,Slice of Life,Episodic,Work,Office Lady,Primarily Adult Cast,Animals,Chibi,Female Protagonist,Satire
-    label: Ended
-    label.remove: Planned,Airing
-    studio: Fanworks
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 7.1
   346744:
     title: |-
       Aggressive Retsuko
@@ -248,6 +233,21 @@ metadata:
         user_rating: 7.2
         label: score
     audience_rating: 6.0
+  310436:
+    title: |-
+      Aggressive Retsuko
+    sort_title: |-
+      Aggressive Retsuko
+    original_title: |-
+      アグレッシブ烈子
+    genre.sync: Anime,Comedy,Music,Slice of Life,Episodic,Work,Office Lady,Primarily Adult Cast,Animals,Chibi,Female Protagonist,Satire
+    label: Ended
+    label.remove: Planned,Airing
+    studio: Fanworks
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 7.1
   421676:
     title: |-
       Akiba Meido Sensou
@@ -1490,7 +1490,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.7
+    audience_rating: 6.8
   439759:
     title: |-
       Gekkan Mousou Kagaku
@@ -4511,7 +4511,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.8
+    audience_rating: 6.9
   313435:
     title: |-
       Saiki Kusuo no Ψ-nan
