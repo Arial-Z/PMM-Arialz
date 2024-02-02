@@ -232,7 +232,12 @@ metadata:
           Aggressive Retsuko Season 4
         user_rating: 7.2
         label: score
-    audience_rating: 6.0
+      5:
+        title: |-
+          Aggressive Retsuko Season 5
+        user_rating: 7.4
+        label: score
+    audience_rating: 7.5
   310436:
     title: |-
       Aggressive Retsuko
@@ -3349,21 +3354,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.0
-  432449:
-    title: |-
-      Mahou Shoujo ni Akogarete
-    sort_title: |-
-      Mahou Shoujo ni Akogarete
-    original_title: |-
-      魔法少女にあこがれて
-    genre.sync: Anime,Comedy,Ecchi,Mahou Shoujo,Slice of Life,Yuri,Female Protagonist,Sadism,Primarily Female Cast,Nudity,Magic,Anti-Hero,Masochism,Henshin,Parody,Primarily Teen Cast,Cute Girls Doing Cute Things,Bondage,Yandere
-    label: Airing
-    label.remove: Planned,Ended
-    studio: Asahi Production
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 7.3
   278329:
     title: |-
       Mahouka Koukou no Rettousei
