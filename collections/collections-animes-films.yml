@@ -95,13 +95,13 @@ collections:
     visible_home: false
     visible_shared: false
 
-  Bungo Stray Dogs:
+  Bungou Stray Dogs:
     plex_search:
       all:
-        title.begins: Bungo Stray
+        title.begins: Bungou Stray
       sort_by: release.asc
     sort_title: |-
-      Bungo Stray Dogs
+      Bungou Stray Dogs
     collection_mode: hide_items
     visible_library: false
     visible_home: false
