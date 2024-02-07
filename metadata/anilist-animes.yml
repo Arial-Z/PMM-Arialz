@@ -152,7 +152,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 7.1
+    audience_rating: 7.2
   378609:
     title: |-
       86: Eighty Six
@@ -232,7 +232,12 @@ metadata:
           Aggressive Retsuko Season 4
         user_rating: 7.2
         label: score
-    audience_rating: 6.0
+      5:
+        title: |-
+          Aggressive Retsuko Season 5
+        user_rating: 7.4
+        label: score
+    audience_rating: 7.5
   310436:
     title: |-
       Aggressive Retsuko
@@ -438,7 +443,7 @@ metadata:
       Azumanga Daiou THE ANIMATION
     original_title: |-
       あずまんが大王 THE ANIMATION
-    genre.sync: Anime,Comedy,Slice of Life,School,Primarily Female Cast,Surreal Comedy,Slapstick,Episodic,Cute Girls Doing Cute Things,Ensemble Cast,Coming of Age,Primarily Teen Cast,Female Protagonist
+    genre.sync: Anime,Comedy,Slice of Life,School,Primarily Female Cast,Surreal Comedy,Episodic,Slapstick,Cute Girls Doing Cute Things,Ensemble Cast,Coming of Age,Primarily Teen Cast,Female Protagonist
     label: Ended
     label.remove: Planned,Airing
     studio: J.C. Staff
@@ -805,7 +810,7 @@ metadata:
       Charlotte
     original_title: |-
       Charlotte(シャーロット)
-    genre.sync: Anime,Comedy,Drama,Romance,Sci-Fi,Supernatural,Super Power,Time Manipulation,Tragedy,Urban Fantasy,Primarily Teen Cast,Male Protagonist,School Club,School,Body Swapping,Amnesia,Dissociative Identities,Female Protagonist,Tsundere
+    genre.sync: Anime,Comedy,Drama,Romance,Sci-Fi,Supernatural,Super Power,Time Manipulation,Tragedy,Urban Fantasy,Primarily Teen Cast,Male Protagonist,School Club,School,Body Swapping,Amnesia,Female Protagonist,Dissociative Identities,Tsundere
     label: Ended
     label.remove: Planned,Airing
     studio: P.A. Works
@@ -1265,7 +1270,7 @@ metadata:
       Dorohedoro
     original_title: |-
       ドロヘドロ
-    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Horror,Mystery,Monster Boy,Amnesia,Magic,Full CGI,CGI,Gore,Surreal Comedy,Ensemble Cast,Body Horror,Seinen,Dystopian,Anti-Hero,Primarily Adult Cast,Demons
+    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Horror,Mystery,Monster Boy,Amnesia,Magic,Full CGI,CGI,Gore,Surreal Comedy,Ensemble Cast,Body Horror,Seinen,Anthropomorphism,Dystopian,Anti-Hero,Primarily Adult Cast,Demons
     label: Planned
     label.remove: Airing,Ended
     studio: MAPPA
@@ -1280,7 +1285,7 @@ metadata:
       Dosanko Gal wa Namaramenkoi
     original_title: |-
       道産子ギャルはなまらめんこい
-    genre.sync: Anime,Comedy,Romance,Slice of Life,Love Triangle,Gyaru,Male Protagonist,Heterosexual,Female Protagonist,Teens' Love,Kuudere,Rural,Female Harem,School,Shounen,Nudity
+    genre.sync: Anime,Comedy,Romance,Slice of Life,Love Triangle,Gyaru,Male Protagonist,Heterosexual,Female Protagonist,Teens' Love,Kuudere,Rural,Female Harem,School,Shounen
     label: Airing
     label.remove: Planned,Ended
     studio: BLADE
@@ -1405,7 +1410,7 @@ metadata:
       Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
     original_title: |-
       英雄王、武を極めるため転生す ～そして、世界最強の見習い騎士♀～
-    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Reincarnation,Gender Bending,Female Protagonist,Primarily Female Cast
+    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Reincarnation,Female Protagonist,Gender Bending,Primarily Female Cast
     label: Ended
     label.remove: Planned,Airing
     studio: Studio Comet
@@ -1483,7 +1488,7 @@ metadata:
       Gekai Elise
     original_title: |-
       外科医エリーゼ
-    genre.sync: Anime,Comedy,Fantasy,Romance,Medicine,Female Protagonist,Heterosexual
+    genre.sync: Anime,Comedy,Fantasy,Romance,Medicine,Female Protagonist,Heterosexual,Work,Ojou-sama
     label: Airing
     label.remove: Planned,Ended
     studio: Maho Film
@@ -1939,9 +1944,9 @@ metadata:
       2:
         title: |-
           Hikari no Ou 2nd Season
-        user_rating: 6.0
+        user_rating: 5.9
         label: score
-    audience_rating: 6.1
+    audience_rating: 6.0
   429263:
     title: |-
       Hikikomari Kyuuketsuki no Monmon
@@ -2166,7 +2171,7 @@ metadata:
       Irozuku Sekai no Ashita kara
     original_title: |-
       色づく世界の明日から
-    genre.sync: Anime,Drama,Romance,Slice of Life,Supernatural,Female Protagonist,Magic,Time Manipulation,Ensemble Cast,Photography,School Club,Drawing,School,Rehabilitation
+    genre.sync: Anime,Drama,Romance,Slice of Life,Supernatural,Magic,Female Protagonist,Time Manipulation,Ensemble Cast,Photography,School Club,Drawing,Rehabilitation,School,Coming of Age
     label: Ended
     label.remove: Planned,Airing
     studio: P.A. Works
@@ -2369,7 +2374,7 @@ metadata:
       Jormungand
     original_title: |-
       ヨルムンガンド
-    genre.sync: Anime,Action,Adventure,Guns,Military,Female Protagonist,Seinen,Foreign,Anti-Hero,Tomboy,Assassins,Primarily Adult Cast
+    genre.sync: Anime,Action,Adventure,Guns,Military,Female Protagonist,Seinen,Anti-Hero,Foreign,Tomboy,Assassins,Primarily Adult Cast
     label: Ended
     label.remove: Planned,Airing
     studio: White Fox
@@ -2666,7 +2671,7 @@ metadata:
       Kidou Senshi Gundam UC
     original_title: |-
       機動戦士ガンダムUC
-    genre.sync: Anime,Action,Drama,Mecha,Sci-Fi,Space Opera,Politics,Military,Space,Conspiracy,Super Robot,Tragedy,Real Robot
+    genre.sync: Anime,Action,Drama,Mecha,Sci-Fi,Space Opera,Politics,Military,Super Robot,Space,Tragedy,Conspiracy,Real Robot
     label: Ended
     label.remove: Planned,Airing
     studio: Sunrise
@@ -2857,7 +2862,7 @@ metadata:
       5:
         title: |-
           Kingdom 5th Season
-        user_rating: 7.8
+        user_rating: 7.9
         label: score
     audience_rating: 8.0
   279831:
@@ -3125,7 +3130,7 @@ metadata:
       Kusuriya no Hitorigoto
     original_title: |-
       薬屋のひとりごと
-    genre.sync: Anime,Drama,Mystery,Medicine,Female Protagonist,Drugs,Conspiracy,Historical,Crime,Politics,Detective,Work,Foreign,Ojou-sama,Primarily Female Cast,Episodic
+    genre.sync: Anime,Drama,Mystery,Medicine,Female Protagonist,Drugs,Conspiracy,Historical,Crime,Politics,Detective,Work,Foreign,Ojou-sama,Episodic,Primarily Female Cast
     label: Airing
     label.remove: Planned,Ended
     studio: OLM
@@ -3210,14 +3215,14 @@ metadata:
       Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru
     original_title: |-
       ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する
-    genre.sync: Anime,Fantasy,Romance,Time Manipulation,Female Protagonist,Reincarnation,Shoujo,Ojou-sama,Time Loop,Villainess
+    genre.sync: Anime,Fantasy,Romance,Time Manipulation,Female Protagonist,Reincarnation,Ojou-sama,Shoujo,Time Loop,Villainess
     label: Airing
     label.remove: Planned,Ended
     studio: HORNETS
     seasons:
       1:
         label.remove: score
-    audience_rating: 7.5
+    audience_rating: 7.6
   418340:
     title: |-
       Lv1 Maou to One Room Yuusha
@@ -3240,7 +3245,7 @@ metadata:
       Lycoris Recoil
     original_title: |-
       リコリス・リコイル
-    genre.sync: Anime,Action,Slice of Life,Primarily Female Cast,Female Protagonist,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Work,Kuudere,Cute Girls Doing Cute Things,Espionage,Adoption
+    genre.sync: Anime,Action,Slice of Life,Primarily Female Cast,Female Protagonist,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Work,Cute Girls Doing Cute Things,Kuudere,Espionage,Adoption,Yuri
     label: Ended
     label.remove: Planned,Airing
     studio: A-1 Pictures
@@ -3349,21 +3354,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.0
-  432449:
-    title: |-
-      Mahou Shoujo ni Akogarete
-    sort_title: |-
-      Mahou Shoujo ni Akogarete
-    original_title: |-
-      魔法少女にあこがれて
-    genre.sync: Anime,Comedy,Ecchi,Mahou Shoujo,Slice of Life,Yuri,Female Protagonist,Sadism,Primarily Female Cast,Nudity,Magic,Anti-Hero,Masochism,Henshin,Parody,Primarily Teen Cast,Cute Girls Doing Cute Things,Bondage,Yandere
-    label: Airing
-    label.remove: Planned,Ended
-    studio: Asahi Production
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 7.3
   278329:
     title: |-
       Mahouka Koukou no Rettousei
@@ -3436,7 +3426,7 @@ metadata:
       Mairimashita! Iruma-kun
     original_title: |-
       魔入りました！入間くん
-    genre.sync: Anime,Comedy,Fantasy,Demons,School,Male Protagonist,Magic,Found Family,Isekai,Primarily Teen Cast,Shounen,Adoption,Coming of Age,Kemonomimi,Monster Girl,Monster Boy
+    genre.sync: Anime,Comedy,Fantasy,Demons,School,Male Protagonist,Magic,Isekai,Found Family,Primarily Teen Cast,Shounen,Adoption,Coming of Age,Kemonomimi,Monster Girl,Monster Boy
     label: Ended
     label.remove: Planned,Airing
     studio: Bandai Namco Pictures
@@ -3464,7 +3454,7 @@ metadata:
       Majo to Yajuu
     original_title: |-
       魔女と野獣
-    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Witch,Seinen,Gender Bending,Body Swapping,Female Protagonist,Gore,Urban Fantasy,Magic,Zombie,Necromancy
+    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Witch,Seinen,Gender Bending,Body Swapping,Female Protagonist,Gore,Urban Fantasy,Magic,Zombie,Necromancy,Revenge
     label: Airing
     label.remove: Planned,Ended
     studio: Yokohama Animation Lab
@@ -3555,7 +3545,7 @@ metadata:
       Mashle
     original_title: |-
       マッシュル-MASHLE-
-    genre.sync: Anime,Action,Comedy,Fantasy,Shounen,Magic,Male Protagonist,School,Parody,Primarily Teen Cast,Slapstick,Kuudere,Fitness,Super Power,Primarily Male Cast,Dragons
+    genre.sync: Anime,Action,Comedy,Fantasy,Shounen,Magic,Male Protagonist,School,Parody,Primarily Teen Cast,Slapstick,Kuudere,Fitness,Super Power,Primarily Male Cast,Dragons,Bullying
     label: Airing
     label.remove: Planned,Ended
     studio: A-1 Pictures
@@ -3568,9 +3558,9 @@ metadata:
       2:
         title: |-
           MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen
-        user_rating: 7.8
+        user_rating: 7.9
         label: score
-    audience_rating: 7.7
+    audience_rating: 7.8
   412656:
     title: |-
       Mato Seihei no Slave
@@ -3655,7 +3645,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.0
+    audience_rating: 5.9
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -3882,7 +3872,7 @@ metadata:
       Nozomanu Fushi no Boukensha
     original_title: |-
       望まぬ不死の冒険者
-    genre.sync: Anime,Action,Adventure,Fantasy,Dungeon,Magic,Male Protagonist,Skeleton
+    genre.sync: Anime,Action,Adventure,Fantasy,Male Protagonist,Dungeon,Magic,Skeleton
     label: Airing
     label.remove: Planned,Ended
     studio: CONNECT
@@ -3929,7 +3919,7 @@ metadata:
       One Piece
     original_title: |-
       ONE PIECE
-    genre.sync: Anime,Action,Adventure,Comedy,Drama,Fantasy,Pirates,Shounen,Travel,Ensemble Cast,Super Power,Tragedy,Found Family,Male Protagonist,Slapstick,Conspiracy,Ships,Time Skip,Slavery,Fugitive,Politics,War,Dystopian,Crime,Gods,Monster Boy,Female Harem,Lost Civilization,Swordplay,Samurai,Medicine,Prison,Food,Henshin,Desert,Robots,Shapeshifting,Cyborg,Artificial Intelligence,Primarily Adult Cast
+    genre.sync: Anime,Action,Adventure,Comedy,Drama,Fantasy,Pirates,Shounen,Travel,Ensemble Cast,Super Power,Tragedy,Found Family,Male Protagonist,Slapstick,Conspiracy,Ships,Slavery,Time Skip,Fugitive,Politics,Crime,War,Dystopian,Gods,Monster Boy,Swordplay,Lost Civilization,Medicine,Samurai,Prison,Food,Henshin,Shapeshifting,Desert,Robots,Cyborg,Artificial Intelligence,Primarily Adult Cast
     label: Airing
     label.remove: Planned,Ended
     studio: Toei Animation
@@ -4006,7 +3996,7 @@ metadata:
       Ore dake Level Up na Ken
     original_title: |-
       俺だけレベルアップな件
-    genre.sync: Anime,Action,Adventure,Fantasy,Dungeon,Male Protagonist,Necromancy,Urban Fantasy,Cultivation,Magic,Super Power,War,Cosmic Horror,Anti-Hero,Gore,Tragedy
+    genre.sync: Anime,Action,Adventure,Fantasy,Dungeon,Male Protagonist,Urban Fantasy,Necromancy,Cultivation,Magic,Super Power,War,Cosmic Horror,Anti-Hero,Gore,Alternate Universe,Tragedy
     label: Airing
     label.remove: Planned,Ended
     studio: A-1 Pictures
@@ -4028,7 +4018,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.1
+    audience_rating: 6.0
   412826:
     title: |-
       Otomege Sekai wa Mob ni Kibishii Sekai desu
@@ -4504,7 +4494,7 @@ metadata:
       Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.
     original_title: |-
       最弱テイマーはゴミ拾いの旅を始めました。
-    genre.sync: Anime,Adventure,Fantasy,Homeless,Female Protagonist,Isekai,Reincarnation,Magic,Travel
+    genre.sync: Anime,Adventure,Fantasy,Homeless,Female Protagonist,Isekai,Reincarnation,Travel,Magic
     label: Airing
     label.remove: Planned,Ended
     studio: Studio Massket
@@ -4598,7 +4588,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 7.0
+    audience_rating: 6.9
   425756:
     title: |-
       Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
@@ -4855,7 +4845,7 @@ metadata:
       1:
         title: |-
           Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita
-        user_rating: 6.8
+        user_rating: 6.9
         label: score
       2:
         title: |-
@@ -5018,9 +5008,9 @@ metadata:
       2:
         title: |-
           Sidonia no Kishi: Daikyuu Wakusei Seneki
-        user_rating: 7.5
+        user_rating: 7.4
         label: score
-    audience_rating: 7.4
+    audience_rating: 7.3
   412696:
     title: |-
       Skip to Loafer
@@ -5043,7 +5033,7 @@ metadata:
       Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.
     original_title: |-
       即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。
-    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Isekai,Female Protagonist,Tsundere,Male Protagonist
+    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Isekai,Female Protagonist,Parody,Tsundere,Male Protagonist
     label: Airing
     label.remove: Planned,Ended
     studio: Okuruto Noboru
@@ -5073,7 +5063,7 @@ metadata:
       Sousou no Frieren
     original_title: |-
       葬送のフリーレン
-    genre.sync: Anime,Adventure,Drama,Fantasy,Travel,Magic,Elf,Female Protagonist,Philosophy,Time Skip,Iyashikei,Coming of Age,Kuudere,Environmental,Demons
+    genre.sync: Anime,Adventure,Drama,Fantasy,Travel,Magic,Elf,Female Protagonist,Philosophy,Time Skip,Coming of Age,Kuudere,Iyashikei,Environmental,Demons
     label: Airing
     label.remove: Planned,Ended
     studio: MADHOUSE
@@ -5145,7 +5135,7 @@ metadata:
       Suisei no Gargantia
     original_title: |-
       翠星のガルガンティア
-    genre.sync: Anime,Action,Adventure,Mecha,Sci-Fi,Lost Civilization,Artificial Intelligence,Post-Apocalyptic,Male Protagonist,Ships,Real Robot,Environmental,Language Barrier,Military,Aliens
+    genre.sync: Anime,Action,Adventure,Mecha,Sci-Fi,Lost Civilization,Artificial Intelligence,Post-Apocalyptic,Male Protagonist,Ships,Real Robot,Environmental,Language Barrier,Isekai,Military,Aliens
     label: Ended
     label.remove: Planned,Airing
     studio: Production I.G
@@ -5611,7 +5601,7 @@ metadata:
       Trigun Stampede
     original_title: |-
       TRIGUN STAMPEDE
-    genre.sync: Anime,Action,Drama,Sci-Fi,Full CGI,Male Protagonist,Guns,Desert,Fugitive,Dystopian,Primarily Adult Cast,Twins,Incest,Tragedy,Philosophy,Shounen,Crime,Travel,Aliens,Cosmic Horror
+    genre.sync: Anime,Action,Drama,Sci-Fi,Full CGI,Male Protagonist,Tragedy,Guns,Desert,Fugitive,Dystopian,Twins,Primarily Adult Cast,Incest,Primarily Male Cast,Philosophy,Travel,Shounen,Cosmic Horror,Crime,Aliens,Gore,Body Horror
     label: Ended
     label.remove: Planned,Airing
     studio: Orange
@@ -5759,7 +5749,7 @@ metadata:
       Undead Girl Murder Farce
     original_title: |-
       アンデッドガール・マーダーファルス
-    genre.sync: Anime,Fantasy,Mystery,Supernatural,Detective,Classic Literature,Female Protagonist,Travel,Historical,Youkai,Monster Girl,Monster Boy,Conspiracy,Revenge,Crime,Gore,Urban Fantasy,Foreign,Male Protagonist,Primarily Adult Cast,Vampire,Demons,Werewolf,Rural,Rakugo,Fairy Tale
+    genre.sync: Anime,Fantasy,Mystery,Supernatural,Detective,Classic Literature,Female Protagonist,Historical,Travel,Monster Girl,Youkai,Monster Boy,Conspiracy,Crime,Revenge,Fairy Tale,Foreign,Male Protagonist,Primarily Adult Cast,Vampire,Demons,Werewolf,Rakugo,Gore,Rural,Urban Fantasy
     label: Ended
     label.remove: Planned,Airing
     studio: Lapin Track
@@ -6107,7 +6097,7 @@ metadata:
       Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
     original_title: |-
       ようこそ実力至上主義の教室へ
-    genre.sync: Anime,Drama,Psychological,School,Ensemble Cast,Anti-Hero,Coming of Age,Primarily Teen Cast,Male Protagonist,Philosophy,Battle Royale,Survival
+    genre.sync: Anime,Drama,Psychological,School,Ensemble Cast,Anti-Hero,Primarily Teen Cast,Coming of Age,Male Protagonist,Philosophy,Battle Royale,Survival
     label: Airing
     label.remove: Planned,Ended
     studio: Lerche
