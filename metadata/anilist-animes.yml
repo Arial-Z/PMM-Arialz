@@ -685,6 +685,29 @@ metadata:
         user_rating: 8.3
         label: score
     audience_rating: 7.8
+  422981:
+    title: |-
+      Boku no Kokoro no Yabai Yatsu
+    sort_title: |-
+      Boku no Kokoro no Yabai Yatsu
+    original_title: |-
+      僕の心のヤバイやつ
+    genre.sync: Anime,Comedy,Romance,Slice of Life,Primarily Teen Cast,Heterosexual,Coming of Age,Male Protagonist,School,Female Protagonist,Shounen,Iyashikei
+    label: Airing
+    label.remove: Planned,Ended
+    studio: Shin-Ei Animation
+    seasons:
+      1:
+        title: |-
+          Boku no Kokoro no Yabai Yatsu
+        user_rating: 8.1
+        label: score
+      2:
+        title: |-
+          Boku no Kokoro no Yabai Yatsu 2nd Season
+        user_rating: 8.5
+        label: score
+    audience_rating: 8.3
   426703:
     title: |-
       Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta
@@ -711,21 +734,6 @@ metadata:
     label: Ended
     label.remove: Planned,Airing
     studio: A.C.G.T.
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 6.7
-  435466:
-    title: |-
-      Yuuki Bakuhatsu Bang Bravern
-    sort_title: |-
-      Yuuki Bakuhatsu Bang Bravern
-    original_title: |-
-      勇気爆発バーンブレイバーン
-    genre.sync: Anime,Action,Mecha,Parody,Super Robot,Love Triangle,Military,Primarily Adult Cast,Aliens,Meta,Foreign
-    label: Airing
-    label.remove: Planned,Ended
-    studio: CygamesPictures
     seasons:
       1:
         label.remove: score
@@ -1075,29 +1083,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.4
-  422981:
-    title: |-
-      Boku no Kokoro no Yabai Yatsu
-    sort_title: |-
-      Boku no Kokoro no Yabai Yatsu
-    original_title: |-
-      僕の心のヤバイやつ
-    genre.sync: Anime,Comedy,Romance,Slice of Life,Primarily Teen Cast,Heterosexual,Coming of Age,Male Protagonist,School,Female Protagonist,Shounen,Iyashikei
-    label: Airing
-    label.remove: Planned,Ended
-    studio: Shin-Ei Animation
-    seasons:
-      1:
-        title: |-
-          Boku no Kokoro no Yabai Yatsu
-        user_rating: 8.1
-        label: score
-      2:
-        title: |-
-          Boku no Kokoro no Yabai Yatsu 2nd Season
-        user_rating: 8.5
-        label: score
-    audience_rating: 8.3
   285357:
     title: |-
       Danna ga Nani wo Itteiru ka Wakaranai Ken
@@ -1534,21 +1519,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 6.8
-  439759:
-    title: |-
-      Gekkan Mousou Kagaku
-    sort_title: |-
-      Gekkan Mousou Kagaku
-    original_title: |-
-      月刊モー想科学
-    genre.sync: Anime,Slice of Life,Supernatural
-    label: Airing
-    label.remove: Planned,Ended
-    studio: OLM
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 4.4
   279804:
     title: |-
       Gekkan Shoujo Nozaki-kun
@@ -1710,6 +1680,31 @@ metadata:
         user_rating: 8.0
         label: score
     audience_rating: 8.0
+  319981:
+    title: |-
+      GRANBLUE FANTASY The Animation
+    sort_title: |-
+      GRANBLUE FANTASY The Animation
+    original_title: |-
+      GRANBLUE FANTASY The Animation
+    genre.sync: Anime,Adventure,Fantasy,Magic,Ensemble Cast
+    label: Ended
+    label.remove: Planned,Airing
+    studio: A-1 Pictures
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          GRANBLUE FANTASY The Animation
+        user_rating: 6.4
+        label: score
+      2:
+        title: |-
+          GRANBLUE FANTASY The Animation Season 2
+        user_rating: 6.5
+        label: score
+    audience_rating: 6.4
   343913:
     title: |-
       Grand Blue
@@ -3253,7 +3248,7 @@ metadata:
       Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru
     original_title: |-
       ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する
-    genre.sync: Anime,Fantasy,Romance,Time Manipulation,Female Protagonist,Reincarnation,Ojou-sama,Shoujo,Time Loop,Villainess
+    genre.sync: Anime,Fantasy,Romance,Time Manipulation,Time Loop,Female Protagonist,Reincarnation,Ojou-sama,Shoujo
     label: Airing
     label.remove: Planned,Ended
     studio: HORNETS
@@ -6196,6 +6191,21 @@ metadata:
         user_rating: 8.4
         label: score
     audience_rating: 8.2
+  435466:
+    title: |-
+      Yuuki Bakuhatsu Bang Bravern
+    sort_title: |-
+      Yuuki Bakuhatsu Bang Bravern
+    original_title: |-
+      勇気爆発バーンブレイバーン
+    genre.sync: Anime,Action,Mecha,Parody,Super Robot,Love Triangle,Military,Primarily Adult Cast,Aliens,Meta,Foreign
+    label: Airing
+    label.remove: Planned,Ended
+    studio: CygamesPictures
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 6.7
   385542:
     title: |-
       Yuukoku no Moriarty
