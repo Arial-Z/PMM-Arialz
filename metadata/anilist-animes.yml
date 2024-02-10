@@ -2082,21 +2082,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 8.2
-  369141:
-    title: |-
-      Hoshiai no Sora
-    sort_title: |-
-      Hoshiai no Sora
-    original_title: |-
-      星合の空
-    genre.sync: Anime,Drama,Slice of Life,Sports,Coming of Age,Tennis,School Club,Primarily Male Cast,Family Life,Male Protagonist,Tragedy,School,Primarily Teen Cast,Primarily Child Cast,Ensemble Cast,LGBTQ+ Themes,Bullying,Transgender
-    label: Ended
-    label.remove: Planned,Airing
-    studio: 8-bit
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 7.5
   372361:
     title: |-
       Houkago Teibou Nisshi
@@ -3601,7 +3586,7 @@ metadata:
       Mato Seihei no Slave
     original_title: |-
       魔都精兵のスレイブ
-    genre.sync: Anime,Action,Adventure,Drama,Ecchi,Fantasy,Romance,Primarily Female Cast,Super Power,Heterosexual,Female Protagonist,Male Protagonist,Slavery,Female Harem,Nudity,Shounen,Demons,Swordplay
+    genre.sync: Anime,Action,Adventure,Drama,Ecchi,Fantasy,Romance,Primarily Female Cast,Super Power,Male Protagonist,Slavery,Female Protagonist,Female Harem,Heterosexual,Nudity,Shounen,Demons,Swordplay
     label: Airing
     label.remove: Planned,Ended
     studio: Seven Arcs
@@ -4051,7 +4036,7 @@ metadata:
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.0
+    audience_rating: 6.1
   412826:
     title: |-
       Otomege Sekai wa Mob ni Kibishii Sekai desu
@@ -5127,6 +5112,21 @@ metadata:
         user_rating: 8.1
         label: score
     audience_rating: 8.3
+  369141:
+    title: |-
+      Hoshiai no Sora
+    sort_title: |-
+      Hoshiai no Sora
+    original_title: |-
+      星合の空
+    genre.sync: Anime,Drama,Slice of Life,Sports,Coming of Age,Tennis,School Club,Primarily Male Cast,Family Life,Male Protagonist,Tragedy,School,Primarily Teen Cast,Primarily Child Cast,Ensemble Cast,LGBTQ+ Themes,Bullying,Transgender
+    label: Ended
+    label.remove: Planned,Airing
+    studio: 8-bit
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 7.5
   244061:
     title: |-
       Steins;Gate
@@ -5161,6 +5161,21 @@ metadata:
       1:
         label.remove: score
     audience_rating: 8.4
+  440481:
+    title: |-
+      Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou Sareru
+    sort_title: |-
+      Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou Sareru
+    original_title: |-
+      最強タンクの迷宮攻略　～体力9999のレアスキル持ちタンク、勇者パーティーを追放される～
+    genre.sync: Anime,Action,Adventure,Fantasy,Magic,Female Harem,Male Protagonist,Orphan,Heterosexual
+    label: Airing
+    label.remove: Planned,Ended
+    studio: STUDIO POLON
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 5.9
   267432:
     title: |-
       Suisei no Gargantia
