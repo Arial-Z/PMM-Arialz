@@ -275,7 +275,7 @@ metadata:
       Akuyaku Reijou Level 99: Watashi wa Ura Boss desu ga Maou de wa Arimasen
     original_title: |-
       悪役令嬢レベル99 ～私は裏ボスですが魔王ではありません～
-    genre.sync: Anime,Comedy,Fantasy,Romance,Villainess,Female Protagonist,Kuudere,Magic,Isekai
+    genre.sync: Anime,Comedy,Fantasy,Romance,Villainess,Female Protagonist,Magic,Kuudere,Isekai
     label: Airing
     label.remove: Planned,Ended
     studio: Jumondou
@@ -895,7 +895,7 @@ metadata:
       Chiyu Mahou no Machigatta Tsukaikata
     original_title: |-
       治癒魔法の間違った使い方
-    genre.sync: Anime,Action,Fantasy,Isekai,Magic,Demons
+    genre.sync: Anime,Action,Fantasy,Isekai,Magic,Demons,Heterosexual
     label: Airing
     label.remove: Planned,Ended
     studio: Shin-Ei Animation
@@ -2082,6 +2082,21 @@ metadata:
       1:
         label.remove: score
     audience_rating: 8.2
+  369141:
+    title: |-
+      Hoshiai no Sora
+    sort_title: |-
+      Hoshiai no Sora
+    original_title: |-
+      星合の空
+    genre.sync: Anime,Drama,Slice of Life,Sports,Coming of Age,Tennis,School Club,Primarily Male Cast,Family Life,Male Protagonist,Tragedy,School,Primarily Teen Cast,Primarily Child Cast,Ensemble Cast,LGBTQ+ Themes,Bullying,Transgender
+    label: Ended
+    label.remove: Planned,Airing
+    studio: 8-bit
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 7.5
   372361:
     title: |-
       Houkago Teibou Nisshi
@@ -2309,7 +2324,7 @@ metadata:
       Ishura
     original_title: |-
       異修羅
-    genre.sync: Anime,Action,Drama,Fantasy,War,Dystopian,Battle Royale,Swordplay,Gore,CGI
+    genre.sync: Anime,Action,Drama,Fantasy,War,Politics,Dystopian,Battle Royale,Swordplay,Gore,CGI
     label: Airing
     label.remove: Planned,Ended
     studio: Passione
@@ -3613,14 +3628,14 @@ metadata:
       Metallic Rouge
     original_title: |-
       メタリックルージュ
-    genre.sync: Anime,Action,Mecha,Sci-Fi,Robots,Henshin,Artificial Intelligence,Assassins,Female Protagonist,Dystopian,Cyberpunk,Super Robot,Crime,Super Power,Tanned Skin,Tokusatsu,Espionage,Space
+    genre.sync: Anime,Action,Mecha,Sci-Fi,Robots,Artificial Intelligence,Assassins,Henshin,Female Protagonist,Super Power,Dystopian,Cyberpunk,Crime,Fugitive,Space,Tanned Skin,Tokusatsu,Espionage
     label: Airing
     label.remove: Planned,Ended
     studio: bones
     seasons:
       1:
         label.remove: score
-    audience_rating: 6.7
+    audience_rating: 6.6
   307375:
     title: |-
       Mob Psycho 100
@@ -3793,7 +3808,7 @@ metadata:
       New Game!
     original_title: |-
       NEW GAME!
-    genre.sync: Anime,Slice of Life,Cute Girls Doing Cute Things,Work,Primarily Female Cast,Software Development,Office Lady,Video Games,Female Protagonist,Seinen,Ensemble Cast,Primarily Adult Cast,Urban,Drawing
+    genre.sync: Anime,Slice of Life,Cute Girls Doing Cute Things,Work,Primarily Female Cast,Software Development,Office Lady,Video Games,Female Protagonist,Seinen,Ensemble Cast,Office,Primarily Adult Cast,Urban,Drawing
     label: Ended
     label.remove: Planned,Airing
     studio: Doga Kobo
@@ -3890,7 +3905,7 @@ metadata:
       Nozomanu Fushi no Boukensha
     original_title: |-
       望まぬ不死の冒険者
-    genre.sync: Anime,Action,Adventure,Fantasy,Male Protagonist,Dungeon,Magic,Skeleton
+    genre.sync: Anime,Action,Adventure,Fantasy,Dungeon,Magic,Male Protagonist,Monster Boy,Skeleton
     label: Airing
     label.remove: Planned,Ended
     studio: CONNECT
@@ -4560,6 +4575,21 @@ metadata:
       1:
         label.remove: score
     audience_rating: 7.1
+  440481:
+    title: |-
+      Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou Sareru
+    sort_title: |-
+      Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou Sareru
+    original_title: |-
+      最強タンクの迷宮攻略　～体力9999のレアスキル持ちタンク、勇者パーティーを追放される～
+    genre.sync: Anime,Action,Adventure,Fantasy,Magic,Female Harem,Male Protagonist,Orphan,Heterosexual
+    label: Airing
+    label.remove: Planned,Ended
+    studio: STUDIO POLON
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 5.9
   262114:
     title: |-
       Sakurasou no Pet na Kanojo
@@ -4737,7 +4767,7 @@ metadata:
       Senpai ga Uzai Kouhai no Hanashi
     original_title: |-
       先輩がうざい後輩の話
-    genre.sync: Anime,Comedy,Romance,Slice of Life,Office Lady,Primarily Adult Cast,Female Protagonist,Work,Tsundere,Heterosexual,Josei
+    genre.sync: Anime,Comedy,Romance,Slice of Life,Office Lady,Primarily Adult Cast,Work,Female Protagonist,Office,Tsundere,Heterosexual,Josei
     label: Ended
     label.remove: Planned,Airing
     studio: Doga Kobo
@@ -5112,21 +5142,6 @@ metadata:
         user_rating: 8.1
         label: score
     audience_rating: 8.3
-  369141:
-    title: |-
-      Hoshiai no Sora
-    sort_title: |-
-      Hoshiai no Sora
-    original_title: |-
-      星合の空
-    genre.sync: Anime,Drama,Slice of Life,Sports,Coming of Age,Tennis,School Club,Primarily Male Cast,Family Life,Male Protagonist,Tragedy,School,Primarily Teen Cast,Primarily Child Cast,Ensemble Cast,LGBTQ+ Themes,Bullying,Transgender
-    label: Ended
-    label.remove: Planned,Airing
-    studio: 8-bit
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 7.5
   244061:
     title: |-
       Steins;Gate
@@ -5161,21 +5176,6 @@ metadata:
       1:
         label.remove: score
     audience_rating: 8.4
-  440481:
-    title: |-
-      Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou Sareru
-    sort_title: |-
-      Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou Sareru
-    original_title: |-
-      最強タンクの迷宮攻略　～体力9999のレアスキル持ちタンク、勇者パーティーを追放される～
-    genre.sync: Anime,Action,Adventure,Fantasy,Magic,Female Harem,Male Protagonist,Orphan,Heterosexual
-    label: Airing
-    label.remove: Planned,Ended
-    studio: STUDIO POLON
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 5.9
   267432:
     title: |-
       Suisei no Gargantia
