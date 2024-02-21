@@ -97,8 +97,8 @@ metadata:
     original_title: |-
       Fate/strange Fake
     genre.sync: Anime,Action,Adventure,Fantasy,Mystery,Supernatural
-    label: Ended
-    label.remove: Planned,Airing
+    label: Planned
+    label.remove: Airing,Ended
     studio: A-1 Pictures
     seasons:
       0:
@@ -1807,6 +1807,30 @@ metadata:
         label.remove: score
     audience_rating: 8.2
     critic_rating: 8.4
+  273004:
+    title: |-
+      Gundam Build Fighters
+    sort_title: |-
+      Gundam Build Fighters
+    original_title: |-
+      Gundam Build Fighters
+    genre.sync: Anime,Action,Mecha,Sci-Fi,Super Robot,Robots,Primarily Child Cast
+    label: Ended
+    label.remove: Planned,Airing
+    studio: Sunrise
+    seasons:
+      1:
+        title: |-
+          Gundam Build Fighters
+        user_rating: 7.5
+        label: score
+      2:
+        title: |-
+          Gundam Build Fighters Try
+        user_rating: 6.8
+        label: score
+    audience_rating: 7.2
+    critic_rating: 7.4
   85249:
     title: |-
       Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST
@@ -3900,22 +3924,6 @@ metadata:
         label: score
     audience_rating: 8.2
     critic_rating: 8.4
-  421452:
-    title: |-
-      My Home Hero
-    sort_title: |-
-      My Home Hero
-    original_title: |-
-      My Home Hero
-    genre.sync: Anime,Action,Drama,Psychological,Thriller,Crime,Primarily Adult Cast,Yakuza,Mafia,Male Protagonist,Seinen,Fugitive,Urban,Gangs
-    label: Ended
-    label.remove: Planned,Airing
-    studio: Tezuka Productions
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 6.7
-    critic_rating: 7.1
   413333:
     title: |-
       Nanatsu no Maken ga Shihai Suru
@@ -6247,20 +6255,6 @@ metadata:
         label.remove: score
     audience_rating: 8.2
     critic_rating: 8.4
-  444655:
-    title: |-
-      Wangzhe Rongyao: Rongyao Zhi Zhang
-    sort_title: |-
-      Wangzhe Rongyao: Rongyao Zhi Zhang
-    original_title: |-
-      Honor of Kings: Chapter of Glory
-    genre.sync: Anime,Fantasy
-    label: Ended
-    label.remove: Planned,Airing
-    studio: Cloud Art
-    seasons:
-      1:
-        label.remove: score
   428350:
     title: |-
       Watashi no Oshi wa Akuyaku Reijou.
