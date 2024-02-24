@@ -20,11 +20,11 @@ templates:
     overlay:
       name: text(<<rating_type>>)
       font: fonts/Roboto-Bold.ttf
-      font_size: 60
+      font_size: 80
       font_color: "#FFFFFF"
-      horizontal_offset: 195
+      horizontal_offset: 180
       horizontal_align: left
-      vertical_offset: 15
+      vertical_offset: 60
       vertical_align: bottom
 
 
@@ -36,7 +36,7 @@ templates:
       url: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/overlays/Images/Rating/<<overlay>>.png
       back_color: "#00000099"
       back_radius: 30
-      back_width: 240
+      back_width: 225
       back_height: 120
       horizontal_offset: 270
       horizontal_align: left
@@ -49,11 +49,11 @@ templates:
     overlay:
       name: text(<<rating_type>>)
       font: fonts/Roboto-Bold.ttf
-      font_size: 60
+      font_size: 80
       font_color: "#FFFFFF"
       horizontal_offset: 450
       horizontal_align: left
-      vertical_offset: 15
+      vertical_offset: 60
       vertical_align: bottom
 
 overlays:
@@ -75,7 +75,7 @@ overlays:
         audience_rating.gte: 0.1
         audience_rating.lte: 10
 
-  mal_Rating:
+  MAL_Rating:
     template:
       - name: MAL_Rating
         weight: 100
