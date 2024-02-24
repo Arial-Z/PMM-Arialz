@@ -1,7 +1,9 @@
 templates:
-  IMDB_Rating:                                                               #IDMB Rating Logo
+  Anilist_Rating:
+    builder_level: season
     overlay:
       name: <<overlay_name>>
+      builder_level: season
       url: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/overlays/Images/Rating/<<overlay_name>>.png
       back_color: "#00000099"
       back_radius: 30
@@ -12,9 +14,10 @@ templates:
       vertical_offset: 15
       vertical_align: bottom
 
-  Critic_Rating:                                                               #Critic Rating Text (IMDB Rating)
+  User_Rating:
     default:
-      rating_type: critic_rating
+      rating_type: user_rating
+    builder_level: season
     overlay:
       name: text(<<rating_type>>)
       font: fonts/Roboto-Bold.ttf
@@ -26,16 +29,19 @@ templates:
       vertical_align: bottom
 
 overlays:
-  IMDB_Rating:
-    template: [name: IMDB_Rating]
+  Anilist_Rating:
+    template: [name: Anilist_Rating]
     plex_search:
       all:
-        critic_rating.gte: 0.1
-        critic_rating.lte: 10
+        season_label: score
+        user_rating.gte: 0.1
+        user_rating.lte: 10
 
-  critic_rating:
-    template: [name: Critic_Rating]
+
+  User_Rating:
+    template: [name: User_Rating]
     plex_search:
       all:
-        critic_rating.gte: 0.1
-        critic_rating.lte: 10
+        season_label: score
+        user_rating.gte: 0.1
+        user_rating.lte: 10

@@ -2,7 +2,7 @@ templates:
   Anilist_Rating:
     overlay:
       name: <<overlay_name>>
-      url: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/overlays/Images/Rating/<<overlay>>.png
+      url: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/overlays/Images/Rating/<<overlay_name>>.png
       back_color: "#00000099"
       back_radius: 30
       back_width: 240
@@ -18,20 +18,20 @@ templates:
     overlay:
       name: text(<<rating_type>>)
       font: fonts/Roboto-Bold.ttf
-      font_size: 80
+      font_size: 70
       font_color: "#FFFFFF"
-      horizontal_offset: 180
+      horizontal_offset: 145
       horizontal_align: left
-      vertical_offset: 60
+      vertical_offset: 50
       vertical_align: bottom
 
   MAL_Rating:
     overlay:
       name: <<overlay_name>>
-      url: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/overlays/Images/Rating/<<overlay>>.png
+      url: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/overlays/Images/Rating/<<overlay_name>>.png
       back_color: "#00000099"
       back_radius: 30
-      back_width: 225
+      back_width: 240
       back_height: 120
       horizontal_offset: 270
       horizontal_align: left
@@ -44,41 +44,37 @@ templates:
     overlay:
       name: text(<<rating_type>>)
       font: fonts/Roboto-Bold.ttf
-      font_size: 80
+      font_size: 70
       font_color: "#FFFFFF"
-      horizontal_offset: 450
+      horizontal_offset: 400
       horizontal_align: left
-      vertical_offset: 60
+      vertical_offset: 50
       vertical_align: bottom
 
 overlays:
   Anilist_Rating:
-    template: Anilist_Rating
-        weight: 100
+    template: [name: Anilist_Rating]
     plex_search:
       all:
         audience_rating.gte: 0.1
         audience_rating.lte: 10
 
   Audience_rating:
-    template: Audience_Rating
-      weight: 100
+    template: [name: Audience_Rating]
     plex_search:
       all:
         audience_rating.gte: 0.1
         audience_rating.lte: 10
 
   MAL_Rating:
-    template: MAL_Rating
-        weight: 100
+    template: [name: MAL_Rating]
     plex_search:
       all:
         critic_rating.gte: 0.1
         critic_rating.lte: 10
 
   Critic_rating:
-    template: Critic_rating
-      weight: 100
+    template: [name: Critic_Rating]
     plex_search:
       all:
         critic_rating.gte: 0.1
