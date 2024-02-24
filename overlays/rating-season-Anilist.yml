@@ -14,8 +14,6 @@ templates:
       weight: <<weight>>
 
   User_Rating:                                                               #user Rating Text (MAL Rating)
-    optional:
-      - overlay_level
     default:
       rating_type: user_rating
     builder_level: season

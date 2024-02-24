@@ -1,10 +1,7 @@
 templates:
   Anilist_Rating:
-    optional:
-      - overlay_level
     default:
       overlay: <<overlay_name>>
-    builder_level: <<overlay_level>>
     overlay:
       name: <<overlay_name>>
       url: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/overlays/Images/Rating/<<overlay>>.png
@@ -16,11 +13,8 @@ templates:
       weight: <<weight>>
 
   Audience_Rating:
-    optional:
-      - overlay_level
     default:
       rating_type: audience_rating
-    builder_level: <<overlay_level>>
     overlay:
       name: text(<<rating_type>>)
       queue: Rating_Queue_Text

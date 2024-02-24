@@ -1,14 +1,11 @@
 templates:
   Status-Animes:
-    optional:
-      - overlay_level
     default:
       overlay: <<overlay_name>>
       horizontal_offset: 15
       horizontal_align: right
       vertical_offset: 30
       vertical_align: bottom
-    builder_level: <<overlay_level>>
     overlay:
       name: text(<<overlay_name>>)
       group: status-animes

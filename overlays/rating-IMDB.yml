@@ -1,7 +1,7 @@
 templates:
   IMDB_Rating:                                                               #IDMB Rating Logo
     optional:
-      - overlay_level
+      - builder_level
     default:
       overlay: <<overlay_name>>
     builder_level: <<builder_level>>
@@ -17,10 +17,10 @@ templates:
 
   Critic_Rating:                                                               #Critic Rating Text (IMDB Rating)
     optional:
-      - overlay_level
+      - builder_level
     default:
       rating_type: critic_rating
-    builder_level: <<overlay_level>>
+    builder_level: <<builder_level>>
     overlay:
       name: text(<<rating_type>>)
       queue: Rating_Queue_Text

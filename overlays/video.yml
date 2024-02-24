@@ -1,7 +1,7 @@
 templates:
   DynamicRange:
     optional:
-      - overlay_level
+      - builder_level
     default:
       overlay: <<overlay_name>>
       horizontal_offset: 15
@@ -25,14 +25,14 @@ templates:
 
   Resolution:
     optional:
-      - overlay_level
+      - builder_level
     default:
       overlay: <<overlay_name>>
       horizontal_offset: 15
       horizontal_align: left
       vertical_offset: 15
       vertical_align: top
-    builder_level: <<overlay_level>>
+    builder_level: <<builder_level>>
     overlay:
       name: <<overlay_name>>
       repo: /overlays/Images/Resolution/<<overlay>>
