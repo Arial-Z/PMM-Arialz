@@ -9,7 +9,7 @@ templates:
       back_height: 120
       horizontal_offset: 15
       horizontal_align: left
-      vertical_offset: 15
+      vertical_offset: 30
       vertical_align: bottom
 
   Critic_Rating:                                                               #Critic Rating Text (IMDB Rating)
@@ -20,9 +20,9 @@ templates:
       font: fonts/Roboto-Bold.ttf
       font_size: 70
       font_color: "#FFFFFF"
-      horizontal_offset: 145
+      horizontal_offset: 144
       horizontal_align: left
-      vertical_offset: 50
+      vertical_offset: 64
       vertical_align: bottom
 
 overlays:
