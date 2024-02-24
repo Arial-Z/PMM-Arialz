@@ -77,8 +77,7 @@ overlays:
         critic_rating.lte: 10
 
   Critic_rating:
-    template:
-      name: Critic_rating
+    template: Critic_rating
       weight: 100
     plex_search:
       all:
