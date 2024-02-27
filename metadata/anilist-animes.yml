@@ -171,6 +171,8 @@ metadata:
     label.remove: Planned,Airing
     studio: A-1 Pictures
     seasons:
+      0:
+        label.remove: score
       1:
         label.remove: score
     audience_rating: 8.2
@@ -344,6 +346,22 @@ metadata:
         label.remove: score
     audience_rating: 6.7
     critic_rating: 7.1
+  407840:
+    title: |-
+      Aoashi
+    sort_title: |-
+      Aoashi
+    original_title: |-
+      Aoashi
+    genre.sync: Anime,Sports,Football,Male Protagonist,Primarily Teen Cast,Primarily Male Cast,Seinen,Heterosexual
+    label: Ended
+    label.remove: Planned,Airing
+    studio: Production I.G
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 8.1
+    critic_rating: 8.2
   248035:
     title: |-
       Ao no Exorcist
@@ -375,22 +393,6 @@ metadata:
         label: score
     audience_rating: 7.1
     critic_rating: 7.4
-  407840:
-    title: |-
-      Aoashi
-    sort_title: |-
-      Aoashi
-    original_title: |-
-      Aoashi
-    genre.sync: Anime,Sports,Football,Male Protagonist,Primarily Teen Cast,Primarily Male Cast,Seinen,Heterosexual
-    label: Ended
-    label.remove: Planned,Airing
-    studio: Production I.G
-    seasons:
-      1:
-        label.remove: score
-    audience_rating: 8.1
-    critic_rating: 8.2
   411800:
     title: |-
       Arknights: Reimei Zensou
@@ -1807,6 +1809,22 @@ metadata:
         label.remove: score
     audience_rating: 8.2
     critic_rating: 8.4
+  79071:
+    title: |-
+      Gto
+    sort_title: |-
+      Gto
+    original_title: |-
+      GTO: Great Teacher Onizuka
+    genre.sync: Anime,Comedy,Drama,Slice of Life,Teacher,School,Work,Delinquents,Male Protagonist,Kuudere,Coming of Age,Educational,Bullying
+    label: Ended
+    label.remove: Planned,Airing
+    studio: Studio Pierrot
+    seasons:
+      1:
+        label.remove: score
+    audience_rating: 8.4
+    critic_rating: 8.7
   85249:
     title: |-
       Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST
@@ -4847,6 +4865,19 @@ metadata:
         label.remove: score
     audience_rating: 7.8
     critic_rating: 8.1
+  79089:
+    title: |-
+      Samurai Champloo
+    sort_title: |-
+      Samurai Champloo
+    original_title: |-
+      Samurai Champloo
+    genre.sync: Anime,Action,Adventure,Comedy,Travel,Swordplay,Samurai,Rural,Historical,Martial Arts,Anachronism,Episodic,Anti-Hero,Male Protagonist,Primarily Adult Cast,Female Protagonist,Prostitution,Noir,Assassins
+    label: Ended
+    label.remove: Planned,Airing
+    studio: Manglobe
+    audience_rating: 8.4
+    critic_rating: 8.5
   257518:
     title: |-
       Sankarea
