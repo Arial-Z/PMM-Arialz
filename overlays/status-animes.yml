@@ -11,10 +11,10 @@ templates:
       group: status-animes
       weight: <<weight>>
       font: fonts/Roboto-Bold.ttf
-      font_size: 63
+      font_size: 60
       back_color: "#00000099"
       back_radius: 30
-      back_width: 330
+      back_width: 350
       back_height: 120
       horizontal_offset: <<horizontal_offset>>
       horizontal_align: <<horizontal_align>>
@@ -23,7 +23,7 @@ templates:
 
 overlays:
 
-  AIRING:
+  Diffusion:
     template:
       - name: Status-Animes
         weight: 30
@@ -31,7 +31,7 @@ overlays:
       all:
         label: Airing
 
-  PLANNED:
+  Renouvelé:
     template:
       - name: Status-Animes
         weight: 20
@@ -39,7 +39,7 @@ overlays:
       all:
         label: Planned
 
-  ENDED:
+  Terminé:
     template:
       - name: Status-Animes
         weight: 10

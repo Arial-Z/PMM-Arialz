@@ -12,9 +12,9 @@ external_templates:
     group: status
     horizontal_offset: 15
     horizontal_align: right
-    vertical_offset: 170
+    vertical_offset: 30
     vertical_align: bottom
-    font_size: 58
+    font_size: 60
     back_color: "#00000099"
     back_radius: 30
     back_width: 350
@@ -50,7 +50,7 @@ overlays:
     template: [name: standard, name: status]
 
   returning_shows:
-    variables: {key: returning, weight: 30, text: Renouvellée}
+    variables: {key: returning, weight: 30, text: Renouvelée}
     template: [name: standard, name: status]
 
   canceled_shows:
