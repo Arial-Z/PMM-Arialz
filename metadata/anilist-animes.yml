@@ -23,26 +23,8 @@ metadata:
     label: Ended,completed
     label.remove: Planned,Airing,watching,dropped,paused,planning
     studio: MADHOUSE
-    seasons:
-      0:
-        label.remove: score
-      1:
-        title: |-
-          Hajime no Ippo
-        user_rating: 8.6
-        label: score,completed,2000 Fall
-      2:
-        title: |-
-          Hajime no Ippo: New Challenger
-        user_rating: 8.5
-        label: score,completed,2009 Winter
-      3:
-        title: |-
-          Hajime no Ippo: Rising
-        user_rating: 8.4
-        label: score,completed,2013 Fall
-    audience_rating: 8.5
-    critic_rating: 8.7
+    audience_rating: 8.6
+    critic_rating: 8.8
   76013:
     title: |-
       Major
@@ -103,6 +85,19 @@ metadata:
     seasons:
       0:
         label.remove: score
+  442215:
+    title: |-
+      Sand Land: The Series
+    sort_title: |-
+      Sand Land: The Series
+    original_title: |-
+      Sand Land: The Series
+    genre.sync: Action,Adventure,Fantasy,Supernatural,Full CGI,Tanks,Post-Apocalyptic,Desert,Military
+    label: Airing
+    label.remove: Planned,Ended,completed,watching,dropped,paused,planning
+    studio: Sunrise
+    audience_rating: 6.2
+    critic_rating: 7.3
   429055:
     title: |-
       16bit Sensation: ANOTHER LAYER
@@ -4262,8 +4257,8 @@ metadata:
     original_title: |-
       The Demon Prince of Momochi House
     genre.sync: Romance,Supernatural,Youkai,Female Protagonist,Shoujo,Primarily Male Cast,Orphan
-    label: Airing,watching
-    label.remove: Planned,Ended,completed,dropped,paused,planning
+    label: Ended,watching
+    label.remove: Planned,Airing,completed,dropped,paused,planning
     studio: Drive
     seasons:
       1:
@@ -4513,8 +4508,8 @@ metadata:
     original_title: |-
       The Unwanted Undead Adventurer
     genre.sync: Action,Adventure,Fantasy,Dungeon,Magic,Male Protagonist,Monster Boy,Skeleton
-    label: Airing,watching
-    label.remove: Planned,Ended,completed,dropped,paused,planning
+    label: Ended,watching
+    label.remove: Planned,Airing,completed,dropped,paused,planning
     studio: CONNECT
     seasons:
       1:
@@ -5380,8 +5375,8 @@ metadata:
     original_title: |-
       Sasaki and Peeps
     genre.sync: Comedy,Fantasy,Mahou Shoujo,Isekai,Urban Fantasy,Economics,Animals,Work,Crossover,Male Protagonist,Magic,Super Power,Police
-    label: Airing,watching
-    label.remove: Planned,Ended,completed,dropped,paused,planning
+    label: Ended,watching
+    label.remove: Planned,Airing,completed,dropped,paused,planning
     studio: SILVER LINK.
     seasons:
       1:
@@ -5915,8 +5910,8 @@ metadata:
     original_title: |-
       Frieren: Beyond Journey’s End
     genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Female Protagonist,Elf,Philosophy,Time Skip,Coming of Age,Kuudere,Demons,Environmental,Witch
-    label: Airing,watching
-    label.remove: Planned,Ended,completed,dropped,paused,planning
+    label: Ended,watching
+    label.remove: Planned,Airing,completed,dropped,paused,planning
     studio: MADHOUSE
     seasons:
       1:
@@ -6682,10 +6677,10 @@ metadata:
       3:
         title: |-
           Uchuu Senkan Yamato 2205: Aratanaru Tabidachi
-        user_rating: 14.1
-        label: score,2021 Fall,
-    audience_rating: 9.8
-    critic_rating: 10.3
+        user_rating: 6.8
+        label: score,2021 Fall
+    audience_rating: 7.4
+    critic_rating: 7.8
   315094:
     title: |-
       Udon no Kuni no Kiniro Kemari
@@ -6732,8 +6727,8 @@ metadata:
     original_title: |-
       Undead Unluck
     genre.sync: Action,Comedy,Sci-Fi,Supernatural,Female Protagonist,Male Protagonist,Super Power,Gore,Cosmic Horror,Shounen,Tragedy,Time Loop,Zombie,Dissociative Identities,Nudity,Primarily Adult Cast,Memory Manipulation,Heterosexual,Meta,Age Gap,Martial Arts
-    label: Airing,watching
-    label.remove: Planned,Ended,completed,dropped,paused,planning
+    label: Ended,watching
+    label.remove: Planned,Airing,completed,dropped,paused,planning
     studio: David Production
     seasons:
       1:
