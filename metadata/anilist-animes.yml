@@ -23,8 +23,26 @@ metadata:
     label: Ended,completed
     label.remove: Planned,Airing,watching,dropped,paused,planning
     studio: MADHOUSE
-    audience_rating: 8.6
-    critic_rating: 8.8
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          Hajime no Ippo
+        user_rating: 8.6
+        label: score,completed,2000 Fall
+      2:
+        title: |-
+          Hajime no Ippo: New Challenger
+        user_rating: 8.5
+        label: score,completed,2009 Winter
+      3:
+        title: |-
+          Hajime no Ippo: Rising
+        user_rating: 8.4
+        label: score,completed,2013 Fall
+    audience_rating: 8.5
+    critic_rating: 8.7
   76013:
     title: |-
       Major
