@@ -114,6 +114,12 @@ metadata:
     label: Airing
     label.remove: Planned,Ended
     studio: Sunrise
+    seasons:
+      1:
+        title: |-
+          Sand Land: The Series
+        user_rating: 6.2
+        label: score,2024 Spring
     audience_rating: 6.2
     critic_rating: 7.3
   429055:
@@ -142,7 +148,7 @@ metadata:
       3-gatsu no Lion
     original_title: |-
       March comes in like a lion
-    genre.sync: Drama,Slice of Life,Coming of Age,Rehabilitation,Shogi,Seinen,Family Life,Found Family,Male Protagonist,Philosophy,Tragedy,Trains,Bullying
+    genre.sync: Drama,Slice of Life,Coming of Age,Rehabilitation,Shogi,Seinen,Family Life,Found Family,Male Protagonist,Trains,Philosophy,Tragedy,Bullying
     label: Ended
     label.remove: Planned,Airing
     studio: Shaft
@@ -244,7 +250,7 @@ metadata:
       Aggressive Retsuko
     original_title: |-
       Aggretsuko
-    genre.sync: Comedy,Music,Slice of Life,Work,Office Lady,Anthropomorphism,Urban,Primarily Adult Cast,Female Protagonist,Animals,Unrequited Love,Chibi
+    genre.sync: Comedy,Music,Slice of Life,Work,Office Lady,Anthropomorphism,Primarily Adult Cast,Urban,Female Protagonist,Animals,Unrequited Love,Chibi
     label: Ended
     label.remove: Planned,Airing
     studio: Fanworks
@@ -324,8 +330,8 @@ metadata:
     original_title: |-
       Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord
     genre.sync: Comedy,Fantasy,Romance,Villainess,Magic,Female Protagonist,Isekai,Kuudere,Reincarnation,School
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Jumondou
     seasons:
       1:
@@ -400,8 +406,8 @@ metadata:
     original_title: |-
       Blue Exorcist
     genre.sync: Action,Fantasy,Supernatural,Demons,Shounen,Super Power,Male Protagonist,Youkai,Twins,Religion,Primarily Teen Cast,School,Urban Fantasy,Adoption
-    label: Ended
-    label.remove: Planned,Airing
+    label: Planned
+    label.remove: Airing,Ended
     studio: A-1 Pictures
     seasons:
       0:
@@ -518,7 +524,7 @@ metadata:
       Azumanga Daiou THE ANIMATION
     original_title: |-
       Azumanga Daioh
-    genre.sync: Comedy,Slice of Life,School,Primarily Female Cast,Episodic,Surreal Comedy,Slapstick,Cute Girls Doing Cute Things,Ensemble Cast,Coming of Age,Female Protagonist,Primarily Teen Cast
+    genre.sync: Comedy,Slice of Life,School,Primarily Female Cast,Episodic,Surreal Comedy,Slapstick,Cute Girls Doing Cute Things,Ensemble Cast,Coming of Age,Female Protagonist,Primarily Teen Cast,LGBTQ+ Themes
     label: Ended
     label.remove: Planned,Airing
     studio: J.C. Staff
@@ -609,7 +615,7 @@ metadata:
       Beastars
     original_title: |-
       Beastars
-    genre.sync: Drama,Mystery,Psychological,Romance,Slice of Life,Anthropomorphism,Coming of Age,Animals,Full CGI,Primarily Teen Cast,Cannibalism,Male Protagonist,School,Love Triangle,Ensemble Cast,Heterosexual,Bullying,Crime
+    genre.sync: Drama,Mystery,Psychological,Romance,Slice of Life,Anthropomorphism,Coming of Age,Animals,Cannibalism,Full CGI,Primarily Teen Cast,Male Protagonist,School,Love Triangle,Ensemble Cast,Heterosexual,Crime,Bullying
     label: Planned
     label.remove: Airing,Ended
     studio: Orange
@@ -722,7 +728,7 @@ metadata:
       Bocchi the Rock!
     original_title: |-
       Bocchi The Rock!
-    genre.sync: Comedy,Music,Slice of Life,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Hikikomori,Cute Girls Doing Cute Things,Rehabilitation,Surreal Comedy,Seinen,Meta
+    genre.sync: Comedy,Music,Slice of Life,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Hikikomori,Cute Girls Doing Cute Things,Rehabilitation,Surreal Comedy,Seinen,Meta,Slapstick
     label: Ended
     label.remove: Planned,Airing
     studio: CloverWorks
@@ -1053,7 +1059,7 @@ metadata:
         user_rating: 7.3
         label: score,2024 Winter
     audience_rating: 7.3
-    critic_rating: 7.4
+    critic_rating: 7.5
   261862:
     title: |-
       Chuunibyou demo Koi ga Shitai!
@@ -1432,9 +1438,9 @@ metadata:
       1:
         title: |-
           Dekoboko Majo no Oyako Jijou
-        user_rating: 6.5
+        user_rating: 6.4
         label: score,2023 Fall
-    audience_rating: 6.5
+    audience_rating: 6.4
     critic_rating: 6.8
   273005:
     title: |-
@@ -1512,7 +1518,7 @@ metadata:
       Dosanko Gal wa Namaramenkoi
     original_title: |-
       Hokkaido Gals Are Super Adorable!
-    genre.sync: Comedy,Romance,Slice of Life,Love Triangle,Gyaru,Heterosexual,Male Protagonist,Kuudere,Female Harem,Female Protagonist,Snowscape,Rural,Shounen,School,Nudity
+    genre.sync: Comedy,Romance,Slice of Life,Love Triangle,Gyaru,Heterosexual,Male Protagonist,Kuudere,Snowscape,Female Harem,Female Protagonist,Shounen,Rural,School,Nudity
     label: Ended
     label.remove: Planned,Airing
     studio: BLADE
@@ -1562,7 +1568,7 @@ metadata:
       Dungeon Meshi
     original_title: |-
       Delicious in Dungeon
-    genre.sync: Adventure,Comedy,Fantasy,Food,Dungeon,Magic,Primarily Adult Cast,Elf,Ensemble Cast,Seinen
+    genre.sync: Adventure,Comedy,Fantasy,Food,Dungeon,Magic,Primarily Adult Cast,Ensemble Cast,Elf,Seinen
     label: Airing
     label.remove: Planned,Ended
     studio: Trigger
@@ -1751,9 +1757,9 @@ metadata:
       1:
         title: |-
           Gekai Elise
-        user_rating: 7.0
+        user_rating: 6.9
         label: score,2024 Winter
-    audience_rating: 7.0
+    audience_rating: 6.9
     critic_rating: 7.3
   279804:
     title: |-
@@ -1985,7 +1991,7 @@ metadata:
       Gto
     original_title: |-
       GTO: Great Teacher Onizuka
-    genre.sync: Comedy,Drama,Slice of Life,Teacher,School,Work,Delinquents,Male Protagonist,Kuudere,Coming of Age,Educational,Bullying
+    genre.sync: Comedy,Drama,Slice of Life,Teacher,School,Work,Delinquents,Male Protagonist,Kuudere,Coming of Age,Educational,Satire,Bullying
     label: Ended
     label.remove: Planned,Airing
     studio: Studio Pierrot
@@ -2252,10 +2258,10 @@ metadata:
       2:
         title: |-
           HIGH CARD season 2
-        user_rating: 6.7
+        user_rating: 6.8
         label: score,2024 Winter
-    audience_rating: 6.8
-    critic_rating: 7.2
+    audience_rating: 6.9
+    critic_rating: 7.1
   306743:
     title: |-
       High School Fleet
@@ -2327,18 +2333,18 @@ metadata:
       Hime-sama, "Goumon" no Jikan desu
     original_title: |-
       'Tis Time for "Torture," Princess
-    genre.sync: Comedy,Fantasy,Female Protagonist,Food,Cute Girls Doing Cute Things,Iyashikei,Episodic,Demons,Surreal Comedy,Monster Girl,Slapstick
-    label: Ended
-    label.remove: Planned,Airing
+    genre.sync: Comedy,Fantasy,Female Protagonist,Food,Iyashikei,Cute Girls Doing Cute Things,Episodic,Demons,Surreal Comedy,Slapstick,Monster Girl
+    label: Planned
+    label.remove: Airing,Ended
     studio: PINE JAM
     seasons:
       1:
         title: |-
           Hime-sama, "Goumon" no Jikan desu
-        user_rating: 6.6
+        user_rating: 6.9
         label: score,2024 Winter
-    audience_rating: 6.6
-    critic_rating: 6.8
+    audience_rating: 6.9
+    critic_rating: 7.2
   293121:
     title: |-
       Himouto! Umaru-chan
@@ -2431,7 +2437,7 @@ metadata:
       Hoshiai no Sora
     original_title: |-
       Stars Align
-    genre.sync: Drama,Slice of Life,Sports,Coming of Age,Tennis,School Club,Primarily Male Cast,Family Life,Male Protagonist,Tragedy,School,Primarily Teen Cast,Primarily Child Cast,Ensemble Cast,LGBTQ+ Themes,Bullying,Transgender
+    genre.sync: Drama,Slice of Life,Sports,Coming of Age,Tennis,School Club,Primarily Male Cast,Family Life,Male Protagonist,Tragedy,School,Primarily Teen Cast,Primarily Child Cast,Ensemble Cast,Bullying
     label: Ended
     label.remove: Planned,Airing
     studio: 8-bit
@@ -2603,7 +2609,7 @@ metadata:
       Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta
     original_title: |-
       I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too
-    genre.sync: Action,Adventure,Fantasy,Romance,Isekai,Male Protagonist,Magic,School,Female Harem,Alternate Universe,Spearplay
+    genre.sync: Action,Adventure,Fantasy,Romance,Isekai,Magic,Male Protagonist,School,Female Harem,Alternate Universe,Animals,Spearplay,Swordplay,Assassins
     label: Ended
     label.remove: Planned,Airing
     studio: Millepensee
@@ -2633,7 +2639,7 @@ metadata:
         user_rating: 6.6
         label: score,2024 Winter
     audience_rating: 6.6
-    critic_rating: 6.9
+    critic_rating: 6.8
   418367:
     title: |-
       Isekai Nonbiri Nouka
@@ -2736,7 +2742,7 @@ metadata:
       Ishura
     original_title: |-
       Ishura
-    genre.sync: Action,Drama,Fantasy,War,Ensemble Cast,Politics,Tragedy,Battle Royale,Gore,CGI
+    genre.sync: Action,Drama,Fantasy,War,Politics,Ensemble Cast,Tragedy,Gore
     label: Planned
     label.remove: Airing,Ended
     studio: Passione
@@ -2744,10 +2750,10 @@ metadata:
       1:
         title: |-
           Ishura
-        user_rating: 6.0
+        user_rating: 6.3
         label: score,2024 Winter
-    audience_rating: 6.0
-    critic_rating: 6.5
+    audience_rating: 6.3
+    critic_rating: 6.6
   373679:
     title: |-
       Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.
@@ -2787,9 +2793,9 @@ metadata:
       1:
         title: |-
           Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
-        user_rating: 6.4
+        user_rating: 6.3
         label: score,2023 Summer
-    audience_rating: 6.4
+    audience_rating: 6.3
     critic_rating: 6.5
   402474:
     title: |-
@@ -2855,7 +2861,7 @@ metadata:
       Jujutsu Kaisen
     original_title: |-
       Jujutsu Kaisen
-    genre.sync: Action,Drama,Supernatural,Urban Fantasy,Shounen,Youkai,Super Power,Male Protagonist,Primarily Teen Cast,Dissociative Identities,Body Horror,Demons,Magic,Ensemble Cast,Martial Arts,Primarily Male Cast,Gore
+    genre.sync: Action,Drama,Supernatural,Urban Fantasy,Shounen,Super Power,Youkai,Male Protagonist,Primarily Teen Cast,Dissociative Identities,Body Horror,Demons,Magic,Ensemble Cast,Martial Arts,Primarily Male Cast,Gore
     label: Planned
     label.remove: Airing,Ended
     studio: MAPPA
@@ -3315,7 +3321,7 @@ metadata:
       Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo
     original_title: |-
       The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You
-    genre.sync: Comedy,Ecchi,Romance,Female Harem,Ensemble Cast,Surreal Comedy,Heterosexual,Primarily Female Cast,Male Protagonist,Parody,Primarily Teen Cast,Meta,Tsundere,Polyamorous,Slapstick,Love Triangle,Kuudere,Age Regression,School,Cute Girls Doing Cute Things,Seinen,Age Gap
+    genre.sync: Comedy,Ecchi,Romance,Female Harem,Ensemble Cast,Surreal Comedy,Heterosexual,Primarily Female Cast,Male Protagonist,Parody,Primarily Teen Cast,Meta,Tsundere,Polyamorous,Slapstick,Cute Girls Doing Cute Things,Kuudere,School,Love Triangle,Age Regression,Seinen,Age Gap
     label: Planned
     label.remove: Airing,Ended
     studio: Bibury Animation Studios
@@ -3323,9 +3329,9 @@ metadata:
       1:
         title: |-
           Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo
-        user_rating: 7.8
+        user_rating: 7.7
         label: score,2023 Fall
-    audience_rating: 7.8
+    audience_rating: 7.7
     critic_rating: 7.8
   387027:
     title: |-
@@ -3334,7 +3340,7 @@ metadata:
       Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen
     original_title: |-
       Our Last Crusade or the Rise of a New World
-    genre.sync: Action,Ecchi,Fantasy,Romance,War,Magic,Witch,Male Protagonist,Swordplay,Female Protagonist,Politics,Military,Martial Arts
+    genre.sync: Action,Ecchi,Fantasy,Romance,War,Magic,Witch,Male Protagonist,Swordplay,Female Protagonist,Politics,Military,Heterosexual,Martial Arts
     label: Planned
     label.remove: Airing,Ended
     studio: SILVER LINK.
@@ -3713,18 +3719,18 @@ metadata:
       Kusuriya no Hitorigoto
     original_title: |-
       The Apothecary Diaries
-    genre.sync: Drama,Mystery,Female Protagonist,Medicine,Conspiracy,Historical,Drugs,Politics,Detective,Crime,Foreign,Work,Ancient China,Royal Affairs,Primarily Female Cast
-    label: Ended
-    label.remove: Planned,Airing
+    genre.sync: Drama,Mystery,Medicine,Female Protagonist,Conspiracy,Historical,Drugs,Detective,Politics,Crime,Work,Heterosexual,Royal Affairs,Foreign,Primarily Female Cast,Alchemy
+    label: Planned
+    label.remove: Airing,Ended
     studio: OLM
     seasons:
       1:
         title: |-
           Kusuriya no Hitorigoto
-        user_rating: 8.7
+        user_rating: 8.8
         label: score,2023 Fall
-    audience_rating: 8.7
-    critic_rating: 8.8
+    audience_rating: 8.8
+    critic_rating: 8.9
   368565:
     title: |-
       Kyokou Suiri
@@ -3777,7 +3783,7 @@ metadata:
       Kyuujitsu no Warumono-san
     original_title: |-
       Mr. Villain's Day Off
-    genre.sync: Comedy,Slice of Life,Male Protagonist,Iyashikei,Primarily Adult Cast,Monster Boy,Urban,Aliens,Animals
+    genre.sync: Comedy,Slice of Life,Male Protagonist,Iyashikei,Primarily Adult Cast,Monster Boy,Urban,Aliens,Animals,Shoujo
     label: Ended
     label.remove: Planned,Airing
     studio: Shin-Ei Animation
@@ -3785,10 +3791,10 @@ metadata:
       1:
         title: |-
           Kyuujitsu no Warumono-san
-        user_rating: 6.9
+        user_rating: 7.0
         label: score,2024 Winter
-    audience_rating: 6.9
-    critic_rating: 7.2
+    audience_rating: 7.0
+    critic_rating: 7.3
   419854:
     title: |-
       Level 1 dakedo Unique Skill de Saikyou desu
@@ -3815,7 +3821,7 @@ metadata:
       Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru
     original_title: |-
       7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!
-    genre.sync: Fantasy,Romance,Time Loop,Time Manipulation,Reincarnation,Female Protagonist,Ojou-sama,Shoujo,Politics
+    genre.sync: Fantasy,Romance,Time Loop,Time Manipulation,Reincarnation,Female Protagonist,Ojou-sama,Shoujo,Politics,Kuudere,Economics
     label: Ended
     label.remove: Planned,Airing
     studio: HORNETS
@@ -3823,10 +3829,10 @@ metadata:
       1:
         title: |-
           Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru
-        user_rating: 7.6
+        user_rating: 7.5
         label: score,2024 Winter
-    audience_rating: 7.6
-    critic_rating: 7.8
+    audience_rating: 7.5
+    critic_rating: 7.6
   418340:
     title: |-
       Lv1 Maou to One Room Yuusha
@@ -3853,7 +3859,7 @@ metadata:
       Lycoris Recoil
     original_title: |-
       Lycoris Recoil
-    genre.sync: Action,Slice of Life,Primarily Female Cast,Female Protagonist,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Cute Girls Doing Cute Things,Work,Kuudere,Espionage,LGBTQ+ Themes,Adoption
+    genre.sync: Action,Slice of Life,Female Protagonist,Primarily Female Cast,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Yuri,Cute Girls Doing Cute Things,Work,Kuudere,Espionage,LGBTQ+ Themes,Adoption
     label: Ended
     label.remove: Planned,Airing
     studio: A-1 Pictures
@@ -3917,7 +3923,7 @@ metadata:
       Made in Abyss
     original_title: |-
       Made in Abyss
-    genre.sync: Adventure,Drama,Fantasy,Horror,Mystery,Sci-Fi,Survival,Primarily Child Cast,Philosophy,Environmental,Chibi,Travel,Body Horror,Tragedy,Dungeon,Lost Civilization,Seinen,Female Protagonist,Amnesia,Gore
+    genre.sync: Adventure,Drama,Fantasy,Horror,Mystery,Sci-Fi,Survival,Primarily Child Cast,Chibi,Environmental,Philosophy,Travel,Body Horror,Tragedy,Lost Civilization,Dungeon,Seinen,Female Protagonist,Amnesia,Gore
     label: Ended
     label.remove: Planned,Airing
     studio: Kinema Citrus
@@ -4076,7 +4082,7 @@ metadata:
         user_rating: 7.8
         label: score,2022 Fall
     audience_rating: 7.8
-    critic_rating: 7.8
+    critic_rating: 7.9
   423601:
     title: |-
       Majo to Yajuu
@@ -4189,7 +4195,7 @@ metadata:
       Mashle
     original_title: |-
       Mashle: Magic And Muscles
-    genre.sync: Action,Comedy,Fantasy,Shounen,Magic,Male Protagonist,School,Parody,Primarily Teen Cast,Slapstick,Kuudere,Fitness,Primarily Male Cast,Super Power,Bullying
+    genre.sync: Action,Comedy,Fantasy,Shounen,Magic,School,Male Protagonist,Parody,Primarily Teen Cast,Slapstick,Kuudere,Fitness,Primarily Male Cast,Super Power,Bullying
     label: Airing
     label.remove: Planned,Ended
     studio: A-1 Pictures
@@ -4234,9 +4240,9 @@ metadata:
       1:
         title: |-
           Metallic Rouge
-        user_rating: 6.3
+        user_rating: 6.2
         label: score,2024 Winter
-    audience_rating: 6.3
+    audience_rating: 6.2
     critic_rating: 6.6
   307375:
     title: |-
@@ -4282,10 +4288,10 @@ metadata:
       1:
         title: |-
           Momochi-san Chi no Ayakashi Ouji
-        user_rating: 5.8
+        user_rating: 5.9
         label: score,2024 Winter
-    audience_rating: 5.8
-    critic_rating: 6.2
+    audience_rating: 5.9
+    critic_rating: 6.4
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -4339,8 +4345,8 @@ metadata:
     original_title: |-
       The Seven Deadly Sins
     genre.sync: Action,Adventure,Comedy,Ecchi,Fantasy,Supernatural,Ensemble Cast,Shounen,Magic,Demons,Male Protagonist,Age Gap,Super Power,Swordplay,Anti-Hero,Dissociative Identities
-    label: Ended
-    label.remove: Planned,Airing
+    label: Planned
+    label.remove: Airing,Ended
     studio: A-1 Pictures
     seasons:
       0:
@@ -4450,9 +4456,9 @@ metadata:
       1:
         title: |-
           Nichijou
-        user_rating: 8.2
+        user_rating: 8.3
         label: score,2011 Spring
-    audience_rating: 8.2
+    audience_rating: 8.3
     critic_rating: 8.5
   416998:
     title: |-
@@ -4525,7 +4531,7 @@ metadata:
       Nozomanu Fushi no Boukensha
     original_title: |-
       The Unwanted Undead Adventurer
-    genre.sync: Action,Adventure,Fantasy,Dungeon,Magic,Male Protagonist,Monster Boy,Skeleton
+    genre.sync: Action,Adventure,Fantasy,Dungeon,Magic,Male Protagonist,Monster Boy,Reincarnation,Skeleton
     label: Ended
     label.remove: Planned,Airing
     studio: CONNECT
@@ -4533,10 +4539,10 @@ metadata:
       1:
         title: |-
           Nozomanu Fushi no Boukensha
-        user_rating: 7.2
+        user_rating: 7.3
         label: score,2024 Winter
-    audience_rating: 7.2
-    critic_rating: 7.4
+    audience_rating: 7.3
+    critic_rating: 7.5
   304493:
     title: |-
       Oji-san to Marshmallow
@@ -4584,7 +4590,7 @@ metadata:
       One Piece
     original_title: |-
       One Piece
-    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Pirates,Shounen,Travel,Ensemble Cast,Super Power,Tragedy,Found Family,Male Protagonist,Slapstick,Ships,Conspiracy,Time Skip,Slavery,Fugitive,Politics,War,Crime,Dystopian,Gods,Monster Boy,Lost Civilization,Swordplay,Samurai,Prison,Medicine,Food,Henshin,Desert,Shapeshifting,Robots,Cyborg,Artificial Intelligence,Primarily Adult Cast
+    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Pirates,Shounen,Travel,Ensemble Cast,Super Power,Tragedy,Found Family,Male Protagonist,Slapstick,Ships,Conspiracy,Slavery,Time Skip,Fugitive,Politics,Crime,War,Dystopian,Gods,Monster Boy,Lost Civilization,Swordplay,Prison,Medicine,Samurai,Food,Henshin,Shapeshifting,Robots,Cyborg,Artificial Intelligence,Primarily Adult Cast
     label: Airing
     label.remove: Planned,Ended
     studio: Toei Animation
@@ -4668,7 +4674,7 @@ metadata:
       Ore dake Level Up na Ken
     original_title: |-
       Solo Leveling
-    genre.sync: Action,Adventure,Fantasy,Dungeon,Male Protagonist,Urban Fantasy,Necromancy,Super Power,Magic,Cultivation,War,Cosmic Horror,Anti-Hero,Alternate Universe,Gore,Tragedy
+    genre.sync: Action,Adventure,Fantasy,Dungeon,Male Protagonist,Urban Fantasy,Necromancy,Super Power,Magic,Cultivation,Cosmic Horror,War,Anti-Hero,Gore,Tragedy,Shounen
     label: Airing
     label.remove: Planned,Ended
     studio: A-1 Pictures
@@ -4695,10 +4701,10 @@ metadata:
       1:
         title: |-
           Oroka na Tenshi wa Akuma to Odoru
-        user_rating: 6.2
+        user_rating: 6.5
         label: score,2024 Winter
-    audience_rating: 6.2
-    critic_rating: 6.4
+    audience_rating: 6.5
+    critic_rating: 6.8
   412826:
     title: |-
       Otomege Sekai wa Mob ni Kibishii Sekai desu
@@ -5156,7 +5162,7 @@ metadata:
       Romantic Killer
     original_title: |-
       Romantic Killer
-    genre.sync: Comedy,Romance,Parody,Female Protagonist,Primarily Teen Cast,Male Harem,Slapstick,Love Triangle,Meta,Urban Fantasy,Magic,Shounen,Tsundere,Anti-Hero,Heterosexual
+    genre.sync: Comedy,Romance,Parody,Female Protagonist,Primarily Teen Cast,Male Harem,Slapstick,Love Triangle,Meta,Urban Fantasy,Magic,Anti-Hero,Shounen,Tsundere,Heterosexual,Video Games
     label: Ended
     label.remove: Planned,Airing
     studio: Domerica
@@ -5328,10 +5334,10 @@ metadata:
       1:
         title: |-
           Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou Sareru
-        user_rating: 5.8
+        user_rating: 5.9
         label: score,2024 Winter
-    audience_rating: 5.8
-    critic_rating: 6.2
+    audience_rating: 5.9
+    critic_rating: 6.1
   262114:
     title: |-
       Sakurasou no Pet na Kanojo
@@ -5339,7 +5345,7 @@ metadata:
       Sakurasou no Pet na Kanojo
     original_title: |-
       The Pet Girl of Sakurasou
-    genre.sync: Comedy,Drama,Romance,Slice of Life,Kuudere,Heterosexual,School,Coming of Age,Ensemble Cast,Work,Found Family,Love Triangle,Drawing
+    genre.sync: Comedy,Drama,Romance,Slice of Life,Kuudere,Heterosexual,School,Coming of Age,Work,Found Family,Love Triangle,Ensemble Cast,Drawing
     label: Ended
     label.remove: Planned,Airing
     studio: J.C. Staff
@@ -5392,18 +5398,18 @@ metadata:
       Sasaki to Pii-chan
     original_title: |-
       Sasaki and Peeps
-    genre.sync: Comedy,Fantasy,Mahou Shoujo,Isekai,Urban Fantasy,Economics,Animals,Work,Crossover,Male Protagonist,Magic,Super Power,Police
-    label: Ended
-    label.remove: Planned,Airing
+    genre.sync: Comedy,Fantasy,Mahou Shoujo,Economics,Isekai,Urban Fantasy,Male Protagonist,Work,Magic,Animals,Crossover,Super Power,Police,Reincarnation,Age Gap
+    label: Planned
+    label.remove: Airing,Ended
     studio: SILVER LINK.
     seasons:
       1:
         title: |-
           Sasaki to Pii-chan
-        user_rating: 6.7
+        user_rating: 6.6
         label: score,2024 Winter
-    audience_rating: 6.7
-    critic_rating: 7.2
+    audience_rating: 6.6
+    critic_rating: 6.9
   425756:
     title: |-
       Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
@@ -5537,7 +5543,7 @@ metadata:
       Sengoku Youko
     original_title: |-
       Sengoku Youko
-    genre.sync: Action,Adventure,Fantasy,Shounen,Demons,Samurai,Tragedy,Magic,Dissociative Identities,Shapeshifting,Ensemble Cast,Kemonomimi,Male Protagonist
+    genre.sync: Action,Adventure,Fantasy,Shounen,Demons,Samurai,Tragedy,Female Protagonist,Magic,Dissociative Identities,Shapeshifting,Ensemble Cast,Kemonomimi,Male Protagonist
     label: Airing
     label.remove: Planned,Ended
     studio: White Fox
@@ -5545,10 +5551,10 @@ metadata:
       1:
         title: |-
           Sengoku Youko
-        user_rating: 6.6
+        user_rating: 6.5
         label: score,2024 Winter
-    audience_rating: 6.6
-    critic_rating: 6.8
+    audience_rating: 6.5
+    critic_rating: 6.7
   401874:
     title: |-
       Senpai ga Uzai Kouhai no Hanashi
@@ -5599,7 +5605,7 @@ metadata:
       Shangri-La Frontier
     original_title: |-
       Shangri-La Frontier
-    genre.sync: Action,Adventure,Comedy,Fantasy,Sci-Fi,Video Games,Virtual World,Male Protagonist,Otaku Culture,Animals,Swordplay
+    genre.sync: Action,Adventure,Comedy,Fantasy,Sci-Fi,Video Games,Virtual World,Male Protagonist,Otaku Culture,Animals,Shounen,Swordplay
     label: Airing
     label.remove: Planned,Ended
     studio: C2C
@@ -5678,7 +5684,7 @@ metadata:
       2:
         title: |-
           Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd
-        user_rating: 6.7
+        user_rating: 6.8
         label: score,2024 Winter
     audience_rating: 6.8
     critic_rating: 6.8
@@ -5782,7 +5788,7 @@ metadata:
       Shoujo Shuumatsu Ryokou
     original_title: |-
       Girls' Last Tour
-    genre.sync: Adventure,Sci-Fi,Slice of Life,Post-Apocalyptic,Lost Civilization,Philosophy,Female Protagonist,Tragedy,Environmental,Iyashikei,Survival,Travel,War,Urban,Episodic,Military,Primarily Female Cast,Chibi,Cute Girls Doing Cute Things
+    genre.sync: Adventure,Sci-Fi,Slice of Life,Post-Apocalyptic,Lost Civilization,Philosophy,Female Protagonist,Tragedy,Environmental,Iyashikei,Survival,Travel,War,Urban,Military,Episodic,Primarily Female Cast,Chibi,Cute Girls Doing Cute Things
     label: Ended
     label.remove: Planned,Airing
     studio: White Fox
@@ -5889,7 +5895,7 @@ metadata:
       Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.
     original_title: |-
       My Instant Death Ability is Overpowered
-    genre.sync: Action,Adventure,Comedy,Fantasy,Isekai,Anti-Hero,Parody,Super Power,Tsundere,Female Protagonist,Male Protagonist
+    genre.sync: Action,Adventure,Comedy,Fantasy,Isekai,Parody,Anti-Hero,Super Power,Tsundere,Female Protagonist,Surreal Comedy,Male Protagonist,Primarily Teen Cast,Magic
     label: Ended
     label.remove: Planned,Airing
     studio: Okuruto Noboru
@@ -5897,10 +5903,10 @@ metadata:
       1:
         title: |-
           Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.
-        user_rating: 6.0
+        user_rating: 6.3
         label: score,2024 Winter
-    audience_rating: 6.0
-    critic_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.4
   401233:
     title: |-
       Sono Bisque Doll wa Koi wo Suru
@@ -5927,7 +5933,7 @@ metadata:
       Sousou no Frieren
     original_title: |-
       Frieren: Beyond Journey’s End
-    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Female Protagonist,Elf,Philosophy,Time Skip,Coming of Age,Kuudere,Demons,Environmental,Witch
+    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Female Protagonist,Elf,Philosophy,Time Skip,Iyashikei,Coming of Age,Kuudere,Demons,Environmental
     label: Ended
     label.remove: Planned,Airing
     studio: MADHOUSE
@@ -5935,10 +5941,10 @@ metadata:
       1:
         title: |-
           Sousou no Frieren
-        user_rating: 9.0
+        user_rating: 9.2
         label: score,2023 Fall
-    audience_rating: 9.0
-    critic_rating: 9.2
+    audience_rating: 9.2
+    critic_rating: 9.4
   405920:
     title: |-
       Spy×family
@@ -6052,7 +6058,7 @@ metadata:
       Sword Art Online
     original_title: |-
       Sword Art Online
-    genre.sync: Action,Adventure,Fantasy,Romance,Virtual World,Death Game,Video Games,Male Protagonist,Swordplay,Primarily Teen Cast,Time Skip,Isekai,Female Harem
+    genre.sync: Action,Adventure,Fantasy,Romance,Virtual World,Death Game,Video Games,Male Protagonist,Swordplay,Primarily Teen Cast,Isekai,Time Skip,Female Harem
     label: Ended
     label.remove: Planned,Airing
     studio: A-1 Pictures
@@ -6088,7 +6094,7 @@ metadata:
       SYNDUALITY Noir
     original_title: |-
       Synduality Noir
-    genre.sync: Mecha,Sci-Fi,Amnesia,Super Robot,Robots,Post-Apocalyptic,Lost Civilization,Artificial Intelligence,Idol
+    genre.sync: Action,Mecha,Sci-Fi,Amnesia,Super Robot,Robots,Post-Apocalyptic,Lost Civilization,Artificial Intelligence,Idol
     label: Ended
     label.remove: Planned,Airing
     studio: 8-bit
@@ -6126,7 +6132,7 @@ metadata:
       Tate no Yuusha no Nariagari
     original_title: |-
       The Rising of the Shield Hero
-    genre.sync: Action,Adventure,Fantasy,Isekai,Male Protagonist,Conspiracy,Revenge,Crime,Magic,Anti-Hero,Tragedy,Henshin,Kemonomimi,Bullying,Travel
+    genre.sync: Action,Adventure,Fantasy,Isekai,Male Protagonist,Conspiracy,Revenge,Crime,Magic,Travel,Anti-Hero,Henshin,Tragedy,Kemonomimi,Bullying
     label: Planned
     label.remove: Airing,Ended
     studio: Kinema Citrus
@@ -6376,7 +6382,7 @@ metadata:
       Tokyo Ghoul
     original_title: |-
       Tokyo Ghoul
-    genre.sync: Action,Drama,Horror,Mystery,Psychological,Supernatural,Gore,Urban Fantasy,Tragedy,Survival,Male Protagonist,Torture,Anti-Hero,Body Horror,Seinen,Coming of Age,Urban,Police,Cannibalism,Detective
+    genre.sync: Action,Drama,Horror,Mystery,Psychological,Supernatural,Gore,Urban Fantasy,Tragedy,Survival,Male Protagonist,Torture,Body Horror,Anti-Hero,Seinen,Coming of Age,Urban,Police,Cannibalism,Detective
     label: Ended
     label.remove: Planned,Airing
     studio: Studio Pierrot
@@ -6619,7 +6625,7 @@ metadata:
       Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san
     original_title: |-
       Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte
-    genre.sync: Comedy,Fantasy,Romance,Villainess,Tsundere,Video Games,Heterosexual,Gods,Ojou-sama,Primarily Teen Cast,Alternate Universe,Magic,School,Meta
+    genre.sync: Comedy,Fantasy,Romance,Villainess,Tsundere,Video Games,Heterosexual,Gods,Ojou-sama,Primarily Teen Cast,Alternate Universe,Magic,School
     label: Ended
     label.remove: Planned,Airing
     studio: Tezuka Productions
@@ -6744,7 +6750,7 @@ metadata:
       Undead Unluck
     original_title: |-
       Undead Unluck
-    genre.sync: Action,Comedy,Sci-Fi,Supernatural,Female Protagonist,Male Protagonist,Super Power,Gore,Cosmic Horror,Shounen,Tragedy,Time Loop,Zombie,Dissociative Identities,Nudity,Primarily Adult Cast,Memory Manipulation,Heterosexual,Meta,Age Gap,Martial Arts
+    genre.sync: Action,Comedy,Sci-Fi,Supernatural,Female Protagonist,Male Protagonist,Super Power,Cosmic Horror,Gore,Tragedy,Shounen,Dissociative Identities,Nudity,Time Loop,Primarily Adult Cast,Memory Manipulation,Heterosexual,Zombie,Meta,Martial Arts
     label: Ended
     label.remove: Planned,Airing
     studio: David Production
@@ -6752,10 +6758,10 @@ metadata:
       1:
         title: |-
           Undead Unluck
-        user_rating: 7.6
+        user_rating: 7.7
         label: score,2023 Fall
-    audience_rating: 7.6
-    critic_rating: 7.7
+    audience_rating: 7.7
+    critic_rating: 7.8
   249872:
     title: |-
       Usagi Drop
@@ -6891,7 +6897,7 @@ metadata:
       Watashi no Oshi wa Akuyaku Reijou.
     original_title: |-
       I'm in Love with the Villainess
-    genre.sync: Comedy,Fantasy,Romance,Yuri,Villainess,LGBTQ+ Themes,Isekai,Video Games,Female Protagonist,Reincarnation,Tsundere,Ojou-sama,Magic,School,Maids,Love Triangle,Primarily Teen Cast,Politics,Primarily Female Cast,Bullying
+    genre.sync: Comedy,Fantasy,Romance,Yuri,Villainess,LGBTQ+ Themes,Isekai,Female Protagonist,Video Games,Tsundere,Reincarnation,Ojou-sama,Magic,School,Maids,Love Triangle,Primarily Teen Cast,Politics,Primarily Female Cast,Bullying
     label: Ended
     label.remove: Planned,Airing
     studio: Platinum Vision
@@ -7044,7 +7050,7 @@ metadata:
       Yakusoku no Neverland
     original_title: |-
       The Promised Neverland
-    genre.sync: Drama,Fantasy,Horror,Mystery,Psychological,Thriller,Dystopian,Survival,Primarily Child Cast,Orphan,Tragedy,Found Family,Demons,Female Protagonist,Coming of Age,Ensemble Cast
+    genre.sync: Drama,Fantasy,Horror,Mystery,Psychological,Thriller,Dystopian,Survival,Primarily Child Cast,Orphan,Tragedy,Found Family,Demons,Coming of Age,Ensemble Cast
     label: Ended
     label.remove: Planned,Airing
     studio: CloverWorks
@@ -7156,7 +7162,7 @@ metadata:
       Yubisaki to Renren
     original_title: |-
       A Sign of Affection
-    genre.sync: Romance,Slice of Life,Disability,Shoujo,Female Protagonist,Language Barrier,Iyashikei,Heterosexual,College,Primarily Adult Cast,Unrequited Love
+    genre.sync: Romance,Slice of Life,Disability,Shoujo,Female Protagonist,Language Barrier,Heterosexual,College,Primarily Adult Cast,Iyashikei,Unrequited Love
     label: Ended
     label.remove: Planned,Airing
     studio: Ajiado
@@ -7164,9 +7170,9 @@ metadata:
       1:
         title: |-
           Yubisaki to Renren
-        user_rating: 8.2
+        user_rating: 8.3
         label: score,2024 Winter
-    audience_rating: 8.2
+    audience_rating: 8.3
     critic_rating: 8.3
   330692:
     title: |-
@@ -7175,7 +7181,7 @@ metadata:
       Yuru Camp△
     original_title: |-
       Laid-Back Camp
-    genre.sync: Comedy,Slice of Life,Outdoor,Iyashikei,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Rural,Episodic,Food,Educational,Primarily Teen Cast,School Club,Seinen,Kuudere
+    genre.sync: Comedy,Slice of Life,Outdoor,Iyashikei,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Rural,Food,Educational,Primarily Teen Cast,School Club,Seinen,Kuudere
     label: Planned
     label.remove: Airing,Ended
     studio: C-Station
@@ -7201,7 +7207,7 @@ metadata:
       Yuuki Bakuhatsu Bang Bravern
     original_title: |-
       Brave Bang Bravern!
-    genre.sync: Action,Comedy,Mecha,Parody,Primarily Adult Cast,Super Robot,Military,Aliens,Meta,War,Foreign,Reincarnation,Boys' Love,Time Manipulation
+    genre.sync: Action,Comedy,Mecha,Parody,Primarily Adult Cast,Super Robot,Military,Aliens,Meta,War,Foreign,Boys' Love,Reincarnation,Time Manipulation
     label: Airing
     label.remove: Planned,Ended
     studio: CygamesPictures
@@ -7209,10 +7215,10 @@ metadata:
       1:
         title: |-
           Yuuki Bakuhatsu Bang Bravern
-        user_rating: 7.0
+        user_rating: 7.1
         label: score,2024 Winter
-    audience_rating: 7.0
-    critic_rating: 7.4
+    audience_rating: 7.1
+    critic_rating: 7.5
   385542:
     title: |-
       Yuukoku no Moriarty
