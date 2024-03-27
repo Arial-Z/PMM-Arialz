@@ -29,18 +29,18 @@ metadata:
       1:
         title: |-
           Hajime no Ippo
-        user_rating: 8.6
         label: score,2000 Fall
+        user_rating: 8.6
       2:
         title: |-
           Hajime no Ippo: New Challenger
-        user_rating: 8.5
         label: score,2009 Winter
+        user_rating: 8.5
       3:
         title: |-
           Hajime no Ippo: Rising
-        user_rating: 8.4
         label: score,2013 Fall
+        user_rating: 8.4
     audience_rating: 8.5
     critic_rating: 8.7
   76013:
@@ -60,33 +60,33 @@ metadata:
       1:
         title: |-
           Major
-        user_rating: 7.9
         label: score,2004 Fall
+        user_rating: 7.9
       2:
         title: |-
           Major S2
-        user_rating: 7.9
         label: score,2006 Winter
+        user_rating: 7.9
       3:
         title: |-
           Major S3
-        user_rating: 8.0
         label: score,2007 Winter
+        user_rating: 8.0
       4:
         title: |-
           Major S4
-        user_rating: 7.9
         label: score,2008 Winter
+        user_rating: 7.9
       5:
         title: |-
           Major S5
-        user_rating: 8.2
         label: score,2009 Winter
+        user_rating: 8.2
       6:
         title: |-
           Major S6
-        user_rating: 8.1
         label: score,2010 Spring
+        user_rating: 8.1
     audience_rating: 8.0
     critic_rating: 8.2
   436779:
@@ -118,8 +118,8 @@ metadata:
       1:
         title: |-
           Sand Land: The Series
-        user_rating: 6.2
-        label: score,2024 Spring
+        label: 2024 Spring
+        label.remove: score
     audience_rating: 6.2
     critic_rating: 7.3
   429055:
@@ -137,8 +137,8 @@ metadata:
       1:
         title: |-
           16bit Sensation: ANOTHER LAYER
-        user_rating: 6.8
-        label: score,2023 Fall
+        label: 2023 Fall
+        label.remove: score
     audience_rating: 6.8
     critic_rating: 6.9
   306269:
@@ -156,13 +156,13 @@ metadata:
       1:
         title: |-
           3-gatsu no Lion
-        user_rating: 8.3
         label: score,2016 Fall
+        user_rating: 8.3
       2:
         title: |-
           3-gatsu no Lion 2
-        user_rating: 8.9
         label: score,2017 Fall
+        user_rating: 8.9
     audience_rating: 8.6
     critic_rating: 8.6
   441567:
@@ -173,15 +173,15 @@ metadata:
     original_title: |-
       Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!
     genre.sync: Comedy,Romance,Slice of Life,Supernatural,Boys' Love,Male Protagonist,Work,Super Power,LGBTQ+ Themes,Office,Primarily Adult Cast,Josei
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Satelight
     seasons:
       1:
         title: |-
           30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii
-        user_rating: 7.3
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 7.3
     critic_rating: 7.6
   378609:
@@ -201,8 +201,8 @@ metadata:
       1:
         title: |-
           86: Eighty Six
-        user_rating: 8.4
-        label: score,2021 Fall,2021 Spring
+        label: 2021 Fall,2021 Spring
+        label.remove: score
     audience_rating: 8.4
     critic_rating: 8.5
   421069:
@@ -220,8 +220,8 @@ metadata:
       1:
         title: |-
           [Oshi no Ko]
-        user_rating: 8.5
-        label: score,2023 Spring
+        label: 2023 Spring
+        label.remove: score
     audience_rating: 8.5
     critic_rating: 8.7
   319983:
@@ -239,8 +239,8 @@ metadata:
       1:
         title: |-
           ACCA: 13-ku Kansatsu-ka
-        user_rating: 7.5
-        label: score,2017 Winter
+        label: 2017 Winter
+        label.remove: score
     audience_rating: 7.5
     critic_rating: 7.7
   346744:
@@ -260,28 +260,28 @@ metadata:
       1:
         title: |-
           Aggressive Retsuko
-        user_rating: 7.4
         label: score,2018 Spring
+        user_rating: 7.4
       2:
         title: |-
           Aggressive Retsuko Season 2
-        user_rating: 7.6
         label: score,2019 Spring
+        user_rating: 7.6
       3:
         title: |-
           Aggressive Retsuko Season 3
-        user_rating: 7.7
         label: score,2020 Summer
+        user_rating: 7.7
       4:
         title: |-
           Aggressive Retsuko Season 4
-        user_rating: 7.2
         label: score,2021 Fall
+        user_rating: 7.2
       5:
         title: |-
           Aggressive Retsuko Season 5
-        user_rating: 7.4
         label: score,2023 Winter
+        user_rating: 7.4
     audience_rating: 7.5
     critic_rating: 7.6
   310436:
@@ -299,8 +299,8 @@ metadata:
       1:
         title: |-
           Aggressive Retsuko
-        user_rating: 7.1
-        label: score,2016 Spring
+        label: 2016 Spring
+        label.remove: score
     audience_rating: 7.1
     critic_rating: 7.6
   421676:
@@ -318,8 +318,8 @@ metadata:
       1:
         title: |-
           Akiba Meido Sensou
-        user_rating: 7.4
-        label: score,2022 Fall
+        label: 2022 Fall
+        label.remove: score
     audience_rating: 7.4
     critic_rating: 7.6
   432806:
@@ -337,8 +337,8 @@ metadata:
       1:
         title: |-
           Akuyaku Reijou Level 99: Watashi wa Ura Boss desu ga Maou de wa Arimasen
-        user_rating: 7.2
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 7.2
     critic_rating: 7.4
   411821:
@@ -356,8 +356,8 @@ metadata:
       1:
         title: |-
           Akuyaku Reijou nano de Last Boss wo Kattemimashita
-        user_rating: 7.1
-        label: score,2022 Fall
+        label: 2022 Fall
+        label.remove: score
     audience_rating: 7.1
     critic_rating: 7.2
   279827:
@@ -375,8 +375,8 @@ metadata:
       1:
         title: |-
           Aldnoah.Zero
-        user_rating: 6.8
-        label: score,2015 Winter,2014 Summer
+        label: 2015 Winter,2014 Summer
+        label.remove: score
     audience_rating: 6.8
     critic_rating: 7.2
   348706:
@@ -394,8 +394,8 @@ metadata:
       1:
         title: |-
           Angolmois: Genkou Kassenki
-        user_rating: 6.7
-        label: score,2018 Summer
+        label: 2018 Summer
+        label.remove: score
     audience_rating: 6.7
     critic_rating: 7.1
   248035:
@@ -415,18 +415,18 @@ metadata:
       1:
         title: |-
           Ao no Exorcist
-        user_rating: 7.2
         label: score,2011 Spring
+        user_rating: 7.2
       2:
         title: |-
           Ao no Exorcist: Kyoto Fujouou-hen
-        user_rating: 7.2
         label: score,2017 Winter
+        user_rating: 7.2
       3:
         title: |-
           Ao no Exorcist: Shimane Illuminati-hen
-        user_rating: 7.0
         label: score,2024 Winter
+        user_rating: 7.0
     audience_rating: 7.1
     critic_rating: 7.3
   407840:
@@ -444,8 +444,8 @@ metadata:
       1:
         title: |-
           Aoashi
-        user_rating: 8.1
-        label: score,2022 Spring
+        label: 2022 Spring
+        label.remove: score
     audience_rating: 8.1
     critic_rating: 8.2
   411800:
@@ -463,13 +463,13 @@ metadata:
       1:
         title: |-
           Arknights: Reimei Zensou
-        user_rating: 7.0
         label: score,2022 Fall
+        user_rating: 7.0
       2:
         title: |-
           Arknights: Touin Kiro
-        user_rating: 7.4
         label: score,2023 Fall
+        user_rating: 7.4
     audience_rating: 7.2
     critic_rating: 7.3
   291630:
@@ -489,13 +489,13 @@ metadata:
       1:
         title: |-
           Arslan Senki (TV)
-        user_rating: 7.3
         label: score,2015 Spring
+        user_rating: 7.3
       2:
         title: |-
           Arslan Senki: Fuujin Ranbu
-        user_rating: 7.2
         label: score,2016 Summer
+        user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.6
   426440:
@@ -513,8 +513,8 @@ metadata:
       1:
         title: |-
           Ayaka
-        user_rating: 6.0
-        label: score,2023 Summer
+        label: 2023 Summer
+        label.remove: score
     audience_rating: 6.0
     critic_rating: 6.4
   79077:
@@ -532,8 +532,8 @@ metadata:
       1:
         title: |-
           Azumanga Daiou THE ANIMATION
-        user_rating: 7.8
-        label: score,2002 Spring
+        label: 2002 Spring
+        label.remove: score
     audience_rating: 7.8
     critic_rating: 8.0
   278152:
@@ -551,13 +551,13 @@ metadata:
       1:
         title: |-
           Baby Steps
-        user_rating: 7.5
         label: score,2014 Spring
+        user_rating: 7.5
       2:
         title: |-
           Baby Steps 2
-        user_rating: 7.8
         label: score,2015 Spring
+        user_rating: 7.8
     audience_rating: 7.7
     critic_rating: 7.9
   193811:
@@ -575,18 +575,18 @@ metadata:
       1:
         title: |-
           Bakuman.
-        user_rating: 7.9
         label: score,2010 Fall
+        user_rating: 7.9
       2:
         title: |-
           Bakuman. 2
-        user_rating: 8.1
         label: score,2011 Fall
+        user_rating: 8.1
       3:
         title: |-
           Bakuman. 3
-        user_rating: 8.3
         label: score,2012 Fall
+        user_rating: 8.3
     audience_rating: 8.1
     critic_rating: 8.3
   281270:
@@ -604,8 +604,8 @@ metadata:
       1:
         title: |-
           Barakamon
-        user_rating: 8.2
-        label: score,2014 Summer
+        label: 2014 Summer
+        label.remove: score
     audience_rating: 8.2
     critic_rating: 8.4
   361013:
@@ -623,13 +623,13 @@ metadata:
       1:
         title: |-
           Beastars
-        user_rating: 7.7
         label: score,2019 Fall
+        user_rating: 7.7
       2:
         title: |-
           Beastars 2
-        user_rating: 7.8
         label: score,2021 Winter
+        user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 7.8
   219771:
@@ -647,8 +647,8 @@ metadata:
       1:
         title: |-
           Beelzebub
-        user_rating: 7.5
-        label: score,2011 Winter
+        label: 2011 Winter
+        label.remove: score
     audience_rating: 7.5
     critic_rating: 7.8
   414845:
@@ -666,8 +666,8 @@ metadata:
       1:
         title: |-
           Benriya Saitou-san, Isekai ni Iku
-        user_rating: 7.3
-        label: score,2023 Winter
+        label: 2023 Winter
+        label.remove: score
     audience_rating: 7.3
     critic_rating: 7.4
   331753:
@@ -685,8 +685,8 @@ metadata:
       1:
         title: |-
           Black Clover
-        user_rating: 7.8
-        label: score,2017 Fall
+        label: 2017 Fall
+        label.remove: score
     audience_rating: 7.8
     critic_rating: 8.1
   74796:
@@ -717,8 +717,8 @@ metadata:
       1:
         title: |-
           Blue Lock
-        user_rating: 8.2
-        label: score,2022 Fall
+        label: 2022 Fall
+        label.remove: score
     audience_rating: 8.2
     critic_rating: 8.3
   413522:
@@ -736,8 +736,8 @@ metadata:
       1:
         title: |-
           Bocchi the Rock!
-        user_rating: 8.7
-        label: score,2022 Fall
+        label: 2022 Fall
+        label.remove: score
     audience_rating: 8.7
     critic_rating: 8.8
   303071:
@@ -755,8 +755,8 @@ metadata:
       1:
         title: |-
           Boku dake ga Inai Machi
-        user_rating: 8.1
-        label: score,2016 Winter
+        label: 2016 Winter
+        label.remove: score
     audience_rating: 8.1
     critic_rating: 8.3
   305074:
@@ -774,33 +774,33 @@ metadata:
       1:
         title: |-
           Boku no Hero Academia
-        user_rating: 7.7
         label: score,2016 Spring
+        user_rating: 7.7
       2:
         title: |-
           Boku no Hero Academia 2
-        user_rating: 7.9
         label: score,2017 Spring
+        user_rating: 7.9
       3:
         title: |-
           Boku no Hero Academia 3
-        user_rating: 7.9
         label: score,2018 Spring
+        user_rating: 7.9
       4:
         title: |-
           Boku no Hero Academia 4
-        user_rating: 7.8
         label: score,2019 Fall
+        user_rating: 7.8
       5:
         title: |-
           Boku no Hero Academia 5
-        user_rating: 7.3
         label: score,2021 Spring
+        user_rating: 7.3
       6:
         title: |-
           Boku no Hero Academia 6
-        user_rating: 8.3
         label: score,2022 Fall
+        user_rating: 8.3
     audience_rating: 7.8
     critic_rating: 7.9
   422981:
@@ -818,13 +818,13 @@ metadata:
       1:
         title: |-
           Boku no Kokoro no Yabai Yatsu
-        user_rating: 8.1
         label: score,2023 Spring
+        user_rating: 8.1
       2:
         title: |-
           Boku no Kokoro no Yabai Yatsu 2nd Season
-        user_rating: 8.6
         label: score,2024 Winter
+        user_rating: 8.6
     audience_rating: 8.4
     critic_rating: 8.5
   426703:
@@ -842,8 +842,8 @@ metadata:
       1:
         title: |-
           Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta
-        user_rating: 6.6
-        label: score,2023 Fall
+        label: 2023 Fall
+        label.remove: score
     audience_rating: 6.6
     critic_rating: 6.8
   426530:
@@ -861,8 +861,8 @@ metadata:
       1:
         title: |-
           Boushoku no Berserk
-        user_rating: 6.7
-        label: score,2023 Fall
+        label: 2023 Fall
+        label.remove: score
     audience_rating: 6.7
     critic_rating: 6.7
   426294:
@@ -880,8 +880,8 @@ metadata:
       1:
         title: |-
           Buddy Daddies
-        user_rating: 8.0
-        label: score,2023 Winter
+        label: 2023 Winter
+        label.remove: score
     audience_rating: 8.0
     critic_rating: 8.1
   427359:
@@ -899,8 +899,8 @@ metadata:
       1:
         title: |-
           Bullbuster
-        user_rating: 5.7
-        label: score,2023 Fall
+        label: 2023 Fall
+        label.remove: score
     audience_rating: 5.7
     critic_rating: 6.2
   305075:
@@ -918,18 +918,18 @@ metadata:
       1:
         title: |-
           Bungou Stray Dogs
-        user_rating: 7.9
         label: score,2016 Fall,2016 Spring
+        user_rating: 7.9
       2:
         title: |-
           Bungou Stray Dogs 3rd Season
-        user_rating: 8.2
         label: score,2019 Spring
+        user_rating: 8.2
       3:
         title: |-
           Bungou Stray Dogs 4th Season
-        user_rating: 8.4
         label: score,2023 Summer,2023 Winter
+        user_rating: 8.4
     audience_rating: 8.2
     critic_rating: 8.2
   83316:
@@ -947,8 +947,8 @@ metadata:
       1:
         title: |-
           Casshern Sins
-        user_rating: 7.3
-        label: score,2008 Fall
+        label: 2008 Fall
+        label.remove: score
     audience_rating: 7.3
     critic_rating: 7.5
   397934:
@@ -966,8 +966,8 @@ metadata:
       1:
         title: |-
           Chainsaw Man
-        user_rating: 8.4
-        label: score,2022 Fall
+        label: 2022 Fall
+        label.remove: score
     audience_rating: 8.4
     critic_rating: 8.5
   289679:
@@ -987,8 +987,8 @@ metadata:
       1:
         title: |-
           Charlotte
-        user_rating: 7.5
-        label: score,2015 Summer
+        label: 2015 Summer
+        label.remove: score
     audience_rating: 7.5
     critic_rating: 7.8
   251982:
@@ -1008,18 +1008,18 @@ metadata:
       1:
         title: |-
           Chihayafuru
-        user_rating: 8.0
         label: score,2011 Fall
+        user_rating: 8.0
       2:
         title: |-
           Chihayafuru 2
-        user_rating: 8.3
         label: score,2013 Winter
+        user_rating: 8.3
       3:
         title: |-
           Chihayafuru 3
-        user_rating: 8.4
         label: score,2019 Fall
+        user_rating: 8.4
     audience_rating: 8.2
     critic_rating: 8.4
   413555:
@@ -1037,8 +1037,8 @@ metadata:
       1:
         title: |-
           Chikyuugai Shounen Shoujo
-        user_rating: 6.8
-        label: score,2022 Winter
+        label: 2022 Winter
+        label.remove: score
     audience_rating: 6.8
     critic_rating: 6.8
   415440:
@@ -1056,8 +1056,8 @@ metadata:
       1:
         title: |-
           Chiyu Mahou no Machigatta Tsukaikata
-        user_rating: 7.3
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 7.3
     critic_rating: 7.5
   261862:
@@ -1077,13 +1077,13 @@ metadata:
       1:
         title: |-
           Chuunibyou demo Koi ga Shitai!
-        user_rating: 7.5
         label: score,2012 Fall
+        user_rating: 7.5
       2:
         title: |-
           Chuunibyou demo Koi ga Shitai! Ren
-        user_rating: 7.3
         label: score,2014 Winter
+        user_rating: 7.3
     audience_rating: 7.4
     critic_rating: 7.7
   358612:
@@ -1103,23 +1103,23 @@ metadata:
       1:
         title: |-
           Cike Wu Liuqi
-        user_rating: 7.8
         label: score,2018 Spring
+        user_rating: 7.8
       2:
         title: |-
           Wu Liuqi: Zui Qiang Faxingshi
-        user_rating: 8.1
         label: score,2019 Fall
+        user_rating: 8.1
       3:
         title: |-
           Wu Liuqi: Xuanwu Guo Pian
-        user_rating: 8.4
         label: score,2021 Winter
+        user_rating: 8.4
       4:
         title: |-
           Wu Liuqi: Anying Suming
-        user_rating: 8.0
         label: score,2023 Winter
+        user_rating: 8.0
     audience_rating: 8.1
     critic_rating: 8.1
   80644:
@@ -1139,13 +1139,13 @@ metadata:
       1:
         title: |-
           Clannad
-        user_rating: 7.6
         label: score,2007 Fall
+        user_rating: 7.6
       2:
         title: |-
           CLANNAD: After Story
-        user_rating: 8.7
         label: score,2008 Fall
+        user_rating: 8.7
     audience_rating: 8.1
     critic_rating: 8.4
   79995:
@@ -1163,8 +1163,8 @@ metadata:
       1:
         title: |-
           Claymore
-        user_rating: 7.3
-        label: score,2007 Spring
+        label: 2007 Spring
+        label.remove: score
     audience_rating: 7.3
     critic_rating: 7.7
   79525:
@@ -1182,13 +1182,13 @@ metadata:
       1:
         title: |-
           Code Geass: Hangyaku no Lelouch
-        user_rating: 8.4
         label: score,2006 Fall
+        user_rating: 8.4
       2:
         title: |-
           Code Geass: Hangyaku no Lelouch R2
-        user_rating: 8.6
         label: score,2008 Spring
+        user_rating: 8.6
     audience_rating: 8.5
     critic_rating: 8.8
   344076:
@@ -1206,8 +1206,8 @@ metadata:
       1:
         title: |-
           Comic Girls
-        user_rating: 7.2
-        label: score,2018 Spring
+        label: 2018 Spring
+        label.remove: score
     audience_rating: 7.2
     critic_rating: 7.4
   384541:
@@ -1225,8 +1225,8 @@ metadata:
       1:
         title: |-
           Cyberpunk: Edgerunners
-        user_rating: 8.5
-        label: score,2022 Summer
+        label: 2022 Summer
+        label.remove: score
     audience_rating: 8.5
     critic_rating: 8.6
   79635:
@@ -1257,8 +1257,8 @@ metadata:
       1:
         title: |-
           D.Gray-man HALLOW
-        user_rating: 7.4
-        label: score,2016 Summer
+        label: 2016 Summer
+        label.remove: score
     audience_rating: 7.4
     critic_rating: 7.7
   285357:
@@ -1276,13 +1276,13 @@ metadata:
       1:
         title: |-
           Danna ga Nani wo Itteiru ka Wakaranai Ken
-        user_rating: 7.0
         label: score,2014 Fall
+        user_rating: 7.0
       2:
         title: |-
           Danna ga Nani wo Itteiru ka Wakaranai Ken 2-sure-me
-        user_rating: 7.0
         label: score,2015 Spring
+        user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.3
   80042:
@@ -1302,13 +1302,13 @@ metadata:
       1:
         title: |-
           DARKER THAN BLACK: Kuro no Keiyakusha
-        user_rating: 7.7
         label: score,2007 Spring
+        user_rating: 7.7
       2:
         title: |-
           DARKER THAN BLACK: Ryuusei no Gemini
-        user_rating: 7.0
         label: score,2009 Fall
+        user_rating: 7.0
     audience_rating: 7.3
     critic_rating: 7.8
   264663:
@@ -1328,23 +1328,23 @@ metadata:
       1:
         title: |-
           Date A Live
-        user_rating: 6.8
         label: score,2013 Spring
+        user_rating: 6.8
       2:
         title: |-
           Date A Live II
-        user_rating: 6.8
         label: score,2014 Spring
+        user_rating: 6.8
       3:
         title: |-
           Date A Live III
-        user_rating: 6.9
         label: score,2019 Winter
+        user_rating: 6.9
       4:
         title: |-
           Date A Live IV
-        user_rating: 7.6
         label: score,2022 Spring
+        user_rating: 7.6
     audience_rating: 7.0
     critic_rating: 7.3
   413480:
@@ -1362,8 +1362,8 @@ metadata:
       1:
         title: |-
           Dawang Raoming
-        user_rating: 7.3
-        label: score,2021 Fall
+        label: 2021 Fall
+        label.remove: score
     audience_rating: 7.3
     critic_rating: 7.5
   427239:
@@ -1381,8 +1381,8 @@ metadata:
       1:
         title: |-
           Dead Mount Death Play
-        user_rating: 7.3
-        label: score,2023 Fall,2023 Spring
+        label: 2023 Fall,2023 Spring
+        label.remove: score
     audience_rating: 7.3
     critic_rating: 7.4
   378878:
@@ -1400,8 +1400,8 @@ metadata:
       1:
         title: |-
           Deca-Dence
-        user_rating: 7.1
-        label: score,2020 Summer
+        label: 2020 Summer
+        label.remove: score
     audience_rating: 7.1
     critic_rating: 7.4
   420550:
@@ -1419,8 +1419,8 @@ metadata:
       1:
         title: |-
           Dekiru Neko wa Kyou mo Yuuutsu
-        user_rating: 7.5
-        label: score,2023 Summer
+        label: 2023 Summer
+        label.remove: score
     audience_rating: 7.5
     critic_rating: 7.7
   424530:
@@ -1438,8 +1438,8 @@ metadata:
       1:
         title: |-
           Dekoboko Majo no Oyako Jijou
-        user_rating: 6.4
-        label: score,2023 Fall
+        label: 2023 Fall
+        label.remove: score
     audience_rating: 6.4
     critic_rating: 6.8
   273005:
@@ -1459,18 +1459,18 @@ metadata:
       1:
         title: |-
           Diamond no Ace
-        user_rating: 7.9
         label: score,2013 Fall
+        user_rating: 7.9
       2:
         title: |-
           Diamond no Ace: Second Season
-        user_rating: 8.2
         label: score,2015 Spring
+        user_rating: 8.2
       3:
         title: |-
           Diamond no Ace act II
-        user_rating: 8.2
         label: score,2019 Spring
+        user_rating: 8.2
     audience_rating: 8.1
     critic_rating: 8.2
   354170:
@@ -1488,8 +1488,8 @@ metadata:
       1:
         title: |-
           Domestic na Kanojo
-        user_rating: 6.4
-        label: score,2019 Winter
+        label: 2019 Winter
+        label.remove: score
     audience_rating: 6.4
     critic_rating: 6.7
   370761:
@@ -1507,8 +1507,8 @@ metadata:
       1:
         title: |-
           Dorohedoro
-        user_rating: 7.9
-        label: score,2020 Winter
+        label: 2020 Winter
+        label.remove: score
     audience_rating: 7.9
     critic_rating: 8.1
   426410:
@@ -1526,8 +1526,8 @@ metadata:
       1:
         title: |-
           Dosanko Gal wa Namaramenkoi
-        user_rating: 6.9
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 6.9
     critic_rating: 7.1
   355774:
@@ -1547,18 +1547,18 @@ metadata:
       1:
         title: |-
           Dr. STONE
-        user_rating: 8.2
         label: score,2019 Summer
+        user_rating: 8.2
       2:
         title: |-
           Dr. STONE: STONE WARS
-        user_rating: 8.1
         label: score,2021 Winter
+        user_rating: 8.1
       3:
         title: |-
           Dr. STONE: NEW WORLD
-        user_rating: 8.2
         label: score,2023 Fall,2023 Spring
+        user_rating: 8.2
     audience_rating: 8.2
     critic_rating: 8.2
   423257:
@@ -1576,8 +1576,8 @@ metadata:
       1:
         title: |-
           Dungeon Meshi
-        user_rating: 7.8
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 7.8
     critic_rating: 7.9
   289882:
@@ -1597,23 +1597,23 @@ metadata:
       1:
         title: |-
           Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
-        user_rating: 7.3
         label: score,2015 Spring
+        user_rating: 7.3
       2:
         title: |-
           Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II
-        user_rating: 7.1
         label: score,2019 Summer
+        user_rating: 7.1
       3:
         title: |-
           Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III
-        user_rating: 7.4
         label: score,2020 Fall
+        user_rating: 7.4
       4:
         title: |-
           Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen
-        user_rating: 7.9
         label: score,2023 Winter,2022 Summer
+        user_rating: 7.9
     audience_rating: 7.4
     critic_rating: 7.5
   421273:
@@ -1631,8 +1631,8 @@ metadata:
       1:
         title: |-
           Edomae Elf
-        user_rating: 7.0
-        label: score,2023 Spring
+        label: 2023 Spring
+        label.remove: score
     audience_rating: 7.0
     critic_rating: 7.3
   410425:
@@ -1650,8 +1650,8 @@ metadata:
       1:
         title: |-
           Eiyuu Kyoushitsu
-        user_rating: 6.0
-        label: score,2023 Summer
+        label: 2023 Summer
+        label.remove: score
     audience_rating: 6.0
     critic_rating: 6.1
   412957:
@@ -1669,8 +1669,8 @@ metadata:
       1:
         title: |-
           Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
-        user_rating: 6.5
-        label: score,2023 Winter
+        label: 2023 Winter
+        label.remove: score
     audience_rating: 6.5
     critic_rating: 6.6
   355480:
@@ -1688,13 +1688,13 @@ metadata:
       1:
         title: |-
           Enen no Shouboutai
-        user_rating: 7.6
         label: score,2019 Summer
+        user_rating: 7.6
       2:
         title: |-
           Enen no Shouboutai: Ni no Shou
-        user_rating: 7.8
         label: score,2020 Summer
+        user_rating: 7.8
     audience_rating: 7.7
     critic_rating: 7.8
   278626:
@@ -1714,8 +1714,8 @@ metadata:
       1:
         title: |-
           Fate/stay night: Unlimited Blade Works
-        user_rating: 8.1
-        label: score,2015 Spring,2014 Fall
+        label: 2015 Spring,2014 Fall
+        label.remove: score
     audience_rating: 8.1
     critic_rating: 8.2
   375271:
@@ -1733,13 +1733,13 @@ metadata:
       1:
         title: |-
           Fumetsu no Anata e
-        user_rating: 8.1
         label: score,2021 Spring
+        user_rating: 8.1
       2:
         title: |-
           Fumetsu no Anata e Season 2
-        user_rating: 7.9
         label: score,2022 Fall
+        user_rating: 7.9
     audience_rating: 8.0
     critic_rating: 8.2
   431705:
@@ -1750,15 +1750,15 @@ metadata:
     original_title: |-
       Doctor Elise: The Royal Lady with the Lamp
     genre.sync: Comedy,Fantasy,Romance,Medicine,Female Protagonist,Arranged Marriage,Heterosexual,Royal Affairs,Isekai,Shoujo,Work,Ojou-sama
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Maho Film
     seasons:
       1:
         title: |-
           Gekai Elise
-        user_rating: 6.9
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 6.9
     critic_rating: 7.3
   279804:
@@ -1776,8 +1776,8 @@ metadata:
       1:
         title: |-
           Gekkan Shoujo Nozaki-kun
-        user_rating: 7.7
-        label: score,2014 Summer
+        label: 2014 Summer
+        label.remove: score
     audience_rating: 7.7
     critic_rating: 7.8
   389422:
@@ -1795,8 +1795,8 @@ metadata:
       1:
         title: |-
           Genjitsu Shugi Yuusha no Oukoku Saikenki
-        user_rating: 7.2
-        label: score,2022 Winter,2021 Summer
+        label: 2022 Winter,2021 Summer
+        label.remove: score
     audience_rating: 7.2
     critic_rating: 7.3
   267246:
@@ -1814,13 +1814,13 @@ metadata:
       1:
         title: |-
           Gin no Saji
-        user_rating: 7.9
         label: score,2013 Summer
+        user_rating: 7.9
       2:
         title: |-
           Gin no Saji 2
-        user_rating: 8.1
         label: score,2014 Winter
+        user_rating: 8.1
     audience_rating: 8.0
     critic_rating: 8.2
   79895:
@@ -1853,8 +1853,8 @@ metadata:
       1:
         title: |-
           Girls und Panzer
-        user_rating: 7.3
-        label: score,2012 Fall
+        label: 2012 Fall
+        label.remove: score
     audience_rating: 7.3
     critic_rating: 7.5
   355966:
@@ -1872,13 +1872,13 @@ metadata:
       1:
         title: |-
           Go-toubun no Hanayome
-        user_rating: 7.5
         label: score,2019 Winter
+        user_rating: 7.5
       2:
         title: |-
           Go-toubun no Hanayome ∬
-        user_rating: 8.0
         label: score,2021 Winter
+        user_rating: 8.0
     audience_rating: 7.8
     critic_rating: 7.9
   350166:
@@ -1896,13 +1896,13 @@ metadata:
       1:
         title: |-
           Goblin Slayer
-        user_rating: 7.1
         label: score,2018 Fall
+        user_rating: 7.1
       2:
         title: |-
           Goblin Slayer II
-        user_rating: 7.2
         label: score,2023 Fall
+        user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.3
   338455:
@@ -1920,23 +1920,23 @@ metadata:
       1:
         title: |-
           Golden Kamuy
-        user_rating: 7.7
         label: score,2018 Spring
+        user_rating: 7.7
       2:
         title: |-
           Golden Kamuy 2nd Season
-        user_rating: 8.1
         label: score,2018 Fall
+        user_rating: 8.1
       3:
         title: |-
           Golden Kamuy 3rd Season
-        user_rating: 8.3
         label: score,2020 Fall
+        user_rating: 8.3
       4:
         title: |-
           Golden Kamuy 4th Season
-        user_rating: 8.0
         label: score,2022 Fall
+        user_rating: 8.0
     audience_rating: 8.0
     critic_rating: 8.1
   319981:
@@ -1956,13 +1956,13 @@ metadata:
       1:
         title: |-
           GRANBLUE FANTASY The Animation
-        user_rating: 6.4
         label: score,2017 Spring
+        user_rating: 6.4
       2:
         title: |-
           GRANBLUE FANTASY The Animation Season 2
-        user_rating: 6.5
         label: score,2019 Fall
+        user_rating: 6.5
     audience_rating: 6.4
     critic_rating: 6.7
   343913:
@@ -1980,8 +1980,8 @@ metadata:
       1:
         title: |-
           Grand Blue
-        user_rating: 8.2
-        label: score,2018 Summer
+        label: 2018 Summer
+        label.remove: score
     audience_rating: 8.2
     critic_rating: 8.4
   79071:
@@ -1999,8 +1999,8 @@ metadata:
       1:
         title: |-
           Gto
-        user_rating: 8.4
-        label: score,1999 Summer
+        label: 1999 Summer
+        label.remove: score
     audience_rating: 8.4
     critic_rating: 8.7
   85249:
@@ -2020,8 +2020,8 @@ metadata:
       1:
         title: |-
           Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST
-        user_rating: 9.0
-        label: score,2009 Spring
+        label: 2009 Spring
+        label.remove: score
     audience_rating: 9.0
     critic_rating: 9.1
   303868:
@@ -2041,8 +2041,8 @@ metadata:
       1:
         title: |-
           Hai to Gensou no Grimgar
-        user_rating: 7.4
-        label: score,2016 Winter
+        label: 2016 Winter
+        label.remove: score
     audience_rating: 7.4
     critic_rating: 7.7
   79105:
@@ -2060,8 +2060,8 @@ metadata:
       1:
         title: |-
           Haibane Renmei
-        user_rating: 7.9
-        label: score,2002 Fall
+        label: 2002 Fall
+        label.remove: score
     audience_rating: 7.9
     critic_rating: 8.0
   278157:
@@ -2081,23 +2081,23 @@ metadata:
       1:
         title: |-
           Haikyuu!!
-        user_rating: 8.3
         label: score,2014 Spring
+        user_rating: 8.3
       2:
         title: |-
           Haikyuu!! 2nd Season
-        user_rating: 8.6
         label: score,2015 Fall
+        user_rating: 8.6
       3:
         title: |-
           Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou
-        user_rating: 8.7
         label: score,2016 Fall
+        user_rating: 8.7
       4:
         title: |-
           Haikyuu!! TO THE TOP
-        user_rating: 8.4
         label: score,2020 Fall,2020 Winter
+        user_rating: 8.4
     audience_rating: 8.5
     critic_rating: 8.6
   430544:
@@ -2115,8 +2115,8 @@ metadata:
       1:
         title: |-
           Hametsu no Oukoku
-        user_rating: 6.2
-        label: score,2023 Fall
+        label: 2023 Fall
+        label.remove: score
     audience_rating: 6.2
     critic_rating: 6.3
   267441:
@@ -2134,13 +2134,13 @@ metadata:
       1:
         title: |-
           Hataraku Maou-sama!
-        user_rating: 7.5
         label: score,2013 Spring
+        user_rating: 7.5
       2:
         title: |-
           Hataraku Maou-sama!!
-        user_rating: 6.6
         label: score,2023 Summer,2022 Summer
+        user_rating: 6.6
     audience_rating: 7.1
     critic_rating: 7.2
   401856:
@@ -2158,8 +2158,8 @@ metadata:
       1:
         title: |-
           Heion Sedai no Idaten-tachi
-        user_rating: 7.4
-        label: score,2021 Summer
+        label: 2021 Summer
+        label.remove: score
     audience_rating: 7.4
     critic_rating: 7.6
   416359:
@@ -2177,8 +2177,8 @@ metadata:
       1:
         title: |-
           Helck
-        user_rating: 7.0
-        label: score,2023 Summer
+        label: 2023 Summer
+        label.remove: score
     audience_rating: 7.0
     critic_rating: 7.3
   263688:
@@ -2196,8 +2196,8 @@ metadata:
       1:
         title: |-
           Hellsing Ova
-        user_rating: 8.0
-        label: score,2006 Winter
+        label: 2006 Winter
+        label.remove: score
     audience_rating: 8.0
     critic_rating: 8.4
   79999:
@@ -2215,8 +2215,8 @@ metadata:
       1:
         title: |-
           Heroic Age
-        user_rating: 7.0
-        label: score,2007 Spring
+        label: 2007 Spring
+        label.remove: score
     audience_rating: 7.0
     critic_rating: 7.5
   426528:
@@ -2234,8 +2234,8 @@ metadata:
       1:
         title: |-
           Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
-        user_rating: 6.9
-        label: score,2023 Summer
+        label: 2023 Summer
+        label.remove: score
     audience_rating: 6.9
     critic_rating: 7.1
   404525:
@@ -2253,13 +2253,13 @@ metadata:
       1:
         title: |-
           High Card
-        user_rating: 7.0
         label: score,2023 Winter
+        user_rating: 7.0
       2:
         title: |-
           HIGH CARD season 2
-        user_rating: 6.8
         label: score,2024 Winter
+        user_rating: 6.8
     audience_rating: 6.9
     critic_rating: 7.1
   306743:
@@ -2279,8 +2279,8 @@ metadata:
       1:
         title: |-
           High School Fleet
-        user_rating: 7.0
-        label: score,2016 Spring
+        label: 2016 Spring
+        label.remove: score
     audience_rating: 7.0
     critic_rating: 7.3
   402607:
@@ -2298,13 +2298,13 @@ metadata:
       1:
         title: |-
           Hikari no Ou
-        user_rating: 6.1
         label: score,2023 Winter
+        user_rating: 6.1
       2:
         title: |-
           Hikari no Ou 2nd Season
-        user_rating: 5.7
         label: score,2024 Winter
+        user_rating: 5.7
     audience_rating: 5.9
     critic_rating: 6.2
   429263:
@@ -2322,8 +2322,8 @@ metadata:
       1:
         title: |-
           Hikikomari Kyuuketsuki no Monmon
-        user_rating: 7.0
-        label: score,2023 Fall
+        label: 2023 Fall
+        label.remove: score
     audience_rating: 7.0
     critic_rating: 7.2
   436603:
@@ -2341,8 +2341,8 @@ metadata:
       1:
         title: |-
           Hime-sama, "Goumon" no Jikan desu
-        user_rating: 6.9
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 6.9
     critic_rating: 7.2
   293121:
@@ -2362,13 +2362,13 @@ metadata:
       1:
         title: |-
           Himouto! Umaru-chan
-        user_rating: 6.7
         label: score,2015 Summer
+        user_rating: 6.7
       2:
         title: |-
           Himouto! Umaru-chan R
-        user_rating: 7.1
         label: score,2017 Fall
+        user_rating: 7.1
     audience_rating: 6.9
     critic_rating: 7.2
   366263:
@@ -2388,8 +2388,8 @@ metadata:
       1:
         title: |-
           Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
-        user_rating: 7.9
-        label: score,2022 Spring,2020 Spring,2019 Fall
+        label: 2022 Spring,2020 Spring,2019 Fall
+        label.remove: score
     audience_rating: 7.9
     critic_rating: 8.1
   388593:
@@ -2407,8 +2407,8 @@ metadata:
       1:
         title: |-
           Horimiya
-        user_rating: 8.1
-        label: score,2021 Winter
+        label: 2021 Winter
+        label.remove: score
     audience_rating: 8.1
     critic_rating: 8.2
   436124:
@@ -2426,8 +2426,8 @@ metadata:
       1:
         title: |-
           Horimiya: piece
-        user_rating: 8.2
-        label: score,2023 Summer
+        label: 2023 Summer
+        label.remove: score
     audience_rating: 8.2
     critic_rating: 8.2
   369141:
@@ -2445,8 +2445,8 @@ metadata:
       1:
         title: |-
           Hoshiai no Sora
-        user_rating: 7.5
-        label: score,2019 Fall
+        label: 2019 Fall
+        label.remove: score
     audience_rating: 7.5
     critic_rating: 7.6
   372361:
@@ -2464,8 +2464,8 @@ metadata:
       1:
         title: |-
           Houkago Teibou Nisshi
-        user_rating: 7.1
-        label: score,2020 Spring
+        label: 2020 Spring
+        label.remove: score
     audience_rating: 7.1
     critic_rating: 7.4
   331787:
@@ -2483,8 +2483,8 @@ metadata:
       1:
         title: |-
           Houseki no Kuni
-        user_rating: 8.3
-        label: score,2017 Fall
+        label: 2017 Fall
+        label.remove: score
     audience_rating: 8.3
     critic_rating: 8.4
   252322:
@@ -2515,8 +2515,8 @@ metadata:
       1:
         title: |-
           Id: Invaded
-        user_rating: 7.7
-        label: score,2020 Winter
+        label: 2020 Winter
+        label.remove: score
     audience_rating: 7.7
     critic_rating: 7.8
   385278:
@@ -2534,13 +2534,13 @@ metadata:
       1:
         title: |-
           Ijiranaide, Nagatoro-san
-        user_rating: 7.0
         label: score,2021 Spring
+        user_rating: 7.0
       2:
         title: |-
           Ijiranaide, Nagatoro-san 2nd Attack
-        user_rating: 7.4
         label: score,2023 Winter
+        user_rating: 7.4
     audience_rating: 7.2
     critic_rating: 7.4
   79520:
@@ -2558,8 +2558,8 @@ metadata:
       1:
         title: |-
           Ima, Soko ni Iru Boku
-        user_rating: 7.2
-        label: score,1999 Fall
+        label: 1999 Fall
+        label.remove: score
     audience_rating: 7.2
     critic_rating: 7.6
   255133:
@@ -2579,8 +2579,8 @@ metadata:
       1:
         title: |-
           Inu x Boku SS
-        user_rating: 7.0
-        label: score,2012 Winter
+        label: 2012 Winter
+        label.remove: score
     audience_rating: 7.0
     critic_rating: 7.4
   351751:
@@ -2598,8 +2598,8 @@ metadata:
       1:
         title: |-
           Irozuku Sekai no Ashita kara
-        user_rating: 7.3
-        label: score,2018 Fall
+        label: 2018 Fall
+        label.remove: score
     audience_rating: 7.3
     critic_rating: 7.5
   423653:
@@ -2617,8 +2617,8 @@ metadata:
       1:
         title: |-
           Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta
-        user_rating: 6.3
-        label: score,2023 Spring
+        label: 2023 Spring
+        label.remove: score
     audience_rating: 6.3
     critic_rating: 6.3
   422186:
@@ -2636,8 +2636,8 @@ metadata:
       1:
         title: |-
           Isekai de Mofumofu Nadenade Suru Tame ni Ganbattemasu.
-        user_rating: 6.6
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 6.6
     critic_rating: 6.8
   418367:
@@ -2655,8 +2655,8 @@ metadata:
       1:
         title: |-
           Isekai Nonbiri Nouka
-        user_rating: 7.5
-        label: score,2023 Winter
+        label: 2023 Winter
+        label.remove: score
     audience_rating: 7.5
     critic_rating: 7.6
   405214:
@@ -2674,8 +2674,8 @@ metadata:
       1:
         title: |-
           Isekai Oji-san
-        user_rating: 7.7
-        label: score,2022 Summer
+        label: 2022 Summer
+        label.remove: score
     audience_rating: 7.7
     critic_rating: 7.8
   417675:
@@ -2693,8 +2693,8 @@ metadata:
       1:
         title: |-
           Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita
-        user_rating: 6.0
-        label: score,2023 Spring
+        label: 2023 Spring
+        label.remove: score
     audience_rating: 6.0
     critic_rating: 6.3
   411893:
@@ -2712,8 +2712,8 @@ metadata:
       1:
         title: |-
           Isekai Shoukan wa Nidome desu
-        user_rating: 5.6
-        label: score,2023 Spring
+        label: 2023 Spring
+        label.remove: score
     audience_rating: 5.6
     critic_rating: 5.7
   406592:
@@ -2731,8 +2731,8 @@ metadata:
       1:
         title: |-
           Isekai Yakkyoku
-        user_rating: 7.2
-        label: score,2022 Summer
+        label: 2022 Summer
+        label.remove: score
     audience_rating: 7.2
     critic_rating: 7.3
   431014:
@@ -2750,8 +2750,8 @@ metadata:
       1:
         title: |-
           Ishura
-        user_rating: 6.3
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 6.3
     critic_rating: 6.6
   373679:
@@ -2769,13 +2769,13 @@ metadata:
       1:
         title: |-
           Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.
-        user_rating: 7.4
         label: score,2020 Winter
+        user_rating: 7.4
       2:
         title: |-
           Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2
-        user_rating: 7.1
         label: score,2023 Winter
+        user_rating: 7.1
     audience_rating: 7.2
     critic_rating: 7.3
   423121:
@@ -2793,8 +2793,8 @@ metadata:
       1:
         title: |-
           Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
-        user_rating: 6.3
-        label: score,2023 Summer
+        label: 2023 Summer
+        label.remove: score
     audience_rating: 6.3
     critic_rating: 6.5
   402474:
@@ -2812,8 +2812,8 @@ metadata:
       1:
         title: |-
           Jigokuraku
-        user_rating: 8.0
-        label: score,2023 Spring
+        label: 2023 Spring
+        label.remove: score
     audience_rating: 8.0
     critic_rating: 8.1
   424414:
@@ -2831,8 +2831,8 @@ metadata:
       1:
         title: |-
           Jitsu wa Ore, Saikyou Deshita?
-        user_rating: 6.4
-        label: score,2023 Summer
+        label: 2023 Summer
+        label.remove: score
     audience_rating: 6.4
     critic_rating: 6.5
   257756:
@@ -2850,8 +2850,8 @@ metadata:
       1:
         title: |-
           Jormungand
-        user_rating: 7.6
-        label: score,2012 Fall,2012 Spring
+        label: 2012 Fall,2012 Spring
+        label.remove: score
     audience_rating: 7.6
     critic_rating: 7.8
   377543:
@@ -2869,13 +2869,13 @@ metadata:
       1:
         title: |-
           Jujutsu Kaisen
-        user_rating: 8.6
         label: score,2020 Fall
+        user_rating: 8.6
       2:
         title: |-
           Jujutsu Kaisen 2nd Season
-        user_rating: 8.8
         label: score,2023 Summer
+        user_rating: 8.8
     audience_rating: 8.7
     critic_rating: 8.8
   407520:
@@ -2893,13 +2893,13 @@ metadata:
       1:
         title: |-
           Kage no Jitsuryokusha ni Naritakute!
-        user_rating: 8.2
         label: score,2022 Fall
+        user_rating: 8.2
       2:
         title: |-
           Kage no Jitsuryokusha ni Naritakute! 2nd season
-        user_rating: 8.3
         label: score,2023 Fall
+        user_rating: 8.3
     audience_rating: 8.2
     critic_rating: 8.4
   354198:
@@ -2919,18 +2919,18 @@ metadata:
       1:
         title: |-
           Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen
-        user_rating: 8.3
         label: score,2019 Winter
+        user_rating: 8.3
       2:
         title: |-
           Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen
-        user_rating: 8.6
         label: score,2020 Spring
+        user_rating: 8.6
       3:
         title: |-
           Kaguya-sama wa Kokurasetai: Ultra Romantic
-        user_rating: 8.9
         label: score,2022 Spring
+        user_rating: 8.9
     audience_rating: 8.6
     critic_rating: 8.7
   422564:
@@ -2948,8 +2948,8 @@ metadata:
       1:
         title: |-
           Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life
-        user_rating: 6.9
-        label: score,2023 Winter
+        label: 2023 Winter
+        label.remove: score
     audience_rating: 6.9
     critic_rating: 7.0
   339922:
@@ -2967,8 +2967,8 @@ metadata:
       1:
         title: |-
           Kakuriyo no Yadomeshi
-        user_rating: 7.2
-        label: score,2018 Spring
+        label: 2018 Spring
+        label.remove: score
     audience_rating: 7.2
     critic_rating: 7.5
   376729:
@@ -2986,8 +2986,8 @@ metadata:
       1:
         title: |-
           Kami no Tou: Tower of God
-        user_rating: 7.4
-        label: score,2020 Spring
+        label: 2020 Spring
+        label.remove: score
     audience_rating: 7.4
     critic_rating: 7.6
   419126:
@@ -3005,8 +3005,8 @@ metadata:
       1:
         title: |-
           Kaminaki Sekai no Kamisama Katsudou
-        user_rating: 6.6
-        label: score,2023 Spring
+        label: 2023 Spring
+        label.remove: score
     audience_rating: 6.6
     critic_rating: 6.7
   262106:
@@ -3026,13 +3026,13 @@ metadata:
       1:
         title: |-
           Kamisama Hajimemashita
-        user_rating: 8.0
         label: score,2012 Fall
+        user_rating: 8.0
       2:
         title: |-
           Kamisama Hajimemashita◎
-        user_rating: 8.1
         label: score,2015 Winter
+        user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.1
   380477:
@@ -3050,13 +3050,13 @@ metadata:
       1:
         title: |-
           Kamitachi ni Hirowareta Otoko
-        user_rating: 6.8
         label: score,2020 Fall
+        user_rating: 6.8
       2:
         title: |-
           Kamitachi ni Hirowareta Otoko 2
-        user_rating: 6.7
         label: score,2023 Winter
+        user_rating: 6.7
     audience_rating: 6.8
     critic_rating: 6.9
   427919:
@@ -3074,8 +3074,8 @@ metadata:
       1:
         title: |-
           Kamonohashi Ron no Kindan Suiri
-        user_rating: 7.3
-        label: score,2023 Fall
+        label: 2023 Fall
+        label.remove: score
     audience_rating: 7.3
     critic_rating: 7.4
   132941:
@@ -3093,8 +3093,8 @@ metadata:
       1:
         title: |-
           Katanagatari
-        user_rating: 8.2
-        label: score,2010 Winter
+        label: 2010 Winter
+        label.remove: score
     audience_rating: 8.2
     critic_rating: 8.3
   352853:
@@ -3112,8 +3112,8 @@ metadata:
       1:
         title: |-
           Kaze ga Tsuyoku Fuiteiru
-        user_rating: 8.3
-        label: score,2018 Fall
+        label: 2018 Fall
+        label.remove: score
     audience_rating: 8.3
     critic_rating: 8.4
   390382:
@@ -3131,8 +3131,8 @@ metadata:
       1:
         title: |-
           Kemono Jihen
-        user_rating: 7.2
-        label: score,2021 Winter
+        label: 2021 Winter
+        label.remove: score
     audience_rating: 7.2
     critic_rating: 7.4
   354602:
@@ -3150,8 +3150,8 @@ metadata:
       1:
         title: |-
           Kenja no Mago
-        user_rating: 6.4
-        label: score,2019 Spring
+        label: 2019 Spring
+        label.remove: score
     audience_rating: 6.4
     critic_rating: 6.6
   80675:
@@ -3169,13 +3169,13 @@ metadata:
       1:
         title: |-
           Kidou Senshi Gundam 00
-        user_rating: 7.7
         label: score,2007 Fall
+        user_rating: 7.7
       2:
         title: |-
           Kidou Senshi Gundam 00 2nd Season
-        user_rating: 7.7
         label: score,2008 Fall
+        user_rating: 7.7
     audience_rating: 7.7
     critic_rating: 8.1
   403849:
@@ -3193,8 +3193,8 @@ metadata:
       1:
         title: |-
           Kidou Senshi Gundam UC
-        user_rating: 7.8
-        label: score,2010 Winter
+        label: 2010 Winter
+        label.remove: score
     audience_rating: 7.8
     critic_rating: 8.1
   418364:
@@ -3212,8 +3212,8 @@ metadata:
       1:
         title: |-
           Kidou Senshi Gundam: Suisei no Majo
-        user_rating: 7.8
-        label: score,2023 Spring,2022 Fall
+        label: 2023 Spring,2022 Fall
+        label.remove: score
     audience_rating: 7.8
     critic_rating: 7.9
   299497:
@@ -3231,13 +3231,13 @@ metadata:
       1:
         title: |-
           Kidou Senshi Gundam: Tekketsu no Orphans
-        user_rating: 7.8
         label: score,2015 Fall
+        user_rating: 7.8
       2:
         title: |-
           Kidou Senshi Gundam: Tekketsu no Orphans 2
-        user_rating: 7.9
         label: score,2016 Fall
+        user_rating: 7.9
     audience_rating: 7.8
     critic_rating: 8.1
   432815:
@@ -3255,8 +3255,8 @@ metadata:
       1:
         title: |-
           Kikansha no Mahou wa Tokubetsu desu
-        user_rating: 7.0
-        label: score,2023 Fall
+        label: 2023 Fall
+        label.remove: score
     audience_rating: 7.0
     critic_rating: 7.1
   272074:
@@ -3276,8 +3276,8 @@ metadata:
       1:
         title: |-
           Kill la Kill
-        user_rating: 7.9
-        label: score,2013 Fall
+        label: 2013 Fall
+        label.remove: score
     audience_rating: 7.9
     critic_rating: 8.0
   348545:
@@ -3295,23 +3295,23 @@ metadata:
       1:
         title: |-
           Kimetsu no Yaiba
-        user_rating: 8.3
         label: score,2019 Spring
+        user_rating: 8.3
       2:
         title: |-
           Kimetsu no Yaiba: Mugen Ressha-hen (TV)
-        user_rating: 8.3
         label: score,2021 Fall
+        user_rating: 8.3
       3:
         title: |-
           Kimetsu no Yaiba: Yuukaku-hen
-        user_rating: 8.6
         label: score,2022 Winter
+        user_rating: 8.6
       4:
         title: |-
           Kimetsu no Yaiba: Katanakaji no Sato-hen
-        user_rating: 8.2
         label: score,2023 Spring
+        user_rating: 8.2
     audience_rating: 8.4
     critic_rating: 8.5
   432050:
@@ -3329,8 +3329,8 @@ metadata:
       1:
         title: |-
           Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo
-        user_rating: 7.7
-        label: score,2023 Fall
+        label: 2023 Fall
+        label.remove: score
     audience_rating: 7.7
     critic_rating: 7.8
   387027:
@@ -3348,8 +3348,8 @@ metadata:
       1:
         title: |-
           Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen
-        user_rating: 6.5
-        label: score,2020 Fall
+        label: 2020 Fall
+        label.remove: score
     audience_rating: 6.5
     critic_rating: 6.7
   414562:
@@ -3367,8 +3367,8 @@ metadata:
       1:
         title: |-
           Kimi wa Houkago Insomnia
-        user_rating: 7.9
-        label: score,2023 Spring
+        label: 2023 Spring
+        label.remove: score
     audience_rating: 7.9
     critic_rating: 8.1
   259635:
@@ -3386,28 +3386,28 @@ metadata:
       1:
         title: |-
           Kingdom
-        user_rating: 7.3
         label: score,2012 Summer
+        user_rating: 7.3
       2:
         title: |-
           Kingdom 2nd Season
-        user_rating: 8.0
         label: score,2013 Summer
+        user_rating: 8.0
       3:
         title: |-
           Kingdom 3rd Season
-        user_rating: 8.5
         label: score,2020 Spring
+        user_rating: 8.5
       4:
         title: |-
           Kingdom 4th Season
-        user_rating: 8.4
         label: score,2022 Spring
+        user_rating: 8.4
       5:
         title: |-
           Kingdom 5th Season
-        user_rating: 8.2
         label: score,2024 Winter
+        user_rating: 8.2
     audience_rating: 8.1
     critic_rating: 8.5
   279831:
@@ -3425,8 +3425,8 @@ metadata:
       1:
         title: |-
           Kiseijuu: Sei no Kakuritsu
-        user_rating: 8.1
-        label: score,2014 Fall
+        label: 2014 Fall
+        label.remove: score
     audience_rating: 8.1
     critic_rating: 8.3
   318893:
@@ -3446,13 +3446,13 @@ metadata:
       1:
         title: |-
           Kobayashi-san Chi no Maidragon
-        user_rating: 7.8
         label: score,2017 Winter
+        user_rating: 7.8
       2:
         title: |-
           Kobayashi-san Chi no Maidragon S
-        user_rating: 8.2
         label: score,2021 Summer
+        user_rating: 8.2
     audience_rating: 8.0
     critic_rating: 8.1
   358181:
@@ -3470,8 +3470,8 @@ metadata:
       1:
         title: |-
           Kono Oto Tomare!
-        user_rating: 8.0
-        label: score,2019 Fall,2019 Spring
+        label: 2019 Fall,2019 Spring
+        label.remove: score
     audience_rating: 8.0
     critic_rating: 8.1
   420657:
@@ -3489,8 +3489,8 @@ metadata:
       1:
         title: |-
           Kono Subarashii Sekai ni Bakuen wo!
-        user_rating: 7.4
-        label: score,2023 Spring
+        label: 2023 Spring
+        label.remove: score
     audience_rating: 7.4
     critic_rating: 7.5
   303867:
@@ -3510,13 +3510,13 @@ metadata:
       1:
         title: |-
           Kono Subarashii Sekai ni Shukufuku wo!
-        user_rating: 7.9
         label: score,2016 Winter
+        user_rating: 7.9
       2:
         title: |-
           Kono Subarashii Sekai ni Shukufuku wo! 2
-        user_rating: 8.1
         label: score,2017 Winter
+        user_rating: 8.1
     audience_rating: 8.0
     critic_rating: 8.2
   424116:
@@ -3534,8 +3534,8 @@ metadata:
       1:
         title: |-
           Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu
-        user_rating: 7.0
-        label: score,2023 Fall
+        label: 2023 Fall
+        label.remove: score
     audience_rating: 7.0
     critic_rating: 7.2
   421514:
@@ -3553,8 +3553,8 @@ metadata:
       1:
         title: |-
           Koori Zokusei Danshi to Cool na Douryou Joshi
-        user_rating: 7.2
-        label: score,2023 Winter
+        label: 2023 Winter
+        label.remove: score
     audience_rating: 7.2
     critic_rating: 7.3
   413515:
@@ -3572,8 +3572,8 @@ metadata:
       1:
         title: |-
           Koukyuu no Karasu
-        user_rating: 7.2
-        label: score,2022 Fall
+        label: 2022 Fall
+        label.remove: score
     audience_rating: 7.2
     critic_rating: 7.5
   305082:
@@ -3591,8 +3591,8 @@ metadata:
       1:
         title: |-
           Koutetsujou no Kabaneri
-        user_rating: 6.9
-        label: score,2016 Spring
+        label: 2016 Spring
+        label.remove: score
     audience_rating: 6.9
     critic_rating: 7.3
   409723:
@@ -3610,8 +3610,8 @@ metadata:
       1:
         title: |-
           Kumichou Musume to Sewagakari
-        user_rating: 7.7
-        label: score,2022 Summer
+        label: 2022 Summer
+        label.remove: score
     audience_rating: 7.7
     critic_rating: 7.8
   377902:
@@ -3629,8 +3629,8 @@ metadata:
       1:
         title: |-
           Kumo desu ga, Nani ka?
-        user_rating: 7.1
-        label: score,2021 Winter
+        label: 2021 Winter
+        label.remove: score
     audience_rating: 7.1
     critic_rating: 7.4
   416588:
@@ -3648,8 +3648,8 @@ metadata:
       1:
         title: |-
           Kuro no Shoukanshi
-        user_rating: 7.0
-        label: score,2022 Summer
+        label: 2022 Summer
+        label.remove: score
     audience_rating: 7.0
     critic_rating: 7.1
   257765:
@@ -3667,18 +3667,18 @@ metadata:
       1:
         title: |-
           Kuroko no Basket
-        user_rating: 7.8
         label: score,2012 Spring
+        user_rating: 7.8
       2:
         title: |-
           Kuroko no Basket 2nd SEASON
-        user_rating: 8.0
         label: score,2013 Fall
+        user_rating: 8.0
       3:
         title: |-
           Kuroko no Basket 3rd SEASON
-        user_rating: 8.1
         label: score,2015 Winter
+        user_rating: 8.1
     audience_rating: 8.0
     critic_rating: 8.2
   83996:
@@ -3698,18 +3698,18 @@ metadata:
       1:
         title: |-
           Kuroshitsuji
-        user_rating: 7.2
         label: score,2008 Fall
+        user_rating: 7.2
       2:
         title: |-
           Kuroshitsuji II
-        user_rating: 6.6
         label: score,2010 Summer
+        user_rating: 6.6
       3:
         title: |-
           Kuroshitsuji: Book of Circus
-        user_rating: 7.8
         label: score,2014 Summer
+        user_rating: 7.8
     audience_rating: 7.2
     critic_rating: 7.6
   431162:
@@ -3727,8 +3727,8 @@ metadata:
       1:
         title: |-
           Kusuriya no Hitorigoto
-        user_rating: 8.8
-        label: score,2023 Fall
+        label: 2023 Fall
+        label.remove: score
     audience_rating: 8.8
     critic_rating: 8.9
   368565:
@@ -3746,13 +3746,13 @@ metadata:
       1:
         title: |-
           Kyokou Suiri
-        user_rating: 6.8
         label: score,2020 Winter
+        user_rating: 6.8
       2:
         title: |-
           Kyokou Suiri Season 2
-        user_rating: 7.3
         label: score,2023 Winter
+        user_rating: 7.3
     audience_rating: 7.1
     critic_rating: 7.2
   272697:
@@ -3772,8 +3772,8 @@ metadata:
       1:
         title: |-
           Kyoukai no Kanata
-        user_rating: 7.4
-        label: score,2013 Fall
+        label: 2013 Fall
+        label.remove: score
     audience_rating: 7.4
     critic_rating: 7.7
   431499:
@@ -3791,8 +3791,8 @@ metadata:
       1:
         title: |-
           Kyuujitsu no Warumono-san
-        user_rating: 7.0
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 7.0
     critic_rating: 7.3
   419854:
@@ -3810,8 +3810,8 @@ metadata:
       1:
         title: |-
           Level 1 dakedo Unique Skill de Saikyou desu
-        user_rating: 6.2
-        label: score,2023 Summer
+        label: 2023 Summer
+        label.remove: score
     audience_rating: 6.2
     critic_rating: 6.2
   435005:
@@ -3829,8 +3829,8 @@ metadata:
       1:
         title: |-
           Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru
-        user_rating: 7.5
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 7.5
     critic_rating: 7.6
   418340:
@@ -3848,8 +3848,8 @@ metadata:
       1:
         title: |-
           Lv1 Maou to One Room Yuusha
-        user_rating: 6.9
-        label: score,2023 Summer
+        label: 2023 Summer
+        label.remove: score
     audience_rating: 6.9
     critic_rating: 7.2
   414057:
@@ -3867,8 +3867,8 @@ metadata:
       1:
         title: |-
           Lycoris Recoil
-        user_rating: 8.1
-        label: score,2022 Summer
+        label: 2022 Summer
+        label.remove: score
     audience_rating: 8.1
     critic_rating: 8.2
   363143:
@@ -3886,13 +3886,13 @@ metadata:
       1:
         title: |-
           Machikado Mazoku
-        user_rating: 7.5
         label: score,2019 Summer
+        user_rating: 7.5
       2:
         title: |-
           Machikado Mazoku: 2-Choume
-        user_rating: 7.8
         label: score,2022 Spring
+        user_rating: 7.8
     audience_rating: 7.7
     critic_rating: 7.8
   81086:
@@ -3912,8 +3912,8 @@ metadata:
       1:
         title: |-
           Macross Frontier
-        user_rating: 7.6
-        label: score,2008 Spring
+        label: 2008 Spring
+        label.remove: score
     audience_rating: 7.6
     critic_rating: 7.9
   326109:
@@ -3931,13 +3931,13 @@ metadata:
       1:
         title: |-
           Made in Abyss
-        user_rating: 8.5
         label: score,2017 Summer
+        user_rating: 8.5
       2:
         title: |-
           Made in Abyss: Retsujitsu no Ougonkyou
-        user_rating: 8.6
         label: score,2022 Summer
+        user_rating: 8.6
     audience_rating: 8.6
     critic_rating: 8.6
   262094:
@@ -3955,13 +3955,13 @@ metadata:
       1:
         title: |-
           Magi: The labyrinth of magic
-        user_rating: 7.8
         label: score,2012 Fall
+        user_rating: 7.8
       2:
         title: |-
           Magi: The kingdom of magic
-        user_rating: 8.0
         label: score,2013 Fall
+        user_rating: 8.0
     audience_rating: 7.9
     critic_rating: 8.1
   402893:
@@ -3979,8 +3979,8 @@ metadata:
       1:
         title: |-
           Mahou Shoujo Magical Destroyers
-        user_rating: 6.0
-        label: score,2023 Spring
+        label: 2023 Spring
+        label.remove: score
     audience_rating: 6.0
     critic_rating: 6.3
   278329:
@@ -4000,13 +4000,13 @@ metadata:
       1:
         title: |-
           Mahouka Koukou no Rettousei
-        user_rating: 7.0
         label: score,2014 Spring
+        user_rating: 7.0
       2:
         title: |-
           Mahouka Koukou no Rettousei: Raihousha-hen
-        user_rating: 7.2
         label: score,2020 Fall
+        user_rating: 7.2
     audience_rating: 7.1
     critic_rating: 7.3
   394013:
@@ -4024,8 +4024,8 @@ metadata:
       1:
         title: |-
           Mahouka Koukou no Yuutousei
-        user_rating: 6.4
-        label: score,2021 Summer
+        label: 2021 Summer
+        label.remove: score
     audience_rating: 6.4
     critic_rating: 6.7
   316842:
@@ -4045,13 +4045,13 @@ metadata:
       1:
         title: |-
           Mahoutsukai no Yome
-        user_rating: 7.8
         label: score,2017 Fall
+        user_rating: 7.8
       2:
         title: |-
           Mahoutsukai no Yome SEASON 2
-        user_rating: 7.8
         label: score,2023 Fall,2023 Spring
+        user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 7.9
   369144:
@@ -4069,18 +4069,18 @@ metadata:
       1:
         title: |-
           Mairimashita! Iruma-kun
-        user_rating: 7.7
         label: score,2019 Fall
+        user_rating: 7.7
       2:
         title: |-
           Mairimashita! Iruma-kun 2
-        user_rating: 8.0
         label: score,2021 Spring
+        user_rating: 8.0
       3:
         title: |-
           Mairimashita! Iruma-kun 3
-        user_rating: 7.8
         label: score,2022 Fall
+        user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 7.9
   423601:
@@ -4098,8 +4098,8 @@ metadata:
       1:
         title: |-
           Majo to Yajuu
-        user_rating: 6.8
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 6.8
     critic_rating: 7.2
   341436:
@@ -4117,13 +4117,13 @@ metadata:
       1:
         title: |-
           Major 2nd
-        user_rating: 7.1
         label: score,2018 Spring
+        user_rating: 7.1
       2:
         title: |-
           Major 2nd Season 2
-        user_rating: 7.3
         label: score,2020 Spring
+        user_rating: 7.3
     audience_rating: 7.2
     critic_rating: 7.4
   375927:
@@ -4141,13 +4141,13 @@ metadata:
       1:
         title: |-
           Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou
-        user_rating: 7.3
         label: score,2020 Summer
+        user_rating: 7.3
       2:
         title: |-
           Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II
-        user_rating: 6.9
         label: score,2023 Winter
+        user_rating: 6.9
     audience_rating: 7.1
     critic_rating: 7.2
   361709:
@@ -4165,8 +4165,8 @@ metadata:
       1:
         title: |-
           Maou-sama, Retry!
-        user_rating: 6.2
-        label: score,2019 Summer
+        label: 2019 Summer
+        label.remove: score
     audience_rating: 6.2
     critic_rating: 6.6
   397965:
@@ -4184,8 +4184,8 @@ metadata:
       1:
         title: |-
           Mashiro no Oto
-        user_rating: 7.3
-        label: score,2021 Spring
+        label: 2021 Spring
+        label.remove: score
     audience_rating: 7.3
     critic_rating: 7.5
   421737:
@@ -4203,13 +4203,13 @@ metadata:
       1:
         title: |-
           Mashle
-        user_rating: 7.6
         label: score,2023 Spring
+        user_rating: 7.6
       2:
         title: |-
           MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen
-        user_rating: 7.9
         label: score,2024 Winter
+        user_rating: 7.9
     audience_rating: 7.8
     critic_rating: 7.8
   72454:
@@ -4240,8 +4240,8 @@ metadata:
       1:
         title: |-
           Metallic Rouge
-        user_rating: 6.2
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 6.2
     critic_rating: 6.6
   307375:
@@ -4259,18 +4259,18 @@ metadata:
       1:
         title: |-
           Mob Psycho 100
-        user_rating: 8.4
         label: score,2016 Summer
+        user_rating: 8.4
       2:
         title: |-
           Mob Psycho 100 II
-        user_rating: 8.8
         label: score,2019 Winter
+        user_rating: 8.8
       3:
         title: |-
           Mob Psycho 100 III
-        user_rating: 8.7
         label: score,2022 Fall
+        user_rating: 8.7
     audience_rating: 8.6
     critic_rating: 8.7
   437236:
@@ -4288,8 +4288,8 @@ metadata:
       1:
         title: |-
           Momochi-san Chi no Ayakashi Ouji
-        user_rating: 5.9
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 5.9
     critic_rating: 6.4
   371310:
@@ -4309,13 +4309,13 @@ metadata:
       1:
         title: |-
           Mushoku Tensei: Isekai Ittara Honki Dasu
-        user_rating: 8.4
         label: score,2021 Fall,2021 Winter
+        user_rating: 8.4
       2:
         title: |-
           Mushoku Tensei II: Isekai Ittara Honki Dasu
-        user_rating: 8.2
         label: score,2023 Summer
+        user_rating: 8.2
     audience_rating: 8.3
     critic_rating: 8.4
   413333:
@@ -4333,8 +4333,8 @@ metadata:
       1:
         title: |-
           Nanatsu no Maken ga Shihai Suru
-        user_rating: 6.5
-        label: score,2023 Summer
+        label: 2023 Summer
+        label.remove: score
     audience_rating: 6.5
     critic_rating: 6.6
   284131:
@@ -4354,23 +4354,23 @@ metadata:
       1:
         title: |-
           Nanatsu no Taizai
-        user_rating: 7.3
         label: score,2014 Fall
+        user_rating: 7.3
       2:
         title: |-
           Nanatsu no Taizai: Imashime no Fukkatsu
-        user_rating: 7.3
         label: score,2018 Winter
+        user_rating: 7.3
       3:
         title: |-
           Nanatsu no Taizai: Kamigami no Gekirin
-        user_rating: 6.2
         label: score,2019 Fall
+        user_rating: 6.2
       4:
         title: |-
           Nanatsu no Taizai: Funnu no Shinpan
-        user_rating: 6.5
         label: score,2021 Winter
+        user_rating: 6.5
     audience_rating: 6.8
     critic_rating: 7.1
   309206:
@@ -4388,8 +4388,8 @@ metadata:
       1:
         title: |-
           Nejimaki Seirei Senki: Tenkyou no Alderamin
-        user_rating: 7.3
-        label: score,2016 Summer
+        label: 2016 Summer
+        label.remove: score
     audience_rating: 7.3
     critic_rating: 7.6
   332771:
@@ -4409,8 +4409,8 @@ metadata:
       1:
         title: |-
           Net-juu no Susume
-        user_rating: 7.3
-        label: score,2017 Fall
+        label: 2017 Fall
+        label.remove: score
     audience_rating: 7.3
     critic_rating: 7.5
   309532:
@@ -4430,13 +4430,13 @@ metadata:
       1:
         title: |-
           New Game!
-        user_rating: 7.4
         label: score,2016 Summer
+        user_rating: 7.4
       2:
         title: |-
           New Game!!
-        user_rating: 7.6
         label: score,2017 Summer
+        user_rating: 7.6
     audience_rating: 7.5
     critic_rating: 7.7
   240291:
@@ -4456,8 +4456,8 @@ metadata:
       1:
         title: |-
           Nichijou
-        user_rating: 8.3
-        label: score,2011 Spring
+        label: 2011 Spring
+        label.remove: score
     audience_rating: 8.3
     critic_rating: 8.5
   416998:
@@ -4475,8 +4475,8 @@ metadata:
       1:
         title: |-
           NieR:Automata Ver1.1a
-        user_rating: 7.2
-        label: score,2023 Winter
+        label: 2023 Winter
+        label.remove: score
     audience_rating: 7.2
     critic_rating: 7.5
   415188:
@@ -4494,8 +4494,8 @@ metadata:
       1:
         title: |-
           Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu
-        user_rating: 6.2
-        label: score,2023 Winter
+        label: 2023 Winter
+        label.remove: score
     audience_rating: 6.2
     critic_rating: 6.3
   275610:
@@ -4515,13 +4515,13 @@ metadata:
       1:
         title: |-
           Noragami
-        user_rating: 7.8
         label: score,2014 Winter
+        user_rating: 7.8
       2:
         title: |-
           Noragami ARAGOTO
-        user_rating: 8.0
         label: score,2015 Fall
+        user_rating: 8.0
     audience_rating: 7.9
     critic_rating: 8.0
   419112:
@@ -4539,8 +4539,8 @@ metadata:
       1:
         title: |-
           Nozomanu Fushi no Boukensha
-        user_rating: 7.3
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 7.3
     critic_rating: 7.5
   304493:
@@ -4560,8 +4560,8 @@ metadata:
       1:
         title: |-
           Oji-san to Marshmallow
-        user_rating: 6.2
-        label: score,2016 Winter
+        label: 2016 Winter
+        label.remove: score
     audience_rating: 6.2
     critic_rating: 6.6
   423096:
@@ -4579,8 +4579,8 @@ metadata:
       1:
         title: |-
           Okashi na Tensei
-        user_rating: 6.6
-        label: score,2023 Summer
+        label: 2023 Summer
+        label.remove: score
     audience_rating: 6.6
     critic_rating: 6.7
   81797:
@@ -4611,13 +4611,13 @@ metadata:
       1:
         title: |-
           One Punch Man
-        user_rating: 8.3
         label: score,2015 Fall
+        user_rating: 8.3
       2:
         title: |-
           One Punch Man 2
-        user_rating: 7.4
         label: score,2019 Spring
+        user_rating: 7.4
     audience_rating: 7.8
     critic_rating: 8.0
   81178:
@@ -4637,13 +4637,13 @@ metadata:
       1:
         title: |-
           Ookami to Koushinryou
-        user_rating: 8.0
         label: score,2008 Winter
+        user_rating: 8.0
       2:
         title: |-
           Ookami to Koushinryou II
-        user_rating: 8.1
         label: score,2009 Summer
+        user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.2
   414908:
@@ -4663,8 +4663,8 @@ metadata:
       1:
         title: |-
           Ooyukiumi no Kaina
-        user_rating: 6.4
-        label: score,2023 Winter
+        label: 2023 Winter
+        label.remove: score
     audience_rating: 6.4
     critic_rating: 6.7
   389597:
@@ -4682,8 +4682,8 @@ metadata:
       1:
         title: |-
           Ore dake Level Up na Ken
-        user_rating: 8.2
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 8.2
     critic_rating: 8.4
   433034:
@@ -4701,8 +4701,8 @@ metadata:
       1:
         title: |-
           Oroka na Tenshi wa Akuma to Odoru
-        user_rating: 6.5
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 6.5
     critic_rating: 6.8
   412826:
@@ -4720,8 +4720,8 @@ metadata:
       1:
         title: |-
           Otomege Sekai wa Mob ni Kibishii Sekai desu
-        user_rating: 7.1
-        label: score,2022 Spring
+        label: 2022 Spring
+        label.remove: score
     audience_rating: 7.1
     critic_rating: 7.3
   419490:
@@ -4739,8 +4739,8 @@ metadata:
       1:
         title: |-
           Otonari ni Ginga
-        user_rating: 7.0
-        label: score,2023 Spring
+        label: 2023 Spring
+        label.remove: score
     audience_rating: 7.0
     critic_rating: 7.1
   414221:
@@ -4758,8 +4758,8 @@ metadata:
       1:
         title: |-
           Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken
-        user_rating: 7.7
-        label: score,2023 Winter
+        label: 2023 Winter
+        label.remove: score
     audience_rating: 7.7
     critic_rating: 7.8
   391625:
@@ -4777,8 +4777,8 @@ metadata:
       1:
         title: |-
           Ousama Ranking
-        user_rating: 8.4
-        label: score,2021 Fall
+        label: 2021 Fall
+        label.remove: score
     audience_rating: 8.4
     critic_rating: 8.5
   432080:
@@ -4796,8 +4796,8 @@ metadata:
       1:
         title: |-
           Ousama Ranking: Yuuki no Takarabako
-        user_rating: 7.3
-        label: score,2023 Spring
+        label: 2023 Spring
+        label.remove: score
     audience_rating: 7.3
     critic_rating: 7.3
   294002:
@@ -4817,23 +4817,23 @@ metadata:
       1:
         title: |-
           Overlord
-        user_rating: 7.6
         label: score,2015 Summer
+        user_rating: 7.6
       2:
         title: |-
           Overlord II
-        user_rating: 7.5
         label: score,2018 Winter
+        user_rating: 7.5
       3:
         title: |-
           Overlord III
-        user_rating: 7.7
         label: score,2018 Summer
+        user_rating: 7.7
       4:
         title: |-
           Overlord IV
-        user_rating: 8.0
         label: score,2022 Summer
+        user_rating: 8.0
     audience_rating: 7.7
     critic_rating: 7.9
   429994:
@@ -4851,8 +4851,8 @@ metadata:
       1:
         title: |-
           Overtake!
-        user_rating: 7.4
-        label: score,2023 Fall
+        label: 2023 Fall
+        label.remove: score
     audience_rating: 7.4
     critic_rating: 7.5
   289906:
@@ -4870,8 +4870,8 @@ metadata:
       1:
         title: |-
           Owari no Seraph
-        user_rating: 7.3
-        label: score,2015 Fall,2015 Spring
+        label: 2015 Fall,2015 Spring
+        label.remove: score
     audience_rating: 7.3
     critic_rating: 7.6
   412580:
@@ -4889,8 +4889,8 @@ metadata:
       1:
         title: |-
           Paripi Koumei
-        user_rating: 8.0
-        label: score,2022 Spring
+        label: 2022 Spring
+        label.remove: score
     audience_rating: 8.0
     critic_rating: 8.1
   75796:
@@ -4910,8 +4910,8 @@ metadata:
       1:
         title: |-
           Planetes
-        user_rating: 7.9
-        label: score,2003 Fall
+        label: 2003 Fall
+        label.remove: score
     audience_rating: 7.9
     critic_rating: 8.3
   291627:
@@ -4929,8 +4929,8 @@ metadata:
       1:
         title: |-
           Plastic Memories
-        user_rating: 7.7
-        label: score,2015 Spring
+        label: 2015 Spring
+        label.remove: score
     audience_rating: 7.7
     critic_rating: 7.9
   431093:
@@ -4948,8 +4948,8 @@ metadata:
       1:
         title: |-
           Pluto
-        user_rating: 8.4
-        label: score,2023 Fall
+        label: 2023 Fall
+        label.remove: score
     audience_rating: 8.4
     critic_rating: 8.5
   431495:
@@ -4967,8 +4967,8 @@ metadata:
       1:
         title: |-
           Potion-danomi de Ikinobimasu!
-        user_rating: 6.3
-        label: score,2023 Fall
+        label: 2023 Fall
+        label.remove: score
     audience_rating: 6.3
     critic_rating: 6.5
   262090:
@@ -4986,18 +4986,18 @@ metadata:
       1:
         title: |-
           Psycho-pass
-        user_rating: 8.1
         label: score,2012 Fall
+        user_rating: 8.1
       2:
         title: |-
           Psycho-pass 2
-        user_rating: 7.1
         label: score,2014 Fall
+        user_rating: 7.1
       3:
         title: |-
           Psycho-pass 3
-        user_rating: 7.3
         label: score,2019 Fall
+        user_rating: 7.3
     audience_rating: 7.5
     critic_rating: 7.7
   328670:
@@ -5015,33 +5015,33 @@ metadata:
       1:
         title: |-
           Quanzhi Fashi
-        user_rating: 6.8
         label: score,2016 Summer
+        user_rating: 6.8
       2:
         title: |-
           Quanzhi Fashi 2
-        user_rating: 6.5
         label: score,2017 Summer
+        user_rating: 6.5
       3:
         title: |-
           Quanzhi Fashi 3
-        user_rating: 7.1
         label: score,2018 Fall
+        user_rating: 7.1
       4:
         title: |-
           Quanzhi Fashi 4
-        user_rating: 7.2
         label: score,2020 Spring
+        user_rating: 7.2
       5:
         title: |-
           Quanzhi Fashi 5
-        user_rating: 7.1
         label: score,2021 Summer
+        user_rating: 7.1
       6:
         title: |-
           Quanzhi Fashi 6
-        user_rating: 6.9
         label: score,2023 Spring
+        user_rating: 6.9
     audience_rating: 6.9
     critic_rating: 7.2
   326270:
@@ -5061,13 +5061,13 @@ metadata:
       1:
         title: |-
           Quanzhi Gaoshou
-        user_rating: 7.5
         label: score,2017 Spring
+        user_rating: 7.5
       2:
         title: |-
           Quanzhi Gaoshou 2
-        user_rating: 7.7
         label: score,2020 Summer
+        user_rating: 7.7
     audience_rating: 7.6
     critic_rating: 7.9
   417983:
@@ -5085,8 +5085,8 @@ metadata:
       1:
         title: |-
           Ragna Crimson
-        user_rating: 7.2
-        label: score,2023 Fall
+        label: 2023 Fall
+        label.remove: score
     audience_rating: 7.2
     critic_rating: 7.5
   299506:
@@ -5104,8 +5104,8 @@ metadata:
       1:
         title: |-
           Rakudai Kishi no Cavalry
-        user_rating: 7.2
-        label: score,2015 Fall
+        label: 2015 Fall
+        label.remove: score
     audience_rating: 7.2
     critic_rating: 7.4
   305089:
@@ -5125,13 +5125,13 @@ metadata:
       1:
         title: |-
           Re:Zero kara Hajimeru Isekai Seikatsu
-        user_rating: 8.0
         label: score,2016 Spring
+        user_rating: 8.0
       2:
         title: |-
           Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
-        user_rating: 8.3
         label: score,2021 Winter,2020 Summer
+        user_rating: 8.3
     audience_rating: 8.1
     critic_rating: 8.3
   299508:
@@ -5151,8 +5151,8 @@ metadata:
       1:
         title: |-
           ReLIFE
-        user_rating: 7.8
-        label: score,2016 Summer
+        label: 2016 Summer
+        label.remove: score
     audience_rating: 7.8
     critic_rating: 8.0
   423787:
@@ -5170,8 +5170,8 @@ metadata:
       1:
         title: |-
           Romantic Killer
-        user_rating: 8.0
-        label: score,2022 Fall
+        label: 2022 Fall
+        label.remove: score
     audience_rating: 8.0
     critic_rating: 8.0
   413578:
@@ -5189,8 +5189,8 @@ metadata:
       1:
         title: |-
           Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
-        user_rating: 7.4
-        label: score,2023 Summer
+        label: 2023 Summer
+        label.remove: score
     audience_rating: 7.4
     critic_rating: 7.6
   432613:
@@ -5208,8 +5208,8 @@ metadata:
       1:
         title: |-
           Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega
-        user_rating: 6.1
-        label: score,2023 Summer
+        label: 2023 Summer
+        label.remove: score
     audience_rating: 6.1
     critic_rating: 6.4
   398387:
@@ -5227,8 +5227,8 @@ metadata:
       1:
         title: |-
           Sabikui Bisco
-        user_rating: 7.0
-        label: score,2022 Winter
+        label: 2022 Winter
+        label.remove: score
     audience_rating: 7.0
     critic_rating: 7.2
   401915:
@@ -5246,13 +5246,13 @@ metadata:
       1:
         title: |-
           Saihate no Paladin
-        user_rating: 6.8
         label: score,2021 Fall
+        user_rating: 6.8
       2:
         title: |-
           Saihate no Paladin: Tetsusabi no Yama no Ou
-        user_rating: 7.3
         label: score,2023 Fall
+        user_rating: 7.3
     audience_rating: 7.1
     critic_rating: 7.2
   427066:
@@ -5270,8 +5270,8 @@ metadata:
       1:
         title: |-
           Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.
-        user_rating: 7.1
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 7.1
     critic_rating: 7.4
   313435:
@@ -5291,13 +5291,13 @@ metadata:
       1:
         title: |-
           Saiki Kusuo no Ψ-nan
-        user_rating: 8.3
         label: score,2016 Summer
+        user_rating: 8.3
       2:
         title: |-
           Saiki Kusuo no Ψ-nan 2
-        user_rating: 8.4
         label: score,2018 Winter
+        user_rating: 8.4
     audience_rating: 8.4
     critic_rating: 8.4
   415378:
@@ -5315,8 +5315,8 @@ metadata:
       1:
         title: |-
           Saikyou Onmyouji no Isekai Tenseiki
-        user_rating: 7.1
-        label: score,2023 Winter
+        label: 2023 Winter
+        label.remove: score
     audience_rating: 7.1
     critic_rating: 7.2
   440481:
@@ -5334,8 +5334,8 @@ metadata:
       1:
         title: |-
           Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou Sareru
-        user_rating: 5.9
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 5.9
     critic_rating: 6.1
   262114:
@@ -5353,8 +5353,8 @@ metadata:
       1:
         title: |-
           Sakurasou no Pet na Kanojo
-        user_rating: 7.8
-        label: score,2012 Fall
+        label: 2012 Fall
+        label.remove: score
     audience_rating: 7.8
     critic_rating: 8.1
   79089:
@@ -5387,8 +5387,8 @@ metadata:
       1:
         title: |-
           Sankarea
-        user_rating: 7.0
-        label: score,2012 Spring
+        label: 2012 Spring
+        label.remove: score
     audience_rating: 7.0
     critic_rating: 7.3
   422728:
@@ -5406,8 +5406,8 @@ metadata:
       1:
         title: |-
           Sasaki to Pii-chan
-        user_rating: 6.6
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 6.6
     critic_rating: 6.9
   425756:
@@ -5425,8 +5425,8 @@ metadata:
       1:
         title: |-
           Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
-        user_rating: 7.0
-        label: score,2023 Summer
+        label: 2023 Summer
+        label.remove: score
     audience_rating: 7.0
     critic_rating: 7.1
   397831:
@@ -5444,13 +5444,13 @@ metadata:
       1:
         title: |-
           Seijo no Maryoku wa Bannou desu
-        user_rating: 7.1
         label: score,2021 Spring
+        user_rating: 7.1
       2:
         title: |-
           Seijo no Maryoku wa Bannou desu Season 2
-        user_rating: 7.3
         label: score,2023 Fall
+        user_rating: 7.3
     audience_rating: 7.2
     critic_rating: 7.3
   412076:
@@ -5468,8 +5468,8 @@ metadata:
       1:
         title: |-
           Seiken Gakuin no Maken Tsukai
-        user_rating: 6.1
-        label: score,2023 Fall
+        label: 2023 Fall
+        label.remove: score
     audience_rating: 6.1
     critic_rating: 6.2
   345596:
@@ -5487,8 +5487,8 @@ metadata:
       1:
         title: |-
           Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
-        user_rating: 8.0
-        label: score,2018 Fall
+        label: 2018 Fall
+        label.remove: score
     audience_rating: 8.0
     critic_rating: 8.2
   173271:
@@ -5508,13 +5508,13 @@ metadata:
       1:
         title: |-
           Seitokai Yakuindomo
-        user_rating: 7.3
         label: score,2010 Summer
+        user_rating: 7.3
       2:
         title: |-
           Seitokai Yakuindomo＊
-        user_rating: 7.5
         label: score,2014 Winter
+        user_rating: 7.5
     audience_rating: 7.4
     critic_rating: 7.7
   398193:
@@ -5532,8 +5532,8 @@ metadata:
       1:
         title: |-
           Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru
-        user_rating: 7.2
-        label: score,2021 Fall
+        label: 2021 Fall
+        label.remove: score
     audience_rating: 7.2
     critic_rating: 7.3
   438151:
@@ -5551,8 +5551,8 @@ metadata:
       1:
         title: |-
           Sengoku Youko
-        user_rating: 6.5
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 6.5
     critic_rating: 6.7
   401874:
@@ -5570,8 +5570,8 @@ metadata:
       1:
         title: |-
           Senpai ga Uzai Kouhai no Hanashi
-        user_rating: 7.5
-        label: score,2021 Fall
+        label: 2021 Fall
+        label.remove: score
     audience_rating: 7.5
     critic_rating: 7.6
   396876:
@@ -5589,13 +5589,13 @@ metadata:
       1:
         title: |-
           Shadows House
-        user_rating: 7.6
         label: score,2021 Spring
+        user_rating: 7.6
       2:
         title: |-
           Shadows House 2nd Season
-        user_rating: 7.9
         label: score,2022 Summer
+        user_rating: 7.9
     audience_rating: 7.8
     critic_rating: 7.9
   421855:
@@ -5613,8 +5613,8 @@ metadata:
       1:
         title: |-
           Shangri-La Frontier
-        user_rating: 7.9
-        label: score,2023 Fall
+        label: 2023 Fall
+        label.remove: score
     audience_rating: 7.9
     critic_rating: 8.0
   279830:
@@ -5634,8 +5634,8 @@ metadata:
       1:
         title: |-
           Shigatsu wa Kimi no Uso
-        user_rating: 8.4
-        label: score,2014 Fall
+        label: 2014 Fall
+        label.remove: score
     audience_rating: 8.4
     critic_rating: 8.6
   402033:
@@ -5655,13 +5655,13 @@ metadata:
       1:
         title: |-
           Shiguang Dailiren
-        user_rating: 8.6
         label: score,2021 Spring
+        user_rating: 8.6
       2:
         title: |-
           Shiguang Dailiren II
-        user_rating: 8.6
         label: score,2023 Summer
+        user_rating: 8.6
     audience_rating: 8.6
     critic_rating: 8.6
   400573:
@@ -5679,13 +5679,13 @@ metadata:
       1:
         title: |-
           Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita
-        user_rating: 6.9
         label: score,2021 Fall
+        user_rating: 6.9
       2:
         title: |-
           Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd
-        user_rating: 6.8
         label: score,2024 Winter
+        user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 6.8
   267440:
@@ -5703,23 +5703,23 @@ metadata:
       1:
         title: |-
           Shingeki no Kyojin
-        user_rating: 8.4
         label: score,2013 Spring
+        user_rating: 8.4
       2:
         title: |-
           Shingeki no Kyojin 2
-        user_rating: 8.4
         label: score,2017 Spring
+        user_rating: 8.4
       3:
         title: |-
           Shingeki no Kyojin 3
-        user_rating: 8.7
         label: score,2019 Spring,2018 Summer
+        user_rating: 8.7
       4:
         title: |-
           Shingeki no Kyojin: The Final Season
-        user_rating: 8.6
         label: score,2023 Winter,2022 Winter,2021 Winter
+        user_rating: 8.6
     audience_rating: 8.5
     critic_rating: 8.7
   421283:
@@ -5737,8 +5737,8 @@ metadata:
       1:
         title: |-
           Shiro Seijo to Kuro Bokushi
-        user_rating: 7.2
-        label: score,2023 Summer
+        label: 2023 Summer
+        label.remove: score
     audience_rating: 7.2
     critic_rating: 7.4
   284564:
@@ -5758,8 +5758,8 @@ metadata:
       1:
         title: |-
           Shirobako
-        user_rating: 8.2
-        label: score,2014 Fall
+        label: 2014 Fall
+        label.remove: score
     audience_rating: 8.2
     critic_rating: 8.3
   402640:
@@ -5777,8 +5777,8 @@ metadata:
       1:
         title: |-
           Shokei Shoujo no Virgin Road
-        user_rating: 6.7
-        label: score,2022 Spring
+        label: 2022 Spring
+        label.remove: score
     audience_rating: 6.7
     critic_rating: 6.8
   332983:
@@ -5796,8 +5796,8 @@ metadata:
       1:
         title: |-
           Shoujo Shuumatsu Ryokou
-        user_rating: 8.1
-        label: score,2017 Fall
+        label: 2017 Fall
+        label.remove: score
     audience_rating: 8.1
     critic_rating: 8.2
   304316:
@@ -5817,13 +5817,13 @@ metadata:
       1:
         title: |-
           Shouwa Genroku Rakugo Shinjuu
-        user_rating: 8.4
         label: score,2016 Winter
+        user_rating: 8.4
       2:
         title: |-
           Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen
-        user_rating: 8.6
         label: score,2017 Winter
+        user_rating: 8.6
     audience_rating: 8.5
     critic_rating: 8.6
   425474:
@@ -5841,8 +5841,8 @@ metadata:
       1:
         title: |-
           Shy
-        user_rating: 6.7
-        label: score,2023 Fall
+        label: 2023 Fall
+        label.remove: score
     audience_rating: 6.7
     critic_rating: 6.7
   278154:
@@ -5860,13 +5860,13 @@ metadata:
       1:
         title: |-
           Sidonia no Kishi
-        user_rating: 7.3
         label: score,2014 Spring
+        user_rating: 7.3
       2:
         title: |-
           Sidonia no Kishi: Daikyuu Wakusei Seneki
-        user_rating: 7.4
         label: score,2015 Spring
+        user_rating: 7.4
     audience_rating: 7.3
     critic_rating: 7.7
   412696:
@@ -5884,8 +5884,8 @@ metadata:
       1:
         title: |-
           Skip to Loafer
-        user_rating: 8.1
-        label: score,2023 Spring
+        label: 2023 Spring
+        label.remove: score
     audience_rating: 8.1
     critic_rating: 8.1
   427883:
@@ -5903,8 +5903,8 @@ metadata:
       1:
         title: |-
           Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.
-        user_rating: 6.3
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 6.3
     critic_rating: 6.4
   401233:
@@ -5922,8 +5922,8 @@ metadata:
       1:
         title: |-
           Sono Bisque Doll wa Koi wo Suru
-        user_rating: 8.1
-        label: score,2022 Winter
+        label: 2022 Winter
+        label.remove: score
     audience_rating: 8.1
     critic_rating: 8.2
   424536:
@@ -5941,8 +5941,8 @@ metadata:
       1:
         title: |-
           Sousou no Frieren
-        user_rating: 9.2
-        label: score,2023 Fall
+        label: 2023 Fall
+        label.remove: score
     audience_rating: 9.2
     critic_rating: 9.4
   405920:
@@ -5960,13 +5960,13 @@ metadata:
       1:
         title: |-
           Spy×family
-        user_rating: 8.4
         label: score,2022 Fall,2022 Spring
+        user_rating: 8.4
       2:
         title: |-
           SPY×FAMILY Season 2
-        user_rating: 8.1
         label: score,2023 Fall
+        user_rating: 8.1
     audience_rating: 8.2
     critic_rating: 8.2
   244061:
@@ -5986,8 +5986,8 @@ metadata:
       1:
         title: |-
           Steins;Gate
-        user_rating: 8.9
-        label: score,2011 Spring
+        label: 2011 Spring
+        label.remove: score
     audience_rating: 8.9
     critic_rating: 9.1
   339268:
@@ -6007,8 +6007,8 @@ metadata:
       1:
         title: |-
           Steins;Gate 0
-        user_rating: 8.4
-        label: score,2018 Spring
+        label: 2018 Spring
+        label.remove: score
     audience_rating: 8.4
     critic_rating: 8.5
   267432:
@@ -6028,8 +6028,8 @@ metadata:
       1:
         title: |-
           Suisei no Gargantia
-        user_rating: 7.1
-        label: score,2013 Spring
+        label: 2013 Spring
+        label.remove: score
     audience_rating: 7.1
     critic_rating: 7.4
   407306:
@@ -6047,8 +6047,8 @@ metadata:
       1:
         title: |-
           Summer Time Render
-        user_rating: 8.3
-        label: score,2022 Spring
+        label: 2022 Spring
+        label.remove: score
     audience_rating: 8.3
     critic_rating: 8.5
   259640:
@@ -6068,23 +6068,23 @@ metadata:
       1:
         title: |-
           Sword Art Online
-        user_rating: 6.9
         label: score,2012 Summer
+        user_rating: 6.9
       2:
         title: |-
           Sword Art Online II
-        user_rating: 6.5
         label: score,2014 Summer
+        user_rating: 6.5
       3:
         title: |-
           Sword Art Online: Alicization
-        user_rating: 7.5
         label: score,2018 Fall
+        user_rating: 7.5
       4:
         title: |-
           Sword Art Online: Alicization - War of Underworld
-        user_rating: 7.4
         label: score,2020 Summer,2019 Fall
+        user_rating: 7.4
     audience_rating: 7.1
     critic_rating: 7.3
   424779:
@@ -6102,8 +6102,8 @@ metadata:
       1:
         title: |-
           SYNDUALITY Noir
-        user_rating: 6.6
-        label: score,2024 Winter,2023 Summer
+        label: 2024 Winter,2023 Summer
+        label.remove: score
     audience_rating: 6.6
     critic_rating: 6.9
   305104:
@@ -6121,8 +6121,8 @@ metadata:
       1:
         title: |-
           Tanaka-kun wa Itsumo Kedaruge
-        user_rating: 7.7
-        label: score,2016 Spring
+        label: 2016 Spring
+        label.remove: score
     audience_rating: 7.7
     critic_rating: 7.8
   353712:
@@ -6140,18 +6140,18 @@ metadata:
       1:
         title: |-
           Tate no Yuusha no Nariagari
-        user_rating: 7.7
         label: score,2019 Winter
+        user_rating: 7.7
       2:
         title: |-
           Tate no Yuusha no Nariagari Season 2
-        user_rating: 6.5
         label: score,2022 Spring
+        user_rating: 6.5
       3:
         title: |-
           Tate no Yuusha no Nariagari Season 3
-        user_rating: 7.1
         label: score,2023 Fall
+        user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.2
   424368:
@@ -6169,8 +6169,8 @@ metadata:
       1:
         title: |-
           Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story
-        user_rating: 7.1
-        label: score,2023 Fall
+        label: 2023 Fall
+        label.remove: score
     audience_rating: 7.1
     critic_rating: 7.2
   80096:
@@ -6188,8 +6188,8 @@ metadata:
       1:
         title: |-
           Tengen Toppa Gurren Lagann
-        user_rating: 8.5
-        label: score,2007 Spring
+        label: 2007 Spring
+        label.remove: score
     audience_rating: 8.5
     critic_rating: 8.6
   426165:
@@ -6207,8 +6207,8 @@ metadata:
       1:
         title: |-
           Tengoku Daimakyou
-        user_rating: 8.2
-        label: score,2023 Spring
+        label: 2023 Spring
+        label.remove: score
     audience_rating: 8.2
     critic_rating: 8.2
   400961:
@@ -6226,8 +6226,8 @@ metadata:
       1:
         title: |-
           Tensai Ouji no Akaji Kokka Saisei Jutsu
-        user_rating: 7.2
-        label: score,2022 Winter
+        label: 2022 Winter
+        label.remove: score
     audience_rating: 7.2
     critic_rating: 7.4
   423094:
@@ -6245,8 +6245,8 @@ metadata:
       1:
         title: |-
           Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito
-        user_rating: 6.6
-        label: score,2023 Spring
+        label: 2023 Spring
+        label.remove: score
     audience_rating: 6.6
     critic_rating: 6.7
   423362:
@@ -6264,8 +6264,8 @@ metadata:
       1:
         title: |-
           Tensei Oujo to Tensai Reijou no Mahou Kakumei
-        user_rating: 7.5
-        label: score,2023 Winter
+        label: 2023 Winter
+        label.remove: score
     audience_rating: 7.5
     critic_rating: 7.5
   410378:
@@ -6283,8 +6283,8 @@ metadata:
       1:
         title: |-
           Tensei Shitara Ken Deshita
-        user_rating: 7.4
-        label: score,2022 Fall
+        label: 2022 Fall
+        label.remove: score
     audience_rating: 7.4
     critic_rating: 7.5
   352408:
@@ -6304,13 +6304,13 @@ metadata:
       1:
         title: |-
           Tensei Shitara Slime Datta Ken
-        user_rating: 8.0
         label: score,2018 Fall
+        user_rating: 8.0
       2:
         title: |-
           Tensei Shitara Slime Datta Ken 2nd Season
-        user_rating: 8.3
         label: score,2021 Summer,2021 Winter
+        user_rating: 8.3
     audience_rating: 8.1
     critic_rating: 8.2
   385374:
@@ -6328,8 +6328,8 @@ metadata:
       1:
         title: |-
           Tensei Shitara Slime Datta Ken: Tensura Nikki
-        user_rating: 7.4
-        label: score,2021 Spring
+        label: 2021 Spring
+        label.remove: score
     audience_rating: 7.4
     critic_rating: 7.6
   378556:
@@ -6347,8 +6347,8 @@ metadata:
       1:
         title: |-
           The God Of High School
-        user_rating: 6.9
-        label: score,2020 Summer
+        label: 2020 Summer
+        label.remove: score
     audience_rating: 6.9
     critic_rating: 7.1
   388672:
@@ -6366,13 +6366,13 @@ metadata:
       1:
         title: |-
           Tian Guan Ci Fu
-        user_rating: 8.3
         label: score,2020 Fall
+        user_rating: 8.3
       2:
         title: |-
           Tian Guan Ci Fu 2
-        user_rating: 8.6
         label: score,2023 Fall
+        user_rating: 8.6
     audience_rating: 8.4
     critic_rating: 8.5
   281249:
@@ -6390,18 +6390,18 @@ metadata:
       1:
         title: |-
           Tokyo Ghoul
-        user_rating: 7.5
         label: score,2014 Summer
+        user_rating: 7.5
       2:
         title: |-
           Tokyo Ghoul √A
-        user_rating: 6.6
         label: score,2015 Winter
+        user_rating: 6.6
       3:
         title: |-
           Tokyo Ghoul:re
-        user_rating: 6.1
         label: score,2018 Fall,2018 Spring
+        user_rating: 6.1
     audience_rating: 6.7
     critic_rating: 7.1
   272043:
@@ -6419,8 +6419,8 @@ metadata:
       1:
         title: |-
           Tokyo Ravens
-        user_rating: 7.1
-        label: score,2013 Fall
+        label: 2013 Fall
+        label.remove: score
     audience_rating: 7.1
     critic_rating: 7.4
   393478:
@@ -6438,18 +6438,18 @@ metadata:
       1:
         title: |-
           Tokyo Revengers
-        user_rating: 7.8
         label: score,2021 Spring
+        user_rating: 7.8
       2:
         title: |-
           Tokyo Revengers: Seiya Kessen-hen
-        user_rating: 7.6
         label: score,2023 Winter
+        user_rating: 7.6
       3:
         title: |-
           Tokyo Revengers: Tenjiku-hen
-        user_rating: 7.8
         label: score,2023 Fall
+        user_rating: 7.8
     audience_rating: 7.7
     critic_rating: 7.8
   421994:
@@ -6467,8 +6467,8 @@ metadata:
       1:
         title: |-
           Tomo-chan wa Onnanoko!
-        user_rating: 7.7
-        label: score,2023 Winter
+        label: 2023 Winter
+        label.remove: score
     audience_rating: 7.7
     critic_rating: 7.8
   262107:
@@ -6486,8 +6486,8 @@ metadata:
       1:
         title: |-
           Tonari no Kaibutsu-kun
-        user_rating: 7.2
-        label: score,2012 Fall
+        label: 2012 Fall
+        label.remove: score
     audience_rating: 7.2
     critic_rating: 7.5
   426572:
@@ -6505,8 +6505,8 @@ metadata:
       1:
         title: |-
           Tondemo Skill de Isekai Hourou Meshi
-        user_rating: 7.6
-        label: score,2023 Winter
+        label: 2023 Winter
+        label.remove: score
     audience_rating: 7.6
     critic_rating: 7.7
   385077:
@@ -6526,13 +6526,13 @@ metadata:
       1:
         title: |-
           Tonikaku Kawaii
-        user_rating: 7.7
         label: score,2020 Fall
+        user_rating: 7.7
       2:
         title: |-
           Tonikaku Kawaii Season 2
-        user_rating: 7.6
         label: score,2023 Spring
+        user_rating: 7.6
     audience_rating: 7.7
     critic_rating: 7.8
   83277:
@@ -6552,8 +6552,8 @@ metadata:
       1:
         title: |-
           Toradora!
-        user_rating: 7.8
-        label: score,2008 Fall
+        label: 2008 Fall
+        label.remove: score
     audience_rating: 7.8
     critic_rating: 8.1
   421378:
@@ -6571,8 +6571,8 @@ metadata:
       1:
         title: |-
           Trigun Stampede
-        user_rating: 7.8
-        label: score,2023 Winter
+        label: 2023 Winter
+        label.remove: score
     audience_rating: 7.8
     critic_rating: 7.8
   325197:
@@ -6590,8 +6590,8 @@ metadata:
       1:
         title: |-
           Tsuki ga Kirei
-        user_rating: 7.9
-        label: score,2017 Spring
+        label: 2017 Spring
+        label.remove: score
     audience_rating: 7.9
     critic_rating: 8.1
   390832:
@@ -6609,13 +6609,13 @@ metadata:
       1:
         title: |-
           Tsuki ga Michibiku Isekai Douchuu
-        user_rating: 7.6
         label: score,2021 Summer
+        user_rating: 7.6
       2:
         title: |-
           Tsuki ga Michibiku Isekai Douchuu 2nd Season
-        user_rating: 7.6
         label: score,2024 Winter
+        user_rating: 7.6
     audience_rating: 7.6
     critic_rating: 7.8
   422405:
@@ -6633,8 +6633,8 @@ metadata:
       1:
         title: |-
           Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san
-        user_rating: 7.0
-        label: score,2023 Winter
+        label: 2023 Winter
+        label.remove: score
     audience_rating: 7.0
     critic_rating: 7.2
   352796:
@@ -6654,13 +6654,13 @@ metadata:
       1:
         title: |-
           Tsurune: Kazemai Koukou Kyuudou-bu
-        user_rating: 7.5
         label: score,2018 Fall
+        user_rating: 7.5
       2:
         title: |-
           Tsurune: Tsunagari no Issha
-        user_rating: 8.0
         label: score,2023 Winter
+        user_rating: 8.0
     audience_rating: 7.8
     critic_rating: 7.9
   256705:
@@ -6691,18 +6691,18 @@ metadata:
       1:
         title: |-
           Uchuu Senkan Yamato 2199
-        user_rating: 8.0
         label: score,2012 Spring
+        user_rating: 8.0
       2:
         title: |-
           Uchuu Senkan Yamato 2202: Ai no Senshi-tachi
-        user_rating: 7.3
         label: score,2017 Winter
+        user_rating: 7.3
       3:
         title: |-
           Uchuu Senkan Yamato 2205: Aratanaru Tabidachi
-        user_rating: 6.8
         label: score,2021 Fall
+        user_rating: 6.8
     audience_rating: 7.4
     critic_rating: 7.8
   315094:
@@ -6720,8 +6720,8 @@ metadata:
       1:
         title: |-
           Udon no Kuni no Kiniro Kemari
-        user_rating: 7.5
-        label: score,2016 Fall
+        label: 2016 Fall
+        label.remove: score
     audience_rating: 7.5
     critic_rating: 7.8
   432748:
@@ -6739,8 +6739,8 @@ metadata:
       1:
         title: |-
           Undead Girl Murder Farce
-        user_rating: 7.8
-        label: score,2023 Summer
+        label: 2023 Summer
+        label.remove: score
     audience_rating: 7.8
     critic_rating: 7.9
   423030:
@@ -6758,8 +6758,8 @@ metadata:
       1:
         title: |-
           Undead Unluck
-        user_rating: 7.7
-        label: score,2023 Fall
+        label: 2023 Fall
+        label.remove: score
     audience_rating: 7.7
     critic_rating: 7.8
   249872:
@@ -6779,8 +6779,8 @@ metadata:
       1:
         title: |-
           Usagi Drop
-        user_rating: 8.1
-        label: score,2011 Summer
+        label: 2011 Summer
+        label.remove: score
     audience_rating: 8.1
     critic_rating: 8.3
   381406:
@@ -6798,13 +6798,13 @@ metadata:
       1:
         title: |-
           Uzaki-chan wa Asobitai!
-        user_rating: 6.7
         label: score,2020 Summer
+        user_rating: 6.7
       2:
         title: |-
           Uzaki-chan wa Asobitai! ω
-        user_rating: 7.1
         label: score,2022 Fall
+        user_rating: 7.1
     audience_rating: 6.9
     critic_rating: 7.1
   400133:
@@ -6822,8 +6822,8 @@ metadata:
       1:
         title: |-
           Vanitas no Carte
-        user_rating: 7.9
-        label: score,2022 Winter,2021 Summer
+        label: 2022 Winter,2021 Summer
+        label.remove: score
     audience_rating: 7.9
     critic_rating: 8.1
   359274:
@@ -6841,13 +6841,13 @@ metadata:
       1:
         title: |-
           Vinland Saga
-        user_rating: 8.7
         label: score,2019 Summer
+        user_rating: 8.7
       2:
         title: |-
           Vinland Saga Season 2
-        user_rating: 8.8
         label: score,2023 Winter
+        user_rating: 8.8
     audience_rating: 8.8
     critic_rating: 8.8
   330139:
@@ -6867,8 +6867,8 @@ metadata:
       1:
         title: |-
           Violet Evergarden
-        user_rating: 8.5
-        label: score,2018 Winter
+        label: 2018 Winter
+        label.remove: score
     audience_rating: 8.5
     critic_rating: 8.7
   397774:
@@ -6886,8 +6886,8 @@ metadata:
       1:
         title: |-
           Vivy: Fluorite Eye’s Song
-        user_rating: 8.2
-        label: score,2021 Spring
+        label: 2021 Spring
+        label.remove: score
     audience_rating: 8.2
     critic_rating: 8.4
   428350:
@@ -6905,8 +6905,8 @@ metadata:
       1:
         title: |-
           Watashi no Oshi wa Akuyaku Reijou.
-        user_rating: 7.3
-        label: score,2023 Fall
+        label: 2023 Fall
+        label.remove: score
     audience_rating: 7.3
     critic_rating: 7.4
   418665:
@@ -6924,8 +6924,8 @@ metadata:
       1:
         title: |-
           Watashi no Shiawase na Kekkon
-        user_rating: 7.8
-        label: score,2023 Summer
+        label: 2023 Summer
+        label.remove: score
     audience_rating: 7.8
     critic_rating: 7.8
   145211:
@@ -6945,18 +6945,18 @@ metadata:
       1:
         title: |-
           Working!!
-        user_rating: 7.4
         label: score,2010 Spring
+        user_rating: 7.4
       2:
         title: |-
           Working'!!
-        user_rating: 7.6
         label: score,2011 Fall
+        user_rating: 7.6
       3:
         title: |-
           Working!!!
-        user_rating: 7.8
         label: score,2015 Summer
+        user_rating: 7.8
     audience_rating: 7.6
     critic_rating: 7.8
   283934:
@@ -6974,18 +6974,18 @@ metadata:
       1:
         title: |-
           World Trigger
-        user_rating: 7.2
         label: score,2014 Fall
+        user_rating: 7.2
       2:
         title: |-
           World Trigger 2nd Season
-        user_rating: 7.9
         label: score,2021 Winter
+        user_rating: 7.9
       3:
         title: |-
           World Trigger 3rd Season
-        user_rating: 8.2
         label: score,2021 Fall
+        user_rating: 8.2
     audience_rating: 7.8
     critic_rating: 8.0
   341425:
@@ -7005,8 +7005,8 @@ metadata:
       1:
         title: |-
           Wotaku ni Koi wa Muzukashii
-        user_rating: 7.9
-        label: score,2018 Spring
+        label: 2018 Spring
+        label.remove: score
     audience_rating: 7.9
     critic_rating: 7.9
   376751:
@@ -7024,23 +7024,23 @@ metadata:
       1:
         title: |-
           Xian Wang De Richang Shenghuo
-        user_rating: 7.3
         label: score,2020 Winter
+        user_rating: 7.3
       2:
         title: |-
           Xian Wang De Richang Shenghuo 2
-        user_rating: 7.4
         label: score,2021 Fall
+        user_rating: 7.4
       3:
         title: |-
           Xian Wang De Richang Shenghuo 3
-        user_rating: 7.3
         label: score,2022 Summer
+        user_rating: 7.3
       4:
         title: |-
           Xian Wang De Richang Shenghuo 4
-        user_rating: 7.5
         label: score,2023 Fall
+        user_rating: 7.5
     audience_rating: 7.4
     critic_rating: 7.4
   348002:
@@ -7060,13 +7060,13 @@ metadata:
       1:
         title: |-
           Yakusoku no Neverland
-        user_rating: 8.3
         label: score,2019 Winter
+        user_rating: 8.3
       2:
         title: |-
           Yakusoku no Neverland 2
-        user_rating: 5.2
         label: score,2021 Winter
+        user_rating: 5.2
     audience_rating: 6.8
     critic_rating: 6.9
   423413:
@@ -7084,8 +7084,8 @@ metadata:
       1:
         title: |-
           Yamada-kun to Lv999 no Koi wo Suru
-        user_rating: 7.9
-        label: score,2023 Spring
+        label: 2023 Spring
+        label.remove: score
     audience_rating: 7.9
     critic_rating: 7.8
   412374:
@@ -7103,8 +7103,8 @@ metadata:
       1:
         title: |-
           Yofukashi no Uta
-        user_rating: 7.9
-        label: score,2022 Summer
+        label: 2022 Summer
+        label.remove: score
     audience_rating: 7.9
     critic_rating: 8.0
   315500:
@@ -7122,8 +7122,8 @@ metadata:
       1:
         title: |-
           Youjo Senki
-        user_rating: 7.7
-        label: score,2017 Winter
+        label: 2017 Winter
+        label.remove: score
     audience_rating: 7.7
     critic_rating: 8.0
   329822:
@@ -7134,25 +7134,25 @@ metadata:
     original_title: |-
       Classroom of the Elite
     genre.sync: Drama,Psychological,School,Ensemble Cast,Anti-Hero,Primarily Teen Cast,Coming of Age,Male Protagonist,Philosophy,Battle Royale,Survival
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Lerche
     seasons:
       1:
         title: |-
           Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
-        user_rating: 7.7
         label: score,2017 Summer
+        user_rating: 7.7
       2:
         title: |-
           Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season
-        user_rating: 8.0
         label: score,2022 Summer
+        user_rating: 8.0
       3:
         title: |-
           Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season
-        user_rating: 7.8
         label: score,2024 Winter
+        user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 8.0
   436899:
@@ -7170,8 +7170,8 @@ metadata:
       1:
         title: |-
           Yubisaki to Renren
-        user_rating: 8.3
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 8.3
     critic_rating: 8.3
   330692:
@@ -7191,13 +7191,13 @@ metadata:
       1:
         title: |-
           Yuru Camp△
-        user_rating: 8.1
         label: score,2018 Winter
+        user_rating: 8.1
       2:
         title: |-
           Yuru Camp△ SEASON 2
-        user_rating: 8.4
         label: score,2021 Winter
+        user_rating: 8.4
     audience_rating: 8.2
     critic_rating: 8.4
   435466:
@@ -7215,8 +7215,8 @@ metadata:
       1:
         title: |-
           Yuuki Bakuhatsu Bang Bravern
-        user_rating: 7.1
-        label: score,2024 Winter
+        label: 2024 Winter
+        label.remove: score
     audience_rating: 7.1
     critic_rating: 7.5
   385542:
@@ -7236,8 +7236,8 @@ metadata:
       1:
         title: |-
           Yuukoku no Moriarty
-        user_rating: 8.1
-        label: score,2021 Spring,2020 Fall
+        label: 2021 Spring,2020 Fall
+        label.remove: score
     audience_rating: 8.1
     critic_rating: 8.2
   262109:
@@ -7255,8 +7255,8 @@ metadata:
       1:
         title: |-
           Zetsuen no Tempest
-        user_rating: 7.5
-        label: score,2012 Fall
+        label: 2012 Fall
+        label.remove: score
     audience_rating: 7.5
     critic_rating: 7.9
   429310:
@@ -7274,7 +7274,7 @@ metadata:
       1:
         title: |-
           Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto
-        user_rating: 7.8
-        label: score,2023 Summer
+        label: 2023 Summer
+        label.remove: score
     audience_rating: 7.8
     critic_rating: 7.9
