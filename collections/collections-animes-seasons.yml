@@ -1,0 +1,746 @@
+templates:
+  animes-season:
+    ignore_blank_results: true
+    builder_level: season
+    plex_search:
+      all:
+        season_label: <<collection_name>>
+    sort_title: |-
+      |animes-season - <<year>> - <<season>>
+    sync_mode: sync
+    collection_mode: hide
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/seasons/<<poster>>.jpg
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_background.jpg
+
+collections:
+  1970 Winter:
+    template: { name: animes-season, poster: 1970_Winter, year: 1970, season: 1}
+
+  1970 Spring:
+    template: { name: animes-season, poster: 1970_Spring, year: 1970, season: 2}
+
+  1970 Summer:
+    template: { name: animes-season, poster: 1970_Summer, year: 1970, season: 3}
+
+  1970 Fall:
+    template: { name: animes-season, poster: 1970_Fall, year: 1970, season: 4}
+
+  1971 Winter:
+    template: { name: animes-season, poster: 1971_Winter, year: 1971, season: 1}
+
+  1971 Spring:
+    template: { name: animes-season, poster: 1971_Spring, year: 1971, season: 2}
+
+  1971 Summer:
+    template: { name: animes-season, poster: 1971_Summer, year: 1971, season: 3}
+
+  1971 Fall:
+    template: { name: animes-season, poster: 1971_Fall, year: 1971, season: 4}
+
+  1972 Winter:
+    template: { name: animes-season, poster: 1972_Winter, year: 1972, season: 1}
+
+  1972 Spring:
+    template: { name: animes-season, poster: 1972_Spring, year: 1972, season: 2}
+
+  1972 Summer:
+    template: { name: animes-season, poster: 1972_Summer, year: 1972, season: 3}
+
+  1972 Fall:
+    template: { name: animes-season, poster: 1972_Fall, year: 1972, season: 4}
+
+  1973 Winter:
+    template: { name: animes-season, poster: 1973_Winter, year: 1973, season: 1}
+
+  1973 Spring:
+    template: { name: animes-season, poster: 1973_Spring, year: 1973, season: 2}
+
+  1973 Summer:
+    template: { name: animes-season, poster: 1973_Summer, year: 1973, season: 3}
+
+  1973 Fall:
+    template: { name: animes-season, poster: 1973_Fall, year: 1973, season: 4}
+
+  1974 Winter:
+    template: { name: animes-season, poster: 1974_Winter, year: 1974, season: 1}
+
+  1974 Spring:
+    template: { name: animes-season, poster: 1974_Spring, year: 1974, season: 2}
+
+  1974 Summer:
+    template: { name: animes-season, poster: 1974_Summer, year: 1974, season: 3}
+
+  1974 Fall:
+    template: { name: animes-season, poster: 1974_Fall, year: 1974, season: 4}
+
+  1975 Winter:
+    template: { name: animes-season, poster: 1975_Winter, year: 1975, season: 1}
+
+  1975 Spring:
+    template: { name: animes-season, poster: 1975_Spring, year: 1975, season: 2}
+
+  1975 Summer:
+    template: { name: animes-season, poster: 1975_Summer, year: 1975, season: 3}
+
+  1975 Fall:
+    template: { name: animes-season, poster: 1975_Fall, year: 1975, season: 4}
+
+  1976 Winter:
+    template: { name: animes-season, poster: 1976_Winter, year: 1976, season: 1}
+
+  1976 Spring:
+    template: { name: animes-season, poster: 1976_Spring, year: 1976, season: 2}
+
+  1976 Summer:
+    template: { name: animes-season, poster: 1976_Summer, year: 1976, season: 3}
+
+  1976 Fall:
+    template: { name: animes-season, poster: 1976_Fall, year: 1976, season: 4}
+
+  1977 Winter:
+    template: { name: animes-season, poster: 1977_Winter, year: 1977, season: 1}
+
+  1977 Spring:
+    template: { name: animes-season, poster: 1977_Spring, year: 1977, season: 2}
+
+  1977 Summer:
+    template: { name: animes-season, poster: 1977_Summer, year: 1977, season: 3}
+
+  1977 Fall:
+    template: { name: animes-season, poster: 1977_Fall, year: 1977, season: 4}
+
+  1978 Winter:
+    template: { name: animes-season, poster: 1978_Winter, year: 1978, season: 1}
+
+  1978 Spring:
+    template: { name: animes-season, poster: 1978_Spring, year: 1978, season: 2}
+
+  1978 Summer:
+    template: { name: animes-season, poster: 1978_Summer, year: 1978, season: 3}
+
+  1978 Fall:
+    template: { name: animes-season, poster: 1978_Fall, year: 1978, season: 4}
+
+  1979 Winter:
+    template: { name: animes-season, poster: 1979_Winter, year: 1979, season: 1}
+
+  1979 Spring:
+    template: { name: animes-season, poster: 1979_Spring, year: 1979, season: 2}
+
+  1979 Summer:
+    template: { name: animes-season, poster: 1979_Summer, year: 1979, season: 3}
+
+  1979 Fall:
+    template: { name: animes-season, poster: 1979_Fall, year: 1979, season: 4}
+
+  1980 Winter:
+    template: { name: animes-season, poster: 1980_Winter, year: 1980, season: 1}
+
+  1980 Spring:
+    template: { name: animes-season, poster: 1980_Spring, year: 1980, season: 2}
+
+  1980 Summer:
+    template: { name: animes-season, poster: 1980_Summer, year: 1980, season: 3}
+
+  1980 Fall:
+    template: { name: animes-season, poster: 1980_Fall, year: 1980, season: 4}
+
+  1981 Winter:
+    template: { name: animes-season, poster: 1981_Winter, year: 1981, season: 1}
+
+  1981 Spring:
+    template: { name: animes-season, poster: 1981_Spring, year: 1981, season: 2}
+
+  1981 Summer:
+    template: { name: animes-season, poster: 1981_Summer, year: 1981, season: 3}
+
+  1981 Fall:
+    template: { name: animes-season, poster: 1981_Fall, year: 1981, season: 4}
+
+  1982 Winter:
+    template: { name: animes-season, poster: 1982_Winter, year: 1982, season: 1}
+
+  1982 Spring:
+    template: { name: animes-season, poster: 1982_Spring, year: 1982, season: 2}
+
+  1982 Summer:
+    template: { name: animes-season, poster: 1982_Summer, year: 1982, season: 3}
+
+  1982 Fall:
+    template: { name: animes-season, poster: 1982_Fall, year: 1982, season: 4}
+
+  1983 Winter:
+    template: { name: animes-season, poster: 1983_Winter, year: 1983, season: 1}
+
+  1983 Spring:
+    template: { name: animes-season, poster: 1983_Spring, year: 1983, season: 2}
+
+  1983 Summer:
+    template: { name: animes-season, poster: 1983_Summer, year: 1983, season: 3}
+
+  1983 Fall:
+    template: { name: animes-season, poster: 1983_Fall, year: 1983, season: 4}
+
+  1984 Winter:
+    template: { name: animes-season, poster: 1984_Winter, year: 1984, season: 1}
+
+  1984 Spring:
+    template: { name: animes-season, poster: 1984_Spring, year: 1984, season: 2}
+
+  1984 Summer:
+    template: { name: animes-season, poster: 1984_Summer, year: 1984, season: 3}
+
+  1984 Fall:
+    template: { name: animes-season, poster: 1984_Fall, year: 1984, season: 4}
+
+  1985 Winter:
+    template: { name: animes-season, poster: 1985_Winter, year: 1985, season: 1}
+
+  1985 Spring:
+    template: { name: animes-season, poster: 1985_Spring, year: 1985, season: 2}
+
+  1985 Summer:
+    template: { name: animes-season, poster: 1985_Summer, year: 1985, season: 3}
+
+  1985 Fall:
+    template: { name: animes-season, poster: 1985_Fall, year: 1985, season: 4}
+
+  1986 Winter:
+    template: { name: animes-season, poster: 1986_Winter, year: 1986, season: 1}
+
+  1986 Spring:
+    template: { name: animes-season, poster: 1986_Spring, year: 1986, season: 2}
+
+  1986 Summer:
+    template: { name: animes-season, poster: 1986_Summer, year: 1986, season: 3}
+
+  1986 Fall:
+    template: { name: animes-season, poster: 1986_Fall, year: 1986, season: 4}
+
+  1987 Winter:
+    template: { name: animes-season, poster: 1987_Winter, year: 1987, season: 1}
+
+  1987 Spring:
+    template: { name: animes-season, poster: 1987_Spring, year: 1987, season: 2}
+
+  1987 Summer:
+    template: { name: animes-season, poster: 1987_Summer, year: 1987, season: 3}
+
+  1987 Fall:
+    template: { name: animes-season, poster: 1987_Fall, year: 1987, season: 4}
+
+  1988 Winter:
+    template: { name: animes-season, poster: 1988_Winter, year: 1988, season: 1}
+
+  1988 Spring:
+    template: { name: animes-season, poster: 1988_Spring, year: 1988, season: 2}
+
+  1988 Summer:
+    template: { name: animes-season, poster: 1988_Summer, year: 1988, season: 3}
+
+  1988 Fall:
+    template: { name: animes-season, poster: 1988_Fall, year: 1988, season: 4}
+
+  1989 Winter:
+    template: { name: animes-season, poster: 1989_Winter, year: 1989, season: 1}
+
+  1989 Spring:
+    template: { name: animes-season, poster: 1989_Spring, year: 1989, season: 2}
+
+  1989 Summer:
+    template: { name: animes-season, poster: 1989_Summer, year: 1989, season: 3}
+
+  1989 Fall:
+    template: { name: animes-season, poster: 1989_Fall, year: 1989, season: 4}
+
+  1990 Winter:
+    template: { name: animes-season, poster: 1990_Winter, year: 1990, season: 1}
+
+  1990 Spring:
+    template: { name: animes-season, poster: 1990_Spring, year: 1990, season: 2}
+
+  1990 Summer:
+    template: { name: animes-season, poster: 1990_Summer, year: 1990, season: 3}
+
+  1990 Fall:
+    template: { name: animes-season, poster: 1990_Fall, year: 1990, season: 4}
+
+  1991 Winter:
+    template: { name: animes-season, poster: 1991_Winter, year: 1991, season: 1}
+
+  1991 Spring:
+    template: { name: animes-season, poster: 1991_Spring, year: 1991, season: 2}
+
+  1991 Summer:
+    template: { name: animes-season, poster: 1991_Summer, year: 1991, season: 3}
+
+  1991 Fall:
+    template: { name: animes-season, poster: 1991_Fall, year: 1991, season: 4}
+
+  1992 Winter:
+    template: { name: animes-season, poster: 1992_Winter, year: 1992, season: 1}
+
+  1992 Spring:
+    template: { name: animes-season, poster: 1992_Spring, year: 1992, season: 2}
+
+  1992 Summer:
+    template: { name: animes-season, poster: 1992_Summer, year: 1992, season: 3}
+
+  1992 Fall:
+    template: { name: animes-season, poster: 1992_Fall, year: 1992, season: 4}
+
+  1993 Winter:
+    template: { name: animes-season, poster: 1993_Winter, year: 1993, season: 1}
+
+  1993 Spring:
+    template: { name: animes-season, poster: 1993_Spring, year: 1993, season: 2}
+
+  1993 Summer:
+    template: { name: animes-season, poster: 1993_Summer, year: 1993, season: 3}
+
+  1993 Fall:
+    template: { name: animes-season, poster: 1993_Fall, year: 1993, season: 4}
+
+  1994 Winter:
+    template: { name: animes-season, poster: 1994_Winter, year: 1994, season: 1}
+
+  1994 Spring:
+    template: { name: animes-season, poster: 1994_Spring, year: 1994, season: 2}
+
+  1994 Summer:
+    template: { name: animes-season, poster: 1994_Summer, year: 1994, season: 3}
+
+  1994 Fall:
+    template: { name: animes-season, poster: 1994_Fall, year: 1994, season: 4}
+
+  1995 Winter:
+    template: { name: animes-season, poster: 1995_Winter, year: 1995, season: 1}
+
+  1995 Spring:
+    template: { name: animes-season, poster: 1995_Spring, year: 1995, season: 2}
+
+  1995 Summer:
+    template: { name: animes-season, poster: 1995_Summer, year: 1995, season: 3}
+
+  1995 Fall:
+    template: { name: animes-season, poster: 1995_Fall, year: 1995, season: 4}
+
+  1996 Winter:
+    template: { name: animes-season, poster: 1996_Winter, year: 1996, season: 1}
+
+  1996 Spring:
+    template: { name: animes-season, poster: 1996_Spring, year: 1996, season: 2}
+
+  1996 Summer:
+    template: { name: animes-season, poster: 1996_Summer, year: 1996, season: 3}
+
+  1996 Fall:
+    template: { name: animes-season, poster: 1996_Fall, year: 1996, season: 4}
+
+  1997 Winter:
+    template: { name: animes-season, poster: 1997_Winter, year: 1997, season: 1}
+
+  1997 Spring:
+    template: { name: animes-season, poster: 1997_Spring, year: 1997, season: 2}
+
+  1997 Summer:
+    template: { name: animes-season, poster: 1997_Summer, year: 1997, season: 3}
+
+  1997 Fall:
+    template: { name: animes-season, poster: 1997_Fall, year: 1997, season: 4}
+
+  1998 Winter:
+    template: { name: animes-season, poster: 1998_Winter, year: 1998, season: 1}
+
+  1998 Spring:
+    template: { name: animes-season, poster: 1998_Spring, year: 1998, season: 2}
+
+  1998 Summer:
+    template: { name: animes-season, poster: 1998_Summer, year: 1998, season: 3}
+
+  1998 Fall:
+    template: { name: animes-season, poster: 1998_Fall, year: 1998, season: 4}
+
+  1999 Winter:
+    template: { name: animes-season, poster: 1999_Winter, year: 1999, season: 1}
+
+  1999 Spring:
+    template: { name: animes-season, poster: 1999_Spring, year: 1999, season: 2}
+
+  1999 Summer:
+    template: { name: animes-season, poster: 1999_Summer, year: 1999, season: 3}
+
+  1999 Fall:
+    template: { name: animes-season, poster: 1999_Fall, year: 1999, season: 4}
+
+  2000 Winter:
+    template: { name: animes-season, poster: 2000_Winter, year: 2000, season: 1}
+
+  2000 Spring:
+    template: { name: animes-season, poster: 2000_Spring, year: 2000, season: 2}
+
+  2000 Summer:
+    template: { name: animes-season, poster: 2000_Summer, year: 2000, season: 3}
+
+  2000 Fall:
+    template: { name: animes-season, poster: 2000_Fall, year: 2000, season: 4}
+
+  2001 Winter:
+    template: { name: animes-season, poster: 2001_Winter, year: 2001, season: 1}
+
+  2001 Spring:
+    template: { name: animes-season, poster: 2001_Spring, year: 2001, season: 2}
+
+  2001 Summer:
+    template: { name: animes-season, poster: 2001_Summer, year: 2001, season: 3}
+
+  2001 Fall:
+    template: { name: animes-season, poster: 2001_Fall, year: 2001, season: 4}
+
+  2002 Winter:
+    template: { name: animes-season, poster: 2002_Winter, year: 2002, season: 1}
+
+  2002 Spring:
+    template: { name: animes-season, poster: 2002_Spring, year: 2002, season: 2}
+
+  2002 Summer:
+    template: { name: animes-season, poster: 2002_Summer, year: 2002, season: 3}
+
+  2002 Fall:
+    template: { name: animes-season, poster: 2002_Fall, year: 2002, season: 4}
+
+  2003 Winter:
+    template: { name: animes-season, poster: 2003_Winter, year: 2003, season: 1}
+
+  2003 Spring:
+    template: { name: animes-season, poster: 2003_Spring, year: 2003, season: 2}
+
+  2003 Summer:
+    template: { name: animes-season, poster: 2003_Summer, year: 2003, season: 3}
+
+  2003 Fall:
+    template: { name: animes-season, poster: 2003_Fall, year: 2003, season: 4}
+
+  2004 Winter:
+    template: { name: animes-season, poster: 2004_Winter, year: 2004, season: 1}
+
+  2004 Spring:
+    template: { name: animes-season, poster: 2004_Spring, year: 2004, season: 2}
+
+  2004 Summer:
+    template: { name: animes-season, poster: 2004_Summer, year: 2004, season: 3}
+
+  2004 Fall:
+    template: { name: animes-season, poster: 2004_Fall, year: 2004, season: 4}
+
+  2005 Winter:
+    template: { name: animes-season, poster: 2005_Winter, year: 2005, season: 1}
+
+  2005 Spring:
+    template: { name: animes-season, poster: 2005_Spring, year: 2005, season: 2}
+
+  2005 Summer:
+    template: { name: animes-season, poster: 2005_Summer, year: 2005, season: 3}
+
+  2005 Fall:
+    template: { name: animes-season, poster: 2005_Fall, year: 2005, season: 4}
+
+  2006 Winter:
+    template: { name: animes-season, poster: 2006_Winter, year: 2006, season: 1}
+
+  2006 Spring:
+    template: { name: animes-season, poster: 2006_Spring, year: 2006, season: 2}
+
+  2006 Summer:
+    template: { name: animes-season, poster: 2006_Summer, year: 2006, season: 3}
+
+  2006 Fall:
+    template: { name: animes-season, poster: 2006_Fall, year: 2006, season: 4}
+
+  2007 Winter:
+    template: { name: animes-season, poster: 2007_Winter, year: 2007, season: 1}
+
+  2007 Spring:
+    template: { name: animes-season, poster: 2007_Spring, year: 2007, season: 2}
+
+  2007 Summer:
+    template: { name: animes-season, poster: 2007_Summer, year: 2007, season: 3}
+
+  2007 Fall:
+    template: { name: animes-season, poster: 2007_Fall, year: 2007, season: 4}
+
+  2008 Winter:
+    template: { name: animes-season, poster: 2008_Winter, year: 2008, season: 1}
+
+  2008 Spring:
+    template: { name: animes-season, poster: 2008_Spring, year: 2008, season: 2}
+
+  2008 Summer:
+    template: { name: animes-season, poster: 2008_Summer, year: 2008, season: 3}
+
+  2008 Fall:
+    template: { name: animes-season, poster: 2008_Fall, year: 2008, season: 4}
+
+  2009 Winter:
+    template: { name: animes-season, poster: 2009_Winter, year: 2009, season: 1}
+
+  2009 Spring:
+    template: { name: animes-season, poster: 2009_Spring, year: 2009, season: 2}
+
+  2009 Summer:
+    template: { name: animes-season, poster: 2009_Summer, year: 2009, season: 3}
+
+  2009 Fall:
+    template: { name: animes-season, poster: 2009_Fall, year: 2009, season: 4}
+
+  2010 Winter:
+    template: { name: animes-season, poster: 2010_Winter, year: 2010, season: 1}
+
+  2010 Spring:
+    template: { name: animes-season, poster: 2010_Spring, year: 2010, season: 2}
+
+  2010 Summer:
+    template: { name: animes-season, poster: 2010_Summer, year: 2010, season: 3}
+
+  2010 Fall:
+    template: { name: animes-season, poster: 2010_Fall, year: 2010, season: 4}
+
+  2011 Winter:
+    template: { name: animes-season, poster: 2011_Winter, year: 2011, season: 1}
+
+  2011 Spring:
+    template: { name: animes-season, poster: 2011_Spring, year: 2011, season: 2}
+
+  2011 Summer:
+    template: { name: animes-season, poster: 2011_Summer, year: 2011, season: 3}
+
+  2011 Fall:
+    template: { name: animes-season, poster: 2011_Fall, year: 2011, season: 4}
+
+  2012 Winter:
+    template: { name: animes-season, poster: 2012_Winter, year: 2012, season: 1}
+
+  2012 Spring:
+    template: { name: animes-season, poster: 2012_Spring, year: 2012, season: 2}
+
+  2012 Summer:
+    template: { name: animes-season, poster: 2012_Summer, year: 2012, season: 3}
+
+  2012 Fall:
+    template: { name: animes-season, poster: 2012_Fall, year: 2012, season: 4}
+
+  2013 Winter:
+    template: { name: animes-season, poster: 2013_Winter, year: 2013, season: 1}
+
+  2013 Spring:
+    template: { name: animes-season, poster: 2013_Spring, year: 2013, season: 2}
+
+  2013 Summer:
+    template: { name: animes-season, poster: 2013_Summer, year: 2013, season: 3}
+
+  2013 Fall:
+    template: { name: animes-season, poster: 2013_Fall, year: 2013, season: 4}
+
+  2014 Winter:
+    template: { name: animes-season, poster: 2014_Winter, year: 2014, season: 1}
+
+  2014 Spring:
+    template: { name: animes-season, poster: 2014_Spring, year: 2014, season: 2}
+
+  2014 Summer:
+    template: { name: animes-season, poster: 2014_Summer, year: 2014, season: 3}
+
+  2014 Fall:
+    template: { name: animes-season, poster: 2014_Fall, year: 2014, season: 4}
+
+  2015 Winter:
+    template: { name: animes-season, poster: 2015_Winter, year: 2015, season: 1}
+
+  2015 Spring:
+    template: { name: animes-season, poster: 2015_Spring, year: 2015, season: 2}
+
+  2015 Summer:
+    template: { name: animes-season, poster: 2015_Summer, year: 2015, season: 3}
+
+  2015 Fall:
+    template: { name: animes-season, poster: 2015_Fall, year: 2015, season: 4}
+
+  2016 Winter:
+    template: { name: animes-season, poster: 2016_Winter, year: 2016, season: 1}
+
+  2016 Spring:
+    template: { name: animes-season, poster: 2016_Spring, year: 2016, season: 2}
+
+  2016 Summer:
+    template: { name: animes-season, poster: 2016_Summer, year: 2016, season: 3}
+
+  2016 Fall:
+    template: { name: animes-season, poster: 2016_Fall, year: 2016, season: 4}
+
+  2017 Winter:
+    template: { name: animes-season, poster: 2017_Winter, year: 2017, season: 1}
+
+  2017 Spring:
+    template: { name: animes-season, poster: 2017_Spring, year: 2017, season: 2}
+
+  2017 Summer:
+    template: { name: animes-season, poster: 2017_Summer, year: 2017, season: 3}
+
+  2017 Fall:
+    template: { name: animes-season, poster: 2017_Fall, year: 2017, season: 4}
+
+  2018 Winter:
+    template: { name: animes-season, poster: 2018_Winter, year: 2018, season: 1}
+
+  2018 Spring:
+    template: { name: animes-season, poster: 2018_Spring, year: 2018, season: 2}
+
+  2018 Summer:
+    template: { name: animes-season, poster: 2018_Summer, year: 2018, season: 3}
+
+  2018 Fall:
+    template: { name: animes-season, poster: 2018_Fall, year: 2018, season: 4}
+
+  2019 Winter:
+    template: { name: animes-season, poster: 2019_Winter, year: 2019, season: 1}
+
+  2019 Spring:
+    template: { name: animes-season, poster: 2019_Spring, year: 2019, season: 2}
+
+  2019 Summer:
+    template: { name: animes-season, poster: 2019_Summer, year: 2019, season: 3}
+
+  2019 Fall:
+    template: { name: animes-season, poster: 2019_Fall, year: 2019, season: 4}
+
+  2020 Winter:
+    template: { name: animes-season, poster: 2020_Winter, year: 2020, season: 1}
+
+  2020 Spring:
+    template: { name: animes-season, poster: 2020_Spring, year: 2020, season: 2}
+
+  2020 Summer:
+    template: { name: animes-season, poster: 2020_Summer, year: 2020, season: 3}
+
+  2020 Fall:
+    template: { name: animes-season, poster: 2020_Fall, year: 2020, season: 4}
+
+  2021 Winter:
+    template: { name: animes-season, poster: 2021_Winter, year: 2021, season: 1}
+
+  2021 Spring:
+    template: { name: animes-season, poster: 2021_Spring, year: 2021, season: 2}
+
+  2021 Summer:
+    template: { name: animes-season, poster: 2021_Summer, year: 2021, season: 3}
+
+  2021 Fall:
+    template: { name: animes-season, poster: 2021_Fall, year: 2021, season: 4}
+
+  2022 Winter:
+    template: { name: animes-season, poster: 2022_Winter, year: 2022, season: 1}
+
+  2022 Spring:
+    template: { name: animes-season, poster: 2022_Spring, year: 2022, season: 2}
+
+  2022 Summer:
+    template: { name: animes-season, poster: 2022_Summer, year: 2022, season: 3}
+
+  2022 Fall:
+    template: { name: animes-season, poster: 2022_Fall, year: 2022, season: 4}
+
+  2023 Winter:
+    template: { name: animes-season, poster: 2023_Winter, year: 2023, season: 1}
+
+  2023 Spring:
+    template: { name: animes-season, poster: 2023_Spring, year: 2023, season: 2}
+
+  2023 Summer:
+    template: { name: animes-season, poster: 2023_Summer, year: 2023, season: 3}
+
+  2023 Fall:
+    template: { name: animes-season, poster: 2023_Fall, year: 2023, season: 4}
+
+  2024 Winter:
+    template: { name: animes-season, poster: 2024_Winter, year: 2024, season: 1}
+
+  2024 Spring:
+    template: { name: animes-season, poster: 2024_Spring, year: 2024, season: 2}
+
+  2024 Summer:
+    template: { name: animes-season, poster: 2024_Summer, year: 2024, season: 3}
+
+  2024 Fall:
+    template: { name: animes-season, poster: 2024_Fall, year: 2024, season: 4}
+
+  2025 Winter:
+    template: { name: animes-season, poster: 2025_Winter, year: 2025, season: 1}
+
+  2025 Spring:
+    template: { name: animes-season, poster: 2025_Spring, year: 2025, season: 2}
+
+  2025 Summer:
+    template: { name: animes-season, poster: 2025_Summer, year: 2025, season: 3}
+
+  2025 Fall:
+    template: { name: animes-season, poster: 2025_Fall, year: 2025, season: 4}
+
+  2026 Winter:
+    template: { name: animes-season, poster: 2026_Winter, year: 2026, season: 1}
+
+  2026 Spring:
+    template: { name: animes-season, poster: 2026_Spring, year: 2026, season: 2}
+
+  2026 Summer:
+    template: { name: animes-season, poster: 2026_Summer, year: 2026, season: 3}
+
+  2026 Fall:
+    template: { name: animes-season, poster: 2026_Fall, year: 2026, season: 4}
+
+  2027 Winter:
+    template: { name: animes-season, poster: 2027_Winter, year: 2027, season: 1}
+
+  2027 Spring:
+    template: { name: animes-season, poster: 2027_Spring, year: 2027, season: 2}
+
+  2027 Summer:
+    template: { name: animes-season, poster: 2027_Summer, year: 2027, season: 3}
+
+  2027 Fall:
+    template: { name: animes-season, poster: 2027_Fall, year: 2027, season: 4}
+
+  2028 Winter:
+    template: { name: animes-season, poster: 2028_Winter, year: 2028, season: 1}
+
+  2028 Spring:
+    template: { name: animes-season, poster: 2028_Spring, year: 2028, season: 2}
+
+  2028 Summer:
+    template: { name: animes-season, poster: 2028_Summer, year: 2028, season: 3}
+
+  2028 Fall:
+    template: { name: animes-season, poster: 2028_Fall, year: 2028, season: 4}
+
+  2029 Winter:
+    template: { name: animes-season, poster: 2029_Winter, year: 2029, season: 1}
+
+  2029 Spring:
+    template: { name: animes-season, poster: 2029_Spring, year: 2029, season: 2}
+
+  2029 Summer:
+    template: { name: animes-season, poster: 2029_Summer, year: 2029, season: 3}
+
+  2029 Fall:
+    template: { name: animes-season, poster: 2029_Fall, year: 2029, season: 4}
+
+  2030 Winter:
+    template: { name: animes-season, poster: 2030_Winter, year: 2030, season: 1}
+
+  2030 Spring:
+    template: { name: animes-season, poster: 2030_Spring, year: 2030, season: 2}
+
+  2030 Summer:
+    template: { name: animes-season, poster: 2030_Summer, year: 2030, season: 3}
+
+  2030 Fall:
+    template: { name: animes-season, poster: 2030_Fall, year: 2030, season: 4}
