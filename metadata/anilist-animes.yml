@@ -589,25 +589,6 @@ metadata:
         user_rating: 8.3
     audience_rating: 8.1
     critic_rating: 8.3
-  436378:
-    title: |-
-      Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita
-    sort_title: |-
-      Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita
-    original_title: |-
-      The Banished Former Hero Lives as He Pleases
-    genre.sync: Action,Adventure,Fantasy,Romance,Reincarnation
-    label: Airing
-    label.remove: Planned,Ended
-    studio: Studio DEEN
-    seasons:
-      1:
-        title: |-
-          Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita
-        label: 2024 Spring
-        label.remove: score
-    audience_rating: 5.2
-    critic_rating: 5.6
   281270:
     title: |-
       Barakamon
@@ -627,6 +608,24 @@ metadata:
         label.remove: score
     audience_rating: 8.2
     critic_rating: 8.4
+  426262:
+    title: |-
+      Bartender: Kami no Glass
+    sort_title: |-
+      Bartender: Kami no Glass
+    original_title: |-
+      BARTENDER Glass of God
+    genre.sync: Drama,Slice of Life,Bar,Seinen,Male Protagonist
+    label: Airing
+    label.remove: Planned,Ended
+    studio: Liber
+    seasons:
+      1:
+        title: |-
+          Bartender: Kami no Glass
+        label: 2024 Spring
+        label.remove: score
+    critic_rating: 7.2
   361013:
     title: |-
       Beastars
@@ -1442,6 +1441,25 @@ metadata:
         label.remove: score
     audience_rating: 7.5
     critic_rating: 7.7
+  436378:
+    title: |-
+      Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita
+    sort_title: |-
+      Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita
+    original_title: |-
+      The Banished Former Hero Lives as He Pleases
+    genre.sync: Action,Adventure,Fantasy,Romance,Reincarnation
+    label: Airing
+    label.remove: Planned,Ended
+    studio: Studio DEEN
+    seasons:
+      1:
+        title: |-
+          Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita
+        label: 2024 Spring
+        label.remove: score
+    audience_rating: 5.2
+    critic_rating: 5.6
   424530:
     title: |-
       Dekoboko Majo no Oyako Jijou
@@ -4271,8 +4289,8 @@ metadata:
     original_title: |-
       Metallic Rouge
     genre.sync: Action,Mystery,Sci-Fi,Robots,Artificial Intelligence,Henshin,Female Protagonist,Cyberpunk,Dystopian,Assassins,Super Power,Fugitive,Crime,Tokusatsu,Space,Tanned Skin
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: bones
     seasons:
       1:
@@ -4684,6 +4702,25 @@ metadata:
         user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.2
+  417147:
+    title: |-
+      Ookami to Koushinryou: merchant meets the wise wolf
+    sort_title: |-
+      Ookami to Koushinryou: merchant meets the wise wolf
+    original_title: |-
+      Spice and Wolf: merchant meets the wise wolf
+    genre.sync: Adventure,Fantasy,Romance,Economics,Kemonomimi,Rural,Primarily Adult Cast,Work,Heterosexual,Historical,Foreign,Gods,Politics
+    label: Airing
+    label.remove: Planned,Ended
+    studio: Passione
+    seasons:
+      1:
+        title: |-
+          Ookami to Koushinryou: merchant meets the wise wolf
+        label: 2024 Spring
+        label.remove: score
+    audience_rating: 7.9
+    critic_rating: 8.3
   414908:
     title: |-
       Ooyukiumi no Kaina
@@ -5601,8 +5638,8 @@ metadata:
     original_title: |-
       Sengoku Youko
     genre.sync: Action,Adventure,Fantasy,Shounen,Demons,Samurai,Tragedy,Female Protagonist,Magic,Dissociative Identities,Shapeshifting,Ensemble Cast,Kemonomimi,Male Protagonist
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: White Fox
     seasons:
       1:
@@ -6021,25 +6058,6 @@ metadata:
         label.remove: score
     audience_rating: 9.2
     critic_rating: 9.4
-  417147:
-    title: |-
-      Ookami to Koushinryou: merchant meets the wise wolf
-    sort_title: |-
-      Ookami to Koushinryou: merchant meets the wise wolf
-    original_title: |-
-      Spice and Wolf: merchant meets the wise wolf
-    genre.sync: Adventure,Fantasy,Romance,Economics,Kemonomimi,Rural,Primarily Adult Cast,Work,Heterosexual,Historical,Foreign,Gods,Politics
-    label: Airing
-    label.remove: Planned,Ended
-    studio: Passione
-    seasons:
-      1:
-        title: |-
-          Ookami to Koushinryou: merchant meets the wise wolf
-        label: 2024 Spring
-        label.remove: score
-    audience_rating: 7.9
-    critic_rating: 8.3
   405920:
     title: |-
       Spy×family
@@ -6306,6 +6324,25 @@ metadata:
         label.remove: score
     audience_rating: 8.2
     critic_rating: 8.2
+  77248:
+    title: |-
+      Tenkuu no Escaflowne
+    sort_title: |-
+      Tenkuu no Escaflowne
+    original_title: |-
+      Vision of Escaflowne
+    genre.sync: Adventure,Fantasy,Mecha,Romance,Isekai,Love Triangle,Female Protagonist,Lost Civilization,Dragons,Super Robot,Swordplay,Travel
+    label: Ended
+    label.remove: Planned,Airing
+    studio: Sunrise
+    seasons:
+      1:
+        title: |-
+          Tenkuu no Escaflowne
+        label: 1996 Spring
+        label.remove: score
+    audience_rating: 7.2
+    critic_rating: 7.7
   400961:
     title: |-
       Tensai Ouji no Akaji Kokka Saisei Jutsu
@@ -6985,25 +7022,6 @@ metadata:
         label.remove: score
     audience_rating: 8.5
     critic_rating: 8.7
-  77248:
-    title: |-
-      Tenkuu no Escaflowne
-    sort_title: |-
-      Tenkuu no Escaflowne
-    original_title: |-
-      Vision of Escaflowne
-    genre.sync: Adventure,Fantasy,Mecha,Romance,Isekai,Love Triangle,Female Protagonist,Lost Civilization,Dragons,Super Robot,Swordplay,Travel
-    label: Ended
-    label.remove: Planned,Airing
-    studio: Sunrise
-    seasons:
-      1:
-        title: |-
-          Tenkuu no Escaflowne
-        label: 1996 Spring
-        label.remove: score
-    audience_rating: 7.2
-    critic_rating: 7.7
   397774:
     title: |-
       Vivy: Fluorite Eye’s Song
