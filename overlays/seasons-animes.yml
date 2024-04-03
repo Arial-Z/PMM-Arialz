@@ -4,14 +4,14 @@ templates:
     builder_level: season
     overlay:
       overlay: <<overlay_name>>
-      name: text(<<overlay_name>>)
+      name: text(<<season>> <<year>>)
       weight: <<weight>>
       queue: seasons_queue
       font: fonts/Roboto-Bold.ttf
       font_size: 60
       back_color: "#00000099"
       back_radius: 30
-      back_width: 350
+      back_width: 400
       back_height: 120
     plex_search:
       all:
@@ -20,1236 +20,748 @@ templates:
 queues:
   seasons_queue:
     - horizontal_offset: 15        # This is the first position
-      horizontal_align: left
+      horizontal_align: right
+      vertical_offset: 30
+      vertical_align: bottom
+    - horizontal_offset: 15        # This is the second position
+      horizontal_align: right
       vertical_offset: 165
       vertical_align: bottom
-    - horizontal_offset: 380        # This is the second position
-      horizontal_align: left
-      vertical_offset: 165
-      vertical_align: bottom
-    - horizontal_offset: 745       # This is the third position
-      horizontal_align: left
-      vertical_offset: 165
+    - horizontal_offset: 15       # This is the third position
+      horizontal_align: right
+      vertical_offset: 300
       vertical_align: bottom
 
 overlays:
   1970 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 1
+    template: { name: Seasons-Animes, year: 1970, season: Winter, weight: 500}
 
   1970 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 2
+    template: { name: Seasons-Animes, year: 1970, season: Spring, weight: 499}
 
   1970 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 3
+    template: { name: Seasons-Animes, year: 1970, season: Summer, weight: 498}
 
   1970 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 4
+    template: { name: Seasons-Animes, year: 1970, season: Fall, weight: 497}
 
   1971 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 5
+    template: { name: Seasons-Animes, year: 1971, season: Winter, weight: 496}
 
   1971 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 6
+    template: { name: Seasons-Animes, year: 1971, season: Spring, weight: 495}
 
   1971 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 7
+    template: { name: Seasons-Animes, year: 1971, season: Summer, weight: 494}
 
   1971 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 8
+    template: { name: Seasons-Animes, year: 1971, season: Fall, weight: 493}
 
   1972 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 9
+    template: { name: Seasons-Animes, year: 1972, season: Winter, weight: 492}
 
   1972 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 10
+    template: { name: Seasons-Animes, year: 1972, season: Spring, weight: 491}
 
   1972 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 11
+    template: { name: Seasons-Animes, year: 1972, season: Summer, weight: 490}
 
   1972 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 12
+    template: { name: Seasons-Animes, year: 1972, season: Fall, weight: 489}
 
   1973 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 13
+    template: { name: Seasons-Animes, year: 1973, season: Winter, weight: 488}
 
   1973 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 14
+    template: { name: Seasons-Animes, year: 1973, season: Spring, weight: 487}
 
   1973 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 15
+    template: { name: Seasons-Animes, year: 1973, season: Summer, weight: 486}
 
   1973 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 16
+    template: { name: Seasons-Animes, year: 1973, season: Fall, weight: 485}
 
   1974 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 17
+    template: { name: Seasons-Animes, year: 1974, season: Winter, weight: 484}
 
   1974 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 18
+    template: { name: Seasons-Animes, year: 1974, season: Spring, weight: 483}
 
   1974 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 19
+    template: { name: Seasons-Animes, year: 1974, season: Summer, weight: 482}
 
   1974 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 20
+    template: { name: Seasons-Animes, year: 1974, season: Fall, weight: 481}
 
   1975 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 21
+    template: { name: Seasons-Animes, year: 1975, season: Winter, weight: 480}
 
   1975 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 22
+    template: { name: Seasons-Animes, year: 1975, season: Spring, weight: 479}
 
   1975 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 23
+    template: { name: Seasons-Animes, year: 1975, season: Summer, weight: 478}
 
   1975 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 24
+    template: { name: Seasons-Animes, year: 1975, season: Fall, weight: 477}
 
   1976 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 25
+    template: { name: Seasons-Animes, year: 1976, season: Winter, weight: 476}
 
   1976 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 26
+    template: { name: Seasons-Animes, year: 1976, season: Spring, weight: 475}
 
   1976 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 27
+    template: { name: Seasons-Animes, year: 1976, season: Summer, weight: 474}
 
   1976 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 28
+    template: { name: Seasons-Animes, year: 1976, season: Fall, weight: 473}
 
   1977 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 29
+    template: { name: Seasons-Animes, year: 1977, season: Winter, weight: 472}
 
   1977 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 30
+    template: { name: Seasons-Animes, year: 1977, season: Spring, weight: 471}
 
   1977 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 31
+    template: { name: Seasons-Animes, year: 1977, season: Summer, weight: 470}
 
   1977 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 32
+    template: { name: Seasons-Animes, year: 1977, season: Fall, weight: 469}
 
   1978 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 33
+    template: { name: Seasons-Animes, year: 1978, season: Winter, weight: 468}
 
   1978 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 34
+    template: { name: Seasons-Animes, year: 1978, season: Spring, weight: 467}
 
   1978 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 35
+    template: { name: Seasons-Animes, year: 1978, season: Summer, weight: 466}
 
   1978 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 36
+    template: { name: Seasons-Animes, year: 1978, season: Fall, weight: 465}
 
   1979 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 37
+    template: { name: Seasons-Animes, year: 1979, season: Winter, weight: 464}
 
   1979 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 38
+    template: { name: Seasons-Animes, year: 1979, season: Spring, weight: 463}
 
   1979 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 39
+    template: { name: Seasons-Animes, year: 1979, season: Summer, weight: 462}
 
   1979 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 40
+    template: { name: Seasons-Animes, year: 1979, season: Fall, weight: 461}
 
   1980 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 41
+    template: { name: Seasons-Animes, year: 1980, season: Winter, weight: 460}
 
   1980 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 42
+    template: { name: Seasons-Animes, year: 1980, season: Spring, weight: 459}
 
   1980 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 43
+    template: { name: Seasons-Animes, year: 1980, season: Summer, weight: 458}
 
   1980 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 44
+    template: { name: Seasons-Animes, year: 1980, season: Fall, weight: 457}
 
   1981 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 45
+    template: { name: Seasons-Animes, year: 1981, season: Winter, weight: 456}
 
   1981 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 46
+    template: { name: Seasons-Animes, year: 1981, season: Spring, weight: 455}
 
   1981 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 47
+    template: { name: Seasons-Animes, year: 1981, season: Summer, weight: 454}
 
   1981 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 48
+    template: { name: Seasons-Animes, year: 1981, season: Fall, weight: 453}
 
   1982 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 49
+    template: { name: Seasons-Animes, year: 1982, season: Winter, weight: 452}
 
   1982 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 50
+    template: { name: Seasons-Animes, year: 1982, season: Spring, weight: 451}
 
   1982 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 51
+    template: { name: Seasons-Animes, year: 1982, season: Summer, weight: 450}
 
   1982 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 52
+    template: { name: Seasons-Animes, year: 1982, season: Fall, weight: 449}
 
   1983 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 53
+    template: { name: Seasons-Animes, year: 1983, season: Winter, weight: 448}
 
   1983 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 54
+    template: { name: Seasons-Animes, year: 1983, season: Spring, weight: 447}
 
   1983 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 55
+    template: { name: Seasons-Animes, year: 1983, season: Summer, weight: 446}
 
   1983 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 56
+    template: { name: Seasons-Animes, year: 1983, season: Fall, weight: 445}
 
   1984 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 57
+    template: { name: Seasons-Animes, year: 1984, season: Winter, weight: 444}
 
   1984 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 58
+    template: { name: Seasons-Animes, year: 1984, season: Spring, weight: 443}
 
   1984 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 59
+    template: { name: Seasons-Animes, year: 1984, season: Summer, weight: 442}
 
   1984 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 60
+    template: { name: Seasons-Animes, year: 1984, season: Fall, weight: 441}
 
   1985 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 61
+    template: { name: Seasons-Animes, year: 1985, season: Winter, weight: 440}
 
   1985 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 62
+    template: { name: Seasons-Animes, year: 1985, season: Spring, weight: 439}
 
   1985 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 63
+    template: { name: Seasons-Animes, year: 1985, season: Summer, weight: 438}
 
   1985 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 64
+    template: { name: Seasons-Animes, year: 1985, season: Fall, weight: 437}
 
   1986 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 65
+    template: { name: Seasons-Animes, year: 1986, season: Winter, weight: 436}
 
   1986 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 66
+    template: { name: Seasons-Animes, year: 1986, season: Spring, weight: 435}
 
   1986 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 67
+    template: { name: Seasons-Animes, year: 1986, season: Summer, weight: 434}
 
   1986 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 68
+    template: { name: Seasons-Animes, year: 1986, season: Fall, weight: 433}
 
   1987 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 69
+    template: { name: Seasons-Animes, year: 1987, season: Winter, weight: 432}
 
   1987 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 70
+    template: { name: Seasons-Animes, year: 1987, season: Spring, weight: 431}
 
   1987 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 71
+    template: { name: Seasons-Animes, year: 1987, season: Summer, weight: 430}
 
   1987 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 72
+    template: { name: Seasons-Animes, year: 1987, season: Fall, weight: 429}
 
   1988 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 73
+    template: { name: Seasons-Animes, year: 1988, season: Winter, weight: 428}
 
   1988 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 74
+    template: { name: Seasons-Animes, year: 1988, season: Spring, weight: 427}
 
   1988 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 75
+    template: { name: Seasons-Animes, year: 1988, season: Summer, weight: 426}
 
   1988 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 76
+    template: { name: Seasons-Animes, year: 1988, season: Fall, weight: 425}
 
   1989 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 77
+    template: { name: Seasons-Animes, year: 1989, season: Winter, weight: 424}
 
   1989 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 78
+    template: { name: Seasons-Animes, year: 1989, season: Spring, weight: 423}
 
   1989 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 79
+    template: { name: Seasons-Animes, year: 1989, season: Summer, weight: 422}
 
   1989 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 80
+    template: { name: Seasons-Animes, year: 1989, season: Fall, weight: 421}
 
   1990 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 81
+    template: { name: Seasons-Animes, year: 1990, season: Winter, weight: 420}
 
   1990 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 82
+    template: { name: Seasons-Animes, year: 1990, season: Spring, weight: 419}
 
   1990 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 83
+    template: { name: Seasons-Animes, year: 1990, season: Summer, weight: 418}
 
   1990 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 84
+    template: { name: Seasons-Animes, year: 1990, season: Fall, weight: 417}
 
   1991 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 85
+    template: { name: Seasons-Animes, year: 1991, season: Winter, weight: 416}
 
   1991 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 86
+    template: { name: Seasons-Animes, year: 1991, season: Spring, weight: 415}
 
   1991 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 87
+    template: { name: Seasons-Animes, year: 1991, season: Summer, weight: 414}
 
   1991 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 88
+    template: { name: Seasons-Animes, year: 1991, season: Fall, weight: 413}
 
   1992 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 89
+    template: { name: Seasons-Animes, year: 1992, season: Winter, weight: 412}
 
   1992 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 90
+    template: { name: Seasons-Animes, year: 1992, season: Spring, weight: 411}
 
   1992 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 91
+    template: { name: Seasons-Animes, year: 1992, season: Summer, weight: 410}
 
   1992 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 92
+    template: { name: Seasons-Animes, year: 1992, season: Fall, weight: 409}
 
   1993 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 93
+    template: { name: Seasons-Animes, year: 1993, season: Winter, weight: 408}
 
   1993 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 94
+    template: { name: Seasons-Animes, year: 1993, season: Spring, weight: 407}
 
   1993 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 95
+    template: { name: Seasons-Animes, year: 1993, season: Summer, weight: 406}
 
   1993 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 96
+    template: { name: Seasons-Animes, year: 1993, season: Fall, weight: 405}
 
   1994 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 97
+    template: { name: Seasons-Animes, year: 1994, season: Winter, weight: 404}
 
   1994 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 98
+    template: { name: Seasons-Animes, year: 1994, season: Spring, weight: 403}
 
   1994 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 99
+    template: { name: Seasons-Animes, year: 1994, season: Summer, weight: 402}
 
   1994 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 100
+    template: { name: Seasons-Animes, year: 1994, season: Fall, weight: 401}
 
   1995 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 101
+    template: { name: Seasons-Animes, year: 1995, season: Winter, weight: 400}
 
   1995 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 102
+    template: { name: Seasons-Animes, year: 1995, season: Spring, weight: 399}
 
   1995 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 103
+    template: { name: Seasons-Animes, year: 1995, season: Summer, weight: 398}
 
   1995 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 104
+    template: { name: Seasons-Animes, year: 1995, season: Fall, weight: 397}
 
   1996 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 105
+    template: { name: Seasons-Animes, year: 1996, season: Winter, weight: 396}
 
   1996 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 106
+    template: { name: Seasons-Animes, year: 1996, season: Spring, weight: 395}
 
   1996 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 107
+    template: { name: Seasons-Animes, year: 1996, season: Summer, weight: 394}
 
   1996 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 108
+    template: { name: Seasons-Animes, year: 1996, season: Fall, weight: 393}
 
   1997 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 109
+    template: { name: Seasons-Animes, year: 1997, season: Winter, weight: 392}
 
   1997 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 110
+    template: { name: Seasons-Animes, year: 1997, season: Spring, weight: 391}
 
   1997 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 111
+    template: { name: Seasons-Animes, year: 1997, season: Summer, weight: 390}
 
   1997 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 112
+    template: { name: Seasons-Animes, year: 1997, season: Fall, weight: 389}
 
   1998 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 113
+    template: { name: Seasons-Animes, year: 1998, season: Winter, weight: 388}
 
   1998 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 114
+    template: { name: Seasons-Animes, year: 1998, season: Spring, weight: 387}
 
   1998 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 115
+    template: { name: Seasons-Animes, year: 1998, season: Summer, weight: 386}
 
   1998 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 116
+    template: { name: Seasons-Animes, year: 1998, season: Fall, weight: 385}
 
   1999 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 117
+    template: { name: Seasons-Animes, year: 1999, season: Winter, weight: 384}
 
   1999 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 118
+    template: { name: Seasons-Animes, year: 1999, season: Spring, weight: 383}
 
   1999 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 119
+    template: { name: Seasons-Animes, year: 1999, season: Summer, weight: 382}
 
   1999 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 120
+    template: { name: Seasons-Animes, year: 1999, season: Fall, weight: 381}
 
   2000 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 121
+    template: { name: Seasons-Animes, year: 2000, season: Winter, weight: 380}
 
   2000 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 122
+    template: { name: Seasons-Animes, year: 2000, season: Spring, weight: 379}
 
   2000 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 123
+    template: { name: Seasons-Animes, year: 2000, season: Summer, weight: 378}
 
   2000 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 124
+    template: { name: Seasons-Animes, year: 2000, season: Fall, weight: 377}
 
   2001 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 125
+    template: { name: Seasons-Animes, year: 2001, season: Winter, weight: 376}
 
   2001 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 126
+    template: { name: Seasons-Animes, year: 2001, season: Spring, weight: 375}
 
   2001 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 127
+    template: { name: Seasons-Animes, year: 2001, season: Summer, weight: 374}
 
   2001 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 128
+    template: { name: Seasons-Animes, year: 2001, season: Fall, weight: 373}
 
   2002 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 129
+    template: { name: Seasons-Animes, year: 2002, season: Winter, weight: 372}
 
   2002 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 130
+    template: { name: Seasons-Animes, year: 2002, season: Spring, weight: 371}
 
   2002 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 131
+    template: { name: Seasons-Animes, year: 2002, season: Summer, weight: 370}
 
   2002 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 132
+    template: { name: Seasons-Animes, year: 2002, season: Fall, weight: 369}
 
   2003 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 133
+    template: { name: Seasons-Animes, year: 2003, season: Winter, weight: 368}
 
   2003 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 134
+    template: { name: Seasons-Animes, year: 2003, season: Spring, weight: 367}
 
   2003 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 135
+    template: { name: Seasons-Animes, year: 2003, season: Summer, weight: 366}
 
   2003 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 136
+    template: { name: Seasons-Animes, year: 2003, season: Fall, weight: 365}
 
   2004 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 137
+    template: { name: Seasons-Animes, year: 2004, season: Winter, weight: 364}
 
   2004 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 138
+    template: { name: Seasons-Animes, year: 2004, season: Spring, weight: 363}
 
   2004 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 139
+    template: { name: Seasons-Animes, year: 2004, season: Summer, weight: 362}
 
   2004 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 140
+    template: { name: Seasons-Animes, year: 2004, season: Fall, weight: 361}
 
   2005 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 141
+    template: { name: Seasons-Animes, year: 2005, season: Winter, weight: 360}
 
   2005 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 142
+    template: { name: Seasons-Animes, year: 2005, season: Spring, weight: 359}
 
   2005 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 143
+    template: { name: Seasons-Animes, year: 2005, season: Summer, weight: 358}
 
   2005 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 144
+    template: { name: Seasons-Animes, year: 2005, season: Fall, weight: 357}
 
   2006 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 145
+    template: { name: Seasons-Animes, year: 2006, season: Winter, weight: 356}
 
   2006 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 146
+    template: { name: Seasons-Animes, year: 2006, season: Spring, weight: 355}
 
   2006 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 147
+    template: { name: Seasons-Animes, year: 2006, season: Summer, weight: 354}
 
   2006 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 148
+    template: { name: Seasons-Animes, year: 2006, season: Fall, weight: 353}
 
   2007 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 149
+    template: { name: Seasons-Animes, year: 2007, season: Winter, weight: 352}
 
   2007 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 150
+    template: { name: Seasons-Animes, year: 2007, season: Spring, weight: 351}
 
   2007 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 151
+    template: { name: Seasons-Animes, year: 2007, season: Summer, weight: 350}
 
   2007 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 152
+    template: { name: Seasons-Animes, year: 2007, season: Fall, weight: 349}
 
   2008 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 153
+    template: { name: Seasons-Animes, year: 2008, season: Winter, weight: 348}
 
   2008 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 154
+    template: { name: Seasons-Animes, year: 2008, season: Spring, weight: 347}
 
   2008 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 155
+    template: { name: Seasons-Animes, year: 2008, season: Summer, weight: 346}
 
   2008 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 156
+    template: { name: Seasons-Animes, year: 2008, season: Fall, weight: 345}
 
   2009 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 157
+    template: { name: Seasons-Animes, year: 2009, season: Winter, weight: 344}
 
   2009 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 158
+    template: { name: Seasons-Animes, year: 2009, season: Spring, weight: 343}
 
   2009 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 159
+    template: { name: Seasons-Animes, year: 2009, season: Summer, weight: 342}
 
   2009 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 160
+    template: { name: Seasons-Animes, year: 2009, season: Fall, weight: 341}
 
   2010 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 161
+    template: { name: Seasons-Animes, year: 2010, season: Winter, weight: 340}
 
   2010 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 162
+    template: { name: Seasons-Animes, year: 2010, season: Spring, weight: 339}
 
   2010 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 163
+    template: { name: Seasons-Animes, year: 2010, season: Summer, weight: 338}
 
   2010 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 164
+    template: { name: Seasons-Animes, year: 2010, season: Fall, weight: 337}
 
   2011 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 165
+    template: { name: Seasons-Animes, year: 2011, season: Winter, weight: 336}
 
   2011 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 166
+    template: { name: Seasons-Animes, year: 2011, season: Spring, weight: 335}
 
   2011 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 167
+    template: { name: Seasons-Animes, year: 2011, season: Summer, weight: 334}
 
   2011 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 168
+    template: { name: Seasons-Animes, year: 2011, season: Fall, weight: 333}
 
   2012 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 169
+    template: { name: Seasons-Animes, year: 2012, season: Winter, weight: 332}
 
   2012 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 170
+    template: { name: Seasons-Animes, year: 2012, season: Spring, weight: 331}
 
   2012 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 171
+    template: { name: Seasons-Animes, year: 2012, season: Summer, weight: 330}
 
   2012 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 172
+    template: { name: Seasons-Animes, year: 2012, season: Fall, weight: 329}
 
   2013 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 173
+    template: { name: Seasons-Animes, year: 2013, season: Winter, weight: 328}
 
   2013 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 174
+    template: { name: Seasons-Animes, year: 2013, season: Spring, weight: 327}
 
   2013 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 175
+    template: { name: Seasons-Animes, year: 2013, season: Summer, weight: 326}
 
   2013 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 176
+    template: { name: Seasons-Animes, year: 2013, season: Fall, weight: 325}
 
   2014 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 177
+    template: { name: Seasons-Animes, year: 2014, season: Winter, weight: 324}
 
   2014 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 178
+    template: { name: Seasons-Animes, year: 2014, season: Spring, weight: 323}
 
   2014 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 179
+    template: { name: Seasons-Animes, year: 2014, season: Summer, weight: 322}
 
   2014 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 180
+    template: { name: Seasons-Animes, year: 2014, season: Fall, weight: 321}
 
   2015 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 181
+    template: { name: Seasons-Animes, year: 2015, season: Winter, weight: 320}
 
   2015 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 182
+    template: { name: Seasons-Animes, year: 2015, season: Spring, weight: 319}
 
   2015 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 183
+    template: { name: Seasons-Animes, year: 2015, season: Summer, weight: 318}
 
   2015 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 184
+    template: { name: Seasons-Animes, year: 2015, season: Fall, weight: 317}
 
   2016 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 185
+    template: { name: Seasons-Animes, year: 2016, season: Winter, weight: 316}
 
   2016 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 186
+    template: { name: Seasons-Animes, year: 2016, season: Spring, weight: 315}
 
   2016 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 187
+    template: { name: Seasons-Animes, year: 2016, season: Summer, weight: 314}
 
   2016 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 188
+    template: { name: Seasons-Animes, year: 2016, season: Fall, weight: 313}
 
   2017 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 189
+    template: { name: Seasons-Animes, year: 2017, season: Winter, weight: 312}
 
   2017 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 190
+    template: { name: Seasons-Animes, year: 2017, season: Spring, weight: 311}
 
   2017 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 191
+    template: { name: Seasons-Animes, year: 2017, season: Summer, weight: 310}
 
   2017 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 192
+    template: { name: Seasons-Animes, year: 2017, season: Fall, weight: 309}
 
   2018 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 193
+    template: { name: Seasons-Animes, year: 2018, season: Winter, weight: 308}
 
   2018 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 194
+    template: { name: Seasons-Animes, year: 2018, season: Spring, weight: 307}
 
   2018 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 195
+    template: { name: Seasons-Animes, year: 2018, season: Summer, weight: 306}
 
   2018 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 196
+    template: { name: Seasons-Animes, year: 2018, season: Fall, weight: 305}
 
   2019 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 197
+    template: { name: Seasons-Animes, year: 2019, season: Winter, weight: 304}
 
   2019 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 198
+    template: { name: Seasons-Animes, year: 2019, season: Spring, weight: 303}
 
   2019 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 199
+    template: { name: Seasons-Animes, year: 2019, season: Summer, weight: 302}
 
   2019 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 200
+    template: { name: Seasons-Animes, year: 2019, season: Fall, weight: 301}
 
   2020 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 201
+    template: { name: Seasons-Animes, year: 2020, season: Winter, weight: 300}
 
   2020 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 202
+    template: { name: Seasons-Animes, year: 2020, season: Spring, weight: 299}
 
   2020 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 203
+    template: { name: Seasons-Animes, year: 2020, season: Summer, weight: 298}
 
   2020 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 204
+    template: { name: Seasons-Animes, year: 2020, season: Fall, weight: 297}
 
   2021 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 205
+    template: { name: Seasons-Animes, year: 2021, season: Winter, weight: 296}
 
   2021 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 206
+    template: { name: Seasons-Animes, year: 2021, season: Spring, weight: 295}
 
   2021 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 207
+    template: { name: Seasons-Animes, year: 2021, season: Summer, weight: 294}
 
   2021 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 208
+    template: { name: Seasons-Animes, year: 2021, season: Fall, weight: 293}
 
   2022 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 209
+    template: { name: Seasons-Animes, year: 2022, season: Winter, weight: 292}
 
   2022 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 210
+    template: { name: Seasons-Animes, year: 2022, season: Spring, weight: 291}
 
   2022 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 211
+    template: { name: Seasons-Animes, year: 2022, season: Summer, weight: 290}
 
   2022 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 212
+    template: { name: Seasons-Animes, year: 2022, season: Fall, weight: 289}
 
   2023 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 213
+    template: { name: Seasons-Animes, year: 2023, season: Winter, weight: 288}
 
   2023 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 214
+    template: { name: Seasons-Animes, year: 2023, season: Spring, weight: 287}
 
   2023 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 215
+    template: { name: Seasons-Animes, year: 2023, season: Summer, weight: 286}
 
   2023 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 216
+    template: { name: Seasons-Animes, year: 2023, season: Fall, weight: 285}
 
   2024 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 217
+    template: { name: Seasons-Animes, year: 2024, season: Winter, weight: 284}
 
   2024 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 218
+    template: { name: Seasons-Animes, year: 2024, season: Spring, weight: 283}
 
   2024 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 219
+    template: { name: Seasons-Animes, year: 2024, season: Summer, weight: 282}
 
   2024 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 220
+    template: { name: Seasons-Animes, year: 2024, season: Fall, weight: 281}
 
   2025 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 221
+    template: { name: Seasons-Animes, year: 2025, season: Winter, weight: 280}
 
   2025 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 222
+    template: { name: Seasons-Animes, year: 2025, season: Spring, weight: 279}
 
   2025 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 223
+    template: { name: Seasons-Animes, year: 2025, season: Summer, weight: 278}
 
   2025 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 224
+    template: { name: Seasons-Animes, year: 2025, season: Fall, weight: 277}
 
   2026 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 225
+    template: { name: Seasons-Animes, year: 2026, season: Winter, weight: 276}
 
   2026 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 226
+    template: { name: Seasons-Animes, year: 2026, season: Spring, weight: 275}
 
   2026 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 227
+    template: { name: Seasons-Animes, year: 2026, season: Summer, weight: 274}
 
   2026 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 228
+    template: { name: Seasons-Animes, year: 2026, season: Fall, weight: 273}
 
   2027 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 229
+    template: { name: Seasons-Animes, year: 2027, season: Winter, weight: 272}
 
   2027 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 230
+    template: { name: Seasons-Animes, year: 2027, season: Spring, weight: 271}
 
   2027 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 231
+    template: { name: Seasons-Animes, year: 2027, season: Summer, weight: 270}
 
   2027 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 232
+    template: { name: Seasons-Animes, year: 2027, season: Fall, weight: 269}
 
   2028 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 233
+    template: { name: Seasons-Animes, year: 2028, season: Winter, weight: 268}
 
   2028 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 234
+    template: { name: Seasons-Animes, year: 2028, season: Spring, weight: 267}
 
   2028 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 235
+    template: { name: Seasons-Animes, year: 2028, season: Summer, weight: 266}
 
   2028 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 236
+    template: { name: Seasons-Animes, year: 2028, season: Fall, weight: 265}
 
   2029 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 237
+    template: { name: Seasons-Animes, year: 2029, season: Winter, weight: 264}
 
   2029 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 238
+    template: { name: Seasons-Animes, year: 2029, season: Spring, weight: 263}
 
   2029 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 239
+    template: { name: Seasons-Animes, year: 2029, season: Summer, weight: 262}
 
   2029 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 240
+    template: { name: Seasons-Animes, year: 2029, season: Fall, weight: 261}
 
   2030 Winter:
-    template:
-      - name: Seasons-Animes
-        weight: 241
+    template: { name: Seasons-Animes, year: 2030, season: Winter, weight: 260}
 
   2030 Spring:
-    template:
-      - name: Seasons-Animes
-        weight: 242
+    template: { name: Seasons-Animes, year: 2030, season: Spring, weight: 259}
 
   2030 Summer:
-    template:
-      - name: Seasons-Animes
-        weight: 243
+    template: { name: Seasons-Animes, year: 2030, season: Summer, weight: 258}
 
   2030 Fall:
-    template:
-      - name: Seasons-Animes
-        weight: 244
+    template: { name: Seasons-Animes, year: 2030, season: Fall, weight: 257}
 
