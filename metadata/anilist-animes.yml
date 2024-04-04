@@ -110,7 +110,7 @@ metadata:
       Sand Land: The Series
     original_title: |-
       Sand Land: The Series
-    genre.sync: Action,Adventure,Fantasy,Supernatural,Full CGI,Desert,Tanks,Post-Apocalyptic,Military
+    genre.sync: Action,Adventure,Fantasy,Supernatural,Desert,Full CGI,Military,Tanks,Post-Apocalyptic,Demons
     label: Airing
     label.remove: Planned,Ended
     studio: Sunrise
@@ -120,7 +120,7 @@ metadata:
           Sand Land: The Series
         label: 2024 Spring
         label.remove: score
-    audience_rating: 6.9
+    audience_rating: 7.1
     critic_rating: 7.6
   429055:
     title: |-
@@ -448,6 +448,24 @@ metadata:
         label.remove: score
     audience_rating: 8.1
     critic_rating: 8.2
+  426488:
+    title: |-
+      Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?
+    sort_title: |-
+      Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?
+    original_title: |-
+      An Archdemon's Dilemma: How to Love Your Elf Bride
+    genre.sync: Action,Fantasy,Romance,Elf
+    label: Airing
+    label.remove: Planned,Ended
+    studio: Brain's Base
+    seasons:
+      1:
+        title: |-
+          Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?
+        label: 2024 Spring
+        label.remove: score
+    critic_rating: 7.2
   411800:
     title: |-
       Arknights: Reimei Zensou
@@ -625,6 +643,7 @@ metadata:
           Bartender: Kami no Glass
         label: 2024 Spring
         label.remove: score
+    audience_rating: 69.0
     critic_rating: 7.2
   361013:
     title: |-
@@ -2156,6 +2175,23 @@ metadata:
         label.remove: score
     audience_rating: 6.2
     critic_rating: 6.3
+  435815:
+    title: |-
+      Hananoi-kun to Koi no Yamai
+    sort_title: |-
+      Hananoi-kun to Koi no Yamai
+    original_title: |-
+      A Condition Called Love
+    genre.sync: Drama,Romance,Shoujo,School,Heterosexual,Female Protagonist
+    label: Airing
+    label.remove: Planned,Ended
+    studio: East Fish Studio
+    seasons:
+      1:
+        title: |-
+          Hananoi-kun to Koi no Yamai
+        label: 2024 Spring
+        label.remove: score
   267441:
     title: |-
       Hataraku Maou-sama!
@@ -4147,8 +4183,8 @@ metadata:
     original_title: |-
       The Witch and the Beast
     genre.sync: Action,Adventure,Drama,Fantasy,Primarily Adult Cast,Witch,Seinen,Body Swapping,Gender Bending,Revenge,Urban Fantasy,Magic,Female Protagonist,Gore,Necromancy
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Yokohama Animation Lab
     seasons:
       1:
@@ -7079,6 +7115,23 @@ metadata:
         label.remove: score
     audience_rating: 7.8
     critic_rating: 7.8
+  433088:
+    title: |-
+      Wind Breaker
+    sort_title: |-
+      Wind Breaker
+    original_title: |-
+      Wind Breaker
+    genre.sync: Action,Comedy,Drama,Delinquents,Male Protagonist,Shounen
+    label: Airing
+    label.remove: Planned,Ended
+    studio: CloverWorks
+    seasons:
+      1:
+        title: |-
+          Wind Breaker
+        label: 2024 Spring
+        label.remove: score
   145211:
     title: |-
       Working!!
@@ -7333,8 +7386,8 @@ metadata:
     original_title: |-
       Laid-Back Camp
     genre.sync: Comedy,Slice of Life,Outdoor,Iyashikei,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Rural,Food,Educational,Primarily Teen Cast,School Club,Seinen,Kuudere
-    label: Planned
-    label.remove: Airing,Ended
+    label: Airing
+    label.remove: Planned,Ended
     studio: C-Station
     seasons:
       0:
@@ -7349,7 +7402,12 @@ metadata:
           Yuru Camp△ SEASON 2
         label: score,2021 Winter
         user_rating: 8.4
-    audience_rating: 8.2
+      3:
+        title: |-
+          Yuru Camp△ SEASON 3
+        label: score,2024 Spring
+        user_rating: 0
+    audience_rating: 16.5
     critic_rating: 8.4
   435466:
     title: |-
