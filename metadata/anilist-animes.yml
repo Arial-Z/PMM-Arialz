@@ -448,24 +448,6 @@ metadata:
         label.remove: score
     audience_rating: 8.1
     critic_rating: 8.2
-  426488:
-    title: |-
-      Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?
-    sort_title: |-
-      Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?
-    original_title: |-
-      An Archdemon's Dilemma: How to Love Your Elf Bride
-    genre.sync: Action,Fantasy,Romance,Elf
-    label: Airing
-    label.remove: Planned,Ended
-    studio: Brain's Base
-    seasons:
-      1:
-        title: |-
-          Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?
-        label: 2024 Spring
-        label.remove: score
-    critic_rating: 7.2
   411800:
     title: |-
       Arknights: Reimei Zensou
@@ -633,7 +615,7 @@ metadata:
       Bartender: Kami no Glass
     original_title: |-
       BARTENDER Glass of God
-    genre.sync: Drama,Slice of Life,Bar,Seinen,Male Protagonist
+    genre.sync: Drama,Slice of Life,Bar,Seinen,Work,Male Protagonist
     label: Airing
     label.remove: Planned,Ended
     studio: Liber
@@ -643,7 +625,7 @@ metadata:
           Bartender: Kami no Glass
         label: 2024 Spring
         label.remove: score
-    audience_rating: 69.0
+    audience_rating: 6.9
     critic_rating: 7.2
   361013:
     title: |-
@@ -2192,6 +2174,8 @@ metadata:
           Hananoi-kun to Koi no Yamai
         label: 2024 Spring
         label.remove: score
+    audience_rating: 68.0
+    critic_rating: 7.3
   267441:
     title: |-
       Hataraku Maou-sama!
@@ -4083,8 +4067,8 @@ metadata:
     original_title: |-
       The Irregular at Magic High School
     genre.sync: Action,Romance,Sci-Fi,Supernatural,Magic,School,Male Protagonist,Military,Incest,Terrorism
-    label: Planned
-    label.remove: Airing,Ended
+    label: Airing
+    label.remove: Planned,Ended
     studio: MADHOUSE
     seasons:
       0:
@@ -4099,6 +4083,11 @@ metadata:
           Mahouka Koukou no Rettousei: Raihousha-hen
         label: score,2020 Fall
         user_rating: 7.2
+      3:
+        title: |-
+          Mahouka Koukou no Rettousei 3rd Season
+        label: score,2024 Spring
+        user_rating: 0
     audience_rating: 7.1
     critic_rating: 7.3
   394013:
@@ -4241,6 +4230,25 @@ metadata:
         label: score,2023 Winter
         user_rating: 6.9
     audience_rating: 7.1
+    critic_rating: 7.2
+  426488:
+    title: |-
+      Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?
+    sort_title: |-
+      Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?
+    original_title: |-
+      An Archdemon's Dilemma: How to Love Your Elf Bride
+    genre.sync: Action,Fantasy,Romance,Elf
+    label: Airing
+    label.remove: Planned,Ended
+    studio: Brain's Base
+    seasons:
+      1:
+        title: |-
+          Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?
+        label: 2024 Spring
+        label.remove: score
+    audience_rating: 68.0
     critic_rating: 7.2
   361709:
     title: |-
@@ -6482,8 +6490,8 @@ metadata:
     original_title: |-
       That Time I Got Reincarnated as a Slime
     genre.sync: Action,Adventure,Comedy,Fantasy,Isekai,Found Family,Reincarnation,Magic,Super Power,Shapeshifting,Ensemble Cast,Monster Boy,Economics,Kingdom Management,Clone,Alternate Universe,Politics,Henshin,Fairy,Monster Girl,Male Protagonist,Demons,Travel,Agender,Goblin
-    label: Planned
-    label.remove: Airing,Ended
+    label: Airing
+    label.remove: Planned,Ended
     studio: 8-bit
     seasons:
       0:
@@ -6498,8 +6506,13 @@ metadata:
           Tensei Shitara Slime Datta Ken 2nd Season
         label: score,2021 Summer,2021 Winter
         user_rating: 8.3
+      3:
+        title: |-
+          Tensei Shitara Slime Datta Ken 3rd Season
+        label: score,2024 Spring
+        user_rating: 0
     audience_rating: 8.1
-    critic_rating: 8.2
+    critic_rating: 8.3
   385374:
     title: |-
       Tensei Shitara Slime Datta Ken: Tensura Nikki
@@ -7132,6 +7145,8 @@ metadata:
           Wind Breaker
         label: 2024 Spring
         label.remove: score
+    audience_rating: 75.0
+    critic_rating: 7.8
   145211:
     title: |-
       Working!!
@@ -7406,8 +7421,8 @@ metadata:
         title: |-
           Yuru Camp△ SEASON 3
         label: score,2024 Spring
-        user_rating: 0
-    audience_rating: 16.5
+        user_rating: 81.0
+    audience_rating: 32.5
     critic_rating: 8.4
   435466:
     title: |-
