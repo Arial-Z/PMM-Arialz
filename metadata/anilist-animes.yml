@@ -820,8 +820,12 @@ metadata:
           Boku no Hero Academia 6
         label: score,2022 Fall
         user_rating: 8.3
-    audience_rating: 7.8
-    critic_rating: 7.9
+      7:
+        title: |-
+          Boku no Hero Academia 7
+        user_rating: 0
+    audience_rating: 9.4
+    critic_rating: 8.0
   422981:
     title: |-
       Boku no Kokoro no Yabai Yatsu
@@ -1229,6 +1233,25 @@ metadata:
         label.remove: score
     audience_rating: 7.2
     critic_rating: 7.4
+  435815:
+    title: |-
+      Hananoi-kun to Koi no Yamai
+    sort_title: |-
+      Hananoi-kun to Koi no Yamai
+    original_title: |-
+      A Condition Called Love
+    genre.sync: Drama,Romance,Shoujo,School,Heterosexual,Female Protagonist,Primarily Teen Cast
+    label: Airing
+    label.remove: Planned,Ended
+    studio: East Fish Studio
+    seasons:
+      1:
+        title: |-
+          Hananoi-kun to Koi no Yamai
+        label: 2024 Spring
+        label.remove: score
+    audience_rating: 6.8
+    critic_rating: 7.3
   384541:
     title: |-
       Cyberpunk: Edgerunners
@@ -2157,25 +2180,6 @@ metadata:
         label.remove: score
     audience_rating: 6.2
     critic_rating: 6.3
-  435815:
-    title: |-
-      Hananoi-kun to Koi no Yamai
-    sort_title: |-
-      Hananoi-kun to Koi no Yamai
-    original_title: |-
-      A Condition Called Love
-    genre.sync: Drama,Romance,Shoujo,School,Heterosexual,Female Protagonist
-    label: Airing
-    label.remove: Planned,Ended
-    studio: East Fish Studio
-    seasons:
-      1:
-        title: |-
-          Hananoi-kun to Koi no Yamai
-        label: 2024 Spring
-        label.remove: score
-    audience_rating: 68.0
-    critic_rating: 7.3
   267441:
     title: |-
       Hataraku Maou-sama!
@@ -4087,8 +4091,8 @@ metadata:
         title: |-
           Mahouka Koukou no Rettousei 3rd Season
         label: score,2024 Spring
-        user_rating: 0
-    audience_rating: 7.1
+        user_rating: 73.0
+    audience_rating: 29.1
     critic_rating: 7.3
   394013:
     title: |-
@@ -4238,7 +4242,7 @@ metadata:
       Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?
     original_title: |-
       An Archdemon's Dilemma: How to Love Your Elf Bride
-    genre.sync: Action,Fantasy,Romance,Elf
+    genre.sync: Action,Fantasy,Romance,Elf,Male Protagonist
     label: Airing
     label.remove: Planned,Ended
     studio: Brain's Base
@@ -4248,7 +4252,7 @@ metadata:
           Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?
         label: 2024 Spring
         label.remove: score
-    audience_rating: 68.0
+    audience_rating: 6.8
     critic_rating: 7.2
   361709:
     title: |-
@@ -6510,8 +6514,8 @@ metadata:
         title: |-
           Tensei Shitara Slime Datta Ken 3rd Season
         label: score,2024 Spring
-        user_rating: 0
-    audience_rating: 8.1
+        user_rating: 83.0
+    audience_rating: 33.1
     critic_rating: 8.3
   385374:
     title: |-
@@ -7145,7 +7149,7 @@ metadata:
           Wind Breaker
         label: 2024 Spring
         label.remove: score
-    audience_rating: 75.0
+    audience_rating: 7.5
     critic_rating: 7.8
   145211:
     title: |-
@@ -7421,8 +7425,8 @@ metadata:
         title: |-
           Yuru Camp△ SEASON 3
         label: score,2024 Spring
-        user_rating: 81.0
-    audience_rating: 32.5
+        user_rating: 8.1
+    audience_rating: 8.2
     critic_rating: 8.4
   435466:
     title: |-
