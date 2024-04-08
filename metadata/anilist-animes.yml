@@ -738,6 +738,7 @@ metadata:
           Blue Archive The Animation
         label: 2024 Spring
         label.remove: score
+    audience_rating: 7.4
     critic_rating: 6.8
   408629:
     title: |-
@@ -1621,6 +1622,27 @@ metadata:
         user_rating: 8.2
     audience_rating: 8.2
     critic_rating: 8.2
+  423688:
+    title: |-
+      Long Zu
+    sort_title: |-
+      Long Zu
+    original_title: |-
+      Dragon Raja -The Blazing Dawn-
+    genre.sync: Action,Drama,Fantasy
+    label: Planned
+    label.remove: Airing,Ended
+    studio: GARDEN
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          Long Zu
+        label: 2022 Summer
+        label.remove: score
+    audience_rating: 6.9
+    critic_rating: 7.1
   423257:
     title: |-
       Dungeon Meshi
@@ -2857,25 +2879,6 @@ metadata:
         user_rating: 7.1
     audience_rating: 7.2
     critic_rating: 7.3
-  432808:
-    title: |-
-      Yoru no Kurage wa Oyogenai
-    sort_title: |-
-      Yoru no Kurage wa Oyogenai
-    original_title: |-
-      Jellyfish Can’t Swim in the Night
-    genre.sync: Drama,Female Protagonist,Primarily Female Cast,Urban,Idol,Drawing,Coming of Age,Yuri,VTuber,Cute Girls Doing Cute Things
-    label: Airing
-    label.remove: Planned,Ended
-    studio: Doga Kobo
-    seasons:
-      1:
-        title: |-
-          Yoru no Kurage wa Oyogenai
-        label: 2024 Spring
-        label.remove: score
-    audience_rating: 7.5
-    critic_rating: 8.0
   423121:
     title: |-
       Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
@@ -2921,7 +2924,7 @@ metadata:
       Jii-san Baa-san Wakagaeru
     original_title: |-
       Grandpa and Grandma Turn Young Again
-    genre.sync: Comedy,Fantasy,Romance,Age Regression,Rural,Primarily Adult Cast,Family Life,Iyashikei
+    genre.sync: Comedy,Fantasy,Romance,Age Regression,Heterosexual,Rural,Family Life,Primarily Adult Cast
     label: Airing
     label.remove: Planned,Ended
     studio: Gekkou
@@ -2931,6 +2934,8 @@ metadata:
           Jii-san Baa-san Wakagaeru
         label: 2024 Spring
         label.remove: score
+    audience_rating: 6.7
+    critic_rating: 7.2
   424414:
     title: |-
       Jitsu wa Ore, Saikyou Deshita?
@@ -3986,6 +3991,23 @@ metadata:
         label.remove: score
     audience_rating: 6.9
     critic_rating: 7.2
+  440897:
+    title: |-
+      Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life
+    sort_title: |-
+      Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life
+    original_title: |-
+      Chillin' in Another World with Level 2 Super Cheat Powers
+    genre.sync: Adventure,Fantasy,Romance,Isekai
+    label: Airing
+    label.remove: Planned,Ended
+    studio: J.C. Staff
+    seasons:
+      1:
+        title: |-
+          Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life
+        label: 2024 Spring
+        label.remove: score
   414057:
     title: |-
       Lycoris Recoil
@@ -4656,25 +4678,6 @@ metadata:
         label.remove: score
     audience_rating: 6.2
     critic_rating: 6.3
-  428030:
-    title: |-
-      Sentai Daishikkaku
-    sort_title: |-
-      Sentai Daishikkaku
-    original_title: |-
-      GO! GO! Loser Ranger!
-    genre.sync: Action,Sci-Fi,Tokusatsu,Anti-Hero,Revenge
-    label: Airing
-    label.remove: Planned,Ended
-    studio: Yostar Pictures
-    seasons:
-      1:
-        title: |-
-          Sentai Daishikkaku
-        label: 2024 Spring
-        label.remove: score
-    audience_rating: 6.0
-    critic_rating: 7.3
   275610:
     title: |-
       Noragami
@@ -5789,6 +5792,25 @@ metadata:
         label.remove: score
     audience_rating: 7.5
     critic_rating: 7.6
+  428030:
+    title: |-
+      Sentai Daishikkaku
+    sort_title: |-
+      Sentai Daishikkaku
+    original_title: |-
+      GO! GO! Loser Ranger!
+    genre.sync: Action,Sci-Fi,Tokusatsu,Anti-Hero,Revenge
+    label: Airing
+    label.remove: Planned,Ended
+    studio: Yostar Pictures
+    seasons:
+      1:
+        title: |-
+          Sentai Daishikkaku
+        label: 2024 Spring
+        label.remove: score
+    audience_rating: 6.0
+    critic_rating: 7.3
   396876:
     title: |-
       Shadows House
@@ -6483,23 +6505,6 @@ metadata:
         label.remove: score
     audience_rating: 7.2
     critic_rating: 7.4
-  434704:
-    title: |-
-      Tensei Kizoku, Kantei Skill de Nariagaru
-    sort_title: |-
-      Tensei Kizoku, Kantei Skill de Nariagaru
-    original_title: |-
-      As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World
-    genre.sync: Adventure,Fantasy,Isekai,Reincarnation
-    label: Airing
-    label.remove: Planned,Ended
-    studio: studio MOTHER
-    seasons:
-      1:
-        title: |-
-          Tensei Kizoku, Kantei Skill de Nariagaru
-        label: 2024 Spring
-        label.remove: score
   423094:
     title: |-
       Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito
@@ -6519,6 +6524,25 @@ metadata:
         label.remove: score
     audience_rating: 6.6
     critic_rating: 6.7
+  434704:
+    title: |-
+      Tensei Kizoku, Kantei Skill de Nariagaru
+    sort_title: |-
+      Tensei Kizoku, Kantei Skill de Nariagaru
+    original_title: |-
+      As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World
+    genre.sync: Adventure,Fantasy,Isekai,Reincarnation
+    label: Airing
+    label.remove: Planned,Ended
+    studio: studio MOTHER
+    seasons:
+      1:
+        title: |-
+          Tensei Kizoku, Kantei Skill de Nariagaru
+        label: 2024 Spring
+        label.remove: score
+    audience_rating: 6.7
+    critic_rating: 7.1
   423362:
     title: |-
       Tensei Oujo to Tensai Reijou no Mahou Kakumei
@@ -7118,6 +7142,8 @@ metadata:
           Vampire Dormitory
         label: 2024 Spring
         label.remove: score
+    audience_rating: 5.8
+    critic_rating: 6.4
   400133:
     title: |-
       Vanitas no Carte
@@ -7436,6 +7462,25 @@ metadata:
         label: 2022 Summer
         label.remove: score
     audience_rating: 7.9
+    critic_rating: 8.0
+  432808:
+    title: |-
+      Yoru no Kurage wa Oyogenai
+    sort_title: |-
+      Yoru no Kurage wa Oyogenai
+    original_title: |-
+      Jellyfish Can’t Swim in the Night
+    genre.sync: Drama,Female Protagonist,Primarily Female Cast,Urban,Idol,Drawing,Coming of Age,Yuri,VTuber,Cute Girls Doing Cute Things
+    label: Airing
+    label.remove: Planned,Ended
+    studio: Doga Kobo
+    seasons:
+      1:
+        title: |-
+          Yoru no Kurage wa Oyogenai
+        label: 2024 Spring
+        label.remove: score
+    audience_rating: 7.5
     critic_rating: 8.0
   315500:
     title: |-
