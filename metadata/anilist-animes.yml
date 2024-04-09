@@ -61,7 +61,7 @@ metadata:
         title: |-
           Major
         label: score,2004 Fall
-        user_rating: 8.0
+        user_rating: 7.9
       2:
         title: |-
           Major S2
@@ -118,8 +118,8 @@ metadata:
       1:
         title: |-
           Sand Land: The Series
-        label: 2024 Spring
-        label.remove: score
+        label: score,2024 Spring
+        user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.6
   429055:
@@ -137,8 +137,8 @@ metadata:
       1:
         title: |-
           16bit Sensation: ANOTHER LAYER
-        label: 2023 Fall
-        label.remove: score
+        label: score,2023 Fall
+        user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 6.9
   306269:
@@ -172,7 +172,7 @@ metadata:
       30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii
     original_title: |-
       Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!
-    genre.sync: Comedy,Romance,Slice of Life,Supernatural,Male Protagonist,Boys' Love,Work,Super Power,LGBTQ+ Themes,Office,Primarily Adult Cast,Josei
+    genre.sync: Comedy,Romance,Slice of Life,Supernatural,Male Protagonist,Boys' Love,Work,Office,Super Power,LGBTQ+ Themes,Primarily Adult Cast,Josei
     label: Ended
     label.remove: Planned,Airing
     studio: Satelight
@@ -180,8 +180,8 @@ metadata:
       1:
         title: |-
           30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii
-        label: 2024 Winter
-        label.remove: score
+        label: score,2024 Winter
+        user_rating: 7.5
     audience_rating: 7.5
     critic_rating: 7.7
   378609:
@@ -201,8 +201,8 @@ metadata:
       1:
         title: |-
           86: Eighty Six
-        label: 2021 Fall,2021 Spring
-        label.remove: score
+        label: score,2021 Fall,2021 Spring
+        user_rating: 8.4
     audience_rating: 8.4
     critic_rating: 8.5
   421069:
@@ -220,8 +220,8 @@ metadata:
       1:
         title: |-
           [Oshi no Ko]
-        label: 2023 Spring
-        label.remove: score
+        label: score,2023 Spring
+        user_rating: 8.5
     audience_rating: 8.5
     critic_rating: 8.7
   319983:
@@ -239,8 +239,8 @@ metadata:
       1:
         title: |-
           ACCA: 13-ku Kansatsu-ka
-        label: 2017 Winter
-        label.remove: score
+        label: score,2017 Winter
+        user_rating: 7.5
     audience_rating: 7.5
     critic_rating: 7.7
   346744:
@@ -299,8 +299,8 @@ metadata:
       1:
         title: |-
           Aggressive Retsuko
-        label: 2016 Spring
-        label.remove: score
+        label: score,2016 Spring
+        user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.6
   421676:
@@ -310,7 +310,7 @@ metadata:
       Akiba Meido Sensou
     original_title: |-
       Akiba Maid War
-    genre.sync: Action,Comedy,Drama,Yakuza,Maids,Primarily Female Cast,Crime,Female Protagonist,Gangs,Work,Surreal Comedy,Guns,Parody,Primarily Adult Cast,Urban,Otaku Culture,Tragedy,Gore,Kemonomimi,Coming of Age,Anti-Hero,Found Family
+    genre.sync: Action,Comedy,Drama,Yakuza,Maids,Primarily Female Cast,Crime,Female Protagonist,Gangs,Work,Surreal Comedy,Guns,Parody,Primarily Adult Cast,Urban,Otaku Culture,Tragedy,Coming of Age,Gore,Found Family,Revenge,Kemonomimi,Anti-Hero,Homeless
     label: Ended
     label.remove: Planned,Airing
     studio: P.A. Works
@@ -318,8 +318,8 @@ metadata:
       1:
         title: |-
           Akiba Meido Sensou
-        label: 2022 Fall
-        label.remove: score
+        label: score,2022 Fall
+        user_rating: 7.4
     audience_rating: 7.4
     critic_rating: 7.6
   432806:
@@ -329,7 +329,7 @@ metadata:
       Akuyaku Reijou Level 99: Watashi wa Ura Boss desu ga Maou de wa Arimasen
     original_title: |-
       Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord
-    genre.sync: Comedy,Fantasy,Romance,Villainess,Magic,Female Protagonist,Kuudere,Isekai,Reincarnation,School,Heterosexual
+    genre.sync: Comedy,Fantasy,Romance,Villainess,Magic,Female Protagonist,Kuudere,Isekai,School,Reincarnation
     label: Ended
     label.remove: Planned,Airing
     studio: Jumondou
@@ -337,10 +337,10 @@ metadata:
       1:
         title: |-
           Akuyaku Reijou Level 99: Watashi wa Ura Boss desu ga Maou de wa Arimasen
-        label: 2024 Winter
-        label.remove: score
+        label: score,2024 Winter
+        user_rating: 7.1
     audience_rating: 7.1
-    critic_rating: 7.2
+    critic_rating: 7.1
   411821:
     title: |-
       Akuyaku Reijou nano de Last Boss wo Kattemimashita
@@ -356,8 +356,8 @@ metadata:
       1:
         title: |-
           Akuyaku Reijou nano de Last Boss wo Kattemimashita
-        label: 2022 Fall
-        label.remove: score
+        label: score,2022 Fall
+        user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.2
   279827:
@@ -375,8 +375,8 @@ metadata:
       1:
         title: |-
           Aldnoah.Zero
-        label: 2015 Winter,2014 Summer
-        label.remove: score
+        label: score,2015 Winter,2014 Summer
+        user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 7.2
   348706:
@@ -394,8 +394,8 @@ metadata:
       1:
         title: |-
           Angolmois: Genkou Kassenki
-        label: 2018 Summer
-        label.remove: score
+        label: score,2018 Summer
+        user_rating: 6.7
     audience_rating: 6.7
     critic_rating: 7.1
   248035:
@@ -444,8 +444,8 @@ metadata:
       1:
         title: |-
           Aoashi
-        label: 2022 Spring
-        label.remove: score
+        label: score,2022 Spring
+        user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.2
   411800:
@@ -513,8 +513,8 @@ metadata:
       1:
         title: |-
           Ayaka
-        label: 2023 Summer
-        label.remove: score
+        label: score,2023 Summer
+        user_rating: 6.0
     audience_rating: 6.0
     critic_rating: 6.4
   79077:
@@ -524,7 +524,7 @@ metadata:
       Azumanga Daiou THE ANIMATION
     original_title: |-
       Azumanga Daioh
-    genre.sync: Comedy,Slice of Life,School,Primarily Female Cast,Episodic,Surreal Comedy,Slapstick,Cute Girls Doing Cute Things,Ensemble Cast,Coming of Age,Female Protagonist,Primarily Teen Cast,LGBTQ+ Themes
+    genre.sync: Comedy,Slice of Life,School,Primarily Female Cast,Episodic,Surreal Comedy,Slapstick,Cute Girls Doing Cute Things,Ensemble Cast,Coming of Age,Badminton,Female Protagonist,Primarily Teen Cast,LGBTQ+ Themes
     label: Ended
     label.remove: Planned,Airing
     studio: J.C. Staff
@@ -532,8 +532,8 @@ metadata:
       1:
         title: |-
           Azumanga Daiou THE ANIMATION
-        label: 2002 Spring
-        label.remove: score
+        label: score,2002 Spring
+        user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 8.0
   278152:
@@ -604,8 +604,8 @@ metadata:
       1:
         title: |-
           Barakamon
-        label: 2014 Summer
-        label.remove: score
+        label: score,2014 Summer
+        user_rating: 8.2
     audience_rating: 8.2
     critic_rating: 8.4
   426262:
@@ -623,8 +623,8 @@ metadata:
       1:
         title: |-
           Bartender: Kami no Glass
-        label: 2024 Spring
-        label.remove: score
+        label: score,2024 Spring
+        user_rating: 6.9
     audience_rating: 6.9
     critic_rating: 7.2
   361013:
@@ -666,8 +666,8 @@ metadata:
       1:
         title: |-
           Beelzebub
-        label: 2011 Winter
-        label.remove: score
+        label: score,2011 Winter
+        user_rating: 7.5
     audience_rating: 7.5
     critic_rating: 7.8
   414845:
@@ -685,8 +685,8 @@ metadata:
       1:
         title: |-
           Benriya Saitou-san, Isekai ni Iku
-        label: 2023 Winter
-        label.remove: score
+        label: score,2023 Winter
+        user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.4
   331753:
@@ -704,8 +704,8 @@ metadata:
       1:
         title: |-
           Black Clover
-        label: 2017 Fall
-        label.remove: score
+        label: score,2017 Fall
+        user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 8.1
   74796:
@@ -736,8 +736,8 @@ metadata:
       1:
         title: |-
           Blue Archive The Animation
-        label: 2024 Spring
-        label.remove: score
+        label: score,2024 Spring
+        user_rating: 7.4
     audience_rating: 7.4
     critic_rating: 6.8
   408629:
@@ -755,8 +755,8 @@ metadata:
       1:
         title: |-
           Blue Lock
-        label: 2022 Fall
-        label.remove: score
+        label: score,2022 Fall
+        user_rating: 8.2
     audience_rating: 8.2
     critic_rating: 8.3
   413522:
@@ -766,7 +766,7 @@ metadata:
       Bocchi the Rock!
     original_title: |-
       Bocchi The Rock!
-    genre.sync: Comedy,Music,Slice of Life,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Hikikomori,Cute Girls Doing Cute Things,Rehabilitation,Surreal Comedy,Seinen,Meta,Slapstick
+    genre.sync: Comedy,Music,Slice of Life,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Hikikomori,Cute Girls Doing Cute Things,Rehabilitation,Surreal Comedy,Seinen,Meta
     label: Ended
     label.remove: Planned,Airing
     studio: CloverWorks
@@ -774,8 +774,8 @@ metadata:
       1:
         title: |-
           Bocchi the Rock!
-        label: 2022 Fall
-        label.remove: score
+        label: score,2022 Fall
+        user_rating: 8.7
     audience_rating: 8.7
     critic_rating: 8.8
   303071:
@@ -793,8 +793,8 @@ metadata:
       1:
         title: |-
           Boku dake ga Inai Machi
-        label: 2016 Winter
-        label.remove: score
+        label: score,2016 Winter
+        user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.3
   305074:
@@ -852,7 +852,7 @@ metadata:
       Boku no Kokoro no Yabai Yatsu
     original_title: |-
       The Dangers in My Heart
-    genre.sync: Comedy,Romance,Slice of Life,Primarily Teen Cast,Coming of Age,Heterosexual,Male Protagonist,School,Female Protagonist,Shounen
+    genre.sync: Comedy,Romance,Slice of Life,Primarily Teen Cast,Coming of Age,Heterosexual,Male Protagonist,School,Female Protagonist,Urban,Iyashikei
     label: Ended
     label.remove: Planned,Airing
     studio: Shin-Ei Animation
@@ -884,8 +884,8 @@ metadata:
       1:
         title: |-
           Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta
-        label: 2023 Fall
-        label.remove: score
+        label: score,2023 Fall
+        user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 6.8
   426530:
@@ -903,8 +903,8 @@ metadata:
       1:
         title: |-
           Boushoku no Berserk
-        label: 2023 Fall
-        label.remove: score
+        label: score,2023 Fall
+        user_rating: 6.7
     audience_rating: 6.7
     critic_rating: 6.7
   426294:
@@ -914,7 +914,7 @@ metadata:
       Buddy Daddies
     original_title: |-
       Buddy Daddies
-    genre.sync: Action,Comedy,Drama,Slice of Life,Family Life,Found Family,Adoption,Crime,Assassins,Male Protagonist,Work,Guns,Urban,Primarily Adult Cast,Heterosexual,Espionage,Tragedy
+    genre.sync: Action,Comedy,Drama,Slice of Life,Family Life,Found Family,Crime,Adoption,Assassins,Male Protagonist,Work,Guns,Urban,Primarily Adult Cast,Heterosexual,Espionage,Tragedy
     label: Ended
     label.remove: Planned,Airing
     studio: P.A. Works
@@ -922,8 +922,8 @@ metadata:
       1:
         title: |-
           Buddy Daddies
-        label: 2023 Winter
-        label.remove: score
+        label: score,2023 Winter
+        user_rating: 8.0
     audience_rating: 8.0
     critic_rating: 8.1
   427359:
@@ -941,8 +941,8 @@ metadata:
       1:
         title: |-
           Bullbuster
-        label: 2023 Fall
-        label.remove: score
+        label: score,2023 Fall
+        user_rating: 5.6
     audience_rating: 5.6
     critic_rating: 6.2
   305075:
@@ -966,13 +966,13 @@ metadata:
         title: |-
           Bungou Stray Dogs 3rd Season
         label: score,2019 Spring
-        user_rating: 8.2
+        user_rating: 8.1
       3:
         title: |-
           Bungou Stray Dogs 4th Season
         label: score,2023 Summer,2023 Winter
         user_rating: 8.4
-    audience_rating: 8.2
+    audience_rating: 8.1
     critic_rating: 8.2
   83316:
     title: |-
@@ -989,8 +989,8 @@ metadata:
       1:
         title: |-
           Casshern Sins
-        label: 2008 Fall
-        label.remove: score
+        label: score,2008 Fall
+        user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.5
   397934:
@@ -1000,7 +1000,7 @@ metadata:
       Chainsaw Man
     original_title: |-
       Chainsaw Man
-    genre.sync: Action,Drama,Horror,Supernatural,Demons,Monster Boy,Urban Fantasy,Male Protagonist,Gore,Body Horror,Tragedy,Urban,Henshin,Shounen,Found Family,Monster Girl,Surreal Comedy,Primarily Adult Cast,Anthropomorphism,Heterosexual,Guns,Assassins
+    genre.sync: Action,Drama,Horror,Supernatural,Demons,Monster Boy,Urban Fantasy,Male Protagonist,Gore,Body Horror,Tragedy,Urban,Shounen,Henshin,Found Family,Monster Girl,Surreal Comedy,Primarily Adult Cast,Anthropomorphism,Heterosexual,Guns,Assassins
     label: Planned
     label.remove: Airing,Ended
     studio: MAPPA
@@ -1008,8 +1008,8 @@ metadata:
       1:
         title: |-
           Chainsaw Man
-        label: 2022 Fall
-        label.remove: score
+        label: score,2022 Fall
+        user_rating: 8.4
     audience_rating: 8.4
     critic_rating: 8.5
   289679:
@@ -1029,8 +1029,8 @@ metadata:
       1:
         title: |-
           Charlotte
-        label: 2015 Summer
-        label.remove: score
+        label: score,2015 Summer
+        user_rating: 7.5
     audience_rating: 7.5
     critic_rating: 7.8
   251982:
@@ -1079,8 +1079,8 @@ metadata:
       1:
         title: |-
           Chikyuugai Shounen Shoujo
-        label: 2022 Winter
-        label.remove: score
+        label: score,2022 Winter
+        user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 6.8
   415440:
@@ -1098,8 +1098,8 @@ metadata:
       1:
         title: |-
           Chiyu Mahou no Machigatta Tsukaikata
-        label: 2024 Winter
-        label.remove: score
+        label: score,2024 Winter
+        user_rating: 7.5
     audience_rating: 7.5
     critic_rating: 7.6
   261862:
@@ -1161,7 +1161,7 @@ metadata:
         title: |-
           Wu Liuqi: Anying Suming
         label: score,2023 Winter
-        user_rating: 8.0
+        user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.1
   80644:
@@ -1205,8 +1205,8 @@ metadata:
       1:
         title: |-
           Claymore
-        label: 2007 Spring
-        label.remove: score
+        label: score,2007 Spring
+        user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.7
   79525:
@@ -1248,8 +1248,8 @@ metadata:
       1:
         title: |-
           Comic Girls
-        label: 2018 Spring
-        label.remove: score
+        label: score,2018 Spring
+        user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.4
   384541:
@@ -1267,8 +1267,8 @@ metadata:
       1:
         title: |-
           Cyberpunk: Edgerunners
-        label: 2022 Summer
-        label.remove: score
+        label: score,2022 Summer
+        user_rating: 8.5
     audience_rating: 8.5
     critic_rating: 8.6
   79635:
@@ -1299,8 +1299,8 @@ metadata:
       1:
         title: |-
           D.Gray-man HALLOW
-        label: 2016 Summer
-        label.remove: score
+        label: score,2016 Summer
+        user_rating: 7.4
     audience_rating: 7.4
     critic_rating: 7.7
   285357:
@@ -1404,8 +1404,8 @@ metadata:
       1:
         title: |-
           Dawang Raoming
-        label: 2021 Fall
-        label.remove: score
+        label: score,2021 Fall
+        user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.5
   427239:
@@ -1423,8 +1423,8 @@ metadata:
       1:
         title: |-
           Dead Mount Death Play
-        label: 2023 Fall,2023 Spring
-        label.remove: score
+        label: score,2023 Fall,2023 Spring
+        user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.4
   378878:
@@ -1442,8 +1442,8 @@ metadata:
       1:
         title: |-
           Deca-Dence
-        label: 2020 Summer
-        label.remove: score
+        label: score,2020 Summer
+        user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.4
   420550:
@@ -1453,7 +1453,7 @@ metadata:
       Dekiru Neko wa Kyou mo Yuuutsu
     original_title: |-
       The Masterful Cat is Depressed Again Today
-    genre.sync: Comedy,Fantasy,Slice of Life,Primarily Adult Cast,Animals,Episodic,Female Protagonist,Office Lady,Iyashikei,Anthropomorphism,Surreal Comedy,Male Protagonist,Food
+    genre.sync: Comedy,Fantasy,Slice of Life,Primarily Adult Cast,Animals,Female Protagonist,Episodic,Office Lady,Anthropomorphism,Iyashikei,Male Protagonist,Food,Surreal Comedy
     label: Ended
     label.remove: Planned,Airing
     studio: GoHands
@@ -1461,8 +1461,8 @@ metadata:
       1:
         title: |-
           Dekiru Neko wa Kyou mo Yuuutsu
-        label: 2023 Summer
-        label.remove: score
+        label: score,2023 Summer
+        user_rating: 7.5
     audience_rating: 7.5
     critic_rating: 7.7
   436378:
@@ -1480,10 +1480,10 @@ metadata:
       1:
         title: |-
           Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita
-        label: 2024 Spring
-        label.remove: score
-    audience_rating: 5.2
-    critic_rating: 5.6
+        label: score,2024 Spring
+        user_rating: 4.9
+    audience_rating: 4.9
+    critic_rating: 5.4
   424530:
     title: |-
       Dekoboko Majo no Oyako Jijou
@@ -1499,9 +1499,9 @@ metadata:
       1:
         title: |-
           Dekoboko Majo no Oyako Jijou
-        label: 2023 Fall
-        label.remove: score
-    audience_rating: 6.4
+        label: score,2023 Fall
+        user_rating: 6.5
+    audience_rating: 6.5
     critic_rating: 6.8
   273005:
     title: |-
@@ -1549,8 +1549,8 @@ metadata:
       1:
         title: |-
           Domestic na Kanojo
-        label: 2019 Winter
-        label.remove: score
+        label: score,2019 Winter
+        user_rating: 6.4
     audience_rating: 6.4
     critic_rating: 6.7
   370761:
@@ -1560,7 +1560,7 @@ metadata:
       Dorohedoro
     original_title: |-
       Dorohedoro
-    genre.sync: Action,Adventure,Comedy,Fantasy,Horror,Mystery,Monster Boy,Full CGI,Amnesia,Magic,CGI,Gore,Surreal Comedy,Seinen,Ensemble Cast,Body Horror,Urban Fantasy,Anthropomorphism,Dystopian,Anti-Hero,Primarily Adult Cast,Demons
+    genre.sync: Action,Adventure,Comedy,Fantasy,Horror,Mystery,Monster Boy,Full CGI,Amnesia,Magic,CGI,Gore,Surreal Comedy,Seinen,Body Horror,Ensemble Cast,Urban Fantasy,Anthropomorphism,Dystopian,Anti-Hero,Primarily Adult Cast,Demons
     label: Planned
     label.remove: Airing,Ended
     studio: MAPPA
@@ -1568,8 +1568,8 @@ metadata:
       1:
         title: |-
           Dorohedoro
-        label: 2020 Winter
-        label.remove: score
+        label: score,2020 Winter
+        user_rating: 7.9
     audience_rating: 7.9
     critic_rating: 8.1
   426410:
@@ -1587,8 +1587,8 @@ metadata:
       1:
         title: |-
           Dosanko Gal wa Namaramenkoi
-        label: 2024 Winter
-        label.remove: score
+        label: score,2024 Winter
+        user_rating: 6.9
     audience_rating: 6.9
     critic_rating: 7.0
   355774:
@@ -1622,27 +1622,6 @@ metadata:
         user_rating: 8.2
     audience_rating: 8.2
     critic_rating: 8.2
-  423688:
-    title: |-
-      Long Zu
-    sort_title: |-
-      Long Zu
-    original_title: |-
-      Dragon Raja -The Blazing Dawn-
-    genre.sync: Action,Drama,Fantasy
-    label: Planned
-    label.remove: Airing,Ended
-    studio: GARDEN
-    seasons:
-      0:
-        label.remove: score
-      1:
-        title: |-
-          Long Zu
-        label: 2022 Summer
-        label.remove: score
-    audience_rating: 6.9
-    critic_rating: 7.1
   423257:
     title: |-
       Dungeon Meshi
@@ -1650,7 +1629,7 @@ metadata:
       Dungeon Meshi
     original_title: |-
       Delicious in Dungeon
-    genre.sync: Adventure,Comedy,Fantasy,Dungeon,Food,Magic,Primarily Adult Cast,Ensemble Cast,Elf,Seinen
+    genre.sync: Adventure,Comedy,Fantasy,Dungeon,Food,Magic,Primarily Adult Cast,Ensemble Cast,Elf
     label: Airing
     label.remove: Planned,Ended
     studio: Trigger
@@ -1658,8 +1637,8 @@ metadata:
       1:
         title: |-
           Dungeon Meshi
-        label: 2024 Winter
-        label.remove: score
+        label: score,2024 Winter
+        user_rating: 7.9
     audience_rating: 7.9
     critic_rating: 8.0
   289882:
@@ -1713,8 +1692,8 @@ metadata:
       1:
         title: |-
           Edomae Elf
-        label: 2023 Spring
-        label.remove: score
+        label: score,2023 Spring
+        user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.3
   410425:
@@ -1732,8 +1711,8 @@ metadata:
       1:
         title: |-
           Eiyuu Kyoushitsu
-        label: 2023 Summer
-        label.remove: score
+        label: score,2023 Summer
+        user_rating: 6.0
     audience_rating: 6.0
     critic_rating: 6.1
   412957:
@@ -1751,8 +1730,8 @@ metadata:
       1:
         title: |-
           Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
-        label: 2023 Winter
-        label.remove: score
+        label: score,2023 Winter
+        user_rating: 6.5
     audience_rating: 6.5
     critic_rating: 6.6
   355480:
@@ -1796,8 +1775,8 @@ metadata:
       1:
         title: |-
           Fate/stay night: Unlimited Blade Works
-        label: 2015 Spring,2014 Fall
-        label.remove: score
+        label: score,2015 Spring,2014 Fall
+        user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.2
   375271:
@@ -1807,7 +1786,7 @@ metadata:
       Fumetsu no Anata e
     original_title: |-
       To Your Eternity
-    genre.sync: Adventure,Drama,Fantasy,Psychological,Supernatural,Shapeshifting,Tragedy,Coming of Age,Rural,Philosophy,Travel,Survival,Ensemble Cast,Body Horror,Agender
+    genre.sync: Adventure,Drama,Fantasy,Psychological,Supernatural,Shapeshifting,Tragedy,Coming of Age,Rural,Philosophy,Travel,Survival,Ensemble Cast,Agender,Body Horror
     label: Planned
     label.remove: Airing,Ended
     studio: Brain's Base
@@ -1831,7 +1810,7 @@ metadata:
       Gekai Elise
     original_title: |-
       Doctor Elise: The Royal Lady with the Lamp
-    genre.sync: Comedy,Fantasy,Romance,Medicine,Female Protagonist,Arranged Marriage,Shoujo,Royal Affairs,Isekai,Work,Age Regression,Ojou-sama,Heterosexual,Foreign,Villainess
+    genre.sync: Comedy,Fantasy,Romance,Medicine,Female Protagonist,Shoujo,Royal Affairs,Arranged Marriage,Isekai,Work,Age Regression,Ojou-sama,Heterosexual,Foreign,Villainess
     label: Ended
     label.remove: Planned,Airing
     studio: Maho Film
@@ -1839,9 +1818,9 @@ metadata:
       1:
         title: |-
           Gekai Elise
-        label: 2024 Winter
-        label.remove: score
-    audience_rating: 7.0
+        label: score,2024 Winter
+        user_rating: 7.1
+    audience_rating: 7.1
     critic_rating: 7.2
   279804:
     title: |-
@@ -1858,8 +1837,8 @@ metadata:
       1:
         title: |-
           Gekkan Shoujo Nozaki-kun
-        label: 2014 Summer
-        label.remove: score
+        label: score,2014 Summer
+        user_rating: 7.7
     audience_rating: 7.7
     critic_rating: 7.8
   389422:
@@ -1877,8 +1856,8 @@ metadata:
       1:
         title: |-
           Genjitsu Shugi Yuusha no Oukoku Saikenki
-        label: 2022 Winter,2021 Summer
-        label.remove: score
+        label: score,2022 Winter,2021 Summer
+        user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.3
   267246:
@@ -1935,8 +1914,8 @@ metadata:
       1:
         title: |-
           Girls und Panzer
-        label: 2012 Fall
-        label.remove: score
+        label: score,2012 Fall
+        user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.5
   355966:
@@ -2062,8 +2041,8 @@ metadata:
       1:
         title: |-
           Grand Blue
-        label: 2018 Summer
-        label.remove: score
+        label: score,2018 Summer
+        user_rating: 8.2
     audience_rating: 8.2
     critic_rating: 8.4
   79071:
@@ -2081,8 +2060,8 @@ metadata:
       1:
         title: |-
           Gto
-        label: 1999 Summer
-        label.remove: score
+        label: score,1999 Summer
+        user_rating: 8.4
     audience_rating: 8.4
     critic_rating: 8.7
   85249:
@@ -2102,8 +2081,8 @@ metadata:
       1:
         title: |-
           Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST
-        label: 2009 Spring
-        label.remove: score
+        label: score,2009 Spring
+        user_rating: 9.0
     audience_rating: 9.0
     critic_rating: 9.1
   303868:
@@ -2123,8 +2102,8 @@ metadata:
       1:
         title: |-
           Hai to Gensou no Grimgar
-        label: 2016 Winter
-        label.remove: score
+        label: score,2016 Winter
+        user_rating: 7.4
     audience_rating: 7.4
     critic_rating: 7.7
   79105:
@@ -2134,7 +2113,7 @@ metadata:
       Haibane Renmei
     original_title: |-
       Haibane Renmei
-    genre.sync: Drama,Fantasy,Mystery,Psychological,Slice of Life,Angels,Philosophy,Female Protagonist,Afterlife,Amnesia,Tragedy,Found Family,Coming of Age,Primarily Female Cast,Suicide,Denpa,Iyashikei,Rural
+    genre.sync: Drama,Fantasy,Mystery,Psychological,Slice of Life,Angels,Philosophy,Female Protagonist,Afterlife,Amnesia,Tragedy,Found Family,Coming of Age,Primarily Female Cast,Iyashikei,Suicide,Denpa,Rural
     label: Ended
     label.remove: Planned,Airing
     studio: Radix
@@ -2142,8 +2121,8 @@ metadata:
       1:
         title: |-
           Haibane Renmei
-        label: 2002 Fall
-        label.remove: score
+        label: score,2002 Fall
+        user_rating: 7.9
     audience_rating: 7.9
     critic_rating: 8.0
   278157:
@@ -2197,8 +2176,8 @@ metadata:
       1:
         title: |-
           Hametsu no Oukoku
-        label: 2023 Fall
-        label.remove: score
+        label: score,2023 Fall
+        user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.3
   435815:
@@ -2216,8 +2195,8 @@ metadata:
       1:
         title: |-
           Hananoi-kun to Koi no Yamai
-        label: 2024 Spring
-        label.remove: score
+        label: score,2024 Spring
+        user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 7.3
   267441:
@@ -2259,8 +2238,8 @@ metadata:
       1:
         title: |-
           Heion Sedai no Idaten-tachi
-        label: 2021 Summer
-        label.remove: score
+        label: score,2021 Summer
+        user_rating: 7.4
     audience_rating: 7.4
     critic_rating: 7.6
   416359:
@@ -2278,8 +2257,8 @@ metadata:
       1:
         title: |-
           Helck
-        label: 2023 Summer
-        label.remove: score
+        label: score,2023 Summer
+        user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.3
   263688:
@@ -2297,9 +2276,9 @@ metadata:
       1:
         title: |-
           Hellsing Ova
-        label: 2006 Winter
-        label.remove: score
-    audience_rating: 8.0
+        label: score,2006 Winter
+        user_rating: 8.1
+    audience_rating: 8.1
     critic_rating: 8.4
   79999:
     title: |-
@@ -2316,8 +2295,8 @@ metadata:
       1:
         title: |-
           Heroic Age
-        label: 2007 Spring
-        label.remove: score
+        label: score,2007 Spring
+        user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.5
   426528:
@@ -2335,8 +2314,8 @@ metadata:
       1:
         title: |-
           Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
-        label: 2023 Summer
-        label.remove: score
+        label: score,2023 Summer
+        user_rating: 6.9
     audience_rating: 6.9
     critic_rating: 7.1
   404525:
@@ -2380,8 +2359,8 @@ metadata:
       1:
         title: |-
           High School Fleet
-        label: 2016 Spring
-        label.remove: score
+        label: score,2016 Spring
+        user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.3
   402607:
@@ -2423,8 +2402,8 @@ metadata:
       1:
         title: |-
           Hikikomari Kyuuketsuki no Monmon
-        label: 2023 Fall
-        label.remove: score
+        label: score,2023 Fall
+        user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.2
   436603:
@@ -2434,7 +2413,7 @@ metadata:
       Hime-sama, "Goumon" no Jikan desu
     original_title: |-
       'Tis Time for "Torture," Princess
-    genre.sync: Comedy,Fantasy,Female Protagonist,Food,Iyashikei,Cute Girls Doing Cute Things,Episodic,Demons,Surreal Comedy,Slapstick,Monster Girl
+    genre.sync: Comedy,Fantasy,Slice of Life,Iyashikei,Female Protagonist,Food,Cute Girls Doing Cute Things,Episodic,Demons,Surreal Comedy,Slapstick,Monster Girl
     label: Planned
     label.remove: Airing,Ended
     studio: PINE JAM
@@ -2442,9 +2421,9 @@ metadata:
       1:
         title: |-
           Hime-sama, "Goumon" no Jikan desu
-        label: 2024 Winter
-        label.remove: score
-    audience_rating: 7.0
+        label: score,2024 Winter
+        user_rating: 7.1
+    audience_rating: 7.1
     critic_rating: 7.3
   293121:
     title: |-
@@ -2489,8 +2468,8 @@ metadata:
       1:
         title: |-
           Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
-        label: 2022 Spring,2020 Spring,2019 Fall
-        label.remove: score
+        label: score,2022 Spring,2020 Spring,2019 Fall
+        user_rating: 7.9
     audience_rating: 7.9
     critic_rating: 8.1
   388593:
@@ -2508,8 +2487,8 @@ metadata:
       1:
         title: |-
           Horimiya
-        label: 2021 Winter
-        label.remove: score
+        label: score,2021 Winter
+        user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.2
   436124:
@@ -2527,8 +2506,8 @@ metadata:
       1:
         title: |-
           Horimiya: piece
-        label: 2023 Summer
-        label.remove: score
+        label: score,2023 Summer
+        user_rating: 8.2
     audience_rating: 8.2
     critic_rating: 8.2
   369141:
@@ -2546,8 +2525,8 @@ metadata:
       1:
         title: |-
           Hoshiai no Sora
-        label: 2019 Fall
-        label.remove: score
+        label: score,2019 Fall
+        user_rating: 7.5
     audience_rating: 7.5
     critic_rating: 7.6
   372361:
@@ -2565,8 +2544,8 @@ metadata:
       1:
         title: |-
           Houkago Teibou Nisshi
-        label: 2020 Spring
-        label.remove: score
+        label: score,2020 Spring
+        user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.4
   331787:
@@ -2584,8 +2563,8 @@ metadata:
       1:
         title: |-
           Houseki no Kuni
-        label: 2017 Fall
-        label.remove: score
+        label: score,2017 Fall
+        user_rating: 8.3
     audience_rating: 8.3
     critic_rating: 8.4
   252322:
@@ -2616,8 +2595,8 @@ metadata:
       1:
         title: |-
           Id: Invaded
-        label: 2020 Winter
-        label.remove: score
+        label: score,2020 Winter
+        user_rating: 7.7
     audience_rating: 7.7
     critic_rating: 7.8
   385278:
@@ -2659,8 +2638,8 @@ metadata:
       1:
         title: |-
           Ima, Soko ni Iru Boku
-        label: 1999 Fall
-        label.remove: score
+        label: score,1999 Fall
+        user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.6
   255133:
@@ -2680,8 +2659,8 @@ metadata:
       1:
         title: |-
           Inu x Boku SS
-        label: 2012 Winter
-        label.remove: score
+        label: score,2012 Winter
+        user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.4
   351751:
@@ -2699,8 +2678,8 @@ metadata:
       1:
         title: |-
           Irozuku Sekai no Ashita kara
-        label: 2018 Fall
-        label.remove: score
+        label: score,2018 Fall
+        user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.5
   423653:
@@ -2718,8 +2697,8 @@ metadata:
       1:
         title: |-
           Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta
-        label: 2023 Spring
-        label.remove: score
+        label: score,2023 Spring
+        user_rating: 6.3
     audience_rating: 6.3
     critic_rating: 6.3
   422186:
@@ -2737,8 +2716,8 @@ metadata:
       1:
         title: |-
           Isekai de Mofumofu Nadenade Suru Tame ni Ganbattemasu.
-        label: 2024 Winter
-        label.remove: score
+        label: score,2024 Winter
+        user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 6.8
   418367:
@@ -2756,8 +2735,8 @@ metadata:
       1:
         title: |-
           Isekai Nonbiri Nouka
-        label: 2023 Winter
-        label.remove: score
+        label: score,2023 Winter
+        user_rating: 7.5
     audience_rating: 7.5
     critic_rating: 7.6
   405214:
@@ -2767,7 +2746,7 @@ metadata:
       Isekai Oji-san
     original_title: |-
       Uncle from Another World
-    genre.sync: Adventure,Comedy,Fantasy,Isekai,Parody,Magic,Meta,Male Protagonist,Seinen,Video Games,Primarily Adult Cast,Elf,Tsundere,Otaku Culture,Surreal Comedy,Memory Manipulation,POV
+    genre.sync: Adventure,Comedy,Fantasy,Isekai,Parody,Magic,Meta,Male Protagonist,Seinen,Video Games,Primarily Adult Cast,Elf,Tsundere,Otaku Culture,Surreal Comedy,POV,Memory Manipulation
     label: Ended
     label.remove: Planned,Airing
     studio: Atelier Pontdarc
@@ -2775,8 +2754,8 @@ metadata:
       1:
         title: |-
           Isekai Oji-san
-        label: 2022 Summer
-        label.remove: score
+        label: score,2022 Summer
+        user_rating: 7.7
     audience_rating: 7.7
     critic_rating: 7.8
   417675:
@@ -2794,8 +2773,8 @@ metadata:
       1:
         title: |-
           Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita
-        label: 2023 Spring
-        label.remove: score
+        label: score,2023 Spring
+        user_rating: 6.0
     audience_rating: 6.0
     critic_rating: 6.3
   411893:
@@ -2813,8 +2792,8 @@ metadata:
       1:
         title: |-
           Isekai Shoukan wa Nidome desu
-        label: 2023 Spring
-        label.remove: score
+        label: score,2023 Spring
+        user_rating: 5.6
     audience_rating: 5.6
     critic_rating: 5.7
   406592:
@@ -2832,8 +2811,8 @@ metadata:
       1:
         title: |-
           Isekai Yakkyoku
-        label: 2022 Summer
-        label.remove: score
+        label: score,2022 Summer
+        user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.3
   431014:
@@ -2851,8 +2830,8 @@ metadata:
       1:
         title: |-
           Ishura
-        label: 2024 Winter
-        label.remove: score
+        label: score,2024 Winter
+        user_rating: 6.3
     audience_rating: 6.3
     critic_rating: 6.6
   373679:
@@ -2894,8 +2873,8 @@ metadata:
       1:
         title: |-
           Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
-        label: 2023 Summer
-        label.remove: score
+        label: score,2023 Summer
+        user_rating: 6.3
     audience_rating: 6.3
     critic_rating: 6.5
   402474:
@@ -2913,8 +2892,8 @@ metadata:
       1:
         title: |-
           Jigokuraku
-        label: 2023 Spring
-        label.remove: score
+        label: score,2023 Spring
+        user_rating: 8.0
     audience_rating: 8.0
     critic_rating: 8.1
   438124:
@@ -2932,8 +2911,8 @@ metadata:
       1:
         title: |-
           Jii-san Baa-san Wakagaeru
-        label: 2024 Spring
-        label.remove: score
+        label: score,2024 Spring
+        user_rating: 6.7
     audience_rating: 6.7
     critic_rating: 7.2
   424414:
@@ -2943,7 +2922,7 @@ metadata:
       Jitsu wa Ore, Saikyou Deshita?
     original_title: |-
       Am I Actually the Strongest?
-    genre.sync: Comedy,Ecchi,Fantasy,Romance,Reincarnation,Magic,Isekai,Kemonomimi,Rehabilitation,Hikikomori,Henshin,Male Protagonist
+    genre.sync: Comedy,Fantasy,Romance,Reincarnation,Magic,Isekai,Kemonomimi,Rehabilitation,Male Protagonist,Hikikomori,Henshin
     label: Ended
     label.remove: Planned,Airing
     studio: Staple Entertainment
@@ -2951,8 +2930,8 @@ metadata:
       1:
         title: |-
           Jitsu wa Ore, Saikyou Deshita?
-        label: 2023 Summer
-        label.remove: score
+        label: score,2023 Summer
+        user_rating: 6.4
     audience_rating: 6.4
     critic_rating: 6.5
   257756:
@@ -2970,8 +2949,8 @@ metadata:
       1:
         title: |-
           Jormungand
-        label: 2012 Fall,2012 Spring
-        label.remove: score
+        label: score,2012 Fall,2012 Spring
+        user_rating: 7.6
     audience_rating: 7.6
     critic_rating: 7.8
   377543:
@@ -3060,7 +3039,7 @@ metadata:
       Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life
     original_title: |-
       Chillin’ in My 30s after Getting Fired from the Demon King’s Army
-    genre.sync: Fantasy,Romance,Slice of Life,Male Protagonist,Magic,Demons,Heterosexual,Rural,Family Life,Found Family,Primarily Adult Cast,Swordplay
+    genre.sync: Fantasy,Romance,Slice of Life,Male Protagonist,Magic,Rural,Demons,Heterosexual,Family Life,Found Family,Primarily Adult Cast,Swordplay,Adoption
     label: Ended
     label.remove: Planned,Airing
     studio: Encourage Films
@@ -3068,8 +3047,8 @@ metadata:
       1:
         title: |-
           Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life
-        label: 2023 Winter
-        label.remove: score
+        label: score,2023 Winter
+        user_rating: 6.9
     audience_rating: 6.9
     critic_rating: 7.0
   339922:
@@ -3087,8 +3066,8 @@ metadata:
       1:
         title: |-
           Kakuriyo no Yadomeshi
-        label: 2018 Spring
-        label.remove: score
+        label: score,2018 Spring
+        user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.5
   376729:
@@ -3106,8 +3085,8 @@ metadata:
       1:
         title: |-
           Kami no Tou: Tower of God
-        label: 2020 Spring
-        label.remove: score
+        label: score,2020 Spring
+        user_rating: 7.4
     audience_rating: 7.4
     critic_rating: 7.6
   414947:
@@ -3117,7 +3096,7 @@ metadata:
       Kami wa Game ni Ueteiru.
     original_title: |-
       Gods' Games We Play
-    genre.sync: Comedy,Drama,Ecchi,Fantasy,Romance
+    genre.sync: Comedy,Drama,Ecchi,Fantasy,Romance,Gods,Male Protagonist,Female Protagonist,Magic,Super Power,Board Game
     label: Airing
     label.remove: Planned,Ended
     studio: LIDENFILMS
@@ -3125,10 +3104,10 @@ metadata:
       1:
         title: |-
           Kami wa Game ni Ueteiru.
-        label: 2024 Spring
-        label.remove: score
+        label: score,2024 Spring
+        user_rating: 6.0
     audience_rating: 6.0
-    critic_rating: 6.4
+    critic_rating: 6.3
   419126:
     title: |-
       Kaminaki Sekai no Kamisama Katsudou
@@ -3144,8 +3123,8 @@ metadata:
       1:
         title: |-
           Kaminaki Sekai no Kamisama Katsudou
-        label: 2023 Spring
-        label.remove: score
+        label: score,2023 Spring
+        user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 6.7
   262106:
@@ -3213,8 +3192,8 @@ metadata:
       1:
         title: |-
           Kamonohashi Ron no Kindan Suiri
-        label: 2023 Fall
-        label.remove: score
+        label: score,2023 Fall
+        user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.4
   132941:
@@ -3232,8 +3211,8 @@ metadata:
       1:
         title: |-
           Katanagatari
-        label: 2010 Winter
-        label.remove: score
+        label: score,2010 Winter
+        user_rating: 8.2
     audience_rating: 8.2
     critic_rating: 8.3
   352853:
@@ -3251,8 +3230,8 @@ metadata:
       1:
         title: |-
           Kaze ga Tsuyoku Fuiteiru
-        label: 2018 Fall
-        label.remove: score
+        label: score,2018 Fall
+        user_rating: 8.3
     audience_rating: 8.3
     critic_rating: 8.4
   390382:
@@ -3270,8 +3249,8 @@ metadata:
       1:
         title: |-
           Kemono Jihen
-        label: 2021 Winter
-        label.remove: score
+        label: score,2021 Winter
+        user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.4
   354602:
@@ -3289,8 +3268,8 @@ metadata:
       1:
         title: |-
           Kenja no Mago
-        label: 2019 Spring
-        label.remove: score
+        label: score,2019 Spring
+        user_rating: 6.4
     audience_rating: 6.4
     critic_rating: 6.6
   80675:
@@ -3300,7 +3279,7 @@ metadata:
       Kidou Senshi Gundam 00
     original_title: |-
       Mobile Suit Gundam 00
-    genre.sync: Action,Drama,Mecha,Sci-Fi,Terrorism,Real Robot,Politics,Military,Ensemble Cast,War,Space
+    genre.sync: Action,Drama,Mecha,Sci-Fi,Terrorism,Real Robot,Politics,Military,War,Ensemble Cast,Space
     label: Ended
     label.remove: Planned,Airing
     studio: Sunrise
@@ -3332,8 +3311,8 @@ metadata:
       1:
         title: |-
           Kidou Senshi Gundam UC
-        label: 2010 Winter
-        label.remove: score
+        label: score,2010 Winter
+        user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 8.1
   418364:
@@ -3351,8 +3330,8 @@ metadata:
       1:
         title: |-
           Kidou Senshi Gundam: Suisei no Majo
-        label: 2023 Spring,2022 Fall
-        label.remove: score
+        label: score,2023 Spring,2022 Fall
+        user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 7.9
   299497:
@@ -3394,8 +3373,8 @@ metadata:
       1:
         title: |-
           Kikansha no Mahou wa Tokubetsu desu
-        label: 2023 Fall
-        label.remove: score
+        label: score,2023 Fall
+        user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.1
   272074:
@@ -3405,7 +3384,7 @@ metadata:
       Kill la Kill
     original_title: |-
       Kill la Kill
-    genre.sync: Action,Comedy,Ecchi,Henshin,Female Protagonist,Revenge,Parody,Nudity,Surreal Comedy,Tomboy,Super Power,Dystopian,Aliens,Coming of Age,Primarily Teen Cast,School,Anti-Hero,Military,Philosophy
+    genre.sync: Action,Comedy,Ecchi,Henshin,Female Protagonist,Revenge,Parody,Nudity,Surreal Comedy,Tomboy,Super Power,Dystopian,Aliens,Coming of Age,Primarily Teen Cast,Anti-Hero,School,Military,Philosophy
     label: Ended
     label.remove: Planned,Airing
     studio: Trigger
@@ -3415,8 +3394,8 @@ metadata:
       1:
         title: |-
           Kill la Kill
-        label: 2013 Fall
-        label.remove: score
+        label: score,2013 Fall
+        user_rating: 7.9
     audience_rating: 7.9
     critic_rating: 8.0
   348545:
@@ -3460,7 +3439,7 @@ metadata:
       Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo
     original_title: |-
       The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You
-    genre.sync: Comedy,Ecchi,Romance,Female Harem,Ensemble Cast,Surreal Comedy,Heterosexual,Primarily Female Cast,Male Protagonist,Parody,Primarily Teen Cast,Polyamorous,Meta,Tsundere,Slapstick,Kuudere,Cute Girls Doing Cute Things,Love Triangle,School,Age Regression,Seinen,Age Gap
+    genre.sync: Comedy,Ecchi,Romance,Female Harem,Ensemble Cast,Surreal Comedy,Heterosexual,Primarily Female Cast,Male Protagonist,Polyamorous,Parody,Primarily Teen Cast,Meta,Tsundere,Slapstick,Cute Girls Doing Cute Things,Kuudere,School,Love Triangle,Age Regression,Seinen,Age Gap
     label: Planned
     label.remove: Airing,Ended
     studio: Bibury Animation Studios
@@ -3468,8 +3447,8 @@ metadata:
       1:
         title: |-
           Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo
-        label: 2023 Fall
-        label.remove: score
+        label: score,2023 Fall
+        user_rating: 7.7
     audience_rating: 7.7
     critic_rating: 7.8
   387027:
@@ -3487,8 +3466,8 @@ metadata:
       1:
         title: |-
           Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen
-        label: 2020 Fall
-        label.remove: score
+        label: score,2020 Fall
+        user_rating: 6.5
     audience_rating: 6.5
     critic_rating: 6.7
   414562:
@@ -3506,8 +3485,8 @@ metadata:
       1:
         title: |-
           Kimi wa Houkago Insomnia
-        label: 2023 Spring
-        label.remove: score
+        label: score,2023 Spring
+        user_rating: 7.9
     audience_rating: 7.9
     critic_rating: 8.1
   259635:
@@ -3546,7 +3525,7 @@ metadata:
         title: |-
           Kingdom 5th Season
         label: score,2024 Winter
-        user_rating: 8.3
+        user_rating: 8.4
     audience_rating: 8.1
     critic_rating: 8.5
   279831:
@@ -3564,8 +3543,8 @@ metadata:
       1:
         title: |-
           Kiseijuu: Sei no Kakuritsu
-        label: 2014 Fall
-        label.remove: score
+        label: score,2014 Fall
+        user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.3
   318893:
@@ -3609,8 +3588,8 @@ metadata:
       1:
         title: |-
           Kono Oto Tomare!
-        label: 2019 Fall,2019 Spring
-        label.remove: score
+        label: score,2019 Fall,2019 Spring
+        user_rating: 8.0
     audience_rating: 8.0
     critic_rating: 8.1
   420657:
@@ -3628,8 +3607,8 @@ metadata:
       1:
         title: |-
           Kono Subarashii Sekai ni Bakuen wo!
-        label: 2023 Spring
-        label.remove: score
+        label: score,2023 Spring
+        user_rating: 7.4
     audience_rating: 7.4
     critic_rating: 7.5
   303867:
@@ -3673,8 +3652,8 @@ metadata:
       1:
         title: |-
           Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu
-        label: 2023 Fall
-        label.remove: score
+        label: score,2023 Fall
+        user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.2
   421514:
@@ -3692,8 +3671,8 @@ metadata:
       1:
         title: |-
           Koori Zokusei Danshi to Cool na Douryou Joshi
-        label: 2023 Winter
-        label.remove: score
+        label: score,2023 Winter
+        user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.3
   413515:
@@ -3711,8 +3690,8 @@ metadata:
       1:
         title: |-
           Koukyuu no Karasu
-        label: 2022 Fall
-        label.remove: score
+        label: score,2022 Fall
+        user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.5
   305082:
@@ -3730,8 +3709,8 @@ metadata:
       1:
         title: |-
           Koutetsujou no Kabaneri
-        label: 2016 Spring
-        label.remove: score
+        label: score,2016 Spring
+        user_rating: 6.9
     audience_rating: 6.9
     critic_rating: 7.3
   409723:
@@ -3749,8 +3728,8 @@ metadata:
       1:
         title: |-
           Kumichou Musume to Sewagakari
-        label: 2022 Summer
-        label.remove: score
+        label: score,2022 Summer
+        user_rating: 7.7
     audience_rating: 7.7
     critic_rating: 7.8
   377902:
@@ -3768,8 +3747,8 @@ metadata:
       1:
         title: |-
           Kumo desu ga, Nani ka?
-        label: 2021 Winter
-        label.remove: score
+        label: score,2021 Winter
+        user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.4
   416588:
@@ -3787,8 +3766,8 @@ metadata:
       1:
         title: |-
           Kuro no Shoukanshi
-        label: 2022 Summer
-        label.remove: score
+        label: score,2022 Summer
+        user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.1
   257765:
@@ -3858,7 +3837,7 @@ metadata:
       Kusuriya no Hitorigoto
     original_title: |-
       The Apothecary Diaries
-    genre.sync: Drama,Mystery,Medicine,Female Protagonist,Historical,Conspiracy,Drugs,Detective,Crime,Politics,Work,Ancient China,Heterosexual,Foreign,Royal Affairs,Primarily Female Cast,Alchemy
+    genre.sync: Drama,Mystery,Medicine,Female Protagonist,Historical,Conspiracy,Politics,Drugs,Detective,Crime,Ancient China,Work,Heterosexual,Royal Affairs,Foreign,Adoption,Primarily Female Cast
     label: Planned
     label.remove: Airing,Ended
     studio: OLM
@@ -3866,8 +3845,8 @@ metadata:
       1:
         title: |-
           Kusuriya no Hitorigoto
-        label: 2023 Fall
-        label.remove: score
+        label: score,2023 Fall
+        user_rating: 8.8
     audience_rating: 8.8
     critic_rating: 8.9
   368565:
@@ -3911,8 +3890,8 @@ metadata:
       1:
         title: |-
           Kyoukai no Kanata
-        label: 2013 Fall
-        label.remove: score
+        label: score,2013 Fall
+        user_rating: 7.4
     audience_rating: 7.4
     critic_rating: 7.7
   431499:
@@ -3930,8 +3909,8 @@ metadata:
       1:
         title: |-
           Kyuujitsu no Warumono-san
-        label: 2024 Winter
-        label.remove: score
+        label: score,2024 Winter
+        user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.3
   419854:
@@ -3949,10 +3928,31 @@ metadata:
       1:
         title: |-
           Level 1 dakedo Unique Skill de Saikyou desu
-        label: 2023 Summer
-        label.remove: score
+        label: score,2023 Summer
+        user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.2
+  423688:
+    title: |-
+      Long Zu
+    sort_title: |-
+      Long Zu
+    original_title: |-
+      Dragon Raja -The Blazing Dawn-
+    genre.sync: Action,Drama,Fantasy
+    label: Planned
+    label.remove: Airing,Ended
+    studio: GARDEN
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          Long Zu
+        label: score,2022 Summer
+        user_rating: 6.9
+    audience_rating: 6.9
+    critic_rating: 7.1
   435005:
     title: |-
       Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru
@@ -3968,8 +3968,8 @@ metadata:
       1:
         title: |-
           Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru
-        label: 2024 Winter
-        label.remove: score
+        label: score,2024 Winter
+        user_rating: 7.5
     audience_rating: 7.5
     critic_rating: 7.5
   418340:
@@ -3987,8 +3987,8 @@ metadata:
       1:
         title: |-
           Lv1 Maou to One Room Yuusha
-        label: 2023 Summer
-        label.remove: score
+        label: score,2023 Summer
+        user_rating: 6.9
     audience_rating: 6.9
     critic_rating: 7.2
   440897:
@@ -4006,8 +4006,10 @@ metadata:
       1:
         title: |-
           Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life
-        label: 2024 Spring
-        label.remove: score
+        label: score,2024 Spring
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 6.9
   414057:
     title: |-
       Lycoris Recoil
@@ -4015,7 +4017,7 @@ metadata:
       Lycoris Recoil
     original_title: |-
       Lycoris Recoil
-    genre.sync: Action,Slice of Life,Female Protagonist,Primarily Female Cast,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Yuri,Orphan,Cute Girls Doing Cute Things,Work,Kuudere,Espionage,LGBTQ+ Themes,Adoption
+    genre.sync: Action,Slice of Life,Female Protagonist,Primarily Female Cast,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Cute Girls Doing Cute Things,Orphan,Work,Kuudere,Espionage,LGBTQ+ Themes,Adoption
     label: Ended
     label.remove: Planned,Airing
     studio: A-1 Pictures
@@ -4023,8 +4025,8 @@ metadata:
       1:
         title: |-
           Lycoris Recoil
-        label: 2022 Summer
-        label.remove: score
+        label: score,2022 Summer
+        user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.2
   363143:
@@ -4068,8 +4070,8 @@ metadata:
       1:
         title: |-
           Macross Frontier
-        label: 2008 Spring
-        label.remove: score
+        label: score,2008 Spring
+        user_rating: 7.6
     audience_rating: 7.6
     critic_rating: 7.9
   326109:
@@ -4135,8 +4137,8 @@ metadata:
       1:
         title: |-
           Mahou Shoujo Magical Destroyers
-        label: 2023 Spring
-        label.remove: score
+        label: score,2023 Spring
+        user_rating: 6.0
     audience_rating: 6.0
     critic_rating: 6.3
   278329:
@@ -4162,13 +4164,13 @@ metadata:
         title: |-
           Mahouka Koukou no Rettousei: Raihousha-hen
         label: score,2020 Fall
-        user_rating: 7.2
+        user_rating: 7.1
       3:
         title: |-
           Mahouka Koukou no Rettousei 3rd Season
         label: score,2024 Spring
         user_rating: 7.3
-    audience_rating: 7.2
+    audience_rating: 7.1
     critic_rating: 7.3
   394013:
     title: |-
@@ -4185,8 +4187,8 @@ metadata:
       1:
         title: |-
           Mahouka Koukou no Yuutousei
-        label: 2021 Summer
-        label.remove: score
+        label: score,2021 Summer
+        user_rating: 6.4
     audience_rating: 6.4
     critic_rating: 6.7
   316842:
@@ -4243,7 +4245,7 @@ metadata:
         label: score,2022 Fall
         user_rating: 7.8
     audience_rating: 7.8
-    critic_rating: 7.9
+    critic_rating: 7.8
   423601:
     title: |-
       Majo to Yajuu
@@ -4251,7 +4253,7 @@ metadata:
       Majo to Yajuu
     original_title: |-
       The Witch and the Beast
-    genre.sync: Action,Adventure,Drama,Fantasy,Primarily Adult Cast,Witch,Seinen,Body Swapping,Gender Bending,Revenge,Urban Fantasy,Magic,Female Protagonist,Gore,Necromancy
+    genre.sync: Action,Adventure,Drama,Fantasy,Primarily Adult Cast,Witch,Seinen,Body Swapping,Gender Bending,Revenge,Magic,Urban Fantasy,Female Protagonist,Gore,Male Protagonist
     label: Ended
     label.remove: Planned,Airing
     studio: Yokohama Animation Lab
@@ -4259,10 +4261,10 @@ metadata:
       1:
         title: |-
           Majo to Yajuu
-        label: 2024 Winter
-        label.remove: score
-    audience_rating: 6.8
-    critic_rating: 7.2
+        label: score,2024 Winter
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.3
   341436:
     title: |-
       Major 2nd
@@ -4326,8 +4328,8 @@ metadata:
       1:
         title: |-
           Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?
-        label: 2024 Spring
-        label.remove: score
+        label: score,2024 Spring
+        user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 7.2
   361709:
@@ -4345,8 +4347,8 @@ metadata:
       1:
         title: |-
           Maou-sama, Retry!
-        label: 2019 Summer
-        label.remove: score
+        label: score,2019 Summer
+        user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.6
   397965:
@@ -4364,8 +4366,8 @@ metadata:
       1:
         title: |-
           Mashiro no Oto
-        label: 2021 Spring
-        label.remove: score
+        label: score,2021 Spring
+        user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.5
   421737:
@@ -4412,7 +4414,7 @@ metadata:
       Metallic Rouge
     original_title: |-
       Metallic Rouge
-    genre.sync: Action,Mystery,Sci-Fi,Robots,Artificial Intelligence,Henshin,Female Protagonist,Cyberpunk,Dystopian,Assassins,Super Power,Fugitive,Crime,Tokusatsu,Space,Tanned Skin
+    genre.sync: Action,Mystery,Sci-Fi,Robots,Henshin,Artificial Intelligence,Cyberpunk,Female Protagonist,Super Power,Assassins,Fugitive,Dystopian,Dissociative Identities,Tanned Skin,Primarily Adult Cast,Memory Manipulation,Martial Arts,Conspiracy,Tokusatsu,Space,Class Struggle,Crime
     label: Ended
     label.remove: Planned,Airing
     studio: bones
@@ -4420,10 +4422,10 @@ metadata:
       1:
         title: |-
           Metallic Rouge
-        label: 2024 Winter
-        label.remove: score
-    audience_rating: 6.2
-    critic_rating: 6.5
+        label: score,2024 Winter
+        user_rating: 6.0
+    audience_rating: 6.0
+    critic_rating: 6.2
   307375:
     title: |-
       Mob Psycho 100
@@ -4468,8 +4470,8 @@ metadata:
       1:
         title: |-
           Momochi-san Chi no Ayakashi Ouji
-        label: 2024 Winter
-        label.remove: score
+        label: score,2024 Winter
+        user_rating: 6.0
     audience_rating: 6.0
     critic_rating: 6.4
   371310:
@@ -4513,8 +4515,8 @@ metadata:
       1:
         title: |-
           Nanatsu no Maken ga Shihai Suru
-        label: 2023 Summer
-        label.remove: score
+        label: score,2023 Summer
+        user_rating: 6.5
     audience_rating: 6.5
     critic_rating: 6.6
   284131:
@@ -4568,8 +4570,8 @@ metadata:
       1:
         title: |-
           Nejimaki Seirei Senki: Tenkyou no Alderamin
-        label: 2016 Summer
-        label.remove: score
+        label: score,2016 Summer
+        user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.6
   332771:
@@ -4589,8 +4591,8 @@ metadata:
       1:
         title: |-
           Net-juu no Susume
-        label: 2017 Fall
-        label.remove: score
+        label: score,2017 Fall
+        user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.5
   309532:
@@ -4636,8 +4638,8 @@ metadata:
       1:
         title: |-
           Nichijou
-        label: 2011 Spring
-        label.remove: score
+        label: score,2011 Spring
+        user_rating: 8.3
     audience_rating: 8.3
     critic_rating: 8.5
   416998:
@@ -4655,8 +4657,8 @@ metadata:
       1:
         title: |-
           NieR:Automata Ver1.1a
-        label: 2023 Winter
-        label.remove: score
+        label: score,2023 Winter
+        user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.5
   415188:
@@ -4674,8 +4676,8 @@ metadata:
       1:
         title: |-
           Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu
-        label: 2023 Winter
-        label.remove: score
+        label: score,2023 Winter
+        user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.3
   275610:
@@ -4696,13 +4698,13 @@ metadata:
         title: |-
           Noragami
         label: score,2014 Winter
-        user_rating: 7.8
+        user_rating: 7.7
       2:
         title: |-
           Noragami ARAGOTO
         label: score,2015 Fall
         user_rating: 8.0
-    audience_rating: 7.9
+    audience_rating: 7.8
     critic_rating: 8.0
   419112:
     title: |-
@@ -4711,7 +4713,7 @@ metadata:
       Nozomanu Fushi no Boukensha
     original_title: |-
       The Unwanted Undead Adventurer
-    genre.sync: Action,Adventure,Fantasy,Dungeon,Reincarnation,Magic,Male Protagonist,Monster Boy,Skeleton,Vampire
+    genre.sync: Action,Adventure,Fantasy,Dungeon,Magic,Reincarnation,Male Protagonist,Monster Boy,Swordplay,Skeleton,Vampire
     label: Ended
     label.remove: Planned,Airing
     studio: CONNECT
@@ -4719,10 +4721,27 @@ metadata:
       1:
         title: |-
           Nozomanu Fushi no Boukensha
-        label: 2024 Winter
-        label.remove: score
+        label: score,2024 Winter
+        user_rating: 7.4
     audience_rating: 7.4
     critic_rating: 7.4
+  437896:
+    title: |-
+      Boukyaku Battery (TV)
+    sort_title: |-
+      Boukyaku Battery (TV)
+    original_title: |-
+      Oblivion Battery
+    genre.sync: Comedy,Sports,Baseball,Amnesia
+    label: Airing
+    label.remove: Planned,Ended
+    studio: MAPPA
+    seasons:
+      1:
+        title: |-
+          Boukyaku Battery (TV)
+        label: score,2024 Spring
+        user_rating: 0
   304493:
     title: |-
       Oji-san to Marshmallow
@@ -4740,8 +4759,8 @@ metadata:
       1:
         title: |-
           Oji-san to Marshmallow
-        label: 2016 Winter
-        label.remove: score
+        label: score,2016 Winter
+        user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.6
   423096:
@@ -4759,8 +4778,8 @@ metadata:
       1:
         title: |-
           Okashi na Tensei
-        label: 2023 Summer
-        label.remove: score
+        label: score,2023 Summer
+        user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 6.7
   81797:
@@ -4770,7 +4789,7 @@ metadata:
       One Piece
     original_title: |-
       One Piece
-    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Pirates,Travel,Shounen,Ensemble Cast,Super Power,Tragedy,Found Family,Male Protagonist,Slapstick,Ships,Conspiracy,Slavery,Time Skip,Fugitive,Politics,Crime,War,Dystopian,Gods,Monster Boy,Lost Civilization,Swordplay,Prison,Medicine,Samurai,Food,Henshin,Shapeshifting,Robots,Cyborg,Artificial Intelligence
+    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Pirates,Shounen,Travel,Ensemble Cast,Super Power,Found Family,Tragedy,Male Protagonist,Slapstick,Ships,Conspiracy,Slavery,Time Skip,Fugitive,Politics,Crime,War,Dystopian,Gods,Monster Boy,Lost Civilization,Swordplay,Prison,Medicine,Samurai,Food,Henshin,Shapeshifting,Robots,Cyborg,Artificial Intelligence
     label: Airing
     label.remove: Planned,Ended
     studio: Toei Animation
@@ -4828,21 +4847,21 @@ metadata:
     critic_rating: 8.2
   417147:
     title: |-
-      Ookami to Koushinryou: merchant meets the wise wolf
+      Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF
     sort_title: |-
-      Ookami to Koushinryou: merchant meets the wise wolf
+      Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF
     original_title: |-
-      Spice and Wolf: merchant meets the wise wolf
-    genre.sync: Adventure,Fantasy,Romance,Economics,Kemonomimi,Rural,Primarily Adult Cast,Work,Heterosexual,Historical,Foreign,Gods,Politics
+      Spice and Wolf: MERCHANT MEETS THE WISE WOLF
+    genre.sync: Adventure,Fantasy,Romance,Economics,Heterosexual,Kemonomimi,Rural,Primarily Adult Cast,Work,Historical,Gods,Foreign,Politics,Nudity
     label: Airing
     label.remove: Planned,Ended
     studio: Passione
     seasons:
       1:
         title: |-
-          Ookami to Koushinryou: merchant meets the wise wolf
-        label: 2024 Spring
-        label.remove: score
+          Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF
+        label: score,2024 Spring
+        user_rating: 7.9
     audience_rating: 7.9
     critic_rating: 8.3
   414908:
@@ -4862,8 +4881,8 @@ metadata:
       1:
         title: |-
           Ooyukiumi no Kaina
-        label: 2023 Winter
-        label.remove: score
+        label: score,2023 Winter
+        user_rating: 6.4
     audience_rating: 6.4
     critic_rating: 6.7
   389597:
@@ -4873,7 +4892,7 @@ metadata:
       Ore dake Level Up na Ken
     original_title: |-
       Solo Leveling
-    genre.sync: Action,Adventure,Fantasy,Dungeon,Male Protagonist,Urban Fantasy,Super Power,Magic,Necromancy,Cultivation,War,Anti-Hero,Cosmic Horror,Gore
+    genre.sync: Action,Adventure,Fantasy,Dungeon,Male Protagonist,Urban Fantasy,Super Power,Magic,Necromancy,Cultivation,War,Anti-Hero,Cosmic Horror,Gore,Tragedy
     label: Planned
     label.remove: Airing,Ended
     studio: A-1 Pictures
@@ -4881,10 +4900,10 @@ metadata:
       1:
         title: |-
           Ore dake Level Up na Ken
-        label: 2024 Winter
-        label.remove: score
+        label: score,2024 Winter
+        user_rating: 8.3
     audience_rating: 8.3
-    critic_rating: 8.4
+    critic_rating: 8.3
   433034:
     title: |-
       Oroka na Tenshi wa Akuma to Odoru
@@ -4892,7 +4911,7 @@ metadata:
       Oroka na Tenshi wa Akuma to Odoru
     original_title: |-
       The Foolish Angel Dances with the Devil
-    genre.sync: Comedy,Romance,Supernatural,Demons,Angels,Heterosexual,School,Seinen
+    genre.sync: Comedy,Romance,Supernatural,Demons,Angels,Female Protagonist,Male Protagonist,Heterosexual,School,Seinen
     label: Ended
     label.remove: Planned,Airing
     studio: Children's Playground Entertainment
@@ -4900,9 +4919,9 @@ metadata:
       1:
         title: |-
           Oroka na Tenshi wa Akuma to Odoru
-        label: 2024 Winter
-        label.remove: score
-    audience_rating: 6.6
+        label: score,2024 Winter
+        user_rating: 6.7
+    audience_rating: 6.7
     critic_rating: 6.9
   412826:
     title: |-
@@ -4919,8 +4938,8 @@ metadata:
       1:
         title: |-
           Otomege Sekai wa Mob ni Kibishii Sekai desu
-        label: 2022 Spring
-        label.remove: score
+        label: score,2022 Spring
+        user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.3
   419490:
@@ -4938,8 +4957,8 @@ metadata:
       1:
         title: |-
           Otonari ni Ginga
-        label: 2023 Spring
-        label.remove: score
+        label: score,2023 Spring
+        user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.1
   414221:
@@ -4957,8 +4976,8 @@ metadata:
       1:
         title: |-
           Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken
-        label: 2023 Winter
-        label.remove: score
+        label: score,2023 Winter
+        user_rating: 7.7
     audience_rating: 7.7
     critic_rating: 7.8
   391625:
@@ -4976,8 +4995,8 @@ metadata:
       1:
         title: |-
           Ousama Ranking
-        label: 2021 Fall
-        label.remove: score
+        label: score,2021 Fall
+        user_rating: 8.4
     audience_rating: 8.4
     critic_rating: 8.5
   432080:
@@ -4995,8 +5014,8 @@ metadata:
       1:
         title: |-
           Ousama Ranking: Yuuki no Takarabako
-        label: 2023 Spring
-        label.remove: score
+        label: score,2023 Spring
+        user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.3
   294002:
@@ -5050,8 +5069,8 @@ metadata:
       1:
         title: |-
           Overtake!
-        label: 2023 Fall
-        label.remove: score
+        label: score,2023 Fall
+        user_rating: 7.4
     audience_rating: 7.4
     critic_rating: 7.5
   289906:
@@ -5069,8 +5088,8 @@ metadata:
       1:
         title: |-
           Owari no Seraph
-        label: 2015 Fall,2015 Spring
-        label.remove: score
+        label: score,2015 Fall,2015 Spring
+        user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.6
   412580:
@@ -5088,8 +5107,8 @@ metadata:
       1:
         title: |-
           Paripi Koumei
-        label: 2022 Spring
-        label.remove: score
+        label: score,2022 Spring
+        user_rating: 8.0
     audience_rating: 8.0
     critic_rating: 8.1
   75796:
@@ -5109,8 +5128,8 @@ metadata:
       1:
         title: |-
           Planetes
-        label: 2003 Fall
-        label.remove: score
+        label: score,2003 Fall
+        user_rating: 7.9
     audience_rating: 7.9
     critic_rating: 8.3
   291627:
@@ -5128,8 +5147,8 @@ metadata:
       1:
         title: |-
           Plastic Memories
-        label: 2015 Spring
-        label.remove: score
+        label: score,2015 Spring
+        user_rating: 7.7
     audience_rating: 7.7
     critic_rating: 7.9
   431093:
@@ -5147,8 +5166,8 @@ metadata:
       1:
         title: |-
           Pluto
-        label: 2023 Fall
-        label.remove: score
+        label: score,2023 Fall
+        user_rating: 8.4
     audience_rating: 8.4
     critic_rating: 8.5
   431495:
@@ -5166,8 +5185,8 @@ metadata:
       1:
         title: |-
           Potion-danomi de Ikinobimasu!
-        label: 2023 Fall
-        label.remove: score
+        label: score,2023 Fall
+        user_rating: 6.3
     audience_rating: 6.3
     critic_rating: 6.5
   262090:
@@ -5284,8 +5303,8 @@ metadata:
       1:
         title: |-
           Ragna Crimson
-        label: 2023 Fall
-        label.remove: score
+        label: score,2023 Fall
+        user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.6
   299506:
@@ -5303,8 +5322,8 @@ metadata:
       1:
         title: |-
           Rakudai Kishi no Cavalry
-        label: 2015 Fall
-        label.remove: score
+        label: score,2015 Fall
+        user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.4
   439755:
@@ -5314,7 +5333,7 @@ metadata:
       Re:Monster
     original_title: |-
       Re:Monster
-    genre.sync: Action,Adventure,Fantasy,Isekai,Goblin
+    genre.sync: Action,Adventure,Fantasy,Isekai
     label: Airing
     label.remove: Planned,Ended
     studio: Studio DEEN
@@ -5322,10 +5341,10 @@ metadata:
       1:
         title: |-
           Re:Monster
-        label: 2024 Spring
-        label.remove: score
-    audience_rating: 6.6
-    critic_rating: 7.1
+        label: score,2024 Spring
+        user_rating: 6.9
+    audience_rating: 6.9
+    critic_rating: 7.3
   305089:
     title: |-
       Re:Zero kara Hajimeru Isekai Seikatsu
@@ -5369,10 +5388,27 @@ metadata:
       1:
         title: |-
           ReLIFE
-        label: 2016 Summer
-        label.remove: score
+        label: score,2016 Summer
+        user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 8.0
+  432838:
+    title: |-
+      Rinkai!
+    sort_title: |-
+      Rinkai!
+    original_title: |-
+      Rinkai!
+    genre.sync: Sports,Cycling,Female Protagonist
+    label: Airing
+    label.remove: Planned,Ended
+    studio: TMS Entertainment
+    seasons:
+      1:
+        title: |-
+          Rinkai!
+        label: score,2024 Spring
+        user_rating: 0
   423787:
     title: |-
       Romantic Killer
@@ -5388,8 +5424,8 @@ metadata:
       1:
         title: |-
           Romantic Killer
-        label: 2022 Fall
-        label.remove: score
+        label: score,2022 Fall
+        user_rating: 8.0
     audience_rating: 8.0
     critic_rating: 8.0
   413578:
@@ -5407,8 +5443,8 @@ metadata:
       1:
         title: |-
           Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
-        label: 2023 Summer
-        label.remove: score
+        label: score,2023 Summer
+        user_rating: 7.4
     audience_rating: 7.4
     critic_rating: 7.6
   432613:
@@ -5426,8 +5462,8 @@ metadata:
       1:
         title: |-
           Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega
-        label: 2023 Summer
-        label.remove: score
+        label: score,2023 Summer
+        user_rating: 6.1
     audience_rating: 6.1
     critic_rating: 6.4
   398387:
@@ -5445,8 +5481,8 @@ metadata:
       1:
         title: |-
           Sabikui Bisco
-        label: 2022 Winter
-        label.remove: score
+        label: score,2022 Winter
+        user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.2
   401915:
@@ -5480,7 +5516,7 @@ metadata:
       Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.
     original_title: |-
       The Weakest Tamer Began a Journey to Pick Up Trash
-    genre.sync: Adventure,Fantasy,Homeless,Female Protagonist,Travel,Rural,Magic,Iyashikei
+    genre.sync: Adventure,Fantasy,Homeless,Female Protagonist,Travel,Rural,Magic,Iyashikei,Crossdressing
     label: Ended
     label.remove: Planned,Airing
     studio: Studio Massket
@@ -5488,8 +5524,8 @@ metadata:
       1:
         title: |-
           Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.
-        label: 2024 Winter
-        label.remove: score
+        label: score,2024 Winter
+        user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.6
   313435:
@@ -5533,8 +5569,8 @@ metadata:
       1:
         title: |-
           Saikyou Onmyouji no Isekai Tenseiki
-        label: 2023 Winter
-        label.remove: score
+        label: score,2023 Winter
+        user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.2
   440481:
@@ -5552,8 +5588,8 @@ metadata:
       1:
         title: |-
           Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou Sareru
-        label: 2024 Winter
-        label.remove: score
+        label: score,2024 Winter
+        user_rating: 5.9
     audience_rating: 5.9
     critic_rating: 6.1
   262114:
@@ -5571,8 +5607,8 @@ metadata:
       1:
         title: |-
           Sakurasou no Pet na Kanojo
-        label: 2012 Fall
-        label.remove: score
+        label: score,2012 Fall
+        user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 8.1
   79089:
@@ -5582,7 +5618,7 @@ metadata:
       Samurai Champloo
     original_title: |-
       Samurai Champloo
-    genre.sync: Action,Adventure,Comedy,Travel,Swordplay,Samurai,Rural,Historical,Martial Arts,Anachronism,Episodic,Male Protagonist,Anti-Hero,Primarily Adult Cast,Female Protagonist,Prostitution,Noir,Assassins
+    genre.sync: Action,Adventure,Comedy,Travel,Swordplay,Samurai,Rural,Historical,Martial Arts,Anachronism,Episodic,Anti-Hero,Male Protagonist,Primarily Adult Cast,Female Protagonist,Prostitution,Noir,Assassins
     label: Ended
     label.remove: Planned,Airing
     studio: Manglobe
@@ -5605,8 +5641,8 @@ metadata:
       1:
         title: |-
           Sankarea
-        label: 2012 Spring
-        label.remove: score
+        label: score,2012 Spring
+        user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.3
   422728:
@@ -5616,7 +5652,7 @@ metadata:
       Sasaki to Pii-chan
     original_title: |-
       Sasaki and Peeps
-    genre.sync: Comedy,Fantasy,Mahou Shoujo,Economics,Isekai,Urban Fantasy,Male Protagonist,Work,Magic,Animals,Crossover,Super Power,Police,Reincarnation,Age Gap
+    genre.sync: Comedy,Fantasy,Economics,Isekai,Urban Fantasy,Male Protagonist,Work,Magic,Animals,Crossover,Super Power,Police,Reincarnation,Age Gap
     label: Planned
     label.remove: Airing,Ended
     studio: SILVER LINK.
@@ -5624,10 +5660,10 @@ metadata:
       1:
         title: |-
           Sasaki to Pii-chan
-        label: 2024 Winter
-        label.remove: score
+        label: score,2024 Winter
+        user_rating: 6.6
     audience_rating: 6.6
-    critic_rating: 6.9
+    critic_rating: 6.8
   425756:
     title: |-
       Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
@@ -5635,7 +5671,7 @@ metadata:
       Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
     original_title: |-
       The Great Cleric
-    genre.sync: Adventure,Comedy,Fantasy,Magic,Isekai,Medicine,Work,Time Skip,Nekomimi,Cultivation,Martial Arts,Reincarnation,Tsundere,Male Protagonist
+    genre.sync: Adventure,Comedy,Fantasy,Magic,Nekomimi,Work,Time Skip,Isekai,Medicine,Tsundere,Cultivation,Martial Arts,Reincarnation,Dungeon,Anthropomorphism,Slavery,Male Protagonist
     label: Ended
     label.remove: Planned,Airing
     studio: CLOUDHEARTS
@@ -5643,8 +5679,8 @@ metadata:
       1:
         title: |-
           Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
-        label: 2023 Summer
-        label.remove: score
+        label: score,2023 Summer
+        user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.1
   397831:
@@ -5686,8 +5722,8 @@ metadata:
       1:
         title: |-
           Seiken Gakuin no Maken Tsukai
-        label: 2023 Fall
-        label.remove: score
+        label: score,2023 Fall
+        user_rating: 6.1
     audience_rating: 6.1
     critic_rating: 6.2
   345596:
@@ -5705,8 +5741,8 @@ metadata:
       1:
         title: |-
           Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
-        label: 2018 Fall
-        label.remove: score
+        label: score,2018 Fall
+        user_rating: 8.0
     audience_rating: 8.0
     critic_rating: 8.2
   173271:
@@ -5750,8 +5786,8 @@ metadata:
       1:
         title: |-
           Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru
-        label: 2021 Fall
-        label.remove: score
+        label: score,2021 Fall
+        user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.3
   438151:
@@ -5762,17 +5798,17 @@ metadata:
     original_title: |-
       Sengoku Youko
     genre.sync: Action,Adventure,Fantasy,Shounen,Demons,Samurai,Tragedy,Female Protagonist,Magic,Dissociative Identities,Shapeshifting,Ensemble Cast,Kemonomimi,Male Protagonist
-    label: Ended
-    label.remove: Planned,Airing
+    label: Planned
+    label.remove: Airing,Ended
     studio: White Fox
     seasons:
       1:
         title: |-
           Sengoku Youko
-        label: 2024 Winter
-        label.remove: score
-    audience_rating: 6.5
-    critic_rating: 6.7
+        label: score,2024 Winter
+        user_rating: 6.9
+    audience_rating: 6.9
+    critic_rating: 7.0
   401874:
     title: |-
       Senpai ga Uzai Kouhai no Hanashi
@@ -5788,8 +5824,8 @@ metadata:
       1:
         title: |-
           Senpai ga Uzai Kouhai no Hanashi
-        label: 2021 Fall
-        label.remove: score
+        label: score,2021 Fall
+        user_rating: 7.5
     audience_rating: 7.5
     critic_rating: 7.6
   428030:
@@ -5807,8 +5843,8 @@ metadata:
       1:
         title: |-
           Sentai Daishikkaku
-        label: 2024 Spring
-        label.remove: score
+        label: score,2024 Spring
+        user_rating: 6.0
     audience_rating: 6.0
     critic_rating: 7.3
   396876:
@@ -5842,7 +5878,7 @@ metadata:
       Shangri-La Frontier
     original_title: |-
       Shangri-La Frontier
-    genre.sync: Action,Adventure,Comedy,Fantasy,Sci-Fi,Video Games,Virtual World,Male Protagonist,Otaku Culture,Anthropomorphism,Animals,Swordplay,Primarily Teen Cast
+    genre.sync: Action,Adventure,Comedy,Fantasy,Sci-Fi,Video Games,Virtual World,Male Protagonist,Otaku Culture,Anthropomorphism,Animals,Swordplay,Primarily Teen Cast,Slapstick
     label: Planned
     label.remove: Airing,Ended
     studio: C2C
@@ -5850,8 +5886,8 @@ metadata:
       1:
         title: |-
           Shangri-La Frontier
-        label: 2023 Fall
-        label.remove: score
+        label: score,2023 Fall
+        user_rating: 8.0
     audience_rating: 8.0
     critic_rating: 8.1
   279830:
@@ -5861,7 +5897,7 @@ metadata:
       Shigatsu wa Kimi no Uso
     original_title: |-
       Your lie in April
-    genre.sync: Drama,Music,Romance,Slice of Life,Tragedy,Disability,Coming of Age,Primarily Teen Cast,Rehabilitation,Male Protagonist,Female Protagonist,Love Triangle,Heterosexual,School
+    genre.sync: Drama,Music,Romance,Slice of Life,Tragedy,Disability,Primarily Teen Cast,Coming of Age,Rehabilitation,Male Protagonist,Female Protagonist,Love Triangle,Heterosexual,School
     label: Ended
     label.remove: Planned,Airing
     studio: A-1 Pictures
@@ -5871,8 +5907,8 @@ metadata:
       1:
         title: |-
           Shigatsu wa Kimi no Uso
-        label: 2014 Fall
-        label.remove: score
+        label: score,2014 Fall
+        user_rating: 8.4
     audience_rating: 8.4
     critic_rating: 8.6
   402033:
@@ -5917,7 +5953,7 @@ metadata:
         title: |-
           Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita
         label: score,2021 Fall
-        user_rating: 6.9
+        user_rating: 6.8
       2:
         title: |-
           Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd
@@ -5974,8 +6010,8 @@ metadata:
       1:
         title: |-
           Shiro Seijo to Kuro Bokushi
-        label: 2023 Summer
-        label.remove: score
+        label: score,2023 Summer
+        user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.4
   284564:
@@ -5995,9 +6031,9 @@ metadata:
       1:
         title: |-
           Shirobako
-        label: 2014 Fall
-        label.remove: score
-    audience_rating: 8.1
+        label: score,2014 Fall
+        user_rating: 8.2
+    audience_rating: 8.2
     critic_rating: 8.3
   402640:
     title: |-
@@ -6014,8 +6050,8 @@ metadata:
       1:
         title: |-
           Shokei Shoujo no Virgin Road
-        label: 2022 Spring
-        label.remove: score
+        label: score,2022 Spring
+        user_rating: 6.7
     audience_rating: 6.7
     critic_rating: 6.8
   332983:
@@ -6033,8 +6069,8 @@ metadata:
       1:
         title: |-
           Shoujo Shuumatsu Ryokou
-        label: 2017 Fall
-        label.remove: score
+        label: score,2017 Fall
+        user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.2
   304316:
@@ -6070,7 +6106,7 @@ metadata:
       Shuumatsu Train Doko e Iku?
     original_title: |-
       Train to the End of the World
-    genre.sync: Adventure,Comedy,Sci-Fi,Trains,Female Protagonist,Primarily Female Cast,Travel,Post-Apocalyptic,Rural
+    genre.sync: Adventure,Comedy,Sci-Fi,Post-Apocalyptic,Trains,Female Protagonist,Primarily Female Cast,Travel,Rural,Surreal Comedy
     label: Airing
     label.remove: Planned,Ended
     studio: EMT Squared
@@ -6078,10 +6114,10 @@ metadata:
       1:
         title: |-
           Shuumatsu Train Doko e Iku?
-        label: 2024 Spring
-        label.remove: score
-    audience_rating: 6.7
-    critic_rating: 7.1
+        label: score,2024 Spring
+        user_rating: 7.0
+    audience_rating: 7.0
+    critic_rating: 7.3
   425474:
     title: |-
       Shy
@@ -6097,8 +6133,8 @@ metadata:
       1:
         title: |-
           Shy
-        label: 2023 Fall
-        label.remove: score
+        label: score,2023 Fall
+        user_rating: 6.7
     audience_rating: 6.7
     critic_rating: 6.7
   278154:
@@ -6140,8 +6176,8 @@ metadata:
       1:
         title: |-
           Skip to Loafer
-        label: 2023 Spring
-        label.remove: score
+        label: score,2023 Spring
+        user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.1
   427883:
@@ -6159,8 +6195,8 @@ metadata:
       1:
         title: |-
           Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.
-        label: 2024 Winter
-        label.remove: score
+        label: score,2024 Winter
+        user_rating: 6.3
     audience_rating: 6.3
     critic_rating: 6.4
   401233:
@@ -6178,8 +6214,8 @@ metadata:
       1:
         title: |-
           Sono Bisque Doll wa Koi wo Suru
-        label: 2022 Winter
-        label.remove: score
+        label: score,2022 Winter
+        user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.2
   424536:
@@ -6189,7 +6225,7 @@ metadata:
       Sousou no Frieren
     original_title: |-
       Frieren: Beyond Journey’s End
-    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Female Protagonist,Elf,Philosophy,Time Skip,Coming of Age,Kuudere,Iyashikei,Demons,Environmental
+    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Female Protagonist,Philosophy,Time Skip,Coming of Age,Kuudere,Iyashikei,Demons,Environmental
     label: Ended
     label.remove: Planned,Airing
     studio: MADHOUSE
@@ -6197,8 +6233,8 @@ metadata:
       1:
         title: |-
           Sousou no Frieren
-        label: 2023 Fall
-        label.remove: score
+        label: score,2023 Fall
+        user_rating: 9.2
     audience_rating: 9.2
     critic_rating: 9.4
   405920:
@@ -6242,8 +6278,8 @@ metadata:
       1:
         title: |-
           Steins;Gate
-        label: 2011 Spring
-        label.remove: score
+        label: score,2011 Spring
+        user_rating: 8.9
     audience_rating: 8.9
     critic_rating: 9.1
   339268:
@@ -6253,7 +6289,7 @@ metadata:
       Steins;Gate 0
     original_title: |-
       Steins;Gate 0
-    genre.sync: Drama,Psychological,Sci-Fi,Thriller,Alternate Universe,War,Time Manipulation,Artificial Intelligence,Tragedy,Dystopian,Dissociative Identities,Post-Apocalyptic,Urban,Time Skip,Male Protagonist,Philosophy,Amnesia,Age Regression
+    genre.sync: Drama,Psychological,Sci-Fi,Thriller,Alternate Universe,War,Time Manipulation,Artificial Intelligence,Tragedy,Dystopian,Dissociative Identities,Post-Apocalyptic,Urban,Time Skip,Age Regression,Male Protagonist,Philosophy,Amnesia
     label: Ended
     label.remove: Planned,Airing
     studio: White Fox
@@ -6263,8 +6299,8 @@ metadata:
       1:
         title: |-
           Steins;Gate 0
-        label: 2018 Spring
-        label.remove: score
+        label: score,2018 Spring
+        user_rating: 8.4
     audience_rating: 8.4
     critic_rating: 8.5
   267432:
@@ -6284,8 +6320,8 @@ metadata:
       1:
         title: |-
           Suisei no Gargantia
-        label: 2013 Spring
-        label.remove: score
+        label: score,2013 Spring
+        user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.4
   407306:
@@ -6303,8 +6339,8 @@ metadata:
       1:
         title: |-
           Summer Time Render
-        label: 2022 Spring
-        label.remove: score
+        label: score,2022 Spring
+        user_rating: 8.3
     audience_rating: 8.3
     critic_rating: 8.5
   259640:
@@ -6358,10 +6394,29 @@ metadata:
       1:
         title: |-
           SYNDUALITY Noir
-        label: 2024 Winter,2023 Summer
-        label.remove: score
+        label: score,2024 Winter,2023 Summer
+        user_rating: 6.7
     audience_rating: 6.7
     critic_rating: 6.9
+  440215:
+    title: |-
+      Tadaima, Okaeri
+    sort_title: |-
+      Tadaima, Okaeri
+    original_title: |-
+      Tadaima, Okaeri
+    genre.sync: Drama,Romance,Slice of Life,Boys' Love,Omegaverse,Family Life,Primarily Male Cast
+    label: Airing
+    label.remove: Planned,Ended
+    studio: Studio DEEN
+    seasons:
+      1:
+        title: |-
+          Tadaima, Okaeri
+        label: score,2024 Spring
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 7.1
   305104:
     title: |-
       Tanaka-kun wa Itsumo Kedaruge
@@ -6377,8 +6432,8 @@ metadata:
       1:
         title: |-
           Tanaka-kun wa Itsumo Kedaruge
-        label: 2016 Spring
-        label.remove: score
+        label: score,2016 Spring
+        user_rating: 7.7
     audience_rating: 7.7
     critic_rating: 7.8
   353712:
@@ -6425,8 +6480,8 @@ metadata:
       1:
         title: |-
           Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story
-        label: 2023 Fall
-        label.remove: score
+        label: score,2023 Fall
+        user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.2
   80096:
@@ -6444,8 +6499,8 @@ metadata:
       1:
         title: |-
           Tengen Toppa Gurren Lagann
-        label: 2007 Spring
-        label.remove: score
+        label: score,2007 Spring
+        user_rating: 8.5
     audience_rating: 8.5
     critic_rating: 8.6
   426165:
@@ -6463,8 +6518,8 @@ metadata:
       1:
         title: |-
           Tengoku Daimakyou
-        label: 2023 Spring
-        label.remove: score
+        label: score,2023 Spring
+        user_rating: 8.2
     audience_rating: 8.2
     critic_rating: 8.2
   77248:
@@ -6482,8 +6537,8 @@ metadata:
       1:
         title: |-
           Tenkuu no Escaflowne
-        label: 1996 Spring
-        label.remove: score
+        label: score,1996 Spring
+        user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.7
   400961:
@@ -6501,8 +6556,8 @@ metadata:
       1:
         title: |-
           Tensai Ouji no Akaji Kokka Saisei Jutsu
-        label: 2022 Winter
-        label.remove: score
+        label: score,2022 Winter
+        user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.4
   423094:
@@ -6520,8 +6575,8 @@ metadata:
       1:
         title: |-
           Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito
-        label: 2023 Spring
-        label.remove: score
+        label: score,2023 Spring
+        user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 6.7
   434704:
@@ -6539,8 +6594,8 @@ metadata:
       1:
         title: |-
           Tensei Kizoku, Kantei Skill de Nariagaru
-        label: 2024 Spring
-        label.remove: score
+        label: score,2024 Spring
+        user_rating: 6.7
     audience_rating: 6.7
     critic_rating: 7.1
   423362:
@@ -6550,7 +6605,7 @@ metadata:
       Tensei Oujo to Tensai Reijou no Mahou Kakumei
     original_title: |-
       The Magical Revolution of the Reincarnated Princess and the Genius Young Lady
-    genre.sync: Fantasy,Romance,Female Protagonist,Magic,Yuri,Primarily Female Cast,Politics,Conspiracy,LGBTQ+ Themes,Royal Affairs
+    genre.sync: Fantasy,Romance,Female Protagonist,Magic,Yuri,Primarily Female Cast,Politics,Conspiracy,LGBTQ+ Themes
     label: Ended
     label.remove: Planned,Airing
     studio: diomedéa
@@ -6558,8 +6613,8 @@ metadata:
       1:
         title: |-
           Tensei Oujo to Tensai Reijou no Mahou Kakumei
-        label: 2023 Winter
-        label.remove: score
+        label: score,2023 Winter
+        user_rating: 7.5
     audience_rating: 7.5
     critic_rating: 7.5
   426834:
@@ -6569,7 +6624,7 @@ metadata:
       Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu
     original_title: |-
       I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
-    genre.sync: Adventure,Fantasy,Slice of Life,Magic,Reincarnation,Angels
+    genre.sync: Adventure,Fantasy,Slice of Life,Magic,Reincarnation,Femboy,Angels
     label: Airing
     label.remove: Planned,Ended
     studio: Tsumugi Akita Anime Lab
@@ -6577,9 +6632,9 @@ metadata:
       1:
         title: |-
           Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu
-        label: 2024 Spring
-        label.remove: score
-    audience_rating: 6.8
+        label: score,2024 Spring
+        user_rating: 6.7
+    audience_rating: 6.7
     critic_rating: 6.9
   410378:
     title: |-
@@ -6596,8 +6651,8 @@ metadata:
       1:
         title: |-
           Tensei Shitara Ken Deshita
-        label: 2022 Fall
-        label.remove: score
+        label: score,2022 Fall
+        user_rating: 7.4
     audience_rating: 7.4
     critic_rating: 7.5
   352408:
@@ -6646,8 +6701,8 @@ metadata:
       1:
         title: |-
           Tensei Shitara Slime Datta Ken: Tensura Nikki
-        label: 2021 Spring
-        label.remove: score
+        label: score,2021 Spring
+        user_rating: 7.4
     audience_rating: 7.4
     critic_rating: 7.6
   378556:
@@ -6665,8 +6720,8 @@ metadata:
       1:
         title: |-
           The God Of High School
-        label: 2020 Summer
-        label.remove: score
+        label: score,2020 Summer
+        user_rating: 6.9
     audience_rating: 6.9
     critic_rating: 7.1
   388672:
@@ -6737,8 +6792,8 @@ metadata:
       1:
         title: |-
           Tokyo Ravens
-        label: 2013 Fall
-        label.remove: score
+        label: score,2013 Fall
+        user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.4
   393478:
@@ -6785,8 +6840,8 @@ metadata:
       1:
         title: |-
           Tomo-chan wa Onnanoko!
-        label: 2023 Winter
-        label.remove: score
+        label: score,2023 Winter
+        user_rating: 7.7
     audience_rating: 7.7
     critic_rating: 7.8
   262107:
@@ -6804,8 +6859,8 @@ metadata:
       1:
         title: |-
           Tonari no Kaibutsu-kun
-        label: 2012 Fall
-        label.remove: score
+        label: score,2012 Fall
+        user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.5
   426572:
@@ -6823,8 +6878,8 @@ metadata:
       1:
         title: |-
           Tondemo Skill de Isekai Hourou Meshi
-        label: 2023 Winter
-        label.remove: score
+        label: score,2023 Winter
+        user_rating: 7.6
     audience_rating: 7.6
     critic_rating: 7.7
   385077:
@@ -6870,8 +6925,8 @@ metadata:
       1:
         title: |-
           Toradora!
-        label: 2008 Fall
-        label.remove: score
+        label: score,2008 Fall
+        user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 8.1
   421378:
@@ -6889,8 +6944,8 @@ metadata:
       1:
         title: |-
           Trigun Stampede
-        label: 2023 Winter
-        label.remove: score
+        label: score,2023 Winter
+        user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 7.8
   325197:
@@ -6908,10 +6963,10 @@ metadata:
       1:
         title: |-
           Tsuki ga Kirei
-        label: 2017 Spring
-        label.remove: score
-    audience_rating: 7.9
-    critic_rating: 8.1
+        label: score,2017 Spring
+        user_rating: 7.8
+    audience_rating: 7.8
+    critic_rating: 8.0
   390832:
     title: |-
       Tsuki ga Michibiku Isekai Douchuu
@@ -6951,8 +7006,8 @@ metadata:
       1:
         title: |-
           Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san
-        label: 2023 Winter
-        label.remove: score
+        label: score,2023 Winter
+        user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.2
   352796:
@@ -7020,7 +7075,7 @@ metadata:
         title: |-
           Uchuu Senkan Yamato 2205: Aratanaru Tabidachi
         label: score,2021 Fall
-        user_rating: 6.8
+        user_rating: 6.9
     audience_rating: 7.4
     critic_rating: 7.8
   315094:
@@ -7038,8 +7093,8 @@ metadata:
       1:
         title: |-
           Udon no Kuni no Kiniro Kemari
-        label: 2016 Fall
-        label.remove: score
+        label: score,2016 Fall
+        user_rating: 7.5
     audience_rating: 7.5
     critic_rating: 7.8
   432748:
@@ -7057,8 +7112,8 @@ metadata:
       1:
         title: |-
           Undead Girl Murder Farce
-        label: 2023 Summer
-        label.remove: score
+        label: score,2023 Summer
+        user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 7.9
   423030:
@@ -7068,7 +7123,7 @@ metadata:
       Undead Unluck
     original_title: |-
       Undead Unluck
-    genre.sync: Action,Comedy,Sci-Fi,Supernatural,Female Protagonist,Male Protagonist,Super Power,Cosmic Horror,Gore,Tragedy,Shounen,Dissociative Identities,Time Loop,Nudity,Meta,Primarily Adult Cast,Memory Manipulation,Zombie,Heterosexual,Martial Arts,Post-Apocalyptic,Age Gap
+    genre.sync: Action,Comedy,Sci-Fi,Supernatural,Female Protagonist,Male Protagonist,Super Power,Cosmic Horror,Gore,Tragedy,Shounen,Time Loop,Dissociative Identities,Meta,Primarily Adult Cast,Nudity,Memory Manipulation,Zombie,Heterosexual,Age Gap,Time Manipulation
     label: Ended
     label.remove: Planned,Airing
     studio: David Production
@@ -7076,10 +7131,28 @@ metadata:
       1:
         title: |-
           Undead Unluck
-        label: 2023 Fall
-        label.remove: score
+        label: score,2023 Fall
+        user_rating: 7.7
     audience_rating: 7.7
     critic_rating: 7.8
+  428352:
+    title: |-
+      Unnamed Memory
+    sort_title: |-
+      Unnamed Memory
+    original_title: |-
+      Unnamed Memory
+    genre.sync: Adventure,Fantasy,Romance,Witch
+    label: Airing
+    label.remove: Planned,Ended
+    studio: ENGI
+    seasons:
+      1:
+        title: |-
+          Unnamed Memory
+        label: score,2024 Spring
+        user_rating: 0
+    critic_rating: 7.3
   249872:
     title: |-
       Usagi Drop
@@ -7097,8 +7170,8 @@ metadata:
       1:
         title: |-
           Usagi Drop
-        label: 2011 Summer
-        label.remove: score
+        label: score,2011 Summer
+        user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.3
   381406:
@@ -7140,8 +7213,8 @@ metadata:
       1:
         title: |-
           Vampire Dormitory
-        label: 2024 Spring
-        label.remove: score
+        label: score,2024 Spring
+        user_rating: 5.8
     audience_rating: 5.8
     critic_rating: 6.4
   400133:
@@ -7159,8 +7232,8 @@ metadata:
       1:
         title: |-
           Vanitas no Carte
-        label: 2022 Winter,2021 Summer
-        label.remove: score
+        label: score,2022 Winter,2021 Summer
+        user_rating: 7.9
     audience_rating: 7.9
     critic_rating: 8.1
   359274:
@@ -7204,8 +7277,8 @@ metadata:
       1:
         title: |-
           Violet Evergarden
-        label: 2018 Winter
-        label.remove: score
+        label: score,2018 Winter
+        user_rating: 8.5
     audience_rating: 8.5
     critic_rating: 8.7
   397774:
@@ -7223,8 +7296,8 @@ metadata:
       1:
         title: |-
           Vivy: Fluorite Eye’s Song
-        label: 2021 Spring
-        label.remove: score
+        label: score,2021 Spring
+        user_rating: 8.2
     audience_rating: 8.2
     critic_rating: 8.4
   428350:
@@ -7234,7 +7307,7 @@ metadata:
       Watashi no Oshi wa Akuyaku Reijou.
     original_title: |-
       I'm in Love with the Villainess
-    genre.sync: Comedy,Fantasy,Romance,Yuri,Villainess,LGBTQ+ Themes,Isekai,Female Protagonist,Video Games,Tsundere,Reincarnation,Ojou-sama,Magic,School,Maids,Love Triangle,Primarily Teen Cast,Politics,Primarily Female Cast,Bullying
+    genre.sync: Comedy,Fantasy,Romance,Yuri,Villainess,LGBTQ+ Themes,Isekai,Video Games,Female Protagonist,Tsundere,Reincarnation,Ojou-sama,Magic,School,Maids,Love Triangle,Primarily Teen Cast,Boarding School,Class Struggle,Politics,Primarily Female Cast,Bullying
     label: Ended
     label.remove: Planned,Airing
     studio: Platinum Vision
@@ -7242,8 +7315,8 @@ metadata:
       1:
         title: |-
           Watashi no Oshi wa Akuyaku Reijou.
-        label: 2023 Fall
-        label.remove: score
+        label: score,2023 Fall
+        user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.3
   418665:
@@ -7261,8 +7334,8 @@ metadata:
       1:
         title: |-
           Watashi no Shiawase na Kekkon
-        label: 2023 Summer
-        label.remove: score
+        label: score,2023 Summer
+        user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 7.8
   433088:
@@ -7280,8 +7353,8 @@ metadata:
       1:
         title: |-
           Wind Breaker
-        label: 2024 Spring
-        label.remove: score
+        label: score,2024 Spring
+        user_rating: 7.5
     audience_rating: 7.5
     critic_rating: 7.8
   145211:
@@ -7361,8 +7434,8 @@ metadata:
       1:
         title: |-
           Wotaku ni Koi wa Muzukashii
-        label: 2018 Spring
-        label.remove: score
+        label: score,2018 Spring
+        user_rating: 7.9
     audience_rating: 7.9
     critic_rating: 7.9
   376751:
@@ -7440,8 +7513,8 @@ metadata:
       1:
         title: |-
           Yamada-kun to Lv999 no Koi wo Suru
-        label: 2023 Spring
-        label.remove: score
+        label: score,2023 Spring
+        user_rating: 7.9
     audience_rating: 7.9
     critic_rating: 7.8
   412374:
@@ -7459,8 +7532,8 @@ metadata:
       1:
         title: |-
           Yofukashi no Uta
-        label: 2022 Summer
-        label.remove: score
+        label: score,2022 Summer
+        user_rating: 7.9
     audience_rating: 7.9
     critic_rating: 8.0
   432808:
@@ -7478,8 +7551,8 @@ metadata:
       1:
         title: |-
           Yoru no Kurage wa Oyogenai
-        label: 2024 Spring
-        label.remove: score
+        label: score,2024 Spring
+        user_rating: 7.5
     audience_rating: 7.5
     critic_rating: 8.0
   315500:
@@ -7497,8 +7570,8 @@ metadata:
       1:
         title: |-
           Youjo Senki
-        label: 2017 Winter
-        label.remove: score
+        label: score,2017 Winter
+        user_rating: 7.7
     audience_rating: 7.7
     critic_rating: 8.0
   329822:
@@ -7545,8 +7618,8 @@ metadata:
       1:
         title: |-
           Yozakura-san Chi no Daisakusen
-        label: 2024 Spring
-        label.remove: score
+        label: score,2024 Spring
+        user_rating: 6.7
     audience_rating: 6.7
     critic_rating: 7.4
   436899:
@@ -7564,8 +7637,8 @@ metadata:
       1:
         title: |-
           Yubisaki to Renren
-        label: 2024 Winter
-        label.remove: score
+        label: score,2024 Winter
+        user_rating: 8.3
     audience_rating: 8.3
     critic_rating: 8.3
   330692:
@@ -7606,7 +7679,7 @@ metadata:
       Yuuki Bakuhatsu Bang Bravern
     original_title: |-
       Brave Bang Bravern!
-    genre.sync: Action,Comedy,Mecha,Parody,Super Robot,Primarily Adult Cast,Military,Aliens,War,Reincarnation,Meta,Boys' Love,Time Manipulation,Foreign,Tokusatsu
+    genre.sync: Action,Comedy,Mecha,Parody,Super Robot,Military,Primarily Adult Cast,Aliens,War,Meta,Reincarnation,Boys' Love,Time Manipulation,Foreign,Tokusatsu
     label: Ended
     label.remove: Planned,Airing
     studio: CygamesPictures
@@ -7614,10 +7687,10 @@ metadata:
       1:
         title: |-
           Yuuki Bakuhatsu Bang Bravern
-        label: 2024 Winter
-        label.remove: score
+        label: score,2024 Winter
+        user_rating: 7.5
     audience_rating: 7.5
-    critic_rating: 7.8
+    critic_rating: 7.7
   385542:
     title: |-
       Yuukoku no Moriarty
@@ -7635,8 +7708,8 @@ metadata:
       1:
         title: |-
           Yuukoku no Moriarty
-        label: 2021 Spring,2020 Fall
-        label.remove: score
+        label: score,2021 Spring,2020 Fall
+        user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.2
   262109:
@@ -7654,8 +7727,8 @@ metadata:
       1:
         title: |-
           Zetsuen no Tempest
-        label: 2012 Fall
-        label.remove: score
+        label: score,2012 Fall
+        user_rating: 7.5
     audience_rating: 7.5
     critic_rating: 7.9
   429310:
@@ -7673,7 +7746,7 @@ metadata:
       1:
         title: |-
           Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto
-        label: 2023 Summer
-        label.remove: score
+        label: score,2023 Summer
+        user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 7.8
