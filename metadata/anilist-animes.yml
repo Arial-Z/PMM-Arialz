@@ -111,8 +111,8 @@ metadata:
     original_title: |-
       Sand Land: The Series
     genre.sync: Action,Adventure,Fantasy,Supernatural,Desert,Full CGI,Military,Tanks,Post-Apocalyptic,Demons
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Sunrise
     seasons:
       1:
@@ -616,8 +616,8 @@ metadata:
     original_title: |-
       BARTENDER Glass of God
     genre.sync: Drama,Slice of Life,Bar,Seinen,Work,Male Protagonist
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Liber
     seasons:
       1:
@@ -626,7 +626,7 @@ metadata:
         label: score,2024 Spring
         user_rating: 6.9
     audience_rating: 6.9
-    critic_rating: 7.2
+    critic_rating: 7.6
   361013:
     title: |-
       Beastars
@@ -729,8 +729,8 @@ metadata:
     original_title: |-
       Blue Archive The Animation
     genre.sync: Action,Drama,School,Primarily Female Cast,Guns,Primarily Teen Cast,Teacher,Angels,Female Harem,Cute Girls Doing Cute Things
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Yostar Pictures
     seasons:
       1:
@@ -888,6 +888,24 @@ metadata:
         user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 6.8
+  437896:
+    title: |-
+      null
+    sort_title: |-
+      null
+    original_title: |-
+      null
+    genre.sync: 
+    label: Ended
+    label.remove: Planned,Airing
+    seasons:
+      1:
+        title: |-
+          Boukyaku Battery (TV)
+        label: score,2024 Spring
+        user_rating: 58.0
+    audience_rating: 58.0
+    critic_rating: 6.7
   426530:
     title: |-
       Boushoku no Berserk
@@ -1387,8 +1405,13 @@ metadata:
           Date A Live IV
         label: score,2022 Spring
         user_rating: 7.6
-    audience_rating: 7.0
-    critic_rating: 7.3
+      5:
+        title: |-
+          Date A Live V
+        label: score,2024 Spring
+        user_rating: 0
+    audience_rating: 9.4
+    critic_rating: 7.4
   413480:
     title: |-
       Dawang Raoming
@@ -1473,8 +1496,8 @@ metadata:
     original_title: |-
       The Banished Former Hero Lives as He Pleases
     genre.sync: Action,Adventure,Fantasy,Romance,Reincarnation
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Studio DEEN
     seasons:
       1:
@@ -1630,8 +1653,8 @@ metadata:
     original_title: |-
       Delicious in Dungeon
     genre.sync: Adventure,Comedy,Fantasy,Dungeon,Food,Magic,Primarily Adult Cast,Ensemble Cast,Elf
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Trigger
     seasons:
       1:
@@ -2188,8 +2211,8 @@ metadata:
     original_title: |-
       A Condition Called Love
     genre.sync: Drama,Romance,Shoujo,School,Heterosexual,Female Protagonist,Primarily Teen Cast
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: East Fish Studio
     seasons:
       1:
@@ -2904,8 +2927,8 @@ metadata:
     original_title: |-
       Grandpa and Grandma Turn Young Again
     genre.sync: Comedy,Fantasy,Romance,Age Regression,Heterosexual,Rural,Family Life,Primarily Adult Cast
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Gekkou
     seasons:
       1:
@@ -3032,6 +3055,24 @@ metadata:
         user_rating: 8.9
     audience_rating: 8.6
     critic_rating: 8.7
+  429536:
+    title: |-
+      Kaii to Otome to Kamikakushi
+    sort_title: |-
+      Kaii to Otome to Kamikakushi
+    original_title: |-
+      Mysterious Disappearances
+    genre.sync: Ecchi,Mystery,Romance,Supernatural,Urban Fantasy
+    label: Ended
+    label.remove: Planned,Airing
+    studio: Zero-G
+    seasons:
+      1:
+        title: |-
+          Kaii to Otome to Kamikakushi
+        label: score,2024 Spring
+        user_rating: 0
+    critic_rating: 6.8
   422564:
     title: |-
       Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life
@@ -3097,8 +3138,8 @@ metadata:
     original_title: |-
       Gods' Games We Play
     genre.sync: Comedy,Drama,Ecchi,Fantasy,Romance,Gods,Male Protagonist,Female Protagonist,Magic,Super Power,Board Game
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: LIDENFILMS
     seasons:
       1:
@@ -3619,8 +3660,8 @@ metadata:
     original_title: |-
       KONOSUBA -God's blessing on this wonderful world!
     genre.sync: Adventure,Comedy,Ecchi,Fantasy,Isekai,Satire,Parody,Primarily Female Cast,Male Protagonist,Magic,Ensemble Cast,Slapstick,Afterlife,Masochism,Reincarnation,Gods,Anti-Hero
-    label: Planned
-    label.remove: Airing,Ended
+    label: Airing
+    label.remove: Planned,Ended
     studio: Studio DEEN
     seasons:
       0:
@@ -3635,7 +3676,12 @@ metadata:
           Kono Subarashii Sekai ni Shukufuku wo! 2
         label: score,2017 Winter
         user_rating: 8.1
-    audience_rating: 8.0
+      3:
+        title: |-
+          Kono Subarashii Sekai ni Shukufuku wo! 3
+        label: score,2024 Spring
+        user_rating: 0
+    audience_rating: 16.0
     critic_rating: 8.2
   424116:
     title: |-
@@ -3999,8 +4045,8 @@ metadata:
     original_title: |-
       Chillin' in Another World with Level 2 Super Cheat Powers
     genre.sync: Adventure,Fantasy,Romance,Isekai
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: J.C. Staff
     seasons:
       1:
@@ -4149,8 +4195,8 @@ metadata:
     original_title: |-
       The Irregular at Magic High School
     genre.sync: Action,Romance,Sci-Fi,Supernatural,Magic,School,Male Protagonist,Military,Incest,Terrorism
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: MADHOUSE
     seasons:
       0:
@@ -4289,6 +4335,24 @@ metadata:
         user_rating: 7.3
     audience_rating: 7.2
     critic_rating: 7.4
+  428654:
+    title: |-
+      Seiyuu Radio no Uraomote
+    sort_title: |-
+      Seiyuu Radio no Uraomote
+    original_title: |-
+      The Many Sides of Voice Actor Radio
+    genre.sync: Comedy,Drama,Slice of Life,Female Protagonist,Primarily Female Cast,Work,Acting,Gyaru,Idol,Yuri
+    label: Ended
+    label.remove: Planned,Airing
+    studio: CONNECT
+    seasons:
+      1:
+        title: |-
+          Seiyuu Radio no Uraomote
+        label: score,2024 Spring
+        user_rating: 0
+    critic_rating: 6.8
   375927:
     title: |-
       Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou
@@ -4321,8 +4385,8 @@ metadata:
     original_title: |-
       An Archdemon's Dilemma: How to Love Your Elf Bride
     genre.sync: Action,Fantasy,Romance,Elf,Male Protagonist
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Brain's Base
     seasons:
       1:
@@ -4482,8 +4546,8 @@ metadata:
     original_title: |-
       Mushoku Tensei: Jobless Reincarnation
     genre.sync: Adventure,Drama,Ecchi,Fantasy,Isekai,Reincarnation,Magic,Male Protagonist,Coming of Age,Rehabilitation,Travel,Age Regression,Family Life,Nudity,Hikikomori,Heterosexual,Virginity
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Studio Bind
     seasons:
       0:
@@ -4725,23 +4789,6 @@ metadata:
         user_rating: 7.4
     audience_rating: 7.4
     critic_rating: 7.4
-  437896:
-    title: |-
-      Boukyaku Battery (TV)
-    sort_title: |-
-      Boukyaku Battery (TV)
-    original_title: |-
-      Oblivion Battery
-    genre.sync: Comedy,Sports,Baseball,Amnesia
-    label: Airing
-    label.remove: Planned,Ended
-    studio: MAPPA
-    seasons:
-      1:
-        title: |-
-          Boukyaku Battery (TV)
-        label: score,2024 Spring
-        user_rating: 0
   304493:
     title: |-
       Oji-san to Marshmallow
@@ -4853,8 +4900,8 @@ metadata:
     original_title: |-
       Spice and Wolf: MERCHANT MEETS THE WISE WOLF
     genre.sync: Adventure,Fantasy,Romance,Economics,Heterosexual,Kemonomimi,Rural,Primarily Adult Cast,Work,Historical,Gods,Foreign,Politics,Nudity
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Passione
     seasons:
       1:
@@ -5334,8 +5381,8 @@ metadata:
     original_title: |-
       Re:Monster
     genre.sync: Action,Adventure,Fantasy,Isekai
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Studio DEEN
     seasons:
       1:
@@ -5400,15 +5447,17 @@ metadata:
     original_title: |-
       Rinkai!
     genre.sync: Sports,Cycling,Female Protagonist
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: TMS Entertainment
     seasons:
       1:
         title: |-
           Rinkai!
         label: score,2024 Spring
-        user_rating: 0
+        user_rating: 49.0
+    audience_rating: 49.0
+    critic_rating: 5.7
   423787:
     title: |-
       Romantic Killer
@@ -5836,8 +5885,8 @@ metadata:
     original_title: |-
       GO! GO! Loser Ranger!
     genre.sync: Action,Sci-Fi,Tokusatsu,Anti-Hero,Revenge
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Yostar Pictures
     seasons:
       1:
@@ -6107,8 +6156,8 @@ metadata:
     original_title: |-
       Train to the End of the World
     genre.sync: Adventure,Comedy,Sci-Fi,Post-Apocalyptic,Trains,Female Protagonist,Primarily Female Cast,Travel,Rural,Surreal Comedy
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: EMT Squared
     seasons:
       1:
@@ -6406,8 +6455,8 @@ metadata:
     original_title: |-
       Tadaima, Okaeri
     genre.sync: Drama,Romance,Slice of Life,Boys' Love,Omegaverse,Family Life,Primarily Male Cast
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Studio DEEN
     seasons:
       1:
@@ -6587,8 +6636,8 @@ metadata:
     original_title: |-
       As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World
     genre.sync: Adventure,Fantasy,Isekai,Reincarnation
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: studio MOTHER
     seasons:
       1:
@@ -6625,8 +6674,8 @@ metadata:
     original_title: |-
       I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
     genre.sync: Adventure,Fantasy,Slice of Life,Magic,Reincarnation,Femboy,Angels
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Tsumugi Akita Anime Lab
     seasons:
       1:
@@ -6663,8 +6712,8 @@ metadata:
     original_title: |-
       That Time I Got Reincarnated as a Slime
     genre.sync: Action,Adventure,Comedy,Fantasy,Isekai,Found Family,Reincarnation,Magic,Super Power,Shapeshifting,Ensemble Cast,Monster Boy,Economics,Kingdom Management,Clone,Alternate Universe,Politics,Henshin,Fairy,Monster Girl,Male Protagonist,Demons,Travel,Agender,Goblin
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: 8-bit
     seasons:
       0:
@@ -7143,15 +7192,16 @@ metadata:
     original_title: |-
       Unnamed Memory
     genre.sync: Adventure,Fantasy,Romance,Witch
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: ENGI
     seasons:
       1:
         title: |-
           Unnamed Memory
         label: score,2024 Spring
-        user_rating: 0
+        user_rating: 69.0
+    audience_rating: 69.0
     critic_rating: 7.3
   249872:
     title: |-
@@ -7206,8 +7256,8 @@ metadata:
     original_title: |-
       Vampire Dormitory
     genre.sync: Romance,Supernatural,Crossdressing,Shoujo,Vampire
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Studio Blanc
     seasons:
       1:
@@ -7346,8 +7396,8 @@ metadata:
     original_title: |-
       Wind Breaker
     genre.sync: Action,Comedy,Drama,Delinquents,Male Protagonist,Shounen
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: CloverWorks
     seasons:
       1:
@@ -7544,8 +7594,8 @@ metadata:
     original_title: |-
       Jellyfish Can’t Swim in the Night
     genre.sync: Drama,Female Protagonist,Primarily Female Cast,Urban,Idol,Drawing,Coming of Age,Yuri,VTuber,Cute Girls Doing Cute Things
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: Doga Kobo
     seasons:
       1:
@@ -7611,8 +7661,8 @@ metadata:
     original_title: |-
       Mission: Yozakura Family
     genre.sync: Action,Comedy,Romance,Shounen,Guns,Marriage
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: SILVER LINK.
     seasons:
       1:
@@ -7649,8 +7699,8 @@ metadata:
     original_title: |-
       Laid-Back Camp
     genre.sync: Comedy,Slice of Life,Outdoor,Iyashikei,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Rural,Food,Educational,Primarily Teen Cast,School Club,Seinen,Kuudere
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
     studio: C-Station
     seasons:
       0:
