@@ -815,17 +815,17 @@ metadata:
       2:
         title: |-
           Boku no Hero Academia 2
-        label: score,AA 2018 - Best Hero,AA 2018 - Best Villain,AA 2018 - Best Boy,AA 2018 - Best Girl,AA 2018 - Best Opening,AA 2018 - Best Animation,AA 2018 - Best Action,2017 Spring
+        label.sync: score
         user_rating: 7.9
       3:
         title: |-
           Boku no Hero Academia 3
-        label: score,AA 2019 - Best Villain,AA 2019 - Best Boy,AA 2019 - Best VA Performance (English),AA 2019 - Best Fight Scene,2018 Spring
+        label.sync: score
         user_rating: 7.9
       4:
         title: |-
           Boku no Hero Academia 4
-        label: score,AA 2021 - Best VA Performance (English),AA 2021 - Best Fight Scene,2019 Fall
+        label.sync: score
         user_rating: 7.8
       5:
         title: |-
@@ -939,7 +939,7 @@ metadata:
       1:
         title: |-
           Buddy Daddies
-        label: score,AA 2024 - Best Original Anime,2023 Winter
+        label.sync: score
         user_rating: 8.0
     audience_rating: 8.0
     critic_rating: 8.1
@@ -1025,7 +1025,7 @@ metadata:
       1:
         title: |-
           Chainsaw Man
-        label: score,AA 2024 - Best New Series,AA 2024 - Best VA Performance (English),AA 2024 - Best VA Performance (Spanish),AA 2024 - Best VA Performance (Castilian),2022 Fall
+        label.sync: score
         user_rating: 8.4
     audience_rating: 8.4
     critic_rating: 8.5
@@ -1284,7 +1284,7 @@ metadata:
       1:
         title: |-
           Cyberpunk: Edgerunners
-        label: score,AA 2023 - Anime of the Year,AA 2023 - Best VA Performance (English),2022 Summer
+        label.sync: score
         user_rating: 8.5
     audience_rating: 8.5
     critic_rating: 8.6
@@ -1630,7 +1630,7 @@ metadata:
       1:
         title: |-
           Dr. STONE
-        label: score,AA 2024 - Best VA Performance (Arabic),AA 2020 - Best Hero,2019 Summer
+        label.sync: score
         user_rating: 8.1
       2:
         title: |-
@@ -1816,7 +1816,7 @@ metadata:
       1:
         title: |-
           Fumetsu no Anata e
-        label: score,AA 2022 - Best Drama,2021 Spring
+        label.sync: score
         user_rating: 8.1
       2:
         title: |-
@@ -2164,7 +2164,7 @@ metadata:
       1:
         title: |-
           Haikyuu!!
-        label: score,AA 2021 - Best Boy,2014 Spring
+        label.sync: score
         user_rating: 8.3
       2:
         title: |-
@@ -2509,7 +2509,7 @@ metadata:
       1:
         title: |-
           Horimiya
-        label: score,AA 2022 - Best Romance,2021 Winter
+        label.sync: score
         user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.2
@@ -2990,12 +2990,12 @@ metadata:
       1:
         title: |-
           Jujutsu Kaisen
-        label: score,AA 2023 - Best VA Performance (Italian),AA 2022 - Best Girl,AA 2022 - Best VA Performance (German),AA 2022 - Best VA Performance (Portuguese),AA 2022 - Best Character Design,AA 2022 - Best Fight Scene,AA 2022 - Best Action,AA 2021 - Anime of the Year,AA 2021 - Best Villain,AA 2021 - Best Ending,2020 Fall
+        label.sync: score
         user_rating: 8.6
       2:
         title: |-
           Jujutsu Kaisen 2nd Season
-        label: score,AA 2024 - Anime of the Year,AA 2024 - Best Character Design,AA 2024 - Best Opening,AA 2024 - Best Ending,AA 2024 - Best Director,AA 2024 - Best Cinematography,AA 2024 - Best Supporting Character,AA 2024 - Best Action,AA 2024 - Best VA Performance (Japanese),AA 2024 - Best VA Performance (French),AA 2024 - Best VA Performance (German),AA 2024 - Best VA Performance (Italian),AA 2024 - Best VA Performance (Portuguese),2023 Summer
+        label.sync: score
         user_rating: 8.8
     audience_rating: 8.7
     critic_rating: 8.7
@@ -3502,7 +3502,7 @@ metadata:
       3:
         title: |-
           Kimetsu no Yaiba: Yuukaku-hen
-        label: score,AA 2023 - Best Character Design,AA 2023 - Best Animation,AA 2023 - Best Director,AA 2023 - Best Action,AA 2023 - Best Fantasy,AA 2023 - Best VA Performance (Spanish),2022 Winter
+        label.sync: score
         user_rating: 8.6
       4:
         title: |-
@@ -5067,7 +5067,7 @@ metadata:
       1:
         title: |-
           Ousama Ranking
-        label: score,AA 2023 - Best VA Performance (French),AA 2022 - Best Boy,2021 Fall
+        label.sync: score
         user_rating: 8.4
     audience_rating: 8.4
     critic_rating: 8.5
@@ -5439,7 +5439,7 @@ metadata:
       2:
         title: |-
           Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
-        label: score,AA 2021 - Best VA Performance (Japanese),AA 2021 - Best Fantasy,2021 Winter,2020 Summer
+        label.sync: score
         user_rating: 8.3
     audience_rating: 8.1
     critic_rating: 8.3
@@ -6563,7 +6563,7 @@ metadata:
       1:
         title: |-
           Tate no Yuusha no Nariagari
-        label: score,AA 2020 - Best Girl,AA 2020 - Best VA Performance (English),2019 Winter
+        label.sync: score
         user_rating: 7.7
       2:
         title: |-
