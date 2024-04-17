@@ -1,0 +1,28 @@
+templates:
+  anime-awards:
+    default:
+      overlay: <<overlay_name>>
+      horizontal_offset: 15
+      horizontal_align: right
+      vertical_offset: 165
+      vertical_align: bottom
+    overlay:
+      name: <<overlay_name>>
+      url: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/overlays/Images/Anime-Awards/<<overlay>>.png
+      back_color: "#00000099"
+      back_radius: 30
+      back_width: 350
+      back_height: 120
+      horizontal_offset: <<horizontal_offset>>
+      horizontal_align: <<horizontal_align>>
+      vertical_offset: <<vertical_offset>>
+      vertical_align: <<vertical_align>>
+
+overlays:
+
+  Anime-Awards:
+    template:
+      - name: anime-awards
+    plex_search:
+      all:
+        label: AA Winner
