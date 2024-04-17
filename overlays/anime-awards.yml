@@ -35,4 +35,4 @@ overlays:
     template: { name: anime-awards-season, img: Anime-Awards}
     plex_search:
       all:
-        season_label.regex: ^AA
+        season_label.regex: ^AA.\d{4}
