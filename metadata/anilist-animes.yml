@@ -110,7 +110,7 @@ metadata:
       Sand Land: The Series
     original_title: |-
       Sand Land: The Series
-    genre.sync: Action,Adventure,Fantasy,Supernatural,Post-Apocalyptic,Desert,Full CGI,Military,Tanks,Demons,Primarily Male Cast
+    genre.sync: Action,Adventure,Fantasy,Supernatural,Post-Apocalyptic,Tanks,Desert,Full CGI,Military,Demons,Dystopian,Primarily Male Cast
     studio: Sunrise
     seasons:
       1:
@@ -622,8 +622,8 @@ metadata:
         title: |-
           Bartender: Kami no Glass
         label: score,2024 Spring
-        user_rating: 7.2
-    audience_rating: 7.2
+        user_rating: 7.3
+    audience_rating: 7.3
     critic_rating: 7.6
     label: Airing
     label.remove: Planned,Ended
@@ -815,17 +815,17 @@ metadata:
       2:
         title: |-
           Boku no Hero Academia 2
-        label.sync: score
+        label: score,AA 2018 - Best Hero,AA 2018 - Best Villain,AA 2018 - Best Boy,AA 2018 - Best Girl,AA 2018 - Best Opening,AA 2018 - Best Animation,AA 2018 - Best Action,2017 Spring
         user_rating: 7.9
       3:
         title: |-
           Boku no Hero Academia 3
-        label.sync: score
+        label: score,AA 2019 - Best Villain,AA 2019 - Best Boy,AA 2019 - Best Fight Scene,2018 Spring
         user_rating: 7.9
       4:
         title: |-
           Boku no Hero Academia 4
-        label.sync: score
+        label: score,AA 2021 - Best Fight Scene,2019 Fall
         user_rating: 7.8
       5:
         title: |-
@@ -895,16 +895,16 @@ metadata:
       Boukyaku Battery (TV)
     original_title: |-
       Oblivion Battery
-    genre.sync: Comedy,Sports,Baseball,Amnesia
+    genre.sync: Comedy,Sports,Amnesia,Baseball,Male Protagonist
     studio: MAPPA
     seasons:
       1:
         title: |-
           Boukyaku Battery (TV)
         label: score,2024 Spring
-        user_rating: 5.8
-    audience_rating: 5.8
-    critic_rating: 6.7
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 6.8
     label: Airing
     label.remove: Planned,Ended
   426530:
@@ -939,7 +939,7 @@ metadata:
       1:
         title: |-
           Buddy Daddies
-        label.sync: score
+        label: score,AA 2024 - Best Original Anime,2023 Winter
         user_rating: 8.0
     audience_rating: 8.0
     critic_rating: 8.1
@@ -1025,7 +1025,7 @@ metadata:
       1:
         title: |-
           Chainsaw Man
-        label.sync: score
+        label: score,AA 2024 - Best New Series,2022 Fall
         user_rating: 8.4
     audience_rating: 8.4
     critic_rating: 8.5
@@ -1284,7 +1284,7 @@ metadata:
       1:
         title: |-
           Cyberpunk: Edgerunners
-        label.sync: score
+        label: score,AA 2023 - Anime of the Year,2022 Summer
         user_rating: 8.5
     audience_rating: 8.5
     critic_rating: 8.6
@@ -1408,8 +1408,8 @@ metadata:
         title: |-
           Date A Live V
         label: score,2024 Spring
-        user_rating: 7.6
-    audience_rating: 7.1
+        user_rating: 7.7
+    audience_rating: 7.2
     critic_rating: 7.5
     label: Airing
     label.remove: Planned,Ended
@@ -1630,7 +1630,7 @@ metadata:
       1:
         title: |-
           Dr. STONE
-        label.sync: score
+        label: score,AA 2020 - Best Hero,2019 Summer
         user_rating: 8.1
       2:
         title: |-
@@ -1816,7 +1816,7 @@ metadata:
       1:
         title: |-
           Fumetsu no Anata e
-        label.sync: score
+        label: score,AA 2022 - Best Drama,2021 Spring
         user_rating: 8.1
       2:
         title: |-
@@ -2069,6 +2069,28 @@ metadata:
     critic_rating: 8.4
     label: Ended
     label.remove: Planned,Airing
+  376144:
+    title: |-
+      Great Pretender
+    sort_title: |-
+      Great Pretender
+    original_title: |-
+      Great Pretender
+    genre.sync: Action,Comedy,Drama,Thriller,Crime,Anti-Hero,Foreign,Primarily Adult Cast,Male Protagonist,Urban,Work,Mafia,Drugs
+    studio: Wit Studio
+    seasons:
+      1:
+        title: |-
+          Great Pretender
+        label: score,2020 Spring
+        user_rating: 8.2
+      2:
+        title: |-
+          
+        user_rating: 0
+    critic_rating: 8.2
+    label: Ended
+    label.remove: Planned,Airing
   79071:
     title: |-
       Gto
@@ -2164,7 +2186,7 @@ metadata:
       1:
         title: |-
           Haikyuu!!
-        label.sync: score
+        label: score,AA 2021 - Best Boy,2014 Spring
         user_rating: 8.3
       2:
         title: |-
@@ -2509,7 +2531,7 @@ metadata:
       1:
         title: |-
           Horimiya
-        label.sync: score
+        label: score,AA 2022 - Best Romance,2021 Winter
         user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.2
@@ -2990,12 +3012,12 @@ metadata:
       1:
         title: |-
           Jujutsu Kaisen
-        label.sync: score
+        label: score,AA 2022 - Best Girl,AA 2022 - Best Character Design,AA 2022 - Best Fight Scene,AA 2022 - Best Action,AA 2021 - Anime of the Year,AA 2021 - Best Villain,AA 2021 - Best Ending,2020 Fall
         user_rating: 8.6
       2:
         title: |-
           Jujutsu Kaisen 2nd Season
-        label.sync: score
+        label: score,AA 2024 - Anime of the Year,AA 2024 - Best Character Design,AA 2024 - Best Opening,AA 2024 - Best Ending,AA 2024 - Best Director,AA 2024 - Best Cinematography,AA 2024 - Best Supporting Character,AA 2024 - Best Action,AA 2024 - Best VA Performance (Japanese),2023 Summer
         user_rating: 8.8
     audience_rating: 8.7
     critic_rating: 8.7
@@ -3063,7 +3085,7 @@ metadata:
       Kaii to Otome to Kamikakushi
     original_title: |-
       Mysterious Disappearances
-    genre.sync: Ecchi,Mystery,Romance,Supernatural,Urban Fantasy,Seinen,Female Protagonist,Ghost
+    genre.sync: Ecchi,Mystery,Romance,Supernatural,Urban Fantasy,Seinen,Female Protagonist
     studio: Zero-G
     seasons:
       1:
@@ -3072,7 +3094,7 @@ metadata:
         label: score,2024 Spring
         user_rating: 6.6
     audience_rating: 6.6
-    critic_rating: 6.8
+    critic_rating: 7.2
     label: Airing
     label.remove: Planned,Ended
   423075:
@@ -3502,7 +3524,7 @@ metadata:
       3:
         title: |-
           Kimetsu no Yaiba: Yuukaku-hen
-        label.sync: score
+        label: score,AA 2023 - Best Character Design,AA 2023 - Best Animation,AA 2023 - Best Director,AA 2023 - Best Action,AA 2023 - Best Fantasy,2022 Winter
         user_rating: 8.6
       4:
         title: |-
@@ -4420,7 +4442,7 @@ metadata:
         label: score,2024 Spring
         user_rating: 7.1
     audience_rating: 7.1
-    critic_rating: 7.5
+    critic_rating: 7.6
     label: Airing
     label.remove: Planned,Ended
   361709:
@@ -5067,7 +5089,7 @@ metadata:
       1:
         title: |-
           Ousama Ranking
-        label.sync: score
+        label: score,AA 2022 - Best Boy,2021 Fall
         user_rating: 8.4
     audience_rating: 8.4
     critic_rating: 8.5
@@ -5439,7 +5461,7 @@ metadata:
       2:
         title: |-
           Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
-        label.sync: score
+        label: score,AA 2021 - Best VA Performance (Japanese),AA 2021 - Best Fantasy,2021 Winter,2020 Summer
         user_rating: 8.3
     audience_rating: 8.1
     critic_rating: 8.3
@@ -5482,7 +5504,7 @@ metadata:
         label: score,2024 Spring
         user_rating: 4.9
     audience_rating: 4.9
-    critic_rating: 5.7
+    critic_rating: 5.6
     label: Airing
     label.remove: Planned,Ended
   423787:
@@ -5873,16 +5895,16 @@ metadata:
       Seiyuu Radio no Uraomote
     original_title: |-
       The Many Sides of Voice Actor Radio
-    genre.sync: Comedy,Drama,Slice of Life,Female Protagonist,Primarily Female Cast,Acting,Work,Gyaru,Yuri,Idol,School
+    genre.sync: Comedy,Drama,Slice of Life,Female Protagonist,Primarily Female Cast,Acting,Work,Gyaru,Idol
     studio: CONNECT
     seasons:
       1:
         title: |-
           Seiyuu Radio no Uraomote
         label: score,2024 Spring
-        user_rating: 6.5
-    audience_rating: 6.5
-    critic_rating: 6.8
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended
   398193:
@@ -6563,7 +6585,7 @@ metadata:
       1:
         title: |-
           Tate no Yuusha no Nariagari
-        label.sync: score
+        label: score,AA 2020 - Best Girl,2019 Winter
         user_rating: 7.7
       2:
         title: |-
@@ -7332,7 +7354,7 @@ metadata:
       Unnamed Memory
     original_title: |-
       Unnamed Memory
-    genre.sync: Adventure,Fantasy,Romance,Witch
+    genre.sync: Adventure,Fantasy,Romance,Witch,Royal Affairs
     studio: ENGI
     seasons:
       1:
