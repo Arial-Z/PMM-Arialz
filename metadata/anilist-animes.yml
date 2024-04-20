@@ -159,7 +159,7 @@ metadata:
       2:
         title: |-
           3-gatsu no Lion 2
-        label: score,AA 2018 - Best Continuing Series,2017 Fall
+        label: score,AA Winner,2017 Fall
         user_rating: 8.9
     audience_rating: 8.6
     critic_rating: 8.6
@@ -218,7 +218,7 @@ metadata:
       1:
         title: |-
           [Oshi no Ko]
-        label: score,AA 2024 - Best Anime Song,2023 Spring
+        label: score,AA Winner,2023 Spring
         user_rating: 8.5
     audience_rating: 8.5
     critic_rating: 8.7
@@ -640,7 +640,7 @@ metadata:
       1:
         title: |-
           Beastars
-        label: score,AA 2021 - Best Opening,2019 Fall
+        label: score,AA Winner,2019 Fall
         user_rating: 7.7
       2:
         title: |-
@@ -772,7 +772,7 @@ metadata:
       1:
         title: |-
           Bocchi the Rock!
-        label: score,AA 2024 - Best Slice of Life,2022 Fall
+        label: score,AA Winner,2022 Fall
         user_rating: 8.7
     audience_rating: 8.7
     critic_rating: 8.8
@@ -791,7 +791,7 @@ metadata:
       1:
         title: |-
           Boku dake ga Inai Machi
-        label: score,AA 2017 - Best Villain,AA 2017 - Best Drama,2016 Winter
+        label: score,AA Winner,2016 Winter
         user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.3
@@ -810,22 +810,22 @@ metadata:
       1:
         title: |-
           Boku no Hero Academia
-        label: score,AA 2017 - Best Hero,2016 Spring
+        label: score,AA Winner,2016 Spring
         user_rating: 7.7
       2:
         title: |-
           Boku no Hero Academia 2
-        label: score,AA 2018 - Best Hero,AA 2018 - Best Villain,AA 2018 - Best Boy,AA 2018 - Best Girl,AA 2018 - Best Opening,AA 2018 - Best Animation,AA 2018 - Best Action,2017 Spring
+        label: score,AA Winner,2017 Spring
         user_rating: 7.9
       3:
         title: |-
           Boku no Hero Academia 3
-        label: score,AA 2019 - Best Villain,AA 2019 - Best Boy,AA 2019 - Best Fight Scene,2018 Spring
+        label: score,AA Winner,2018 Spring
         user_rating: 7.9
       4:
         title: |-
           Boku no Hero Academia 4
-        label: score,AA 2021 - Best Fight Scene,2019 Fall
+        label: score,AA Winner,2019 Fall
         user_rating: 7.8
       5:
         title: |-
@@ -939,7 +939,7 @@ metadata:
       1:
         title: |-
           Buddy Daddies
-        label: score,AA 2024 - Best Original Anime,2023 Winter
+        label: score,AA Winner,2023 Winter
         user_rating: 8.0
     audience_rating: 8.0
     critic_rating: 8.1
@@ -1025,7 +1025,7 @@ metadata:
       1:
         title: |-
           Chainsaw Man
-        label: score,AA 2024 - Best New Series,2022 Fall
+        label: score,AA Winner,2022 Fall
         user_rating: 8.4
     audience_rating: 8.4
     critic_rating: 8.5
@@ -1284,7 +1284,7 @@ metadata:
       1:
         title: |-
           Cyberpunk: Edgerunners
-        label: score,AA 2023 - Anime of the Year,2022 Summer
+        label: score,AA Winner,2022 Summer
         user_rating: 8.5
     audience_rating: 8.5
     critic_rating: 8.6
@@ -1630,7 +1630,7 @@ metadata:
       1:
         title: |-
           Dr. STONE
-        label: score,AA 2020 - Best Hero,2019 Summer
+        label: score,AA Winner,2019 Summer
         user_rating: 8.1
       2:
         title: |-
@@ -1803,6 +1803,25 @@ metadata:
     critic_rating: 8.2
     label: Ended
     label.remove: Planned,Airing
+  424536:
+    title: |-
+      Sousou no Frieren
+    sort_title: |-
+      Sousou no Frieren
+    original_title: |-
+      Frieren: Beyond Journey’s End
+    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Female Protagonist,Philosophy,Time Skip,Coming of Age,Kuudere,Iyashikei,Demons
+    studio: MADHOUSE
+    seasons:
+      1:
+        title: |-
+          Sousou no Frieren
+        label: score,2023 Fall
+        user_rating: 9.2
+    audience_rating: 9.2
+    critic_rating: 9.4
+    label: Ended
+    label.remove: Planned,Airing
   375271:
     title: |-
       Fumetsu no Anata e
@@ -1816,7 +1835,7 @@ metadata:
       1:
         title: |-
           Fumetsu no Anata e
-        label: score,AA 2022 - Best Drama,2021 Spring
+        label: score,AA Winner,2021 Spring
         user_rating: 8.1
       2:
         title: |-
@@ -2186,7 +2205,7 @@ metadata:
       1:
         title: |-
           Haikyuu!!
-        label: score,AA 2021 - Best Boy,2014 Spring
+        label: score,AA Winner,2014 Spring
         user_rating: 8.3
       2:
         title: |-
@@ -2531,7 +2550,7 @@ metadata:
       1:
         title: |-
           Horimiya
-        label: score,AA 2022 - Best Romance,2021 Winter
+        label: score,AA Winner,2021 Winter
         user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.2
@@ -2550,7 +2569,7 @@ metadata:
       1:
         title: |-
           Horimiya: piece
-        label: score,AA 2024 - Best Romance,2023 Summer
+        label: score,AA Winner,2023 Summer
         user_rating: 8.2
     audience_rating: 8.2
     critic_rating: 8.2
@@ -2607,7 +2626,7 @@ metadata:
       1:
         title: |-
           Houseki no Kuni
-        label: score,AA 2018 - Best CGI,2017 Fall
+        label: score,AA Winner,2017 Fall
         user_rating: 8.3
     audience_rating: 8.3
     critic_rating: 8.4
@@ -3012,12 +3031,12 @@ metadata:
       1:
         title: |-
           Jujutsu Kaisen
-        label: score,AA 2022 - Best Girl,AA 2022 - Best Character Design,AA 2022 - Best Fight Scene,AA 2022 - Best Action,AA 2021 - Anime of the Year,AA 2021 - Best Villain,AA 2021 - Best Ending,2020 Fall
+        label: score,AA Winner,2020 Fall
         user_rating: 8.6
       2:
         title: |-
           Jujutsu Kaisen 2nd Season
-        label: score,AA 2024 - Anime of the Year,AA 2024 - Best Character Design,AA 2024 - Best Opening,AA 2024 - Best Ending,AA 2024 - Best Director,AA 2024 - Best Cinematography,AA 2024 - Best Supporting Character,AA 2024 - Best Action,AA 2024 - Best VA Performance (Japanese),2023 Summer
+        label: score,AA Winner,2023 Summer
         user_rating: 8.8
     audience_rating: 8.7
     critic_rating: 8.7
@@ -3062,17 +3081,17 @@ metadata:
       1:
         title: |-
           Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen
-        label: score,AA 2020 - Best Ending,AA 2020 - Best Comedy,AA 2020 - Best Couple,2019 Winter
+        label: score,AA Winner,2019 Winter
         user_rating: 8.3
       2:
         title: |-
           Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen
-        label: score,AA 2021 - Best Girl,AA 2021 - Best Comedy,2020 Spring
+        label: score,AA Winner,2020 Spring
         user_rating: 8.6
       3:
         title: |-
           Kaguya-sama wa Kokurasetai: Ultra Romantic
-        label: score,AA 2023 - Best Romance,2022 Spring
+        label: score,AA Winner,2022 Spring
         user_rating: 8.9
     audience_rating: 8.6
     critic_rating: 8.7
@@ -3113,7 +3132,7 @@ metadata:
         label: score,2024 Spring
         user_rating: 7.8
     audience_rating: 7.8
-    critic_rating: 8.1
+    critic_rating: 8.2
     label: Airing
     label.remove: Planned,Ended
   422564:
@@ -3167,7 +3186,7 @@ metadata:
       1:
         title: |-
           Kami no Tou: Tower of God
-        label: score,AA 2021 - Best Score,2020 Spring
+        label: score,AA Winner,2020 Spring
         user_rating: 7.4
     audience_rating: 7.4
     critic_rating: 7.6
@@ -3514,7 +3533,7 @@ metadata:
       1:
         title: |-
           Kimetsu no Yaiba
-        label: score,AA 2020 - Anime of the Year,AA 2020 - Best Boy,AA 2020 - Best Fight Scene,2019 Spring
+        label: score,AA Winner,2019 Spring
         user_rating: 8.3
       2:
         title: |-
@@ -3524,12 +3543,12 @@ metadata:
       3:
         title: |-
           Kimetsu no Yaiba: Yuukaku-hen
-        label: score,AA 2023 - Best Character Design,AA 2023 - Best Animation,AA 2023 - Best Director,AA 2023 - Best Action,AA 2023 - Best Fantasy,2022 Winter
+        label: score,AA Winner,2022 Winter
         user_rating: 8.6
       4:
         title: |-
           Kimetsu no Yaiba: Katanakaji no Sato-hen
-        label: score,AA 2024 - Best Animation,AA 2024 - Best Art Direction,AA 2024 - Best Fantasy,2023 Spring
+        label: score,AA Winner,2023 Spring
         user_rating: 8.2
     audience_rating: 8.3
     critic_rating: 8.5
@@ -3665,7 +3684,7 @@ metadata:
       1:
         title: |-
           Kobayashi-san Chi no Maidragon
-        label: score,AA 2018 - Best Ending,AA 2018 - Best Comedy,2017 Winter
+        label: score,AA Winner,2017 Winter
         user_rating: 7.8
       2:
         title: |-
@@ -4136,7 +4155,7 @@ metadata:
       1:
         title: |-
           Lycoris Recoil
-        label: score,AA 2023 - Best Original Anime,2022 Summer
+        label: score,AA Winner,2022 Summer
         user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.2
@@ -4200,7 +4219,7 @@ metadata:
       1:
         title: |-
           Made in Abyss
-        label: score,AA 2018 - Anime of the Year,AA 2018 - Best Score,2017 Summer
+        label: score,AA Winner,2017 Summer
         user_rating: 8.5
       2:
         title: |-
@@ -4319,7 +4338,7 @@ metadata:
       1:
         title: |-
           Mahoutsukai no Yome
-        label: score,AA 2018 - Best Drama,2017 Fall
+        label: score,AA Winner,2017 Fall
         user_rating: 7.8
       2:
         title: |-
@@ -4552,12 +4571,12 @@ metadata:
       1:
         title: |-
           Mob Psycho 100
-        label: score,AA 2017 - Best Fight Scene,AA 2017 - Best Action,2016 Summer
+        label: score,AA Winner,2016 Summer
         user_rating: 8.4
       2:
         title: |-
           Mob Psycho 100 II
-        label: score,AA 2020 - Best Opening,AA 2020 - Best Animation,2019 Winter
+        label: score,AA Winner,2019 Winter
         user_rating: 8.8
       3:
         title: |-
@@ -4889,7 +4908,7 @@ metadata:
     studio: Toei Animation
     audience_rating: 8.8
     critic_rating: 8.7
-    label: Airing
+    label: AA Winner,Airing
     label.remove: Planned,Ended
   293088:
     title: |-
@@ -5089,7 +5108,7 @@ metadata:
       1:
         title: |-
           Ousama Ranking
-        label: score,AA 2022 - Best Boy,2021 Fall
+        label: score,AA Winner,2021 Fall
         user_rating: 8.4
     audience_rating: 8.4
     critic_rating: 8.5
@@ -5456,12 +5475,12 @@ metadata:
       1:
         title: |-
           Re:Zero kara Hajimeru Isekai Seikatsu
-        label: score,AA 2017 - Best Girl,2016 Spring
+        label: score,AA Winner,2016 Spring
         user_rating: 8.0
       2:
         title: |-
           Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
-        label: score,AA 2021 - Best VA Performance (Japanese),AA 2021 - Best Fantasy,2021 Winter,2020 Summer
+        label: score,2021 Winter,2020 Summer
         user_rating: 8.3
     audience_rating: 8.1
     critic_rating: 8.3
@@ -5778,7 +5797,7 @@ metadata:
         label: score,2024 Spring
         user_rating: 7.5
     audience_rating: 7.5
-    critic_rating: 7.0
+    critic_rating: 7.9
     label: Airing
     label.remove: Planned,Ended
   425756:
@@ -5856,7 +5875,7 @@ metadata:
       1:
         title: |-
           Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
-        label: score,AA 2019 - Best Girl,2018 Fall
+        label: score,AA Winner,2018 Fall
         user_rating: 8.0
     audience_rating: 8.0
     critic_rating: 8.2
@@ -6120,12 +6139,12 @@ metadata:
       3:
         title: |-
           Shingeki no Kyojin 3
-        label: score,AA 2020 - Best Director,AA 2019 - Best Ending,2019 Spring,2018 Summer
+        label: score,2019 Spring,2018 Summer
         user_rating: 8.7
       4:
         title: |-
           Shingeki no Kyojin: The Final Season
-        label: score,AA 2024 - Best Score,AA 2024 - Best Drama,2023 Winter,2022 Winter,2021 Winter
+        label: score,AA Winner,2023 Winter,2022 Winter,2021 Winter
         user_rating: 8.6
     audience_rating: 8.5
     critic_rating: 8.7
@@ -6203,7 +6222,7 @@ metadata:
       1:
         title: |-
           Shoujo Shuumatsu Ryokou
-        label: score,AA 2018 - Best Slice of Life,2017 Fall
+        label: score,AA Winner,2017 Fall
         user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.2
@@ -6354,25 +6373,6 @@ metadata:
     critic_rating: 8.2
     label: Ended
     label.remove: Planned,Airing
-  424536:
-    title: |-
-      Sousou no Frieren
-    sort_title: |-
-      Sousou no Frieren
-    original_title: |-
-      Frieren: Beyond Journey’s End
-    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Female Protagonist,Philosophy,Time Skip,Coming of Age,Kuudere,Iyashikei,Demons
-    studio: MADHOUSE
-    seasons:
-      1:
-        title: |-
-          Sousou no Frieren
-        label: score,2023 Fall
-        user_rating: 9.2
-    audience_rating: 9.2
-    critic_rating: 9.4
-    label: Ended
-    label.remove: Planned,Airing
   405920:
     title: |-
       Spy×family
@@ -6386,7 +6386,7 @@ metadata:
       1:
         title: |-
           Spy×family
-        label: score,AA 2024 - Must Protect At All Costs Character,AA 2024 - Best Comedy,2022 Fall,2022 Spring
+        label: score,AA Winner,2022 Fall,2022 Spring
         user_rating: 8.4
       2:
         title: |-
@@ -6585,7 +6585,7 @@ metadata:
       1:
         title: |-
           Tate no Yuusha no Nariagari
-        label: score,AA 2020 - Best Girl,2019 Winter
+        label: score,AA Winner,2019 Winter
         user_rating: 7.7
       2:
         title: |-
@@ -6806,12 +6806,12 @@ metadata:
       1:
         title: |-
           Tensei Shitara Slime Datta Ken
-        label: score,AA 2019 - Best Hero,2018 Fall
+        label: score,AA Winner,2018 Fall
         user_rating: 8.0
       2:
         title: |-
           Tensei Shitara Slime Datta Ken 2nd Season
-        label: score,AA 2022 - Best Fantasy,2021 Summer,2021 Winter
+        label: score,AA Winner,2021 Summer,2021 Winter
         user_rating: 8.3
       3:
         title: |-
@@ -6855,9 +6855,9 @@ metadata:
         title: |-
           The Fable
         label: score,2024 Spring
-        user_rating: 6.2
-    audience_rating: 6.2
-    critic_rating: 6.8
+        user_rating: 6.4
+    audience_rating: 6.4
+    critic_rating: 6.9
     label: Airing
     label.remove: Planned,Ended
   378556:
@@ -7044,7 +7044,7 @@ metadata:
       Tonari no Youkai-san
     original_title: |-
       Tonari no Yokai-san
-    genre.sync: Slice of Life,Supernatural,Youkai,Rural,Urban Fantasy,Iyashikei
+    genre.sync: Slice of Life,Supernatural,Youkai,Iyashikei,Rural,Urban Fantasy
     studio: LIDENFILMS
     seasons:
       1:
@@ -7053,7 +7053,7 @@ metadata:
         label: score,2024 Spring
         user_rating: 6.5
     audience_rating: 6.5
-    critic_rating: 7.1
+    critic_rating: 7.0
     label: Airing
     label.remove: Planned,Ended
   426572:
@@ -7090,7 +7090,7 @@ metadata:
       1:
         title: |-
           Tonikaku Kawaii
-        label: score,AA 2021 - Best Couple,2020 Fall
+        label: score,AA Winner,2020 Fall
         user_rating: 7.7
       2:
         title: |-
@@ -7462,7 +7462,7 @@ metadata:
       1:
         title: |-
           Vinland Saga
-        label: score,AA 2020 - Best Drama,2019 Summer
+        label: score,AA Winner,2019 Summer
         user_rating: 8.7
       2:
         title: |-
@@ -7488,7 +7488,7 @@ metadata:
       1:
         title: |-
           Violet Evergarden
-        label: score,AA 2019 - Best Animation,2018 Winter
+        label: score,AA Winner,2018 Winter
         user_rating: 8.5
     audience_rating: 8.5
     critic_rating: 8.7
@@ -7700,7 +7700,7 @@ metadata:
       1:
         title: |-
           Yakusoku no Neverland
-        label: score,AA 2020 - Best Villain,AA 2020 - Best Fantasy,2019 Winter
+        label: score,AA Winner,2019 Winter
         user_rating: 8.3
       2:
         title: |-
