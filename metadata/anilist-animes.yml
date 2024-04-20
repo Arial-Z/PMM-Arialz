@@ -728,16 +728,16 @@ metadata:
       Blue Archive The Animation
     original_title: |-
       Blue Archive The Animation
-    genre.sync: Action,Drama,School,Guns,Primarily Female Cast,Primarily Teen Cast,Teacher,Angels,Cute Girls Doing Cute Things,Female Harem
+    genre.sync: Action,Comedy,Drama,Slice of Life,School,Primarily Female Cast,Guns,Primarily Teen Cast,Teacher,Cute Girls Doing Cute Things,Angels,Female Harem
     studio: Yostar Pictures
     seasons:
       1:
         title: |-
           Blue Archive The Animation
         label: score,2024 Spring
-        user_rating: 7.2
-    audience_rating: 7.2
-    critic_rating: 7.9
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.8
     label: Airing
     label.remove: Planned,Ended
   408629:
@@ -1803,25 +1803,6 @@ metadata:
     critic_rating: 8.2
     label: Ended
     label.remove: Planned,Airing
-  424536:
-    title: |-
-      Sousou no Frieren
-    sort_title: |-
-      Sousou no Frieren
-    original_title: |-
-      Frieren: Beyond Journey’s End
-    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Female Protagonist,Philosophy,Time Skip,Coming of Age,Kuudere,Iyashikei,Demons
-    studio: MADHOUSE
-    seasons:
-      1:
-        title: |-
-          Sousou no Frieren
-        label: score,2023 Fall
-        user_rating: 9.2
-    audience_rating: 9.2
-    critic_rating: 9.4
-    label: Ended
-    label.remove: Planned,Airing
   375271:
     title: |-
       Fumetsu no Anata e
@@ -2105,8 +2086,10 @@ metadata:
         user_rating: 8.2
       2:
         title: |-
-          
-        user_rating: 0
+          Great Pretender
+        label: score,2020 Spring
+        user_rating: 8.2
+    audience_rating: 8.2
     critic_rating: 8.2
     label: Ended
     label.remove: Planned,Airing
@@ -2968,7 +2951,7 @@ metadata:
       Jii-san Baa-san Wakagaeru
     original_title: |-
       Grandpa and Grandma Turn Young Again
-    genre.sync: Comedy,Fantasy,Romance,Age Regression,Rural,Family Life,Heterosexual,Primarily Adult Cast,Female Protagonist,Male Protagonist
+    genre.sync: Comedy,Fantasy,Romance,Age Regression,Heterosexual,Rural,Family Life,Primarily Adult Cast,Female Protagonist,Male Protagonist
     studio: Gekkou
     seasons:
       1:
@@ -3123,7 +3106,7 @@ metadata:
       Kaijuu 8-gou
     original_title: |-
       Kaiju No.8
-    genre.sync: Action,Adventure,Sci-Fi,Kaiju,Monster Boy,Henshin,Super Power,Heterosexual,Shounen,Male Protagonist,Urban Fantasy
+    genre.sync: Action,Adventure,Sci-Fi,Kaiju,Monster Boy,Henshin,Super Power,Heterosexual,Shounen,Urban Fantasy,Male Protagonist
     studio: Production I.G
     seasons:
       1:
@@ -3306,16 +3289,16 @@ metadata:
       Karasu wa Aruji wo Erabanai
     original_title: |-
       YATAGARASU: The Raven Does Not Choose Its Master
-    genre.sync: Action,Supernatural
+    genre.sync: Action,Supernatural,Politics
     studio: Studio Pierrot
     seasons:
       1:
         title: |-
           Karasu wa Aruji wo Erabanai
         label: score,2024 Spring
-        user_rating: 5.7
-    audience_rating: 5.7
-    critic_rating: 6.6
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 7.0
     label: Airing
     label.remove: Planned,Ended
   132941:
@@ -3957,9 +3940,9 @@ metadata:
         title: |-
           Kuroshitsuji: Kishuku Gakkou-hen
         label: score,2024 Spring
-        user_rating: 7.1
-    audience_rating: 7.2
-    critic_rating: 7.6
+        user_rating: 7.5
+    audience_rating: 7.3
+    critic_rating: 7.7
     label: Airing
     label.remove: Planned,Ended
   431162:
@@ -4080,8 +4063,8 @@ metadata:
         title: |-
           Long Zu
         label: score,2022 Summer
-        user_rating: 6.9
-    audience_rating: 6.9
+        user_rating: 7.0
+    audience_rating: 7.0
     critic_rating: 7.1
     label: Planned
     label.remove: Airing,Ended
@@ -5788,7 +5771,7 @@ metadata:
       Sasayaku You ni Koi wo Utau
     original_title: |-
       Whisper Me a Love Song
-    genre.sync: Drama,Music,Romance,Yuri,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,LGBTQ+ Themes,Band,School,Love Triangle,School Club,Cute Girls Doing Cute Things
+    genre.sync: Drama,Music,Romance,Yuri,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,LGBTQ+ Themes,Band,School,Love Triangle,School Club,Cute Girls Doing Cute Things,Coming of Age
     studio: CLOUDHEARTS
     seasons:
       1:
@@ -5990,7 +5973,7 @@ metadata:
       Sentai Daishikkaku
     original_title: |-
       GO! GO! Loser Ranger!
-    genre.sync: Action,Comedy,Drama,Sci-Fi,Tokusatsu,Anti-Hero,Revenge,Espionage,Shapeshifting,Male Protagonist,Dystopian,Henshin
+    genre.sync: Action,Comedy,Drama,Sci-Fi,Tokusatsu,Anti-Hero,Revenge,Espionage,Shapeshifting,Dystopian,Male Protagonist,Henshin,CGI
     studio: Yostar Pictures
     seasons:
       1:
@@ -6373,6 +6356,25 @@ metadata:
     critic_rating: 8.2
     label: Ended
     label.remove: Planned,Airing
+  424536:
+    title: |-
+      Sousou no Frieren
+    sort_title: |-
+      Sousou no Frieren
+    original_title: |-
+      Frieren: Beyond Journey’s End
+    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Female Protagonist,Philosophy,Time Skip,Coming of Age,Kuudere,Iyashikei,Demons
+    studio: MADHOUSE
+    seasons:
+      1:
+        title: |-
+          Sousou no Frieren
+        label: score,2023 Fall
+        user_rating: 9.2
+    audience_rating: 9.2
+    critic_rating: 9.4
+    label: Ended
+    label.remove: Planned,Airing
   405920:
     title: |-
       Spy×family
@@ -6729,9 +6731,9 @@ metadata:
         title: |-
           Tensei Kizoku, Kantei Skill de Nariagaru
         label: score,2024 Spring
-        user_rating: 6.8
-    audience_rating: 6.8
-    critic_rating: 7.2
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended
   423362:
@@ -6893,9 +6895,9 @@ metadata:
         title: |-
           The New Gate
         label: score,2024 Spring
-        user_rating: 6.0
-    audience_rating: 6.0
-    critic_rating: 6.6
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 6.7
     label: Airing
     label.remove: Planned,Ended
   388672:
@@ -7418,7 +7420,7 @@ metadata:
       Vampire Dormitory
     original_title: |-
       Vampire Dormitory
-    genre.sync: Romance,Supernatural,Crossdressing,Vampire,Shoujo,Female Protagonist
+    genre.sync: Romance,Supernatural,Crossdressing,Vampire,Shoujo,Female Protagonist,LGBTQ+ Themes
     studio: Studio Blanc
     seasons:
       1:
@@ -7427,7 +7429,7 @@ metadata:
         label: score,2024 Spring
         user_rating: 5.8
     audience_rating: 5.8
-    critic_rating: 6.4
+    critic_rating: 6.3
     label: Airing
     label.remove: Planned,Ended
   400133:
@@ -7756,7 +7758,7 @@ metadata:
       Yoru no Kurage wa Oyogenai
     original_title: |-
       Jellyfish Can’t Swim in the Night
-    genre.sync: Drama,Female Protagonist,Primarily Female Cast,Urban,Idol,Drawing,Coming of Age,VTuber,Cute Girls Doing Cute Things
+    genre.sync: Drama,Female Protagonist,Primarily Female Cast,Urban,Idol,Drawing,Coming of Age,Denpa,Cute Girls Doing Cute Things
     studio: Doga Kobo
     seasons:
       1:
@@ -7765,7 +7767,7 @@ metadata:
         label: score,2024 Spring
         user_rating: 7.7
     audience_rating: 7.7
-    critic_rating: 8.0
+    critic_rating: 8.1
     label: Airing
     label.remove: Planned,Ended
   315500:
@@ -7832,7 +7834,7 @@ metadata:
         label: score,2024 Spring
         user_rating: 7.1
     audience_rating: 7.1
-    critic_rating: 7.4
+    critic_rating: 7.3
     label: Airing
     label.remove: Planned,Ended
   436899:
