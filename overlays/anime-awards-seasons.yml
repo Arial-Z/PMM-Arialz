@@ -20,7 +20,7 @@ templates:
 
 overlays:
   anime-awards-seasons:
-    template: { name: anime-awards, img: Anime-Awards}
+    template: { name: anime-awards, img: anime-awards}
     plex_search:
       all:
         season_label: AA Winner
