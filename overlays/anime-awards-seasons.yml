@@ -1,5 +1,6 @@
 templates:
   anime-awards:
+    builder_level: season
     default:
       horizontal_offset: 15
       horizontal_align: right
@@ -7,7 +8,7 @@ templates:
       vertical_align: bottom
     overlay:
       name: <<overlay_name>>
-      url: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/overlays/img/animes/<<overlay_name>>.png
+      url: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/overlays/img/animes/<<img>>.png
       back_color: "#00000099"
       back_radius: 30
       back_width: 350
@@ -17,9 +18,8 @@ templates:
       vertical_offset: <<vertical_offset>>
       vertical_align: <<vertical_align>>
 
-overlays:
-  anime-awards:
-    template: { name: anime-awards}
+  anime-awards-seasons:
+    template: { name: anime-awards, img: Anime-Awards}
     plex_search:
       all:
-        label: AA Winner
+        season_label: AA Winner
