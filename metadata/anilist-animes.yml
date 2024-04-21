@@ -837,12 +837,8 @@ metadata:
           Boku no Hero Academia 6
         label: score,2022 Fall
         user_rating: 8.2
-      7:
-        title: |-
-          Boku no Hero Academia 7
-        user_rating: 0
-    audience_rating: 9.4
-    critic_rating: 8.0
+    audience_rating: 7.8
+    critic_rating: 7.9
     label: AA Winner,Planned
     label.remove: Airing,Ended
   422981:
@@ -993,6 +989,30 @@ metadata:
     critic_rating: 8.2
     label: Ended
     label.remove: Planned,Airing
+  339203:
+    title: |-
+      Captain Tsubasa (2018)
+    sort_title: |-
+      Captain Tsubasa (2018)
+    original_title: |-
+      Captain Tsubasa (2018)
+    genre.sync: Action,Sports,Football,Shounen,Primarily Male Cast,Male Protagonist,Coming of Age,Primarily Child Cast,School Club
+    studio: David Production
+    seasons:
+      1:
+        title: |-
+          Captain Tsubasa (2018)
+        label: score,2018 Spring
+        user_rating: 7.0
+      2:
+        title: |-
+          Captain Tsubasa: Season 2 - Junior Youth-hen
+        label: score,2023 Fall
+        user_rating: 6.8
+    audience_rating: 6.9
+    critic_rating: 7.4
+    label: Airing
+    label.remove: Planned,Ended
   83316:
     title: |-
       Casshern Sins
@@ -1301,7 +1321,7 @@ metadata:
     studio: TMS Entertainment
     audience_rating: 7.6
     critic_rating: 8.0
-    label: AA Winner,Ended
+    label: Ended
     label.remove: Planned,Airing
   312878:
     title: |-
@@ -1428,7 +1448,10 @@ metadata:
           Dawang Raoming
         label: score,2021 Fall
         user_rating: 7.3
-    audience_rating: 7.3
+      2:
+        title: |-
+          
+        user_rating: 0
     critic_rating: 7.5
     label: Ended
     label.remove: Planned,Airing
@@ -2626,7 +2649,7 @@ metadata:
     studio: MADHOUSE
     audience_rating: 8.9
     critic_rating: 9.0
-    label: AA Winner,Ended
+    label: Ended
     label.remove: Planned,Airing
   370377:
     title: |-
