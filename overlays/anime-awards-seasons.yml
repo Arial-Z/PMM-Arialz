@@ -18,6 +18,7 @@ templates:
       vertical_offset: <<vertical_offset>>
       vertical_align: <<vertical_align>>
 
+overlays:
   anime-awards-seasons:
     template: { name: anime-awards, img: Anime-Awards}
     plex_search:
