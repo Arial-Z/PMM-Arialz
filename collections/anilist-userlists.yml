@@ -5,7 +5,7 @@ collections:
         label: watching
       sort_by: title.asc
     sort_title: |-
-      !8 - Anilist
+      !3 - Anilist-1
     collection_mode: hide
     visible_library: false
     visible_home: false
@@ -19,7 +19,7 @@ collections:
         label: completed
       sort_by: title.asc
     sort_title: |-
-      !9 - Anilist
+      !3 - Anilist-2
     collection_mode: hide
     visible_library: false
     visible_home: false
@@ -33,7 +33,7 @@ collections:
         label: planning
       sort_by: title.asc
     sort_title: |-
-      !10 - Anilist
+      !3 - Anilist-3
     collection_mode: hide
     visible_library: false
     visible_home: false
@@ -47,7 +47,7 @@ collections:
         label: paused
       sort_by: title.asc
     sort_title: |-
-      !11 - Anilist
+      !3 - Anilist-4
     collection_mode: hide
     visible_library: false
     visible_home: false
@@ -61,7 +61,7 @@ collections:
         label: dropped
       sort_by: title.asc
     sort_title: |-
-      !11 - Anilist
+      !3 - Anilist-5
     collection_mode: hide
     visible_library: false
     visible_home: false
