@@ -39,7 +39,7 @@ overlays:
       all:
         season_label: watching
 
-  dropped:
+  Dropped:
     template:
       - name: anilist-userlists
         weight: 10
