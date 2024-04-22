@@ -9,7 +9,7 @@ templates:
       vertical_align: bottom
     overlay:
       name: text(<<overlay_name>>)
-      group: status-animes
+      group: anilist-userlists
       weight: <<weight>>
       font: fonts/Roboto-Bold.ttf
       font_size: 60
@@ -23,6 +23,22 @@ templates:
       vertical_align: <<vertical_align>>
 
 overlays:
+  Watching:
+    template:
+      - name: anilist-userlists
+        weight: 50
+    plex_search:
+      all:
+        season_label: watching
+
+  Planning:
+    template:
+      - name: anilist-userlists
+        weight: 40
+    plex_search:
+      all:
+        season_label: planning
+
   Completed:
     template:
       - name: anilist-userlists
@@ -30,22 +46,6 @@ overlays:
     plex_search:
       all:
         season_label: completed
-
-  Watching:
-    template:
-      - name: anilist-userlists
-        weight: 20
-    plex_search:
-      all:
-        season_label: watching
-
-  Dropped:
-    template:
-      - name: anilist-userlists
-        weight: 10
-    plex_search:
-      all:
-        season_label: dropped
 
   Paused:
     template:
@@ -55,10 +55,10 @@ overlays:
       all:
         season_label: paused
 
-  Planning:
+  dropped:
     template:
       - name: anilist-userlists
         weight: 10
     plex_search:
       all:
-        season_label: planning
+        season_label: dropped
