@@ -3,9 +3,9 @@ templates:
     builder_level: season
     default:
       horizontal_offset: 15
-      horizontal_align: right
-      vertical_offset: 165
-      vertical_align: bottom
+      horizontal_align: left
+      vertical_offset: 15
+      vertical_align: top
     overlay:
       name: <<overlay_name>>
       url: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/overlays/img/animes/<<img>>.png

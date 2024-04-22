@@ -1,0 +1,63 @@
+templates:
+  anilist-userlists:
+    default:
+      overlay: <<overlay_name>>
+      horizontal_offset: 15
+      horizontal_align: left
+      vertical_offset: 165
+      vertical_align: bottom
+    overlay:
+      name: text(<<overlay_name>>)
+      group: anilist-userlists
+      weight: <<weight>>
+      font: fonts/Roboto-Bold.ttf
+      font_size: 60
+      back_color: "#00000099"
+      back_radius: 30
+      back_width: 350
+      back_height: 120
+      horizontal_offset: <<horizontal_offset>>
+      horizontal_align: <<horizontal_align>>
+      vertical_offset: <<vertical_offset>>
+      vertical_align: <<vertical_align>>
+
+overlays:
+  Watching:
+    template:
+      - name: anilist-userlists
+        weight: 50
+    plex_search:
+      all:
+        label: watching
+
+  Planning:
+    template:
+      - name: anilist-userlists
+        weight: 40
+    plex_search:
+      all:
+        label: planning
+
+  Completed:
+    template:
+      - name: anilist-userlists
+        weight: 30
+    plex_search:
+      all:
+        label: completed
+
+  Paused:
+    template:
+      - name: anilist-userlists
+        weight: 20
+    plex_search:
+      all:
+        label: paused
+
+  dropped:
+    template:
+      - name: anilist-userlists
+        weight: 10
+    plex_search:
+      all:
+        label: dropped

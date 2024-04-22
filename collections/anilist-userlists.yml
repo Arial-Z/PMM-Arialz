@@ -1,0 +1,70 @@
+collections:
+  Anilist - Watching:
+    smart_filter:
+      all:
+        label: watching
+      sort_by: title.asc
+    sort_title: |-
+      !3 - Anilist-1
+    collection_mode: hide
+    visible_library: false
+    visible_home: false
+    visible_shared: false
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/anilist-userlists/watching.png
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_background.jpg
+
+  Anilist - Completed:
+    smart_filter:
+      all:
+        label: completed
+      sort_by: title.asc
+    sort_title: |-
+      !3 - Anilist-2
+    collection_mode: hide
+    visible_library: false
+    visible_home: false
+    visible_shared: false
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/anilist-userlists/completed.png
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_background.jpg
+
+  Anilist - Planning:
+    smart_filter:
+      all:
+        label: planning
+      sort_by: title.asc
+    sort_title: |-
+      !3 - Anilist-3
+    collection_mode: hide
+    visible_library: false
+    visible_home: false
+    visible_shared: false
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/anilist-userlists/planning.png
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_background.jpg
+
+  Anilist - Paused:
+    smart_filter:
+      all:
+        label: paused
+      sort_by: title.asc
+    sort_title: |-
+      !3 - Anilist-4
+    collection_mode: hide
+    visible_library: false
+    visible_home: false
+    visible_shared: false
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/anilist-userlists/paused.png
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_background.jpg
+
+  Anilist - Dropped:
+    smart_filter:
+      all:
+        label: dropped
+      sort_by: title.asc
+    sort_title: |-
+      !3 - Anilist-5
+    collection_mode: hide
+    visible_library: false
+    visible_home: false
+    visible_shared: false
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/anilist-userlists/dropped.png
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_background.jpg
