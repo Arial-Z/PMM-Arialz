@@ -1491,8 +1491,8 @@ metadata:
           Date A Live V
         label: score,2024 Spring
         label.remove: completed,watching,dropped,paused,planning
-        user_rating: 7.7
-    audience_rating: 7.2
+        user_rating: 7.6
+    audience_rating: 7.1
     critic_rating: 7.5
     label: Airing,watching
     label.remove: Planned,Ended,completed,dropped,paused,planning
@@ -1515,13 +1515,13 @@ metadata:
       2:
         title: |-
           Dawang Raoming 2
-        label: score,2023 Fall
-        label.remove: completed,watching,dropped,paused,planning
+        label: score,watching,2023 Fall
+        label.remove: completed,dropped,paused,planning
         user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.6
-    label: Ended,completed
-    label.remove: Planned,Airing,watching,dropped,paused,planning
+    label: Ended,watching
+    label.remove: Planned,Airing,dropped,paused,planning
   427239:
     title: |-
       Dead Mount Death Play
@@ -3223,7 +3223,7 @@ metadata:
       Kaii to Otome to Kamikakushi
     original_title: |-
       Mysterious Disappearances
-    genre.sync: Ecchi,Mystery,Romance,Supernatural,Urban Fantasy,Seinen,Female Protagonist
+    genre.sync: Ecchi,Mystery,Romance,Supernatural,Urban Fantasy,Seinen,Female Protagonist,Age Regression,Nudity
     studio: Zero-G
     seasons:
       1:
@@ -3883,8 +3883,8 @@ metadata:
           Kono Subarashii Sekai ni Shukufuku wo! 3
         label: score,watching,2024 Spring
         label.remove: completed,dropped,paused,planning
-        user_rating: 8.1
-    audience_rating: 8.0
+        user_rating: 8.2
+    audience_rating: 8.1
     critic_rating: 8.3
     label: Airing,watching
     label.remove: Planned,Ended,dropped,paused,planning
@@ -6098,7 +6098,7 @@ metadata:
       Seiyuu Radio no Uraomote
     original_title: |-
       The Many Sides of Voice Actor Radio
-    genre.sync: Comedy,Drama,Slice of Life,Female Protagonist,Primarily Female Cast,Acting,Work,Gyaru,Idol
+    genre.sync: Comedy,Drama,Slice of Life,Female Protagonist,Primarily Female Cast,Acting,Work,Gyaru,Idol,School,Yuri
     studio: CONNECT
     seasons:
       1:
