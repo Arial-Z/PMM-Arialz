@@ -127,8 +127,8 @@ metadata:
           Sand Land: The Series
         label: score,watching,2024 Spring
         label.remove: completed,dropped,paused,planning
-        user_rating: 7.1
-    audience_rating: 7.1
+        user_rating: 7.2
+    audience_rating: 7.2
     critic_rating: 7.6
     label: Airing,watching
     label.remove: Planned,Ended,completed,dropped,paused,planning
@@ -647,8 +647,8 @@ metadata:
           Bartender: Kami no Glass
         label: score,watching,2024 Spring
         label.remove: completed,dropped,paused,planning
-        user_rating: 7.3
-    audience_rating: 7.3
+        user_rating: 7.2
+    audience_rating: 7.2
     critic_rating: 7.6
     label: Airing,watching
     label.remove: Planned,Ended,completed,dropped,paused,planning
@@ -942,9 +942,9 @@ metadata:
           Boukyaku Battery (TV)
         label: score,watching,2024 Spring
         label.remove: completed,dropped,paused,planning
-        user_rating: 6.1
-    audience_rating: 6.1
-    critic_rating: 6.8
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.9
     label: Airing,watching
     label.remove: Planned,Ended,completed,dropped,paused,planning
   426530:
@@ -5695,7 +5695,7 @@ metadata:
       Rinkai!
     original_title: |-
       Rinkai!
-    genre.sync: Sports,Cycling,Female Protagonist,Coming of Age
+    genre.sync: Sports,Cycling,Female Protagonist,Coming of Age,Primarily Female Cast,Primarily Teen Cast
     studio: TMS Entertainment
     seasons:
       1:
@@ -5705,7 +5705,7 @@ metadata:
         label.remove: completed,watching,dropped,paused,planning
         user_rating: 4.9
     audience_rating: 4.9
-    critic_rating: 5.8
+    critic_rating: 5.9
     label: Airing
     label.remove: Planned,Ended,completed,watching,dropped,paused,planning
   423787:
@@ -7631,7 +7631,7 @@ metadata:
       Unnamed Memory
     original_title: |-
       Unnamed Memory
-    genre.sync: Adventure,Fantasy,Romance,Witch,Royal Affairs,Heterosexual
+    genre.sync: Adventure,Fantasy,Romance,Witch,Royal Affairs,Heterosexual,Magic,Primarily Adult Cast
     studio: ENGI
     seasons:
       1:
