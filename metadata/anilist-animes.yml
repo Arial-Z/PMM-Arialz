@@ -130,8 +130,8 @@ metadata:
         user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.6
-    label: Airing,watching
-    label.remove: Planned,Ended,completed,dropped,paused,planning
+    label: Ended,watching
+    label.remove: Planned,Airing,completed,dropped,paused,planning
   429055:
     title: |-
       16bit Sensation: ANOTHER LAYER
@@ -1491,7 +1491,7 @@ metadata:
           Date A Live V
         label: score,2024 Spring
         label.remove: completed,watching,dropped,paused,planning
-        user_rating: 7.6
+        user_rating: 7.5
     audience_rating: 7.1
     critic_rating: 7.5
     label: Airing,watching
@@ -2023,6 +2023,26 @@ metadata:
     critic_rating: 8.9
     label: Ended,completed
     label.remove: Planned,Airing,watching,dropped,paused,planning
+  434127:
+    title: |-
+      Girls Band Cry
+    sort_title: |-
+      Girls Band Cry
+    original_title: |-
+      Girls Band Cry
+    genre.sync: Drama,Music,Slice of Life,Band,Female Protagonist,Primarily Female Cast,Full CGI,Urban,Bullying,Denpa
+    studio: Toei Animation
+    seasons:
+      1:
+        title: |-
+          Girls Band Cry
+        label: score,2024 Spring
+        label.remove: completed,watching,dropped,paused,planning
+        user_rating: 7.7
+    audience_rating: 7.7
+    critic_rating: 7.8
+    label: Airing
+    label.remove: Planned,Ended,completed,watching,dropped,paused,planning
   262098:
     title: |-
       Girls und Panzer
@@ -3223,7 +3243,7 @@ metadata:
       Kaii to Otome to Kamikakushi
     original_title: |-
       Mysterious Disappearances
-    genre.sync: Ecchi,Mystery,Romance,Supernatural,Urban Fantasy,Seinen,Female Protagonist,Age Regression,Nudity
+    genre.sync: Ecchi,Mystery,Romance,Supernatural,Urban Fantasy,Female Protagonist,Seinen,Age Regression,Writing,Ghost
     studio: Zero-G
     seasons:
       1:
@@ -3883,8 +3903,8 @@ metadata:
           Kono Subarashii Sekai ni Shukufuku wo! 3
         label: score,watching,2024 Spring
         label.remove: completed,dropped,paused,planning
-        user_rating: 8.2
-    audience_rating: 8.1
+        user_rating: 8.1
+    audience_rating: 8.0
     critic_rating: 8.3
     label: Airing,watching
     label.remove: Planned,Ended,dropped,paused,planning
@@ -5922,6 +5942,26 @@ metadata:
     critic_rating: 8.1
     label: Ended,completed
     label.remove: Planned,Airing,watching,dropped,paused,planning
+  436947:
+    title: |-
+      Henjin no Salad Bowl
+    sort_title: |-
+      Henjin no Salad Bowl
+    original_title: |-
+      A Salad Bowl of Eccentrics
+    genre.sync: Comedy,Fantasy,Slice of Life,Male Protagonist,Female Protagonist,Isekai,Magic,Cult,Homeless,Detective,Otaku Culture,Ensemble Cast
+    studio: SynergySP
+    seasons:
+      1:
+        title: |-
+          Henjin no Salad Bowl
+        label: score,2024 Spring
+        label.remove: completed,watching,dropped,paused,planning
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 7.2
+    label: Airing
+    label.remove: Planned,Ended,completed,watching,dropped,paused,planning
   79089:
     title: |-
       Samurai Champloo
@@ -6118,7 +6158,7 @@ metadata:
       Seiyuu Radio no Uraomote
     original_title: |-
       The Many Sides of Voice Actor Radio
-    genre.sync: Comedy,Drama,Slice of Life,Female Protagonist,Primarily Female Cast,Acting,Work,Gyaru,Idol,School,Yuri
+    genre.sync: Comedy,Drama,Slice of Life,Female Protagonist,Primarily Female Cast,Acting,Work,Gyaru,Cute Girls Doing Cute Things,Idol,Yuri,School
     studio: CONNECT
     seasons:
       1:
@@ -6126,8 +6166,8 @@ metadata:
           Seiyuu Radio no Uraomote
         label: score,2024 Spring
         label.remove: completed,watching,dropped,paused,planning
-        user_rating: 6.6
-    audience_rating: 6.6
+        user_rating: 6.7
+    audience_rating: 6.7
     critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended,completed,watching,dropped,paused,planning
