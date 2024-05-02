@@ -2479,6 +2479,26 @@ metadata:
     critic_rating: 8.4
     label: Ended,completed
     label.remove: Planned,Airing,watching,dropped,paused,planning
+  436947:
+    title: |-
+      Henjin no Salad Bowl
+    sort_title: |-
+      Henjin no Salad Bowl
+    original_title: |-
+      A Salad Bowl of Eccentrics
+    genre.sync: Comedy,Fantasy,Slice of Life,Male Protagonist,Female Protagonist,Isekai,Magic,Cult,Homeless,Detective,Otaku Culture,Ensemble Cast
+    studio: SynergySP
+    seasons:
+      1:
+        title: |-
+          Henjin no Salad Bowl
+        label: score,2024 Spring
+        label.remove: completed,watching,dropped,paused,planning
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 7.2
+    label: Airing
+    label.remove: Planned,Ended,completed,watching,dropped,paused,planning
   79999:
     title: |-
       Heroic Age
@@ -4679,7 +4699,7 @@ metadata:
         label.remove: completed,dropped,paused,planning
         user_rating: 5.6
     audience_rating: 5.6
-    critic_rating: 6.3
+    critic_rating: 6.4
     label: Ended,watching
     label.remove: Planned,Airing,completed,dropped,paused,planning
   72454:
@@ -5942,26 +5962,6 @@ metadata:
     critic_rating: 8.1
     label: Ended,completed
     label.remove: Planned,Airing,watching,dropped,paused,planning
-  436947:
-    title: |-
-      Henjin no Salad Bowl
-    sort_title: |-
-      Henjin no Salad Bowl
-    original_title: |-
-      A Salad Bowl of Eccentrics
-    genre.sync: Comedy,Fantasy,Slice of Life,Male Protagonist,Female Protagonist,Isekai,Magic,Cult,Homeless,Detective,Otaku Culture,Ensemble Cast
-    studio: SynergySP
-    seasons:
-      1:
-        title: |-
-          Henjin no Salad Bowl
-        label: score,2024 Spring
-        label.remove: completed,watching,dropped,paused,planning
-        user_rating: 6.8
-    audience_rating: 6.8
-    critic_rating: 7.2
-    label: Airing
-    label.remove: Planned,Ended,completed,watching,dropped,paused,planning
   79089:
     title: |-
       Samurai Champloo
