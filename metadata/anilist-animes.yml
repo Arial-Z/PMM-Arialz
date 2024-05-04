@@ -125,13 +125,13 @@ metadata:
       1:
         title: |-
           Sand Land: The Series
-        label: score,watching,2024 Spring
-        label.remove: completed,dropped,paused,planning
+        label: score,completed,2024 Spring
+        label.remove: watching,dropped,paused,planning
         user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.6
-    label: Ended,watching
-    label.remove: Planned,Airing,completed,dropped,paused,planning
+    label: Ended,completed
+    label.remove: Planned,Airing,watching,dropped,paused,planning
   429055:
     title: |-
       16bit Sensation: ANOTHER LAYER
@@ -758,7 +758,7 @@ metadata:
       Blue Archive The Animation
     original_title: |-
       Blue Archive The Animation
-    genre.sync: Action,Comedy,Drama,Slice of Life,School,Primarily Female Cast,Guns,Primarily Teen Cast,Desert,Teacher,Angels,Cute Girls Doing Cute Things
+    genre.sync: Action,Comedy,Fantasy,Slice of Life,School,Primarily Female Cast,Guns,Primarily Teen Cast,Desert,Teacher,Angels,Cute Girls Doing Cute Things
     studio: Yostar Pictures
     seasons:
       1:
@@ -768,7 +768,7 @@ metadata:
         label.remove: completed,dropped,paused,planning
         user_rating: 7.0
     audience_rating: 7.0
-    critic_rating: 7.7
+    critic_rating: 7.6
     label: Airing,watching
     label.remove: Planned,Ended,completed,dropped,paused,planning
   408629:
@@ -877,10 +877,16 @@ metadata:
         label: score,completed,2022 Fall
         label.remove: watching,dropped,paused,planning
         user_rating: 8.2
+      7:
+        title: |-
+          Boku no Hero Academia 7
+        label: score,watching,2024 Spring
+        label.remove: completed,dropped,paused,planning
+        user_rating: 7.8
     audience_rating: 7.8
-    critic_rating: 7.9
-    label: AA Winner,Planned,planning
-    label.remove: Airing,Ended,dropped,paused,
+    critic_rating: 8.0
+    label: AA Winner,Airing,planning
+    label.remove: Planned,Ended,dropped,paused,
   422981:
     title: |-
       Boku no Kokoro no Yabai Yatsu
@@ -1040,7 +1046,7 @@ metadata:
           Captain Tsubasa: Season 2 - Junior Youth-hen
         label: score,2023 Fall
         label.remove: completed,watching,dropped,paused,planning
-        user_rating: 6.8
+        user_rating: 6.9
     audience_rating: 6.9
     critic_rating: 7.4
     label: Airing,paused
@@ -3117,7 +3123,7 @@ metadata:
       Jii-san Baa-san Wakagaeru
     original_title: |-
       Grandpa and Grandma Turn Young Again
-    genre.sync: Comedy,Fantasy,Romance,Age Regression,Heterosexual,Family Life,Rural,Primarily Adult Cast,Female Protagonist,Male Protagonist
+    genre.sync: Comedy,Fantasy,Romance,Age Regression,Heterosexual,Family Life,Rural,Female Protagonist,Male Protagonist,Primarily Adult Cast
     studio: Gekkou
     seasons:
       1:
@@ -3283,7 +3289,7 @@ metadata:
       Kaijuu 8-gou
     original_title: |-
       Kaiju No.8
-    genre.sync: Action,Adventure,Sci-Fi,Kaiju,Monster Boy,Heterosexual,Shounen,Henshin,Super Power,Urban Fantasy,Male Protagonist
+    genre.sync: Action,Adventure,Sci-Fi,Kaiju,Monster Boy,Heterosexual,Henshin,Super Power,Shounen,Urban Fantasy,Male Protagonist
     studio: Production I.G
     seasons:
       1:
@@ -3465,9 +3471,9 @@ metadata:
           Karasu wa Aruji wo Erabanai
         label: score,watching,2024 Spring
         label.remove: completed,dropped,paused,planning
-        user_rating: 6.3
-    audience_rating: 6.3
-    critic_rating: 7.2
+        user_rating: 6.4
+    audience_rating: 6.4
+    critic_rating: 7.3
     label: Airing,watching
     label.remove: Planned,Ended,completed,dropped,paused,planning
   132941:
@@ -6032,8 +6038,8 @@ metadata:
           Sasayaku You ni Koi wo Utau
         label: score,2024 Spring
         label.remove: completed,watching,dropped,paused,planning
-        user_rating: 7.5
-    audience_rating: 7.5
+        user_rating: 7.4
+    audience_rating: 7.4
     critic_rating: 7.8
     label: Airing
     label.remove: Planned,Ended,completed,watching,dropped,paused,planning
@@ -6238,7 +6244,7 @@ metadata:
       Sentai Daishikkaku
     original_title: |-
       GO! GO! Loser Ranger!
-    genre.sync: Action,Comedy,Drama,Sci-Fi,Tokusatsu,Anti-Hero,Revenge,Shapeshifting,Dystopian,Espionage,Henshin,Male Protagonist,Shounen,CGI
+    genre.sync: Action,Comedy,Drama,Sci-Fi,Tokusatsu,Anti-Hero,Revenge,Shapeshifting,Espionage,Dystopian,Henshin,Male Protagonist,Shounen,CGI,Conspiracy
     studio: Yostar Pictures
     seasons:
       1:
@@ -8101,7 +8107,7 @@ metadata:
       Yoru no Kurage wa Oyogenai
     original_title: |-
       Jellyfish Can’t Swim in the Night
-    genre.sync: Drama,Female Protagonist,Primarily Female Cast,Urban,Drawing,Coming of Age,Idol,Denpa,Cute Girls Doing Cute Things
+    genre.sync: Drama,Female Protagonist,Primarily Female Cast,Urban,Drawing,Coming of Age,Idol,Denpa,Primarily Teen Cast,Cute Girls Doing Cute Things,Yuri
     studio: Doga Kobo
     seasons:
       1:
