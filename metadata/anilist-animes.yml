@@ -119,7 +119,7 @@ metadata:
       Sand Land: The Series
     original_title: |-
       Sand Land: The Series
-    genre.sync: Action,Adventure,Fantasy,Supernatural,Post-Apocalyptic,Tanks,Desert,Full CGI,Military,Demons,Dystopian,Primarily Male Cast
+    genre.sync: Action,Adventure,Fantasy,Supernatural,Post-Apocalyptic,Tanks,Desert,Full CGI,Dystopian,Military,Demons,Primarily Male Cast
     studio: Sunrise
     seasons:
       1:
@@ -127,8 +127,8 @@ metadata:
           Sand Land: The Series
         label: score,completed,2024 Spring
         label.remove: watching,dropped,paused,planning
-        user_rating: 7.2
-    audience_rating: 7.2
+        user_rating: 7.4
+    audience_rating: 7.4
     critic_rating: 7.6
     label: Ended,completed
     label.remove: Planned,Airing,watching,dropped,paused,planning
@@ -612,26 +612,6 @@ metadata:
     critic_rating: 8.3
     label: Ended,completed
     label.remove: Planned,Airing,watching,dropped,paused,planning
-  436378:
-    title: |-
-      Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita
-    sort_title: |-
-      Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita
-    original_title: |-
-      The Banished Former Hero Lives as He Pleases
-    genre.sync: Action,Adventure,Fantasy,Romance,Reincarnation
-    studio: Studio DEEN
-    seasons:
-      1:
-        title: |-
-          Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita
-        label: score,watching,2024 Spring
-        label.remove: completed,dropped,paused,planning
-        user_rating: 4.6
-    audience_rating: 4.6
-    critic_rating: 5.0
-    label: Airing,watching
-    label.remove: Planned,Ended,completed,dropped,paused,planning
   281270:
     title: |-
       Barakamon
@@ -968,9 +948,9 @@ metadata:
           Boukyaku Battery (TV)
         label: score,watching,2024 Spring
         label.remove: completed,dropped,paused,planning
-        user_rating: 6.2
-    audience_rating: 6.2
-    critic_rating: 6.9
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 7.0
     label: Airing,watching
     label.remove: Planned,Ended,completed,dropped,paused,planning
   426530:
@@ -1608,6 +1588,26 @@ metadata:
     critic_rating: 7.7
     label: Ended,completed
     label.remove: Planned,Airing,watching,dropped,paused,planning
+  436378:
+    title: |-
+      Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita
+    sort_title: |-
+      Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita
+    original_title: |-
+      The Banished Former Hero Lives as He Pleases
+    genre.sync: Action,Adventure,Fantasy,Romance,Reincarnation
+    studio: Studio DEEN
+    seasons:
+      1:
+        title: |-
+          Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita
+        label: score,watching,2024 Spring
+        label.remove: completed,dropped,paused,planning
+        user_rating: 4.6
+    audience_rating: 4.6
+    critic_rating: 5.0
+    label: Airing,watching
+    label.remove: Planned,Ended,completed,dropped,paused,planning
   424530:
     title: |-
       Dekoboko Majo no Oyako Jijou
@@ -3239,7 +3239,7 @@ metadata:
         label.remove: completed,watching,dropped,paused,planning
         user_rating: 6.6
     audience_rating: 6.6
-    critic_rating: 7.1
+    critic_rating: 7.0
     label: Airing
     label.remove: Planned,Ended,completed,watching,dropped,paused,planning
   423075:
@@ -6034,7 +6034,7 @@ metadata:
         label.remove: completed,watching,dropped,paused,planning
         user_rating: 6.7
     audience_rating: 6.7
-    critic_rating: 7.1
+    critic_rating: 7.2
     label: Airing
     label.remove: Planned,Ended,completed,watching,dropped,paused,planning
   398193:
@@ -7525,8 +7525,8 @@ metadata:
           Unnamed Memory
         label: score,watching,2024 Spring
         label.remove: completed,dropped,paused,planning
-        user_rating: 6.9
-    audience_rating: 6.9
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 7.2
     label: Airing,watching
     label.remove: Planned,Ended,completed,dropped,paused,planning
