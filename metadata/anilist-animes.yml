@@ -129,7 +129,7 @@ metadata:
         label.remove: watching,dropped,paused,planning
         user_rating: 7.4
     audience_rating: 7.4
-    critic_rating: 7.6
+    critic_rating: 7.7
     label: Ended,completed
     label.remove: Planned,Airing,watching,dropped,paused,planning
   429055:
@@ -639,7 +639,7 @@ metadata:
       Bartender: Kami no Glass
     original_title: |-
       BARTENDER Glass of God
-    genre.sync: Drama,Slice of Life,Seinen,Work,Bar,Male Protagonist,Primarily Adult Cast,Food,Educational
+    genre.sync: Drama,Slice of Life,Work,Seinen,Bar,Male Protagonist,Primarily Adult Cast,Food
     studio: Liber
     seasons:
       1:
@@ -7531,8 +7531,8 @@ metadata:
           Unnamed Memory
         label: score,watching,2024 Spring
         label.remove: completed,dropped,paused,planning
-        user_rating: 6.8
-    audience_rating: 6.8
+        user_rating: 6.7
+    audience_rating: 6.7
     critic_rating: 7.1
     label: Airing,watching
     label.remove: Planned,Ended,completed,dropped,paused,planning
