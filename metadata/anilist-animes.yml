@@ -884,7 +884,7 @@ metadata:
         label.remove: completed,dropped,paused,planning
         user_rating: 7.8
     audience_rating: 7.8
-    critic_rating: 8.0
+    critic_rating: 7.9
     label: AA Winner,Airing,planning
     label.remove: Planned,Ended,dropped,paused,
   422981:
@@ -3249,7 +3249,7 @@ metadata:
       Kaijuu 8-gou
     original_title: |-
       Kaiju No.8
-    genre.sync: Action,Adventure,Sci-Fi,Kaiju,Monster Boy,Heterosexual,Henshin,Super Power,Shounen,Urban Fantasy,Male Protagonist,Slapstick
+    genre.sync: Action,Adventure,Sci-Fi,Kaiju,Monster Boy,Henshin,Super Power,Shounen,Urban Fantasy,Slapstick,Male Protagonist,Heterosexual
     studio: Production I.G
     seasons:
       1:
@@ -3403,7 +3403,7 @@ metadata:
       Karasu wa Aruji wo Erabanai
     original_title: |-
       YATAGARASU: The Raven Does Not Choose Its Master
-    genre.sync: Action,Supernatural,Shapeshifting,Primarily Adult Cast,Politics,Male Protagonist,Mythology,Royal Affairs
+    genre.sync: Action,Supernatural,Shapeshifting,Royal Affairs,Primarily Adult Cast,Politics,Male Protagonist,Mythology,Seinen
     studio: Studio Pierrot
     seasons:
       1:
@@ -4047,7 +4047,7 @@ metadata:
           Kuroshitsuji: Kishuku Gakkou-hen
         label: score,watching,2024 Spring
         label.remove: completed,dropped,paused,planning
-        user_rating: 7.6
+        user_rating: 7.7
     audience_rating: 7.3
     critic_rating: 7.8
     label: Airing,watching
@@ -5904,8 +5904,8 @@ metadata:
           Sasayaku You ni Koi wo Utau
         label: score,2024 Spring
         label.remove: completed,watching,dropped,paused,planning
-        user_rating: 7.3
-    audience_rating: 7.3
+        user_rating: 7.2
+    audience_rating: 7.2
     critic_rating: 7.7
     label: Airing
     label.remove: Planned,Ended,completed,watching,dropped,paused,planning
@@ -6110,7 +6110,7 @@ metadata:
       Sentai Daishikkaku
     original_title: |-
       GO! GO! Loser Ranger!
-    genre.sync: Action,Comedy,Drama,Sci-Fi,Tokusatsu,Anti-Hero,Revenge,Shapeshifting,Espionage,Dystopian,Henshin,Male Protagonist,Shounen,CGI,Conspiracy
+    genre.sync: Action,Comedy,Drama,Sci-Fi,Tokusatsu,Anti-Hero,Revenge,Shapeshifting,Espionage,Henshin,Dystopian,Male Protagonist,Shounen,Conspiracy
     studio: Yostar Pictures
     seasons:
       1:
@@ -6118,9 +6118,9 @@ metadata:
           Sentai Daishikkaku
         label: score,watching,2024 Spring
         label.remove: completed,dropped,paused,planning
-        user_rating: 7.3
-    audience_rating: 7.3
-    critic_rating: 7.6
+        user_rating: 7.4
+    audience_rating: 7.4
+    critic_rating: 7.7
     label: Airing,watching
     label.remove: Planned,Ended,completed,dropped,paused,planning
   396876:
@@ -7064,7 +7064,7 @@ metadata:
       The New Gate
     original_title: |-
       The New Gate
-    genre.sync: Action,Adventure,Fantasy,Isekai
+    genre.sync: Action,Adventure,Fantasy,Isekai,Elf
     studio: CLOUDHEARTS
     seasons:
       1:
@@ -7072,8 +7072,8 @@ metadata:
           The New Gate
         label: score,watching,2024 Spring
         label.remove: completed,dropped,paused,planning
-        user_rating: 6.3
-    audience_rating: 6.3
+        user_rating: 6.4
+    audience_rating: 6.4
     critic_rating: 6.7
     label: Airing,watching
     label.remove: Planned,Ended,completed,dropped,paused,planning
@@ -7933,7 +7933,7 @@ metadata:
       Yoru no Kurage wa Oyogenai
     original_title: |-
       Jellyfish Can’t Swim in the Night
-    genre.sync: Drama,Female Protagonist,Primarily Female Cast,Urban,Coming of Age,Primarily Teen Cast,Drawing,Idol,Yuri,Cute Girls Doing Cute Things,Denpa,LGBTQ+ Themes
+    genre.sync: Drama,Music,Female Protagonist,Primarily Female Cast,Urban,Coming of Age,Primarily Teen Cast,Drawing,Idol,Yuri,Cute Girls Doing Cute Things,LGBTQ+ Themes
     studio: Doga Kobo
     seasons:
       1:
