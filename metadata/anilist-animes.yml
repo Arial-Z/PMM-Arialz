@@ -129,7 +129,7 @@ metadata:
         label.remove: watching,dropped,paused,planning
         user_rating: 7.4
     audience_rating: 7.4
-    critic_rating: 7.7
+    critic_rating: 7.6
     label: Ended,completed
     label.remove: Planned,Airing,watching,dropped,paused,planning
   429055:
@@ -639,7 +639,7 @@ metadata:
       Bartender: Kami no Glass
     original_title: |-
       BARTENDER Glass of God
-    genre.sync: Drama,Slice of Life,Work,Seinen,Bar,Male Protagonist,Primarily Adult Cast,Food
+    genre.sync: Drama,Slice of Life,Work,Seinen,Bar,Iyashikei,Male Protagonist,Primarily Adult Cast,Food
     studio: Liber
     seasons:
       1:
@@ -940,7 +940,7 @@ metadata:
       Boukyaku Battery (TV)
     original_title: |-
       Oblivion Battery
-    genre.sync: Comedy,Sports,Baseball,Amnesia,Male Protagonist
+    genre.sync: Comedy,Sports,Baseball,Amnesia,Male Protagonist,Primarily Male Cast
     studio: MAPPA
     seasons:
       1:
@@ -948,8 +948,8 @@ metadata:
           Boukyaku Battery (TV)
         label: score,watching,2024 Spring
         label.remove: completed,dropped,paused,planning
-        user_rating: 6.3
-    audience_rating: 6.3
+        user_rating: 6.4
+    audience_rating: 6.4
     critic_rating: 7.1
     label: Airing,watching
     label.remove: Planned,Ended,completed,dropped,paused,planning
@@ -3259,7 +3259,7 @@ metadata:
         label.remove: completed,watching,dropped,paused,planning
         user_rating: 6.5
     audience_rating: 6.5
-    critic_rating: 7.0
+    critic_rating: 6.9
     label: Airing
     label.remove: Planned,Ended,completed,watching,dropped,paused,planning
   423075:
@@ -4565,7 +4565,7 @@ metadata:
         label.remove: completed,dropped,paused,planning
         user_rating: 7.3
     audience_rating: 7.3
-    critic_rating: 7.6
+    critic_rating: 7.5
     label: Airing,watching
     label.remove: Planned,Ended,completed,dropped,paused,planning
   361709:
@@ -6060,7 +6060,7 @@ metadata:
         label.remove: completed,watching,dropped,paused,planning
         user_rating: 6.7
     audience_rating: 6.7
-    critic_rating: 7.2
+    critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended,completed,watching,dropped,paused,planning
   398193:
@@ -7543,7 +7543,7 @@ metadata:
       Unnamed Memory
     original_title: |-
       Unnamed Memory
-    genre.sync: Adventure,Fantasy,Romance,Witch,Royal Affairs,Magic,Primarily Adult Cast
+    genre.sync: Adventure,Fantasy,Romance,Witch,Royal Affairs,Heterosexual,Primarily Adult Cast,Magic,Marriage
     studio: ENGI
     seasons:
       1:
@@ -7551,8 +7551,8 @@ metadata:
           Unnamed Memory
         label: score,watching,2024 Spring
         label.remove: completed,dropped,paused,planning
-        user_rating: 6.6
-    audience_rating: 6.6
+        user_rating: 6.5
+    audience_rating: 6.5
     critic_rating: 6.9
     label: Airing,watching
     label.remove: Planned,Ended,completed,dropped,paused,planning
