@@ -1518,12 +1518,6 @@ metadata:
         label: score,completed,2021 Fall
         label.remove: watching,dropped,paused,planning
         user_rating: 7.3
-      2:
-        title: |-
-          Dawang Raoming 2
-        label: score,watching,2023 Fall
-        label.remove: completed,dropped,paused,planning
-        user_rating: 7.4
     audience_rating: 7.3
     critic_rating: 7.6
     label: Ended,watching
@@ -2016,7 +2010,7 @@ metadata:
       Girls Band Cry
     original_title: |-
       Girls Band Cry
-    genre.sync: Drama,Music,Slice of Life,Band,Primarily Female Cast,Female Protagonist,Full CGI,Urban,Coming of Age,Denpa,Bullying
+    genre.sync: Drama,Music,Slice of Life,Band,Primarily Female Cast,Female Protagonist,Full CGI,LGBTQ+ Themes,Urban,Coming of Age,Yuri,Denpa,Bullying
     studio: Toei Animation
     seasons:
       1:
@@ -2024,8 +2018,8 @@ metadata:
           Girls Band Cry
         label: score,2024 Spring
         label.remove: completed,watching,dropped,paused,planning
-        user_rating: 7.9
-    audience_rating: 7.9
+        user_rating: 8.0
+    audience_rating: 8.0
     critic_rating: 8.1
     label: Airing
     label.remove: Planned,Ended,completed,watching,dropped,paused,planning
@@ -2472,7 +2466,7 @@ metadata:
       Henjin no Salad Bowl
     original_title: |-
       A Salad Bowl of Eccentrics
-    genre.sync: Comedy,Fantasy,Slice of Life,Detective,Female Protagonist,Male Protagonist,Isekai,Magic,Homeless,Otaku Culture,Cult,Ensemble Cast
+    genre.sync: Comedy,Fantasy,Slice of Life,Detective,Female Protagonist,Homeless,Male Protagonist,Isekai,Magic,Cult,Otaku Culture,Ensemble Cast
     studio: SynergySP
     seasons:
       1:
@@ -2482,7 +2476,7 @@ metadata:
         label.remove: completed,watching,dropped,paused,planning
         user_rating: 6.9
     audience_rating: 6.9
-    critic_rating: 7.2
+    critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended,completed,watching,dropped,paused,planning
   79999:
@@ -3249,7 +3243,7 @@ metadata:
       Kaii to Otome to Kamikakushi
     original_title: |-
       Mysterious Disappearances
-    genre.sync: Ecchi,Mystery,Romance,Supernatural,Urban Fantasy,Female Protagonist,Seinen,Large Breasts,Age Regression,Writing,Ghost
+    genre.sync: Ecchi,Mystery,Romance,Supernatural,Urban Fantasy,Female Protagonist,Seinen,Large Breasts,Age Regression,Tragedy,Writing,Ghost,Mythology,Classic Literature
     studio: Zero-G
     seasons:
       1:
