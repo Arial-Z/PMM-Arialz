@@ -2370,7 +2370,7 @@ metadata:
         label.remove: completed,watching,dropped,paused,planning
         user_rating: 6.4
     audience_rating: 6.4
-    critic_rating: 6.8
+    critic_rating: 6.7
     label: Airing
     label.remove: Planned,Ended,completed,watching,dropped,paused,planning
   267441:
@@ -4557,8 +4557,8 @@ metadata:
           Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?
         label: score,watching,2024 Spring
         label.remove: completed,dropped,paused,planning
-        user_rating: 7.3
-    audience_rating: 7.3
+        user_rating: 7.2
+    audience_rating: 7.2
     critic_rating: 7.5
     label: Airing,watching
     label.remove: Planned,Ended,completed,dropped,paused,planning
@@ -4738,7 +4738,7 @@ metadata:
         label.remove: completed,dropped,paused,planning
         user_rating: 8.2
     audience_rating: 8.3
-    critic_rating: 8.5
+    critic_rating: 8.4
     label: Airing,watching
     label.remove: Planned,Ended,dropped,paused,planning
   413333:
@@ -5920,7 +5920,7 @@ metadata:
         label.remove: completed,watching,dropped,paused,planning
         user_rating: 7.1
     audience_rating: 7.1
-    critic_rating: 7.5
+    critic_rating: 7.4
     label: Airing
     label.remove: Planned,Ended,completed,watching,dropped,paused,planning
   425756:
@@ -7228,7 +7228,7 @@ metadata:
       Tonari no Youkai-san
     original_title: |-
       Tonari no Yokai-san
-    genre.sync: Slice of Life,Supernatural,Youkai,Urban Fantasy,Iyashikei,Josei,Rural,Anthropomorphism
+    genre.sync: Slice of Life,Supernatural,Youkai,Urban Fantasy,Josei,Rural,Anthropomorphism,Iyashikei
     studio: LIDENFILMS
     seasons:
       1:
@@ -7733,7 +7733,7 @@ metadata:
       Wind Breaker
     original_title: |-
       Wind Breaker
-    genre.sync: Action,Comedy,Drama,Gangs,Primarily Male Cast,Delinquents,Male Protagonist,Shounen,Urban,Ensemble Cast,Boys' Love,Tsundere
+    genre.sync: Action,Comedy,Drama,Urban,Gangs,Primarily Male Cast,Delinquents,Male Protagonist,Shounen,Tsundere,Ensemble Cast,School,Boys' Love
     studio: CloverWorks
     seasons:
       1:
