@@ -18,7 +18,7 @@ metadata:
       Akira
     original_title: |-
       Akira
-    genre.sync: Action,Adventure,Horror,Psychological,Sci-Fi,Supernatural,Cyberpunk,Dystopian,Post-Apocalyptic,Super Power,Urban,Male Protagonist,Tragedy,Seinen,Body Horror,Motorcycles,Primarily Male Cast,Conspiracy,Gangs,Delinquents,Gore,Anti-Hero,Military,Urban Fantasy,Philosophy
+    genre.sync: Action,Adventure,Horror,Psychological,Sci-Fi,Supernatural,Cyberpunk,Dystopian,Post-Apocalyptic,Super Power,Urban,Male Protagonist,Tragedy,Seinen,Body Horror,Motorcycles,Primarily Male Cast,Conspiracy,Urban Fantasy,Gangs,Delinquents,Gore,Anti-Hero,Military,Philosophy
     studio: Tokyo Movie Shinsha
     audience_rating: 7.9
     critic_rating: 8.2
@@ -357,7 +357,7 @@ metadata:
       Gake no Ue no Ponyo
     original_title: |-
       Ponyo
-    genre.sync: Adventure,Fantasy,Primarily Child Cast,Environmental,Magic,Rural,Family Life,Coastal,Anthropomorphism,Kids,Natural Disaster
+    genre.sync: Adventure,Fantasy,Primarily Child Cast,Environmental,Rural,Magic,Family Life,Coastal,Anthropomorphism,Kids,Natural Disaster,Urban Fantasy
     studio: Studio Ghibli
     audience_rating: 7.9
     critic_rating: 7.9
@@ -381,7 +381,7 @@ metadata:
       GHOST IN THE SHELL: Koukaku Kidoutai
     original_title: |-
       Ghost in the Shell
-    genre.sync: Action,Psychological,Sci-Fi,Cyberpunk,Artificial Intelligence,Philosophy,Urban,Robots,Police,Cyborg,Seinen,Female Protagonist,Primarily Adult Cast,Noir,Dystopian,Guns
+    genre.sync: Action,Psychological,Sci-Fi,Cyberpunk,Artificial Intelligence,Philosophy,Urban,Robots,Police,Cyborg,Seinen,Primarily Adult Cast,Female Protagonist,Noir,Dystopian
     studio: Production I.G
     audience_rating: 8.0
     critic_rating: 8.3
@@ -875,7 +875,7 @@ metadata:
       Koe no Katachi
     original_title: |-
       A Silent Voice
-    genre.sync: Drama,Romance,Slice of Life,Disability,Bullying,Rehabilitation,Language Barrier,Coming of Age,Suicide,Primarily Teen Cast,Tragedy,Male Protagonist,School,Time Skip
+    genre.sync: Drama,Romance,Slice of Life,Disability,Bullying,Rehabilitation,Language Barrier,Coming of Age,Suicide,Denpa,Primarily Teen Cast,Tragedy,Male Protagonist,School,Time Skip
     studio: Kyoto Animation
     audience_rating: 8.8
     critic_rating: 8.9
@@ -888,7 +888,7 @@ metadata:
       Kokoro ga Sakebitagatterun da.
     original_title: |-
       The Anthem of the Heart
-    genre.sync: Drama,Music,Romance,Slice of Life,Supernatural,Rehabilitation,Female Protagonist,School,Musical,Coming of Age,Love Triangle,Heterosexual,Tragedy
+    genre.sync: Drama,Music,Romance,Slice of Life,Supernatural,Rehabilitation,Female Protagonist,School,Musical Theater,Coming of Age,Love Triangle,Heterosexual,Tragedy
     studio: A-1 Pictures
     audience_rating: 7.6
     critic_rating: 7.8
@@ -1055,7 +1055,7 @@ metadata:
       Majo no Takkyuubin
     original_title: |-
       Kiki's Delivery Service
-    genre.sync: Adventure,Drama,Fantasy,Slice of Life,Witch,Coming of Age,Female Protagonist,Magic,Work
+    genre.sync: Adventure,Drama,Fantasy,Slice of Life,Witch,Coming of Age,Female Protagonist,Magic,Urban Fantasy,Work
     studio: Studio Ghibli
     audience_rating: 8.1
     critic_rating: 8.2
@@ -1145,7 +1145,7 @@ metadata:
     genre.sync: Drama,Mystery,Psychological,Female Protagonist,Rural,Ghost,Outdoor,Tragedy,Drawing,Time Manipulation,Disability
     studio: Studio Ghibli
     audience_rating: 7.8
-    critic_rating: 8.0
+    critic_rating: 8.1
     label.remove: completed,watching,dropped,paused,planning
   tt0102587:
     title: |-
@@ -1391,7 +1391,7 @@ metadata:
       SHIROBAKO the Movie
     genre.sync: Comedy,Drama,Slice of Life,Primarily Adult Cast,Work,Drawing,Female Protagonist,Ensemble Cast
     studio: P.A. Works
-    audience_rating: 7.5
+    audience_rating: 7.6
     critic_rating: 7.7
     label: completed
     label.remove: watching,dropped,paused,planning
@@ -1568,7 +1568,7 @@ metadata:
       Tonari no Totoro
     original_title: |-
       My Neighbor Totoro
-    genre.sync: Adventure,Fantasy,Slice of Life,Supernatural,Family Life,Primarily Child Cast,Rural,Youkai,Female Protagonist
+    genre.sync: Adventure,Fantasy,Slice of Life,Supernatural,Family Life,Primarily Child Cast,Rural,Youkai,Urban Fantasy,Female Protagonist
     studio: Studio Ghibli
     audience_rating: 8.0
     critic_rating: 8.2
