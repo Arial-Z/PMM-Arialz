@@ -1071,6 +1071,26 @@ metadata:
     critic_rating: 7.5
     label: Ended,completed
     label.remove: Planned,Airing,watching,dropped,paused,planning
+  369048:
+    title: |-
+      Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru
+    sort_title: |-
+      Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru
+    original_title: |-
+      Cautious Hero: The Hero Is Overpowered but Overly Cautious
+    genre.sync: Action,Adventure,Comedy,Fantasy,Isekai,Parody,Magic,Gods,Cultivation,Tragedy,Male Protagonist,Anti-Hero,Demons,Reincarnation,Tomboy
+    studio: White Fox
+    seasons:
+      1:
+        title: |-
+          Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru
+        label: score,completed,2019 Fall
+        label.remove: watching,dropped,paused,planning
+        user_rating: 7.3
+    audience_rating: 7.3
+    critic_rating: 7.5
+    label: Ended,completed
+    label.remove: Planned,Airing,watching,dropped,paused,planning
   397934:
     title: |-
       Chainsaw Man
@@ -5139,7 +5159,7 @@ metadata:
       Ore dake Level Up na Ken
     original_title: |-
       Solo Leveling
-    genre.sync: Action,Adventure,Fantasy,Dungeon,Male Protagonist,Urban Fantasy,Super Power,Magic,Necromancy,Cultivation,War,Anti-Hero,Cosmic Horror,Gore
+    genre.sync: Action,Adventure,Fantasy,Dungeon,Male Protagonist,Urban Fantasy,Super Power,Magic,Necromancy,Cultivation,War,Anti-Hero,Gore,Cosmic Horror
     studio: A-1 Pictures
     seasons:
       1:
@@ -5339,7 +5359,7 @@ metadata:
       Paripi Koumei
     original_title: |-
       Ya Boy Kongming!
-    genre.sync: Comedy,Drama,Music,Supernatural,Reincarnation,Urban,Band,Primarily Adult Cast,Anachronism,Idol,Historical,Male Protagonist,Female Protagonist,Work
+    genre.sync: Comedy,Drama,Music,Supernatural,Reincarnation,Urban,Band,Hip-hop Music,Primarily Adult Cast,Anachronism,Idol,Historical,Female Protagonist,Male Protagonist,Work
     studio: P.A. Works
     seasons:
       1:
@@ -5429,8 +5449,8 @@ metadata:
           Potion-danomi de Ikinobimasu!
         label: score,completed,2023 Fall
         label.remove: watching,dropped,paused,planning
-        user_rating: 6.3
-    audience_rating: 6.3
+        user_rating: 6.4
+    audience_rating: 6.4
     critic_rating: 6.5
     label: Ended,completed
     label.remove: Planned,Airing,watching,dropped,paused,planning
@@ -5542,8 +5562,8 @@ metadata:
         user_rating: 7.7
     audience_rating: 7.6
     critic_rating: 7.9
-    label: Planned,completed
-    label.remove: Airing,Ended,watching,dropped,paused,planning
+    label: Ended,completed
+    label.remove: Planned,Airing,watching,dropped,paused,planning
   417983:
     title: |-
       Ragna Crimson
@@ -5611,7 +5631,7 @@ metadata:
       Re:Zero kara Hajimeru Isekai Seikatsu
     original_title: |-
       Re:ZERO -Starting Life in Another World-
-    genre.sync: Action,Adventure,Drama,Fantasy,Psychological,Romance,Thriller,Time Manipulation,Isekai,Tragedy,Time Loop,Alternate Universe,Male Protagonist,Witch,Magic,Gore,Cult,Ensemble Cast,Body Horror
+    genre.sync: Action,Adventure,Drama,Fantasy,Psychological,Romance,Thriller,Isekai,Time Manipulation,Tragedy,Time Loop,Alternate Universe,Male Protagonist,Witch,Magic,Gore,Cult,Ensemble Cast,Body Horror
     studio: White Fox
     seasons:
       0:
@@ -5681,7 +5701,7 @@ metadata:
       Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
     original_title: |-
       Rurouni Kenshin (2023)
-    genre.sync: Action,Adventure,Drama,Romance,Swordplay,Samurai,Historical,Male Protagonist,Martial Arts,Shounen,Found Family
+    genre.sync: Action,Adventure,Drama,Romance,Swordplay,Historical,Samurai,Male Protagonist,Martial Arts,Shounen,Found Family
     studio: LIDENFILMS
     seasons:
       1:
@@ -5787,7 +5807,7 @@ metadata:
       Saiki Kusuo no Ψ-nan
     original_title: |-
       The Disastrous Life of Saiki K.
-    genre.sync: Comedy,Slice of Life,Supernatural,Super Power,Surreal Comedy,Satire,Episodic,Parody,School,Meta,Male Protagonist,Ensemble Cast,Asexual,Primarily Teen Cast,Shounen,Kuudere
+    genre.sync: Comedy,Slice of Life,Supernatural,Super Power,Surreal Comedy,Satire,Episodic,Parody,School,Meta,Male Protagonist,Ensemble Cast,Asexual,Primarily Teen Cast,Shounen
     studio: J.C. Staff
     seasons:
       0:
@@ -6084,7 +6104,7 @@ metadata:
       Sengoku Youko
     original_title: |-
       Sengoku Youko
-    genre.sync: Action,Adventure,Fantasy,Shounen,Demons,Tragedy,Samurai,Shapeshifting,Female Protagonist,Male Protagonist,Magic,Kemonomimi,Dissociative Identities
+    genre.sync: Action,Adventure,Fantasy,Shounen,Demons,Tragedy,Samurai,Dissociative Identities,Shapeshifting,Female Protagonist,Male Protagonist,Magic,Kemonomimi,Ensemble Cast
     studio: White Fox
     seasons:
       1:
@@ -6190,7 +6210,7 @@ metadata:
       Shigatsu wa Kimi no Uso
     original_title: |-
       Your lie in April
-    genre.sync: Drama,Music,Romance,Slice of Life,Tragedy,Disability,Primarily Teen Cast,Coming of Age,Rehabilitation,Male Protagonist,Female Protagonist,Shounen,Love Triangle,Heterosexual,School
+    genre.sync: Drama,Music,Romance,Slice of Life,Tragedy,Disability,Primarily Teen Cast,Coming of Age,Rehabilitation,Male Protagonist,Female Protagonist,Shounen,Love Triangle,Classical Music,Heterosexual,School
     studio: A-1 Pictures
     seasons:
       0:
@@ -6304,7 +6324,7 @@ metadata:
       Shiro Seijo to Kuro Bokushi
     original_title: |-
       Saint Cecilia & Pastor Lawrence
-    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Rural,Heterosexual,Iyashikei,Foreign,Religion
+    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Rural,Heterosexual,Iyashikei,Foreign,Religion,Female Protagonist,Male Protagonist
     studio: Doga Kobo
     seasons:
       1:
@@ -6540,7 +6560,7 @@ metadata:
       Sousou no Frieren
     original_title: |-
       Frieren: Beyond Journey’s End
-    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Female Protagonist,Philosophy,Time Skip,Coming of Age,Kuudere,Iyashikei,Demons
+    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Female Protagonist,Philosophy,Time Skip,Kuudere,Iyashikei,Demons
     studio: MADHOUSE
     seasons:
       1:
@@ -6548,8 +6568,8 @@ metadata:
           Sousou no Frieren
         label: score,completed,2023 Fall
         label.remove: watching,dropped,paused,planning
-        user_rating: 9.2
-    audience_rating: 9.2
+        user_rating: 9.1
+    audience_rating: 9.1
     critic_rating: 9.4
     label: Ended,completed
     label.remove: Planned,Airing,watching,dropped,paused,planning
@@ -6560,7 +6580,7 @@ metadata:
       Spy×family
     original_title: |-
       SPY x FAMILY
-    genre.sync: Action,Comedy,Slice of Life,Supernatural,Family Life,Espionage,Found Family,Assassins,Adoption,Conspiracy,Male Protagonist,Female Protagonist,Slapstick,Foreign,Crime,Urban,Shounen,School,Ensemble Cast,Super Power,Surreal Comedy,Heterosexual,Parody
+    genre.sync: Action,Comedy,Slice of Life,Supernatural,Family Life,Espionage,Found Family,Assassins,Adoption,Conspiracy,Slapstick,Female Protagonist,Male Protagonist,Foreign,Crime,Urban,Shounen,School,Ensemble Cast,Super Power,Surreal Comedy,Heterosexual,Parody
     studio: CloverWorks
     seasons:
       1:
@@ -6804,7 +6824,7 @@ metadata:
       Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story
     original_title: |-
       Tearmoon Empire
-    genre.sync: Drama,Fantasy,Romance,Time Manipulation,Female Protagonist,Age Regression,Conspiracy,Ojou-sama,Shoujo,Royal Affairs,Kingdom Management,Reincarnation
+    genre.sync: Drama,Fantasy,Romance,Time Manipulation,Female Protagonist,Age Regression,Conspiracy,Ojou-sama,Shoujo,Royal Affairs,Reincarnation,Kingdom Management
     studio: SILVER LINK.
     seasons:
       1:
@@ -6844,7 +6864,7 @@ metadata:
       Tengoku Daimakyou
     original_title: |-
       Tengoku Daimakyo
-    genre.sync: Adventure,Mystery,Sci-Fi,Thriller,Post-Apocalyptic,Dystopian,Survival,Achronological Order,Tragedy,Travel,Seinen,Body Swapping,Conspiracy,Male Protagonist,Gender Bending,Orphan,Super Power,Gore,Denpa,Demons,Body Horror
+    genre.sync: Adventure,Mystery,Sci-Fi,Thriller,Dystopian,Post-Apocalyptic,Survival,Achronological Order,Travel,Tragedy,Seinen,Body Swapping,Conspiracy,Male Protagonist,Gender Bending,Orphan,Super Power,Gore,Denpa,Demons,Body Horror
     studio: Production I.G
     seasons:
       1:
@@ -6964,7 +6984,7 @@ metadata:
       Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu
     original_title: |-
       I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
-    genre.sync: Adventure,Fantasy,Slice of Life,Magic,Reincarnation,Femboy,Female Harem,Angels,Demons,Male Protagonist,Age Regression,Chibi,Cute Boys Doing Cute Things,Incest
+    genre.sync: Adventure,Fantasy,Slice of Life,Magic,Reincarnation,Femboy,Female Harem,Male Protagonist,Angels,Demons,Age Regression,Chibi,Incest
     studio: Tsumugi Akita Anime Lab
     seasons:
       1:
@@ -6974,7 +6994,7 @@ metadata:
         label.remove: completed,dropped,paused,planning
         user_rating: 7.0
     audience_rating: 7.0
-    critic_rating: 7.0
+    critic_rating: 7.1
     label: Airing,watching
     label.remove: Planned,Ended,completed,dropped,paused,planning
   410378:
@@ -7497,7 +7517,7 @@ metadata:
       Undead Girl Murder Farce
     original_title: |-
       Undead Murder Farce
-    genre.sync: Fantasy,Mystery,Supernatural,Detective,Classic Literature,Monster Girl,Female Protagonist,Historical,Monster Boy,Travel,Youkai,Urban Fantasy,Crime,Conspiracy,Revenge,Fairy Tale,Male Protagonist,Foreign,Primarily Adult Cast,Demons,Werewolf,Vampire,Gore,Rakugo,Rural
+    genre.sync: Fantasy,Mystery,Supernatural,Detective,Classic Literature,Monster Girl,Female Protagonist,Historical,Monster Boy,Travel,Youkai,Crime,Urban Fantasy,Conspiracy,Revenge,Fairy Tale,Male Protagonist,Foreign,Primarily Adult Cast,Demons,Werewolf,Vampire,Gore,Rakugo,Rural
     studio: Lapin Track
     seasons:
       1:
@@ -7547,7 +7567,7 @@ metadata:
         label.remove: completed,dropped,paused,planning
         user_rating: 6.5
     audience_rating: 6.5
-    critic_rating: 6.9
+    critic_rating: 6.8
     label: Airing,watching
     label.remove: Planned,Ended,completed,dropped,paused,planning
   249872:
@@ -7605,7 +7625,7 @@ metadata:
       Vanitas no Carte
     original_title: |-
       The Case Study of Vanitas
-    genre.sync: Drama,Fantasy,Mystery,Supernatural,Vampire,Male Protagonist,Conspiracy,Foreign,Steampunk,Tragedy,Primarily Adult Cast,Heterosexual,Anti-Hero,Anachronism,Historical
+    genre.sync: Drama,Fantasy,Mystery,Supernatural,Vampire,Male Protagonist,Conspiracy,Foreign,Steampunk,Tragedy,Anti-Hero,Primarily Adult Cast,Heterosexual,Tsundere,Anachronism,Historical
     studio: bones
     seasons:
       1:
@@ -7673,7 +7693,7 @@ metadata:
       Vivy: Fluorite Eye’s Song
     original_title: |-
       Vivy -Fluorite Eye's Song-
-    genre.sync: Action,Drama,Music,Sci-Fi,Thriller,Artificial Intelligence,Robots,Female Protagonist,Time Manipulation,Tragedy,Time Skip,Terrorism,Philosophy,Dystopian,Musical,Cyberpunk,Primarily Female Cast,Kuudere,Anthropomorphism,Memory Manipulation,Conspiracy,Idol
+    genre.sync: Action,Drama,Music,Sci-Fi,Thriller,Artificial Intelligence,Robots,Female Protagonist,Time Manipulation,Tragedy,Time Skip,Terrorism,Philosophy,Dystopian,Musical Theater,Cyberpunk,Primarily Female Cast,Kuudere,Anthropomorphism,Memory Manipulation,Conspiracy,Idol
     studio: Wit Studio
     seasons:
       1:
@@ -7753,7 +7773,7 @@ metadata:
       Working!!
     original_title: |-
       Wagnaria!!
-    genre.sync: Comedy,Slice of Life,Work,Heterosexual,Ensemble Cast,Male Protagonist,Crossdressing
+    genre.sync: Comedy,Slice of Life,Work,Heterosexual,Restaurant ,Ensemble Cast,Male Protagonist,Crossdressing
     studio: A-1 Pictures
     seasons:
       0:
@@ -7801,7 +7821,7 @@ metadata:
           World Trigger 2nd Season
         label: score,completed,2021 Winter
         label.remove: watching,dropped,paused,planning
-        user_rating: 8.0
+        user_rating: 7.9
       3:
         title: |-
           World Trigger 3rd Season
@@ -8093,7 +8113,7 @@ metadata:
       Yuuki Bakuhatsu Bang Bravern
     original_title: |-
       Brave Bang Bravern!
-    genre.sync: Action,Comedy,Mecha,LGBTQ+ Themes,Parody,Super Robot,Military,Boys' Love,Primarily Adult Cast,Aliens,War,Meta,Reincarnation,Male Protagonist,Tokusatsu,Time Manipulation,Foreign
+    genre.sync: Action,Comedy,Mecha,LGBTQ+ Themes,Parody,Super Robot,Boys' Love,Military,Primarily Adult Cast,Aliens,War,Meta,Reincarnation,Male Protagonist,Tokusatsu,Time Manipulation,Foreign
     studio: CygamesPictures
     seasons:
       1:
