@@ -948,8 +948,8 @@ metadata:
           Boukyaku Battery (TV)
         label: score,watching,2024 Spring
         label.remove: completed,dropped,paused,planning
-        user_rating: 6.4
-    audience_rating: 6.4
+        user_rating: 6.5
+    audience_rating: 6.5
     critic_rating: 7.1
     label: Airing,watching
     label.remove: Planned,Ended,completed,dropped,paused,planning
@@ -1065,26 +1065,6 @@ metadata:
         title: |-
           Casshern Sins
         label: score,completed,2008 Fall
-        label.remove: watching,dropped,paused,planning
-        user_rating: 7.3
-    audience_rating: 7.3
-    critic_rating: 7.5
-    label: Ended,completed
-    label.remove: Planned,Airing,watching,dropped,paused,planning
-  369048:
-    title: |-
-      Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru
-    sort_title: |-
-      Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru
-    original_title: |-
-      Cautious Hero: The Hero Is Overpowered but Overly Cautious
-    genre.sync: Action,Adventure,Comedy,Fantasy,Isekai,Parody,Magic,Gods,Cultivation,Tragedy,Male Protagonist,Anti-Hero,Demons,Reincarnation,Tomboy
-    studio: White Fox
-    seasons:
-      1:
-        title: |-
-          Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru
-        label: score,completed,2019 Fall
         label.remove: watching,dropped,paused,planning
         user_rating: 7.3
     audience_rating: 7.3
@@ -6074,7 +6054,7 @@ metadata:
         label.remove: completed,watching,dropped,paused,planning
         user_rating: 6.7
     audience_rating: 6.7
-    critic_rating: 7.1
+    critic_rating: 7.0
     label: Airing
     label.remove: Planned,Ended,completed,watching,dropped,paused,planning
   398193:
@@ -6277,6 +6257,26 @@ metadata:
         user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 6.8
+    label: Ended,completed
+    label.remove: Planned,Airing,watching,dropped,paused,planning
+  369048:
+    title: |-
+      Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru
+    sort_title: |-
+      Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru
+    original_title: |-
+      Cautious Hero: The Hero Is Overpowered but Overly Cautious
+    genre.sync: Action,Adventure,Comedy,Fantasy,Isekai,Parody,Magic,Gods,Cultivation,Tragedy,Male Protagonist,Anti-Hero,Demons,Reincarnation,Tomboy
+    studio: White Fox
+    seasons:
+      1:
+        title: |-
+          Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru
+        label: score,completed,2019 Fall
+        label.remove: watching,dropped,paused,planning
+        user_rating: 7.3
+    audience_rating: 7.3
+    critic_rating: 7.5
     label: Ended,completed
     label.remove: Planned,Airing,watching,dropped,paused,planning
   267440:
