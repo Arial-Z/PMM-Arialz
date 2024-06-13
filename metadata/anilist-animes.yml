@@ -1768,8 +1768,8 @@ metadata:
         user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.2
-    label: Airing,watching
-    label.remove: Planned,Ended,completed,dropped,paused,planning
+    label: Ended,watching
+    label.remove: Planned,Airing,completed,dropped,paused,planning
   289882:
     title: |-
       Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
@@ -4560,8 +4560,8 @@ metadata:
         user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.5
-    label: Airing,watching
-    label.remove: Planned,Ended,completed,dropped,paused,planning
+    label: Ended,watching
+    label.remove: Planned,Airing,completed,dropped,paused,planning
   361709:
     title: |-
       Maou-sama, Retry!
