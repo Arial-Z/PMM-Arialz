@@ -948,9 +948,9 @@ metadata:
           Boukyaku Battery (TV)
         label: score,watching,2024 Spring
         label.remove: completed,dropped,paused,planning
-        user_rating: 6.5
-    audience_rating: 6.5
-    critic_rating: 7.1
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 7.2
     label: Airing,watching
     label.remove: Planned,Ended,completed,dropped,paused,planning
   426530:
@@ -4559,7 +4559,7 @@ metadata:
         label.remove: watching,dropped,paused,planning
         user_rating: 7.3
     audience_rating: 7.3
-    critic_rating: 7.5
+    critic_rating: 7.4
     label: Ended,completed
     label.remove: Planned,Airing,watching,dropped,paused,planning
   361709:
@@ -7213,19 +7213,19 @@ metadata:
       2:
         title: |-
           Tokyo Revengers: Seiya Kessen-hen
-        label: score,watching,2023 Winter
-        label.remove: completed,dropped,paused,planning
+        label: score,completed,2023 Winter
+        label.remove: watching,dropped,paused,planning
         user_rating: 7.6
       3:
         title: |-
           Tokyo Revengers: Tenjiku-hen
-        label: score,2023 Fall
-        label.remove: completed,watching,dropped,paused,planning
+        label: score,completed,2023 Fall
+        label.remove: watching,dropped,paused,planning
         user_rating: 7.8
     audience_rating: 7.7
     critic_rating: 7.8
-    label: Planned,watching
-    label.remove: Airing,Ended,dropped,paused,planning
+    label: Planned,completed
+    label.remove: Airing,Ended,watching,dropped,paused,planning
   262107:
     title: |-
       Tonari no Kaibutsu-kun
@@ -7562,7 +7562,7 @@ metadata:
       Unnamed Memory
     original_title: |-
       Unnamed Memory
-    genre.sync: Adventure,Fantasy,Romance,Witch,Royal Affairs,Heterosexual,Primarily Adult Cast,Magic,Marriage
+    genre.sync: Adventure,Fantasy,Romance,Witch,Royal Affairs,Primarily Adult Cast,Heterosexual,Magic,Marriage
     studio: ENGI
     seasons:
       1:
@@ -7570,8 +7570,8 @@ metadata:
           Unnamed Memory
         label: score,watching,2024 Spring
         label.remove: completed,dropped,paused,planning
-        user_rating: 6.5
-    audience_rating: 6.5
+        user_rating: 6.4
+    audience_rating: 6.4
     critic_rating: 6.7
     label: Airing,watching
     label.remove: Planned,Ended,completed,dropped,paused,planning
