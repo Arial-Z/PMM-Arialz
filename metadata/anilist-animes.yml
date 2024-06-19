@@ -650,8 +650,8 @@ metadata:
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.4
-    label: Airing,watching
-    label.remove: Planned,Ended,completed,dropped,paused,planning
+    label: Ended,watching
+    label.remove: Planned,Airing,completed,dropped,paused,planning
   361013:
     title: |-
       Beastars
@@ -2010,7 +2010,7 @@ metadata:
       Girls Band Cry
     original_title: |-
       Girls Band Cry
-    genre.sync: Drama,Music,Slice of Life,Band,Primarily Female Cast,Female Protagonist,Full CGI,Coming of Age,Urban,Rock Music,LGBTQ+ Themes,Yuri,Bullying,Denpa
+    genre.sync: Drama,Music,Slice of Life,Band,Primarily Female Cast,Female Protagonist,Full CGI,Coming of Age,Rock Music,Urban,CGI,LGBTQ+ Themes,Bullying,Denpa
     studio: Toei Animation
     seasons:
       1:
@@ -2018,9 +2018,9 @@ metadata:
           Girls Band Cry
         label: score,2024 Spring
         label.remove: completed,watching,dropped,paused,planning
-        user_rating: 8.1
-    audience_rating: 8.1
-    critic_rating: 8.2
+        user_rating: 8.3
+    audience_rating: 8.3
+    critic_rating: 8.3
     label: Airing
     label.remove: Planned,Ended,completed,watching,dropped,paused,planning
   262098:
@@ -3243,7 +3243,7 @@ metadata:
       Kaii to Otome to Kamikakushi
     original_title: |-
       Mysterious Disappearances
-    genre.sync: Ecchi,Mystery,Romance,Supernatural,Urban Fantasy,Female Protagonist,Large Breasts,Mythology,Age Regression,Seinen,Writing,Ghost,Classic Literature,Tragedy
+    genre.sync: Ecchi,Mystery,Romance,Supernatural,Urban Fantasy,Female Protagonist,Large Breasts,Mythology,Mermaid,Seinen,Age Regression,Writing,Classic Literature,Ghost,Tragedy,Demons
     studio: Zero-G
     seasons:
       1:
@@ -3892,8 +3892,8 @@ metadata:
         user_rating: 8.2
     audience_rating: 8.1
     critic_rating: 8.3
-    label: Airing,watching
-    label.remove: Planned,Ended,dropped,paused,planning
+    label: Ended,watching
+    label.remove: Planned,Airing,dropped,paused,planning
   424116:
     title: |-
       Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu
@@ -6049,7 +6049,7 @@ metadata:
       Seiyuu Radio no Uraomote
     original_title: |-
       The Many Sides of Voice Actor Radio
-    genre.sync: Comedy,Drama,Slice of Life,Female Protagonist,Acting,Primarily Female Cast,Work,Gyaru,Idol,Cute Girls Doing Cute Things,School
+    genre.sync: Comedy,Drama,Slice of Life,Female Protagonist,Acting,Primarily Female Cast,Work,Gyaru,Idol
     studio: CONNECT
     seasons:
       1:
