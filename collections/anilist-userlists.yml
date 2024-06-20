@@ -2,7 +2,7 @@ collections:
   Anilist - Watching:
     smart_filter:
       all:
-        label: watching
+        label: Watching
       sort_by: title.asc
     sort_title: |-
       !3 - Anilist-1
@@ -16,7 +16,7 @@ collections:
   Anilist - Completed:
     smart_filter:
       all:
-        label: completed
+        label: Completed
       sort_by: title.asc
     sort_title: |-
       !3 - Anilist-2
@@ -30,7 +30,7 @@ collections:
   Anilist - Planning:
     smart_filter:
       all:
-        label: planning
+        label: Planning
       sort_by: title.asc
     sort_title: |-
       !3 - Anilist-3
@@ -44,7 +44,7 @@ collections:
   Anilist - Paused:
     smart_filter:
       all:
-        label: paused
+        label: Paused
       sort_by: title.asc
     sort_title: |-
       !3 - Anilist-4
@@ -58,7 +58,7 @@ collections:
   Anilist - Dropped:
     smart_filter:
       all:
-        label: dropped
+        label: Dropped
       sort_by: title.asc
     sort_title: |-
       !3 - Anilist-5
