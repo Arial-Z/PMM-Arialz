@@ -148,7 +148,7 @@ metadata:
       3-gatsu no Lion
     original_title: |-
       March comes in like a lion
-    genre.sync: Drama,Slice of Life,Coming of Age,Rehabilitation,Shogi,Seinen,Family Life,Found Family,Male Protagonist,Board Game,Philosophy,Tragedy,Bullying,Trains
+    genre.sync: Drama,Slice of Life,Coming of Age,Rehabilitation,Shogi,Seinen,Family Life,Found Family,Male Protagonist,Board Game,Tragedy,Philosophy,Bullying
     studio: Shaft
     seasons:
       1:
@@ -719,8 +719,8 @@ metadata:
         user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 7.3
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
   408629:
     title: |-
       Blue Lock
@@ -747,7 +747,7 @@ metadata:
       Bocchi the Rock!
     original_title: |-
       Bocchi The Rock!
-    genre.sync: Comedy,Music,Slice of Life,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Cute Girls Doing Cute Things,Hikikomori,Coming of Age,Rehabilitation,Surreal Comedy,Seinen,Slapstick,Meta
+    genre.sync: Comedy,Music,Slice of Life,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Cute Girls Doing Cute Things,Coming of Age,Hikikomori,Rehabilitation,Surreal Comedy,Seinen,Slapstick,Meta
     studio: CloverWorks
     seasons:
       1:
@@ -848,7 +848,7 @@ metadata:
         label: Score,2024 Winter
         user_rating: 8.8
     audience_rating: 8.4
-    critic_rating: 8.6
+    critic_rating: 8.5
     label: Ended
     label.remove: Planned,Airing
   426703:
@@ -1006,7 +1006,7 @@ metadata:
       Chainsaw Man
     original_title: |-
       Chainsaw Man
-    genre.sync: Action,Drama,Horror,Supernatural,Demons,Monster Boy,Urban Fantasy,Male Protagonist,Gore,Body Horror,Tragedy,Urban,Shapeshifting,Shounen,Henshin,Surreal Comedy,Found Family,Monster Girl,Primarily Adult Cast,Anthropomorphism,Revenge,Guns,Assassins,Heterosexual,Coming of Age
+    genre.sync: Action,Drama,Horror,Supernatural,Demons,Monster Boy,Urban Fantasy,Male Protagonist,Gore,Body Horror,Tragedy,Urban,Shapeshifting,Henshin,Shounen,Surreal Comedy,Found Family,Monster Girl,Primarily Adult Cast,Anthropomorphism,Revenge,Guns,Assassins,Heterosexual,Coming of Age
     studio: MAPPA
     seasons:
       1:
@@ -1203,7 +1203,7 @@ metadata:
       Claymore
     original_title: |-
       Claymore
-    genre.sync: Action,Adventure,Fantasy,Horror,Swordplay,Revenge,Female Protagonist,Primarily Female Cast,Tragedy,Gore,Demons,Tomboy,Primarily Adult Cast,Kuudere,Super Power,Body Horror
+    genre.sync: Action,Adventure,Fantasy,Horror,Swordplay,Revenge,Female Protagonist,Primarily Female Cast,Tragedy,Gore,Demons,Primarily Adult Cast,Kuudere,Super Power,Body Horror,Tomboy
     studio: MADHOUSE
     seasons:
       1:
@@ -1222,7 +1222,7 @@ metadata:
       Code Geass: Hangyaku no Lelouch
     original_title: |-
       Code Geass: Lelouch of the Rebellion
-    genre.sync: Action,Drama,Mecha,Sci-Fi,Thriller,Anti-Hero,War,Military,Politics,Revenge,Super Power,Philosophy,Terrorism,Real Robot,Male Protagonist,Tragedy,Class Struggle,Dystopian,Super Robot,Primarily Teen Cast,Memory Manipulation
+    genre.sync: Action,Drama,Mecha,Sci-Fi,Thriller,Anti-Hero,War,Military,Politics,Revenge,Super Power,Terrorism,Philosophy,Real Robot,Male Protagonist,Tragedy,Class Struggle,Dystopian,Super Robot,Primarily Teen Cast,Memory Manipulation
     studio: Sunrise
     seasons:
       1:
@@ -1265,7 +1265,7 @@ metadata:
       Cyberpunk: Edgerunners
     original_title: |-
       Cyberpunk: Edgerunners
-    genre.sync: Action,Drama,Psychological,Sci-Fi,Tragedy,Crime,Dystopian,Cyborg,Male Protagonist,Gangs,Urban,Body Horror,Gore,Guns,Orphan,Class Struggle,Revenge,Primarily Adult Cast,Anti-Hero,Drugs,Heterosexual,Terrorism,Nudity,Coming of Age
+    genre.sync: Action,Drama,Psychological,Sci-Fi,Tragedy,Crime,Dystopian,Cyborg,Gangs,Male Protagonist,Urban,Body Horror,Gore,Guns,Orphan,Class Struggle,Revenge,Primarily Adult Cast,Anti-Hero,Drugs,Heterosexual,Terrorism,Nudity,Coming of Age
     studio: Trigger
     seasons:
       1:
@@ -1490,8 +1490,8 @@ metadata:
         title: |-
           Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita
         label: Score,2024 Spring
-        user_rating: 4.6
-    audience_rating: 4.6
+        user_rating: 4.7
+    audience_rating: 4.7
     critic_rating: 5.2
     label: Ended
     label.remove: Planned,Airing
@@ -1640,7 +1640,7 @@ metadata:
       Dungeon Meshi
     original_title: |-
       Delicious in Dungeon
-    genre.sync: Adventure,Comedy,Fantasy,Dungeon,Food,Lost Civilization,Magic,Environmental,Primarily Adult Cast,Elf,Ensemble Cast,Dragons,Monster Girl,Body Horror,Tragedy,Seinen,Necromancy
+    genre.sync: Adventure,Comedy,Fantasy,Dungeon,Food,Lost Civilization,Magic,Primarily Adult Cast,Environmental,Elf,Ensemble Cast,Monster Girl,Dragons,Body Horror,Necromancy,Seinen
     studio: Trigger
     seasons:
       1:
@@ -2512,7 +2512,7 @@ metadata:
       Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
     original_title: |-
       Ascendance of a Bookworm
-    genre.sync: Fantasy,Slice of Life,Reincarnation,Class Struggle,Female Protagonist,Work,Isekai,Age Regression,Economics,Family Life,Primarily Child Cast
+    genre.sync: Fantasy,Slice of Life,Reincarnation,Class Struggle,Female Protagonist,Isekai,Work,Age Regression,Economics,Family Life,Primarily Child Cast
     studio: Ajiado
     seasons:
       0:
@@ -2712,8 +2712,8 @@ metadata:
         title: |-
           Inu x Boku SS
         label: Score,2012 Winter
-        user_rating: 7.0
-    audience_rating: 7.0
+        user_rating: 6.9
+    audience_rating: 6.9
     critic_rating: 7.4
     label: Ended
     label.remove: Planned,Airing
@@ -2981,7 +2981,7 @@ metadata:
       Kage no Jitsuryokusha ni Naritakute!
     original_title: |-
       The Eminence in Shadow
-    genre.sync: Action,Comedy,Fantasy,Chuunibyou,Isekai,Male Protagonist,Parody,Anti-Hero,Magic,Rape,Cult,Acting,Swordplay,Primarily Female Cast,Reincarnation,Meta,Female Harem,Espionage,Nudity,Satire,Elf
+    genre.sync: Action,Comedy,Fantasy,Chuunibyou,Isekai,Male Protagonist,Parody,Anti-Hero,Magic,Rape,Cult,Acting,Swordplay,Reincarnation,Primarily Female Cast,Meta,Female Harem,Espionage,Nudity,Satire,Elf
     studio: Nexus
     seasons:
       1:
@@ -3005,7 +3005,7 @@ metadata:
       Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen
     original_title: |-
       Kaguya-sama: Love is War
-    genre.sync: Comedy,Psychological,Romance,Slice of Life,School,Heterosexual,Tsundere,School Club,Ojou-sama,Primarily Teen Cast,Episodic,Parody,Slapstick,Female Protagonist,Seinen
+    genre.sync: Comedy,Psychological,Romance,Slice of Life,School,Heterosexual,Tsundere,School Club,Primarily Teen Cast,Ojou-sama,Episodic,Parody,Slapstick,Female Protagonist,Seinen
     studio: A-1 Pictures
     seasons:
       0:
@@ -3419,7 +3419,7 @@ metadata:
       Kill la Kill
     original_title: |-
       Kill la Kill
-    genre.sync: Action,Comedy,Ecchi,Henshin,Female Protagonist,Revenge,Parody,Surreal Comedy,Nudity,Tomboy,Super Power,Dystopian,Aliens,Coming of Age,Primarily Teen Cast,School,Anti-Hero,Military,Philosophy
+    genre.sync: Action,Comedy,Ecchi,Henshin,Female Protagonist,Revenge,Parody,Nudity,Surreal Comedy,Tomboy,Super Power,Dystopian,Aliens,Coming of Age,Primarily Teen Cast,School,Anti-Hero,Military,Philosophy
     studio: Trigger
     seasons:
       0:
@@ -3830,7 +3830,7 @@ metadata:
       Kusuriya no Hitorigoto
     original_title: |-
       The Apothecary Diaries
-    genre.sync: Drama,Mystery,Medicine,Female Protagonist,Historical,Detective,Conspiracy,Politics,Crime,Ancient China,Work,Drugs,Royal Affairs,Adoption,Heterosexual
+    genre.sync: Drama,Mystery,Medicine,Female Protagonist,Historical,Detective,Conspiracy,Politics,Crime,Ancient China,Work,Royal Affairs,Unrequited Love,Adoption,Heterosexual
     studio: OLM
     seasons:
       1:
@@ -3981,7 +3981,7 @@ metadata:
         label: Score,2024 Spring
         user_rating: 6.7
     audience_rating: 6.7
-    critic_rating: 7.0
+    critic_rating: 6.9
     label: Airing
     label.remove: Planned,Ended
   414057:
@@ -3991,7 +3991,7 @@ metadata:
       Lycoris Recoil
     original_title: |-
       Lycoris Recoil
-    genre.sync: Action,Slice of Life,Female Protagonist,Primarily Female Cast,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Cute Girls Doing Cute Things,Restaurant ,Work,Kuudere,Espionage,Orphan,Adoption
+    genre.sync: Action,Slice of Life,Female Protagonist,Primarily Female Cast,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Yuri,Work,Kuudere,Espionage,Orphan,Adoption
     studio: A-1 Pictures
     seasons:
       1:
@@ -4067,8 +4067,8 @@ metadata:
         title: |-
           Made in Abyss: Retsujitsu no Ougonkyou
         label: Score,2022 Summer
-        user_rating: 8.6
-    audience_rating: 8.6
+        user_rating: 8.5
+    audience_rating: 8.5
     critic_rating: 8.6
     label: AA Winner,Ended
     label.remove: Planned,Airing
@@ -4117,7 +4117,7 @@ metadata:
         title: |-
           Mahouka Koukou no Rettousei: Raihousha-hen
         label: Score,2020 Fall
-        user_rating: 7.1
+        user_rating: 7.2
       3:
         title: |-
           Mahouka Koukou no Rettousei 3rd Season
@@ -6547,8 +6547,8 @@ metadata:
         user_rating: 6.7
     audience_rating: 6.7
     critic_rating: 7.0
-    label: Airing
-    label.remove: Planned,Ended
+    label: Ended
+    label.remove: Planned,Airing
   423362:
     title: |-
       Tensei Oujo to Tensai Reijou no Mahou Kakumei
