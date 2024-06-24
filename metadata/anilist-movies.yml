@@ -10,6 +10,7 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 7.0
     critic_rating: 7.3
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0094625:
     title: |-
       Akira
@@ -21,6 +22,7 @@ metadata:
     studio: Tokyo Movie Shinsha
     audience_rating: 7.9
     critic_rating: 8.2
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt3028018:
     title: |-
       Ao no Exorcist Movie
@@ -32,6 +34,8 @@ metadata:
     studio: A-1 Pictures
     audience_rating: 7.3
     critic_rating: 7.6
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt12441478:
     title: |-
       Aya to Majo
@@ -43,6 +47,7 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 5.1
     critic_rating: 5.4
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt4272866:
     title: |-
       Bakemono no Ko
@@ -54,6 +59,8 @@ metadata:
     studio: Studio Chizu
     audience_rating: 7.9
     critic_rating: 8.2
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt22868844:
     title: |-
       Black Clover: Mahou Tei no Ken
@@ -65,6 +72,8 @@ metadata:
     studio: Studio Pierrot
     audience_rating: 8.0
     critic_rating: 8.0
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt7745068:
     title: |-
       Boku no Hero Academia THE MOVIE: Futari no Hero
@@ -76,7 +85,8 @@ metadata:
     studio: bones
     audience_rating: 7.4
     critic_rating: 7.5
-    label: AA Winner
+    label: AA Winner,Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt11107074:
     title: |-
       Boku no Hero Academia THE MOVIE: Heroes:Rising
@@ -88,6 +98,8 @@ metadata:
     studio: bones
     audience_rating: 7.8
     critic_rating: 7.9
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt13544716:
     title: |-
       Boku no Hero Academia THE MOVIE: World Heroes' Mission
@@ -99,6 +111,8 @@ metadata:
     studio: bones
     audience_rating: 7.6
     critic_rating: 7.6
+    label: Planning
+    label.remove: Completed,Watching,Dropped,Paused,
   tt16360006:
     title: |-
       Bubble
@@ -110,6 +124,7 @@ metadata:
     studio: Wit Studio
     audience_rating: 7.1
     critic_rating: 7.2
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt8391976:
     title: |-
       Bungou Stray Dogs: DEAD APPLE
@@ -121,6 +136,7 @@ metadata:
     studio: bones
     audience_rating: 7.8
     critic_rating: 7.9
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0983213:
     title: |-
       Byousoku 5 Centimeter
@@ -132,6 +148,7 @@ metadata:
     studio: CoMix Wave
     audience_rating: 7.1
     critic_rating: 7.6
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt6915208:
     title: |-
       Chuunibyou demo Koi ga Shitai!: Take On Me
@@ -143,6 +160,8 @@ metadata:
     studio: Kyoto Animation
     audience_rating: 8.0
     critic_rating: 8.1
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt12735338:
     title: |-
       Cider no You ni Kotoba ga Wakiagaru
@@ -154,6 +173,7 @@ metadata:
     studio: Signal.MD
     audience_rating: 7.4
     critic_rating: 7.4
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt6344664:
     title: |-
       Code Geass: Fukkatsu no Lelouch
@@ -165,6 +185,8 @@ metadata:
     studio: Sunrise
     audience_rating: 7.7
     critic_rating: 7.9
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt8100900:
     title: |-
       Code Geass: Hangyaku no Lelouch I - Koudou
@@ -176,6 +198,8 @@ metadata:
     studio: Sunrise
     audience_rating: 7.6
     critic_rating: 7.9
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt9598270:
     title: |-
       Code Geass: Hangyaku no Lelouch II - Handou
@@ -187,6 +211,8 @@ metadata:
     studio: Sunrise
     audience_rating: 7.3
     critic_rating: 7.7
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt9844256:
     title: |-
       Code Geass: Hangyaku no Lelouch III - Oudou
@@ -198,6 +224,8 @@ metadata:
     studio: Sunrise
     audience_rating: 7.7
     critic_rating: 8.0
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt1798188:
     title: |-
       Coquelicot-zaka kara
@@ -209,6 +237,7 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 7.5
     critic_rating: 7.8
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0259974:
     title: |-
       Digimon Adventure (Movie)
@@ -220,6 +249,7 @@ metadata:
     studio: Toei Animation
     audience_rating: 7.3
     critic_rating: 7.6
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt9526152:
     title: |-
       Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: Orion no Ya
@@ -231,6 +261,7 @@ metadata:
     studio: J.C. Staff
     audience_rating: 7.2
     critic_rating: 7.4
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0270933:
     title: |-
       Escaflowne
@@ -242,6 +273,7 @@ metadata:
     studio: Sunrise
     audience_rating: 6.5
     critic_rating: 7.1
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0860906:
     title: |-
       Evangelion Shin Movie: Ha
@@ -253,6 +285,8 @@ metadata:
     studio: Gainax
     audience_rating: 8.1
     critic_rating: 8.3
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt0923811:
     title: |-
       Evangelion Shin Movie: Jo
@@ -264,6 +298,8 @@ metadata:
     studio: Gainax
     audience_rating: 7.7
     critic_rating: 8.0
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt0860907:
     title: |-
       Evangelion Shin Movie: Kyuu
@@ -275,6 +311,8 @@ metadata:
     studio: Studio Khara
     audience_rating: 7.5
     critic_rating: 7.7
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt1715210:
     title: |-
       Eve no Jikan Movie
@@ -286,6 +324,8 @@ metadata:
     studio: Studio Rikka
     audience_rating: 7.7
     critic_rating: 8.0
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt0173840:
     title: |-
       Final Fantasy
@@ -297,6 +337,7 @@ metadata:
     studio: Square Pictures
     audience_rating: 5.6
     critic_rating: 6.3
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0385700:
     title: |-
       Final Fantasy VII: Advent Children
@@ -308,6 +349,7 @@ metadata:
     studio: Square Enix
     audience_rating: 7.1
     critic_rating: 7.7
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0876563:
     title: |-
       Gake no Ue no Ponyo
@@ -319,6 +361,7 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 7.9
     critic_rating: 7.9
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0495596:
     title: |-
       Ged Senki
@@ -330,6 +373,7 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 6.4
     critic_rating: 6.8
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0113568:
     title: |-
       GHOST IN THE SHELL: Koukaku Kidoutai
@@ -341,6 +385,8 @@ metadata:
     studio: Production I.G
     audience_rating: 8.0
     critic_rating: 8.3
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt1260502:
     title: |-
       GHOST IN THE SHELL: Koukaku Kidoutai 2.0
@@ -352,6 +398,8 @@ metadata:
     studio: Production I.G
     audience_rating: 7.5
     critic_rating: 8.0
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt2374144:
     title: |-
       Gintama: Kanketsu-hen - Yorozuya yo Eien Nare
@@ -363,6 +411,8 @@ metadata:
     studio: Sunrise
     audience_rating: 8.7
     critic_rating: 8.9
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt1636780:
     title: |-
       Gintama: Shinyaku Benizakura-hen
@@ -374,6 +424,8 @@ metadata:
     studio: Sunrise
     audience_rating: 8.3
     critic_rating: 8.5
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt10766468:
     title: |-
       Gintama: THE FINAL
@@ -385,6 +437,8 @@ metadata:
     studio: Bandai Namco Pictures
     audience_rating: 9.1
     critic_rating: 9.0
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt5284414:
     title: |-
       Girls und Panzer Movie
@@ -396,6 +450,7 @@ metadata:
     studio: Actas
     audience_rating: 8.1
     critic_rating: 8.2
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt7833606:
     title: |-
       Girls und Panzer: Saishuushou 1
@@ -407,6 +462,7 @@ metadata:
     studio: Actas
     audience_rating: 7.8
     critic_rating: 7.9
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt7834494:
     title: |-
       Girls und Panzer: Saishuushou 2
@@ -418,6 +474,7 @@ metadata:
     studio: Actas
     audience_rating: 7.9
     critic_rating: 8.1
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt12286898:
     title: |-
       Girls und Panzer: Saishuushou 3
@@ -429,6 +486,7 @@ metadata:
     studio: Actas
     audience_rating: 8.0
     critic_rating: 8.2
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt15721650:
     title: |-
       Go-toubun no Hanayome Movie
@@ -440,6 +498,8 @@ metadata:
     studio: Bibury Animation Studios
     audience_rating: 7.8
     critic_rating: 7.8
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt11639420:
     title: |-
       High School Fleet Movie
@@ -451,6 +511,8 @@ metadata:
     studio: A-1 Pictures
     audience_rating: 7.3
     critic_rating: 7.6
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt5731132:
     title: |-
       Hirune Hime: Shiranai Watashi no Monogatari
@@ -462,6 +524,7 @@ metadata:
     studio: Signal.MD
     audience_rating: 6.5
     critic_rating: 6.8
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0206013:
     title: |-
       Hoohokekyo Tonari no Yamada-kun
@@ -473,6 +536,7 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 6.8
     critic_rating: 7.1
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0095327:
     title: |-
       Hotaru no Haka
@@ -484,6 +548,7 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 8.2
     critic_rating: 8.5
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0347149:
     title: |-
       Howl no Ugoku Shiro
@@ -495,6 +560,7 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 8.4
     critic_rating: 8.7
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0347246:
     title: |-
       Innocence
@@ -506,6 +572,8 @@ metadata:
     studio: Production I.G
     audience_rating: 7.5
     critic_rating: 7.8
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt12879624:
     title: |-
       Josee to Tora to Sakanatachi
@@ -517,6 +585,8 @@ metadata:
     studio: bones
     audience_rating: 8.2
     critic_rating: 8.4
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt14331144:
     title: |-
       Jujutsu Kaisen 0
@@ -528,7 +598,8 @@ metadata:
     studio: MAPPA
     audience_rating: 8.4
     critic_rating: 8.4
-    label: AA Winner
+    label: AA Winner,Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt2576852:
     title: |-
       Kaguya-hime no Monogatari
@@ -540,6 +611,7 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 8.1
     critic_rating: 8.2
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt9277666:
     title: |-
       Kara no Kyoukai Remix: Gate of seventh heaven
@@ -551,6 +623,8 @@ metadata:
     studio: ufotable
     audience_rating: 7.2
     critic_rating: 7.5
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt1343089:
     title: |-
       Kara no Kyoukai: Boukyaku Rokuon
@@ -562,6 +636,8 @@ metadata:
     studio: ufotable
     audience_rating: 7.0
     critic_rating: 7.4
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt1155650:
     title: |-
       Kara no Kyoukai: Fukan Fuukei
@@ -573,6 +649,8 @@ metadata:
     studio: ufotable
     audience_rating: 7.3
     critic_rating: 7.6
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt1233474:
     title: |-
       Kara no Kyoukai: Garan no Dou
@@ -584,6 +662,8 @@ metadata:
     studio: ufotable
     audience_rating: 7.5
     critic_rating: 7.8
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt1278060:
     title: |-
       Kara no Kyoukai: Mujun Rasen
@@ -595,6 +675,8 @@ metadata:
     studio: ufotable
     audience_rating: 8.4
     critic_rating: 8.5
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt1345776:
     title: |-
       Kara no Kyoukai: Satsujin Kousatsu (Kou)
@@ -606,6 +688,8 @@ metadata:
     studio: ufotable
     audience_rating: 8.1
     critic_rating: 8.4
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt1155651:
     title: |-
       Kara no Kyoukai: Satsujin Kousatsu (Zen)
@@ -617,6 +701,8 @@ metadata:
     studio: ufotable
     audience_rating: 7.5
     critic_rating: 7.8
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt3868344:
     title: |-
       Kara no Kyoukai: Shuushou
@@ -628,6 +714,8 @@ metadata:
     studio: ufotable
     audience_rating: 7.0
     critic_rating: 7.2
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt1155652:
     title: |-
       Kara no Kyoukai: Tsuukaku Zanryuu
@@ -639,6 +727,8 @@ metadata:
     studio: ufotable
     audience_rating: 7.7
     critic_rating: 8.0
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt1568921:
     title: |-
       Karigurashi no Arrietty
@@ -650,6 +740,7 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 7.7
     critic_rating: 7.9
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0087544:
     title: |-
       Kaze no Tani no Nausicaä
@@ -661,6 +752,7 @@ metadata:
     studio: Studio Hibari
     audience_rating: 8.1
     critic_rating: 8.4
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt2013293:
     title: |-
       Kaze Tachinu
@@ -672,6 +764,7 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 8.0
     critic_rating: 8.1
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt1726286:
     title: |-
       Kidou Senshi Gundam 00: A wakening of the Trailblazer
@@ -683,6 +776,8 @@ metadata:
     studio: Sunrise
     audience_rating: 6.8
     critic_rating: 7.3
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt7933596:
     title: |-
       Kidou Senshi Gundam Thunderbolt: BANDIT FLOWER
@@ -694,6 +789,8 @@ metadata:
     studio: Sunrise
     audience_rating: 6.9
     critic_rating: 7.2
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt6035470:
     title: |-
       Kidou Senshi Gundam Thunderbolt: December Sky
@@ -705,6 +802,8 @@ metadata:
     studio: Sunrise
     audience_rating: 7.7
     critic_rating: 7.9
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt13288678:
     title: |-
       Kidou Senshi Gundam: Senkou no Hathaway
@@ -716,6 +815,8 @@ metadata:
     studio: Sunrise
     audience_rating: 7.8
     critic_rating: 7.8
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt11032374:
     title: |-
       Kimetsu no Yaiba: Mugen Ressha-hen
@@ -727,7 +828,8 @@ metadata:
     studio: ufotable
     audience_rating: 8.4
     critic_rating: 8.6
-    label: AA Winner
+    label: AA Winner,Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt5311514:
     title: |-
       Kimi no Na wa.
@@ -739,7 +841,8 @@ metadata:
     studio: CoMix Wave
     audience_rating: 8.5
     critic_rating: 8.8
-    label: AA Winner
+    label: AA Winner,Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt7236034:
     title: |-
       Kimi no Suizou wo Tabetai
@@ -751,6 +854,8 @@ metadata:
     studio: Studio VOLN
     audience_rating: 8.4
     critic_rating: 8.6
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt5595168:
     title: |-
       Kingsglaive Final Fantasy XV
@@ -762,6 +867,7 @@ metadata:
     studio: Square Enix
     audience_rating: 7.0
     critic_rating: 7.4
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt5323662:
     title: |-
       Koe no Katachi
@@ -773,6 +879,8 @@ metadata:
     studio: Kyoto Animation
     audience_rating: 8.8
     critic_rating: 8.9
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt4489416:
     title: |-
       Kokoro ga Sakebitagatterun da.
@@ -784,6 +892,8 @@ metadata:
     studio: A-1 Pictures
     audience_rating: 7.6
     critic_rating: 7.8
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt4769824:
     title: |-
       Kono Sekai no Katasumi ni
@@ -795,6 +905,8 @@ metadata:
     studio: MAPPA
     audience_rating: 8.1
     critic_rating: 8.2
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt9239552:
     title: |-
       Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu
@@ -806,6 +918,8 @@ metadata:
     studio: J.C. Staff
     audience_rating: 8.3
     critic_rating: 8.4
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt2591814:
     title: |-
       Kotonoha no Niwa
@@ -817,6 +931,8 @@ metadata:
     studio: CoMix Wave
     audience_rating: 7.5
     critic_rating: 7.9
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt10253816:
     title: |-
       Koutetsujou no Kabaneri: Unato Kessen
@@ -828,6 +944,8 @@ metadata:
     studio: Wit Studio
     audience_rating: 7.5
     critic_rating: 7.7
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt0104652:
     title: |-
       Kurenai no Buta
@@ -839,6 +957,7 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 7.8
     critic_rating: 7.9
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt6728390:
     title: |-
       Kuroko no Basket: Last Game
@@ -850,6 +969,7 @@ metadata:
     studio: Production I.G
     audience_rating: 7.9
     critic_rating: 8.1
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt4531412:
     title: |-
       Kyoukai no Kanata: I'LL BE HERE - Kako-hen
@@ -861,6 +981,8 @@ metadata:
     studio: Kyoto Animation
     audience_rating: 7.4
     critic_rating: 7.7
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt4539114:
     title: |-
       Kyoukai no Kanata: I'LL BE HERE - Mirai-hen
@@ -872,6 +994,8 @@ metadata:
     studio: Kyoto Animation
     audience_rating: 7.9
     critic_rating: 8.1
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt10068916:
     title: |-
       Made in Abyss: Fukaki Tamashii no Reimei
@@ -883,6 +1007,8 @@ metadata:
     studio: Kinema Citrus
     audience_rating: 8.5
     critic_rating: 8.6
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt10068544:
     title: |-
       Made in Abyss: Hourou Suru Tasogare
@@ -894,6 +1020,8 @@ metadata:
     studio: Kinema Citrus
     audience_rating: 8.2
     critic_rating: 8.4
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt10068158:
     title: |-
       Made in Abyss: Tabidachi no Yoake
@@ -905,6 +1033,8 @@ metadata:
     studio: Kinema Citrus
     audience_rating: 8.0
     critic_rating: 8.2
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt6580380:
     title: |-
       Mahouka Koukou no Rettousei: Hoshi wo Yobu Shoujo
@@ -916,6 +1046,8 @@ metadata:
     studio: 8-bit
     audience_rating: 7.2
     critic_rating: 7.5
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt0097814:
     title: |-
       Majo no Takkyuubin
@@ -927,6 +1059,7 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 8.1
     critic_rating: 8.2
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0113824:
     title: |-
       Mimi wo Sumaseba
@@ -938,6 +1071,7 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 8.1
     critic_rating: 8.2
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt6900448:
     title: |-
       Mirai no Mirai
@@ -949,6 +1083,7 @@ metadata:
     studio: Studio Chizu
     audience_rating: 7.1
     critic_rating: 7.3
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0119698:
     title: |-
       Mononoke-hime
@@ -960,6 +1095,8 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 8.4
     critic_rating: 8.7
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt9089294:
     title: |-
       Nanatsu no Taizai Movie: Tenkuu no Torawarebito
@@ -971,6 +1108,8 @@ metadata:
     studio: A-1 Pictures
     audience_rating: 6.9
     critic_rating: 7.1
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt13884144:
     title: |-
       Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi
@@ -982,6 +1121,8 @@ metadata:
     studio: Studio DEEN
     audience_rating: 7.0
     critic_rating: 7.1
+    label: Planning
+    label.remove: Completed,Watching,Dropped,Paused,
   tt17382524:
     title: |-
       Natsu e no Tunnel, Sayonara no Deguchi
@@ -993,6 +1134,7 @@ metadata:
     studio: CLAP
     audience_rating: 7.8
     critic_rating: 7.9
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0347618:
     title: |-
       Neko no Ongaeshi
@@ -1004,6 +1146,7 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 7.4
     critic_rating: 7.7
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt3398268:
     title: |-
       Omoide no Marnie
@@ -1015,6 +1158,7 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 7.8
     critic_rating: 8.0
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0102587:
     title: |-
       Omoide Poro Poro
@@ -1026,6 +1170,7 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 7.3
     critic_rating: 7.4
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt2140203:
     title: |-
       Ookami Kodomo no Ame to Yuki
@@ -1037,6 +1182,8 @@ metadata:
     studio: MADHOUSE
     audience_rating: 8.3
     critic_rating: 8.6
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt11433874:
     title: |-
       Psycho-pass 3: First Inspector
@@ -1048,6 +1195,7 @@ metadata:
     studio: Production I.G
     audience_rating: 7.6
     critic_rating: 7.8
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt4219130:
     title: |-
       PSYCHO-PASS Movie
@@ -1059,6 +1207,7 @@ metadata:
     studio: Production I.G
     audience_rating: 7.5
     critic_rating: 7.7
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt26224944:
     title: |-
       Psycho-pass Providence
@@ -1070,6 +1219,7 @@ metadata:
     studio: Production I.G
     audience_rating: 7.6
     critic_rating: 7.6
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt10443844:
     title: |-
       PSYCHO-PASS Sinners of the System Case 1: Tsumi to Batsu
@@ -1081,6 +1231,7 @@ metadata:
     studio: Production I.G
     audience_rating: 7.0
     critic_rating: 7.2
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt11078434:
     title: |-
       PSYCHO-PASS Sinners of the System Case 2: First Guardian
@@ -1092,6 +1243,8 @@ metadata:
     studio: Production I.G
     audience_rating: 7.3
     critic_rating: 7.5
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt11078522:
     title: |-
       PSYCHO-PASS Sinners of the System Case 3: Onshuu no Kanata ni ____
@@ -1103,6 +1256,7 @@ metadata:
     studio: Production I.G
     audience_rating: 7.6
     critic_rating: 7.7
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt10736726:
     title: |-
       Quanzhi Gaoshou: Dianfeng Rongyao
@@ -1114,6 +1268,8 @@ metadata:
     studio: Colored Pencil Animation
     audience_rating: 7.8
     critic_rating: 8.1
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt13651628:
     title: |-
       Ryuu to Sobakasu no Hime
@@ -1125,6 +1281,7 @@ metadata:
     studio: Studio Chizu
     audience_rating: 7.3
     critic_rating: 7.5
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt2981768:
     title: |-
       Sakasama no Patema
@@ -1136,6 +1293,8 @@ metadata:
     studio: Studio Rikka
     audience_rating: 7.6
     critic_rating: 7.9
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt7339826:
     title: |-
       Sayonara no Asa ni Yakusoku no Hana wo Kazarou
@@ -1147,6 +1306,8 @@ metadata:
     studio: P.A. Works
     audience_rating: 8.2
     critic_rating: 8.4
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt27348312:
     title: |-
       Seishun Buta Yarou wa Odekake Sister no Yume wo Minai
@@ -1158,6 +1319,7 @@ metadata:
     studio: CloverWorks
     audience_rating: 7.8
     critic_rating: 7.8
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt10472884:
     title: |-
       Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai
@@ -1169,6 +1331,8 @@ metadata:
     studio: CloverWorks
     audience_rating: 8.4
     critic_rating: 8.6
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt6337252:
     title: |-
       Seitokai Yakuindomo Movie
@@ -1180,6 +1344,7 @@ metadata:
     studio: GoHands
     audience_rating: 7.6
     critic_rating: 7.8
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt12439230:
     title: |-
       Seitokai Yakuindomo Movie 2
@@ -1191,6 +1356,7 @@ metadata:
     studio: GoHands
     audience_rating: 7.5
     critic_rating: 7.8
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0245429:
     title: |-
       Sen to Chihiro no Kamikakushi
@@ -1202,6 +1368,8 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 8.6
     critic_rating: 8.8
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt11417856:
     title: |-
       Shika no Ou: Yuna to Yakusoku no Tabi
@@ -1213,6 +1381,7 @@ metadata:
     studio: Production I.G
     audience_rating: 6.8
     critic_rating: 6.9
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt2458948:
     title: |-
       Shin Evangelion Movie:||
@@ -1224,6 +1393,7 @@ metadata:
     studio: Studio Khara
     audience_rating: 8.5
     critic_rating: 8.6
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt8346438:
     title: |-
       SHIROBAKO Movie
@@ -1235,6 +1405,8 @@ metadata:
     studio: P.A. Works
     audience_rating: 7.5
     critic_rating: 7.7
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt12642574:
     title: |-
       Sidonia no Kishi: Ai Tsumugu Hoshi
@@ -1246,6 +1418,8 @@ metadata:
     studio: POLYGON PICTURES
     audience_rating: 7.0
     critic_rating: 7.4
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt1121794:
     title: |-
       Stranger: Mukou Hadan
@@ -1257,6 +1431,8 @@ metadata:
     studio: bones
     audience_rating: 7.9
     critic_rating: 8.2
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt1474276:
     title: |-
       Summer Wars
@@ -1268,6 +1444,8 @@ metadata:
     studio: MADHOUSE
     audience_rating: 7.7
     critic_rating: 8.0
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt16428256:
     title: |-
       Suzume no Tojimari
@@ -1280,6 +1458,7 @@ metadata:
     audience_rating: 8.2
     critic_rating: 8.3
     label: AA Winner
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt5544384:
     title: |-
       Sword Art Online: Ordinal Scale
@@ -1291,6 +1470,8 @@ metadata:
     studio: A-1 Pictures
     audience_rating: 7.3
     critic_rating: 7.6
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt13424422:
     title: |-
       Sword Art Online: Progressive - Hoshinaki Yoru no Aria
@@ -1302,6 +1483,8 @@ metadata:
     studio: A-1 Pictures
     audience_rating: 7.9
     critic_rating: 8.0
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt15830702:
     title: |-
       Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo
@@ -1313,6 +1496,8 @@ metadata:
     studio: A-1 Pictures
     audience_rating: 7.6
     critic_rating: 7.7
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt1288461:
     title: |-
       Tengen Toppa Gurren Lagann: Gurren-hen
@@ -1324,6 +1509,7 @@ metadata:
     studio: Gainax
     audience_rating: 7.9
     critic_rating: 8.2
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt1422651:
     title: |-
       Tengen Toppa Gurren Lagann: Lagann-hen
@@ -1335,6 +1521,7 @@ metadata:
     studio: Gainax
     audience_rating: 8.4
     critic_rating: 8.6
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt9426210:
     title: |-
       Tenki no Ko
@@ -1346,6 +1533,8 @@ metadata:
     studio: CoMix Wave
     audience_rating: 8.1
     critic_rating: 8.3
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt0092067:
     title: |-
       Tenkuu no Shiro Laputa
@@ -1357,6 +1546,7 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 8.0
     critic_rating: 8.3
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt15467380:
     title: |-
       Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen
@@ -1368,6 +1558,8 @@ metadata:
     studio: 8-bit
     audience_rating: 7.7
     critic_rating: 7.6
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt0808506:
     title: |-
       Toki wo Kakeru Shoujo
@@ -1379,6 +1571,8 @@ metadata:
     studio: MADHOUSE
     audience_rating: 7.8
     critic_rating: 8.1
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt0096283:
     title: |-
       Tonari no Totoro
@@ -1390,6 +1584,7 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 8.0
     critic_rating: 8.2
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0108432:
     title: |-
       Umi ga Kikoeru
@@ -1401,6 +1596,7 @@ metadata:
     studio: J.C. Staff
     audience_rating: 6.3
     critic_rating: 6.5
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt10477558:
     title: |-
       Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou
@@ -1412,6 +1608,8 @@ metadata:
     studio: Kyoto Animation
     audience_rating: 8.3
     critic_rating: 8.4
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt8652818:
     title: |-
       Violet Evergarden Movie
@@ -1423,6 +1621,8 @@ metadata:
     studio: Kyoto Animation
     audience_rating: 8.7
     critic_rating: 8.9
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt9507276:
     title: |-
       Youjo Senki Movie
@@ -1434,6 +1634,8 @@ metadata:
     studio: NUT
     audience_rating: 8.0
     critic_rating: 8.2
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt14364238:
     title: |-
       Yuru Camp△ Movie
@@ -1445,3 +1647,4 @@ metadata:
     studio: C-Station
     audience_rating: 8.3
     critic_rating: 8.4
+    label.remove: Completed,Watching,Dropped,Paused,Planning
