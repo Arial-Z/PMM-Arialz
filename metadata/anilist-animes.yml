@@ -639,7 +639,7 @@ metadata:
       Bartender: Kami no Glass
     original_title: |-
       BARTENDER Glass of God
-    genre.sync: Drama,Slice of Life,Work,Seinen,Bar,Iyashikei,Male Protagonist,Primarily Adult Cast,Food,Philosophy
+    genre.sync: Drama,Slice of Life,Work,Bar,Seinen,Male Protagonist,Iyashikei,Primarily Adult Cast,Philosophy,Food
     studio: Liber
     seasons:
       1:
@@ -647,8 +647,8 @@ metadata:
           Bartender: Kami no Glass
         label: Score,Watching,2024 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
+        user_rating: 7.2
+    audience_rating: 7.2
     critic_rating: 7.4
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
@@ -940,7 +940,7 @@ metadata:
       Boukyaku Battery (TV)
     original_title: |-
       Oblivion Battery
-    genre.sync: Comedy,Sports,Baseball,Amnesia,Male Protagonist,Primarily Male Cast
+    genre.sync: Comedy,Sports,Baseball,Amnesia,Male Protagonist,Primarily Male Cast,Primarily Teen Cast
     studio: MAPPA
     seasons:
       1:
@@ -2010,7 +2010,7 @@ metadata:
       Girls Band Cry
     original_title: |-
       Girls Band Cry
-    genre.sync: Drama,Music,Slice of Life,Band,Primarily Female Cast,Female Protagonist,Full CGI,Coming of Age,Rock Music,Urban,CGI,LGBTQ+ Themes,Bullying,Denpa
+    genre.sync: Drama,Music,Slice of Life,CGI,Band,Primarily Female Cast,Female Protagonist,Full CGI,Coming of Age,Rock Music,Urban,Yuri,Bullying,LGBTQ+ Themes
     studio: Toei Animation
     seasons:
       1:
@@ -2466,7 +2466,7 @@ metadata:
       Henjin no Salad Bowl
     original_title: |-
       A Salad Bowl of Eccentrics
-    genre.sync: Comedy,Fantasy,Slice of Life,Detective,Ensemble Cast,Homeless,Female Protagonist,Isekai,Magic,Episodic,Male Protagonist,Otaku Culture,Cult,Adoption
+    genre.sync: Comedy,Fantasy,Slice of Life,Magic,Otaku Culture,Isekai,Female Protagonist,Homeless,Ensemble Cast,Adoption,Detective,Male Protagonist,Alternate Universe,Cult
     studio: SynergySP
     seasons:
       1:
@@ -2474,9 +2474,9 @@ metadata:
           Henjin no Salad Bowl
         label: Score,2024 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
-    critic_rating: 7.2
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.3
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   79999:
@@ -3243,7 +3243,7 @@ metadata:
       Kaii to Otome to Kamikakushi
     original_title: |-
       Mysterious Disappearances
-    genre.sync: Ecchi,Mystery,Romance,Supernatural,Urban Fantasy,Female Protagonist,Large Breasts,Mythology,Mermaid,Seinen,Age Regression,Writing,Classic Literature,Ghost,Tragedy,Demons
+    genre.sync: Ecchi,Mystery,Romance,Supernatural,Urban Fantasy,Large Breasts,Female Protagonist,Mythology,Seinen
     studio: Zero-G
     seasons:
       1:
@@ -3909,7 +3909,7 @@ metadata:
           Kono Subarashii Sekai ni Shukufuku wo! 3
         label: Score,Watching,2024 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.2
+        user_rating: 8.3
     audience_rating: 8.1
     critic_rating: 8.3
     label: Ended,Watching
@@ -7596,13 +7596,13 @@ metadata:
       1:
         title: |-
           Unnamed Memory
-        label: Score,Watching,2024 Spring
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Spring
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.4
     audience_rating: 6.4
     critic_rating: 6.7
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   249872:
     title: |-
       Usagi Drop
