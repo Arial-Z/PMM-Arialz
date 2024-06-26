@@ -1500,8 +1500,8 @@ metadata:
         user_rating: 7.6
     audience_rating: 7.1
     critic_rating: 7.5
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   413480:
     title: |-
       Dawang Raoming
@@ -3254,8 +3254,8 @@ metadata:
         user_rating: 6.5
     audience_rating: 6.5
     critic_rating: 6.8
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   423075:
     title: |-
       Kaijuu 8-gou
@@ -6088,8 +6088,8 @@ metadata:
         user_rating: 6.7
     audience_rating: 6.7
     critic_rating: 7.0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   398193:
     title: |-
       Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru
