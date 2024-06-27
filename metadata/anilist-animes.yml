@@ -2368,8 +2368,8 @@ metadata:
           Hananoi-kun to Koi no Yamai
         label: Score,2024 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
+        user_rating: 6.5
+    audience_rating: 6.5
     critic_rating: 6.7
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
@@ -3273,7 +3273,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.1
     audience_rating: 8.1
-    critic_rating: 8.3
+    critic_rating: 8.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   339922:
@@ -3323,7 +3323,7 @@ metadata:
       Kami wa Game ni Ueteiru.
     original_title: |-
       Gods' Games We Play
-    genre.sync: Comedy,Drama,Ecchi,Fantasy,Romance,Male Protagonist,Female Harem,Gods,Board Game,Female Protagonist,Magic,Super Power
+    genre.sync: Comedy,Drama,Ecchi,Fantasy,Romance,Male Protagonist,Female Harem,Urban Fantasy,Gods,Board Game,Female Protagonist,Magic,Super Power
     studio: LIDENFILMS
     seasons:
       1:
@@ -3331,9 +3331,9 @@ metadata:
           Kami wa Game ni Ueteiru.
         label: Score,Watching,2024 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.7
-    audience_rating: 5.7
-    critic_rating: 5.9
+        user_rating: 5.9
+    audience_rating: 5.9
+    critic_rating: 6.2
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   419126:
@@ -7081,7 +7081,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.9
     audience_rating: 8.1
-    critic_rating: 8.2
+    critic_rating: 8.1
     label: AA Winner,Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   436948:
@@ -7091,7 +7091,7 @@ metadata:
       The Fable
     original_title: |-
       The Fable
-    genre.sync: Action,Comedy,Drama,Romance,Yakuza,Seinen,Assassins,Urban,Primarily Adult Cast,Guns,Surreal Comedy
+    genre.sync: Action,Comedy,Drama,Romance,Yakuza,Seinen,Assassins,Urban,Guns,Primarily Adult Cast,Surreal Comedy
     studio: Tezuka Productions
     seasons:
       1:
@@ -7099,9 +7099,9 @@ metadata:
           The Fable
         label: Score,Watching,2024 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 7.2
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.3
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   378556:
@@ -7281,7 +7281,7 @@ metadata:
       Tonari no Youkai-san
     original_title: |-
       Tonari no Yokai-san
-    genre.sync: Slice of Life,Supernatural,Youkai,Rural,Urban Fantasy,Iyashikei,Josei
+    genre.sync: Slice of Life,Supernatural,Youkai,Rural,Urban Fantasy,Josei,Alternate Universe,Iyashikei
     studio: LIDENFILMS
     seasons:
       1:
@@ -7289,8 +7289,8 @@ metadata:
           Tonari no Youkai-san
         label: Score,Watching,2024 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
+        user_rating: 6.7
+    audience_rating: 6.7
     critic_rating: 7.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -7786,7 +7786,7 @@ metadata:
       Wind Breaker
     original_title: |-
       Wind Breaker
-    genre.sync: Action,Comedy,Drama,Delinquents,Gangs,Male Protagonist,Primarily Male Cast,Shounen,Urban,Tsundere,Found Family,Primarily Teen Cast,Ensemble Cast,School
+    genre.sync: Action,Comedy,Drama,Gangs,Delinquents,Male Protagonist,Primarily Male Cast,Urban,Shounen,Tsundere,Found Family,Ensemble Cast,School,Primarily Teen Cast
     studio: CloverWorks
     seasons:
       1:
@@ -7797,8 +7797,8 @@ metadata:
         user_rating: 7.7
     audience_rating: 7.7
     critic_rating: 7.8
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Planned,Watching
+    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
   145211:
     title: |-
       Working!!
