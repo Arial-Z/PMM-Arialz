@@ -2021,8 +2021,8 @@ metadata:
         user_rating: 8.3
     audience_rating: 8.3
     critic_rating: 8.3
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   262098:
     title: |-
       Girls und Panzer
@@ -4408,8 +4408,8 @@ metadata:
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.3
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   394013:
     title: |-
       Mahouka Koukou no Yuutousei
