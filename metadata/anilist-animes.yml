@@ -758,7 +758,7 @@ metadata:
       Blue Archive The Animation
     original_title: |-
       Blue Archive The Animation
-    genre.sync: Action,Comedy,Fantasy,Slice of Life,School,Primarily Female Cast,Guns,Primarily Teen Cast,Desert,Teacher,Urban Fantasy,Cute Girls Doing Cute Things,Angels
+    genre.sync: Action,Comedy,Fantasy,Slice of Life,Teacher,School,Guns,Primarily Female Cast,Primarily Teen Cast,Urban Fantasy,Desert,Age Gap,Angels
     studio: Yostar Pictures
     seasons:
       1:
@@ -768,7 +768,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
-    critic_rating: 7.3
+    critic_rating: 7.2
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   408629:
@@ -1046,8 +1046,8 @@ metadata:
           Captain Tsubasa: Season 2 - Junior Youth-hen
         label: Score,2023 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
+        user_rating: 6.9
+    audience_rating: 6.9
     critic_rating: 7.4
     label: Airing,Paused
     label.remove: Planned,Ended,Completed,Watching,Dropped,Planning
@@ -3097,7 +3097,7 @@ metadata:
       Jii-san Baa-san Wakagaeru
     original_title: |-
       Grandpa and Grandma Turn Young Again
-    genre.sync: Comedy,Fantasy,Romance,Age Regression,Heterosexual,Family Life,Rural,Elderly Protagonist,Episodic,Primarily Adult Cast,Female Protagonist,Male Protagonist
+    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Age Regression,Heterosexual,Family Life,Rural,Elderly Protagonist,Episodic,Primarily Adult Cast,Female Protagonist,Male Protagonist
     studio: Gekkou
     seasons:
       1:
@@ -3263,19 +3263,19 @@ metadata:
       Kaijuu 8-gou
     original_title: |-
       Kaiju No.8
-    genre.sync: Action,Adventure,Sci-Fi,Kaiju,Monster Boy,Shounen,Super Power,Shapeshifting,Henshin,Male Protagonist,Tokusatsu,Urban Fantasy,Work,Slapstick,Tsundere
+    genre.sync: Action,Adventure,Sci-Fi,Kaiju,Monster Boy,Shounen,Shapeshifting,Super Power,Male Protagonist,Henshin,Tokusatsu,Urban Fantasy,Work,Slapstick
     studio: Production I.G
     seasons:
       1:
         title: |-
           Kaijuu 8-gou
-        label: Score,Watching,2024 Spring
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.1
-    audience_rating: 8.1
+        label: Score,Completed,2024 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.2
+    audience_rating: 8.2
     critic_rating: 8.4
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   339922:
     title: |-
       Kakuriyo no Yadomeshi
@@ -3445,9 +3445,9 @@ metadata:
           Karasu wa Aruji wo Erabanai
         label: Score,Watching,2024 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
-    critic_rating: 7.4
+        user_rating: 6.9
+    audience_rating: 6.9
+    critic_rating: 7.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   132941:
@@ -4081,9 +4081,9 @@ metadata:
           Kuroshitsuji: Kishuku Gakkou-hen
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.7
+        user_rating: 7.8
     audience_rating: 7.3
-    critic_rating: 7.8
+    critic_rating: 7.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   431162:
@@ -4403,13 +4403,13 @@ metadata:
       3:
         title: |-
           Mahouka Koukou no Rettousei 3rd Season
-        label: Score,Watching,2024 Spring
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Spring
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.3
-    label: Ended,Watching
-    label.remove: Planned,Airing,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   394013:
     title: |-
       Mahouka Koukou no Yuutousei
@@ -5943,7 +5943,7 @@ metadata:
       Sasayaku You ni Koi wo Utau
     original_title: |-
       Whisper Me a Love Song
-    genre.sync: Drama,Music,Romance,Yuri,Primarily Female Cast,Female Protagonist,Primarily Teen Cast,LGBTQ+ Themes,Band,School,Love Triangle,Cute Girls Doing Cute Things,School Club,Coming of Age
+    genre.sync: Drama,Music,Romance,Yuri,Primarily Female Cast,Female Protagonist,LGBTQ+ Themes,Primarily Teen Cast,Band,School,Love Triangle,Cute Girls Doing Cute Things,School Club,Coming of Age
     studio: CLOUDHEARTS
     seasons:
       1:
@@ -5951,8 +5951,8 @@ metadata:
           Sasayaku You ni Koi wo Utau
         label: Score,2024 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 7.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -6977,7 +6977,7 @@ metadata:
       Tensei Kizoku, Kantei Skill de Nariagaru
     original_title: |-
       As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World
-    genre.sync: Adventure,Fantasy,Isekai,Reincarnation
+    genre.sync: Adventure,Fantasy,Isekai,Coming of Age,Reincarnation
     studio: studio MOTHER
     seasons:
       1:
@@ -6985,11 +6985,11 @@ metadata:
           Tensei Kizoku, Kantei Skill de Nariagaru
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 7.0
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+        user_rating: 7.0
+    audience_rating: 7.0
+    critic_rating: 7.2
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   423362:
     title: |-
       Tensei Oujo to Tensai Reijou no Mahou Kakumei
@@ -7137,13 +7137,13 @@ metadata:
       1:
         title: |-
           The New Gate
-        label: Score,Watching,2024 Spring
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Spring
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.3
     audience_rating: 6.3
-    critic_rating: 6.6
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    critic_rating: 6.5
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   388672:
     title: |-
       Tian Guan Ci Fu
@@ -7287,13 +7287,13 @@ metadata:
       1:
         title: |-
           Tonari no Youkai-san
-        label: Score,Watching,2024 Spring
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Spring
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.7
     audience_rating: 6.7
     critic_rating: 7.0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   426572:
     title: |-
       Tondemo Skill de Isekai Hourou Meshi
@@ -7792,13 +7792,13 @@ metadata:
       1:
         title: |-
           Wind Breaker
-        label: Score,Watching,2024 Spring
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Spring
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.7
     audience_rating: 7.7
     critic_rating: 7.8
-    label: Planned,Watching
-    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   145211:
     title: |-
       Working!!
@@ -8000,7 +8000,7 @@ metadata:
       Yoru no Kurage wa Oyogenai
     original_title: |-
       Jellyfish Can’t Swim in the Night
-    genre.sync: Drama,Music,Primarily Female Cast,Female Protagonist,Primarily Teen Cast,Urban,Coming of Age,Drawing,Idol,Band,Cute Girls Doing Cute Things,LGBTQ+ Themes,Transgender
+    genre.sync: Drama,Music,Primarily Female Cast,Female Protagonist,Primarily Teen Cast,Coming of Age,Urban,Drawing,Idol,Band,Cute Girls Doing Cute Things,LGBTQ+ Themes,Denpa,Hikikomori
     studio: Doga Kobo
     seasons:
       1:
@@ -8008,9 +8008,9 @@ metadata:
           Yoru no Kurage wa Oyogenai
         label: Score,2024 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.9
-    audience_rating: 7.9
-    critic_rating: 8.1
+        user_rating: 7.8
+    audience_rating: 7.8
+    critic_rating: 7.9
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   315500:
