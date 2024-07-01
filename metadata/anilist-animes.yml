@@ -6496,10 +6496,15 @@ metadata:
         label: Score,Dropped,2023 Fall
         label.remove: Completed,Watching,Paused,Planning
         user_rating: 6.6
-    audience_rating: 6.6
+      2:
+        title: |-
+          SHY: Tokyo Dakkan-hen
+        label: Score,2024 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
     critic_rating: 6.7
-    label: Planned,Dropped
-    label.remove: Airing,Ended,Completed,Watching,Paused,Planning
+    label: Airing,Dropped
+    label.remove: Planned,Ended,Completed,Watching,Paused,Planning
   278154:
     title: |-
       Sidonia no Kishi
