@@ -647,8 +647,8 @@ metadata:
           Bartender: Kami no Glass
         label: Score,Watching,2024 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.2
+        user_rating: 7.3
+    audience_rating: 7.3
     critic_rating: 7.4
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
@@ -940,7 +940,7 @@ metadata:
       Boukyaku Battery (TV)
     original_title: |-
       Oblivion Battery
-    genre.sync: Comedy,Sports,Baseball,Amnesia,Male Protagonist,Primarily Male Cast,Primarily Teen Cast
+    genre.sync: Comedy,Sports,Baseball,Amnesia,Male Protagonist,Primarily Teen Cast,Primarily Male Cast
     studio: MAPPA
     seasons:
       1:
@@ -948,11 +948,11 @@ metadata:
           Boukyaku Battery (TV)
         label: Score,Watching,2024 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 7.2
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.4
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   426530:
     title: |-
       Boushoku no Berserk
@@ -1499,7 +1499,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.6
     audience_rating: 7.1
-    critic_rating: 7.5
+    critic_rating: 7.4
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   413480:
@@ -2010,7 +2010,7 @@ metadata:
       Girls Band Cry
     original_title: |-
       Girls Band Cry
-    genre.sync: Drama,Music,Slice of Life,CGI,Band,Primarily Female Cast,Female Protagonist,Full CGI,Coming of Age,Rock Music,Urban,Yuri,Bullying,LGBTQ+ Themes
+    genre.sync: Drama,Music,Slice of Life,Band,CGI,Primarily Female Cast,Female Protagonist,Full CGI,Coming of Age,Rock Music,Urban,Bullying,Denpa
     studio: Toei Animation
     seasons:
       1:
@@ -2018,9 +2018,9 @@ metadata:
           Girls Band Cry
         label: Score,2024 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.3
-    audience_rating: 8.3
-    critic_rating: 8.3
+        user_rating: 8.4
+    audience_rating: 8.4
+    critic_rating: 8.5
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   262098:
@@ -2190,7 +2190,7 @@ metadata:
       Great Pretender
     original_title: |-
       Great Pretender
-    genre.sync: Action,Comedy,Drama,Thriller,Crime,Anti-Hero,Foreign,Primarily Adult Cast,Male Protagonist,Urban,Work,Mafia,Drugs
+    genre.sync: Action,Comedy,Drama,Thriller,Crime,Anti-Hero,Foreign,Primarily Adult Cast,Male Protagonist,Urban,Work,Mafia,Language Barrier,Drugs
     studio: Wit Studio
     seasons:
       1:
@@ -2466,7 +2466,7 @@ metadata:
       Henjin no Salad Bowl
     original_title: |-
       A Salad Bowl of Eccentrics
-    genre.sync: Comedy,Fantasy,Slice of Life,Magic,Otaku Culture,Isekai,Female Protagonist,Homeless,Ensemble Cast,Adoption,Detective,Male Protagonist,Alternate Universe,Cult
+    genre.sync: Comedy,Fantasy,Slice of Life,Magic,Otaku Culture,Female Protagonist,Isekai,Ensemble Cast,Adoption,Homeless,Detective,Male Protagonist,Alternate Universe,Cult
     studio: SynergySP
     seasons:
       1:
@@ -3243,7 +3243,7 @@ metadata:
       Kaii to Otome to Kamikakushi
     original_title: |-
       Mysterious Disappearances
-    genre.sync: Ecchi,Mystery,Romance,Supernatural,Urban Fantasy,Large Breasts,Female Protagonist,Mythology,Seinen
+    genre.sync: Ecchi,Mystery,Romance,Supernatural,Urban Fantasy,Large Breasts,Female Protagonist,Seinen,Mythology
     studio: Zero-G
     seasons:
       1:
@@ -3251,8 +3251,8 @@ metadata:
           Kaii to Otome to Kamikakushi
         label: Score,2024 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
+        user_rating: 6.6
+    audience_rating: 6.6
     critic_rating: 6.8
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
@@ -3911,7 +3911,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.3
     audience_rating: 8.1
-    critic_rating: 8.3
+    critic_rating: 8.2
     label: Ended,Watching
     label.remove: Planned,Airing,Dropped,Paused,Planning
   424116:
@@ -4579,7 +4579,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.3
     audience_rating: 7.3
-    critic_rating: 7.4
+    critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   361709:
@@ -6077,7 +6077,7 @@ metadata:
       Seiyuu Radio no Uraomote
     original_title: |-
       The Many Sides of Voice Actor Radio
-    genre.sync: Comedy,Drama,Slice of Life,Female Protagonist,Acting,Primarily Female Cast,Work,Gyaru,Idol
+    genre.sync: Comedy,Drama,Slice of Life,Primarily Female Cast,Female Protagonist,Acting,Work,Gyaru,Idol,School,Otaku Culture
     studio: CONNECT
     seasons:
       1:
@@ -6085,8 +6085,8 @@ metadata:
           Seiyuu Radio no Uraomote
         label: Score,2024 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
+        user_rating: 6.9
+    audience_rating: 6.9
     critic_rating: 7.0
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
@@ -6501,8 +6501,9 @@ metadata:
           SHY: Tokyo Dakkan-hen
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 6.7
+        user_rating: 6.3
+    audience_rating: 6.4
+    critic_rating: 6.9
     label: Airing,Dropped
     label.remove: Planned,Ended,Completed,Watching,Paused,Planning
   278154:
@@ -7603,8 +7604,8 @@ metadata:
           Unnamed Memory
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
+        user_rating: 6.5
+    audience_rating: 6.5
     critic_rating: 6.7
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
