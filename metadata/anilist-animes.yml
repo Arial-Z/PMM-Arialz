@@ -236,10 +236,16 @@ metadata:
         label: Score,AA Winner,Completed,2023 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.5
+      2:
+        title: |-
+          [Oshi no Ko] 2nd Season
+        label: Score,2024 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
     audience_rating: 8.5
-    critic_rating: 8.6
-    label: AA Winner,Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    critic_rating: 8.2
+    label: AA Winner,Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   319983:
     title: |-
       ACCA: 13-ku Kansatsu-ka
@@ -386,6 +392,25 @@ metadata:
     critic_rating: 7.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  432531:
+    title: |-
+      Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san
+    sort_title: |-
+      Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san
+    original_title: |-
+      Alya Sometimes Hides Her Feelings in Russian
+    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,School,Primarily Teen Cast,Tsundere,Language Barrier,Male Protagonist,Otaku Culture,Love Triangle,Female Harem,Female Protagonist,Feet
+    studio: Doga Kobo
+    seasons:
+      1:
+        title: |-
+          Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san
+        label: Score,2024 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 7.5
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   348706:
     title: |-
       Angolmois: Genkou Kassenki
@@ -5192,6 +5217,26 @@ metadata:
     critic_rating: 6.9
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+  433155:
+    title: |-
+      Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru.
+    sort_title: |-
+      Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru.
+    original_title: |-
+      The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible
+    genre.sync: Action,Adventure,Comedy,Fantasy,Male Protagonist
+    studio: Yumeta Company
+    seasons:
+      1:
+        title: |-
+          Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru.
+        label: Score,Watching,2024 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.5
+    audience_rating: 6.5
+    critic_rating: 7.1
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   412826:
     title: |-
       Otomege Sekai wa Mob ni Kibishii Sekai desu
@@ -6682,6 +6727,26 @@ metadata:
     critic_rating: 8.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  444916:
+    title: |-
+      Maou Gun Saikyou no Majutsushi wa Ningen datta
+    sort_title: |-
+      Maou Gun Saikyou no Majutsushi wa Ningen datta
+    original_title: |-
+      The Strongest Magician in the Demon Lord's Army was a Human
+    genre.sync: Action,Adventure,Drama,Fantasy,Demons,War,CGI,Male Protagonist
+    studio: Happinet
+    seasons:
+      1:
+        title: |-
+          Maou Gun Saikyou no Majutsushi wa Ningen datta
+        label: Score,Watching,2024 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.7
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   267432:
     title: |-
       Suisei no Gargantia
@@ -6824,6 +6889,26 @@ metadata:
     critic_rating: 7.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  445253:
+    title: |-
+      Tasuuketsu
+    sort_title: |-
+      Tasuuketsu
+    original_title: |-
+      Tasuketsu -Fate of the Majority-
+    genre.sync: Action,Mystery,Thriller,Death Game
+    studio: Satelight
+    seasons:
+      1:
+        title: |-
+          Tasuuketsu
+        label: Score,2024 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 4.9
+    audience_rating: 4.9
+    critic_rating: 5.4
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   353712:
     title: |-
       Tate no Yuusha no Nariagari
