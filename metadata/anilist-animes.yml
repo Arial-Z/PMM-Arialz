@@ -152,6 +152,25 @@ metadata:
     critic_rating: 6.9
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  428168:
+    title: |-
+      2.5 Jigen no Ririsa
+    sort_title: |-
+      2.5 Jigen no Ririsa
+    original_title: |-
+      2.5 Dimensional Seduction
+    genre.sync: Comedy,Ecchi,Romance,Slice of Life,Cosplay,Otaku Culture,Male Protagonist,Primarily Female Cast,Heterosexual,School Club,Photography
+    studio: J.C. Staff
+    seasons:
+      1:
+        title: |-
+          2.5 Jigen no Ririsa
+        label: Score,2024 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 7.1
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   306269:
     title: |-
       3-gatsu no Lion
@@ -1882,24 +1901,6 @@ metadata:
     critic_rating: 7.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  445011:
-    title: |-
-      Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made
-    sort_title: |-
-      Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made
-    original_title: |-
-      Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells
-    genre.sync: Action,Adventure,Drama,Fantasy,Survival,Isekai,Revenge
-    studio: Seven Arcs
-    seasons:
-      1:
-        title: |-
-          Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made
-        label: Score,2024 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   278626:
     title: |-
       Fate/stay night: Unlimited Blade Works
@@ -1988,6 +1989,26 @@ metadata:
     critic_rating: 7.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  433527:
+    title: |-
+      Giji Harem
+    sort_title: |-
+      Giji Harem
+    original_title: |-
+      Pseudo Harem
+    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Acting,Episodic,Iyashikei,Parody,School
+    studio: Nomad
+    seasons:
+      1:
+        title: |-
+          Giji Harem
+        label: Score,2024 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.0
+    audience_rating: 7.0
+    critic_rating: 7.1
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   422721:
     title: |-
       Gimai Seikatsu
@@ -2003,7 +2024,8 @@ metadata:
           Gimai Seikatsu
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.9
+    audience_rating: 6.9
     critic_rating: 7.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -2442,6 +2464,26 @@ metadata:
     critic_rating: 7.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  445011:
+    title: |-
+      Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made
+    sort_title: |-
+      Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made
+    original_title: |-
+      Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells
+    genre.sync: Action,Adventure,Drama,Fantasy,Survival,Isekai,Revenge
+    studio: Seven Arcs
+    seasons:
+      1:
+        title: |-
+          Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made
+        label: Score,Watching,2024 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.8
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   401856:
     title: |-
       Heion Sedai no Idaten-tachi
@@ -2859,24 +2901,6 @@ metadata:
     critic_rating: 9.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  441727:
-    title: |-
-      Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai
-    sort_title: |-
-      Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai
-    original_title: |-
-      I Parry Everything
-    genre.sync: Action,Adventure,Fantasy
-    studio: OLM
-    seasons:
-      1:
-        title: |-
-          Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai
-        label: Score,Watching,2024 Summer
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   370377:
     title: |-
       Id: Invaded
@@ -3045,6 +3069,26 @@ metadata:
     critic_rating: 7.8
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+  436846:
+    title: |-
+      Isekai Suicide Squad
+    sort_title: |-
+      Isekai Suicide Squad
+    original_title: |-
+      Suicide Squad ISEKAI
+    genre.sync: Action,Adventure,Fantasy,Sci-Fi,Isekai,Anti-Hero,Crossover,Crime,Language Barrier,Magic,Super Power,Female Protagonist
+    studio: Wit Studio
+    seasons:
+      1:
+        title: |-
+          Isekai Suicide Squad
+        label: Score,2024 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 7.1
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   406592:
     title: |-
       Isekai Yakkyoku
@@ -5012,8 +5056,8 @@ metadata:
         user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.5
-    label: Planned,Watching
-    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   415188:
     title: |-
       Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu
@@ -5253,6 +5297,26 @@ metadata:
     critic_rating: 8.3
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  441727:
+    title: |-
+      Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai
+    sort_title: |-
+      Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai
+    original_title: |-
+      I Parry Everything
+    genre.sync: Action,Adventure,Fantasy
+    studio: OLM
+    seasons:
+      1:
+        title: |-
+          Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai
+        label: Score,Watching,2024 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 7.2
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   433034:
     title: |-
       Oroka na Tenshi wa Akuma to Odoru
@@ -5535,25 +5599,6 @@ metadata:
     critic_rating: 6.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  433527:
-    title: |-
-      Giji Harem
-    sort_title: |-
-      Giji Harem
-    original_title: |-
-      Pseudo Harem
-    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Acting,Episodic,Iyashikei,Parody,School
-    studio: Nomad
-    seasons:
-      1:
-        title: |-
-          Giji Harem
-        label: Score,2024 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 7.1
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   262090:
     title: |-
       Psycho-pass
@@ -5725,7 +5770,9 @@ metadata:
           Ramen Aka Neko
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 5.4
+    audience_rating: 5.4
+    critic_rating: 6.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   439755:
@@ -6283,7 +6330,9 @@ metadata:
           Senpai wa Otokonoko
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   428030:
@@ -6838,24 +6887,6 @@ metadata:
     critic_rating: 8.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  436846:
-    title: |-
-      Isekai Suicide Squad
-    sort_title: |-
-      Isekai Suicide Squad
-    original_title: |-
-      Suicide Squad ISEKAI
-    genre.sync: Action,Adventure,Fantasy,Sci-Fi,Isekai,Anti-Hero,Crossover,Crime,Language Barrier,Magic,Super Power,Female Protagonist
-    studio: Wit Studio
-    seasons:
-      1:
-        title: |-
-          Isekai Suicide Squad
-        label: Score,2024 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   267432:
     title: |-
       Suisei no Gargantia
@@ -6998,6 +7029,26 @@ metadata:
     critic_rating: 7.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  436836:
+    title: |-
+      Tasogare Outfocus
+    sort_title: |-
+      Tasogare Outfocus
+    original_title: |-
+      Twilight Out of Focus
+    genre.sync: Drama,Romance,Boys' Love,School,Male Protagonist,Ensemble Cast,Primarily Male Cast
+    studio: Studio DEEN
+    seasons:
+      1:
+        title: |-
+          Tasogare Outfocus
+        label: Score,2024 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.4
+    audience_rating: 6.4
+    critic_rating: 7.2
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   445253:
     title: |-
       Tasuuketsu
@@ -7377,7 +7428,7 @@ metadata:
       Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san
     original_title: |-
       Alya Sometimes Hides Her Feelings in Russian
-    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,School,Primarily Teen Cast,Tsundere,Language Barrier,Male Protagonist,Otaku Culture,Love Triangle,Female Harem,Female Protagonist,Feet
+    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,School,Primarily Teen Cast,Tsundere,Language Barrier,Male Protagonist,Otaku Culture,Love Triangle,Female Harem,Female Protagonist
     studio: Doga Kobo
     seasons:
       1:
@@ -7698,24 +7749,6 @@ metadata:
     critic_rating: 7.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  436836:
-    title: |-
-      Tasogare Outfocus
-    sort_title: |-
-      Tasogare Outfocus
-    original_title: |-
-      Twilight Out of Focus
-    genre.sync: Drama,Romance,Boys' Love,School,Male Protagonist,Ensemble Cast,Primarily Male Cast
-    studio: Studio DEEN
-    seasons:
-      1:
-        title: |-
-          Tasogare Outfocus
-        label: Score,2024 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   256705:
     title: |-
       Uchuu Kyoudai
