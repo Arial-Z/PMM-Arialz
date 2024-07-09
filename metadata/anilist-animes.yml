@@ -994,9 +994,9 @@ metadata:
           Boukyaku Battery (TV)
         label: Score,Watching,2024 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 7.4
+        user_rating: 7.2
+    audience_rating: 7.2
+    critic_rating: 7.5
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   426530:
@@ -1543,7 +1543,7 @@ metadata:
           Date A Live V
         label: Score,2024 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.6
+        user_rating: 7.5
     audience_rating: 7.1
     critic_rating: 7.4
     label: Ended,Watching
@@ -1894,8 +1894,8 @@ metadata:
         user_rating: 6.1
     audience_rating: 6.1
     critic_rating: 6.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   421273:
     title: |-
       Edomae Elf
@@ -1936,26 +1936,6 @@ metadata:
     critic_rating: 6.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  432455:
-    title: |-
-      Nige Jouzu no Wakagimi
-    sort_title: |-
-      Nige Jouzu no Wakagimi
-    original_title: |-
-      The Elusive Samurai
-    genre.sync: Action,Adventure,Male Protagonist,Historical,Samurai,Shounen
-    studio: CloverWorks
-    seasons:
-      1:
-        title: |-
-          Nige Jouzu no Wakagimi
-        label: Score,Watching,2024 Summer
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.4
-    critic_rating: 7.1
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   355480:
     title: |-
       Enen no Shouboutai
@@ -1995,13 +1975,13 @@ metadata:
       1:
         title: |-
           Fairy Tail: 100 Years Quest
-        label: Score,Planning,2024 Summer
-        label.remove: Completed,Watching,Dropped,Paused,
+        label: Score,Watching,2024 Summer
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 8.2
-    label: Airing,Planning
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   278626:
     title: |-
       Fate/stay night: Unlimited Blade Works
@@ -2652,7 +2632,7 @@ metadata:
       Henjin no Salad Bowl
     original_title: |-
       A Salad Bowl of Eccentrics
-    genre.sync: Comedy,Fantasy,Slice of Life,Magic,Otaku Culture,Female Protagonist,Isekai,Ensemble Cast,Adoption,Homeless,Detective,Male Protagonist,Alternate Universe,Cult
+    genre.sync: Comedy,Fantasy,Slice of Life,Female Protagonist,Otaku Culture,Adoption,Ensemble Cast,Homeless,Found Family,Detective,Magic,Isekai,Male Protagonist,Alternate Universe,Cult
     studio: SynergySP
     seasons:
       1:
@@ -3210,6 +3190,26 @@ metadata:
     critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  442839:
+    title: |-
+      Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu
+    sort_title: |-
+      Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu
+    original_title: |-
+      A Journey Through Another World: Raising Kids While Adventuring
+    genre.sync: Adventure,Fantasy,Slice of Life,Isekai,Twins,Male Protagonist,Parenthood,Found Family,Magic
+    studio: EMT Squared
+    seasons:
+      1:
+        title: |-
+          Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu
+        label: Score,Watching,2024 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.9
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   431014:
     title: |-
       Ishura
@@ -3356,26 +3356,6 @@ metadata:
     critic_rating: 7.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  442839:
-    title: |-
-      Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu
-    sort_title: |-
-      Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu
-    original_title: |-
-      A Journey Through Another World: Raising Kids While Adventuring
-    genre.sync: Adventure,Fantasy,Slice of Life,Isekai,Twins,Male Protagonist,Parenthood,Found Family,Magic
-    studio: EMT Squared
-    seasons:
-      1:
-        title: |-
-          Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu
-        label: Score,Watching,2024 Summer
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
-    critic_rating: 6.9
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   377543:
     title: |-
       Jujutsu Kaisen
@@ -3702,6 +3682,25 @@ metadata:
     critic_rating: 8.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  442367:
+    title: |-
+      Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.
+    sort_title: |-
+      Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.
+    original_title: |-
+      The Magical Girl and the Evil Lieutenant Used to Be Archenemies
+    genre.sync: Comedy,Fantasy,Mahou Shoujo,Romance,Heterosexual,Age Gap
+    studio: bones
+    seasons:
+      1:
+        title: |-
+          Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.
+        label: Score,Watching,2024 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 7.1
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   352853:
     title: |-
       Kaze ga Tsuyoku Fuiteiru
@@ -4973,6 +4972,26 @@ metadata:
     critic_rating: 6.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  443862:
+    title: |-
+      Mob kara Hajimaru Tansaku Eiyuutan
+    sort_title: |-
+      Mob kara Hajimaru Tansaku Eiyuutan
+    original_title: |-
+      A Nobody's Way Up to an Exploration Hero
+    genre.sync: Action,Fantasy
+    studio: Gekkou
+    seasons:
+      1:
+        title: |-
+          Mob kara Hajimaru Tansaku Eiyuutan
+        label: Score,Watching,2024 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 6.5
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   307375:
     title: |-
       Mob Psycho 100
@@ -5053,26 +5072,6 @@ metadata:
     critic_rating: 8.5
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  447450:
-    title: |-
-      Shikanoko Nokonoko Koshitantan
-    sort_title: |-
-      Shikanoko Nokonoko Koshitantan
-    original_title: |-
-      My Deer Friend Nokotan
-    genre.sync: Comedy,Fantasy,Slice of Life,Surreal Comedy,Cute Girls Doing Cute Things,Satire,School Club,School,Meta,Female Protagonist,Urban Fantasy,Primarily Female Cast
-    studio: Wit Studio
-    seasons:
-      1:
-        title: |-
-          Shikanoko Nokonoko Koshitantan
-        label: Score,2024 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.9
-    audience_rating: 7.9
-    critic_rating: 8.1
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   413333:
     title: |-
       Nanatsu no Maken ga Shihai Suru
@@ -5245,6 +5244,26 @@ metadata:
     critic_rating: 7.7
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+  432455:
+    title: |-
+      Nige Jouzu no Wakagimi
+    sort_title: |-
+      Nige Jouzu no Wakagimi
+    original_title: |-
+      The Elusive Samurai
+    genre.sync: Action,Adventure,Male Protagonist,Historical,Samurai,Primarily Child Cast,Primarily Male Cast,Swordplay,War,Shounen
+    studio: CloverWorks
+    seasons:
+      1:
+        title: |-
+          Nige Jouzu no Wakagimi
+        label: Score,Watching,2024 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.4
+    audience_rating: 7.4
+    critic_rating: 7.1
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   415188:
     title: |-
       Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu
@@ -5265,24 +5284,23 @@ metadata:
     critic_rating: 6.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  443862:
+  422250:
     title: |-
-      Mob kara Hajimaru Tansaku Eiyuutan
+      Isekai Shikkaku
     sort_title: |-
-      Mob kara Hajimaru Tansaku Eiyuutan
+      Isekai Shikkaku
     original_title: |-
-      A Nobody's Way Up to an Exploration Hero
-    genre.sync: Action,Fantasy
-    studio: Gekkou
+      No Longer Allowed in Another World
+    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Supernatural,Isekai,Male Protagonist,Heterosexual,Magic,Suicide,Nekomimi,Satire
+    studio: Atelier Pontdarc
     seasons:
       1:
         title: |-
-          Mob kara Hajimaru Tansaku Eiyuutan
+          Isekai Shikkaku
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
-    critic_rating: 6.5
+        user_rating: 0
+    critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   275610:
@@ -5980,8 +5998,8 @@ metadata:
         user_rating: 5.4
     audience_rating: 5.4
     critic_rating: 6.4
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   439755:
     title: |-
       Re:Monster
@@ -6457,8 +6475,8 @@ metadata:
           Seiyuu Radio no Uraomote
         label: Score,2024 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 7.0
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
@@ -6658,6 +6676,26 @@ metadata:
     critic_rating: 8.6
     label: Planned,Watching
     label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
+  447450:
+    title: |-
+      Shikanoko Nokonoko Koshitantan
+    sort_title: |-
+      Shikanoko Nokonoko Koshitantan
+    original_title: |-
+      My Deer Friend Nokotan
+    genre.sync: Comedy,Fantasy,Slice of Life,Surreal Comedy,Cute Girls Doing Cute Things,Satire,School Club,School,Meta,Female Protagonist,Urban Fantasy,Primarily Female Cast
+    studio: Wit Studio
+    seasons:
+      1:
+        title: |-
+          Shikanoko Nokonoko Koshitantan
+        label: Score,Watching,2024 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.9
+    audience_rating: 7.9
+    critic_rating: 8.1
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   400573:
     title: |-
       Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita
@@ -6933,11 +6971,11 @@ metadata:
           SHY: Tokyo Dakkan-hen
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.4
+        user_rating: 6.5
+    audience_rating: 6.6
     critic_rating: 6.9
-    label: Airing,Dropped
-    label.remove: Planned,Ended,Completed,Watching,Paused,Planning
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   278154:
     title: |-
       Sidonia no Kishi
@@ -7294,8 +7332,8 @@ metadata:
         user_rating: 4.9
     audience_rating: 4.9
     critic_rating: 5.4
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   353712:
     title: |-
       Tate no Yuusha no Nariagari
@@ -7580,8 +7618,8 @@ metadata:
         user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   436948:
     title: |-
       The Fable
@@ -7902,6 +7940,26 @@ metadata:
     critic_rating: 7.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  445829:
+    title: |-
+      Tsue to Tsurugi no Wistoria
+    sort_title: |-
+      Tsue to Tsurugi no Wistoria
+    original_title: |-
+      Wistoria: Wand and Sword
+    genre.sync: Action,Adventure,Fantasy,Swordplay,Male Protagonist,Magic,School
+    studio: Actas
+    seasons:
+      1:
+        title: |-
+          Tsue to Tsurugi no Wistoria
+        label: Score,Watching,2024 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.5
+    audience_rating: 7.5
+    critic_rating: 8.1
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   325197:
     title: |-
       Tsuki ga Kirei
@@ -8317,26 +8375,6 @@ metadata:
     critic_rating: 7.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  445829:
-    title: |-
-      Tsue to Tsurugi no Wistoria
-    sort_title: |-
-      Tsue to Tsurugi no Wistoria
-    original_title: |-
-      Wistoria: Wand and Sword
-    genre.sync: Action,Adventure,Fantasy,Swordplay,Male Protagonist,Magic,School
-    studio: Actas
-    seasons:
-      1:
-        title: |-
-          Tsue to Tsurugi no Wistoria
-        label: Score,Watching,2024 Summer
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
-    critic_rating: 8.1
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   145211:
     title: |-
       Working!!
