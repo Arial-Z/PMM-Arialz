@@ -263,7 +263,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.2
     audience_rating: 8.4
-    critic_rating: 8.2
+    critic_rating: 8.5
     label: AA Winner,Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   319983:
@@ -1894,8 +1894,8 @@ metadata:
         user_rating: 6.1
     audience_rating: 6.1
     critic_rating: 6.7
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   421273:
     title: |-
       Edomae Elf
@@ -3150,6 +3150,26 @@ metadata:
     critic_rating: 7.8
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+  422250:
+    title: |-
+      Isekai Shikkaku
+    sort_title: |-
+      Isekai Shikkaku
+    original_title: |-
+      No Longer Allowed in Another World
+    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Supernatural,Isekai,Male Protagonist,Heterosexual,Magic,Suicide,Nekomimi,Satire
+    studio: Atelier Pontdarc
+    seasons:
+      1:
+        title: |-
+          Isekai Shikkaku
+        label: Score,Watching,2024 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.9
+    audience_rating: 6.9
+    critic_rating: 7.2
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   436846:
     title: |-
       Isekai Suicide Squad
@@ -3682,25 +3702,6 @@ metadata:
     critic_rating: 8.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  442367:
-    title: |-
-      Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.
-    sort_title: |-
-      Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.
-    original_title: |-
-      The Magical Girl and the Evil Lieutenant Used to Be Archenemies
-    genre.sync: Comedy,Fantasy,Mahou Shoujo,Romance,Heterosexual,Age Gap
-    studio: bones
-    seasons:
-      1:
-        title: |-
-          Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.
-        label: Score,Watching,2024 Summer
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 7.1
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   352853:
     title: |-
       Kaze ga Tsuyoku Fuiteiru
@@ -4647,6 +4648,26 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  442367:
+    title: |-
+      Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.
+    sort_title: |-
+      Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.
+    original_title: |-
+      The Magical Girl and the Evil Lieutenant Used to Be Archenemies
+    genre.sync: Comedy,Fantasy,Mahou Shoujo,Romance,Heterosexual,Age Gap
+    studio: bones
+    seasons:
+      1:
+        title: |-
+          Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.
+        label: Score,Watching,2024 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.9
+    audience_rating: 6.9
+    critic_rating: 7.1
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   278329:
     title: |-
       Mahouka Koukou no Rettousei
@@ -4841,16 +4862,16 @@ metadata:
     original_title: |-
       The Strongest Magician in the Demon Lord's Army was a Human
     genre.sync: Action,Adventure,Drama,Fantasy,Demons,War,CGI,Male Protagonist
-    studio: Happinet
+    studio: studio A-CAT
     seasons:
       1:
         title: |-
           Maou Gun Saikyou no Majutsushi wa Ningen datta
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
-    critic_rating: 6.7
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 6.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   426488:
@@ -5284,25 +5305,6 @@ metadata:
     critic_rating: 6.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  422250:
-    title: |-
-      Isekai Shikkaku
-    sort_title: |-
-      Isekai Shikkaku
-    original_title: |-
-      No Longer Allowed in Another World
-    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Supernatural,Isekai,Male Protagonist,Heterosexual,Magic,Suicide,Nekomimi,Satire
-    studio: Atelier Pontdarc
-    seasons:
-      1:
-        title: |-
-          Isekai Shikkaku
-        label: Score,Watching,2024 Summer
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 7.2
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   275610:
     title: |-
       Noragami
@@ -5602,6 +5604,32 @@ metadata:
     critic_rating: 7.1
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
+  387027:
+    title: |-
+      Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen
+    sort_title: |-
+      Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen
+    original_title: |-
+      Our Last Crusade or the Rise of a New World
+    genre.sync: Action,Fantasy,Romance,War,Magic,Witch,Male Protagonist,Swordplay,Female Protagonist,Politics,Heterosexual,Military
+    studio: SILVER LINK.
+    seasons:
+      1:
+        title: |-
+          Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen
+        label: Score,Completed,2020 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.5
+      2:
+        title: |-
+          Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II
+        label: Score,Planning,2024 Summer
+        label.remove: Completed,Watching,Dropped,Paused,
+        user_rating: 0
+    audience_rating: 6.5
+    critic_rating: 6.8
+    label: Airing,Planning
+    label.remove: Planned,Ended,Watching,Dropped,Paused,
   391625:
     title: |-
       Ousama Ranking
@@ -5998,8 +6026,8 @@ metadata:
         user_rating: 5.4
     audience_rating: 5.4
     critic_rating: 6.4
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   439755:
     title: |-
       Re:Monster
@@ -6974,8 +7002,8 @@ metadata:
         user_rating: 6.5
     audience_rating: 6.6
     critic_rating: 6.9
-    label: Ended,Dropped
-    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
+    label: Airing,Dropped
+    label.remove: Planned,Ended,Completed,Watching,Paused,Planning
   278154:
     title: |-
       Sidonia no Kishi
@@ -7331,9 +7359,9 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 4.9
     audience_rating: 4.9
-    critic_rating: 5.4
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    critic_rating: 5.3
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   353712:
     title: |-
       Tate no Yuusha no Nariagari
@@ -7618,8 +7646,8 @@ metadata:
         user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.7
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   436948:
     title: |-
       The Fable
@@ -7723,7 +7751,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 7.8
-    critic_rating: 7.5
+    critic_rating: 8.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   281249:
