@@ -261,8 +261,8 @@ metadata:
           [Oshi no Ko] 2nd Season
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.2
-    audience_rating: 8.4
+        user_rating: 8.1
+    audience_rating: 8.3
     critic_rating: 8.5
     label: AA Winner,Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
@@ -1894,8 +1894,8 @@ metadata:
         user_rating: 6.1
     audience_rating: 6.1
     critic_rating: 6.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   421273:
     title: |-
       Edomae Elf
@@ -2087,7 +2087,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.0
     audience_rating: 7.0
-    critic_rating: 7.1
+    critic_rating: 7.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   422721:
@@ -2107,7 +2107,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.9
     audience_rating: 6.9
-    critic_rating: 7.3
+    critic_rating: 7.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   267246:
@@ -2514,8 +2514,8 @@ metadata:
           Hananoi-kun to Koi no Yamai
         label: Score,2024 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
+        user_rating: 6.6
+    audience_rating: 6.6
     critic_rating: 6.7
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
@@ -3157,7 +3157,7 @@ metadata:
       Isekai Shikkaku
     original_title: |-
       No Longer Allowed in Another World
-    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Supernatural,Isekai,Male Protagonist,Heterosexual,Magic,Suicide,Nekomimi,Satire
+    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Supernatural,Isekai,Suicide,Male Protagonist,Satire,Nekomimi,Magic,Elf
     studio: Atelier Pontdarc
     seasons:
       1:
@@ -3177,7 +3177,7 @@ metadata:
       Isekai Suicide Squad
     original_title: |-
       Suicide Squad ISEKAI
-    genre.sync: Action,Adventure,Fantasy,Sci-Fi,Isekai,Anti-Hero,Crossover,Crime,Language Barrier,Magic,Super Power,Female Protagonist
+    genre.sync: Action,Adventure,Fantasy,Sci-Fi,Isekai,Anti-Hero,Crime,Language Barrier,Magic,Super Power,Female Protagonist,Crossover,Primarily Adult Cast
     studio: Wit Studio
     seasons:
       1:
@@ -3185,8 +3185,8 @@ metadata:
           Isekai Suicide Squad
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
+        user_rating: 6.7
+    audience_rating: 6.7
     critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -3702,6 +3702,26 @@ metadata:
     critic_rating: 8.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  442367:
+    title: |-
+      Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.
+    sort_title: |-
+      Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.
+    original_title: |-
+      The Magical Girl and the Evil Lieutenant Used to Be Archenemies
+    genre.sync: Comedy,Fantasy,Mahou Shoujo,Romance,Heterosexual,Age Gap,Tokusatsu,Tsundere,Episodic,Henshin
+    studio: bones
+    seasons:
+      1:
+        title: |-
+          Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.
+        label: Score,Watching,2024 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.9
+    audience_rating: 6.9
+    critic_rating: 7.1
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   352853:
     title: |-
       Kaze ga Tsuyoku Fuiteiru
@@ -3960,6 +3980,32 @@ metadata:
     critic_rating: 7.8
     label: Planned
     label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
+  387027:
+    title: |-
+      Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen
+    sort_title: |-
+      Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen
+    original_title: |-
+      Our Last Crusade or the Rise of a New World
+    genre.sync: Action,Fantasy,Romance,War,Magic,Witch,Male Protagonist,Swordplay,Female Protagonist,Politics,Heterosexual,Military
+    studio: SILVER LINK.
+    seasons:
+      1:
+        title: |-
+          Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen
+        label: Score,Completed,2020 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.5
+      2:
+        title: |-
+          Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II
+        label: Score,Planning,2024 Summer
+        label.remove: Completed,Watching,Dropped,Paused,
+        user_rating: 6.9
+    audience_rating: 6.7
+    critic_rating: 6.8
+    label: Airing,Planning
+    label.remove: Planned,Ended,Watching,Dropped,Paused,
   414562:
     title: |-
       Kimi wa Houkago Insomnia
@@ -4648,26 +4694,6 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  442367:
-    title: |-
-      Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.
-    sort_title: |-
-      Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.
-    original_title: |-
-      The Magical Girl and the Evil Lieutenant Used to Be Archenemies
-    genre.sync: Comedy,Fantasy,Mahou Shoujo,Romance,Heterosexual,Age Gap
-    studio: bones
-    seasons:
-      1:
-        title: |-
-          Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.
-        label: Score,Watching,2024 Summer
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
-    critic_rating: 7.1
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   278329:
     title: |-
       Mahouka Koukou no Rettousei
@@ -5604,32 +5630,6 @@ metadata:
     critic_rating: 7.1
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
-  387027:
-    title: |-
-      Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen
-    sort_title: |-
-      Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen
-    original_title: |-
-      Our Last Crusade or the Rise of a New World
-    genre.sync: Action,Fantasy,Romance,War,Magic,Witch,Male Protagonist,Swordplay,Female Protagonist,Politics,Heterosexual,Military
-    studio: SILVER LINK.
-    seasons:
-      1:
-        title: |-
-          Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen
-        label: Score,Completed,2020 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.5
-      2:
-        title: |-
-          Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II
-        label: Score,Planning,2024 Summer
-        label.remove: Completed,Watching,Dropped,Paused,
-        user_rating: 0
-    audience_rating: 6.5
-    critic_rating: 6.8
-    label: Airing,Planning
-    label.remove: Planned,Ended,Watching,Dropped,Paused,
   391625:
     title: |-
       Ousama Ranking
@@ -5966,8 +5966,8 @@ metadata:
         user_rating: 6.7
     audience_rating: 7.3
     critic_rating: 7.6
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   417983:
     title: |-
       Ragna Crimson
@@ -6026,8 +6026,8 @@ metadata:
         user_rating: 5.4
     audience_rating: 5.4
     critic_rating: 6.4
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   439755:
     title: |-
       Re:Monster
@@ -6371,7 +6371,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.7
     audience_rating: 6.7
-    critic_rating: 7.1
+    critic_rating: 7.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   425756:
@@ -7002,8 +7002,8 @@ metadata:
         user_rating: 6.5
     audience_rating: 6.6
     critic_rating: 6.9
-    label: Airing,Dropped
-    label.remove: Planned,Ended,Completed,Watching,Paused,Planning
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   278154:
     title: |-
       Sidonia no Kishi
@@ -7360,8 +7360,8 @@ metadata:
         user_rating: 4.9
     audience_rating: 4.9
     critic_rating: 5.3
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   353712:
     title: |-
       Tate no Yuusha no Nariagari
@@ -7646,8 +7646,8 @@ metadata:
         user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   436948:
     title: |-
       The Fable
@@ -7663,9 +7663,9 @@ metadata:
           The Fable
         label: Score,Watching,2024 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 7.3
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 7.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   378556:
@@ -7741,7 +7741,7 @@ metadata:
       Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san
     original_title: |-
       Alya Sometimes Hides Her Feelings in Russian
-    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,School,Primarily Teen Cast,Tsundere,Language Barrier,Male Protagonist,Otaku Culture,Love Triangle,Female Harem,Female Protagonist
+    genre.sync: Comedy,Romance,Slice of Life,School,Heterosexual,Tsundere,Primarily Teen Cast,Language Barrier,Male Protagonist,Otaku Culture,Female Harem,Female Protagonist,Love Triangle
     studio: Doga Kobo
     seasons:
       1:
@@ -8390,7 +8390,7 @@ metadata:
       Wind Breaker
     original_title: |-
       Wind Breaker
-    genre.sync: Action,Comedy,Drama,Gangs,Delinquents,Primarily Male Cast,Male Protagonist,Shounen,Urban,Tsundere,Found Family,Ensemble Cast,School,Primarily Teen Cast
+    genre.sync: Action,Comedy,Drama,Gangs,Delinquents,Male Protagonist,Primarily Male Cast,Shounen,Urban,Ensemble Cast,Tsundere,School,Found Family,Primarily Teen Cast,Bullying
     studio: CloverWorks
     seasons:
       1:
