@@ -169,7 +169,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
-    critic_rating: 7.1
+    critic_rating: 7.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   306269:
@@ -1894,8 +1894,8 @@ metadata:
         user_rating: 6.1
     audience_rating: 6.1
     critic_rating: 6.7
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   421273:
     title: |-
       Edomae Elf
@@ -2077,7 +2077,7 @@ metadata:
       Giji Harem
     original_title: |-
       Pseudo Harem
-    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Acting,Episodic,Iyashikei,Parody,School
+    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Acting,Episodic,Iyashikei,Parody,School,Female Protagonist,Shounen,School Club,Meta,Male Protagonist
     studio: Nomad
     seasons:
       1:
@@ -2085,8 +2085,8 @@ metadata:
           Giji Harem
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
+        user_rating: 7.1
+    audience_rating: 7.1
     critic_rating: 7.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -2097,7 +2097,7 @@ metadata:
       Gimai Seikatsu
     original_title: |-
       Days with My Stepsister
-    genre.sync: Comedy,Psychological,Romance,Slice of Life,Heterosexual,Inseki,Male Protagonist,Philosophy,Family Life,School
+    genre.sync: Romance,Slice of Life,Inseki,Heterosexual,Male Protagonist,Philosophy,Family Life,Female Protagonist,School
     studio: Studio DEEN
     seasons:
       1:
@@ -2105,8 +2105,8 @@ metadata:
           Gimai Seikatsu
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
+        user_rating: 7.0
+    audience_rating: 7.0
     critic_rating: 7.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -2552,7 +2552,7 @@ metadata:
       Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made
     original_title: |-
       Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells
-    genre.sync: Action,Adventure,Drama,Fantasy,Survival,Isekai,CGI,Revenge
+    genre.sync: Action,Adventure,Drama,Fantasy,CGI,Revenge,Survival,Isekai
     studio: Seven Arcs
     seasons:
       1:
@@ -2562,7 +2562,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.3
     audience_rating: 6.3
-    critic_rating: 6.8
+    critic_rating: 6.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   401856:
@@ -5565,8 +5565,8 @@ metadata:
           Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
+        user_rating: 6.7
+    audience_rating: 6.7
     critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -5966,8 +5966,8 @@ metadata:
         user_rating: 6.7
     audience_rating: 7.3
     critic_rating: 7.6
-    label: Ended,Watching
-    label.remove: Planned,Airing,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   417983:
     title: |-
       Ragna Crimson
@@ -6015,7 +6015,7 @@ metadata:
       Ramen Aka Neko
     original_title: |-
       Ramen Akaneko
-    genre.sync: Comedy,Fantasy,Slice of Life,Food,Work,Animals,Iyashikei,Anthropomorphism,Primarily Animal Cast,Found Family,Restaurant ,Urban
+    genre.sync: Comedy,Fantasy,Slice of Life,Food,Work,Animals,Iyashikei,Anthropomorphism,Primarily Animal Cast,Found Family,Restaurant ,Urban,CGI
     studio: E&H Production
     seasons:
       1:
@@ -6023,11 +6023,11 @@ metadata:
           Ramen Aka Neko
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.4
-    audience_rating: 5.4
+        user_rating: 5.6
+    audience_rating: 5.6
     critic_rating: 6.4
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   439755:
     title: |-
       Re:Monster
@@ -6575,7 +6575,7 @@ metadata:
       Senpai wa Otokonoko
     original_title: |-
       Senpai is an Otokonoko
-    genre.sync: Comedy,Drama,Romance,School,Primarily Teen Cast,Coming of Age,Crossdressing,Love Triangle,LGBTQ+ Themes,Male Protagonist,Femboy,Josei,Boys' Love
+    genre.sync: Comedy,Drama,Romance,School,Primarily Teen Cast,Coming of Age,Crossdressing,LGBTQ+ Themes,Love Triangle,Josei,Femboy,Male Protagonist,Bisexual,Mixed Gender Harem
     studio: project No.9
     seasons:
       1:
@@ -6583,9 +6583,9 @@ metadata:
           Senpai wa Otokonoko
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 7.1
+        user_rating: 6.9
+    audience_rating: 6.9
+    critic_rating: 7.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   428030:
@@ -7002,8 +7002,8 @@ metadata:
         user_rating: 6.5
     audience_rating: 6.6
     critic_rating: 6.9
-    label: Ended,Dropped
-    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
+    label: Airing,Dropped
+    label.remove: Planned,Ended,Completed,Watching,Paused,Planning
   278154:
     title: |-
       Sidonia no Kishi
@@ -7329,7 +7329,7 @@ metadata:
       Tasogare Outfocus
     original_title: |-
       Twilight Out of Focus
-    genre.sync: Drama,Romance,Boys' Love,School,Male Protagonist,Ensemble Cast,Primarily Male Cast
+    genre.sync: Drama,Romance,Boys' Love,LGBTQ+ Themes,Primarily Male Cast,Filmmaking,School,Male Protagonist,Ensemble Cast,School Club,Acting
     studio: Studio DEEN
     seasons:
       1:
@@ -7337,9 +7337,9 @@ metadata:
           Tasogare Outfocus
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
-    critic_rating: 7.2
+        user_rating: 6.9
+    audience_rating: 6.9
+    critic_rating: 7.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   445253:
@@ -7360,8 +7360,8 @@ metadata:
         user_rating: 4.9
     audience_rating: 4.9
     critic_rating: 5.3
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   353712:
     title: |-
       Tate no Yuusha no Nariagari
@@ -7646,8 +7646,8 @@ metadata:
         user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.7
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   436948:
     title: |-
       The Fable
