@@ -159,7 +159,7 @@ metadata:
       2.5 Jigen no Ririsa
     original_title: |-
       2.5 Dimensional Seduction
-    genre.sync: Comedy,Ecchi,Romance,Slice of Life,Cosplay,Otaku Culture,Male Protagonist,Primarily Female Cast,Heterosexual,School Club,Photography
+    genre.sync: Comedy,Ecchi,Romance,Slice of Life,Cosplay,Male Protagonist,Otaku Culture,Heterosexual
     studio: J.C. Staff
     seasons:
       1:
@@ -540,6 +540,25 @@ metadata:
     critic_rating: 7.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  425244:
+    title: |-
+      ATRI: My Dear Moments
+    sort_title: |-
+      ATRI: My Dear Moments
+    original_title: |-
+      ATRI -My Dear Moments-
+    genre.sync: Drama,Romance,Sci-Fi,Robots,Heterosexual,Male Protagonist,Environmental
+    studio: TROYCA
+    seasons:
+      1:
+        title: |-
+          ATRI: My Dear Moments
+        label: Score,Watching,2024 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 7.3
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   426440:
     title: |-
       Ayaka
@@ -954,8 +973,8 @@ metadata:
           Boku no Tsuma wa Kanjou ga Nai
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.0
-    audience_rating: 6.0
+        user_rating: 6.1
+    audience_rating: 6.1
     critic_rating: 6.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -1575,7 +1594,7 @@ metadata:
       Dead Dead Demon's Dededededestruction
     original_title: |-
       Dead Dead Demons Dededede Destruction
-    genre.sync: Comedy,Drama,Sci-Fi,Slice of Life,Female Protagonist,Coming of Age,Urban,Aliens,Dystopian,Surreal Comedy,Politics,Seinen,Tragedy,Cute Girls Doing Cute Things,Philosophy,Primarily Female Cast,Military,School
+    genre.sync: Comedy,Drama,Sci-Fi,Slice of Life,Coming of Age,Female Protagonist,Tragedy,Urban,Aliens,Denpa,Philosophy,Dystopian,Politics,Surreal Comedy,Seinen,Cute Girls Doing Cute Things,Military,Primarily Female Cast,School
     studio: Production +h
     seasons:
       1:
@@ -1583,8 +1602,8 @@ metadata:
           Dead Dead Demon's Dededededestruction
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.4
+        user_rating: 7.5
+    audience_rating: 7.5
     critic_rating: 7.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -1883,7 +1902,7 @@ metadata:
       Dungeon no Naka no Hito
     original_title: |-
       Dungeon People
-    genre.sync: Adventure,Comedy,Fantasy
+    genre.sync: Adventure,Comedy,Fantasy,Dungeon,Female Protagonist,Cute Girls Doing Cute Things,Swordplay
     studio: OLM
     seasons:
       1:
@@ -1891,11 +1910,11 @@ metadata:
           Dungeon no Naka no Hito
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
-    critic_rating: 6.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.4
+    audience_rating: 6.4
+    critic_rating: 6.8
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   421273:
     title: |-
       Edomae Elf
@@ -3489,7 +3508,7 @@ metadata:
       Kaijuu 8-gou
     original_title: |-
       Kaiju No.8
-    genre.sync: Action,Sci-Fi,Kaiju,Monster Boy,Shapeshifting,Super Power,Male Protagonist,Shounen,Henshin,Urban Fantasy,Tokusatsu,Kuudere,Work,Military
+    genre.sync: Action,Sci-Fi,Kaiju,Monster Boy,Shapeshifting,Super Power,Male Protagonist,Shounen,Urban Fantasy,Henshin,Tokusatsu,Kuudere,Work,Military
     studio: Production I.G
     seasons:
       1:
@@ -3669,7 +3688,7 @@ metadata:
       Karasu wa Aruji wo Erabanai
     original_title: |-
       YATAGARASU: The Raven Does Not Choose Its Master
-    genre.sync: Action,Drama,Fantasy,Supernatural,Royal Affairs,Shapeshifting,Politics,Male Protagonist,Adoption,Conspiracy,Ensemble Cast,Estranged Family,Ojou-sama,Mythology,Primarily Adult Cast,Seinen
+    genre.sync: Action,Drama,Fantasy,Supernatural,Royal Affairs,Politics,Shapeshifting,Male Protagonist,Adoption,Conspiracy,Ensemble Cast,Estranged Family,Ojou-sama,Mythology,Primarily Adult Cast,Seinen
     studio: Studio Pierrot
     seasons:
       1:
@@ -3680,8 +3699,8 @@ metadata:
         user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.6
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   132941:
     title: |-
       Katanagatari
@@ -4151,13 +4170,13 @@ metadata:
       1:
         title: |-
           Kono Sekai wa Fukanzen Sugiru
-        label: Score,2024 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
-    critic_rating: 6.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2024 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.5
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   420657:
     title: |-
       Kono Subarashii Sekai ni Bakuen wo!
@@ -4665,7 +4684,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
-    critic_rating: 6.7
+    critic_rating: 6.9
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   262094:
@@ -5308,7 +5327,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.4
     audience_rating: 7.4
-    critic_rating: 7.1
+    critic_rating: 7.9
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   415188:
@@ -5966,8 +5985,8 @@ metadata:
         user_rating: 6.7
     audience_rating: 7.3
     critic_rating: 7.6
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   417983:
     title: |-
       Ragna Crimson
@@ -6026,8 +6045,8 @@ metadata:
         user_rating: 5.6
     audience_rating: 5.6
     critic_rating: 6.4
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   439755:
     title: |-
       Re:Monster
@@ -7002,8 +7021,8 @@ metadata:
         user_rating: 6.5
     audience_rating: 6.6
     critic_rating: 6.9
-    label: Airing,Dropped
-    label.remove: Planned,Ended,Completed,Watching,Paused,Planning
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   278154:
     title: |-
       Sidonia no Kishi
@@ -7340,8 +7359,8 @@ metadata:
         user_rating: 6.9
     audience_rating: 6.9
     critic_rating: 7.3
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   445253:
     title: |-
       Tasuuketsu
@@ -7360,8 +7379,8 @@ metadata:
         user_rating: 4.9
     audience_rating: 4.9
     critic_rating: 5.3
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   353712:
     title: |-
       Tate no Yuusha no Nariagari
@@ -7521,7 +7540,7 @@ metadata:
       Tensei Kizoku, Kantei Skill de Nariagaru
     original_title: |-
       As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World
-    genre.sync: Adventure,Fantasy,Isekai,Coming of Age,Reincarnation
+    genre.sync: Adventure,Fantasy,Isekai,Coming of Age,Reincarnation,Kids
     studio: studio MOTHER
     seasons:
       1:
@@ -7531,7 +7550,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.0
     audience_rating: 7.0
-    critic_rating: 7.2
+    critic_rating: 7.1
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   423362:
@@ -7646,8 +7665,8 @@ metadata:
         user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   436948:
     title: |-
       The Fable
@@ -8383,6 +8402,25 @@ metadata:
     critic_rating: 7.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  437517:
+    title: |-
+      Naze Boku no Sekai wo Daremo Oboeteinai no ka?
+    sort_title: |-
+      Naze Boku no Sekai wo Daremo Oboeteinai no ka?
+    original_title: |-
+      Why Does Nobody Remember Me in This World?
+    genre.sync: Action,Adventure,Fantasy,Sci-Fi,Alternate Universe,Demons,Amnesia
+    studio: project No.9
+    seasons:
+      1:
+        title: |-
+          Naze Boku no Sekai wo Daremo Oboeteinai no ka?
+        label: Score,Watching,2024 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 7.0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   433088:
     title: |-
       Wind Breaker
@@ -8676,7 +8714,7 @@ metadata:
       Yozakura-san Chi no Daisakusen
     original_title: |-
       Mission: Yozakura Family
-    genre.sync: Action,Comedy,Romance,Espionage,Family Life,Shounen,Surreal Comedy,Super Power,Marriage,Male Protagonist,School
+    genre.sync: Action,Comedy,Romance,Shounen,Espionage,Family Life,Surreal Comedy,Super Power,Marriage,Male Protagonist,School
     studio: SILVER LINK.
     seasons:
       1:
