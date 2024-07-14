@@ -555,7 +555,8 @@ metadata:
           ATRI: My Dear Moments
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.9
+    audience_rating: 6.9
     critic_rating: 7.3
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -1913,8 +1914,8 @@ metadata:
         user_rating: 6.4
     audience_rating: 6.4
     critic_rating: 6.8
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   421273:
     title: |-
       Edomae Elf
@@ -1988,7 +1989,7 @@ metadata:
       Fairy Tail: 100 Years Quest
     original_title: |-
       Fairy Tail 100 Years Quest
-    genre.sync: Action,Adventure,Comedy,Fantasy,Magic,Shounen,Male Protagonist,Dragons,Ensemble Cast,Female Protagonist
+    genre.sync: Action,Adventure,Comedy,Fantasy,Magic,Shounen,Dragons,Male Protagonist,Ensemble Cast,Female Protagonist
     studio: J.C. Staff
     seasons:
       1:
@@ -3699,8 +3700,8 @@ metadata:
         user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.6
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   132941:
     title: |-
       Katanagatari
@@ -5198,6 +5199,26 @@ metadata:
     critic_rating: 7.1
     label: Planned,Planning
     label.remove: Airing,Ended,Watching,Dropped,Paused,
+  437517:
+    title: |-
+      Naze Boku no Sekai wo Daremo Oboeteinai no ka?
+    sort_title: |-
+      Naze Boku no Sekai wo Daremo Oboeteinai no ka?
+    original_title: |-
+      Why Does Nobody Remember Me in This World?
+    genre.sync: Action,Adventure,Fantasy,Sci-Fi,Alternate Universe,Demons,Amnesia
+    studio: project No.9
+    seasons:
+      1:
+        title: |-
+          Naze Boku no Sekai wo Daremo Oboeteinai no ka?
+        label: Score,Watching,2024 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   309206:
     title: |-
       Nejimaki Seirei Senki: Tenkyou no Alderamin
@@ -5985,8 +6006,8 @@ metadata:
         user_rating: 6.7
     audience_rating: 7.3
     critic_rating: 7.6
-    label: Ended,Watching
-    label.remove: Planned,Airing,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   417983:
     title: |-
       Ragna Crimson
@@ -6045,8 +6066,8 @@ metadata:
         user_rating: 5.6
     audience_rating: 5.6
     critic_rating: 6.4
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   439755:
     title: |-
       Re:Monster
@@ -7021,8 +7042,8 @@ metadata:
         user_rating: 6.5
     audience_rating: 6.6
     critic_rating: 6.9
-    label: Ended,Dropped
-    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
+    label: Airing,Dropped
+    label.remove: Planned,Ended,Completed,Watching,Paused,Planning
   278154:
     title: |-
       Sidonia no Kishi
@@ -7359,8 +7380,8 @@ metadata:
         user_rating: 6.9
     audience_rating: 6.9
     critic_rating: 7.3
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   445253:
     title: |-
       Tasuuketsu
@@ -7379,8 +7400,8 @@ metadata:
         user_rating: 4.9
     audience_rating: 4.9
     critic_rating: 5.3
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   353712:
     title: |-
       Tate no Yuusha no Nariagari
@@ -7665,8 +7686,8 @@ metadata:
         user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.7
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   436948:
     title: |-
       The Fable
@@ -8402,25 +8423,6 @@ metadata:
     critic_rating: 7.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  437517:
-    title: |-
-      Naze Boku no Sekai wo Daremo Oboeteinai no ka?
-    sort_title: |-
-      Naze Boku no Sekai wo Daremo Oboeteinai no ka?
-    original_title: |-
-      Why Does Nobody Remember Me in This World?
-    genre.sync: Action,Adventure,Fantasy,Sci-Fi,Alternate Universe,Demons,Amnesia
-    studio: project No.9
-    seasons:
-      1:
-        title: |-
-          Naze Boku no Sekai wo Daremo Oboeteinai no ka?
-        label: Score,Watching,2024 Summer
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 7.0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   433088:
     title: |-
       Wind Breaker
