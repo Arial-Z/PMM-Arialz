@@ -129,7 +129,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.4
     audience_rating: 7.4
-    critic_rating: 7.6
+    critic_rating: 7.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   429055:
@@ -1014,8 +1014,8 @@ metadata:
           Boukyaku Battery (TV)
         label: Score,Watching,2024 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.2
+        user_rating: 7.3
+    audience_rating: 7.3
     critic_rating: 7.5
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
@@ -2176,7 +2176,7 @@ metadata:
       Girls Band Cry
     original_title: |-
       Girls Band Cry
-    genre.sync: Drama,Music,Slice of Life,Band,CGI,Primarily Female Cast,Female Protagonist,Full CGI,Coming of Age,Rock Music,Urban,Bullying,Denpa
+    genre.sync: Drama,Music,Slice of Life,Band,CGI,Primarily Female Cast,Female Protagonist,Full CGI,Coming of Age,Rock Music,Urban,Bullying
     studio: Toei Animation
     seasons:
       1:
@@ -3187,7 +3187,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.9
     audience_rating: 6.9
-    critic_rating: 7.2
+    critic_rating: 7.3
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   436846:
@@ -3489,7 +3489,7 @@ metadata:
       Kaii to Otome to Kamikakushi
     original_title: |-
       Mysterious Disappearances
-    genre.sync: Ecchi,Mystery,Romance,Supernatural,Urban Fantasy,Large Breasts,Female Protagonist,Seinen,Mythology
+    genre.sync: Ecchi,Mystery,Romance,Supernatural,Urban Fantasy,Large Breasts,Female Protagonist,Mythology,Seinen,Age Regression,Writing
     studio: Zero-G
     seasons:
       1:
@@ -3739,7 +3739,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.9
     audience_rating: 6.9
-    critic_rating: 7.1
+    critic_rating: 7.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   352853:
@@ -6535,7 +6535,7 @@ metadata:
       Seiyuu Radio no Uraomote
     original_title: |-
       The Many Sides of Voice Actor Radio
-    genre.sync: Comedy,Drama,Slice of Life,Primarily Female Cast,Female Protagonist,Acting,Work,Gyaru,Idol,School,Otaku Culture
+    genre.sync: Comedy,Drama,Slice of Life,Primarily Female Cast,Female Protagonist,Acting,Work,Gyaru,Yuri,Idol,School,Otaku Culture
     studio: CONNECT
     seasons:
       1:
@@ -7039,7 +7039,7 @@ metadata:
           SHY: Tokyo Dakkan-hen
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.5
+        user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 6.9
     label: Airing,Dropped
