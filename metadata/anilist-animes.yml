@@ -1584,10 +1584,16 @@ metadata:
         label: Score,Completed,2021 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.3
+      2:
+        title: |-
+          Dawang Raoming 2
+        label: Score,Completed,2023 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.4
     audience_rating: 7.3
-    critic_rating: 7.5
-    label: Ended,Watching
-    label.remove: Planned,Airing,Dropped,Paused,Planning
+    critic_rating: 7.6
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   418123:
     title: |-
       Dead Dead Demon's Dededededestruction
@@ -3177,7 +3183,7 @@ metadata:
       Isekai Shikkaku
     original_title: |-
       No Longer Allowed in Another World
-    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Supernatural,Isekai,Suicide,Male Protagonist,Satire,Nekomimi,Magic,Elf
+    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Supernatural,Isekai,Suicide,Male Protagonist,Magic,Satire,Nekomimi,Heterosexual
     studio: Atelier Pontdarc
     seasons:
       1:
@@ -3737,8 +3743,8 @@ metadata:
           Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
+        user_rating: 7.0
+    audience_rating: 7.0
     critic_rating: 7.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -4023,7 +4029,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,
         user_rating: 6.9
     audience_rating: 6.7
-    critic_rating: 6.8
+    critic_rating: 6.9
     label: Airing,Planning
     label.remove: Planned,Ended,Watching,Dropped,Paused,
   414562:
@@ -4874,6 +4880,26 @@ metadata:
     critic_rating: 7.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  443377:
+    title: |-
+      Make Heroine ga Oosugiru!
+    sort_title: |-
+      Make Heroine ga Oosugiru!
+    original_title: |-
+      Makeine: Too Many Losing Heroines!
+    genre.sync: Comedy,Romance,Male Protagonist,Female Harem,School Club,Heterosexual
+    studio: A-1 Pictures
+    seasons:
+      1:
+        title: |-
+          Make Heroine ga Oosugiru!
+        label: Score,2024 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.8
+    audience_rating: 7.8
+    critic_rating: 8.1
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   375927:
     title: |-
       Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou
@@ -4915,9 +4941,9 @@ metadata:
           Maou Gun Saikyou no Majutsushi wa Ningen datta
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
-    critic_rating: 6.5
+        user_rating: 5.9
+    audience_rating: 5.9
+    critic_rating: 6.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   426488:
@@ -6865,7 +6891,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
-    critic_rating: 7.1
+    critic_rating: 7.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   421283:
@@ -7389,7 +7415,7 @@ metadata:
       Tasuuketsu
     original_title: |-
       Tasuketsu -Fate of the Majority-
-    genre.sync: Action,Mystery,Thriller,Death Game
+    genre.sync: Action,Mystery,Thriller,Death Game,Male Protagonist,Primarily Teen Cast,Super Power
     studio: Satelight
     seasons:
       1:
@@ -7397,9 +7423,9 @@ metadata:
           Tasuuketsu
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 4.9
-    audience_rating: 4.9
-    critic_rating: 5.3
+        user_rating: 4.7
+    audience_rating: 4.7
+    critic_rating: 5.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   353712:
@@ -7791,7 +7817,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 7.8
-    critic_rating: 8.1
+    critic_rating: 8.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   281249:
