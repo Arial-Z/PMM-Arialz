@@ -1920,8 +1920,8 @@ metadata:
         user_rating: 6.4
     audience_rating: 6.4
     critic_rating: 6.8
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   421273:
     title: |-
       Edomae Elf
@@ -3211,8 +3211,8 @@ metadata:
           Isekai Suicide Squad
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
+        user_rating: 6.5
+    audience_rating: 6.5
     critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -3581,7 +3581,7 @@ metadata:
       Kami wa Game ni Ueteiru.
     original_title: |-
       Gods' Games We Play
-    genre.sync: Comedy,Drama,Ecchi,Fantasy,Romance,Male Protagonist,Female Harem,Urban Fantasy,Gods,Board Game,Female Protagonist,Magic,Super Power
+    genre.sync: Comedy,Drama,Ecchi,Fantasy,Romance,Male Protagonist,Female Harem,Urban Fantasy,Gods,Board Game,Magic,Super Power
     studio: LIDENFILMS
     seasons:
       1:
@@ -3706,8 +3706,8 @@ metadata:
         user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.6
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   132941:
     title: |-
       Katanagatari
@@ -4027,7 +4027,7 @@ metadata:
           Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II
         label: Score,Planning,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,
-        user_rating: 6.9
+        user_rating: 6.8
     audience_rating: 6.7
     critic_rating: 6.9
     label: Airing,Planning
@@ -6032,8 +6032,8 @@ metadata:
         user_rating: 6.7
     audience_rating: 7.3
     critic_rating: 7.6
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   417983:
     title: |-
       Ragna Crimson
@@ -6092,8 +6092,8 @@ metadata:
         user_rating: 5.6
     audience_rating: 5.6
     critic_rating: 6.4
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   439755:
     title: |-
       Re:Monster
@@ -7068,8 +7068,8 @@ metadata:
         user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 6.9
-    label: Airing,Dropped
-    label.remove: Planned,Ended,Completed,Watching,Paused,Planning
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   278154:
     title: |-
       Sidonia no Kishi
@@ -7406,8 +7406,8 @@ metadata:
         user_rating: 6.9
     audience_rating: 6.9
     critic_rating: 7.3
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   445253:
     title: |-
       Tasuuketsu
@@ -7426,8 +7426,8 @@ metadata:
         user_rating: 4.7
     audience_rating: 4.7
     critic_rating: 5.2
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   353712:
     title: |-
       Tate no Yuusha no Nariagari
@@ -7712,8 +7712,8 @@ metadata:
         user_rating: 6.3
     audience_rating: 6.3
     critic_rating: 6.6
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   436948:
     title: |-
       The Fable
@@ -7807,7 +7807,7 @@ metadata:
       Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san
     original_title: |-
       Alya Sometimes Hides Her Feelings in Russian
-    genre.sync: Comedy,Romance,Slice of Life,School,Heterosexual,Tsundere,Primarily Teen Cast,Language Barrier,Male Protagonist,Otaku Culture,Female Harem,Female Protagonist,Love Triangle
+    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,School,Tsundere,Language Barrier,Primarily Teen Cast,Male Protagonist,Female Harem,Otaku Culture,Primarily Female Cast,Love Triangle
     studio: Doga Kobo
     seasons:
       1:
@@ -7815,8 +7815,8 @@ metadata:
           Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.8
+        user_rating: 7.9
+    audience_rating: 7.9
     critic_rating: 8.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -8456,7 +8456,7 @@ metadata:
       Wind Breaker
     original_title: |-
       Wind Breaker
-    genre.sync: Action,Comedy,Drama,Gangs,Delinquents,Male Protagonist,Primarily Male Cast,Shounen,Urban,Ensemble Cast,Tsundere,School,Found Family,Primarily Teen Cast,Bullying
+    genre.sync: Action,Comedy,Drama,Gangs,Delinquents,Male Protagonist,Primarily Male Cast,Shounen,Urban,School,Tsundere,Found Family,Primarily Teen Cast,Ensemble Cast,Bullying
     studio: CloverWorks
     seasons:
       1:
