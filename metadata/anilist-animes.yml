@@ -557,7 +557,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.9
     audience_rating: 6.9
-    critic_rating: 7.3
+    critic_rating: 7.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   426440:
@@ -804,7 +804,7 @@ metadata:
       Blue Archive The Animation
     original_title: |-
       Blue Archive The Animation
-    genre.sync: Action,Comedy,Fantasy,Slice of Life,Teacher,School,Guns,Primarily Female Cast,Primarily Teen Cast,Urban Fantasy,Desert,Age Gap,Feet,Angels
+    genre.sync: Action,Comedy,Fantasy,Slice of Life,Teacher,School,Guns,Primarily Female Cast,Primarily Teen Cast,Urban Fantasy,Desert,Age Gap,Angels
     studio: Yostar Pictures
     seasons:
       1:
@@ -974,8 +974,8 @@ metadata:
           Boku no Tsuma wa Kanjou ga Nai
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
+        user_rating: 6.0
+    audience_rating: 6.0
     critic_rating: 6.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -1601,7 +1601,7 @@ metadata:
       Dead Dead Demon's Dededededestruction
     original_title: |-
       Dead Dead Demons Dededede Destruction
-    genre.sync: Comedy,Drama,Sci-Fi,Slice of Life,Coming of Age,Female Protagonist,Tragedy,Urban,Aliens,Denpa,Philosophy,Dystopian,Politics,Surreal Comedy,Seinen,Cute Girls Doing Cute Things,Military,Primarily Female Cast,School
+    genre.sync: Comedy,Drama,Sci-Fi,Slice of Life,Coming of Age,Female Protagonist,Tragedy,Urban,Aliens,Denpa,Philosophy,Dystopian,Politics,Seinen,Surreal Comedy,Military,Primarily Female Cast,School,Cute Girls Doing Cute Things
     studio: Production +h
     seasons:
       1:
@@ -1909,7 +1909,7 @@ metadata:
       Dungeon no Naka no Hito
     original_title: |-
       Dungeon People
-    genre.sync: Adventure,Comedy,Fantasy,Dungeon,Female Protagonist,Cute Girls Doing Cute Things,Swordplay
+    genre.sync: Adventure,Comedy,Fantasy,Dungeon,Cute Girls Doing Cute Things,Female Protagonist,Swordplay
     studio: OLM
     seasons:
       1:
@@ -3515,7 +3515,7 @@ metadata:
       Kaijuu 8-gou
     original_title: |-
       Kaiju No.8
-    genre.sync: Action,Sci-Fi,Kaiju,Monster Boy,Shapeshifting,Super Power,Male Protagonist,Shounen,Urban Fantasy,Henshin,Tokusatsu,Kuudere,Work,Military
+    genre.sync: Action,Sci-Fi,Kaiju,Monster Boy,Shapeshifting,Male Protagonist,Super Power,Urban Fantasy,Shounen,Henshin,Tokusatsu,Military,Work
     studio: Production I.G
     seasons:
       1:
@@ -3703,8 +3703,8 @@ metadata:
           Karasu wa Aruji wo Erabanai
         label: Score,Watching,2024 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
+        user_rating: 7.1
+    audience_rating: 7.1
     critic_rating: 7.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -4171,7 +4171,7 @@ metadata:
       Kono Sekai wa Fukanzen Sugiru
     original_title: |-
       Quality Assurance in Another World
-    genre.sync: Adventure,Comedy,Fantasy,Virtual World
+    genre.sync: Adventure,Comedy,Fantasy,Virtual World,Video Games
     studio: 100studio
     seasons:
       1:
@@ -4179,9 +4179,9 @@ metadata:
           Kono Sekai wa Fukanzen Sugiru
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
-    critic_rating: 6.5
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 6.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   420657:
@@ -4691,7 +4691,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
-    critic_rating: 6.9
+    critic_rating: 6.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   262094:
@@ -5082,7 +5082,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 5.9
     audience_rating: 5.9
-    critic_rating: 6.5
+    critic_rating: 6.3
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   307375:
@@ -5242,7 +5242,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.7
     audience_rating: 6.7
-    critic_rating: 7.0
+    critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   309206:
@@ -5374,7 +5374,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.6
     audience_rating: 7.6
-    critic_rating: 7.9
+    critic_rating: 8.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   415188:
@@ -6427,7 +6427,7 @@ metadata:
       Sasayaku You ni Koi wo Utau
     original_title: |-
       Whisper Me a Love Song
-    genre.sync: Drama,Music,Romance,Yuri,Primarily Female Cast,Female Protagonist,LGBTQ+ Themes,Primarily Teen Cast,Band,School,Love Triangle,Cute Girls Doing Cute Things,School Club
+    genre.sync: Drama,Music,Romance,Yuri,Primarily Female Cast,Female Protagonist,Primarily Teen Cast,LGBTQ+ Themes,Band,School,Love Triangle,School Club,Cute Girls Doing Cute Things
     studio: CLOUDHEARTS
     seasons:
       1:
@@ -6435,8 +6435,8 @@ metadata:
           Sasayaku You ni Koi wo Utau
         label: Score,2024 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
+        user_rating: 6.6
+    audience_rating: 6.6
     critic_rating: 7.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -6669,8 +6669,8 @@ metadata:
           Sentai Daishikkaku
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.3
-    audience_rating: 7.3
+        user_rating: 7.2
+    audience_rating: 7.2
     critic_rating: 7.4
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
@@ -8670,7 +8670,7 @@ metadata:
       Yoru no Kurage wa Oyogenai
     original_title: |-
       Jellyfish Can’t Swim in the Night
-    genre.sync: Drama,Music,Primarily Female Cast,Female Protagonist,Primarily Teen Cast,Coming of Age,Urban,Drawing,Idol,Band,Cute Girls Doing Cute Things,LGBTQ+ Themes,Hikikomori,Denpa
+    genre.sync: Drama,Music,Slice of Life,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Urban,Drawing,Band,Idol,Cute Girls Doing Cute Things,LGBTQ+ Themes,Hikikomori,Denpa
     studio: Doga Kobo
     seasons:
       1:
@@ -8680,7 +8680,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 7.8
-    critic_rating: 7.9
+    critic_rating: 7.8
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   315500:
