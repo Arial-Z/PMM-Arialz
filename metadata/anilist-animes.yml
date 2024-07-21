@@ -215,7 +215,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.5
     audience_rating: 7.5
-    critic_rating: 7.7
+    critic_rating: 7.6
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   378609:
@@ -247,7 +247,7 @@ metadata:
       [Oshi no Ko]
     original_title: |-
       Oshi No Ko
-    genre.sync: Drama,Mystery,Psychological,Supernatural,Acting,Tragedy,Idol,Revenge,Twins,Urban,Male Protagonist,Reincarnation,Detective,Female Protagonist,Anti-Hero,Coming of Age,Time Skip,Orphan,Age Regression
+    genre.sync: Drama,Mystery,Psychological,Supernatural,Acting,Tragedy,Idol,Revenge,Twins,Urban,Male Protagonist,Reincarnation,Detective,Female Protagonist,Anti-Hero,Coming of Age,Time Skip,Orphan,Ensemble Cast,Age Regression
     studio: Doga Kobo
     seasons:
       1:
@@ -547,7 +547,7 @@ metadata:
       ATRI: My Dear Moments
     original_title: |-
       ATRI -My Dear Moments-
-    genre.sync: Drama,Romance,Sci-Fi,Male Protagonist,Heterosexual,Environmental,Robots,Disability,Dystopian,Post-Apocalyptic,Artificial Intelligence
+    genre.sync: Drama,Romance,Sci-Fi,Male Protagonist,Heterosexual,Environmental,Robots,Disability,Post-Apocalyptic,Dystopian,Artificial Intelligence
     studio: TROYCA
     seasons:
       1:
@@ -555,8 +555,8 @@ metadata:
           ATRI: My Dear Moments
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
+        user_rating: 7.0
+    audience_rating: 7.0
     critic_rating: 7.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -2003,8 +2003,8 @@ metadata:
           Fairy Tail: 100 Years Quest
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.8
+        user_rating: 7.9
+    audience_rating: 7.9
     critic_rating: 8.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -5240,8 +5240,8 @@ metadata:
           Naze Boku no Sekai wo Daremo Oboeteinai no ka?
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
