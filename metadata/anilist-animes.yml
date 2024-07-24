@@ -263,7 +263,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.1
     audience_rating: 8.3
-    critic_rating: 8.5
+    critic_rating: 8.4
     label: AA Winner,Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   319983:
@@ -3191,8 +3191,8 @@ metadata:
           Isekai Shikkaku
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -3743,8 +3743,8 @@ metadata:
           Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
+        user_rating: 7.1
+    audience_rating: 7.1
     critic_rating: 7.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -4029,7 +4029,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,
         user_rating: 6.8
     audience_rating: 6.7
-    critic_rating: 6.9
+    critic_rating: 6.8
     label: Airing,Planning
     label.remove: Planned,Ended,Watching,Dropped,Paused,
   414562:
@@ -4887,7 +4887,7 @@ metadata:
       Make Heroine ga Oosugiru!
     original_title: |-
       Makeine: Too Many Losing Heroines!
-    genre.sync: Comedy,Romance,Male Protagonist,Female Harem,School Club,Heterosexual
+    genre.sync: Comedy,Romance,Unrequited Love,Male Protagonist,Heterosexual,School Club,Love Triangle,Parody,Satire,Primarily Teen Cast,Female Harem
     studio: A-1 Pictures
     seasons:
       1:
@@ -4924,8 +4924,8 @@ metadata:
         user_rating: 6.8
     audience_rating: 7.1
     critic_rating: 7.0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   444916:
     title: |-
       Maou Gun Saikyou no Majutsushi wa Ningen datta
@@ -6889,8 +6889,8 @@ metadata:
           Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru.
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
+        user_rating: 6.6
+    audience_rating: 6.6
     critic_rating: 7.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -7423,9 +7423,9 @@ metadata:
           Tasuuketsu
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 4.7
-    audience_rating: 4.7
-    critic_rating: 5.2
+        user_rating: 4.6
+    audience_rating: 4.6
+    critic_rating: 5.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   353712:
@@ -7817,7 +7817,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.9
     audience_rating: 7.9
-    critic_rating: 8.2
+    critic_rating: 8.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   281249:
