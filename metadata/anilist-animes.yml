@@ -3211,8 +3211,8 @@ metadata:
           Isekai Suicide Squad
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
+        user_rating: 6.4
+    audience_rating: 6.4
     critic_rating: 6.9
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -3525,7 +3525,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.3
     audience_rating: 8.3
-    critic_rating: 8.4
+    critic_rating: 8.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   339922:
@@ -4027,8 +4027,8 @@ metadata:
           Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II
         label: Score,Planning,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,
-        user_rating: 6.8
-    audience_rating: 6.7
+        user_rating: 6.7
+    audience_rating: 6.6
     critic_rating: 6.8
     label: Airing,Planning
     label.remove: Planned,Ended,Watching,Dropped,Paused,
@@ -4919,13 +4919,13 @@ metadata:
       2:
         title: |-
           Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II
-        label: Score,Watching,2024 Spring,2023 Winter
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Spring,2023 Winter
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 7.1
     critic_rating: 7.0
-    label: Ended,Watching
-    label.remove: Planned,Airing,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   444916:
     title: |-
       Maou Gun Saikyou no Majutsushi wa Ningen datta
@@ -6607,13 +6607,13 @@ metadata:
       1:
         title: |-
           Sengoku Youko
-        label: Score,Watching,2024 Winter
+        label: Score,Watching,2024 Summer,2024 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
-    critic_rating: 7.0
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 7.1
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   401874:
     title: |-
       Senpai ga Uzai Kouhai no Hanashi
@@ -7689,8 +7689,8 @@ metadata:
           Tensei Shitara Slime Datta Ken 3rd Season
         label: Score,Watching,2024 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.9
-    audience_rating: 8.1
+        user_rating: 7.8
+    audience_rating: 8.0
     critic_rating: 8.1
     label: AA Winner,Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
@@ -7807,7 +7807,7 @@ metadata:
       Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san
     original_title: |-
       Alya Sometimes Hides Her Feelings in Russian
-    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,School,Tsundere,Language Barrier,Primarily Teen Cast,Male Protagonist,Female Harem,Otaku Culture,Primarily Female Cast,Love Triangle
+    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,School,Tsundere,Language Barrier,Primarily Teen Cast,Male Protagonist,Female Harem,Otaku Culture,Kuudere,Primarily Female Cast,Love Triangle,Female Protagonist
     studio: Doga Kobo
     seasons:
       1:
