@@ -170,8 +170,8 @@ metadata:
         user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 7.3
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   306269:
     title: |-
       3-gatsu no Lion
@@ -264,8 +264,8 @@ metadata:
         user_rating: 8.1
     audience_rating: 8.3
     critic_rating: 8.4
-    label: AA Winner,Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: AA Winner,Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   319983:
     title: |-
       ACCA: 13-ku Kansatsu-ka
@@ -557,9 +557,9 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.0
     audience_rating: 7.0
-    critic_rating: 7.4
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    critic_rating: 7.3
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   426440:
     title: |-
       Ayaka
@@ -928,11 +928,11 @@ metadata:
           Boku no Hero Academia 7
         label: Score,Watching,2024 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.7
+        user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 7.9
-    label: AA Winner,Ended,Planning
-    label.remove: Planned,Airing,Dropped,Paused,
+    label: AA Winner,Airing,Planning
+    label.remove: Planned,Ended,Dropped,Paused,
   422981:
     title: |-
       Boku no Kokoro no Yabai Yatsu
@@ -966,7 +966,7 @@ metadata:
       Boku no Tsuma wa Kanjou ga Nai
     original_title: |-
       My Wife Has No Emotion
-    genre.sync: Comedy,Romance,Sci-Fi,Slice of Life,Robots,Artificial Intelligence,Seinen,Male Protagonist
+    genre.sync: Comedy,Romance,Sci-Fi,Slice of Life,Robots,Artificial Intelligence,Heterosexual,Seinen
     studio: Tezuka Productions
     seasons:
       1:
@@ -976,9 +976,9 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.0
     audience_rating: 6.0
-    critic_rating: 6.5
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    critic_rating: 6.4
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   426703:
     title: |-
       Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta
@@ -1601,7 +1601,7 @@ metadata:
       Dead Dead Demon's Dededededestruction
     original_title: |-
       Dead Dead Demons Dededede Destruction
-    genre.sync: Comedy,Drama,Sci-Fi,Slice of Life,Coming of Age,Female Protagonist,Tragedy,Urban,Aliens,Denpa,Philosophy,Dystopian,Politics,Seinen,Surreal Comedy,Military,Primarily Female Cast,School,Cute Girls Doing Cute Things
+    genre.sync: Comedy,Drama,Sci-Fi,Slice of Life,Coming of Age,Female Protagonist,Tragedy,Denpa,Urban,Aliens,Philosophy,Dystopian,Politics,Seinen,Surreal Comedy,Military,School,Primarily Female Cast,Post-Apocalyptic
     studio: Production +h
     seasons:
       1:
@@ -1612,8 +1612,8 @@ metadata:
         user_rating: 7.5
     audience_rating: 7.5
     critic_rating: 7.7
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   427239:
     title: |-
       Dead Mount Death Play
@@ -1920,8 +1920,8 @@ metadata:
         user_rating: 6.4
     audience_rating: 6.4
     critic_rating: 6.8
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   421273:
     title: |-
       Edomae Elf
@@ -2006,8 +2006,8 @@ metadata:
         user_rating: 7.9
     audience_rating: 7.9
     critic_rating: 8.1
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   278626:
     title: |-
       Fate/stay night: Unlimited Blade Works
@@ -2114,8 +2114,8 @@ metadata:
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.6
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   422721:
     title: |-
       Gimai Seikatsu
@@ -2134,8 +2134,8 @@ metadata:
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.4
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   267246:
     title: |-
       Gin no Saji
@@ -2589,8 +2589,8 @@ metadata:
         user_rating: 6.1
     audience_rating: 6.1
     critic_rating: 6.4
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   401856:
     title: |-
       Heion Sedai no Idaten-tachi
@@ -3194,8 +3194,8 @@ metadata:
         user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 7.2
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   436846:
     title: |-
       Isekai Suicide Squad
@@ -3214,8 +3214,8 @@ metadata:
         user_rating: 6.4
     audience_rating: 6.4
     critic_rating: 6.8
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   406592:
     title: |-
       Isekai Yakkyoku
@@ -3254,8 +3254,8 @@ metadata:
         user_rating: 6.4
     audience_rating: 6.4
     critic_rating: 6.8
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   431014:
     title: |-
       Ishura
@@ -3357,8 +3357,8 @@ metadata:
           Jii-san Baa-san Wakagaeru
         label: Score,2024 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
+        user_rating: 7.1
+    audience_rating: 7.1
     critic_rating: 7.5
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
@@ -3572,8 +3572,8 @@ metadata:
         user_rating: 7.4
     audience_rating: 7.4
     critic_rating: 7.7
-    label: AA Winner,Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: AA Winner,Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   414947:
     title: |-
       Kami wa Game ni Ueteiru.
@@ -3705,9 +3705,9 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
-    critic_rating: 7.6
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    critic_rating: 7.7
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   132941:
     title: |-
       Katanagatari
@@ -3746,8 +3746,8 @@ metadata:
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.4
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   352853:
     title: |-
       Kaze ga Tsuyoku Fuiteiru
@@ -4030,8 +4030,8 @@ metadata:
         user_rating: 6.7
     audience_rating: 6.6
     critic_rating: 6.8
-    label: Ended,Planning
-    label.remove: Planned,Airing,Watching,Dropped,Paused,
+    label: Airing,Planning
+    label.remove: Planned,Ended,Watching,Dropped,Paused,
   414562:
     title: |-
       Kimi wa Houkago Insomnia
@@ -4179,11 +4179,11 @@ metadata:
           Kono Sekai wa Fukanzen Sugiru
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
+        user_rating: 6.0
+    audience_rating: 6.0
     critic_rating: 6.4
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   420657:
     title: |-
       Kono Subarashii Sekai ni Bakuen wo!
@@ -4692,8 +4692,8 @@ metadata:
         user_rating: 6.4
     audience_rating: 6.4
     critic_rating: 6.8
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   262094:
     title: |-
       Magi: The labyrinth of magic
@@ -4898,8 +4898,8 @@ metadata:
         user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 8.1
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   375927:
     title: |-
       Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou
@@ -4944,8 +4944,8 @@ metadata:
         user_rating: 5.9
     audience_rating: 5.9
     critic_rating: 6.4
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   426488:
     title: |-
       Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?
@@ -5043,8 +5043,8 @@ metadata:
     studio: TMS Entertainment
     audience_rating: 8.1
     critic_rating: 8.2
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   432747:
     title: |-
       Metallic Rouge
@@ -5082,9 +5082,9 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 5.8
     audience_rating: 5.8
-    critic_rating: 6.3
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    critic_rating: 6.2
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   307375:
     title: |-
       Mob Psycho 100
@@ -5242,9 +5242,9 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
-    critic_rating: 7.2
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    critic_rating: 7.1
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   309206:
     title: |-
       Nejimaki Seirei Senki: Tenkyou no Alderamin
@@ -5355,8 +5355,8 @@ metadata:
         user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.7
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   432455:
     title: |-
       Nige Jouzu no Wakagimi
@@ -5375,8 +5375,8 @@ metadata:
         user_rating: 7.7
     audience_rating: 7.7
     critic_rating: 8.0
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   415188:
     title: |-
       Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu
@@ -5498,8 +5498,8 @@ metadata:
     studio: Toei Animation
     audience_rating: 8.8
     critic_rating: 8.7
-    label: AA Winner,Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: AA Winner,Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   293088:
     title: |-
       One Punch Man
@@ -5572,8 +5572,8 @@ metadata:
         user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 8.1
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   414908:
     title: |-
       Ooyukiumi no Kaina
@@ -5634,8 +5634,8 @@ metadata:
         user_rating: 6.7
     audience_rating: 6.7
     critic_rating: 7.1
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   433034:
     title: |-
       Oroka na Tenshi wa Akuma to Odoru
@@ -6032,8 +6032,8 @@ metadata:
         user_rating: 6.6
     audience_rating: 7.3
     critic_rating: 7.6
-    label: Ended,Watching
-    label.remove: Planned,Airing,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   417983:
     title: |-
       Ragna Crimson
@@ -6092,8 +6092,8 @@ metadata:
         user_rating: 5.8
     audience_rating: 5.8
     critic_rating: 6.5
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   439755:
     title: |-
       Re:Monster
@@ -6438,8 +6438,8 @@ metadata:
         user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 7.0
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   425756:
     title: |-
       Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
@@ -6612,8 +6612,8 @@ metadata:
         user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 7.1
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   401874:
     title: |-
       Senpai ga Uzai Kouhai no Hanashi
@@ -6652,8 +6652,8 @@ metadata:
         user_rating: 6.9
     audience_rating: 6.9
     critic_rating: 7.1
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   428030:
     title: |-
       Sentai Daishikkaku
@@ -6788,8 +6788,8 @@ metadata:
         user_rating: 7.5
     audience_rating: 7.5
     critic_rating: 7.8
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   400573:
     title: |-
       Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita
@@ -6892,8 +6892,8 @@ metadata:
         user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 7.0
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   421283:
     title: |-
       Shiro Seijo to Kuro Bokushi
@@ -6994,8 +6994,8 @@ metadata:
         user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.4
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   304316:
     title: |-
       Shouwa Genroku Rakugo Shinjuu
@@ -7068,8 +7068,8 @@ metadata:
         user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 6.8
-    label: Ended,Dropped
-    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
+    label: Airing,Dropped
+    label.remove: Planned,Ended,Completed,Watching,Paused,Planning
   278154:
     title: |-
       Sidonia no Kishi
@@ -7406,8 +7406,8 @@ metadata:
         user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.3
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   445253:
     title: |-
       Tasuuketsu
@@ -7426,8 +7426,8 @@ metadata:
         user_rating: 4.6
     audience_rating: 4.6
     critic_rating: 5.1
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   353712:
     title: |-
       Tate no Yuusha no Nariagari
@@ -7692,8 +7692,8 @@ metadata:
         user_rating: 7.8
     audience_rating: 8.0
     critic_rating: 8.1
-    label: AA Winner,Ended,Watching
-    label.remove: Planned,Airing,Dropped,Paused,Planning
+    label: AA Winner,Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   447240:
     title: |-
       Tensui no Sakuna-hime
@@ -7712,8 +7712,8 @@ metadata:
         user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.6
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   436948:
     title: |-
       The Fable
@@ -7732,8 +7732,8 @@ metadata:
         user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 7.4
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   378556:
     title: |-
       The God Of High School
@@ -7818,8 +7818,8 @@ metadata:
         user_rating: 7.9
     audience_rating: 7.9
     critic_rating: 8.1
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   281249:
     title: |-
       Tokyo Ghoul
@@ -8052,8 +8052,8 @@ metadata:
         user_rating: 7.6
     audience_rating: 7.6
     critic_rating: 8.0
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   325197:
     title: |-
       Tsuki ga Kirei
@@ -8670,7 +8670,7 @@ metadata:
       Yoru no Kurage wa Oyogenai
     original_title: |-
       Jellyfish Can’t Swim in the Night
-    genre.sync: Drama,Music,Slice of Life,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Urban,Drawing,Band,Idol,Cute Girls Doing Cute Things,LGBTQ+ Themes,Hikikomori,Denpa
+    genre.sync: Drama,Music,Slice of Life,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Urban,Drawing,Band,Idol,Cute Girls Doing Cute Things,Hikikomori,LGBTQ+ Themes,Denpa
     studio: Doga Kobo
     seasons:
       1:
@@ -8742,7 +8742,7 @@ metadata:
       Yozakura-san Chi no Daisakusen
     original_title: |-
       Mission: Yozakura Family
-    genre.sync: Action,Comedy,Romance,Shounen,Espionage,Family Life,Surreal Comedy,Super Power,Marriage,Male Protagonist,School
+    genre.sync: Action,Comedy,Romance,Shounen,Espionage,Family Life,Male Protagonist,Surreal Comedy,Super Power,Marriage,School
     studio: SILVER LINK.
     seasons:
       1:
@@ -8753,8 +8753,8 @@ metadata:
         user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.2
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   436899:
     title: |-
       Yubisaki to Renren
