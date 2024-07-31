@@ -263,7 +263,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.1
     audience_rating: 8.3
-    critic_rating: 8.4
+    critic_rating: 8.5
     label: AA Winner,Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   319983:
@@ -332,6 +332,46 @@ metadata:
     critic_rating: 7.6
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  310436:
+    title: |-
+      Aggressive Retsuko
+    sort_title: |-
+      Aggressive Retsuko
+    original_title: |-
+      Aggressive Retsuko
+    genre.sync: Comedy,Music,Slice of Life,Episodic,Work,Office Lady,Primarily Adult Cast,Animals,Chibi,Female Protagonist,Metal Music,Satire
+    studio: Fanworks
+    seasons:
+      1:
+        title: |-
+          Aggressive Retsuko
+        label: Score,2016 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.6
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  432806:
+    title: |-
+      Akuyaku Reijou Level 99: Watashi wa Ura Boss desu ga Maou de wa Arimasen
+    sort_title: |-
+      Akuyaku Reijou Level 99: Watashi wa Ura Boss desu ga Maou de wa Arimasen
+    original_title: |-
+      Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord
+    genre.sync: Comedy,Fantasy,Romance,Villainess,Magic,Female Protagonist,Kuudere,School,Isekai,Primarily Teen Cast,Royal Affairs,Boarding School,Reincarnation,Heterosexual,Shoujo,Class Struggle
+    studio: Jumondou
+    seasons:
+      1:
+        title: |-
+          Akuyaku Reijou Level 99: Watashi wa Ura Boss desu ga Maou de wa Arimasen
+        label: Score,Completed,2024 Winter
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.1
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   411821:
     title: |-
       Akuyaku Reijou nano de Last Boss wo Kattemimashita
@@ -372,6 +412,26 @@ metadata:
     critic_rating: 7.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  348706:
+    title: |-
+      Angolmois: Genkou Kassenki
+    sort_title: |-
+      Angolmois: Genkou Kassenki
+    original_title: |-
+      Angolmois: Record of Mongol Invasion
+    genre.sync: Action,Drama,Historical,Samurai,Shounen,Primarily Adult Cast,War,Tragedy
+    studio: NAZ
+    seasons:
+      1:
+        title: |-
+          Angolmois: Genkou Kassenki
+        label: Score,Completed,2018 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.1
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   248035:
     title: |-
       Ao no Exorcist
@@ -406,6 +466,26 @@ metadata:
     critic_rating: 7.3
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  407840:
+    title: |-
+      Aoashi
+    sort_title: |-
+      Aoashi
+    original_title: |-
+      Aoashi
+    genre.sync: Sports,Football,Male Protagonist,Primarily Teen Cast,Primarily Male Cast,Seinen,Heterosexual
+    studio: Production I.G
+    seasons:
+      1:
+        title: |-
+          Aoashi
+        label: Score,Completed,2022 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.1
+    audience_rating: 8.1
+    critic_rating: 8.2
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   411800:
     title: |-
       Arknights: Reimei Zensou
@@ -500,6 +580,52 @@ metadata:
     critic_rating: 6.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  79077:
+    title: |-
+      Azumanga Daiou THE ANIMATION
+    sort_title: |-
+      Azumanga Daiou THE ANIMATION
+    original_title: |-
+      Azumanga Daioh
+    genre.sync: Comedy,Slice of Life,School,Episodic,Primarily Female Cast,Surreal Comedy,Slapstick,Cute Girls Doing Cute Things,Ensemble Cast,Coming of Age,Female Protagonist,Primarily Teen Cast,Shounen
+    studio: J.C. Staff
+    seasons:
+      1:
+        title: |-
+          Azumanga Daiou THE ANIMATION
+        label: Score,2002 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.8
+    audience_rating: 7.8
+    critic_rating: 8.0
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  278152:
+    title: |-
+      Baby Steps
+    sort_title: |-
+      Baby Steps
+    original_title: |-
+      Baby Steps
+    genre.sync: Romance,Sports,Tennis,Male Protagonist,Fitness,Heterosexual,Coming of Age
+    studio: Studio Pierrot
+    seasons:
+      1:
+        title: |-
+          Baby Steps
+        label: Score,Completed,2014 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.5
+      2:
+        title: |-
+          Baby Steps 2
+        label: Score,Completed,2015 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.8
+    audience_rating: 7.7
+    critic_rating: 7.9
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   193811:
     title: |-
       Bakuman.
@@ -572,6 +698,52 @@ metadata:
     critic_rating: 7.4
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+  361013:
+    title: |-
+      Beastars
+    sort_title: |-
+      Beastars
+    original_title: |-
+      Beastars
+    genre.sync: Drama,Mystery,Psychological,Romance,Slice of Life,Anthropomorphism,Coming of Age,Animals,Cannibalism,Full CGI,Primarily Teen Cast,School,Male Protagonist,Boarding School,CGI,Psychosexual,Love Triangle,Heterosexual,Ensemble Cast,Crime,Philosophy,Bullying
+    studio: Orange
+    seasons:
+      1:
+        title: |-
+          Beastars
+        label: Score,AA Winner,Completed,2019 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.7
+      2:
+        title: |-
+          Beastars 2
+        label: Score,Completed,2021 Winter
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.8
+    audience_rating: 7.8
+    critic_rating: 7.8
+    label: AA Winner,Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  219771:
+    title: |-
+      Beelzebub
+    sort_title: |-
+      Beelzebub
+    original_title: |-
+      Beelzebub
+    genre.sync: Action,Comedy,Supernatural,Demons,Delinquents,Male Protagonist,School,Shounen,Primarily Male Cast,Family Life
+    studio: Studio Pierrot
+    seasons:
+      1:
+        title: |-
+          Beelzebub
+        label: Score,Completed,2011 Winter
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.5
+    audience_rating: 7.5
+    critic_rating: 7.8
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   414845:
     title: |-
       Benriya Saitou-san, Isekai ni Iku
@@ -685,6 +857,26 @@ metadata:
     critic_rating: 8.8
     label: AA Winner,Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  303071:
+    title: |-
+      Boku dake ga Inai Machi
+    sort_title: |-
+      Boku dake ga Inai Machi
+    original_title: |-
+      Erased
+    genre.sync: Drama,Mystery,Psychological,Supernatural,Thriller,Age Regression,Time Manipulation,Crime,Tragedy,Time Skip,Detective,Primarily Child Cast,Male Protagonist,Alternate Universe,Snowscape,Super Power,School,Seinen,Fugitive,Ensemble Cast,Revenge
+    studio: A-1 Pictures
+    seasons:
+      1:
+        title: |-
+          Boku dake ga Inai Machi
+        label: Score,AA Winner,Completed,2016 Winter
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.1
+    audience_rating: 8.1
+    critic_rating: 8.3
+    label: AA Winner,Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   305074:
     title: |-
       Boku no Hero Academia
@@ -867,6 +1059,38 @@ metadata:
     critic_rating: 8.1
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  305075:
+    title: |-
+      Bungou Stray Dogs
+    sort_title: |-
+      Bungou Stray Dogs
+    original_title: |-
+      Bungo Stray Dogs
+    genre.sync: Action,Comedy,Mystery,Supernatural,Super Power,Crime,Detective,Mafia,Urban Fantasy,Male Protagonist,Classic Literature,Yakuza,Urban,Ensemble Cast,Primarily Male Cast,Primarily Adult Cast,Work,Orphan
+    studio: bones
+    seasons:
+      1:
+        title: |-
+          Bungou Stray Dogs
+        label: Score,Completed,2016 Fall,2016 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.9
+      2:
+        title: |-
+          Bungou Stray Dogs 3rd Season
+        label: Score,Completed,2019 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.1
+      3:
+        title: |-
+          Bungou Stray Dogs 4th Season
+        label: Score,Completed,2023 Summer,2023 Winter
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.4
+    audience_rating: 8.1
+    critic_rating: 8.2
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   339203:
     title: |-
       Captain Tsubasa (2018)
@@ -987,6 +1211,26 @@ metadata:
         user_rating: 8.4
     audience_rating: 8.2
     critic_rating: 8.4
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  413555:
+    title: |-
+      Chikyuugai Shounen Shoujo
+    sort_title: |-
+      Chikyuugai Shounen Shoujo
+    original_title: |-
+      The Orbital Children
+    genre.sync: Adventure,Sci-Fi,Space,Artificial Intelligence,Survival,Conspiracy,Primarily Child Cast
+    studio: Production +h
+    seasons:
+      1:
+        title: |-
+          Chikyuugai Shounen Shoujo
+        label: Score,Completed,2022 Winter
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 6.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   415440:
@@ -1190,6 +1434,19 @@ metadata:
     audience_rating: 8.5
     critic_rating: 8.6
     label: AA Winner,Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  79635:
+    title: |-
+      D.Gray-man
+    sort_title: |-
+      D.Gray-man
+    original_title: |-
+      D.Gray-man
+    genre.sync: Action,Adventure,Drama,Fantasy,Shounen,Demons,Male Protagonist,Super Power,LGBTQ+ Themes,Foreign
+    studio: TMS Entertainment
+    audience_rating: 7.6
+    critic_rating: 8.0
+    label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   312878:
     title: |-
@@ -1960,6 +2217,32 @@ metadata:
     critic_rating: 7.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  355966:
+    title: |-
+      Go-toubun no Hanayome
+    sort_title: |-
+      Go-toubun no Hanayome
+    original_title: |-
+      The Quintessential Quintuplets
+    genre.sync: Comedy,Drama,Romance,Slice of Life,Twins,Female Harem,Heterosexual,Male Protagonist,School,Primarily Teen Cast,Primarily Female Cast,Teacher,Ensemble Cast,Shounen,Coming of Age,Ojou-sama,Tsundere,Kuudere
+    studio: Tezuka Productions
+    seasons:
+      1:
+        title: |-
+          Go-toubun no Hanayome
+        label: Score,Completed,2019 Winter
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.5
+      2:
+        title: |-
+          Go-toubun no Hanayome ∬
+        label: Score,Completed,2021 Winter
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.0
+    audience_rating: 7.8
+    critic_rating: 7.8
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   350166:
     title: |-
       Goblin Slayer
@@ -2024,6 +2307,34 @@ metadata:
     critic_rating: 8.1
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  319981:
+    title: |-
+      GRANBLUE FANTASY The Animation
+    sort_title: |-
+      GRANBLUE FANTASY The Animation
+    original_title: |-
+      Granblue Fantasy: The Animation
+    genre.sync: Adventure,Fantasy,Magic,Ensemble Cast
+    studio: A-1 Pictures
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          GRANBLUE FANTASY The Animation
+        label: Score,2017 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.4
+      2:
+        title: |-
+          GRANBLUE FANTASY The Animation Season 2
+        label: Score,2019 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.5
+    audience_rating: 6.4
+    critic_rating: 6.7
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   343913:
     title: |-
       Grand Blue
@@ -4576,7 +4887,7 @@ metadata:
       Make Heroine ga Oosugiru!
     original_title: |-
       Makeine: Too Many Losing Heroines!
-    genre.sync: Comedy,Romance,Unrequited Love,Male Protagonist,Heterosexual,School Club,Love Triangle,Parody,Satire,Primarily Teen Cast,Female Harem
+    genre.sync: Comedy,Romance,Unrequited Love,Male Protagonist,Heterosexual,School Club,Parody,Satire,Love Triangle,Primarily Teen Cast,Female Harem
     studio: A-1 Pictures
     seasons:
       1:
@@ -4586,7 +4897,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 7.8
-    critic_rating: 8.1
+    critic_rating: 8.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   375927:
@@ -4622,7 +4933,7 @@ metadata:
       Maou Gun Saikyou no Majutsushi wa Ningen datta
     original_title: |-
       The Strongest Magician in the Demon Lord's Army was a Human
-    genre.sync: Action,Adventure,Drama,Fantasy,Demons,War,CGI,Male Protagonist
+    genre.sync: Action,Adventure,Drama,Fantasy,Demons,CGI,War,Male Protagonist
     studio: studio A-CAT
     seasons:
       1:
@@ -4630,9 +4941,9 @@ metadata:
           Maou Gun Saikyou no Majutsushi wa Ningen datta
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.9
-    audience_rating: 5.9
-    critic_rating: 6.4
+        user_rating: 5.8
+    audience_rating: 5.8
+    critic_rating: 6.3
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   426488:
@@ -5132,317 +5443,6 @@ metadata:
         user_rating: 7.4
     audience_rating: 7.4
     critic_rating: 7.4
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  355966:
-    title: |-
-      Go-toubun no Hanayome
-    sort_title: |-
-      Go-toubun no Hanayome
-    original_title: |-
-      The Quintessential Quintuplets
-    genre.sync: Comedy,Drama,Romance,Slice of Life,Twins,Female Harem,Heterosexual,Male Protagonist,School,Primarily Teen Cast,Primarily Female Cast,Teacher,Ensemble Cast,Shounen,Coming of Age,Ojou-sama,Tsundere,Kuudere
-    studio: Tezuka Productions
-    seasons:
-      1:
-        title: |-
-          Go-toubun no Hanayome
-        label: Score,Completed,2019 Winter
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.5
-      2:
-        title: |-
-          Go-toubun no Hanayome ∬
-        label: Score,Completed,2021 Winter
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.0
-    audience_rating: 7.8
-    critic_rating: 7.8
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  278152:
-    title: |-
-      Baby Steps
-    sort_title: |-
-      Baby Steps
-    original_title: |-
-      Baby Steps
-    genre.sync: Romance,Sports,Tennis,Male Protagonist,Fitness,Heterosexual,Coming of Age
-    studio: Studio Pierrot
-    seasons:
-      1:
-        title: |-
-          Baby Steps
-        label: Score,Completed,2014 Spring
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.5
-      2:
-        title: |-
-          Baby Steps 2
-        label: Score,Completed,2015 Spring
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.7
-    critic_rating: 7.9
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  79635:
-    title: |-
-      D.Gray-man
-    sort_title: |-
-      D.Gray-man
-    original_title: |-
-      D.Gray-man
-    genre.sync: Action,Adventure,Drama,Fantasy,Shounen,Demons,Male Protagonist,Super Power,LGBTQ+ Themes,Foreign
-    studio: TMS Entertainment
-    audience_rating: 7.6
-    critic_rating: 8.0
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  305075:
-    title: |-
-      Bungou Stray Dogs
-    sort_title: |-
-      Bungou Stray Dogs
-    original_title: |-
-      Bungo Stray Dogs
-    genre.sync: Action,Comedy,Mystery,Supernatural,Super Power,Crime,Detective,Mafia,Urban Fantasy,Male Protagonist,Classic Literature,Yakuza,Urban,Ensemble Cast,Primarily Male Cast,Primarily Adult Cast,Work,Orphan
-    studio: bones
-    seasons:
-      1:
-        title: |-
-          Bungou Stray Dogs
-        label: Score,Completed,2016 Fall,2016 Spring
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.9
-      2:
-        title: |-
-          Bungou Stray Dogs 3rd Season
-        label: Score,Completed,2019 Spring
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.1
-      3:
-        title: |-
-          Bungou Stray Dogs 4th Season
-        label: Score,Completed,2023 Summer,2023 Winter
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.4
-    audience_rating: 8.1
-    critic_rating: 8.2
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  348706:
-    title: |-
-      Angolmois: Genkou Kassenki
-    sort_title: |-
-      Angolmois: Genkou Kassenki
-    original_title: |-
-      Angolmois: Record of Mongol Invasion
-    genre.sync: Action,Drama,Historical,Samurai,Shounen,Primarily Adult Cast,War,Tragedy
-    studio: NAZ
-    seasons:
-      1:
-        title: |-
-          Angolmois: Genkou Kassenki
-        label: Score,Completed,2018 Summer
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 7.1
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  219771:
-    title: |-
-      Beelzebub
-    sort_title: |-
-      Beelzebub
-    original_title: |-
-      Beelzebub
-    genre.sync: Action,Comedy,Supernatural,Demons,Delinquents,Male Protagonist,School,Shounen,Primarily Male Cast,Family Life
-    studio: Studio Pierrot
-    seasons:
-      1:
-        title: |-
-          Beelzebub
-        label: Score,Completed,2011 Winter
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
-    critic_rating: 7.8
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  303071:
-    title: |-
-      Boku dake ga Inai Machi
-    sort_title: |-
-      Boku dake ga Inai Machi
-    original_title: |-
-      Erased
-    genre.sync: Drama,Mystery,Psychological,Supernatural,Thriller,Age Regression,Time Manipulation,Crime,Tragedy,Time Skip,Detective,Primarily Child Cast,Male Protagonist,Alternate Universe,Snowscape,Super Power,School,Seinen,Fugitive,Ensemble Cast,Revenge
-    studio: A-1 Pictures
-    seasons:
-      1:
-        title: |-
-          Boku dake ga Inai Machi
-        label: Score,AA Winner,Completed,2016 Winter
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.1
-    audience_rating: 8.1
-    critic_rating: 8.3
-    label: AA Winner,Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  79077:
-    title: |-
-      Azumanga Daiou THE ANIMATION
-    sort_title: |-
-      Azumanga Daiou THE ANIMATION
-    original_title: |-
-      Azumanga Daioh
-    genre.sync: Comedy,Slice of Life,School,Episodic,Primarily Female Cast,Surreal Comedy,Slapstick,Cute Girls Doing Cute Things,Ensemble Cast,Coming of Age,Female Protagonist,Primarily Teen Cast,Shounen
-    studio: J.C. Staff
-    seasons:
-      1:
-        title: |-
-          Azumanga Daiou THE ANIMATION
-        label: Score,2002 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.8
-    critic_rating: 8.0
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  361013:
-    title: |-
-      Beastars
-    sort_title: |-
-      Beastars
-    original_title: |-
-      Beastars
-    genre.sync: Drama,Mystery,Psychological,Romance,Slice of Life,Anthropomorphism,Coming of Age,Animals,Cannibalism,Full CGI,Primarily Teen Cast,School,Male Protagonist,Boarding School,CGI,Psychosexual,Love Triangle,Heterosexual,Ensemble Cast,Crime,Philosophy,Bullying
-    studio: Orange
-    seasons:
-      1:
-        title: |-
-          Beastars
-        label: Score,AA Winner,Completed,2019 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.7
-      2:
-        title: |-
-          Beastars 2
-        label: Score,Completed,2021 Winter
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.8
-    critic_rating: 7.8
-    label: AA Winner,Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  413555:
-    title: |-
-      Chikyuugai Shounen Shoujo
-    sort_title: |-
-      Chikyuugai Shounen Shoujo
-    original_title: |-
-      The Orbital Children
-    genre.sync: Adventure,Sci-Fi,Space,Artificial Intelligence,Survival,Conspiracy,Primarily Child Cast
-    studio: Production +h
-    seasons:
-      1:
-        title: |-
-          Chikyuugai Shounen Shoujo
-        label: Score,Completed,2022 Winter
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
-    critic_rating: 6.8
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  432806:
-    title: |-
-      Akuyaku Reijou Level 99: Watashi wa Ura Boss desu ga Maou de wa Arimasen
-    sort_title: |-
-      Akuyaku Reijou Level 99: Watashi wa Ura Boss desu ga Maou de wa Arimasen
-    original_title: |-
-      Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord
-    genre.sync: Comedy,Fantasy,Romance,Villainess,Magic,Female Protagonist,Kuudere,School,Isekai,Primarily Teen Cast,Royal Affairs,Boarding School,Reincarnation,Heterosexual,Shoujo,Class Struggle
-    studio: Jumondou
-    seasons:
-      1:
-        title: |-
-          Akuyaku Reijou Level 99: Watashi wa Ura Boss desu ga Maou de wa Arimasen
-        label: Score,Completed,2024 Winter
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 7.1
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  310436:
-    title: |-
-      Aggressive Retsuko
-    sort_title: |-
-      Aggressive Retsuko
-    original_title: |-
-      Aggressive Retsuko
-    genre.sync: Comedy,Music,Slice of Life,Episodic,Work,Office Lady,Primarily Adult Cast,Animals,Chibi,Female Protagonist,Metal Music,Satire
-    studio: Fanworks
-    seasons:
-      1:
-        title: |-
-          Aggressive Retsuko
-        label: Score,2016 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 7.6
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  319981:
-    title: |-
-      GRANBLUE FANTASY The Animation
-    sort_title: |-
-      GRANBLUE FANTASY The Animation
-    original_title: |-
-      Granblue Fantasy: The Animation
-    genre.sync: Adventure,Fantasy,Magic,Ensemble Cast
-    studio: A-1 Pictures
-    seasons:
-      0:
-        label.remove: score
-      1:
-        title: |-
-          GRANBLUE FANTASY The Animation
-        label: Score,2017 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-      2:
-        title: |-
-          GRANBLUE FANTASY The Animation Season 2
-        label: Score,2019 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.4
-    critic_rating: 6.7
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  407840:
-    title: |-
-      Aoashi
-    sort_title: |-
-      Aoashi
-    original_title: |-
-      Aoashi
-    genre.sync: Sports,Football,Male Protagonist,Primarily Teen Cast,Primarily Male Cast,Seinen,Heterosexual
-    studio: Production I.G
-    seasons:
-      1:
-        title: |-
-          Aoashi
-        label: Score,Completed,2022 Spring
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.1
-    audience_rating: 8.1
-    critic_rating: 8.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   304493:
@@ -7425,7 +7425,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 4.6
     audience_rating: 4.6
-    critic_rating: 5.1
+    critic_rating: 5.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   353712:
