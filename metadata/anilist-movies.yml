@@ -537,6 +537,18 @@ metadata:
     audience_rating: 6.8
     critic_rating: 7.1
     label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt1839494:
+    title: |-
+      Hoshi wo Ou Kodomo
+    sort_title: |-
+      Hoshi wo Ou Kodomo
+    original_title: |-
+      Children who Chase Lost Voices
+    genre.sync: Adventure,Drama,Fantasy,Romance,Lost Civilization,Mythology,Gods,Philosophy,Female Protagonist,Magic,Rural
+    studio: CoMix Wave
+    audience_rating: 7.1
+    critic_rating: 7.5
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0095327:
     title: |-
       Hotaru no Haka
@@ -830,19 +842,6 @@ metadata:
     critic_rating: 8.6
     label: AA Winner,Completed
     label.remove: Watching,Dropped,Paused,Planning
-  tt5311514:
-    title: |-
-      Kimi no Na wa.
-    sort_title: |-
-      Kimi no Na wa.
-    original_title: |-
-      Your Name.
-    genre.sync: Drama,Romance,Supernatural,Body Swapping,Time Manipulation,Urban Fantasy,Memory Manipulation,Coming of Age,Female Protagonist,Philosophy,Tragedy,Urban,Time Skip,Gender Bending,Rural,Heterosexual,Primarily Teen Cast
-    studio: CoMix Wave
-    audience_rating: 8.5
-    critic_rating: 8.8
-    label: AA Winner,Completed
-    label.remove: Watching,Dropped,Paused,Planning
   tt7236034:
     title: |-
       Kimi no Suizou wo Tabetai
@@ -940,12 +939,24 @@ metadata:
       Koutetsujou no Kabaneri: Unato Kessen
     original_title: |-
       Kabaneri of the Iron Fortress: The Battle of Unato
-    genre.sync: Action,Drama,Fantasy,Horror,Supernatural,Post-Apocalyptic,Steampunk,Zombie,Trains,Travel,Pandemic,Military,Coming of Age,Gore
+    genre.sync: Action,Drama,Fantasy,Horror,Supernatural,Post-Apocalyptic,Steampunk,Zombie,Trains,Travel,Pandemic,Military,Heterosexual,Coming of Age,Gore
     studio: Wit Studio
     audience_rating: 7.5
     critic_rating: 7.7
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
+  tt0381348:
+    title: |-
+      Kumo no Mukou, Yakusoku no Basho
+    sort_title: |-
+      Kumo no Mukou, Yakusoku no Basho
+    original_title: |-
+      The Place Promised in Our Early Days
+    genre.sync: Drama,Romance,Sci-Fi,Heterosexual,Alternate Universe,Military,Coming of Age,Aviation,Terrorism
+    studio: CoMix Wave
+    audience_rating: 6.8
+    critic_rating: 7.4
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0104652:
     title: |-
       Kurenai no Buta
@@ -1056,18 +1067,6 @@ metadata:
     original_title: |-
       Kiki's Delivery Service
     genre.sync: Adventure,Drama,Fantasy,Slice of Life,Coming of Age,Witch,Magic,Female Protagonist,Urban Fantasy,Work
-    studio: Studio Ghibli
-    audience_rating: 8.1
-    critic_rating: 8.2
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0113824:
-    title: |-
-      Mimi wo Sumaseba
-    sort_title: |-
-      Mimi wo Sumaseba
-    original_title: |-
-      Whisper of the Heart
-    genre.sync: Adventure,Drama,Romance,Slice of Life,Coming of Age,Writing,Female Protagonist,Shoujo,Heterosexual
     studio: Studio Ghibli
     audience_rating: 8.1
     critic_rating: 8.2
@@ -1407,6 +1406,18 @@ metadata:
     critic_rating: 7.7
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
+  tt0113824:
+    title: |-
+      Mimi wo Sumaseba
+    sort_title: |-
+      Mimi wo Sumaseba
+    original_title: |-
+      Whisper of the Heart
+    genre.sync: Adventure,Drama,Romance,Slice of Life,Coming of Age,Writing,Female Protagonist,Shoujo,Heterosexual
+    studio: Studio Ghibli
+    audience_rating: 8.1
+    critic_rating: 8.2
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt12642574:
     title: |-
       Sidonia no Kishi: Ai Tsumugu Hoshi
@@ -1585,18 +1596,6 @@ metadata:
     audience_rating: 8.0
     critic_rating: 8.2
     label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0381348:
-    title: |-
-      Kumo no Mukou, Yakusoku no Basho
-    sort_title: |-
-      Kumo no Mukou, Yakusoku no Basho
-    original_title: |-
-      The Place Promised in Our Early Days
-    genre.sync: Drama,Romance,Sci-Fi,Heterosexual,Alternate Universe,Military,Coming of Age,Aviation,Terrorism
-    studio: CoMix Wave
-    audience_rating: 6.8
-    critic_rating: 7.4
-    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0108432:
     title: |-
       Umi ga Kikoeru
@@ -1635,18 +1634,6 @@ metadata:
     critic_rating: 8.9
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
-  tt1839494:
-    title: |-
-      Hoshi wo Ou Kodomo
-    sort_title: |-
-      Hoshi wo Ou Kodomo
-    original_title: |-
-      Children who Chase Lost Voices
-    genre.sync: Adventure,Drama,Fantasy,Romance,Lost Civilization,Mythology,Gods,Philosophy,Female Protagonist,Magic,Rural
-    studio: CoMix Wave
-    audience_rating: 7.1
-    critic_rating: 7.5
-    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt9507276:
     title: |-
       Youjo Senki Movie
@@ -1659,6 +1646,19 @@ metadata:
     audience_rating: 8.0
     critic_rating: 8.2
     label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
+  tt5311514:
+    title: |-
+      Kimi no Na wa.
+    sort_title: |-
+      Kimi no Na wa.
+    original_title: |-
+      Your Name.
+    genre.sync: Drama,Romance,Supernatural,Body Swapping,Time Manipulation,Urban Fantasy,Memory Manipulation,Coming of Age,Female Protagonist,Philosophy,Tragedy,Urban,Time Skip,Gender Bending,Rural,Heterosexual,Primarily Teen Cast
+    studio: CoMix Wave
+    audience_rating: 8.5
+    critic_rating: 8.8
+    label: AA Winner,Completed
     label.remove: Watching,Dropped,Paused,Planning
   tt14364238:
     title: |-

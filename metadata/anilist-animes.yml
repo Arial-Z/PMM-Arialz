@@ -169,7 +169,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
-    critic_rating: 7.3
+    critic_rating: 7.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   306269:
@@ -557,7 +557,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.9
     audience_rating: 6.9
-    critic_rating: 7.3
+    critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   426440:
@@ -1909,7 +1909,7 @@ metadata:
       Dungeon no Naka no Hito
     original_title: |-
       Dungeon People
-    genre.sync: Adventure,Comedy,Fantasy,Dungeon,Cute Girls Doing Cute Things,Female Protagonist,Swordplay
+    genre.sync: Adventure,Comedy,Fantasy,Dungeon,Cute Girls Doing Cute Things,Swordplay,Iyashikei,Female Protagonist
     studio: OLM
     seasons:
       1:
@@ -1919,7 +1919,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.4
     audience_rating: 6.4
-    critic_rating: 6.8
+    critic_rating: 6.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   421273:
@@ -2131,8 +2131,8 @@ metadata:
           Gimai Seikatsu
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
+        user_rating: 7.0
+    audience_rating: 7.0
     critic_rating: 7.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -2586,9 +2586,9 @@ metadata:
           Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
-    critic_rating: 6.4
+        user_rating: 6.0
+    audience_rating: 6.0
+    critic_rating: 6.3
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   401856:
@@ -3213,7 +3213,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.4
     audience_rating: 6.4
-    critic_rating: 6.8
+    critic_rating: 6.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   406592:
@@ -4687,13 +4687,13 @@ metadata:
       1:
         title: |-
           Madougushi Dahlia wa Utsumukanai
-        label: Score,2024 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2024 Summer
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
     critic_rating: 6.8
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   262094:
     title: |-
       Magi: The labyrinth of magic
@@ -5242,7 +5242,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.7
     audience_rating: 6.7
-    critic_rating: 7.1
+    critic_rating: 7.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   309206:
@@ -5631,9 +5631,9 @@ metadata:
           Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 7.1
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 7.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   433034:
@@ -6089,8 +6089,8 @@ metadata:
           Ramen Aka Neko
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.8
-    audience_rating: 5.8
+        user_rating: 5.9
+    audience_rating: 5.9
     critic_rating: 6.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -6427,7 +6427,7 @@ metadata:
       Sasayaku You ni Koi wo Utau
     original_title: |-
       Whisper Me a Love Song
-    genre.sync: Drama,Music,Romance,Yuri,Primarily Female Cast,Female Protagonist,Primarily Teen Cast,LGBTQ+ Themes,Band,School,Love Triangle,School Club,Cute Girls Doing Cute Things
+    genre.sync: Drama,Music,Romance,Yuri,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,LGBTQ+ Themes,Band,School,Love Triangle,School Club,Cute Girls Doing Cute Things
     studio: CLOUDHEARTS
     seasons:
       1:
@@ -6641,7 +6641,7 @@ metadata:
       Senpai wa Otokonoko
     original_title: |-
       Senpai is an Otokonoko
-    genre.sync: Comedy,Drama,Romance,Crossdressing,LGBTQ+ Themes,Love Triangle,Coming of Age,School,Primarily Teen Cast,Femboy,Bisexual,Bullying,Mixed Gender Harem,Josei,Male Protagonist
+    genre.sync: Comedy,Drama,Romance,Crossdressing,LGBTQ+ Themes,Love Triangle,Coming of Age,School,Primarily Teen Cast,Femboy,Bisexual,Bullying,Josei,Mixed Gender Harem,Male Protagonist
     studio: project No.9
     seasons:
       1:
@@ -7587,7 +7587,7 @@ metadata:
       Tensei Kizoku, Kantei Skill de Nariagaru
     original_title: |-
       As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World
-    genre.sync: Adventure,Fantasy,Isekai,Coming of Age,Reincarnation,Kids
+    genre.sync: Adventure,Fantasy,Coming of Age,Isekai,Kids,Reincarnation
     studio: studio MOTHER
     seasons:
       1:
@@ -8670,7 +8670,7 @@ metadata:
       Yoru no Kurage wa Oyogenai
     original_title: |-
       Jellyfish Can’t Swim in the Night
-    genre.sync: Drama,Music,Slice of Life,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Urban,Drawing,Band,Idol,Cute Girls Doing Cute Things,Hikikomori,LGBTQ+ Themes,Denpa
+    genre.sync: Drama,Music,Slice of Life,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Urban,Drawing,Band,Idol,Yuri,Cute Girls Doing Cute Things,Hikikomori,LGBTQ+ Themes,Denpa
     studio: Doga Kobo
     seasons:
       1:
