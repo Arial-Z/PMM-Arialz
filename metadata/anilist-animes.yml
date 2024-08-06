@@ -1920,8 +1920,8 @@ metadata:
         user_rating: 6.4
     audience_rating: 6.4
     critic_rating: 6.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   421273:
     title: |-
       Edomae Elf
@@ -3706,8 +3706,8 @@ metadata:
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.7
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   132941:
     title: |-
       Katanagatari
@@ -5165,34 +5165,6 @@ metadata:
     critic_rating: 8.5
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  371437:
-    title: |-
-      Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…
-    sort_title: |-
-      Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…
-    original_title: |-
-      My Next Life as a Villainess: All Routes Lead to Doom!
-    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Mixed Gender Harem,Isekai,Female Protagonist,Reincarnation,Villainess,Ensemble Cast,Parody,Ojou-sama,Bisexual,Time Skip,LGBTQ+ Themes,Shoujo
-    studio: SILVER LINK.
-    seasons:
-      0:
-        label.remove: score
-      1:
-        title: |-
-          Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…
-        label: Score,2020 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.3
-      2:
-        title: |-
-          Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… X
-        label: Score,AA Winner,2021 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.2
-    critic_rating: 7.4
-    label: AA Winner,Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   413333:
     title: |-
       Nanatsu no Maken ga Shihai Suru
@@ -5684,6 +5656,34 @@ metadata:
     critic_rating: 6.9
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+  371437:
+    title: |-
+      Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…
+    sort_title: |-
+      Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…
+    original_title: |-
+      My Next Life as a Villainess: All Routes Lead to Doom!
+    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Mixed Gender Harem,Isekai,Female Protagonist,Reincarnation,Villainess,Ensemble Cast,Parody,Ojou-sama,Bisexual,Time Skip,LGBTQ+ Themes,Shoujo
+    studio: SILVER LINK.
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…
+        label: Score,2020 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.3
+      2:
+        title: |-
+          Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… X
+        label: Score,AA Winner,2021 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.1
+    audience_rating: 7.2
+    critic_rating: 7.4
+    label: AA Winner,Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   412826:
     title: |-
       Otomege Sekai wa Mob ni Kibishii Sekai desu
@@ -6060,8 +6060,8 @@ metadata:
         user_rating: 6.6
     audience_rating: 7.3
     critic_rating: 7.7
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   417983:
     title: |-
       Ragna Crimson
@@ -6120,8 +6120,8 @@ metadata:
         user_rating: 5.9
     audience_rating: 5.9
     critic_rating: 6.5
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   439755:
     title: |-
       Re:Monster
@@ -6640,8 +6640,8 @@ metadata:
         user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 7.1
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   401874:
     title: |-
       Senpai ga Uzai Kouhai no Hanashi
@@ -7096,8 +7096,8 @@ metadata:
         user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 6.8
-    label: Airing,Dropped
-    label.remove: Planned,Ended,Completed,Watching,Paused,Planning
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   278154:
     title: |-
       Sidonia no Kishi
@@ -7434,8 +7434,8 @@ metadata:
         user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.3
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   445253:
     title: |-
       Tasuuketsu
@@ -7454,8 +7454,8 @@ metadata:
         user_rating: 4.6
     audience_rating: 4.6
     critic_rating: 5.0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   353712:
     title: |-
       Tate no Yuusha no Nariagari
@@ -7740,8 +7740,8 @@ metadata:
         user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.5
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   436948:
     title: |-
       The Fable
