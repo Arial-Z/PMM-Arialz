@@ -1920,8 +1920,8 @@ metadata:
         user_rating: 6.4
     audience_rating: 6.4
     critic_rating: 6.7
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   421273:
     title: |-
       Edomae Elf
@@ -3183,7 +3183,7 @@ metadata:
       Isekai Shikkaku
     original_title: |-
       No Longer Allowed in Another World
-    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Supernatural,Isekai,Suicide,Male Protagonist,Magic,Satire,Nekomimi,Heterosexual
+    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Supernatural,Isekai,Suicide,Male Protagonist,Nekomimi,Magic,Satire,Heterosexual
     studio: Atelier Pontdarc
     seasons:
       1:
@@ -3706,8 +3706,8 @@ metadata:
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.7
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   132941:
     title: |-
       Katanagatari
@@ -3743,8 +3743,8 @@ metadata:
           Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
+        user_rating: 7.2
+    audience_rating: 7.2
     critic_rating: 7.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -4887,7 +4887,7 @@ metadata:
       Make Heroine ga Oosugiru!
     original_title: |-
       Makeine: Too Many Losing Heroines!
-    genre.sync: Comedy,Romance,Unrequited Love,Male Protagonist,Heterosexual,School Club,Parody,Satire,Love Triangle,Primarily Teen Cast,Female Harem
+    genre.sync: Comedy,Romance,Unrequited Love,Male Protagonist,School Club,Love Triangle,Heterosexual,Parody,Satire,School,Female Harem,Primarily Teen Cast
     studio: A-1 Pictures
     seasons:
       1:
@@ -4895,9 +4895,9 @@ metadata:
           Make Heroine ga Oosugiru!
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.8
-    critic_rating: 8.2
+        user_rating: 7.9
+    audience_rating: 7.9
+    critic_rating: 8.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   375927:
@@ -6060,8 +6060,8 @@ metadata:
         user_rating: 6.6
     audience_rating: 7.3
     critic_rating: 7.7
-    label: Ended,Watching
-    label.remove: Planned,Airing,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   417983:
     title: |-
       Ragna Crimson
@@ -6120,8 +6120,8 @@ metadata:
         user_rating: 5.9
     audience_rating: 5.9
     critic_rating: 6.5
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   439755:
     title: |-
       Re:Monster
@@ -6640,8 +6640,8 @@ metadata:
         user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 7.1
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   401874:
     title: |-
       Senpai ga Uzai Kouhai no Hanashi
@@ -6909,7 +6909,7 @@ metadata:
       Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru.
     original_title: |-
       The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible
-    genre.sync: Action,Adventure,Comedy,Fantasy,Male Protagonist
+    genre.sync: Action,Adventure,Comedy,Fantasy,Male Protagonist,Primarily Adult Cast
     studio: Yumeta Company
     seasons:
       1:
@@ -7096,8 +7096,8 @@ metadata:
         user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 6.8
-    label: Ended,Dropped
-    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
+    label: Airing,Dropped
+    label.remove: Planned,Ended,Completed,Watching,Paused,Planning
   278154:
     title: |-
       Sidonia no Kishi
@@ -7434,8 +7434,8 @@ metadata:
         user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.3
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   445253:
     title: |-
       Tasuuketsu
@@ -7451,11 +7451,11 @@ metadata:
           Tasuuketsu
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 4.6
-    audience_rating: 4.6
+        user_rating: 4.5
+    audience_rating: 4.5
     critic_rating: 5.0
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   353712:
     title: |-
       Tate no Yuusha no Nariagari
@@ -7740,8 +7740,8 @@ metadata:
         user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.5
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   436948:
     title: |-
       The Fable
