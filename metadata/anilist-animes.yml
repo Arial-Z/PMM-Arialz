@@ -2133,7 +2133,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.0
     audience_rating: 7.0
-    critic_rating: 7.4
+    critic_rating: 7.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   267246:
@@ -3211,8 +3211,8 @@ metadata:
           Isekai Suicide Squad
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
+        user_rating: 6.3
+    audience_rating: 6.3
     critic_rating: 6.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -3581,7 +3581,7 @@ metadata:
       Kami wa Game ni Ueteiru.
     original_title: |-
       Gods' Games We Play
-    genre.sync: Comedy,Drama,Ecchi,Fantasy,Romance,Male Protagonist,Female Harem,Urban Fantasy,Gods,Board Game,Magic,Super Power
+    genre.sync: Comedy,Drama,Ecchi,Fantasy,Romance,Gods,Male Protagonist,Female Harem,Urban Fantasy,Board Game,Magic,Super Power
     studio: LIDENFILMS
     seasons:
       1:
@@ -4496,6 +4496,28 @@ metadata:
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.3
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  318161:
+    title: |-
+      Little Witch Academia (TV)
+    sort_title: |-
+      Little Witch Academia (TV)
+    original_title: |-
+      Little Witch Academia (TV)
+    genre.sync: Comedy,Fantasy,Magic,Witch,School,Female Protagonist,Primarily Female Cast,Boarding School,Cute Girls Doing Cute Things,Urban Fantasy,Episodic,Primarily Teen Cast
+    studio: Trigger
+    seasons:
+      0:
+        label.remove: score
+      1:
+        title: |-
+          Little Witch Academia (TV)
+        label: Score,2017 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.7
+    audience_rating: 7.7
+    critic_rating: 7.8
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   423688:
@@ -5671,8 +5693,8 @@ metadata:
       1:
         title: |-
           Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…
-        label: Score,2020 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2020 Spring
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.3
       2:
         title: |-
@@ -5682,8 +5704,8 @@ metadata:
         user_rating: 7.1
     audience_rating: 7.2
     critic_rating: 7.4
-    label: AA Winner,Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: AA Winner,Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   412826:
     title: |-
       Otomege Sekai wa Mob ni Kibishii Sekai desu
@@ -7749,7 +7771,7 @@ metadata:
       The Fable
     original_title: |-
       The Fable
-    genre.sync: Action,Comedy,Drama,Romance,Thriller,Yakuza,Seinen,Assassins,Urban,Primarily Adult Cast,Guns,Surreal Comedy
+    genre.sync: Action,Comedy,Drama,Romance,Thriller,Yakuza,Seinen,Urban,Primarily Adult Cast,Assassins,Guns,Surreal Comedy
     studio: Tezuka Productions
     seasons:
       1:
@@ -7835,7 +7857,7 @@ metadata:
       Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san
     original_title: |-
       Alya Sometimes Hides Her Feelings in Russian
-    genre.sync: Comedy,Romance,Slice of Life,School,Heterosexual,Tsundere,Language Barrier,Primarily Teen Cast,Male Protagonist,Kuudere,Female Harem,Otaku Culture,Female Protagonist,Primarily Female Cast,Love Triangle
+    genre.sync: Comedy,Romance,Slice of Life,School,Heterosexual,Tsundere,Primarily Teen Cast,Language Barrier,Male Protagonist,Female Harem,Female Protagonist,Primarily Female Cast,Love Triangle,Otaku Culture,Kuudere
     studio: Doga Kobo
     seasons:
       1:
