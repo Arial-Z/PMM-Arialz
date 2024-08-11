@@ -294,7 +294,7 @@ metadata:
       Evangelion Shin Movie: Jo
     original_title: |-
       Evangelion: 1.0 You Are (Not) Alone
-    genre.sync: Action,Drama,Mecha,Psychological,Sci-Fi,Post-Apocalyptic,Male Protagonist,Coming of Age,Military,Kuudere,Dystopian,Super Robot,Kaiju,Primarily Teen Cast,Aliens,CGI
+    genre.sync: Action,Drama,Mecha,Psychological,Sci-Fi,Post-Apocalyptic,Coming of Age,Military,Kuudere,Dystopian,Male Protagonist,Super Robot,Kaiju,Aliens,CGI
     studio: Gainax
     audience_rating: 7.7
     critic_rating: 8.0
@@ -320,7 +320,7 @@ metadata:
       Eve no Jikan Movie
     original_title: |-
       Time of Eve: The Movie
-    genre.sync: Sci-Fi,Slice of Life,Robots,Artificial Intelligence,Bar,Philosophy,Cyberpunk,Found Family,Software Development,Heterosexual
+    genre.sync: Sci-Fi,Slice of Life,Robots,Artificial Intelligence,Bar,Philosophy,Cyberpunk,Software Development,Male Protagonist,Anthropomorphism,Found Family,Heterosexual
     studio: Studio Rikka
     audience_rating: 7.7
     critic_rating: 8.0
@@ -357,7 +357,7 @@ metadata:
       Gake no Ue no Ponyo
     original_title: |-
       Ponyo
-    genre.sync: Adventure,Fantasy,Primarily Child Cast,Environmental,Rural,Magic,Urban Fantasy,Family Life,Natural Disaster,Coastal,Anthropomorphism,Kids
+    genre.sync: Adventure,Fantasy,Environmental,Primarily Child Cast,Rural,Magic,Coastal,Anthropomorphism,Natural Disaster,Urban Fantasy
     studio: Studio Ghibli
     audience_rating: 7.9
     critic_rating: 7.9
@@ -568,7 +568,7 @@ metadata:
       Howl no Ugoku Shiro
     original_title: |-
       Howl‘s Moving Castle
-    genre.sync: Adventure,Drama,Fantasy,Romance,Magic,Female Protagonist,Elderly Protagonist,Steampunk,Witch,War,Shapeshifting
+    genre.sync: Adventure,Drama,Fantasy,Romance,Magic,Female Protagonist,Elderly Protagonist,Steampunk,Witch,War,Monster Boy,Shapeshifting
     studio: Studio Ghibli
     audience_rating: 8.4
     critic_rating: 8.7
@@ -580,7 +580,7 @@ metadata:
       Innocence
     original_title: |-
       Ghost in the Shell 2: Innocence
-    genre.sync: Action,Psychological,Sci-Fi,Philosophy,Cyberpunk,Police,Memory Manipulation,Artificial Intelligence,CGI,Robots,Male Protagonist,Photography,Noir
+    genre.sync: Action,Psychological,Sci-Fi,Philosophy,Cyberpunk,Police,Memory Manipulation,Artificial Intelligence,CGI,Male Protagonist,Robots,Photography,Seinen,Noir
     studio: Production I.G
     audience_rating: 7.5
     critic_rating: 7.8
@@ -593,7 +593,7 @@ metadata:
       Josee to Tora to Sakanatachi
     original_title: |-
       Josee, the Tiger and the Fish
-    genre.sync: Drama,Romance,Slice of Life,Disability,Female Protagonist,Male Protagonist,Tsundere,Heterosexual,Coming of Age,Primarily Adult Cast,Rehabilitation,Coastal,Drawing,Tragedy
+    genre.sync: Drama,Romance,Slice of Life,Disability,Female Protagonist,Male Protagonist,Tsundere,Heterosexual,Coming of Age,Primarily Adult Cast,Rehabilitation,Drawing,Tragedy
     studio: bones
     audience_rating: 8.2
     critic_rating: 8.4
@@ -748,7 +748,7 @@ metadata:
       Karigurashi no Arrietty
     original_title: |-
       The Secret World of Arrietty
-    genre.sync: Adventure,Drama,Fantasy,Female Protagonist,Rural,Family Life,Classic Literature,Coming of Age
+    genre.sync: Adventure,Drama,Fantasy,Rural,Family Life,Classic Literature,Female Protagonist,Coming of Age
     studio: Studio Ghibli
     audience_rating: 7.7
     critic_rating: 7.9
@@ -799,7 +799,7 @@ metadata:
       Mobile Suit Gundam Thunderbolt: Bandit Flower
     genre.sync: Action,Drama,Mecha,Sci-Fi,Space,Military,Real Robot,Anti-Hero,Gore
     studio: Sunrise
-    audience_rating: 6.8
+    audience_rating: 6.9
     critic_rating: 7.2
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
@@ -887,7 +887,7 @@ metadata:
       Koe no Katachi
     original_title: |-
       A Silent Voice
-    genre.sync: Drama,Romance,Slice of Life,Disability,Bullying,Rehabilitation,Language Barrier,Coming of Age,Suicide,Denpa,Tragedy,Male Protagonist,Primarily Teen Cast,School,Time Skip
+    genre.sync: Drama,Romance,Slice of Life,Disability,Bullying,Rehabilitation,Language Barrier,Coming of Age,Suicide,Denpa,Female Protagonist,Tragedy,Male Protagonist,Primarily Teen Cast,School,Time Skip
     studio: Kyoto Animation
     audience_rating: 8.8
     critic_rating: 8.9
@@ -1091,7 +1091,7 @@ metadata:
       Mimi wo Sumaseba
     original_title: |-
       Whisper of the Heart
-    genre.sync: Adventure,Drama,Romance,Slice of Life,Coming of Age,Writing,Female Protagonist,Shoujo,Heterosexual
+    genre.sync: Adventure,Drama,Romance,Slice of Life,Coming of Age,Writing,Female Protagonist,Heterosexual
     studio: Studio Ghibli
     audience_rating: 8.1
     critic_rating: 8.2
@@ -1166,7 +1166,7 @@ metadata:
       Neko no Ongaeshi
     original_title: |-
       The Cat Returns
-    genre.sync: Adventure,Comedy,Drama,Fantasy,Animals,Anthropomorphism,Nekomimi,Fairy Tale,Female Protagonist,Shoujo,Isekai,Kemonomimi
+    genre.sync: Adventure,Comedy,Drama,Fantasy,Animals,Anthropomorphism,Nekomimi,Fairy Tale,Female Protagonist,Isekai,Kemonomimi,Royal Affairs
     studio: Studio Ghibli
     audience_rating: 7.4
     critic_rating: 7.7
@@ -1178,7 +1178,7 @@ metadata:
       Omoide no Marnie
     original_title: |-
       When Marnie Was There
-    genre.sync: Drama,Mystery,Psychological,Female Protagonist,Rural,Ghost,Outdoor,Tragedy,Drawing,Time Manipulation,Disability
+    genre.sync: Drama,Mystery,Psychological,Female Protagonist,Rural,Ghost,Outdoor,Tragedy,Time Manipulation,Drawing,Disability,Estranged Family
     studio: Studio Ghibli
     audience_rating: 7.8
     critic_rating: 8.0
@@ -1505,7 +1505,7 @@ metadata:
       Sword Art Online the Movie -Progressive- Aria of a Starless Night
     genre.sync: Action,Adventure,Fantasy,Romance,Virtual World,Death Game,Video Games,Swordplay,Survival,Female Protagonist,Primarily Teen Cast,Isekai
     studio: A-1 Pictures
-    audience_rating: 7.9
+    audience_rating: 7.8
     critic_rating: 8.0
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
