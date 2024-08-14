@@ -263,7 +263,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.2
     audience_rating: 8.4
-    critic_rating: 8.5
+    critic_rating: 8.6
     label: AA Winner,Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   319983:
@@ -3735,7 +3735,7 @@ metadata:
       Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.
     original_title: |-
       The Magical Girl and the Evil Lieutenant Used to Be Archenemies
-    genre.sync: Comedy,Fantasy,Mahou Shoujo,Romance,Heterosexual,Age Gap,Tokusatsu,Tsundere,Episodic,Henshin
+    genre.sync: Comedy,Fantasy,Mahou Shoujo,Romance,Heterosexual,Age Gap,Tsundere,Episodic,Henshin,Tokusatsu
     studio: bones
     seasons:
       1:
@@ -4909,7 +4909,7 @@ metadata:
       Make Heroine ga Oosugiru!
     original_title: |-
       Makeine: Too Many Losing Heroines!
-    genre.sync: Comedy,Romance,Unrequited Love,Male Protagonist,School Club,Love Triangle,Heterosexual,Parody,Satire,School,Female Harem,Primarily Teen Cast
+    genre.sync: Comedy,Romance,Unrequited Love,School,Heterosexual,Love Triangle,Satire,Male Protagonist,Parody,Female Harem,School Club,Primarily Teen Cast,Meta,Tomboy
     studio: A-1 Pictures
     seasons:
       1:
@@ -4917,8 +4917,8 @@ metadata:
           Make Heroine ga Oosugiru!
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.9
-    audience_rating: 7.9
+        user_rating: 8.0
+    audience_rating: 8.0
     critic_rating: 8.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -6388,6 +6388,26 @@ metadata:
     critic_rating: 7.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  321536:
+    title: |-
+      Sakura Quest
+    sort_title: |-
+      Sakura Quest
+    original_title: |-
+      Sakura Quest
+    genre.sync: Comedy,Slice of Life,Work,Rural,Female Protagonist,Primarily Adult Cast,Primarily Female Cast,Ensemble Cast,Coming of Age
+    studio: P.A. Works
+    seasons:
+      1:
+        title: |-
+          Sakura Quest
+        label: Score,2017 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.4
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   262114:
     title: |-
       Sakurasou no Pet na Kanojo
@@ -7867,7 +7887,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 7.8
-    critic_rating: 8.1
+    critic_rating: 8.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   281249:
