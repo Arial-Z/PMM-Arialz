@@ -1601,7 +1601,7 @@ metadata:
       Dead Dead Demon's Dededededestruction
     original_title: |-
       Dead Dead Demons Dededede Destruction
-    genre.sync: Comedy,Drama,Sci-Fi,Slice of Life,Coming of Age,Female Protagonist,Tragedy,Denpa,Urban,Aliens,Philosophy,Dystopian,Politics,Seinen,Surreal Comedy,Military,School,Primarily Female Cast,Post-Apocalyptic
+    genre.sync: Comedy,Drama,Sci-Fi,Slice of Life,Coming of Age,Tragedy,Denpa,Urban,Aliens,Philosophy,Dystopian,Politics,Surreal Comedy,School,Military,Primarily Female Cast,Female Protagonist,Post-Apocalyptic
     studio: Production +h
     seasons:
       1:
@@ -1611,7 +1611,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.5
     audience_rating: 7.5
-    critic_rating: 7.7
+    critic_rating: 7.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   427239:
@@ -1714,6 +1714,26 @@ metadata:
     critic_rating: 6.8
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
+  171741:
+    title: |-
+      Densetsu no Yuusha no Densetsu
+    sort_title: |-
+      Densetsu no Yuusha no Densetsu
+    original_title: |-
+      The Legend of the Legendary Heroes
+    genre.sync: Action,Adventure,Fantasy,Magic,War,Rape
+    studio: ZEXCS
+    seasons:
+      1:
+        title: |-
+          Densetsu no Yuusha no Densetsu
+        label: Score,Completed,2010 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.5
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   273005:
     title: |-
       Diamond no Ace
@@ -1909,7 +1929,7 @@ metadata:
       Dungeon no Naka no Hito
     original_title: |-
       Dungeon People
-    genre.sync: Adventure,Comedy,Fantasy,Dungeon,Cute Girls Doing Cute Things,Swordplay,Iyashikei,Female Protagonist
+    genre.sync: Adventure,Comedy,Fantasy,Dungeon,Swordplay,Iyashikei,Female Protagonist,Cute Girls Doing Cute Things
     studio: OLM
     seasons:
       1:
@@ -1917,8 +1937,8 @@ metadata:
           Dungeon no Naka no Hito
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
+        user_rating: 6.5
+    audience_rating: 6.5
     critic_rating: 6.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -2103,7 +2123,7 @@ metadata:
       Giji Harem
     original_title: |-
       Pseudo Harem
-    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Acting,Iyashikei,Episodic,Parody,School,Female Protagonist,School Club,Meta,Male Protagonist
+    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Acting,Iyashikei,Episodic,Female Protagonist,Parody,School,School Club,Male Protagonist,Shounen
     studio: Nomad
     seasons:
       1:
@@ -2578,7 +2598,7 @@ metadata:
       Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made
     original_title: |-
       Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells
-    genre.sync: Action,Adventure,Drama,Fantasy,Revenge,CGI,Isekai,Survival
+    genre.sync: Action,Adventure,Drama,Fantasy,Revenge,Isekai,CGI,Survival
     studio: Seven Arcs
     seasons:
       1:
@@ -3213,7 +3233,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.3
     audience_rating: 6.3
-    critic_rating: 6.7
+    critic_rating: 6.6
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   406592:
@@ -4179,8 +4199,8 @@ metadata:
           Kono Sekai wa Fukanzen Sugiru
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.0
-    audience_rating: 6.0
+        user_rating: 5.9
+    audience_rating: 5.9
     critic_rating: 6.3
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -5104,7 +5124,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 5.7
     audience_rating: 5.7
-    critic_rating: 6.2
+    critic_rating: 6.1
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   307375:
@@ -5264,7 +5284,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
-    critic_rating: 6.9
+    critic_rating: 6.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   309206:
@@ -5655,7 +5675,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
-    critic_rating: 6.9
+    critic_rating: 6.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   433034:
@@ -6139,8 +6159,8 @@ metadata:
           Ramen Aka Neko
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.9
-    audience_rating: 5.9
+        user_rating: 6.0
+    audience_rating: 6.0
     critic_rating: 6.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -6497,7 +6517,7 @@ metadata:
       Sasayaku You ni Koi wo Utau
     original_title: |-
       Whisper Me a Love Song
-    genre.sync: Drama,Music,Romance,Yuri,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,LGBTQ+ Themes,Band,School,Love Triangle,School Club,Cute Girls Doing Cute Things
+    genre.sync: Drama,Music,Romance,Yuri,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,LGBTQ+ Themes,Band,School,Love Triangle,School Club,Cute Girls Doing Cute Things,Coming of Age
     studio: CLOUDHEARTS
     seasons:
       1:
@@ -6576,6 +6596,26 @@ metadata:
     critic_rating: 6.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  286855:
+    title: |-
+      Seiken Tsukai no World Break
+    sort_title: |-
+      Seiken Tsukai no World Break
+    original_title: |-
+      World Break: Aria of Curse for a Holy Swordsman
+    genre.sync: Action,Ecchi,Fantasy,Romance,Supernatural,Female Harem,Magic,Reincarnation,Swordplay,Primarily Female Cast,Nudity,School
+    studio: diomedéa
+    seasons:
+      1:
+        title: |-
+          Seiken Tsukai no World Break
+        label: Score,Watching,2015 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.8
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   345596:
     title: |-
       Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
@@ -6711,7 +6751,7 @@ metadata:
       Senpai wa Otokonoko
     original_title: |-
       Senpai is an Otokonoko
-    genre.sync: Comedy,Drama,Romance,Crossdressing,Love Triangle,LGBTQ+ Themes,Coming of Age,Primarily Teen Cast,School,Femboy,Bullying,Bisexual,Josei,Heterosexual,Male Protagonist
+    genre.sync: Comedy,Drama,Romance,Crossdressing,Love Triangle,LGBTQ+ Themes,Coming of Age,Primarily Teen Cast,School,Femboy,Bullying,Bisexual,Heterosexual,Josei,Male Protagonist
     studio: project No.9
     seasons:
       1:
@@ -6719,8 +6759,8 @@ metadata:
           Senpai wa Otokonoko
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
+        user_rating: 6.9
+    audience_rating: 6.9
     critic_rating: 7.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -6731,7 +6771,7 @@ metadata:
       Sentai Daishikkaku
     original_title: |-
       GO! GO! Loser Ranger!
-    genre.sync: Action,Comedy,Drama,Sci-Fi,Monster Boy,Tokusatsu,Anti-Hero,Revenge,Shapeshifting,Espionage,Henshin,Urban Fantasy,Male Protagonist,Aliens,Conspiracy,Survival,Shounen,Fugitive
+    genre.sync: Action,Comedy,Drama,Sci-Fi,Urban Fantasy,Monster Boy,Tokusatsu,Anti-Hero,Revenge,Shapeshifting,Espionage,Henshin,Aliens,Survival,Conspiracy,Fugitive
     studio: Yostar Pictures
     seasons:
       1:
@@ -7657,7 +7697,7 @@ metadata:
       Tensei Kizoku, Kantei Skill de Nariagaru
     original_title: |-
       As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World
-    genre.sync: Adventure,Fantasy,Coming of Age,Kids,Isekai,Reincarnation
+    genre.sync: Adventure,Fantasy,Coming of Age,Isekai,Reincarnation
     studio: studio MOTHER
     seasons:
       1:
@@ -8740,7 +8780,7 @@ metadata:
       Yoru no Kurage wa Oyogenai
     original_title: |-
       Jellyfish Can’t Swim in the Night
-    genre.sync: Drama,Music,Slice of Life,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Urban,Drawing,Band,Idol,Yuri,Cute Girls Doing Cute Things,Hikikomori,LGBTQ+ Themes,Denpa
+    genre.sync: Drama,Music,Slice of Life,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Urban,Drawing,Band,Idol,Cute Girls Doing Cute Things,Hikikomori,Denpa
     studio: Doga Kobo
     seasons:
       1:
