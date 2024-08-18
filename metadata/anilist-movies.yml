@@ -396,7 +396,7 @@ metadata:
       Ghost in the Shell 2.0
     genre.sync: Action,Psychological,Sci-Fi,Military,Cyberpunk,Cyborg,CGI
     studio: Production I.G
-    audience_rating: 7.5
+    audience_rating: 7.6
     critic_rating: 8.0
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
@@ -887,7 +887,7 @@ metadata:
       Koe no Katachi
     original_title: |-
       A Silent Voice
-    genre.sync: Drama,Romance,Slice of Life,Disability,Bullying,Rehabilitation,Language Barrier,Coming of Age,Suicide,Denpa,Female Protagonist,Tragedy,Male Protagonist,Primarily Teen Cast,School,Time Skip
+    genre.sync: Drama,Romance,Slice of Life,Disability,Bullying,Rehabilitation,Language Barrier,Coming of Age,Suicide,Denpa,Tragedy,Male Protagonist,Primarily Teen Cast,School,Time Skip
     studio: Kyoto Animation
     audience_rating: 8.8
     critic_rating: 8.9
@@ -1069,7 +1069,7 @@ metadata:
     genre.sync: Sci-Fi,Supernatural,Magic,Military,Politics,Twins,School
     studio: 8-bit
     audience_rating: 7.2
-    critic_rating: 7.5
+    critic_rating: 7.4
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
   tt0097814:
@@ -1566,7 +1566,7 @@ metadata:
       Tenkuu no Shiro Laputa
     original_title: |-
       Castle in the Sky
-    genre.sync: Adventure,Fantasy,Sci-Fi,Lost Civilization,Steampunk,Environmental,Pirates,Aviation,Female Protagonist,Fugitive,Travel,Military
+    genre.sync: Adventure,Fantasy,Sci-Fi,Lost Civilization,Environmental,Steampunk,Pirates,Aviation,Fugitive,Female Protagonist,Military,Travel
     studio: Studio Ghibli
     audience_rating: 8.0
     critic_rating: 8.3
@@ -1647,6 +1647,18 @@ metadata:
     critic_rating: 8.9
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
+  tt0370754:
+    title: |-
+      Hoshi no Koe
+    sort_title: |-
+      Hoshi no Koe
+    original_title: |-
+      Voices of a Distant Star
+    genre.sync: Drama,Mecha,Romance,Sci-Fi,Space,Age Gap,Robots,Achronological Order,Coming of Age,Aliens,CGI,Heterosexual
+    studio: CoMix Wave
+    audience_rating: 6.4
+    critic_rating: 7.1
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt9507276:
     title: |-
       Youjo Senki Movie
