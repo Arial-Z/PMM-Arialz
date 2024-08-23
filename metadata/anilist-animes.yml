@@ -132,26 +132,32 @@ metadata:
     critic_rating: 7.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  429055:
+  421069:
     title: |-
-      16bit Sensation: ANOTHER LAYER
+      [Oshi no Ko]
     sort_title: |-
-      16bit Sensation: ANOTHER LAYER
+      [Oshi no Ko]
     original_title: |-
-      16bit Sensation: Another Layer
-    genre.sync: Comedy,Slice of Life,Video Games,Software Development,Otaku Culture,Female Protagonist,Time Manipulation,Work,Drawing,Primarily Adult Cast,Historical,Anachronism
-    studio: Studio Silver
+      Oshi No Ko
+    genre.sync: Drama,Mystery,Psychological,Supernatural,Acting,Tragedy,Idol,Revenge,Twins,Urban,Male Protagonist,Reincarnation,Seinen,Detective,Female Protagonist,Anti-Hero,Coming of Age,Time Skip,Orphan,Ensemble Cast,Age Regression
+    studio: Doga Kobo
     seasons:
       1:
         title: |-
-          16bit Sensation: ANOTHER LAYER
-        label: Score,2023 Fall
+          [Oshi no Ko]
+        label: Score,AA Winner,Completed,2023 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.5
+      2:
+        title: |-
+          [Oshi no Ko] 2nd Season
+        label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
-    critic_rating: 6.9
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+        user_rating: 8.3
+    audience_rating: 8.4
+    critic_rating: 8.6
+    label: AA Winner,Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   428168:
     title: |-
       2.5 Jigen no Ririsa
@@ -198,6 +204,26 @@ metadata:
     critic_rating: 8.6
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  429055:
+    title: |-
+      16bit Sensation: ANOTHER LAYER
+    sort_title: |-
+      16bit Sensation: ANOTHER LAYER
+    original_title: |-
+      16bit Sensation: Another Layer
+    genre.sync: Comedy,Slice of Life,Video Games,Software Development,Otaku Culture,Female Protagonist,Time Manipulation,Work,Drawing,Primarily Adult Cast,Historical,Anachronism
+    studio: Studio Silver
+    seasons:
+      1:
+        title: |-
+          16bit Sensation: ANOTHER LAYER
+        label: Score,2023 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 6.9
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   441567:
     title: |-
       30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii
@@ -240,32 +266,6 @@ metadata:
     critic_rating: 8.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  421069:
-    title: |-
-      [Oshi no Ko]
-    sort_title: |-
-      [Oshi no Ko]
-    original_title: |-
-      Oshi No Ko
-    genre.sync: Drama,Mystery,Psychological,Supernatural,Acting,Tragedy,Idol,Revenge,Twins,Urban,Male Protagonist,Reincarnation,Seinen,Detective,Female Protagonist,Anti-Hero,Coming of Age,Time Skip,Orphan,Ensemble Cast,Age Regression
-    studio: Doga Kobo
-    seasons:
-      1:
-        title: |-
-          [Oshi no Ko]
-        label: Score,AA Winner,Completed,2023 Spring
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.5
-      2:
-        title: |-
-          [Oshi no Ko] 2nd Season
-        label: Score,2024 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.3
-    audience_rating: 8.4
-    critic_rating: 8.6
-    label: AA Winner,Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   319983:
     title: |-
       ACCA: 13-ku Kansatsu-ka
@@ -1601,7 +1601,7 @@ metadata:
       Dead Dead Demon's Dededededestruction
     original_title: |-
       Dead Dead Demons Dededede Destruction
-    genre.sync: Comedy,Drama,Sci-Fi,Slice of Life,Coming of Age,Tragedy,Denpa,Urban,Aliens,Philosophy,Dystopian,Politics,Surreal Comedy,School,Military,Primarily Female Cast,Female Protagonist,Post-Apocalyptic
+    genre.sync: Comedy,Drama,Sci-Fi,Slice of Life,Coming of Age,Aliens,Politics,Tragedy,Denpa,Urban,Philosophy,Dystopian,Post-Apocalyptic,Surreal Comedy,Anti-Hero,Military,School,Primarily Female Cast,Female Protagonist
     studio: Production +h
     seasons:
       1:
@@ -1609,8 +1609,8 @@ metadata:
           Dead Dead Demon's Dededededestruction
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
+        user_rating: 7.6
+    audience_rating: 7.6
     critic_rating: 7.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -2131,8 +2131,8 @@ metadata:
           Giji Harem
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
+        user_rating: 7.2
+    audience_rating: 7.2
     critic_rating: 7.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -2143,7 +2143,7 @@ metadata:
       Gimai Seikatsu
     original_title: |-
       Days with My Stepsister
-    genre.sync: Romance,Slice of Life,Inseki,Family Life,Philosophy,Heterosexual,Male Protagonist,Iyashikei,Female Protagonist,School
+    genre.sync: Romance,Slice of Life,Inseki,Family Life,Philosophy,Heterosexual,Male Protagonist,Iyashikei,Female Protagonist,Psychosexual,School
     studio: Studio DEEN
     seasons:
       1:
@@ -5124,7 +5124,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 5.6
     audience_rating: 5.6
-    critic_rating: 6.1
+    critic_rating: 6.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   307375:
@@ -5284,7 +5284,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
-    critic_rating: 6.8
+    critic_rating: 6.7
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   309206:
@@ -5665,7 +5665,7 @@ metadata:
       Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai
     original_title: |-
       I Parry Everything
-    genre.sync: Action,Adventure,Fantasy,Swordplay,Male Protagonist
+    genre.sync: Action,Adventure,Fantasy,Male Protagonist,Swordplay
     studio: OLM
     seasons:
       1:
@@ -6161,7 +6161,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.0
     audience_rating: 6.0
-    critic_rating: 6.6
+    critic_rating: 6.7
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   439755:
@@ -6751,7 +6751,7 @@ metadata:
       Senpai wa Otokonoko
     original_title: |-
       Senpai is an Otokonoko
-    genre.sync: Comedy,Drama,Romance,Crossdressing,Love Triangle,LGBTQ+ Themes,Coming of Age,Primarily Teen Cast,School,Femboy,Bullying,Bisexual,Heterosexual,Josei,Male Protagonist
+    genre.sync: Comedy,Drama,Romance,Crossdressing,Love Triangle,Coming of Age,LGBTQ+ Themes,Primarily Teen Cast,School,Femboy,Bullying,Female Protagonist,Bisexual,Heterosexual,Josei,Male Protagonist
     studio: project No.9
     seasons:
       1:
@@ -7505,7 +7505,7 @@ metadata:
       Tasogare Outfocus
     original_title: |-
       Twilight Out of Focus
-    genre.sync: Drama,Romance,Boys' Love,LGBTQ+ Themes,Filmmaking,School,School Club,Acting,Male Protagonist,Primarily Male Cast,Ensemble Cast
+    genre.sync: Drama,Romance,Boys' Love,LGBTQ+ Themes,School,Filmmaking,School Club,Acting,Male Protagonist,Primarily Male Cast,Ensemble Cast
     studio: Studio DEEN
     seasons:
       1:
@@ -7515,7 +7515,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.0
     audience_rating: 7.0
-    critic_rating: 7.3
+    critic_rating: 7.2
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   445253:
@@ -8780,7 +8780,7 @@ metadata:
       Yoru no Kurage wa Oyogenai
     original_title: |-
       Jellyfish Can’t Swim in the Night
-    genre.sync: Drama,Music,Slice of Life,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Urban,Drawing,Band,Idol,Cute Girls Doing Cute Things,Hikikomori,Denpa
+    genre.sync: Drama,Music,Slice of Life,Primarily Female Cast,Female Protagonist,Primarily Teen Cast,Coming of Age,Urban,Drawing,Band,Idol,LGBTQ+ Themes,Yuri,Cute Girls Doing Cute Things,Hikikomori,Denpa
     studio: Doga Kobo
     seasons:
       1:
@@ -8788,8 +8788,8 @@ metadata:
           Yoru no Kurage wa Oyogenai
         label: Score,2024 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.8
+        user_rating: 7.7
+    audience_rating: 7.7
     critic_rating: 7.8
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
