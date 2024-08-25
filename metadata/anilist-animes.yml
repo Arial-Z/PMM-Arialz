@@ -6,7 +6,7 @@ metadata:
       Fairy Tail
     original_title: |-
       Fairy Tail
-    genre.sync: Action,Adventure,Comedy,Fantasy,Female Protagonist,Magic,Shounen,Fairy Tale,Found Family,Male Protagonist,Ensemble Cast,Dragons,Time Skip,Super Power,Work
+    genre.sync: Action,Adventure,Comedy,Fantasy,Magic,Shounen,Fairy Tale,Found Family,Male Protagonist,Female Protagonist,Ensemble Cast,Dragons,Time Skip,Super Power,Work
     studio: A-1 Pictures
     audience_rating: 7.1
     critic_rating: 7.6
@@ -185,7 +185,7 @@ metadata:
       3-gatsu no Lion
     original_title: |-
       March comes in like a lion
-    genre.sync: Drama,Slice of Life,Coming of Age,Rehabilitation,Shogi,Seinen,Family Life,Found Family,Male Protagonist,Board Game,Tragedy,Philosophy,Bullying
+    genre.sync: Drama,Slice of Life,Coming of Age,Rehabilitation,Shogi,Seinen,Family Life,Found Family,Estranged Family,Male Protagonist,Board Game,Tragedy,Philosophy,Bullying
     studio: Shaft
     seasons:
       1:
@@ -231,7 +231,7 @@ metadata:
       30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii
     original_title: |-
       Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!
-    genre.sync: Comedy,Romance,Slice of Life,Supernatural,Boys' Love,Male Protagonist,Super Power,Work,LGBTQ+ Themes,Office,Primarily Adult Cast,Josei,Magic
+    genre.sync: Comedy,Romance,Slice of Life,Supernatural,Boys' Love,Male Protagonist,Super Power,Work,LGBTQ+ Themes,Office,Primarily Adult Cast,Josei,Bisexual,Magic
     studio: Satelight
     seasons:
       1:
@@ -1940,8 +1940,8 @@ metadata:
         user_rating: 6.5
     audience_rating: 6.5
     critic_rating: 6.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   421273:
     title: |-
       Edomae Elf
@@ -3726,8 +3726,8 @@ metadata:
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.7
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   132941:
     title: |-
       Katanagatari
@@ -5282,8 +5282,8 @@ metadata:
           Naze Boku no Sekai wo Daremo Oboeteinai no ka?
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
+        user_rating: 6.4
+    audience_rating: 6.4
     critic_rating: 6.7
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -6102,8 +6102,8 @@ metadata:
         user_rating: 6.6
     audience_rating: 7.3
     critic_rating: 7.7
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   417983:
     title: |-
       Ragna Crimson
@@ -6162,8 +6162,8 @@ metadata:
         user_rating: 6.0
     audience_rating: 6.0
     critic_rating: 6.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   439755:
     title: |-
       Re:Monster
@@ -6722,8 +6722,8 @@ metadata:
         user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 7.1
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   401874:
     title: |-
       Senpai ga Uzai Kouhai no Hanashi
@@ -7178,8 +7178,8 @@ metadata:
         user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 6.8
-    label: Airing,Dropped
-    label.remove: Planned,Ended,Completed,Watching,Paused,Planning
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   278154:
     title: |-
       Sidonia no Kishi
@@ -7516,8 +7516,8 @@ metadata:
         user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.2
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   445253:
     title: |-
       Tasuuketsu
@@ -7536,8 +7536,8 @@ metadata:
         user_rating: 4.5
     audience_rating: 4.5
     critic_rating: 4.9
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   353712:
     title: |-
       Tate no Yuusha no Nariagari
@@ -7822,8 +7822,8 @@ metadata:
         user_rating: 6.1
     audience_rating: 6.1
     critic_rating: 6.5
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   436948:
     title: |-
       The Fable
