@@ -153,7 +153,7 @@ metadata:
           [Oshi no Ko] 2nd Season
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.3
+        user_rating: 8.4
     audience_rating: 8.4
     critic_rating: 8.6
     label: AA Winner,Airing,Completed
@@ -1940,8 +1940,8 @@ metadata:
         user_rating: 6.5
     audience_rating: 6.5
     critic_rating: 6.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   421273:
     title: |-
       Edomae Elf
@@ -3223,7 +3223,7 @@ metadata:
       Isekai Suicide Squad
     original_title: |-
       Suicide Squad ISEKAI
-    genre.sync: Action,Adventure,Fantasy,Sci-Fi,Isekai,Anti-Hero,Crime,Magic,Swordplay,Super Power,Female Protagonist,Meta,Crossover,Primarily Adult Cast
+    genre.sync: Action,Adventure,Fantasy,Sci-Fi,Isekai,Anti-Hero,Crime,Crossover,Female Protagonist,Super Power,War,Magic,Primarily Adult Cast,Conspiracy
     studio: Wit Studio
     seasons:
       1:
@@ -3601,7 +3601,7 @@ metadata:
       Kami wa Game ni Ueteiru.
     original_title: |-
       Gods' Games We Play
-    genre.sync: Comedy,Drama,Ecchi,Fantasy,Romance,Gods,Male Protagonist,Female Harem,Urban Fantasy,Board Game,Magic,Super Power
+    genre.sync: Comedy,Drama,Ecchi,Fantasy,Romance,Gods,Male Protagonist,Female Harem,Board Game,Urban Fantasy,Magic
     studio: LIDENFILMS
     seasons:
       1:
@@ -3726,8 +3726,8 @@ metadata:
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.7
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   132941:
     title: |-
       Katanagatari
@@ -4995,7 +4995,7 @@ metadata:
       Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?
     original_title: |-
       An Archdemon's Dilemma: How to Love Your Elf Bride
-    genre.sync: Action,Fantasy,Romance,Elf,Magic,Male Protagonist,Heterosexual,Family Life,Female Protagonist,Anti-Hero
+    genre.sync: Action,Fantasy,Romance,Elf,Magic,Family Life,Male Protagonist,Heterosexual,Found Family,Anti-Hero,Slavery
     studio: Brain's Base
     seasons:
       1:
@@ -6102,8 +6102,8 @@ metadata:
         user_rating: 6.6
     audience_rating: 7.3
     critic_rating: 7.7
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   417983:
     title: |-
       Ragna Crimson
@@ -6162,8 +6162,8 @@ metadata:
         user_rating: 6.0
     audience_rating: 6.0
     critic_rating: 6.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   439755:
     title: |-
       Re:Monster
@@ -6722,8 +6722,8 @@ metadata:
         user_rating: 6.9
     audience_rating: 6.9
     critic_rating: 7.1
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   401874:
     title: |-
       Senpai ga Uzai Kouhai no Hanashi
@@ -7178,8 +7178,8 @@ metadata:
         user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 6.8
-    label: Airing,Dropped
-    label.remove: Planned,Ended,Completed,Watching,Paused,Planning
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   278154:
     title: |-
       Sidonia no Kishi
@@ -7516,8 +7516,8 @@ metadata:
         user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.2
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   445253:
     title: |-
       Tasuuketsu
@@ -7536,8 +7536,8 @@ metadata:
         user_rating: 4.4
     audience_rating: 4.4
     critic_rating: 4.9
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   353712:
     title: |-
       Tate no Yuusha no Nariagari
@@ -7822,8 +7822,8 @@ metadata:
         user_rating: 6.1
     audience_rating: 6.1
     critic_rating: 6.5
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   436948:
     title: |-
       The Fable
@@ -7917,7 +7917,7 @@ metadata:
       Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san
     original_title: |-
       Alya Sometimes Hides Her Feelings in Russian
-    genre.sync: Comedy,Romance,Slice of Life,School,Heterosexual,Tsundere,Primarily Teen Cast,Male Protagonist,Language Barrier,Female Harem,Estranged Family,Love Triangle,Primarily Female Cast,Female Protagonist
+    genre.sync: Comedy,Romance,Slice of Life,School,Heterosexual,Tsundere,Primarily Teen Cast,Male Protagonist,Language Barrier,Estranged Family,Primarily Female Cast,Female Harem,Female Protagonist
     studio: Doga Kobo
     seasons:
       1:
@@ -8566,7 +8566,7 @@ metadata:
       Wind Breaker
     original_title: |-
       Wind Breaker
-    genre.sync: Action,Comedy,Drama,Gangs,Delinquents,Male Protagonist,Primarily Male Cast,Shounen,Urban,School,Tsundere,Found Family,Ensemble Cast,Bullying,Primarily Teen Cast
+    genre.sync: Action,Comedy,Drama,Gangs,Delinquents,Male Protagonist,Primarily Male Cast,Shounen,Urban,School,Found Family,Tsundere,Ensemble Cast,Bullying,Primarily Teen Cast
     studio: CloverWorks
     seasons:
       1:
