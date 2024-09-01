@@ -241,7 +241,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.5
     audience_rating: 7.5
-    critic_rating: 7.7
+    critic_rating: 7.6
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   378609:
@@ -5282,8 +5282,8 @@ metadata:
           Naze Boku no Sekai wo Daremo Oboeteinai no ka?
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
+        user_rating: 6.3
+    audience_rating: 6.3
     critic_rating: 6.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
