@@ -4533,13 +4533,13 @@ metadata:
       1:
         title: |-
           Little Witch Academia (TV)
-        label: Score,2017 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2017 Winter
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.7
     audience_rating: 7.7
     critic_rating: 7.8
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   423688:
     title: |-
       Long Zu
@@ -4793,7 +4793,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.0
     audience_rating: 7.0
-    critic_rating: 7.3
+    critic_rating: 7.2
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   394013:
@@ -7831,7 +7831,7 @@ metadata:
       The Fable
     original_title: |-
       The Fable
-    genre.sync: Action,Comedy,Drama,Romance,Thriller,Yakuza,Seinen,Urban,Primarily Adult Cast,Assassins,Guns,Surreal Comedy
+    genre.sync: Action,Comedy,Drama,Romance,Thriller,Yakuza,Seinen,Primarily Adult Cast,Urban,Assassins,Guns,Surreal Comedy
     studio: Tezuka Productions
     seasons:
       1:
@@ -7839,8 +7839,8 @@ metadata:
           The Fable
         label: Score,Watching,2024 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
+        user_rating: 7.0
+    audience_rating: 7.0
     critic_rating: 7.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -7917,7 +7917,7 @@ metadata:
       Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san
     original_title: |-
       Alya Sometimes Hides Her Feelings in Russian
-    genre.sync: Comedy,Romance,Slice of Life,School,Heterosexual,Tsundere,Primarily Teen Cast,Male Protagonist,Language Barrier,Estranged Family,Primarily Female Cast,Female Harem,Female Protagonist
+    genre.sync: Comedy,Romance,Slice of Life,School,Heterosexual,Tsundere,Primarily Teen Cast,Male Protagonist,Language Barrier,Estranged Family,Primarily Female Cast,Female Harem
     studio: Doga Kobo
     seasons:
       1:
