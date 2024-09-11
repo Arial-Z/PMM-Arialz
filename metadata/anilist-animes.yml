@@ -3763,8 +3763,8 @@ metadata:
           Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.2
+        user_rating: 7.3
+    audience_rating: 7.3
     critic_rating: 7.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -4929,7 +4929,7 @@ metadata:
       Make Heroine ga Oosugiru!
     original_title: |-
       Makeine: Too Many Losing Heroines!
-    genre.sync: Comedy,Romance,Unrequited Love,School,Heterosexual,Love Triangle,Male Protagonist,Satire,Primarily Teen Cast,School Club,Parody,Tomboy,Urban,Meta,Tanned Skin,Female Harem
+    genre.sync: Comedy,Romance,Unrequited Love,School,Heterosexual,Love Triangle,Male Protagonist,Primarily Teen Cast,Satire,School Club,Parody,Meta,Urban,Tomboy,Tanned Skin
     studio: A-1 Pictures
     seasons:
       1:
@@ -4981,13 +4981,13 @@ metadata:
       1:
         title: |-
           Maou Gun Saikyou no Majutsushi wa Ningen datta
-        label: Score,Watching,2024 Summer
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.8
-    audience_rating: 5.8
+        label: Score,Completed,2024 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 5.9
+    audience_rating: 5.9
     critic_rating: 6.2
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   426488:
     title: |-
       Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?
