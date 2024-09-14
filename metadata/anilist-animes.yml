@@ -977,8 +977,8 @@ metadata:
         user_rating: 6.1
     audience_rating: 6.1
     critic_rating: 6.4
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   426703:
     title: |-
       Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta
@@ -5125,8 +5125,8 @@ metadata:
         user_rating: 5.5
     audience_rating: 5.5
     critic_rating: 5.9
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   307375:
     title: |-
       Mob Psycho 100
@@ -7106,8 +7106,8 @@ metadata:
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.2
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   304316:
     title: |-
       Shouwa Genroku Rakugo Shinjuu
