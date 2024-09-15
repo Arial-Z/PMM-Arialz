@@ -211,7 +211,7 @@ metadata:
       16bit Sensation: ANOTHER LAYER
     original_title: |-
       16bit Sensation: Another Layer
-    genre.sync: Comedy,Slice of Life,Video Games,Software Development,Otaku Culture,Female Protagonist,Time Manipulation,Work,Drawing,Primarily Adult Cast,Historical,Anachronism
+    genre.sync: Comedy,Slice of Life,Video Games,Software Development,Time Manipulation,Otaku Culture,Female Protagonist,Work,Drawing,Primarily Adult Cast,Historical,Anachronism
     studio: Studio Silver
     seasons:
       1:
@@ -3269,13 +3269,13 @@ metadata:
       1:
         title: |-
           Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu
-        label: Score,Watching,2024 Summer
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.3
     audience_rating: 6.3
     critic_rating: 6.6
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   431014:
     title: |-
       Ishura
@@ -5120,13 +5120,13 @@ metadata:
       1:
         title: |-
           Mob kara Hajimaru Tansaku Eiyuutan
-        label: Score,Watching,2024 Summer
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 5.5
     audience_rating: 5.5
     critic_rating: 5.9
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   307375:
     title: |-
       Mob Psycho 100
