@@ -3203,7 +3203,7 @@ metadata:
       Isekai Shikkaku
     original_title: |-
       No Longer Allowed in Another World
-    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Supernatural,Isekai,Suicide,Male Protagonist,Nekomimi,Magic,Satire,Heterosexual
+    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Supernatural,Isekai,Suicide,Male Protagonist,Seinen,Nekomimi,Magic,Satire,Philosophy,Heterosexual
     studio: Atelier Pontdarc
     seasons:
       1:
@@ -4929,7 +4929,7 @@ metadata:
       Make Heroine ga Oosugiru!
     original_title: |-
       Makeine: Too Many Losing Heroines!
-    genre.sync: Comedy,Romance,Unrequited Love,School,Heterosexual,Love Triangle,Male Protagonist,Primarily Teen Cast,Satire,School Club,Parody,Meta,Urban,Tomboy,Tanned Skin
+    genre.sync: Comedy,Romance,Unrequited Love,School,Heterosexual,Love Triangle,Male Protagonist,Primarily Teen Cast,Satire,School Club,Parody,Meta,Urban,Tomboy,Female Harem,Tanned Skin
     studio: A-1 Pictures
     seasons:
       1:
@@ -4975,7 +4975,7 @@ metadata:
       Maou Gun Saikyou no Majutsushi wa Ningen datta
     original_title: |-
       The Strongest Magician in the Demon Lord's Army was a Human
-    genre.sync: Action,Adventure,Drama,Fantasy,Demons,CGI,War,Male Protagonist
+    genre.sync: Action,Adventure,Drama,Fantasy,Demons,War,Male Protagonist,CGI
     studio: studio A-CAT
     seasons:
       1:
@@ -4983,9 +4983,9 @@ metadata:
           Maou Gun Saikyou no Majutsushi wa Ningen datta
         label: Score,Completed,2024 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 5.9
-    audience_rating: 5.9
-    critic_rating: 6.2
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   426488:
@@ -6900,8 +6900,8 @@ metadata:
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.3
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   400573:
     title: |-
       Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita
@@ -7001,8 +7001,8 @@ metadata:
           Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru.
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 7.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -7537,7 +7537,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 4.4
     audience_rating: 4.4
-    critic_rating: 4.9
+    critic_rating: 4.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   353712:
@@ -7930,8 +7930,8 @@ metadata:
         user_rating: 7.7
     audience_rating: 7.7
     critic_rating: 7.9
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   281249:
     title: |-
       Tokyo Ghoul
