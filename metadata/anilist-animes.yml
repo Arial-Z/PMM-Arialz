@@ -2134,8 +2134,8 @@ metadata:
         user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.6
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   422721:
     title: |-
       Gimai Seikatsu
@@ -2154,8 +2154,8 @@ metadata:
         user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.3
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   267246:
     title: |-
       Gin no Saji
@@ -3231,8 +3231,8 @@ metadata:
           Isekai Suicide Squad
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
+        user_rating: 6.3
+    audience_rating: 6.3
     critic_rating: 6.6
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
@@ -5671,13 +5671,13 @@ metadata:
       1:
         title: |-
           Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai
-        label: Score,Watching,2024 Summer
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
     critic_rating: 6.8
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   433034:
     title: |-
       Oroka na Tenshi wa Akuma to Odoru
@@ -6164,8 +6164,8 @@ metadata:
         user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.8
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   439755:
     title: |-
       Re:Monster
@@ -7518,8 +7518,8 @@ metadata:
         user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.3
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   445253:
     title: |-
       Tasuuketsu
@@ -7843,7 +7843,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.0
     audience_rating: 7.0
-    critic_rating: 7.5
+    critic_rating: 7.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   378556:
@@ -7919,7 +7919,7 @@ metadata:
       Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san
     original_title: |-
       Alya Sometimes Hides Her Feelings in Russian
-    genre.sync: Comedy,Romance,Slice of Life,School,Heterosexual,Tsundere,Primarily Teen Cast,Estranged Family,Male Protagonist,Language Barrier,Primarily Female Cast,Female Harem
+    genre.sync: Comedy,Romance,Slice of Life,School,Heterosexual,Primarily Teen Cast,Tsundere,Estranged Family,Male Protagonist,Language Barrier,Primarily Female Cast,Female Harem,Love Triangle
     studio: Doga Kobo
     seasons:
       1:
@@ -7930,8 +7930,8 @@ metadata:
         user_rating: 7.7
     audience_rating: 7.7
     critic_rating: 7.9
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Planned
+    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   281249:
     title: |-
       Tokyo Ghoul
