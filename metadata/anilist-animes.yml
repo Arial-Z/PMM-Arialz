@@ -1768,6 +1768,26 @@ metadata:
     critic_rating: 8.2
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  372361:
+    title: |-
+      Houkago Teibou Nisshi
+    sort_title: |-
+      Houkago Teibou Nisshi
+    original_title: |-
+      Diary of Our Days at the Breakwater
+    genre.sync: Comedy,Slice of Life,Sports,Fishing,School Club,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Outdoor,Primarily Teen Cast,Iyashikei,Food,Coastal,Educational,Rural,Seinen
+    studio: Doga Kobo
+    seasons:
+      1:
+        title: |-
+          Houkago Teibou Nisshi
+        label: Score,2020 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.4
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   354170:
     title: |-
       Domestic na Kanojo
@@ -2975,26 +2995,6 @@ metadata:
     critic_rating: 7.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  372361:
-    title: |-
-      Houkago Teibou Nisshi
-    sort_title: |-
-      Houkago Teibou Nisshi
-    original_title: |-
-      Diary of Our Days at the Breakwater
-    genre.sync: Comedy,Slice of Life,Sports,Fishing,School Club,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Outdoor,Primarily Teen Cast,Iyashikei,Food,Coastal,Educational,Rural,Seinen
-    studio: Doga Kobo
-    seasons:
-      1:
-        title: |-
-          Houkago Teibou Nisshi
-        label: Score,2020 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 7.4
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   331787:
     title: |-
       Houseki no Kuni
@@ -3721,13 +3721,13 @@ metadata:
       1:
         title: |-
           Karasu wa Aruji wo Erabanai
-        label: Score,Watching,2024 Spring
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Spring
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.7
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   132941:
     title: |-
       Katanagatari
@@ -4729,13 +4729,13 @@ metadata:
       1:
         title: |-
           Madougushi Dahlia wa Utsumukanai
-        label: Score,Watching,2024 Summer
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
     critic_rating: 6.8
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   262094:
     title: |-
       Magi: The labyrinth of magic
