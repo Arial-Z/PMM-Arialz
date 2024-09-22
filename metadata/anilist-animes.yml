@@ -63,7 +63,7 @@ metadata:
           Major
         label: Score,Completed,2004 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.0
+        user_rating: 7.9
       2:
         title: |-
           Major S2
@@ -105,7 +105,7 @@ metadata:
       Fate/strange Fake
     original_title: |-
       Fate/strange Fake
-    genre.sync: Action,Adventure,Fantasy,Mystery,Supernatural,Battle Royale,Death Game
+    genre.sync: Action,Adventure,Fantasy,Mystery,Supernatural,Magic,Urban Fantasy,Urban,Battle Royale,Death Game
     studio: A-1 Pictures
     seasons:
       0:
@@ -251,7 +251,7 @@ metadata:
       86: Eighty Six
     original_title: |-
       86 Eighty-six
-    genre.sync: Action,Drama,Mecha,Sci-Fi,War,Military,Tragedy,Dystopian,Survival,Politics,Post-Apocalyptic,Female Protagonist,Proxy Battle,Class Struggle,Memory Manipulation,Robots,Male Protagonist,Conspiracy,Real Robot,Guns,Primarily Teen Cast
+    genre.sync: Action,Drama,Mecha,Sci-Fi,War,Class Struggle,Military,Tragedy,Dystopian,Survival,Politics,Post-Apocalyptic,Female Protagonist,Proxy Battle,Memory Manipulation,Male Protagonist,Conspiracy,Robots,Real Robot,Primarily Teen Cast,Guns
     studio: A-1 Pictures
     seasons:
       0:
@@ -1768,26 +1768,6 @@ metadata:
     critic_rating: 8.2
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  372361:
-    title: |-
-      Houkago Teibou Nisshi
-    sort_title: |-
-      Houkago Teibou Nisshi
-    original_title: |-
-      Diary of Our Days at the Breakwater
-    genre.sync: Comedy,Slice of Life,Sports,Fishing,School Club,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Outdoor,Primarily Teen Cast,Iyashikei,Food,Coastal,Educational,Rural,Seinen
-    studio: Doga Kobo
-    seasons:
-      1:
-        title: |-
-          Houkago Teibou Nisshi
-        label: Score,2020 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 7.4
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   354170:
     title: |-
       Domestic na Kanojo
@@ -2043,8 +2023,8 @@ metadata:
           Fairy Tail: 100 Years Quest
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.8
+        user_rating: 7.7
+    audience_rating: 7.7
     critic_rating: 7.9
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -2995,6 +2975,26 @@ metadata:
     critic_rating: 7.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  372361:
+    title: |-
+      Houkago Teibou Nisshi
+    sort_title: |-
+      Houkago Teibou Nisshi
+    original_title: |-
+      Diary of Our Days at the Breakwater
+    genre.sync: Comedy,Slice of Life,Sports,Fishing,School Club,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Outdoor,Primarily Teen Cast,Iyashikei,Food,Coastal,Educational,Rural,Seinen
+    studio: Doga Kobo
+    seasons:
+      1:
+        title: |-
+          Houkago Teibou Nisshi
+        label: Score,2020 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.4
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   331787:
     title: |-
       Houseki no Kuni
@@ -5282,8 +5282,8 @@ metadata:
           Naze Boku no Sekai wo Daremo Oboeteinai no ka?
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
+        user_rating: 6.2
+    audience_rating: 6.2
     critic_rating: 6.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
