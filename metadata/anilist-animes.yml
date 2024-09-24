@@ -3209,13 +3209,13 @@ metadata:
       1:
         title: |-
           Isekai Shikkaku
-        label: Score,Watching,2024 Summer
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 7.1
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   436846:
     title: |-
       Isekai Suicide Squad
@@ -3766,8 +3766,8 @@ metadata:
         user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.5
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   352853:
     title: |-
       Kaze ga Tsuyoku Fuiteiru
