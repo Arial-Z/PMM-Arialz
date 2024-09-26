@@ -2133,7 +2133,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.4
     audience_rating: 7.4
-    critic_rating: 7.6
+    critic_rating: 7.9
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   422721:
@@ -2153,7 +2153,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.2
     audience_rating: 7.2
-    critic_rating: 7.3
+    critic_rating: 7.4
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   267246:
@@ -6529,7 +6529,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.6
     audience_rating: 6.6
-    critic_rating: 6.9
+    critic_rating: 6.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   425756:
@@ -6764,8 +6764,8 @@ metadata:
         user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   428030:
     title: |-
       Sentai Daishikkaku
@@ -7841,8 +7841,8 @@ metadata:
           The Fable
         label: Score,Watching,2024 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
+        user_rating: 7.1
+    audience_rating: 7.1
     critic_rating: 7.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -8916,8 +8916,8 @@ metadata:
           Yuru Camp△ SEASON 3
         label: Score,2024 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.0
-    audience_rating: 8.2
+        user_rating: 7.9
+    audience_rating: 8.1
     critic_rating: 8.3
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
