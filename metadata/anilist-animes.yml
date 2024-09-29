@@ -4518,6 +4518,24 @@ metadata:
     critic_rating: 7.3
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  446389:
+    title: |-
+      Nageki no Bourei ha Intai Shitai
+    sort_title: |-
+      Nageki no Bourei ha Intai Shitai
+    original_title: |-
+      Let This Grieving Soul Retire
+    genre.sync: Action,Comedy,Fantasy
+    studio: Zero-G
+    seasons:
+      1:
+        title: |-
+          Nageki no Bourei ha Intai Shitai
+        label: Score,Watching,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   318161:
     title: |-
       Little Witch Academia (TV)
@@ -5030,6 +5048,7 @@ metadata:
         label: Score,2024 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 0
+    audience_rating: 6.2
     critic_rating: 6.6
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
@@ -7713,10 +7732,16 @@ metadata:
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.0
+      2:
+        title: |-
+          Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season
+        label: Score,Watching,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
     audience_rating: 7.0
     critic_rating: 7.1
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   423362:
     title: |-
       Tensei Oujo to Tensai Reijou no Mahou Kakumei
@@ -8164,13 +8189,13 @@ metadata:
       1:
         title: |-
           Tsue to Tsurugi no Wistoria
-        label: Score,Watching,2024 Summer
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.6
     audience_rating: 7.6
     critic_rating: 7.8
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   325197:
     title: |-
       Tsuki ga Kirei
