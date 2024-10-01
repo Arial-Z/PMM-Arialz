@@ -3028,6 +3028,24 @@ metadata:
     critic_rating: 9.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  438125:
+    title: |-
+      Rekishi ni Nokoru Akujo ni Naruzo
+    sort_title: |-
+      Rekishi ni Nokoru Akujo ni Naruzo
+    original_title: |-
+      I’ll Become a Villainess Who Goes Down in History
+    genre.sync: Comedy,Fantasy,Romance,Villainess,Royal Affairs,Female Protagonist,Reincarnation,Josei
+    studio: Maho Film
+    seasons:
+      1:
+        title: |-
+          Rekishi ni Nokoru Akujo ni Naruzo
+        label: Score,Watching,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   370377:
     title: |-
       Id: Invaded
@@ -5185,24 +5203,6 @@ metadata:
     critic_rating: 6.5
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
-  449245:
-    title: |-
-      Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru
-    sort_title: |-
-      Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru
-    original_title: |-
-      The Most Notorious "Talker" Runs the World's Greatest Clan
-    genre.sync: Action,Adventure,Comedy,Fantasy,Psychological
-    studio: Felix Film
-    seasons:
-      1:
-        title: |-
-          Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru
-        label: Score,Watching,2024 Fall
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -5238,7 +5238,7 @@ metadata:
       Nageki no Bourei ha Intai Shitai
     original_title: |-
       Let This Grieving Soul Retire
-    genre.sync: Action,Comedy,Fantasy
+    genre.sync: Action,Comedy,Fantasy,Male Protagonist
     studio: Zero-G
     seasons:
       1:
@@ -5246,7 +5246,9 @@ metadata:
           Nageki no Bourei ha Intai Shitai
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.9
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   413333:
@@ -6432,6 +6434,24 @@ metadata:
     critic_rating: 8.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  449245:
+    title: |-
+      Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru
+    sort_title: |-
+      Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru
+    original_title: |-
+      The Most Notorious "Talker" Runs the World's Greatest Clan
+    genre.sync: Action,Adventure,Comedy,Fantasy,Psychological
+    studio: Felix Film
+    seasons:
+      1:
+        title: |-
+          Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru
+        label: Score,Watching,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   415378:
     title: |-
       Saikyou Onmyouji no Isekai Tenseiki
@@ -7750,7 +7770,13 @@ metadata:
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.0
-    audience_rating: 7.0
+      2:
+        title: |-
+          Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season
+        label: Score,Watching,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.1
+    audience_rating: 7.1
     critic_rating: 7.1
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
