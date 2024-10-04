@@ -165,7 +165,7 @@ metadata:
       2.5 Jigen no Ririsa
     original_title: |-
       2.5 Dimensional Seduction
-    genre.sync: Comedy,Ecchi,Romance,Slice of Life,Cosplay,Otaku Culture,Male Protagonist,Heterosexual
+    genre.sync: Comedy,Ecchi,Romance,Slice of Life,Cosplay,Otaku Culture,Male Protagonist
     studio: J.C. Staff
     seasons:
       1:
@@ -835,8 +835,8 @@ metadata:
         user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.2
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   413522:
     title: |-
       Bocchi the Rock!
@@ -1483,7 +1483,9 @@ metadata:
           Dandadan
         label: Score,2024 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 8.5
+    audience_rating: 8.5
+    critic_rating: 8.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   285357:
@@ -1619,7 +1621,7 @@ metadata:
       Dead Dead Demon's Dededededestruction
     original_title: |-
       Dead Dead Demons Dededede Destruction
-    genre.sync: Comedy,Drama,Sci-Fi,Slice of Life,Urban,Coming of Age,Aliens,Tragedy,Denpa,Philosophy,Politics,Post-Apocalyptic,Achronological Order,Alternate Universe,Military,Female Protagonist,Seinen,School,Primarily Female Cast,Dystopian,Anti-Hero
+    genre.sync: Comedy,Drama,Sci-Fi,Slice of Life,Urban,Aliens,Achronological Order,Coming of Age,Tragedy,Post-Apocalyptic,Philosophy,Denpa,Politics,Alternate Universe,Terrorism,Anti-Hero,Military,Female Protagonist,Seinen,Time Manipulation,Primarily Female Cast,Dystopian,Gore,School
     studio: Production +h
     seasons:
       1:
@@ -1941,8 +1943,8 @@ metadata:
           Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen
         label: Score,2024 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    audience_rating: 9.9
+        user_rating: 7.7
+    audience_rating: 7.5
     critic_rating: 7.6
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
@@ -1961,9 +1963,9 @@ metadata:
           Dungeon no Naka no Hito
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 6.8
+        user_rating: 6.9
+    audience_rating: 6.9
+    critic_rating: 7.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   421273:
@@ -2147,7 +2149,7 @@ metadata:
       Giji Harem
     original_title: |-
       Pseudo Harem
-    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Acting,Episodic,School,Iyashikei,Female Protagonist,Parody,Primarily Teen Cast,School Club,Male Protagonist,Shounen
+    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Acting,Episodic,School,Iyashikei,Female Protagonist,School Club,Parody,Primarily Teen Cast,Male Protagonist,Shounen
     studio: Nomad
     seasons:
       1:
@@ -2167,7 +2169,7 @@ metadata:
       Gimai Seikatsu
     original_title: |-
       Days with My Stepsister
-    genre.sync: Romance,Slice of Life,Family Life,Inseki,Heterosexual,Philosophy,Male Protagonist,Seinen,Female Protagonist,Kuudere,Psychosexual,School,Iyashikei
+    genre.sync: Romance,Slice of Life,Family Life,Inseki,Heterosexual,Philosophy,Male Protagonist,Female Protagonist,Seinen,Kuudere,Psychosexual,School,Iyashikei
     studio: Studio DEEN
     seasons:
       1:
@@ -2351,24 +2353,6 @@ metadata:
     critic_rating: 8.1
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  447609:
-    title: |-
-      Sayonara Ryuusei Konnichiwa Jinsei
-    sort_title: |-
-      Sayonara Ryuusei Konnichiwa Jinsei
-    original_title: |-
-      Good Bye, Dragon Life
-    genre.sync: Action,Adventure,Fantasy
-    studio: SynergySP
-    seasons:
-      1:
-        title: |-
-          Sayonara Ryuusei Konnichiwa Jinsei
-        label: Score,Watching,2024 Fall
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   319981:
     title: |-
       GRANBLUE FANTASY The Animation
@@ -2648,9 +2632,9 @@ metadata:
           Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made
         label: Score,Completed,2024 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
-    critic_rating: 6.4
+        user_rating: 6.4
+    audience_rating: 6.4
+    critic_rating: 6.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   401856:
@@ -2935,6 +2919,26 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  445009:
+    title: |-
+      Hitoribocchi no Isekai Kouryaku
+    sort_title: |-
+      Hitoribocchi no Isekai Kouryaku
+    original_title: |-
+      Loner Life in Another World
+    genre.sync: Action,Adventure,Fantasy,Isekai
+    studio: Hayabusa Film
+    seasons:
+      1:
+        title: |-
+          Hitoribocchi no Isekai Kouryaku
+        label: Score,Watching,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 5.9
+    audience_rating: 5.9
+    critic_rating: 6.5
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   366263:
     title: |-
       Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
@@ -3275,7 +3279,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.3
     audience_rating: 6.3
-    critic_rating: 6.6
+    critic_rating: 6.5
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   406592:
@@ -3757,7 +3761,7 @@ metadata:
       Karasu wa Aruji wo Erabanai
     original_title: |-
       YATAGARASU: The Raven Does Not Choose Its Master
-    genre.sync: Action,Drama,Fantasy,Supernatural,Royal Affairs,Conspiracy,Shapeshifting,Primarily Adult Cast,Politics,Male Protagonist,Adoption,Ojou-sama,Estranged Family,Ensemble Cast,Mythology,Seinen
+    genre.sync: Action,Drama,Fantasy,Supernatural,Royal Affairs,Conspiracy,Shapeshifting,Politics,Male Protagonist,Primarily Adult Cast,Philosophy,Ojou-sama,Estranged Family,Assassins,Adoption,Swordplay,Seinen,Mythology,Gore
     studio: Studio Pierrot
     seasons:
       1:
@@ -3767,7 +3771,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.6
     audience_rating: 7.6
-    critic_rating: 8.0
+    critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   132941:
@@ -4241,9 +4245,9 @@ metadata:
           Kono Sekai wa Fukanzen Sugiru
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.9
-    audience_rating: 5.9
-    critic_rating: 6.2
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.6
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   420657:
@@ -4582,24 +4586,6 @@ metadata:
     critic_rating: 7.8
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
-  445009:
-    title: |-
-      Hitoribocchi no Isekai Kouryaku
-    sort_title: |-
-      Hitoribocchi no Isekai Kouryaku
-    original_title: |-
-      Loner Life in Another World
-    genre.sync: Action,Adventure,Fantasy,Isekai
-    studio: Hayabusa Film
-    seasons:
-      1:
-        title: |-
-          Hitoribocchi no Isekai Kouryaku
-        label: Score,2024 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   423688:
     title: |-
       Long Zu
@@ -4617,8 +4603,8 @@ metadata:
           Long Zu
         label: Score,Watching,2022 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
+        user_rating: 7.2
+    audience_rating: 7.2
     critic_rating: 7.2
     label: Planned,Watching
     label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
@@ -5155,7 +5141,9 @@ metadata:
           Mecha-ude (TV)
         label: Score,2024 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.4
+    audience_rating: 6.4
+    critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   72454:
@@ -5388,7 +5376,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.2
     audience_rating: 6.2
-    critic_rating: 6.4
+    critic_rating: 6.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   309206:
@@ -6408,8 +6396,8 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 0
     critic_rating: 7.6
-    label: Planned,Watching
-    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   432613:
     title: |-
       Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega
@@ -6679,11 +6667,29 @@ metadata:
           Sasayaku You ni Koi wo Utau
         label: Score,2024 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
+        user_rating: 6.5
+    audience_rating: 6.5
     critic_rating: 6.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+  447609:
+    title: |-
+      Sayonara Ryuusei Konnichiwa Jinsei
+    sort_title: |-
+      Sayonara Ryuusei Konnichiwa Jinsei
+    original_title: |-
+      Good Bye, Dragon Life
+    genre.sync: Action,Adventure,Fantasy
+    studio: SynergySP
+    seasons:
+      1:
+        title: |-
+          Sayonara Ryuusei Konnichiwa Jinsei
+        label: Score,Watching,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   425756:
     title: |-
       Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
@@ -6905,7 +6911,7 @@ metadata:
       Senpai wa Otokonoko
     original_title: |-
       Senpai is an Otokonoko
-    genre.sync: Comedy,Drama,Romance,Crossdressing,Coming of Age,Love Triangle,LGBTQ+ Themes,Primarily Teen Cast,School,Femboy,Bullying,Female Protagonist,Agender,Heterosexual,Male Protagonist,Bisexual,Mixed Gender Harem,Josei,Boys' Love
+    genre.sync: Comedy,Drama,Romance,Crossdressing,Coming of Age,LGBTQ+ Themes,Love Triangle,Agender,Primarily Teen Cast,School,Femboy,Bullying,Female Protagonist,Heterosexual,Male Protagonist,Transgender,Bisexual,Boys' Love,Josei,Aromantic
     studio: project No.9
     seasons:
       1:
@@ -6913,8 +6919,8 @@ metadata:
           Senpai wa Otokonoko
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
+        user_rating: 7.3
+    audience_rating: 7.3
     critic_rating: 7.3
     label: Planned
     label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -7659,7 +7665,7 @@ metadata:
       Tasogare Outfocus
     original_title: |-
       Twilight Out of Focus
-    genre.sync: Drama,Romance,Boys' Love,LGBTQ+ Themes,Filmmaking,School,School Club,Primarily Teen Cast,Acting,Male Protagonist,Primarily Male Cast,Ensemble Cast
+    genre.sync: Drama,Romance,Boys' Love,LGBTQ+ Themes,Filmmaking,School,School Club,Acting,Male Protagonist,Primarily Teen Cast,Primarily Male Cast,Ensemble Cast
     studio: Studio DEEN
     seasons:
       1:
