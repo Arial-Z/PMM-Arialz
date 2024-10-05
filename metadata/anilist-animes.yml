@@ -462,10 +462,16 @@ metadata:
         label: Score,Completed,2024 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.0
-    audience_rating: 7.1
-    critic_rating: 7.3
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+      4:
+        title: |-
+          Ao no Exorcist: Yuki no Hate-hen
+        label: Score,2024 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    audience_rating: 10.7
+    critic_rating: 7.2
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   407840:
     title: |-
       Aoashi
@@ -558,8 +564,8 @@ metadata:
         user_rating: 6.9
     audience_rating: 6.9
     critic_rating: 7.2
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   426440:
     title: |-
       Ayaka
@@ -833,6 +839,12 @@ metadata:
         label: Score,Completed,2022 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.1
+      2:
+        title: |-
+          Blue Lock VS. U-20 JAPAN
+        label: Score,2024 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
     audience_rating: 8.1
     critic_rating: 8.2
     label: Airing,Completed
@@ -1475,19 +1487,19 @@ metadata:
       Dandadan
     original_title: |-
       Dan Da Dan
-    genre.sync: Action,Comedy,Drama,Romance,Sci-Fi,Supernatural,Urban Fantasy,Youkai,Aliens,Surreal Comedy,Shounen,Primarily Teen Cast,Henshin,Male Protagonist,Female Protagonist,Heterosexual,Super Power,Cosmic Horror
+    genre.sync: Action,Comedy,Drama,Romance,Sci-Fi,Supernatural,Urban Fantasy,Youkai,Aliens,Surreal Comedy,Shounen,Female Protagonist,Ghost,Primarily Teen Cast,Heterosexual,Male Protagonist,Super Power,Cosmic Horror,Henshin
     studio: Science SARU
     seasons:
       1:
         title: |-
           Dandadan
-        label: Score,2024 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.5
     audience_rating: 8.5
     critic_rating: 8.8
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   285357:
     title: |-
       Danna ga Nani wo Itteiru ka Wakaranai Ken
@@ -1941,13 +1953,13 @@ metadata:
       5:
         title: |-
           Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen
-        label: Score,2024 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.7
     audience_rating: 7.5
     critic_rating: 7.6
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   438420:
     title: |-
       Dungeon no Naka no Hito
@@ -5075,9 +5087,9 @@ metadata:
           Maou-sama, Retry! R
         label: Score,2024 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    audience_rating: 6.2
-    critic_rating: 6.6
+        user_rating: 6.0
+    audience_rating: 6.1
+    critic_rating: 6.3
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   397965:
@@ -5139,13 +5151,13 @@ metadata:
       1:
         title: |-
           Mecha-ude (TV)
-        label: Score,2024 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.4
     audience_rating: 6.4
     critic_rating: 7.1
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   72454:
     title: |-
       Meitantei Conan
@@ -6305,13 +6317,13 @@ metadata:
       3:
         title: |-
           Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season
-        label: Score,2024 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.6
     audience_rating: 8.3
     critic_rating: 8.5
-    label: AA Winner,Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: AA Winner,Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   438125:
     title: |-
       Rekishi ni Nokoru Akujo ni Naruzo
