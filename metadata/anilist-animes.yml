@@ -139,7 +139,7 @@ metadata:
       [Oshi no Ko]
     original_title: |-
       Oshi No Ko
-    genre.sync: Drama,Mystery,Psychological,Supernatural,Tragedy,Acting,Idol,Revenge,Twins,Urban,Male Protagonist,Reincarnation,Seinen,Detective,Anti-Hero,Female Protagonist,Coming of Age,Time Skip,Orphan,Ensemble Cast,Age Regression
+    genre.sync: Drama,Mystery,Psychological,Supernatural,Acting,Tragedy,Idol,Revenge,Twins,Urban,Male Protagonist,Reincarnation,Seinen,Detective,Female Protagonist,Anti-Hero,Coming of Age,Tsundere,Time Skip,Orphan,Ensemble Cast,Age Regression
     studio: Doga Kobo
     seasons:
       1:
@@ -156,8 +156,8 @@ metadata:
         user_rating: 8.4
     audience_rating: 8.4
     critic_rating: 8.6
-    label: AA Winner,Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: AA Winner,Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   428168:
     title: |-
       2.5 Jigen no Ririsa
@@ -251,7 +251,7 @@ metadata:
       86: Eighty Six
     original_title: |-
       86 Eighty-six
-    genre.sync: Action,Drama,Mecha,Sci-Fi,War,Class Struggle,Military,Tragedy,Dystopian,Survival,Politics,Post-Apocalyptic,Female Protagonist,Proxy Battle,Memory Manipulation,Male Protagonist,Conspiracy,Robots,Real Robot,Primarily Teen Cast,Guns
+    genre.sync: Action,Drama,Mecha,Sci-Fi,War,Class Struggle,Military,Tragedy,Dystopian,Survival,Post-Apocalyptic,Politics,Female Protagonist,Proxy Battle,Memory Manipulation,Conspiracy,Male Protagonist,Robots,Real Robot,Guns,Primarily Teen Cast
     studio: A-1 Pictures
     seasons:
       0:
@@ -467,9 +467,9 @@ metadata:
           Ao no Exorcist: Yuki no Hate-hen
         label: Score,2024 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    audience_rating: 10.7
-    critic_rating: 7.2
+        user_rating: 6.7
+    audience_rating: 7.0
+    critic_rating: 7.3
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   407840:
@@ -553,19 +553,19 @@ metadata:
       ATRI: My Dear Moments
     original_title: |-
       ATRI -My Dear Moments-
-    genre.sync: Drama,Romance,Sci-Fi,Heterosexual,Female Protagonist,Environmental,Disability,Robots,Post-Apocalyptic,Dystopian,Male Protagonist,Artificial Intelligence
+    genre.sync: Drama,Romance,Sci-Fi,Heterosexual,Female Protagonist,Environmental,Disability,Robots,Dystopian,Post-Apocalyptic,Male Protagonist,Artificial Intelligence
     studio: TROYCA
     seasons:
       1:
         title: |-
           ATRI: My Dear Moments
-        label: Score,Watching,2024 Summer
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.9
     audience_rating: 6.9
     critic_rating: 7.2
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   426440:
     title: |-
       Ayaka
@@ -844,9 +844,9 @@ metadata:
           Blue Lock VS. U-20 JAPAN
         label: Score,2024 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 8.1
     audience_rating: 8.1
-    critic_rating: 8.2
+    critic_rating: 8.1
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   413522:
@@ -5087,8 +5087,8 @@ metadata:
           Maou-sama, Retry! R
         label: Score,2024 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.0
-    audience_rating: 6.1
+        user_rating: 5.7
+    audience_rating: 5.9
     critic_rating: 6.3
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
@@ -5386,8 +5386,8 @@ metadata:
           Naze Boku no Sekai wo Daremo Oboeteinai no ka?
         label: Score,Completed,2024 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
+        user_rating: 6.3
+    audience_rating: 6.3
     critic_rating: 6.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -7885,7 +7885,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
-    critic_rating: 7.1
+    critic_rating: 7.3
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   423362:
@@ -9036,13 +9036,13 @@ metadata:
       1:
         title: |-
           Yozakura-san Chi no Daisakusen
-        label: Score,Watching,2024 Spring
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Spring
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.2
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   436899:
     title: |-
       Yubisaki to Renren
