@@ -823,6 +823,32 @@ metadata:
     critic_rating: 7.1
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+  408629:
+    title: |-
+      Blue Lock
+    sort_title: |-
+      Blue Lock
+    original_title: |-
+      Blue Lock
+    genre.sync: Action,Drama,Sports,Football,Male Protagonist,Shounen,Athletics,Primarily Male Cast,Battle Royale,Primarily Teen Cast,Ensemble Cast,Super Power
+    studio: 8-bit
+    seasons:
+      1:
+        title: |-
+          Blue Lock
+        label: Score,Completed,2022 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.1
+      2:
+        title: |-
+          Blue Lock VS. U-20 JAPAN
+        label: Score,2024 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 8.1
+    audience_rating: 8.1
+    critic_rating: 8.1
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   413522:
     title: |-
       Bocchi the Rock!
@@ -1077,32 +1103,6 @@ metadata:
     critic_rating: 8.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  408629:
-    title: |-
-      Blue Lock
-    sort_title: |-
-      Blue Lock
-    original_title: |-
-      Blue Lock
-    genre.sync: Action,Drama,Sports,Football,Male Protagonist,Shounen,Athletics,Primarily Male Cast,Battle Royale,Primarily Teen Cast,Ensemble Cast,Super Power
-    studio: 8-bit
-    seasons:
-      1:
-        title: |-
-          Blue Lock
-        label: Score,Completed,2022 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.1
-      2:
-        title: |-
-          Blue Lock VS. U-20 JAPAN
-        label: Score,2024 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.1
-    audience_rating: 8.1
-    critic_rating: 8.1
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   339203:
     title: |-
       Captain Tsubasa (2018)
@@ -3767,7 +3767,8 @@ metadata:
           Kamonohashi Ron no Kindan Suiri 2nd Season
         label: Score,2024 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.7
+    audience_rating: 7.0
     critic_rating: 7.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -5313,7 +5314,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
-    critic_rating: 6.9
+    critic_rating: 7.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   413333:
@@ -6544,7 +6545,9 @@ metadata:
           Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.0
+    audience_rating: 6.0
+    critic_rating: 6.7
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   415378:
@@ -6812,12 +6815,13 @@ metadata:
       2:
         title: |-
           Seirei Gensouki 2
-        label: Score,2024 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 7.1
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.4
+    audience_rating: 7.2
+    critic_rating: 7.2
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   345596:
     title: |-
       Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
@@ -7913,8 +7917,8 @@ metadata:
           Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
+        user_rating: 7.0
+    audience_rating: 7.0
     critic_rating: 7.3
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
