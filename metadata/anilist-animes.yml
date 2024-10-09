@@ -1800,6 +1800,25 @@ metadata:
     critic_rating: 8.2
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  434310:
+    title: |-
+      Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu
+    sort_title: |-
+      Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu
+    original_title: |-
+      The Do-Over Damsel Conquers the Dragon Emperor
+    genre.sync: Fantasy,Romance,Age Gap,Heterosexual
+    studio: J.C. Staff
+    seasons:
+      1:
+        title: |-
+          Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu
+        label: Score,Watching,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 7.1
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   354170:
     title: |-
       Domestic na Kanojo
@@ -3261,7 +3280,7 @@ metadata:
       Isekai Shikkaku
     original_title: |-
       No Longer Allowed in Another World
-    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Supernatural,Isekai,Suicide,Male Protagonist,Seinen,Nekomimi,Magic,Satire,Philosophy
+    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Supernatural,Isekai,Suicide,Male Protagonist,Seinen,Nekomimi,Magic,Satire,Philosophy,Travel
     studio: Atelier Pontdarc
     seasons:
       1:
@@ -3819,7 +3838,7 @@ metadata:
       Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.
     original_title: |-
       The Magical Girl and the Evil Lieutenant Used to Be Archenemies
-    genre.sync: Comedy,Fantasy,Mahou Shoujo,Romance,Heterosexual,Episodic,Tsundere,Henshin,Urban Fantasy,Magic,Age Gap,Tokusatsu
+    genre.sync: Comedy,Fantasy,Mahou Shoujo,Romance,Heterosexual,Episodic,Tsundere,Henshin,Urban Fantasy,Magic,Age Gap,Shounen,Tokusatsu
     studio: bones
     seasons:
       1:
@@ -4993,7 +5012,7 @@ metadata:
       Make Heroine ga Oosugiru!
     original_title: |-
       Makeine: Too Many Losing Heroines!
-    genre.sync: Comedy,Romance,Unrequited Love,School,Heterosexual,Male Protagonist,Primarily Teen Cast,Love Triangle,School Club,Parody,Satire,Female Protagonist,Meta,Tomboy,Urban,Tanned Skin
+    genre.sync: Comedy,Romance,Unrequited Love,School,Heterosexual,Love Triangle,Male Protagonist,Primarily Teen Cast,School Club,Parody,Satire,Female Protagonist,Meta,Tomboy,Urban,Tanned Skin
     studio: A-1 Pictures
     seasons:
       1:
@@ -5003,7 +5022,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.2
     audience_rating: 8.2
-    critic_rating: 8.4
+    critic_rating: 8.3
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   375927:
@@ -5039,7 +5058,7 @@ metadata:
       Maou Gun Saikyou no Majutsushi wa Ningen datta
     original_title: |-
       The Strongest Magician in the Demon Lord's Army was a Human
-    genre.sync: Action,Adventure,Drama,Fantasy,Demons,War,CGI,Male Protagonist
+    genre.sync: Action,Adventure,Drama,Fantasy,War,Demons,CGI,Male Protagonist
     studio: studio A-CAT
     seasons:
       1:
@@ -5047,8 +5066,8 @@ metadata:
           Maou Gun Saikyou no Majutsushi wa Ningen datta
         label: Score,Completed,2024 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
+        user_rating: 6.3
+    audience_rating: 6.3
     critic_rating: 6.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -6337,7 +6356,7 @@ metadata:
       Rekishi ni Nokoru Akujo ni Naruzo
     original_title: |-
       I’ll Become a Villainess Who Goes Down in History
-    genre.sync: Comedy,Fantasy,Romance,Villainess,Royal Affairs,Female Protagonist,Reincarnation,Josei
+    genre.sync: Comedy,Fantasy,Romance,Villainess,Female Protagonist,Reincarnation,Josei,Royal Affairs
     studio: Maho Film
     seasons:
       1:
@@ -6347,7 +6366,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.4
     audience_rating: 6.4
-    critic_rating: 6.8
+    critic_rating: 6.9
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   299508:
@@ -7741,7 +7760,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 4.4
     audience_rating: 4.4
-    critic_rating: 4.8
+    critic_rating: 4.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   353712:
