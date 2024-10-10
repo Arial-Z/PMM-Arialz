@@ -153,11 +153,11 @@ metadata:
           [Oshi no Ko] 2nd Season
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.4
-    audience_rating: 8.4
+        user_rating: 8.6
+    audience_rating: 8.6
     critic_rating: 8.6
-    label: AA Winner,Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: AA Winner,Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   428168:
     title: |-
       2.5 Jigen no Ririsa
@@ -1800,25 +1800,6 @@ metadata:
     critic_rating: 8.2
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  434310:
-    title: |-
-      Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu
-    sort_title: |-
-      Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu
-    original_title: |-
-      The Do-Over Damsel Conquers the Dragon Emperor
-    genre.sync: Fantasy,Romance,Age Gap,Heterosexual
-    studio: J.C. Staff
-    seasons:
-      1:
-        title: |-
-          Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu
-        label: Score,Watching,2024 Fall
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 7.1
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   354170:
     title: |-
       Domestic na Kanojo
@@ -2957,7 +2938,7 @@ metadata:
       Hitoribocchi no Isekai Kouryaku
     original_title: |-
       Loner Life in Another World
-    genre.sync: Action,Adventure,Fantasy,Isekai
+    genre.sync: Action,Adventure,Fantasy,Isekai,Female Harem,Meta
     studio: Hayabusa Film
     seasons:
       1:
@@ -2965,8 +2946,8 @@ metadata:
           Hitoribocchi no Isekai Kouryaku
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.9
-    audience_rating: 5.9
+        user_rating: 6.0
+    audience_rating: 6.0
     critic_rating: 6.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -6430,9 +6411,11 @@ metadata:
       2:
         title: |-
           Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran
+        label: Score,2024 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 7.6
+        user_rating: 7.5
+    audience_rating: 7.4
+    critic_rating: 7.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   432613:
@@ -8062,7 +8045,7 @@ metadata:
       The Fable
     original_title: |-
       The Fable
-    genre.sync: Action,Comedy,Drama,Romance,Thriller,Yakuza,Seinen,Primarily Adult Cast,Urban,Assassins,Guns,Surreal Comedy,Work,Anti-Hero,Acrobatics,Crime,Revenge,Heterosexual
+    genre.sync: Action,Comedy,Drama,Romance,Thriller,Yakuza,Seinen,Work,Primarily Adult Cast,Assassins,Urban,Guns,Surreal Comedy,Crime,Anti-Hero,Acrobatics,Heterosexual
     studio: Tezuka Productions
     seasons:
       1:
@@ -8070,8 +8053,8 @@ metadata:
           The Fable
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.4
+        user_rating: 7.5
+    audience_rating: 7.5
     critic_rating: 8.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -8148,7 +8131,7 @@ metadata:
       Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san
     original_title: |-
       Alya Sometimes Hides Her Feelings in Russian
-    genre.sync: Comedy,Romance,Slice of Life,School,Primarily Teen Cast,Heterosexual,Estranged Family,Tsundere,Male Protagonist,Language Barrier,Primarily Female Cast,Love Triangle,Female Harem
+    genre.sync: Comedy,Romance,Slice of Life,School,Heterosexual,Estranged Family,Primarily Teen Cast,Tsundere,Male Protagonist,Politics,Language Barrier,Primarily Female Cast,Love Triangle,Female Harem,Female Protagonist
     studio: Doga Kobo
     seasons:
       1:
@@ -8272,7 +8255,7 @@ metadata:
       Tonari no Youkai-san
     original_title: |-
       Tonari no Yokai-san
-    genre.sync: Slice of Life,Supernatural,Youkai,Urban Fantasy,Rural,Josei,Alternate Universe,Iyashikei
+    genre.sync: Slice of Life,Supernatural,Youkai,Urban Fantasy,Rural,Josei,Heterosexual,Alternate Universe,Iyashikei
     studio: LIDENFILMS
     seasons:
       1:
@@ -8984,6 +8967,26 @@ metadata:
     critic_rating: 7.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  434310:
+    title: |-
+      Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu
+    sort_title: |-
+      Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu
+    original_title: |-
+      The Do-Over Damsel Conquers the Dragon Emperor
+    genre.sync: Fantasy,Romance,Age Gap,Heterosexual
+    studio: J.C. Staff
+    seasons:
+      1:
+        title: |-
+          Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu
+        label: Score,Watching,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 7.1
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   412374:
     title: |-
       Yofukashi no Uta
@@ -9145,8 +9148,8 @@ metadata:
           Yuru Camp△ SEASON 3
         label: Score,2024 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.0
-    audience_rating: 8.2
+        user_rating: 7.9
+    audience_rating: 8.1
     critic_rating: 8.3
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
