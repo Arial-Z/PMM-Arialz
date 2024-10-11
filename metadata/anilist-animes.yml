@@ -173,8 +173,8 @@ metadata:
           2.5 Jigen no Ririsa
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
+        user_rating: 6.7
+    audience_rating: 6.7
     critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -1487,7 +1487,7 @@ metadata:
       Dandadan
     original_title: |-
       Dan Da Dan
-    genre.sync: Action,Comedy,Drama,Romance,Sci-Fi,Supernatural,Urban Fantasy,Youkai,Aliens,Surreal Comedy,Shounen,Female Protagonist,Ghost,Primarily Teen Cast,Heterosexual,Male Protagonist,Super Power,Cosmic Horror,Henshin
+    genre.sync: Action,Comedy,Drama,Romance,Sci-Fi,Supernatural,Ghost,Urban Fantasy,Primarily Teen Cast,Youkai,Aliens,Surreal Comedy,Super Power,Shounen,Female Protagonist,Male Protagonist,Heterosexual,Cosmic Horror,Henshin
     studio: Science SARU
     seasons:
       1:
@@ -1495,9 +1495,9 @@ metadata:
           Dandadan
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.5
-    audience_rating: 8.5
-    critic_rating: 8.8
+        user_rating: 8.4
+    audience_rating: 8.4
+    critic_rating: 8.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   285357:
@@ -1633,7 +1633,7 @@ metadata:
       Dead Dead Demon's Dededededestruction
     original_title: |-
       Dead Dead Demons Dededede Destruction
-    genre.sync: Comedy,Drama,Sci-Fi,Slice of Life,Urban,Aliens,Achronological Order,Coming of Age,Tragedy,Post-Apocalyptic,Philosophy,Denpa,Politics,Alternate Universe,Terrorism,Anti-Hero,Military,Female Protagonist,Seinen,Time Manipulation,Primarily Female Cast,Dystopian,Gore,School
+    genre.sync: Comedy,Drama,Sci-Fi,Slice of Life,Urban,Aliens,Philosophy,Coming of Age,Politics,Post-Apocalyptic,Tragedy,Denpa,Anti-Hero,Alternate Universe,Female Protagonist,Terrorism,Military,Time Manipulation,Crossdressing,Seinen,Achronological Order,Primarily Female Cast,LGBTQ+ Themes,Gore,Dystopian
     studio: Production +h
     seasons:
       1:
@@ -1643,7 +1643,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 7.8
-    critic_rating: 7.9
+    critic_rating: 8.0
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   427239:
@@ -1820,6 +1820,25 @@ metadata:
     critic_rating: 6.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  440820:
+    title: |-
+      Dragon Ball DAIMA
+    sort_title: |-
+      Dragon Ball DAIMA
+    original_title: |-
+      Dragon Ball DAIMA
+    genre.sync: Action,Adventure,Shounen,Martial Arts,Age Regression,Super Power,Male Protagonist,Demons
+    studio: Toei Animation
+    seasons:
+      1:
+        title: |-
+          Dragon Ball DAIMA
+        label: Score,2024 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 7.4
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   370761:
     title: |-
       Dorohedoro
@@ -1955,7 +1974,7 @@ metadata:
           Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.7
+        user_rating: 7.6
     audience_rating: 7.5
     critic_rating: 7.6
     label: Airing,Watching
@@ -3787,8 +3806,8 @@ metadata:
           Karasu wa Aruji wo Erabanai
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.6
+        user_rating: 7.7
+    audience_rating: 7.7
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -4263,8 +4282,8 @@ metadata:
           Kono Sekai wa Fukanzen Sugiru
         label: Score,Watching,2024 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
+        user_rating: 6.3
+    audience_rating: 6.3
     critic_rating: 6.6
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
@@ -5151,7 +5170,7 @@ metadata:
       Mecha-ude (TV)
     original_title: |-
       Mecha Ude: Mechanical Arms
-    genre.sync: Action,Mecha,Sci-Fi
+    genre.sync: Action,Mecha,Sci-Fi,Artificial Intelligence,Male Protagonist
     studio: TriF studio
     seasons:
       1:
@@ -5159,9 +5178,9 @@ metadata:
           Mecha-ude (TV)
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
-    critic_rating: 7.1
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 7.3
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   72454:
@@ -5775,7 +5794,7 @@ metadata:
       Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai
     original_title: |-
       I Parry Everything
-    genre.sync: Action,Adventure,Fantasy,Coming of Age,Male Protagonist,Swordplay
+    genre.sync: Action,Adventure,Fantasy,Male Protagonist,Coming of Age,Swordplay,Magic,Surreal Comedy,Time Skip
     studio: OLM
     seasons:
       1:
@@ -6273,7 +6292,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.7
     audience_rating: 6.7
-    critic_rating: 7.3
+    critic_rating: 7.4
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   439755:
@@ -6701,7 +6720,7 @@ metadata:
       Sayonara Ryuusei Konnichiwa Jinsei
     original_title: |-
       Good Bye, Dragon Life
-    genre.sync: Action,Adventure,Fantasy
+    genre.sync: Action,Adventure,Fantasy,Dragons,Reincarnation,Male Protagonist,Rural
     studio: SynergySP
     seasons:
       1:
@@ -6709,7 +6728,9 @@ metadata:
           Sayonara Ryuusei Konnichiwa Jinsei
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.4
+    audience_rating: 6.4
+    critic_rating: 6.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   425756:
@@ -6785,7 +6806,7 @@ metadata:
       Seiken Tsukai no World Break
     original_title: |-
       World Break: Aria of Curse for a Holy Swordsman
-    genre.sync: Action,Ecchi,Fantasy,Romance,Supernatural,Female Harem,Reincarnation,Magic,Nudity,Henshin,Urban Fantasy,Swordplay,School
+    genre.sync: Action,Ecchi,Fantasy,Romance,Supernatural,Female Harem,Nudity,Urban Fantasy,Swordplay,School,Reincarnation,Magic,Bullying,Kuudere,Tsundere
     studio: diomedéa
     seasons:
       1:
@@ -6959,7 +6980,7 @@ metadata:
       Senpai wa Otokonoko
     original_title: |-
       Senpai is an Otokonoko
-    genre.sync: Comedy,Drama,Romance,Crossdressing,Coming of Age,LGBTQ+ Themes,Love Triangle,Agender,Primarily Teen Cast,School,Femboy,Bullying,Female Protagonist,Heterosexual,Male Protagonist,Transgender,Bisexual,Boys' Love,Josei,Aromantic
+    genre.sync: Comedy,Drama,Romance,Crossdressing,Coming of Age,LGBTQ+ Themes,Love Triangle,Agender,Primarily Teen Cast,School,Femboy,Female Protagonist,Heterosexual,Bullying,Male Protagonist,Bisexual,Transgender,Josei,Boys' Love,Estranged Family
     studio: project No.9
     seasons:
       1:
@@ -9086,7 +9107,7 @@ metadata:
       Yozakura-san Chi no Daisakusen
     original_title: |-
       Mission: Yozakura Family
-    genre.sync: Action,Comedy,Romance,Shounen,Espionage,Family Life,Male Protagonist,Marriage,Surreal Comedy,Super Power,Guns,School
+    genre.sync: Action,Comedy,Romance,Shounen,Espionage,Family Life,Marriage,Male Protagonist,Body Horror,Surreal Comedy,Super Power,School,Guns,Heterosexual
     studio: SILVER LINK.
     seasons:
       1:
@@ -9094,11 +9115,11 @@ metadata:
           Yozakura-san Chi no Daisakusen
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 7.2
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+        user_rating: 7.2
+    audience_rating: 7.2
+    critic_rating: 7.5
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   436899:
     title: |-
       Yubisaki to Renren
