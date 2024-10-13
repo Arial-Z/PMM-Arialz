@@ -139,7 +139,7 @@ metadata:
       [Oshi no Ko]
     original_title: |-
       Oshi No Ko
-    genre.sync: Drama,Mystery,Psychological,Supernatural,Acting,Tragedy,Idol,Revenge,Twins,Urban,Male Protagonist,Reincarnation,Seinen,Detective,Female Protagonist,Anti-Hero,Coming of Age,Tsundere,Time Skip,Orphan,Ensemble Cast,Age Regression
+    genre.sync: Drama,Mystery,Psychological,Supernatural,Acting,Tragedy,Idol,Revenge,Twins,Urban,Male Protagonist,Reincarnation,Seinen,Detective,Female Protagonist,Coming of Age,Anti-Hero,Tsundere,Time Skip,Orphan,Age Regression,Ensemble Cast
     studio: Doga Kobo
     seasons:
       1:
@@ -467,8 +467,8 @@ metadata:
           Ao no Exorcist: Yuki no Hate-hen
         label: Score,2024 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 7.0
+        user_rating: 7.0
+    audience_rating: 7.1
     critic_rating: 7.3
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
@@ -553,7 +553,7 @@ metadata:
       ATRI: My Dear Moments
     original_title: |-
       ATRI -My Dear Moments-
-    genre.sync: Drama,Romance,Sci-Fi,Heterosexual,Female Protagonist,Environmental,Disability,Robots,Dystopian,Post-Apocalyptic,Male Protagonist,Artificial Intelligence
+    genre.sync: Drama,Romance,Sci-Fi,Heterosexual,Female Protagonist,Environmental,Robots,Dystopian,Disability,Post-Apocalyptic,Male Protagonist,Artificial Intelligence
     studio: TROYCA
     seasons:
       1:
@@ -1746,24 +1746,6 @@ metadata:
     critic_rating: 6.8
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
-  432847:
-    title: |-
-      Maou 2099
-    sort_title: |-
-      Maou 2099
-    original_title: |-
-      Demon Lord 2099
-    genre.sync: Action,Comedy,Drama,Fantasy,Sci-Fi,Cyberpunk,Male Protagonist
-    studio: J.C. Staff
-    seasons:
-      1:
-        title: |-
-          Maou 2099
-        label: Score,Watching,2024 Fall
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   171741:
     title: |-
       Densetsu no Yuusha no Densetsu
@@ -1919,7 +1901,7 @@ metadata:
       Dragon Ball DAIMA
     original_title: |-
       Dragon Ball DAIMA
-    genre.sync: Action,Adventure,Shounen,Martial Arts,Age Regression,Super Power,Male Protagonist,Demons
+    genre.sync: Action,Adventure,Shounen,Martial Arts,Age Regression,Male Protagonist,Demons,Super Power,Gods
     studio: Toei Animation
     seasons:
       1:
@@ -2687,26 +2669,6 @@ metadata:
     critic_rating: 6.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  445252:
-    title: |-
-      Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki
-    sort_title: |-
-      Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki
-    original_title: |-
-      The Healer Who Was Banished From His Party, Is, in Fact, the Strongest
-    genre.sync: Action,Adventure,Fantasy
-    studio: Studio elle
-    seasons:
-      1:
-        title: |-
-          Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki
-        label: Score,Watching,2024 Fall
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
-    critic_rating: 6.8
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   401856:
     title: |-
       Heion Sedai no Idaten-tachi
@@ -5064,6 +5026,26 @@ metadata:
     critic_rating: 8.3
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  432847:
+    title: |-
+      Maou 2099
+    sort_title: |-
+      Maou 2099
+    original_title: |-
+      Demon Lord 2099
+    genre.sync: Action,Comedy,Drama,Fantasy,Sci-Fi,Cyberpunk,Male Protagonist
+    studio: J.C. Staff
+    seasons:
+      1:
+        title: |-
+          Maou 2099
+        label: Score,Watching,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.3
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   375927:
     title: |-
       Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou
@@ -5151,8 +5133,8 @@ metadata:
           Maou-sama, Retry! R
         label: Score,2024 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.7
-    audience_rating: 5.9
+        user_rating: 5.5
+    audience_rating: 5.8
     critic_rating: 6.2
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
@@ -6074,6 +6056,26 @@ metadata:
     critic_rating: 8.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  445252:
+    title: |-
+      Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki
+    sort_title: |-
+      Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki
+    original_title: |-
+      The Healer Who Was Banished From His Party, Is, in Fact, the Strongest
+    genre.sync: Action,Adventure,Fantasy
+    studio: Studio elle
+    seasons:
+      1:
+        title: |-
+          Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki
+        label: Score,Watching,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.8
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   75796:
     title: |-
       Planetes
@@ -7094,10 +7096,16 @@ metadata:
         label: Score,Completed,2023 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.0
-    audience_rating: 8.0
+      2:
+        title: |-
+          Shangri-La Frontier 2nd Season
+        label: Score,Watching,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.5
+    audience_rating: 7.8
     critic_rating: 8.1
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   279830:
     title: |-
       Shigatsu wa Kimi no Uso

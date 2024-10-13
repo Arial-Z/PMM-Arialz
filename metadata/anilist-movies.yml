@@ -210,7 +210,7 @@ metadata:
     genre.sync: Action,Drama,Mecha,Sci-Fi,Thriller,Anti-Hero,Real Robot,Class Struggle
     studio: Sunrise
     audience_rating: 7.3
-    critic_rating: 7.7
+    critic_rating: 7.6
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
   tt9844256:
@@ -335,7 +335,7 @@ metadata:
       Final Fantasy: The Spirits Within
     genre.sync: Action,Drama,Sci-Fi,Full CGI,Post-Apocalyptic,Aliens,Primarily Adult Cast,Ghost,Tragedy
     studio: Square Pictures
-    audience_rating: 5.6
+    audience_rating: 5.7
     critic_rating: 6.3
     label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0385700:
@@ -582,7 +582,7 @@ metadata:
       Howl‘s Moving Castle
     genre.sync: Adventure,Drama,Fantasy,Romance,Magic,Female Protagonist,Elderly Protagonist,Steampunk,Witch,War,Monster Boy,Shapeshifting
     studio: Studio Ghibli
-    audience_rating: 8.4
+    audience_rating: 8.5
     critic_rating: 8.7
     label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0347246:
@@ -1065,7 +1065,7 @@ metadata:
       Made in Abyss: Tabidachi no Yoake
     original_title: |-
       Made in Abyss: Journey's Dawn
-    genre.sync: Adventure,Drama,Fantasy,Horror,Mystery,Sci-Fi,Robots,Primarily Child Cast,Lost Civilization
+    genre.sync: Adventure,Drama,Fantasy,Horror,Mystery,Sci-Fi,Amnesia,Robots,Primarily Child Cast,Lost Civilization
     studio: Kinema Citrus
     audience_rating: 8.0
     critic_rating: 8.2
@@ -1091,7 +1091,7 @@ metadata:
       Majo no Takkyuubin
     original_title: |-
       Kiki's Delivery Service
-    genre.sync: Adventure,Drama,Fantasy,Slice of Life,Witch,Coming of Age,Magic,Female Protagonist,Urban Fantasy,Work
+    genre.sync: Adventure,Drama,Fantasy,Slice of Life,Coming of Age,Witch,Female Protagonist,Magic,Urban Fantasy,Primarily Female Cast,Work,Urban
     studio: Studio Ghibli
     audience_rating: 8.1
     critic_rating: 8.2
@@ -1356,6 +1356,19 @@ metadata:
     audience_rating: 7.8
     critic_rating: 7.8
     label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt9881586:
+    title: |-
+      Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai
+    sort_title: |-
+      Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai
+    original_title: |-
+      Rascal Does Not Dream of a Dreaming Girl
+    genre.sync: Drama,Psychological,Romance,Supernatural,Time Manipulation,Coming of Age,Tragedy,Female Protagonist,Male Protagonist,Heterosexual,Urban Fantasy,Alternate Universe,Primarily Teen Cast,Urban,Age Regression,Magic,Ensemble Cast,Afterlife
+    studio: CloverWorks
+    audience_rating: 8.4
+    critic_rating: 8.6
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt6337252:
     title: |-
       Seitokai Yakuindomo Movie
