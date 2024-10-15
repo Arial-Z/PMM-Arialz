@@ -492,6 +492,32 @@ metadata:
     critic_rating: 8.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  357019:
+    title: |-
+      Arifureta Shokugyou de Sekai Saikyou
+    sort_title: |-
+      Arifureta Shokugyou de Sekai Saikyou
+    original_title: |-
+      Arifureta: From Commonplace to World's Strongest
+    genre.sync: Action,Adventure,Fantasy,Psychological,Isekai,Male Protagonist,Magic,Alternate Universe,Dungeon,Anti-Hero,Nudity,CGI,Cosmic Horror,Female Harem,Primarily Female Cast,Conspiracy,Vampire,Monster Girl,Guns,Software Development,Demons,Revenge
+    studio: White Fox
+    seasons:
+      1:
+        title: |-
+          Arifureta Shokugyou de Sekai Saikyou
+        label: Score,Completed,2019 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.4
+      3:
+        title: |-
+          Arifureta Shokugyou de Sekai Saikyou 3rd season
+        label: Score,Watching,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.4
+    audience_rating: 6.9
+    critic_rating: 7.2
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   411800:
     title: |-
       Arknights: Reimei Zensou
@@ -3787,9 +3813,9 @@ metadata:
           Kamonohashi Ron no Kindan Suiri 2nd Season
         label: Score,2024 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 7.0
-    critic_rating: 7.5
+        user_rating: 7.0
+    audience_rating: 7.2
+    critic_rating: 7.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   441260:
@@ -6607,9 +6633,9 @@ metadata:
           Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.0
-    audience_rating: 6.0
-    critic_rating: 6.7
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   415378:
@@ -6881,8 +6907,8 @@ metadata:
           Seirei Gensouki 2
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.2
+        user_rating: 7.3
+    audience_rating: 7.1
     critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
@@ -6992,8 +7018,8 @@ metadata:
         user_rating: 6.9
     audience_rating: 6.9
     critic_rating: 7.1
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   401874:
     title: |-
       Senpai ga Uzai Kouhai no Hanashi
@@ -7812,8 +7838,8 @@ metadata:
         user_rating: 4.4
     audience_rating: 4.4
     critic_rating: 4.7
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   353712:
     title: |-
       Tate no Yuusha no Nariagari
