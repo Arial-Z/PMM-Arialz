@@ -502,12 +502,20 @@ metadata:
     genre.sync: Action,Adventure,Fantasy,Psychological,Isekai,Male Protagonist,Magic,Alternate Universe,Dungeon,Anti-Hero,Nudity,CGI,Cosmic Horror,Female Harem,Primarily Female Cast,Conspiracy,Vampire,Monster Girl,Guns,Software Development,Demons,Revenge
     studio: White Fox
     seasons:
+      0:
+        label.remove: score
       1:
         title: |-
           Arifureta Shokugyou de Sekai Saikyou
         label: Score,Completed,2019 Summer
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.4
+      2:
+        title: |-
+          Arifureta Shokugyou de Sekai Saikyou 2nd season
+        label: Score,Completed,2022 Winter
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.0
       3:
         title: |-
           Arifureta Shokugyou de Sekai Saikyou 3rd season
@@ -5125,7 +5133,7 @@ metadata:
       Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?
     original_title: |-
       An Archdemon's Dilemma: How to Love Your Elf Bride
-    genre.sync: Action,Fantasy,Romance,Elf,Magic,Family Life,Male Protagonist,Heterosexual,Found Family,Anti-Hero,Slavery
+    genre.sync: Action,Fantasy,Romance,Elf,Magic,Male Protagonist,Family Life,Heterosexual,Found Family,Anti-Hero,Slavery
     studio: Brain's Base
     seasons:
       1:
@@ -6499,8 +6507,8 @@ metadata:
           Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran
         label: Score,2024 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.4
+        user_rating: 7.6
+    audience_rating: 7.5
     critic_rating: 7.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -8139,7 +8147,7 @@ metadata:
       The Fable
     original_title: |-
       The Fable
-    genre.sync: Action,Comedy,Drama,Romance,Thriller,Yakuza,Seinen,Work,Primarily Adult Cast,Assassins,Urban,Guns,Surreal Comedy,Crime,Anti-Hero,Acrobatics,Heterosexual
+    genre.sync: Action,Comedy,Drama,Romance,Thriller,Yakuza,Seinen,Work,Primarily Adult Cast,Assassins,Urban,Guns,Surreal Comedy,Crime,Anti-Hero,Heterosexual
     studio: Tezuka Productions
     seasons:
       1:
@@ -8225,7 +8233,7 @@ metadata:
       Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san
     original_title: |-
       Alya Sometimes Hides Her Feelings in Russian
-    genre.sync: Comedy,Romance,Slice of Life,School,Heterosexual,Estranged Family,Primarily Teen Cast,Tsundere,Male Protagonist,Politics,Language Barrier,Primarily Female Cast,Love Triangle,Female Harem,Female Protagonist
+    genre.sync: Comedy,Romance,Slice of Life,School,Heterosexual,Primarily Teen Cast,Estranged Family,Tsundere,Male Protagonist,School Club,Parody,Primarily Female Cast,Love Triangle
     studio: Doga Kobo
     seasons:
       1:
@@ -8233,8 +8241,8 @@ metadata:
           Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.7
-    audience_rating: 7.7
+        user_rating: 7.6
+    audience_rating: 7.6
     critic_rating: 7.7
     label: Planned
     label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -9076,8 +9084,8 @@ metadata:
           Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
