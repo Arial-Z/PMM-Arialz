@@ -974,11 +974,11 @@ metadata:
           Boku no Hero Academia 7
         label: Score,Watching,2024 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.8
+        user_rating: 8.0
     audience_rating: 7.8
     critic_rating: 7.9
-    label: AA Winner,Ended,Planning
-    label.remove: Planned,Airing,Dropped,Paused,
+    label: AA Winner,Planned,Planning
+    label.remove: Airing,Ended,Dropped,Paused,
   422981:
     title: |-
       Boku no Kokoro no Yabai Yatsu
@@ -1521,7 +1521,7 @@ metadata:
       Dandadan
     original_title: |-
       Dan Da Dan
-    genre.sync: Action,Comedy,Drama,Romance,Sci-Fi,Supernatural,Ghost,Urban Fantasy,Primarily Teen Cast,Youkai,Aliens,Surreal Comedy,Super Power,Shounen,Female Protagonist,Male Protagonist,Heterosexual,Cosmic Horror,Henshin
+    genre.sync: Action,Comedy,Drama,Romance,Sci-Fi,Supernatural,Ghost,Urban Fantasy,Youkai,Aliens,Primarily Teen Cast,Surreal Comedy,Super Power,Shounen,Female Protagonist,Male Protagonist,Heterosexual,Cosmic Horror,Henshin
     studio: Science SARU
     seasons:
       1:
@@ -1667,7 +1667,7 @@ metadata:
       Dead Dead Demon's Dededededestruction
     original_title: |-
       Dead Dead Demons Dededede Destruction
-    genre.sync: Comedy,Drama,Sci-Fi,Slice of Life,Urban,Aliens,Philosophy,Coming of Age,Politics,Post-Apocalyptic,Tragedy,Denpa,Anti-Hero,Alternate Universe,Female Protagonist,Terrorism,Military,Time Manipulation,Crossdressing,Seinen,Achronological Order,Primarily Female Cast,LGBTQ+ Themes,Gore,Dystopian
+    genre.sync: Comedy,Drama,Sci-Fi,Slice of Life,Urban,Aliens,Philosophy,Coming of Age,Politics,Tragedy,Post-Apocalyptic,Denpa,Anti-Hero,Alternate Universe,Female Protagonist,Terrorism,Military,Time Manipulation,Seinen,Achronological Order,Primarily Female Cast,Gore,LGBTQ+ Themes,Crossdressing,Dystopian
     studio: Production +h
     seasons:
       1:
@@ -1677,7 +1677,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 7.8
-    critic_rating: 8.0
+    critic_rating: 7.9
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   427239:
@@ -1945,7 +1945,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.7
     audience_rating: 7.7
-    critic_rating: 7.4
+    critic_rating: 8.1
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   423257:
@@ -2215,7 +2215,7 @@ metadata:
       Giji Harem
     original_title: |-
       Pseudo Harem
-    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Acting,Episodic,School,Iyashikei,Female Protagonist,School Club,Parody,Primarily Teen Cast,Male Protagonist,Shounen
+    genre.sync: Comedy,Romance,Slice of Life,Acting,Heterosexual,Episodic,School,Iyashikei,Female Protagonist,School Club,Parody,Primarily Teen Cast,Male Protagonist,Shounen
     studio: Nomad
     seasons:
       1:
@@ -2235,7 +2235,7 @@ metadata:
       Gimai Seikatsu
     original_title: |-
       Days with My Stepsister
-    genre.sync: Romance,Slice of Life,Family Life,Inseki,Heterosexual,Philosophy,Male Protagonist,Female Protagonist,Seinen,Kuudere,Psychosexual,School,Iyashikei
+    genre.sync: Romance,Slice of Life,Family Life,Inseki,Heterosexual,Philosophy,Male Protagonist,Female Protagonist,Kuudere,Psychosexual,School,Iyashikei
     studio: Studio DEEN
     seasons:
       1:
@@ -2690,7 +2690,7 @@ metadata:
       Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made
     original_title: |-
       Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells
-    genre.sync: Action,Adventure,Drama,Fantasy,Revenge,Isekai,CGI,Survival,Bullying
+    genre.sync: Action,Adventure,Drama,Fantasy,Revenge,Isekai,CGI,Survival,Anti-Hero,Bullying
     studio: Seven Arcs
     seasons:
       1:
@@ -3833,7 +3833,7 @@ metadata:
       Karasu wa Aruji wo Erabanai
     original_title: |-
       YATAGARASU: The Raven Does Not Choose Its Master
-    genre.sync: Action,Drama,Fantasy,Supernatural,Royal Affairs,Conspiracy,Shapeshifting,Politics,Male Protagonist,Primarily Adult Cast,Philosophy,Ojou-sama,Estranged Family,Assassins,Adoption,Swordplay,Seinen,Mythology,Gore
+    genre.sync: Action,Drama,Fantasy,Supernatural,Royal Affairs,Conspiracy,Shapeshifting,Politics,Male Protagonist,Primarily Adult Cast,Adoption,Assassins,Estranged Family,Ojou-sama,Philosophy,Swordplay,Mythology,Gore
     studio: Studio Pierrot
     seasons:
       1:
@@ -5225,7 +5225,7 @@ metadata:
       Mecha-ude (TV)
     original_title: |-
       Mecha Ude: Mechanical Arms
-    genre.sync: Action,Mecha,Sci-Fi,Artificial Intelligence,Male Protagonist
+    genre.sync: Action,Mecha,Sci-Fi,Artificial Intelligence,Male Protagonist,School
     studio: TriF studio
     seasons:
       1:
@@ -5235,7 +5235,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
-    critic_rating: 7.3
+    critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   72454:
@@ -6365,9 +6365,9 @@ metadata:
           Ramen Aka Neko
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 7.4
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 7.3
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   439755:
@@ -6803,8 +6803,8 @@ metadata:
           Sayonara Ryuusei Konnichiwa Jinsei
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
+        user_rating: 6.3
+    audience_rating: 6.3
     critic_rating: 6.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -8015,14 +8015,14 @@ metadata:
           Tensei Kizoku, Kantei Skill de Nariagaru
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.0
+        user_rating: 7.1
       2:
         title: |-
           Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.0
-    audience_rating: 7.0
+    audience_rating: 7.1
     critic_rating: 7.3
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
@@ -9116,7 +9116,7 @@ metadata:
       Yoru no Kurage wa Oyogenai
     original_title: |-
       Jellyfish Can’t Swim in the Night
-    genre.sync: Drama,Music,Slice of Life,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Urban,Drawing,LGBTQ+ Themes,Band,Idol,Transgender,Cute Girls Doing Cute Things,Hikikomori,Denpa
+    genre.sync: Drama,Music,Slice of Life,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Urban,Drawing,Band,LGBTQ+ Themes,Idol,Transgender,Cute Girls Doing Cute Things,Hikikomori,Denpa
     studio: Doga Kobo
     seasons:
       1:
@@ -9188,7 +9188,7 @@ metadata:
       Yozakura-san Chi no Daisakusen
     original_title: |-
       Mission: Yozakura Family
-    genre.sync: Action,Comedy,Romance,Shounen,Espionage,Family Life,Marriage,Male Protagonist,Body Horror,Surreal Comedy,Super Power,School,Guns,Heterosexual
+    genre.sync: Action,Comedy,Romance,Shounen,Espionage,Family Life,Marriage,Male Protagonist,Yandere,Body Horror,Super Power,Surreal Comedy,Heterosexual,Guns,School
     studio: SILVER LINK.
     seasons:
       1:
