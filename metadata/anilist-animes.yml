@@ -878,8 +878,8 @@ metadata:
           Blue Lock VS. U-20 JAPAN
         label: Score,2024 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.9
-    audience_rating: 8.0
+        user_rating: 7.5
+    audience_rating: 7.8
     critic_rating: 8.1
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
@@ -1935,7 +1935,7 @@ metadata:
       Dragon Ball DAIMA
     original_title: |-
       Dragon Ball DAIMA
-    genre.sync: Action,Adventure,Shounen,Martial Arts,Age Regression,Male Protagonist,Demons,Super Power,Gods
+    genre.sync: Action,Adventure,Demons,Super Power,Gods,Shounen,Male Protagonist,Martial Arts,Age Regression
     studio: Toei Animation
     seasons:
       1:
@@ -1943,8 +1943,8 @@ metadata:
           Dragon Ball DAIMA
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.7
-    audience_rating: 7.7
+        user_rating: 7.8
+    audience_rating: 7.8
     critic_rating: 8.1
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -6105,9 +6105,9 @@ metadata:
           Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
-    critic_rating: 6.8
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 6.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   75796:
@@ -6370,6 +6370,26 @@ metadata:
     critic_rating: 7.3
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  451479:
+    title: |-
+      Ranma 1/2 (2024)
+    sort_title: |-
+      Ranma 1/2 (2024)
+    original_title: |-
+      Ranma1/2 (2024)
+    genre.sync: Action,Comedy,Romance,Gender Bending,Martial Arts,Shapeshifting,Arranged Marriage,Tomboy,Female Harem,Episodic,Love Triangle,Slapstick,School,Tsundere,Ensemble Cast,Heterosexual,Male Protagonist,Animals,Mixed Gender Harem,Crossdressing,Male Harem
+    studio: MAPPA
+    seasons:
+      1:
+        title: |-
+          Ranma 1/2 (2024)
+        label: Score,2024 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.6
+    audience_rating: 7.6
+    critic_rating: 7.9
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   439755:
     title: |-
       Re:Monster
