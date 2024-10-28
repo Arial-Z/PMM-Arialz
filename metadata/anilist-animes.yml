@@ -521,7 +521,7 @@ metadata:
           Arifureta Shokugyou de Sekai Saikyou 3rd season
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.4
+        user_rating: 7.3
     audience_rating: 6.9
     critic_rating: 7.1
     label: Airing,Watching
@@ -1461,26 +1461,6 @@ metadata:
     critic_rating: 7.4
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  441190:
-    title: |-
-      Raise wa Tanin ga Ii
-    sort_title: |-
-      Raise wa Tanin ga Ii
-    original_title: |-
-      Yakuza Fiancé: Raise wa Tanin ga Ii
-    genre.sync: Comedy,Drama,Romance,Female Protagonist,Yandere,Yakuza,Male Protagonist
-    studio: Studio DEEN
-    seasons:
-      1:
-        title: |-
-          Raise wa Tanin ga Ii
-        label: Score,2024 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 7.2
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   384541:
     title: |-
       Cyberpunk: Edgerunners
@@ -2597,6 +2577,26 @@ metadata:
     critic_rating: 8.0
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  438680:
+    title: |-
+      Haigakura
+    sort_title: |-
+      Haigakura
+    original_title: |-
+      Haigakura
+    genre.sync: Action,Adventure,Fantasy,Josei,Gods,Magic
+    studio: TYPHOON GRAPHICS
+    seasons:
+      1:
+        title: |-
+          Haigakura
+        label: Score,Watching,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 5.0
+    audience_rating: 5.0
+    critic_rating: 5.8
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   278157:
     title: |-
       Haikyuu!!
@@ -6350,6 +6350,26 @@ metadata:
     critic_rating: 7.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  441190:
+    title: |-
+      Raise wa Tanin ga Ii
+    sort_title: |-
+      Raise wa Tanin ga Ii
+    original_title: |-
+      Yakuza Fiancé: Raise wa Tanin ga Ii
+    genre.sync: Comedy,Drama,Romance,Female Protagonist,Yandere,Yakuza,Male Protagonist
+    studio: Studio DEEN
+    seasons:
+      1:
+        title: |-
+          Raise wa Tanin ga Ii
+        label: Score,Watching,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.2
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   299506:
     title: |-
       Rakudai Kishi no Cavalry
@@ -6673,7 +6693,7 @@ metadata:
       Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru
     original_title: |-
       The Most Notorious "Talker" Runs the World's Greatest Clan
-    genre.sync: Action,Adventure,Comedy,Fantasy,Psychological,Anti-Hero
+    genre.sync: Action,Adventure,Comedy,Fantasy,Psychological,Anti-Hero,Magic
     studio: Felix Film
     seasons:
       1:
@@ -6955,8 +6975,8 @@ metadata:
           Seirei Gensouki 2
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.1
+        user_rating: 7.1
+    audience_rating: 7.0
     critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
