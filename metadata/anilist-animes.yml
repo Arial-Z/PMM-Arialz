@@ -972,13 +972,13 @@ metadata:
       7:
         title: |-
           Boku no Hero Academia 7
-        label: Score,Watching,2024 Spring
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Spring
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.0
     audience_rating: 7.8
     critic_rating: 7.9
     label: AA Winner,Planned,Planning
-    label.remove: Airing,Ended,Dropped,Paused,
+    label.remove: Airing,Ended,Watching,Dropped,Paused,
   422981:
     title: |-
       Boku no Kokoro no Yabai Yatsu
@@ -5077,7 +5077,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.2
     audience_rating: 8.2
-    critic_rating: 8.3
+    critic_rating: 8.2
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   432847:
