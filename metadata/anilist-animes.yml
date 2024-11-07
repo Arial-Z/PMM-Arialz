@@ -1521,7 +1521,7 @@ metadata:
       Dandadan
     original_title: |-
       Dan Da Dan
-    genre.sync: Action,Comedy,Drama,Romance,Sci-Fi,Supernatural,Ghost,Urban Fantasy,Youkai,Aliens,Primarily Teen Cast,Surreal Comedy,Super Power,Female Protagonist,Male Protagonist,Shounen,Cosmic Horror,Heterosexual,Henshin
+    genre.sync: Action,Comedy,Drama,Romance,Sci-Fi,Supernatural,Ghost,Urban Fantasy,Youkai,Aliens,Primarily Teen Cast,Surreal Comedy,Super Power,Female Protagonist,Male Protagonist,Shounen,Heterosexual,Cosmic Horror,Henshin
     studio: Science SARU
     seasons:
       1:
@@ -2009,7 +2009,7 @@ metadata:
           Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.6
+        user_rating: 7.7
     audience_rating: 7.5
     critic_rating: 7.6
     label: Airing,Watching
@@ -2021,7 +2021,7 @@ metadata:
       Dungeon no Naka no Hito
     original_title: |-
       Dungeon People
-    genre.sync: Adventure,Comedy,Fantasy,Dungeon,Iyashikei,Swordplay,Female Protagonist,Work,Cute Girls Doing Cute Things
+    genre.sync: Adventure,Comedy,Fantasy,Dungeon,Cute Girls Doing Cute Things,Iyashikei,Female Protagonist,Work,Swordplay
     studio: OLM
     seasons:
       1:
@@ -2710,7 +2710,7 @@ metadata:
       Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made
     original_title: |-
       Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells
-    genre.sync: Action,Adventure,Drama,Fantasy,Revenge,Isekai,CGI,Survival,Anti-Hero,Bullying
+    genre.sync: Action,Adventure,Drama,Fantasy,Revenge,Isekai,CGI,Survival,Anti-Hero,Bullying,Male Protagonist
     studio: Seven Arcs
     seasons:
       1:
@@ -3022,7 +3022,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.0
     audience_rating: 6.0
-    critic_rating: 6.4
+    critic_rating: 6.3
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   366263:
@@ -4656,6 +4656,32 @@ metadata:
     critic_rating: 7.3
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  412843:
+    title: |-
+      Shicao Lao Long Bei Guanyi E Long Zhi Ming
+    sort_title: |-
+      Shicao Lao Long Bei Guanyi E Long Zhi Ming
+    original_title: |-
+      A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized
+    genre.sync: Adventure,Comedy,Fantasy,Dragons,Animals,Magic
+    studio: Studio LAN
+    seasons:
+      1:
+        title: |-
+          Shicao Lao Long Bei Guanyi E Long Zhi Ming
+        label: Score,2022 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.5
+      2:
+        title: |-
+          Shicao Lao Long Bei Guanyi E Long Zhi Ming 2nd Season
+        label: Score,2024 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 5.6
+    audience_rating: 6.1
+    critic_rating: 6.8
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   318161:
     title: |-
       Little Witch Academia (TV)
@@ -5255,7 +5281,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
-    critic_rating: 7.2
+    critic_rating: 7.1
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   72454:
@@ -5869,7 +5895,7 @@ metadata:
       Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai
     original_title: |-
       I Parry Everything
-    genre.sync: Action,Adventure,Fantasy,Male Protagonist,Coming of Age,Swordplay,Magic,Surreal Comedy,Time Skip
+    genre.sync: Action,Adventure,Fantasy,Male Protagonist,Swordplay,Coming of Age,Surreal Comedy,Time Skip,Magic,Orphan
     studio: OLM
     seasons:
       1:
@@ -6407,7 +6433,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
-    critic_rating: 7.3
+    critic_rating: 7.4
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   451479:
@@ -7115,7 +7141,7 @@ metadata:
       Senpai wa Otokonoko
     original_title: |-
       Senpai is an Otokonoko
-    genre.sync: Comedy,Drama,Romance,Coming of Age,Crossdressing,LGBTQ+ Themes,Love Triangle,Agender,Primarily Teen Cast,School,Femboy,Female Protagonist,Heterosexual,Bullying,Male Protagonist,Bisexual,Transgender,Josei,Boys' Love,Estranged Family
+    genre.sync: Comedy,Drama,Romance,Coming of Age,Crossdressing,LGBTQ+ Themes,Love Triangle,Agender,Primarily Teen Cast,School,Femboy,Female Protagonist,Heterosexual,Male Protagonist,Bisexual,Bullying,Transgender,Boys' Love,Josei,Estranged Family
     studio: project No.9
     seasons:
       1:
@@ -7883,8 +7909,8 @@ metadata:
           Tasogare Outfocus
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.2
+        user_rating: 7.3
+    audience_rating: 7.3
     critic_rating: 7.5
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
@@ -9256,8 +9282,8 @@ metadata:
           Yozakura-san Chi no Daisakusen
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.2
+        user_rating: 7.3
+    audience_rating: 7.3
     critic_rating: 7.5
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
