@@ -7219,13 +7219,13 @@ metadata:
       2:
         title: |-
           Shicao Lao Long Bei Guanyi E Long Zhi Ming 2nd Season
-        label: Score,2024 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 5.6
     audience_rating: 6.1
     critic_rating: 6.8
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   279830:
     title: |-
       Shigatsu wa Kimi no Uso
