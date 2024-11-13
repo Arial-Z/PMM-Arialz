@@ -3020,8 +3020,8 @@ metadata:
           Hitoribocchi no Isekai Kouryaku
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.0
-    audience_rating: 6.0
+        user_rating: 5.9
+    audience_rating: 5.9
     critic_rating: 6.3
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -9336,11 +9336,11 @@ metadata:
           Yuru Camp△ SEASON 3
         label: Score,2024 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.9
-    audience_rating: 8.1
+        user_rating: 8.0
+    audience_rating: 8.2
     critic_rating: 8.3
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Planned
+    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   435466:
     title: |-
       Yuuki Bakuhatsu Bang Bravern
