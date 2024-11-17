@@ -151,13 +151,13 @@ metadata:
       2:
         title: |-
           [Oshi no Ko] 2nd Season
-        label: Score,2024 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2024 Summer
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.6
     audience_rating: 8.6
     critic_rating: 8.6
-    label: AA Winner,Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: AA Winner,Planned,Watching
+    label.remove: Airing,Ended,Dropped,Paused,Planning
   428168:
     title: |-
       2.5 Jigen no Ririsa
@@ -1413,6 +1413,26 @@ metadata:
         user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.7
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  443905:
+    title: |-
+      Code Geass: Dakkan no Rozé
+    sort_title: |-
+      Code Geass: Dakkan no Rozé
+    original_title: |-
+      Code Geass: Rozé of the Recapture
+    genre.sync: Action,Drama,Mecha,Sci-Fi,Thriller,Female Protagonist,Super Power,War,Real Robot,Crossdressing,Military,Robots,Amnesia,Politics,Assassins,Conspiracy,Tomboy
+    studio: Sunrise
+    seasons:
+      1:
+        title: |-
+          Code Geass: Dakkan no Rozé
+        label: Score,Completed,2024 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.5
+    audience_rating: 6.5
+    critic_rating: 6.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   79525:
