@@ -335,7 +335,7 @@ metadata:
       Final Fantasy: The Spirits Within
     genre.sync: Action,Drama,Sci-Fi,Full CGI,Post-Apocalyptic,Aliens,Primarily Adult Cast,Ghost,Tragedy
     studio: Square Pictures
-    audience_rating: 5.7
+    audience_rating: 5.6
     critic_rating: 6.3
     label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0385700:
@@ -498,6 +498,19 @@ metadata:
     studio: Bibury Animation Studios
     audience_rating: 7.8
     critic_rating: 7.8
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
+  tt30476486:
+    title: |-
+      Haikyuu!!: Gomi Suteba no Kessen
+    sort_title: |-
+      Haikyuu!!: Gomi Suteba no Kessen
+    original_title: |-
+      HAIKYU!! The Dumpster Battle
+    genre.sync: Comedy,Drama,Sports,Volleyball,Shounen,School Club,Male Protagonist,Ensemble Cast,Primarily Male Cast,Coming of Age,POV,Primarily Teen Cast
+    studio: Production I.G
+    audience_rating: 8.6
+    critic_rating: 8.6
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
   tt11639420:
@@ -1032,6 +1045,18 @@ metadata:
     critic_rating: 8.1
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
+  tt6587046:
+    title: |-
+      Kimitachi wa Dou Ikiru ka
+    sort_title: |-
+      Kimitachi wa Dou Ikiru ka
+    original_title: |-
+      The Boy and the Heron
+    genre.sync: Adventure,Drama,Fantasy,Supernatural,Fairy Tale,Animals,Coming of Age,Autobiographical,Isekai,Anthropomorphism,Shapeshifting,Urban Fantasy,Tragedy,Adoption,Philosophy,Male Protagonist
+    studio: Studio Ghibli
+    audience_rating: 7.7
+    critic_rating: 7.6
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt10068916:
     title: |-
       Made in Abyss: Fukaki Tamashii no Reimei
@@ -1502,7 +1527,7 @@ metadata:
       Sword Art Online: Ordinal Scale
     original_title: |-
       Sword Art Online the Movie: Ordinal Scale
-    genre.sync: Action,Adventure,Fantasy,Romance,Sci-Fi,Augmented Reality,Video Games,Swordplay,Virtual World,Artificial Intelligence,Heterosexual,Urban,Memory Manipulation
+    genre.sync: Action,Adventure,Fantasy,Romance,Sci-Fi,Video Games,Augmented Reality,Swordplay,Virtual World,Artificial Intelligence,Heterosexual,Urban,Memory Manipulation
     studio: A-1 Pictures
     audience_rating: 7.3
     critic_rating: 7.6
@@ -1640,7 +1665,7 @@ metadata:
       Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou
     original_title: |-
       Violet Evergarden: Eternity and the Auto Memory Doll
-    genre.sync: Drama,Fantasy,Slice of Life,Family Life,Female Protagonist,Writing,Work,Historical,Orphan,Found Family,Time Skip,Foreign,College,Rehabilitation,Ojou-sama,Primarily Female Cast
+    genre.sync: Drama,Fantasy,Slice of Life,Family Life,Female Protagonist,Writing,Work,Historical,Orphan,Found Family,Time Skip,Foreign,College,Primarily Adult Cast,Ojou-sama,Primarily Female Cast
     studio: Kyoto Animation
     audience_rating: 8.3
     critic_rating: 8.4
