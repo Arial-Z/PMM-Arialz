@@ -738,25 +738,6 @@ metadata:
     critic_rating: 7.4
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
-  452593:
-    title: |-
-      Yamato yo Towa ni: REBEL3199
-    sort_title: |-
-      Yamato yo Towa ni: REBEL3199
-    original_title: |-
-      Star Blazers: Space Battleship Yamato 3199
-    genre.sync: Action,Sci-Fi
-    studio: studio MOTHER
-    seasons:
-      1:
-        title: |-
-          Yamato yo Towa ni: REBEL3199
-        label: Score,2024 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 7.1
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   361013:
     title: |-
       Beastars
@@ -3885,6 +3866,26 @@ metadata:
     critic_rating: 7.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+  422853:
+    title: |-
+      Kao Ni La! Zhanshen Xitong 
+    sort_title: |-
+      Kao Ni La! Zhanshen Xitong 
+    original_title: |-
+      War God System! I'm Counting On You!
+    genre.sync: Comedy,Fantasy,Male Protagonist,Surreal Comedy,Wuxia,Isekai,Angels,Battle Royale,Parody
+    studio: Chongzhuo Animation
+    seasons:
+      1:
+        title: |-
+          Kao Ni La! Zhanshen Xitong 
+        label: Score,Watching,2022 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.3
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   441260:
     title: |-
       Karasu wa Aruji wo Erabanai
@@ -3932,7 +3933,7 @@ metadata:
       Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita.
     original_title: |-
       The Magical Girl and the Evil Lieutenant Used to Be Archenemies
-    genre.sync: Comedy,Fantasy,Mahou Shoujo,Romance,Heterosexual,Episodic,Tsundere,Henshin,Urban Fantasy,Magic,Age Gap,Shounen,Tokusatsu
+    genre.sync: Comedy,Fantasy,Mahou Shoujo,Romance,Heterosexual,Episodic,Tsundere,Henshin,Urban Fantasy,Magic,Age Gap,Shounen,Tokusatsu,Iyashikei
     studio: bones
     seasons:
       1:
@@ -5106,7 +5107,7 @@ metadata:
       Make Heroine ga Oosugiru!
     original_title: |-
       Makeine: Too Many Losing Heroines!
-    genre.sync: Comedy,Romance,Unrequited Love,School,Primarily Teen Cast,Heterosexual,Male Protagonist,Love Triangle,School Club,Parody,Satire,Female Protagonist,Meta,Tomboy,Urban
+    genre.sync: Comedy,Romance,Unrequited Love,School,Primarily Teen Cast,Heterosexual,Male Protagonist,Love Triangle,School Club,Female Protagonist,Parody,Satire,Meta,Tomboy,Urban
     studio: A-1 Pictures
     seasons:
       1:
@@ -7426,7 +7427,7 @@ metadata:
       Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru.
     original_title: |-
       The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible
-    genre.sync: Action,Adventure,Comedy,Fantasy,Male Protagonist,Primarily Adult Cast,Ojou-sama,Magic,Elf
+    genre.sync: Action,Adventure,Comedy,Fantasy,Male Protagonist,Ojou-sama,Magic,Primarily Adult Cast,Elf
     studio: Yumeta Company
     seasons:
       1:
@@ -8960,26 +8961,6 @@ metadata:
     critic_rating: 8.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  422853:
-    title: |-
-      Kao Ni La! Zhanshen Xitong 
-    sort_title: |-
-      Kao Ni La! Zhanshen Xitong 
-    original_title: |-
-      War God System! I'm Counting On You!
-    genre.sync: Comedy,Fantasy,Male Protagonist,Surreal Comedy,Wuxia,Isekai,Angels,Battle Royale,Parody
-    studio: Chongzhuo Animation
-    seasons:
-      1:
-        title: |-
-          Kao Ni La! Zhanshen Xitong 
-        label: Score,Watching,2022 Summer
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 7.3
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   428350:
     title: |-
       Watashi no Oshi wa Akuyaku Reijou.
@@ -9214,6 +9195,25 @@ metadata:
     critic_rating: 7.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  452593:
+    title: |-
+      Yamato yo Towa ni: REBEL3199
+    sort_title: |-
+      Yamato yo Towa ni: REBEL3199
+    original_title: |-
+      Star Blazers: Space Battleship Yamato 3199
+    genre.sync: Action,Sci-Fi
+    studio: studio MOTHER
+    seasons:
+      1:
+        title: |-
+          Yamato yo Towa ni: REBEL3199
+        label: Score,2024 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 7.1
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   434310:
     title: |-
       Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu
@@ -9231,7 +9231,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
-    critic_rating: 7.2
+    critic_rating: 7.1
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   412374:
