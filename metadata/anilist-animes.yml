@@ -174,8 +174,8 @@ metadata:
           2.5 Jigen no Ririsa
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -1159,7 +1159,7 @@ metadata:
           Captain Tsubasa: Season 2 - Junior Youth-hen
         label: Score,2023 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.1
+        user_rating: 7.2
     audience_rating: 7.1
     critic_rating: 7.4
     label: Ended,Paused
@@ -1542,7 +1542,7 @@ metadata:
       Dandadan
     original_title: |-
       Dan Da Dan
-    genre.sync: Action,Comedy,Drama,Romance,Sci-Fi,Supernatural,Urban Fantasy,Ghost,Youkai,Aliens,Primarily Teen Cast,Surreal Comedy,Super Power,Female Protagonist,Shounen,Tragedy,Male Protagonist,Cosmic Horror,Heterosexual,Henshin,School
+    genre.sync: Action,Comedy,Drama,Romance,Sci-Fi,Supernatural,Urban Fantasy,Ghost,Youkai,Aliens,Primarily Teen Cast,Super Power,Surreal Comedy,Female Protagonist,Shounen,Tragedy,Male Protagonist,Heterosexual,Henshin,School
     studio: Science SARU
     seasons:
       1:
@@ -2050,8 +2050,8 @@ metadata:
           Dungeon no Naka no Hito
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
+        user_rating: 7.0
+    audience_rating: 7.0
     critic_rating: 7.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
@@ -3522,7 +3522,7 @@ metadata:
       Jii-san Baa-san Wakagaeru
     original_title: |-
       Grandpa and Grandma Turn Young Again
-    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Age Regression,Heterosexual,Family Life,Elderly Protagonist,Rural,Episodic,Primarily Adult Cast,Female Protagonist,Male Protagonist,Agriculture
+    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Age Regression,Heterosexual,Family Life,Elderly Protagonist,Rural,Primarily Adult Cast,Episodic,Female Protagonist,Male Protagonist,Agriculture
     studio: Gekkou
     seasons:
       1:
@@ -3894,7 +3894,7 @@ metadata:
       Karasu wa Aruji wo Erabanai
     original_title: |-
       YATAGARASU: The Raven Does Not Choose Its Master
-    genre.sync: Action,Drama,Fantasy,Supernatural,Royal Affairs,Conspiracy,Shapeshifting,Politics,Male Protagonist,Primarily Adult Cast,Assassins,Philosophy,Ojou-sama,Estranged Family,Adoption,Swordplay,Gore,Mythology
+    genre.sync: Action,Drama,Fantasy,Supernatural,Royal Affairs,Conspiracy,Shapeshifting,Politics,Male Protagonist,Primarily Adult Cast,Assassins,Philosophy,Ojou-sama,Estranged Family,Adoption,Swordplay,Gore
     studio: Studio Pierrot
     seasons:
       1:
@@ -6158,7 +6158,7 @@ metadata:
       Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki
     original_title: |-
       The Healer Who Was Banished From His Party, Is, in Fact, the Strongest
-    genre.sync: Action,Adventure,Fantasy
+    genre.sync: Action,Adventure,Fantasy,Male Protagonist
     studio: Studio elle
     seasons:
       1:
@@ -6904,9 +6904,9 @@ metadata:
           Sayonara Ryuusei Konnichiwa Jinsei
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
-    critic_rating: 6.5
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 6.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   425756:
@@ -7262,9 +7262,9 @@ metadata:
           Shicao Lao Long Bei Guanyi E Long Zhi Ming 2nd Season
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.6
+        user_rating: 5.7
     audience_rating: 6.1
-    critic_rating: 6.8
+    critic_rating: 6.7
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   279830:
@@ -7683,6 +7683,26 @@ metadata:
     critic_rating: 6.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  372921:
+    title: |-
+      Somali to Mori no Kamisama
+    sort_title: |-
+      Somali to Mori no Kamisama
+    original_title: |-
+      Somali and the Forest Spirit
+    genre.sync: Adventure,Drama,Fantasy,Slice of Life,Adoption,Female Protagonist,Travel,Family Life,Iyashikei,Lost Civilization,Found Family,Elderly Protagonist,Parenthood,Survival,Male Protagonist,Demons,Youkai
+    studio: Satelight
+    seasons:
+      1:
+        title: |-
+          Somali to Mori no Kamisama
+        label: Score,2020 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.6
+    audience_rating: 7.6
+    critic_rating: 7.8
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   401233:
     title: |-
       Sono Bisque Doll wa Koi wo Suru
@@ -9262,7 +9282,7 @@ metadata:
       Yoru no Kurage wa Oyogenai
     original_title: |-
       Jellyfish Can’t Swim in the Night
-    genre.sync: Drama,Music,Slice of Life,Yuri,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Urban,Drawing,LGBTQ+ Themes,Band,Idol,Transgender,Cute Girls Doing Cute Things,Hikikomori,Denpa
+    genre.sync: Drama,Music,Slice of Life,Primarily Female Cast,Female Protagonist,Primarily Teen Cast,Coming of Age,Urban,Drawing,Band,Idol,Transgender,LGBTQ+ Themes,Cute Girls Doing Cute Things,Hikikomori,Yuri,Denpa
     studio: Doga Kobo
     seasons:
       1:
@@ -9334,7 +9354,7 @@ metadata:
       Yozakura-san Chi no Daisakusen
     original_title: |-
       Mission: Yozakura Family
-    genre.sync: Action,Comedy,Romance,Shounen,Espionage,Marriage,Family Life,Male Protagonist,Yandere,Body Horror,Super Power,Surreal Comedy,Heterosexual,Guns,School
+    genre.sync: Action,Comedy,Romance,Shounen,Espionage,Marriage,Family Life,Male Protagonist,Body Horror,Surreal Comedy,Super Power,Yandere,School,Heterosexual,Guns
     studio: SILVER LINK.
     seasons:
       1:
