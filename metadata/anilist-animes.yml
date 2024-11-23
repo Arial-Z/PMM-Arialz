@@ -5299,19 +5299,6 @@ metadata:
     critic_rating: 7.1
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
-  72454:
-    title: |-
-      Meitantei Conan
-    sort_title: |-
-      Meitantei Conan
-    original_title: |-
-      Case Closed
-    genre.sync: Adventure,Comedy,Mystery,Psychological,Detective,Tragedy,Crime,Espionage,Conspiracy,Police,Age Regression,Male Protagonist,Fugitive,Ensemble Cast,Episodic,Primarily Teen Cast,Criminal Organization,Shounen,Heterosexual,Primarily Adult Cast,School
-    studio: TMS Entertainment
-    audience_rating: 8.1
-    critic_rating: 8.2
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   432747:
     title: |-
       Metallic Rouge
@@ -7696,13 +7683,13 @@ metadata:
       1:
         title: |-
           Somali to Mori no Kamisama
-        label: Score,2020 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2020 Winter
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.6
     audience_rating: 7.6
     critic_rating: 7.8
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   401233:
     title: |-
       Sono Bisque Doll wa Koi wo Suru
