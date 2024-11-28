@@ -8729,10 +8729,16 @@ metadata:
         label: Score,2021 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.1
-    audience_rating: 22.5
-    critic_rating: 7.8
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+      4:
+        title: |-
+          Yamato yo Towa ni: REBEL3199
+        label: Score,2024 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    audience_rating: 7.5
+    critic_rating: 7.6
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   315094:
     title: |-
       Udon no Kuni no Kiniro Kemari
