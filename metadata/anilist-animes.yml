@@ -466,13 +466,13 @@ metadata:
       4:
         title: |-
           Ao no Exorcist: Yuki no Hate-hen
-        label: Score,2024 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.3
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   407840:
     title: |-
       Aoashi
