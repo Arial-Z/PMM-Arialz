@@ -7318,8 +7318,8 @@ metadata:
         user_rating: 5.8
     audience_rating: 6.2
     critic_rating: 6.8
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   279830:
     title: |-
       Shigatsu wa Kimi no Uso
