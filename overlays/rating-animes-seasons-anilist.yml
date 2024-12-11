@@ -1,5 +1,5 @@
 templates:
-  Anilist_Rating:
+  Anilist_season_Rating:
     builder_level: season
     overlay:
       name: <<overlay_name>>
@@ -14,7 +14,7 @@ templates:
       vertical_offset: 30
       vertical_align: bottom
 
-  User_Rating:
+  User_season_Rating:
     default:
       rating_type: user_rating
     builder_level: season
@@ -29,19 +29,19 @@ templates:
       vertical_align: bottom
 
 overlays:
-  Anilist_Rating:
-    template: [name: Anilist_Rating]
+  Anilist_season_Rating:
+    template: [name: Anilist_season_Rating]
     plex_search:
       all:
-        season_label: Score
+        season_label: score
         user_rating.gte: 0.1
         user_rating.lte: 10
 
 
-  User_Rating:
-    template: [name: User_Rating]
+  User_season_Rating:
+    template: [name: User_season_Rating]
     plex_search:
       all:
-        season_label: Score
+        season_label: score
         user_rating.gte: 0.1
         user_rating.lte: 10
