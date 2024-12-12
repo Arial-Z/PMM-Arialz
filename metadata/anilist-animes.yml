@@ -503,8 +503,6 @@ metadata:
     genre.sync: Action,Adventure,Fantasy,Psychological,Isekai,Male Protagonist,Magic,Alternate Universe,Dungeon,Anti-Hero,CGI,Nudity,Cosmic Horror,Female Harem,Primarily Female Cast,Conspiracy,Vampire,Monster Girl,Guns,Software Development,Demons
     studio: White Fox
     seasons:
-      0:
-        label.remove: score
       1:
         title: |-
           Arifureta Shokugyou de Sekai Saikyou
@@ -761,7 +759,6 @@ metadata:
         label: Score,Completed,2021 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.8
-    audience_rating: 7.8
     critic_rating: 7.8
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -3064,8 +3061,8 @@ metadata:
         user_rating: 5.9
     audience_rating: 5.9
     critic_rating: 6.2
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   366263:
     title: |-
       Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
