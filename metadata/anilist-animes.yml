@@ -133,6 +133,32 @@ metadata:
     critic_rating: 7.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  421069:
+    title: |-
+      [Oshi no Ko]
+    sort_title: |-
+      [Oshi no Ko]
+    original_title: |-
+      Oshi No Ko
+    genre.sync: Drama,Mystery,Psychological,Supernatural,Acting,Tragedy,Idol,Revenge,Twins,Male Protagonist,Reincarnation,Urban,Seinen,Detective,Female Protagonist,Coming of Age,Anti-Hero,Time Skip,Orphan,Tsundere,Age Regression,Ensemble Cast
+    studio: Doga Kobo
+    seasons:
+      1:
+        title: |-
+          [Oshi no Ko]
+        label: Score,AA Winner,Completed,2023 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.5
+      2:
+        title: |-
+          [Oshi no Ko] 2nd Season
+        label: Score,Completed,2024 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.6
+    audience_rating: 8.6
+    critic_rating: 8.6
+    label: AA Winner,Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   428168:
     title: |-
       2.5 Jigen no Ririsa
@@ -3030,13 +3056,13 @@ metadata:
       1:
         title: |-
           Hitoribocchi no Isekai Kouryaku
-        label: Score,Watching,2024 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 5.9
     audience_rating: 5.9
     critic_rating: 6.2
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   366263:
     title: |-
       Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
@@ -5961,32 +5987,6 @@ metadata:
     critic_rating: 6.9
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
-  421069:
-    title: |-
-      [Oshi no Ko]
-    sort_title: |-
-      [Oshi no Ko]
-    original_title: |-
-      Oshi No Ko
-    genre.sync: Drama,Mystery,Psychological,Supernatural,Acting,Tragedy,Idol,Revenge,Twins,Male Protagonist,Reincarnation,Urban,Seinen,Detective,Female Protagonist,Coming of Age,Anti-Hero,Time Skip,Orphan,Tsundere,Age Regression,Ensemble Cast
-    studio: Doga Kobo
-    seasons:
-      1:
-        title: |-
-          [Oshi no Ko]
-        label: Score,AA Winner,Completed,2023 Spring
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.5
-      2:
-        title: |-
-          [Oshi no Ko] 2nd Season
-        label: Score,Completed,2024 Summer
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.6
-    audience_rating: 8.6
-    critic_rating: 8.6
-    label: AA Winner,Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   371437:
     title: |-
       Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…
