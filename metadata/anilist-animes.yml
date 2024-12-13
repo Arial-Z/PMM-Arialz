@@ -177,8 +177,8 @@ metadata:
         user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 7.1
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Planned
+    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   306269:
     title: |-
       3-gatsu no Lion
@@ -759,9 +759,16 @@ metadata:
         label: Score,Completed,2021 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.8
-    critic_rating: 7.8
-    label: AA Winner,Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+      3:
+        title: |-
+          BEASTARS FINAL SEASON Part 1
+        label: Score,Planning,2024 Fall
+        label.remove: Completed,Watching,Dropped,Paused,
+        user_rating: 7.6
+    audience_rating: 7.7
+    critic_rating: 7.9
+    label: AA Winner,Ended,Planning
+    label.remove: Planned,Airing,Watching,Dropped,Paused,
   219771:
     title: |-
       Beelzebub
@@ -876,7 +883,7 @@ metadata:
           Blue Lock VS. U-20 JAPAN
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.7
+        user_rating: 6.8
     audience_rating: 7.4
     critic_rating: 7.4
     label: Airing,Watching
@@ -1559,7 +1566,7 @@ metadata:
       Dandadan
     original_title: |-
       Dan Da Dan
-    genre.sync: Action,Comedy,Drama,Romance,Sci-Fi,Supernatural,Ghost,Urban Fantasy,Youkai,Aliens,Primarily Teen Cast,Surreal Comedy,Super Power,Female Protagonist,Tragedy,Shounen,Male Protagonist,Heterosexual,Henshin,School
+    genre.sync: Action,Comedy,Drama,Romance,Sci-Fi,Supernatural,Ghost,Urban Fantasy,Youkai,Aliens,Primarily Teen Cast,Surreal Comedy,Super Power,Female Protagonist,Shounen,Male Protagonist,Tragedy,Heterosexual,Henshin,School,Gyaru
     studio: Science SARU
     seasons:
       1:
@@ -2047,7 +2054,7 @@ metadata:
           Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.7
+        user_rating: 7.8
     audience_rating: 7.5
     critic_rating: 7.6
     label: Airing,Watching
@@ -3060,7 +3067,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 5.9
     audience_rating: 5.9
-    critic_rating: 6.2
+    critic_rating: 6.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   366263:
@@ -3919,8 +3926,8 @@ metadata:
           Karasu wa Aruji wo Erabanai
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.7
-    audience_rating: 7.7
+        user_rating: 7.8
+    audience_rating: 7.8
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -6510,8 +6517,8 @@ metadata:
           Ranma 1/2 (2024)
         label: Score,2024 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.8
+        user_rating: 7.9
+    audience_rating: 7.9
     critic_rating: 8.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -7026,7 +7033,7 @@ metadata:
       Seiken Tsukai no World Break
     original_title: |-
       World Break: Aria of Curse for a Holy Swordsman
-    genre.sync: Action,Ecchi,Fantasy,Romance,Supernatural,Female Harem,Nudity,Urban Fantasy,Swordplay,School,Reincarnation,Magic,Bullying,Kuudere,Tsundere,Henshin
+    genre.sync: Action,Ecchi,Fantasy,Romance,Supernatural,Female Harem,Nudity,Henshin,Heterosexual,Swordplay,Urban Fantasy,School,Magic,Dragons,Kaiju
     studio: diomedéa
     seasons:
       1:
@@ -7306,14 +7313,14 @@ metadata:
           Shicao Lao Long Bei Guanyi E Long Zhi Ming
         label: Score,Completed,2022 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.5
+        user_rating: 6.6
       2:
         title: |-
           Shicao Lao Long Bei Guanyi E Long Zhi Ming 2nd Season
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.8
-    audience_rating: 6.2
+        user_rating: 6.2
+    audience_rating: 6.4
     critic_rating: 6.8
     label: Ended,Watching
     label.remove: Planned,Airing,Dropped,Paused,Planning
@@ -8184,7 +8191,7 @@ metadata:
       Tensei Kizoku, Kantei Skill de Nariagaru
     original_title: |-
       As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World
-    genre.sync: Adventure,Fantasy,Coming of Age,Isekai,Reincarnation
+    genre.sync: Adventure,Fantasy,Coming of Age,Primarily Child Cast,Isekai,Reincarnation
     studio: studio MOTHER
     seasons:
       1:
