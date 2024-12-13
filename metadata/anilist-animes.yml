@@ -24,7 +24,7 @@ metadata:
     studio: MADHOUSE
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Hajime no Ippo
@@ -58,7 +58,7 @@ metadata:
     studio: Studio Hibari
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Major
@@ -110,7 +110,7 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
     label: Planned
     label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   442215:
@@ -256,7 +256,7 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           86: Eighty Six
@@ -298,7 +298,7 @@ metadata:
     studio: Fanworks
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Aggressive Retsuko
@@ -444,7 +444,7 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Ao no Exorcist
@@ -562,7 +562,7 @@ metadata:
     studio: LIDENFILMS
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Arslan Senki (TV)
@@ -1212,7 +1212,7 @@ metadata:
     studio: P.A. Works
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Charlotte
@@ -1254,7 +1254,7 @@ metadata:
     studio: MADHOUSE
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Chihayafuru
@@ -1328,7 +1328,7 @@ metadata:
     studio: Kyoto Animation
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Chuunibyou demo Koi ga Shitai!
@@ -1356,7 +1356,7 @@ metadata:
     studio: Sharefun Studio
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Cike Wu Liuqi
@@ -1396,7 +1396,7 @@ metadata:
     studio: Animation Do
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Clannad
@@ -1609,7 +1609,7 @@ metadata:
     studio: bones
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           DARKER THAN BLACK: Kuro no Keiyakusha
@@ -1637,7 +1637,7 @@ metadata:
     studio: AIC Plus+
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Date A Live
@@ -1849,7 +1849,7 @@ metadata:
     studio: Production I.G
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Diamond no Ace
@@ -1943,7 +1943,7 @@ metadata:
     studio: TMS Entertainment
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Dr. STONE
@@ -2017,7 +2017,7 @@ metadata:
     studio: J.C. Staff
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
@@ -2169,7 +2169,7 @@ metadata:
     studio: ufotable
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Fate/stay night: Unlimited Blade Works
@@ -2356,7 +2356,7 @@ metadata:
     studio: Actas
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Girls und Panzer
@@ -2468,7 +2468,7 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           GRANBLUE FANTASY The Animation
@@ -2562,7 +2562,7 @@ metadata:
     studio: bones
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST
@@ -2584,7 +2584,7 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Hai to Gensou no Grimgar
@@ -2646,7 +2646,7 @@ metadata:
     studio: Production I.G
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Haikyuu!!
@@ -2918,7 +2918,7 @@ metadata:
     studio: Production IMS
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           High School Fleet
@@ -3006,7 +3006,7 @@ metadata:
     studio: Doga Kobo
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Himouto! Umaru-chan
@@ -3056,13 +3056,13 @@ metadata:
       1:
         title: |-
           Hitoribocchi no Isekai Kouryaku
-        label: Score,Watching,2024 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 5.9
     audience_rating: 5.9
     critic_rating: 6.2
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   366263:
     title: |-
       Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
@@ -3074,7 +3074,7 @@ metadata:
     studio: Ajiado
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
@@ -3275,7 +3275,7 @@ metadata:
     studio: David Production
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Inu x Boku SS
@@ -3655,7 +3655,7 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen
@@ -3815,7 +3815,7 @@ metadata:
     studio: TMS Entertainment
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Kamisama Hajimemashita
@@ -4167,7 +4167,7 @@ metadata:
     studio: Trigger
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Kill la Kill
@@ -4383,7 +4383,7 @@ metadata:
     studio: Kyoto Animation
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Kobayashi-san Chi no Maidragon
@@ -4471,7 +4471,7 @@ metadata:
     studio: Studio DEEN
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Kono Subarashii Sekai ni Shukufuku wo!
@@ -4637,7 +4637,7 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Kuroshitsuji
@@ -4723,7 +4723,7 @@ metadata:
     studio: Kyoto Animation
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Kyoukai no Kanata
@@ -4765,7 +4765,7 @@ metadata:
     studio: Trigger
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Little Witch Academia (TV)
@@ -4787,7 +4787,7 @@ metadata:
     studio: GARDEN
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Long Zu
@@ -4915,7 +4915,7 @@ metadata:
     studio: Satelight
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Macross Frontier
@@ -5009,7 +5009,7 @@ metadata:
     studio: MADHOUSE
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Mahouka Koukou no Rettousei
@@ -5063,7 +5063,7 @@ metadata:
     studio: Wit Studio
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Mahoutsukai no Yome
@@ -5459,7 +5459,7 @@ metadata:
     studio: Studio Bind
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -5527,7 +5527,7 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Nanatsu no Taizai
@@ -5607,7 +5607,7 @@ metadata:
     studio: Signal.MD
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Net-juu no Susume
@@ -5629,7 +5629,7 @@ metadata:
     studio: Doga Kobo
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           New Game!
@@ -5657,7 +5657,7 @@ metadata:
     studio: Kyoto Animation
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Nichijou
@@ -5739,7 +5739,7 @@ metadata:
     studio: bones
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Noragami
@@ -5787,7 +5787,7 @@ metadata:
     studio: Creators in Pack
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Oji-san to Marshmallow
@@ -5868,7 +5868,7 @@ metadata:
     studio: Imagin
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Ookami to Koushinryou
@@ -5916,7 +5916,7 @@ metadata:
     studio: POLYGON PICTURES
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Ooyukiumi no Kaina
@@ -5998,7 +5998,7 @@ metadata:
     studio: SILVER LINK.
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta…
@@ -6106,7 +6106,7 @@ metadata:
     studio: MADHOUSE
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Overlord
@@ -6226,7 +6226,7 @@ metadata:
     studio: Sunrise
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Planetes
@@ -6340,7 +6340,7 @@ metadata:
     studio: Foch
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Quanzhi Fashi
@@ -6392,7 +6392,7 @@ metadata:
     studio: G.CMay Animation & Film
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Quanzhi Gaoshou
@@ -6546,7 +6546,7 @@ metadata:
     studio: White Fox
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Re:Zero kara Hajimeru Isekai Seikatsu
@@ -6600,7 +6600,7 @@ metadata:
     studio: TMS Entertainment
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           ReLIFE
@@ -6754,7 +6754,7 @@ metadata:
     studio: J.C. Staff
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Saiki Kusuo no Ψ-nan
@@ -6882,7 +6882,7 @@ metadata:
     studio: Studio DEEN
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Sankarea
@@ -7096,7 +7096,7 @@ metadata:
     studio: GoHands
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Seitokai Yakuindomo
@@ -7328,7 +7328,7 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Shigatsu wa Kimi no Uso
@@ -7350,7 +7350,7 @@ metadata:
     studio: Studio LAN
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Shiguang Dailiren
@@ -7522,7 +7522,7 @@ metadata:
     studio: P.A. Works
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Shirobako
@@ -7604,7 +7604,7 @@ metadata:
     studio: Studio DEEN
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Shouwa Genroku Rakugo Shinjuu
@@ -7830,7 +7830,7 @@ metadata:
     studio: White Fox
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Steins;Gate
@@ -7852,7 +7852,7 @@ metadata:
     studio: White Fox
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Steins;Gate 0
@@ -7874,7 +7874,7 @@ metadata:
     studio: Production I.G
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Suisei no Gargantia
@@ -7916,7 +7916,7 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Sword Art Online
@@ -8274,7 +8274,7 @@ metadata:
     studio: 8-bit
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Tensei Shitara Slime Datta Ken
@@ -8578,7 +8578,7 @@ metadata:
     studio: Seven Arcs
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Tonikaku Kawaii
@@ -8606,7 +8606,7 @@ metadata:
     studio: J.C. Staff
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Toradora!
@@ -8734,7 +8734,7 @@ metadata:
     studio: Kyoto Animation
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Tsurune: Kazemai Koukou Kyuudou-bu
@@ -8893,7 +8893,7 @@ metadata:
     studio: Production I.G
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Usagi Drop
@@ -9007,7 +9007,7 @@ metadata:
     studio: Kyoto Animation
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Violet Evergarden
@@ -9109,7 +9109,7 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Working!!
@@ -9175,7 +9175,7 @@ metadata:
     studio: A-1 Pictures
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Wotaku ni Koi wa Muzukashii
@@ -9235,7 +9235,7 @@ metadata:
     studio: CloverWorks
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Yakusoku no Neverland
@@ -9435,7 +9435,7 @@ metadata:
     studio: C-Station
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Yuru Camp△
@@ -9489,7 +9489,7 @@ metadata:
     studio: Production I.G
     seasons:
       0:
-        label.remove: score
+        label.remove: Score
       1:
         title: |-
           Yuukoku no Moriarty
