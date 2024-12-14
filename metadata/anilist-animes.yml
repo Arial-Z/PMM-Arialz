@@ -5295,8 +5295,8 @@ metadata:
         user_rating: 5.3
     audience_rating: 5.8
     critic_rating: 6.0
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   397965:
     title: |-
       Mashiro no Oto
