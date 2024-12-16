@@ -348,7 +348,7 @@ metadata:
       Final Fantasy: The Spirits Within
     genre.sync: Action,Drama,Sci-Fi,Full CGI,Post-Apocalyptic,Aliens,Primarily Adult Cast,Ghost,Tragedy
     studio: Square Pictures
-    audience_rating: 5.6
+    audience_rating: 5.7
     critic_rating: 6.3
     label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0385700:
@@ -558,7 +558,7 @@ metadata:
       Hoohokekyo Tonari no Yamada-kun
     original_title: |-
       My Neighbors the Yamadas
-    genre.sync: Comedy,Slice of Life,Ensemble Cast,Family Life,Achronological Order
+    genre.sync: Comedy,Slice of Life,Ensemble Cast,Episodic,Family Life,Achronological Order,Chibi,Rotoscoping
     studio: Studio Ghibli
     audience_rating: 6.9
     critic_rating: 7.1
@@ -594,7 +594,7 @@ metadata:
       Hotaru no Haka
     original_title: |-
       Grave of the Fireflies
-    genre.sync: Drama,Tragedy,Survival,Orphan,War,Family Life,Historical,Primarily Child Cast,Rural,Military,Homeless
+    genre.sync: Drama,Tragedy,Survival,Orphan,War,Family Life,Historical,Primarily Child Cast,Autobiographical,Rural,Military,Homeless
     studio: Studio Ghibli
     audience_rating: 8.3
     critic_rating: 8.5
@@ -631,7 +631,7 @@ metadata:
       Josee to Tora to Sakanatachi
     original_title: |-
       Josee, the Tiger and the Fish
-    genre.sync: Drama,Romance,Slice of Life,Disability,Female Protagonist,Male Protagonist,Tsundere,Heterosexual,Coming of Age,Primarily Adult Cast,Rehabilitation,Drawing,Tragedy
+    genre.sync: Drama,Romance,Slice of Life,Disability,Female Protagonist,Male Protagonist,Tsundere,Heterosexual,Coming of Age,Josei,Rehabilitation,Primarily Adult Cast,Drawing,Tragedy
     studio: bones
     audience_rating: 8.2
     critic_rating: 8.4
@@ -1077,7 +1077,7 @@ metadata:
       Made in Abyss: Fukaki Tamashii no Reimei
     original_title: |-
       Made in Abyss: Dawn of the Deep Soul
-    genre.sync: Action,Adventure,Drama,Fantasy,Horror,Mystery,Psychological,Sci-Fi,Tragedy,Survival,Primarily Child Cast,Body Swapping,Seinen,Lost Civilization,Gore,Body Horror,Female Protagonist,Robots,Male Protagonist
+    genre.sync: Action,Adventure,Drama,Fantasy,Horror,Mystery,Psychological,Sci-Fi,Tragedy,Survival,Primarily Child Cast,Body Swapping,Seinen,Lost Civilization,Gore,Body Horror,Female Protagonist,Robots,Anthropomorphism,Male Protagonist
     studio: Kinema Citrus
     audience_rating: 8.5
     critic_rating: 8.6
@@ -1389,7 +1389,7 @@ metadata:
       Seishun Buta Yarou wa Odekake Sister no Yume wo Minai
     original_title: |-
       Rascal Does Not Dream of a Sister Venturing Out
-    genre.sync: Drama,Psychological,Supernatural,Female Protagonist,Male Protagonist,Coming of Age,Primarily Female Cast,Primarily Teen Cast,Rehabilitation,Urban Fantasy,Family Life,School,Heterosexual
+    genre.sync: Drama,Psychological,Supernatural,Female Protagonist,Coming of Age,Male Protagonist,Primarily Female Cast,Primarily Teen Cast,Rehabilitation,Urban Fantasy,Family Life,School,Heterosexual
     studio: CloverWorks
     audience_rating: 7.9
     critic_rating: 7.8
@@ -1491,7 +1491,7 @@ metadata:
     genre.sync: Action,Drama,Mecha,Sci-Fi,Space,Aliens,Monster Girl,Military,Post-Apocalyptic,Real Robot,CGI,Full CGI,Male Protagonist
     studio: POLYGON PICTURES
     audience_rating: 7.2
-    critic_rating: 7.4
+    critic_rating: 7.5
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
   tt1121794:
@@ -1620,7 +1620,8 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 8.0
     critic_rating: 8.3
-    label.remove: Completed,Watching,Dropped,Paused,Planning
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt15467380:
     title: |-
       Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen
