@@ -287,6 +287,26 @@ metadata:
     critic_rating: 7.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  310436:
+    title: |-
+      Aggressive Retsuko
+    sort_title: |-
+      Aggressive Retsuko
+    original_title: |-
+      Aggressive Retsuko
+    genre.sync: Comedy,Music,Slice of Life,Episodic,Work,Office Lady,Primarily Adult Cast,Animals,Chibi,Female Protagonist,Metal Music,Satire
+    studio: Fanworks
+    seasons:
+      1:
+        title: |-
+          Aggressive Retsuko
+        label: Score,2016 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.6
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   346744:
     title: |-
       Aggressive Retsuko
@@ -330,26 +350,6 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.3
     audience_rating: 7.4
-    critic_rating: 7.6
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  310436:
-    title: |-
-      Aggressive Retsuko
-    sort_title: |-
-      Aggressive Retsuko
-    original_title: |-
-      Aggressive Retsuko
-    genre.sync: Comedy,Music,Slice of Life,Episodic,Work,Office Lady,Primarily Adult Cast,Animals,Chibi,Female Protagonist,Metal Music,Satire
-    studio: Fanworks
-    seasons:
-      1:
-        title: |-
-          Aggressive Retsuko
-        label: Score,2016 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
     critic_rating: 7.6
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
@@ -3057,7 +3057,7 @@ metadata:
       Hitoribocchi no Isekai Kouryaku
     original_title: |-
       Loner Life in Another World
-    genre.sync: Action,Adventure,Fantasy,Isekai,Meta,Female Harem
+    genre.sync: Action,Adventure,Fantasy,Isekai,Meta,Male Protagonist
     studio: Hayabusa Film
     seasons:
       1:
@@ -3065,8 +3065,8 @@ metadata:
           Hitoribocchi no Isekai Kouryaku
         label: Score,Completed,2024 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 5.9
-    audience_rating: 5.9
+        user_rating: 6.4
+    audience_rating: 6.4
     critic_rating: 6.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -3380,7 +3380,7 @@ metadata:
       Isekai Shikkaku
     original_title: |-
       No Longer Allowed in Another World
-    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Supernatural,Isekai,Suicide,Male Protagonist,Seinen,Nekomimi,Magic,Satire,Philosophy,Travel
+    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Supernatural,Isekai,Suicide,Male Protagonist,Seinen,Satire,Travel,Nekomimi,Philosophy,Magic
     studio: Atelier Pontdarc
     seasons:
       1:
@@ -5172,7 +5172,7 @@ metadata:
       Make Heroine ga Oosugiru!
     original_title: |-
       Makeine: Too Many Losing Heroines!
-    genre.sync: Comedy,Romance,Unrequited Love,School,Primarily Teen Cast,Heterosexual,Male Protagonist,Love Triangle,School Club,Female Protagonist,Parody,Satire,Meta,Tomboy,Urban
+    genre.sync: Comedy,Romance,Unrequited Love,School,Primarily Teen Cast,Heterosexual,Male Protagonist,Love Triangle,Female Protagonist,Parody,School Club,Satire,Meta,Tomboy,Urban
     studio: A-1 Pictures
     seasons:
       1:
@@ -6571,7 +6571,7 @@ metadata:
           Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.6
+        user_rating: 8.5
     audience_rating: 8.3
     critic_rating: 8.5
     label: AA Winner,Airing,Watching
@@ -6583,7 +6583,7 @@ metadata:
       Rekishi ni Nokoru Akujo ni Naruzo
     original_title: |-
       I’ll Become a Villainess Who Goes Down in History
-    genre.sync: Comedy,Fantasy,Romance,Villainess,Female Protagonist,Royal Affairs,Josei,Reincarnation
+    genre.sync: Comedy,Fantasy,Romance,Villainess,Female Protagonist,Royal Affairs,Josei,Heterosexual,Reincarnation
     studio: Maho Film
     seasons:
       1:
@@ -6659,7 +6659,7 @@ metadata:
           Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran
         label: Score,2024 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.7
+        user_rating: 7.8
     audience_rating: 7.6
     critic_rating: 7.8
     label: Airing,Watching
@@ -8417,7 +8417,7 @@ metadata:
       Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san
     original_title: |-
       Alya Sometimes Hides Her Feelings in Russian
-    genre.sync: Comedy,Romance,Slice of Life,School,Primarily Teen Cast,Heterosexual,Estranged Family,Tsundere,Male Protagonist,Politics,School Club,Primarily Female Cast,Kuudere,Otaku Culture,Love Triangle
+    genre.sync: Comedy,Romance,Slice of Life,School,Primarily Teen Cast,Heterosexual,Estranged Family,Tsundere,Male Protagonist,School Club,Politics,Primarily Female Cast,Kuudere,Urban,Female Protagonist,Love Triangle,Otaku Culture
     studio: Doga Kobo
     seasons:
       1:
