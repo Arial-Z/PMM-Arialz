@@ -1572,13 +1572,13 @@ metadata:
       1:
         title: |-
           Dandadan
-        label: Score,Watching,2024 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.5
     audience_rating: 8.5
     critic_rating: 8.7
-    label: Planned,Watching
-    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   285357:
     title: |-
       Danna ga Nani wo Itteiru ka Wakaranai Ken
@@ -2079,6 +2079,26 @@ metadata:
     critic_rating: 7.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  388574:
+    title: |-
+      Meikyuu Black Company
+    sort_title: |-
+      Meikyuu Black Company
+    original_title: |-
+      The Dungeon of Black Company
+    genre.sync: Comedy,Fantasy,Work,Dungeon,Satire,Isekai,Parody,Anti-Hero,Demons,Villainess,Economics,Post-Apocalyptic
+    studio: SILVER LINK.
+    seasons:
+      1:
+        title: |-
+          Meikyuu Black Company
+        label: Score,Watching,2021 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.0
+    audience_rating: 7.0
+    critic_rating: 7.2
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   421273:
     title: |-
       Edomae Elf
@@ -5330,13 +5350,13 @@ metadata:
       1:
         title: |-
           Mecha-ude (TV)
-        label: Score,Watching,2024 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.7
     audience_rating: 6.7
     critic_rating: 6.9
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   432747:
     title: |-
       Metallic Rouge
@@ -5470,13 +5490,13 @@ metadata:
       1:
         title: |-
           Nageki no Bourei wa Intai Shitai
-        label: Score,Watching,2024 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 7.1
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   413333:
     title: |-
       Nanatsu no Maken ga Shihai Suru
@@ -6189,13 +6209,13 @@ metadata:
       1:
         title: |-
           Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki
-        label: Score,Watching,2024 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 5.7
     audience_rating: 5.7
     critic_rating: 5.8
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   75796:
     title: |-
       Planetes
@@ -6429,13 +6449,13 @@ metadata:
       1:
         title: |-
           Raise wa Tanin ga Ii
-        label: Score,Watching,2024 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.7
     audience_rating: 6.7
     critic_rating: 7.2
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   299506:
     title: |-
       Rakudai Kishi no Cavalry
@@ -6563,13 +6583,13 @@ metadata:
       1:
         title: |-
           Rekishi ni Nokoru Akujo ni Naruzo
-        label: Score,Watching,2024 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 7.2
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   299508:
     title: |-
       ReLIFE
@@ -6927,13 +6947,13 @@ metadata:
       1:
         title: |-
           Sayonara Ryuusei Konnichiwa Jinsei
-        label: Score,Watching,2024 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.4
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   425756:
     title: |-
       Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
@@ -7039,13 +7059,13 @@ metadata:
       2:
         title: |-
           Seirei Gensouki 2
-        label: Score,Watching,2024 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.9
     audience_rating: 6.9
     critic_rating: 6.9
-    label: Ended,Watching
-    label.remove: Planned,Airing,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   345596:
     title: |-
       Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
@@ -8177,13 +8197,13 @@ metadata:
       2:
         title: |-
           Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season
-        label: Score,Watching,2024 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.3
     audience_rating: 7.2
     critic_rating: 7.3
-    label: Planned,Watching
-    label.remove: Airing,Ended,Dropped,Paused,Planning
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   423362:
     title: |-
       Tensei Oujo to Tensai Reijou no Mahou Kakumei
@@ -8640,6 +8660,32 @@ metadata:
     critic_rating: 7.9
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  321532:
+    title: |-
+      Tsugumomo
+    sort_title: |-
+      Tsugumomo
+    original_title: |-
+      Tsugumomo
+    genre.sync: Action,Comedy,Ecchi,Supernatural,Coming of Age,Youkai,Nudity,Gods,Primarily Child Cast,Female Harem
+    studio: Zero-G
+    seasons:
+      1:
+        title: |-
+          Tsugumomo
+        label: Score,2017 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.7
+      2:
+        title: |-
+          Tsugu Tsugumomo
+        label: Score,2020 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.2
+    audience_rating: 6.9
+    critic_rating: 7.2
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   325197:
     title: |-
       Tsuki ga Kirei
