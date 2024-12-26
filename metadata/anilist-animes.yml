@@ -2079,26 +2079,6 @@ metadata:
     critic_rating: 7.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  388574:
-    title: |-
-      Meikyuu Black Company
-    sort_title: |-
-      Meikyuu Black Company
-    original_title: |-
-      The Dungeon of Black Company
-    genre.sync: Comedy,Fantasy,Work,Dungeon,Satire,Isekai,Parody,Anti-Hero,Demons,Villainess,Economics,Post-Apocalyptic
-    studio: SILVER LINK.
-    seasons:
-      1:
-        title: |-
-          Meikyuu Black Company
-        label: Score,Watching,2021 Summer
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
-    critic_rating: 7.2
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   421273:
     title: |-
       Edomae Elf
@@ -5357,6 +5337,26 @@ metadata:
     critic_rating: 6.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  388574:
+    title: |-
+      Meikyuu Black Company
+    sort_title: |-
+      Meikyuu Black Company
+    original_title: |-
+      The Dungeon of Black Company
+    genre.sync: Comedy,Fantasy,Work,Dungeon,Satire,Isekai,Parody,Anti-Hero,Demons,Villainess,Economics,Post-Apocalyptic
+    studio: SILVER LINK.
+    seasons:
+      1:
+        title: |-
+          Meikyuu Black Company
+        label: Score,Watching,2021 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.0
+    audience_rating: 7.0
+    critic_rating: 7.2
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   432747:
     title: |-
       Metallic Rouge
@@ -7178,8 +7178,8 @@ metadata:
         user_rating: 7.0
     audience_rating: 6.9
     critic_rating: 7.2
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   401874:
     title: |-
       Senpai ga Uzai Kouhai no Hanashi
@@ -9314,13 +9314,13 @@ metadata:
       1:
         title: |-
           Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu
-        label: Score,Watching,2024 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 7.0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   412374:
     title: |-
       Yofukashi no Uta
