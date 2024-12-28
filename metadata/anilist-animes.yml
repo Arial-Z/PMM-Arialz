@@ -1142,26 +1142,6 @@ metadata:
     critic_rating: 8.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  412374:
-    title: |-
-      Yofukashi no Uta
-    sort_title: |-
-      Yofukashi no Uta
-    original_title: |-
-      Call of the Night
-    genre.sync: Comedy,Psychological,Romance,Slice of Life,Supernatural,Vampire,Urban Fantasy,Urban,Male Protagonist,Heterosexual,Coming of Age,Age Gap,Female Protagonist,Shounen,Aromantic,Philosophy,Primarily Teen Cast
-    studio: LIDENFILMS
-    seasons:
-      1:
-        title: |-
-          Yofukashi no Uta
-        label: Score,Completed,2022 Summer
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.9
-    audience_rating: 7.9
-    critic_rating: 8.0
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   339203:
     title: |-
       Captain Tsubasa (2018)
@@ -5370,13 +5350,13 @@ metadata:
       1:
         title: |-
           Meikyuu Black Company
-        label: Score,Watching,2021 Summer
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2021 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.2
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   432747:
     title: |-
       Metallic Rouge
@@ -7384,7 +7364,6 @@ metadata:
         label: Score,2023 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.6
-    audience_rating: 8.6
     critic_rating: 8.6
     label: Planned,Watching
     label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
@@ -9341,6 +9320,26 @@ metadata:
     critic_rating: 7.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  412374:
+    title: |-
+      Yofukashi no Uta
+    sort_title: |-
+      Yofukashi no Uta
+    original_title: |-
+      Call of the Night
+    genre.sync: Comedy,Psychological,Romance,Slice of Life,Supernatural,Vampire,Urban Fantasy,Urban,Male Protagonist,Heterosexual,Coming of Age,Age Gap,Female Protagonist,Shounen,Aromantic,Philosophy,Primarily Teen Cast
+    studio: LIDENFILMS
+    seasons:
+      1:
+        title: |-
+          Yofukashi no Uta
+        label: Score,Completed,2022 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.9
+    audience_rating: 7.9
+    critic_rating: 8.0
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   432808:
     title: |-
       Yoru no Kurage wa Oyogenai
