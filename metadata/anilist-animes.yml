@@ -471,8 +471,8 @@ metadata:
         user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.3
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   407840:
     title: |-
       Aoashi
@@ -840,8 +840,8 @@ metadata:
     studio: Studio Pierrot
     audience_rating: 7.8
     critic_rating: 8.0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   430095:
     title: |-
       Blue Archive The Animation
@@ -881,13 +881,13 @@ metadata:
       2:
         title: |-
           Blue Lock VS. U-20 JAPAN
-        label: Score,Watching,2024 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 7.4
     critic_rating: 7.4
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   413522:
     title: |-
       Bocchi the Rock!
@@ -1243,13 +1243,13 @@ metadata:
       1:
         title: |-
           Chi.: Chikyuu no Undou ni Tsuite
-        label: Score,2024 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.0
     audience_rating: 8.0
     critic_rating: 8.3
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   251982:
     title: |-
       Chihayafuru
@@ -5198,13 +5198,13 @@ metadata:
       1:
         title: |-
           Maou 2099
-        label: Score,Watching,2024 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.3
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   375927:
     title: |-
       Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou
@@ -6932,8 +6932,8 @@ metadata:
         user_rating: 6.5
     audience_rating: 6.5
     critic_rating: 6.8
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   447609:
     title: |-
       Sayonara Ryuusei Konnichiwa Jinsei
