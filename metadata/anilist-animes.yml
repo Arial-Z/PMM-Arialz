@@ -111,6 +111,12 @@ metadata:
     seasons:
       0:
         label.remove: Score
+      1:
+        title: |-
+          Fate/strange Fake
+        label: Score
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
     label: Planned
     label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   442215:
@@ -6678,6 +6684,24 @@ metadata:
     critic_rating: 6.4
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  447749:
+    title: |-
+      S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu
+    sort_title: |-
+      S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu
+    original_title: |-
+      Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!
+    genre.sync: Action,Adventure,Comedy,Ecchi,Fantasy,Elf
+    studio: Zero-G
+    seasons:
+      1:
+        title: |-
+          S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   398387:
     title: |-
       Sabikui Bisco
