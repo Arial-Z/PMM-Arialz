@@ -262,7 +262,8 @@ metadata:
     studio: Toei Animation
     audience_rating: 8.0
     critic_rating: 8.2
-    label.remove: Completed,Watching,Dropped,Paused,Planning
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt9526152:
     title: |-
       Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: Orion no Ya

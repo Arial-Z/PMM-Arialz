@@ -934,24 +934,6 @@ metadata:
     critic_rating: 8.8
     label: AA Winner,Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  450933:
-    title: |-
-      Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite
-    sort_title: |-
-      Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite
-    original_title: |-
-      Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~
-    genre.sync: Action,Adventure,Fantasy,Magic
-    studio: Asahi Production
-    seasons:
-      1:
-        title: |-
-          Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite
-        label: Score,2025 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   303071:
     title: |-
       Boku dake ga Inai Machi
@@ -2792,6 +2774,24 @@ metadata:
     critic_rating: 7.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  450933:
+    title: |-
+      Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite
+    sort_title: |-
+      Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite
+    original_title: |-
+      Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~
+    genre.sync: Action,Adventure,Fantasy,Magic
+    studio: Asahi Production
+    seasons:
+      1:
+        title: |-
+          Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   445011:
     title: |-
       Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made
@@ -2812,24 +2812,6 @@ metadata:
     critic_rating: 6.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  452426:
-    title: |-
-      Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi
-    sort_title: |-
-      Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi
-    original_title: |-
-      Headhunted to Another World: From Salaryman to Big Four!
-    genre.sync: Adventure,Comedy,Fantasy,Isekai
-    studio: GEEKTOYS
-    seasons:
-      1:
-        title: |-
-          Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi
-        label: Score,Watching,2025 Winter
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   401856:
     title: |-
       Heion Sedai no Idaten-tachi
@@ -3561,6 +3543,24 @@ metadata:
     critic_rating: 7.3
     label: Ended,Watching
     label.remove: Planned,Airing,Dropped,Paused,Planning
+  449884:
+    title: |-
+      Izure Saikyou no Renkinjutsushi?
+    sort_title: |-
+      Izure Saikyou no Renkinjutsushi?
+    original_title: |-
+      Possibly the Greatest Alchemist of All Time
+    genre.sync: Adventure,Fantasy,Isekai,Alchemy
+    studio: Studio Comet
+    seasons:
+      1:
+        title: |-
+          Izure Saikyou no Renkinjutsushi?
+        label: Score,Watching,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   423121:
     title: |-
       Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
@@ -5491,6 +5491,26 @@ metadata:
     critic_rating: 8.7
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  449407:
+    title: |-
+      Momentary Lily
+    sort_title: |-
+      Momentary Lily
+    original_title: |-
+      Momentary Lily
+    genre.sync: Action,Primarily Female Cast,Video Games,Swordplay,Henshin,Parody,Female Protagonist,Cute Girls Doing Cute Things,Post-Apocalyptic,Urban,Urban Fantasy
+    studio: GoHands
+    seasons:
+      1:
+        title: |-
+          Momentary Lily
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 5.6
+    audience_rating: 5.6
+    critic_rating: 6.1
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   437236:
     title: |-
       Momochi-san Chi no Ayakashi Ouji
@@ -6340,24 +6360,6 @@ metadata:
     critic_rating: 8.5
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  449884:
-    title: |-
-      Izure Saikyou no Renkinjutsushi?
-    sort_title: |-
-      Izure Saikyou no Renkinjutsushi?
-    original_title: |-
-      Possibly the Greatest Alchemist of All Time
-    genre.sync: Adventure,Fantasy,Isekai,Alchemy
-    studio: Studio Comet
-    seasons:
-      1:
-        title: |-
-          Izure Saikyou no Renkinjutsushi?
-        label: Score,Watching,2025 Winter
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   431495:
     title: |-
       Potion-danomi de Ikinobimasu!
@@ -6950,6 +6952,24 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  452426:
+    title: |-
+      Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi
+    sort_title: |-
+      Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi
+    original_title: |-
+      Headhunted to Another World: From Salaryman to Big Four!
+    genre.sync: Adventure,Comedy,Fantasy,Isekai
+    studio: GEEKTOYS
+    seasons:
+      1:
+        title: |-
+          Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi
+        label: Score,Watching,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   79089:
     title: |-
       Samurai Champloo
