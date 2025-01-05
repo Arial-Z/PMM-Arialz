@@ -495,10 +495,16 @@ metadata:
         label: Score,Watching,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.2
+      5:
+        title: |-
+          Ao no Exorcist: Yosuga-hen
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
     audience_rating: 7.2
     critic_rating: 7.3
-    label: Planned,Watching
-    label.remove: Airing,Ended,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   407840:
     title: |-
       Aoashi
@@ -723,6 +729,26 @@ metadata:
     critic_rating: 8.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  439765:
+    title: |-
+      BanG Dream! Ave Mujica
+    sort_title: |-
+      BanG Dream! Ave Mujica
+    original_title: |-
+      BanG Dream! Ave Mujica
+    genre.sync: Drama,Music,Slice of Life,Band,Female Protagonist,Primarily Female Cast,Tragedy,Metal Music,Full CGI,Primarily Teen Cast,Acting
+    studio: SANZIGEN
+    seasons:
+      1:
+        title: |-
+          BanG Dream! Ave Mujica
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.6
+    audience_rating: 7.6
+    critic_rating: 8.0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   281270:
     title: |-
       Barakamon
@@ -2189,8 +2215,8 @@ metadata:
         user_rating: 7.7
     audience_rating: 7.7
     critic_rating: 7.8
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   278626:
     title: |-
       Fate/stay night: Unlimited Blade Works
@@ -2584,6 +2610,26 @@ metadata:
     critic_rating: 8.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  447951:
+    title: |-
+      Grisaia: Phantom Trigger THE ANIMATION (TV)
+    sort_title: |-
+      Grisaia: Phantom Trigger THE ANIMATION (TV)
+    original_title: |-
+      Grisaia: Phantom Trigger
+    genre.sync: Action,Primarily Female Cast
+    studio: Bibury Animation Studios
+    seasons:
+      1:
+        title: |-
+          Grisaia: Phantom Trigger THE ANIMATION (TV)
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 6.8
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   85249:
     title: |-
       Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST
@@ -3249,6 +3295,26 @@ metadata:
     critic_rating: 9.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  451527:
+    title: |-
+      Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.
+    sort_title: |-
+      Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.
+    original_title: |-
+      I'm Getting Married to a Girl I Hate in My Class
+    genre.sync: Comedy,Romance,Tsundere,Arranged Marriage,Marriage
+    studio: Studio Gokumi
+    seasons:
+      1:
+        title: |-
+          Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.
+        label: Score,Watching,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 7.1
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   370377:
     title: |-
       Id: Invaded
@@ -4169,6 +4235,8 @@ metadata:
     genre.sync: Action,Mecha,Sci-Fi,Real Robot,Female Protagonist,Space,School,Primarily Teen Cast,Yuri,Revenge,Politics,Clone,Artificial Intelligence,Class Struggle,Cyborg,Guns,Conspiracy,Terrorism,Tsundere,Boarding School,Love Triangle
     studio: Sunrise
     seasons:
+      0:
+        label.remove: Score
       1:
         title: |-
           Kidou Senshi Gundam: Suisei no Majo
@@ -5399,6 +5467,25 @@ metadata:
     critic_rating: 6.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  433953:
+    title: |-
+      Medalist
+    sort_title: |-
+      Medalist
+    original_title: |-
+      Medalist
+    genre.sync: Drama,Psychological,Sports,Ice Skating
+    studio: ENGI
+    seasons:
+      1:
+        title: |-
+          Medalist
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 7.5
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   388574:
     title: |-
       Meikyuu Black Company
@@ -5901,6 +5988,24 @@ metadata:
     critic_rating: 6.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  436827:
+    title: |-
+      Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru
+    sort_title: |-
+      Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru
+    original_title: |-
+      OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying
+    genre.sync: Comedy,Romance,Male Protagonist,Heterosexual,Seinen,Love Triangle
+    studio: Millepensee
+    seasons:
+      1:
+        title: |-
+          Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   81797:
     title: |-
       One Piece
@@ -6026,10 +6131,16 @@ metadata:
         label: Score,Completed,2024 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.2
-    audience_rating: 8.2
-    critic_rating: 8.3
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+      2:
+        title: |-
+          Ore dake Level Up na Ken: Season 2 - Arise from the Shadow
+        label: Score,Watching,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 8.5
+    audience_rating: 8.4
+    critic_rating: 8.6
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   441727:
     title: |-
       Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai
@@ -6775,7 +6886,9 @@ metadata:
           S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 5.8
+    audience_rating: 5.8
+    critic_rating: 6.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   398387:
@@ -7831,6 +7944,26 @@ metadata:
     critic_rating: 8.1
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  445890:
+    title: |-
+      Sorairo Utility (TV)
+    sort_title: |-
+      Sorairo Utility (TV)
+    original_title: |-
+      Sorairo Utility (TV)
+    genre.sync: Slice of Life,Sports,Golf,Cute Girls Doing Cute Things,Female Protagonist
+    studio: Yostar Pictures
+    seasons:
+      1:
+        title: |-
+          Sorairo Utility (TV)
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.7
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   427883:
     title: |-
       Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.
