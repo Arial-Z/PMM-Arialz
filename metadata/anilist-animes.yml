@@ -99,26 +99,6 @@ metadata:
     critic_rating: 8.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  436779:
-    title: |-
-      Fate/strange Fake
-    sort_title: |-
-      Fate/strange Fake
-    original_title: |-
-      Fate/strange Fake
-    genre.sync: Action,Adventure,Fantasy,Mystery,Supernatural,Swordplay,Dissociative Identities,Conspiracy,Vampire,Archery,Assassins,Cyborg,Religion,War,Police,Ensemble Cast,Foreign,Urban,Urban Fantasy,Magic,Mythology,Battle Royale
-    studio: A-1 Pictures
-    seasons:
-      0:
-        label.remove: Score
-      1:
-        title: |-
-          Fate/strange Fake
-        label: Score
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Planned
-    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   442215:
     title: |-
       Sand Land: The Series
@@ -1082,6 +1062,26 @@ metadata:
     critic_rating: 6.8
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  447573:
+    title: |-
+      Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita
+    sort_title: |-
+      Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita
+    original_title: |-
+      I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic
+    genre.sync: Adventure,Fantasy
+    studio: Marvy Jack
+    seasons:
+      1:
+        title: |-
+          Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 5.9
+    audience_rating: 5.9
+    critic_rating: 6.6
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   426703:
     title: |-
       Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta
@@ -2259,6 +2259,26 @@ metadata:
     critic_rating: 8.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  436779:
+    title: |-
+      Fate/strange Fake
+    sort_title: |-
+      Fate/strange Fake
+    original_title: |-
+      Fate/strange Fake
+    genre.sync: Action,Adventure,Fantasy,Mystery,Supernatural,Swordplay,Dissociative Identities,Conspiracy,Vampire,Archery,Assassins,Cyborg,Religion,War,Police,Ensemble Cast,Foreign,Urban,Urban Fantasy,Magic,Mythology,Battle Royale
+    studio: A-1 Pictures
+    seasons:
+      0:
+        label.remove: Score
+      1:
+        title: |-
+          Fate/strange Fake
+        label: Score
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Planned
+    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   375271:
     title: |-
       Fumetsu no Anata e
@@ -2794,6 +2814,26 @@ metadata:
     critic_rating: 6.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  451128:
+    title: |-
+      Hana wa Saku, Shura no Gotoku
+    sort_title: |-
+      Hana wa Saku, Shura no Gotoku
+    original_title: |-
+      Flower and Asura
+    genre.sync: Drama,Slice of Life,School,School Club,Female Protagonist
+    studio: Studio Bind
+    seasons:
+      1:
+        title: |-
+          Hana wa Saku, Shura no Gotoku
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 7.4
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   435815:
     title: |-
       Hananoi-kun to Koi no Yamai
@@ -2855,7 +2895,9 @@ metadata:
           Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 6.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   445011:
@@ -3315,45 +3357,6 @@ metadata:
     critic_rating: 9.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  452466:
-    title: |-
-      Kono Kaisha ni Suki na Hito ga Imasu
-    sort_title: |-
-      Kono Kaisha ni Suki na Hito ga Imasu
-    original_title: |-
-      Kono Kaisha ni Suki na Hito ga Imasu
-    genre.sync: Comedy,Romance,Slice of Life,Seinen,Primarily Adult Cast,Heterosexual
-    studio: BLADE
-    seasons:
-      1:
-        title: |-
-          Kono Kaisha ni Suki na Hito ga Imasu
-        label: Score,2025 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
-    critic_rating: 7.3
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
-  447573:
-    title: |-
-      Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita
-    sort_title: |-
-      Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita
-    original_title: |-
-      I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic
-    genre.sync: Adventure,Fantasy
-    studio: Marvy Jack
-    seasons:
-      1:
-        title: |-
-          Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita
-        label: Score,2025 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 6.6
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   370377:
     title: |-
       Id: Invaded
@@ -4596,6 +4599,26 @@ metadata:
     critic_rating: 8.1
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  452466:
+    title: |-
+      Kono Kaisha ni Suki na Hito ga Imasu
+    sort_title: |-
+      Kono Kaisha ni Suki na Hito ga Imasu
+    original_title: |-
+      Kono Kaisha ni Suki na Hito ga Imasu
+    genre.sync: Comedy,Romance,Slice of Life,Seinen,Primarily Adult Cast,Heterosexual
+    studio: BLADE
+    seasons:
+      1:
+        title: |-
+          Kono Kaisha ni Suki na Hito ga Imasu
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.5
+    audience_rating: 6.5
+    critic_rating: 7.3
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   358181:
     title: |-
       Kono Oto Tomare!
@@ -4790,6 +4813,26 @@ metadata:
     critic_rating: 7.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  449988:
+    title: |-
+      Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai
+    sort_title: |-
+      Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai
+    original_title: |-
+      Medaka Kuroiwa is Impervious to My Charms
+    genre.sync: Comedy,Ecchi,Romance,Love Triangle,School,Heterosexual,Female Harem,Female Protagonist
+    studio: SynergySP
+    seasons:
+      1:
+        title: |-
+          Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.7
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   257765:
     title: |-
       Kuroko no Basket
@@ -5248,6 +5291,26 @@ metadata:
     critic_rating: 6.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  449966:
+    title: |-
+      Mahoutsukai no Yakusoku
+    sort_title: |-
+      Mahoutsukai no Yakusoku
+    original_title: |-
+      Promise of Wizard
+    genre.sync: Fantasy,Magic,Witch
+    studio: LIDENFILMS
+    seasons:
+      1:
+        title: |-
+          Mahoutsukai no Yakusoku
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 5.4
+    audience_rating: 5.4
+    critic_rating: 5.8
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   316842:
     title: |-
       Mahoutsukai no Yome
@@ -5526,26 +5589,6 @@ metadata:
     critic_rating: 6.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  449988:
-    title: |-
-      Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai
-    sort_title: |-
-      Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai
-    original_title: |-
-      Medaka Kuroiwa is Impervious to My Charms
-    genre.sync: Comedy,Ecchi,Romance,Love Triangle,School,Heterosexual,Female Harem,Female Protagonist
-    studio: SynergySP
-    seasons:
-      1:
-        title: |-
-          Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai
-        label: Score,2025 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
-    critic_rating: 6.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   433953:
     title: |-
       Medalist
@@ -6573,25 +6616,6 @@ metadata:
     critic_rating: 6.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  449966:
-    title: |-
-      Mahoutsukai no Yakusoku
-    sort_title: |-
-      Mahoutsukai no Yakusoku
-    original_title: |-
-      Promise of Wizard
-    genre.sync: Fantasy,Magic,Witch
-    studio: LIDENFILMS
-    seasons:
-      1:
-        title: |-
-          Mahoutsukai no Yakusoku
-        label: Score,2025 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 5.8
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   262090:
     title: |-
       Psycho-pass
@@ -6979,7 +7003,7 @@ metadata:
       S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu
     original_title: |-
       Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!
-    genre.sync: Action,Adventure,Comedy,Ecchi,Fantasy,Elf
+    genre.sync: Action,Adventure,Comedy,Ecchi,Fantasy,Reincarnation,Elf,Animals,Nudity,Magic
     studio: Zero-G
     seasons:
       1:
@@ -7181,7 +7205,9 @@ metadata:
           Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.0
+    audience_rating: 6.0
+    critic_rating: 6.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   79089:
@@ -9258,10 +9284,16 @@ metadata:
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.5
-    audience_rating: 6.5
-    critic_rating: 6.7
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+      2:
+        title: |-
+          Unnamed Memory Act.2
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.7
+    audience_rating: 6.6
+    critic_rating: 6.9
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   249872:
     title: |-
       Usagi Drop
@@ -9459,7 +9491,7 @@ metadata:
           Watashi no Shiawase na Kekkon 2nd Season
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 7.6
     audience_rating: 7.7
     critic_rating: 7.8
     label: Airing,Completed
