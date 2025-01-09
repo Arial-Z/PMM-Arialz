@@ -1069,7 +1069,7 @@ metadata:
       Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita
     original_title: |-
       I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic
-    genre.sync: Adventure,Fantasy
+    genre.sync: Adventure,Fantasy,Magic,Reincarnation,Isekai
     studio: Marvy Jack
     seasons:
       1:
@@ -3222,6 +3222,25 @@ metadata:
     critic_rating: 6.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  446877:
+    title: |-
+      Honey Lemon Soda
+    sort_title: |-
+      Honey Lemon Soda
+    original_title: |-
+      Honey Lemon Soda
+    genre.sync: Romance,Shoujo,Coming of Age,Bullying,Heterosexual,School
+    studio: J.C. Staff
+    seasons:
+      1:
+        title: |-
+          Honey Lemon Soda
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 7.2
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   366263:
     title: |-
       Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
@@ -3621,10 +3640,15 @@ metadata:
         label: Score,Completed,2024 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.4
-    audience_rating: 6.4
+      2:
+        title: |-
+          Ishura 2nd Season
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
     critic_rating: 6.6
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   373679:
     title: |-
       Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.
@@ -3666,7 +3690,9 @@ metadata:
           Izure Saikyou no Renkinjutsushi?
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.5
+    audience_rating: 6.5
+    critic_rating: 6.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   423121:
@@ -5237,6 +5263,26 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  452091:
+    title: |-
+      Magic Maker: Isekai Mahou no Tsukurikata
+    sort_title: |-
+      Magic Maker: Isekai Mahou no Tsukurikata
+    original_title: |-
+      Magic Maker: How to Make Magic in Another World
+    genre.sync: Action,Adventure,Fantasy,Slice of Life
+    studio: Studio DEEN
+    seasons:
+      1:
+        title: |-
+          Magic Maker: Isekai Mahou no Tsukurikata
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 5.9
+    audience_rating: 5.9
+    critic_rating: 6.6
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   278329:
     title: |-
       Mahouka Koukou no Rettousei
@@ -5298,7 +5344,7 @@ metadata:
       Mahoutsukai no Yakusoku
     original_title: |-
       Promise of Wizard
-    genre.sync: Fantasy,Magic,Witch
+    genre.sync: Fantasy,Magic
     studio: LIDENFILMS
     seasons:
       1:
