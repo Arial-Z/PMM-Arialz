@@ -379,6 +379,24 @@ metadata:
     critic_rating: 7.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  443906:
+    title: |-
+      Akuyaku Reijou Tensei Oji-san
+    sort_title: |-
+      Akuyaku Reijou Tensei Oji-san
+    original_title: |-
+      From Bureaucrat to Villainess: Dad's Been Reincarnated!
+    genre.sync: Comedy,Fantasy,Villainess,Gender Bending,Isekai,Seinen,Reincarnation
+    studio: Ajiado
+    seasons:
+      1:
+        title: |-
+          Akuyaku Reijou Tensei Oji-san
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   279827:
     title: |-
       Aldnoah.Zero
@@ -406,7 +424,7 @@ metadata:
       Ameku Takao no Suiri Karte
     original_title: |-
       Ameku M.D.: Doctor Detective
-    genre.sync: Mystery,Slice of Life,Medicine,Female Protagonist,Detective
+    genre.sync: Mystery,Slice of Life,Medicine,Detective,Female Protagonist
     studio: project No.9
     seasons:
       1:
@@ -414,9 +432,9 @@ metadata:
           Ameku Takao no Suiri Karte
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 7.4
+        user_rating: 7.0
+    audience_rating: 7.0
+    critic_rating: 7.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   348706:
@@ -439,6 +457,25 @@ metadata:
     critic_rating: 7.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  446692:
+    title: |-
+      Douse, Koishite Shimaunda.
+    sort_title: |-
+      Douse, Koishite Shimaunda.
+    original_title: |-
+      Anyway, I'm Falling in Love with You.
+    genre.sync: Drama,Romance,Shoujo,Female Protagonist,Male Harem
+    studio: TYPHOON GRAPHICS
+    seasons:
+      1:
+        title: |-
+          Douse, Koishite Shimaunda.
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 6.6
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   248035:
     title: |-
       Ao no Exorcist
@@ -1631,6 +1668,24 @@ metadata:
     critic_rating: 7.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  453353:
+    title: |-
+      Arafou Otoko no Isekai Tsuuhan Seikatsu
+    sort_title: |-
+      Arafou Otoko no Isekai Tsuuhan Seikatsu
+    original_title: |-
+      The Daily Life of a Middle-Aged Online Shopper in Another World
+    genre.sync: Ecchi,Fantasy,Isekai
+    studio: East Fish Studio
+    seasons:
+      1:
+        title: |-
+          Arafou Otoko no Isekai Tsuuhan Seikatsu
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   432832:
     title: |-
       Dandadan
@@ -2041,10 +2096,16 @@ metadata:
         label: Score,Completed,2023 Fall,2023 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.2
-    audience_rating: 8.1
+      4:
+        title: |-
+          Dr. STONE: SCIENCE FUTURE
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    audience_rating: 12.2
     critic_rating: 8.2
-    label: AA Winner,Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: AA Winner,Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   440820:
     title: |-
       Dragon Ball DAIMA
@@ -2217,6 +2278,26 @@ metadata:
     critic_rating: 7.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  451596:
+    title: |-
+      Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru
+    sort_title: |-
+      Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru
+    original_title: |-
+      Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest
+    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance
+    studio: Okuruto Noboru
+    seasons:
+      1:
+        title: |-
+          Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 6.6
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   410031:
     title: |-
       Fairy Tail: 100 Years Quest
@@ -3237,7 +3318,8 @@ metadata:
           Honey Lemon Soda
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.7
+    audience_rating: 6.7
     critic_rating: 7.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -3645,8 +3727,9 @@ metadata:
           Ishura 2nd Season
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 6.6
+        user_rating: 6.1
+    audience_rating: 6.2
+    critic_rating: 6.9
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   373679:
@@ -3682,7 +3765,7 @@ metadata:
       Izure Saikyou no Renkinjutsushi?
     original_title: |-
       Possibly the Greatest Alchemist of All Time
-    genre.sync: Adventure,Fantasy,Isekai,Alchemy
+    genre.sync: Adventure,Fantasy,Alchemy,Isekai
     studio: Studio Comet
     seasons:
       1:
@@ -7251,8 +7334,8 @@ metadata:
           Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.0
-    audience_rating: 6.0
+        user_rating: 6.1
+    audience_rating: 6.1
     critic_rating: 6.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
