@@ -394,7 +394,9 @@ metadata:
           Akuyaku Reijou Tensei Oji-san
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 7.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   279827:
@@ -472,7 +474,8 @@ metadata:
           Douse, Koishite Shimaunda.
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 5.7
+    audience_rating: 5.7
     critic_rating: 6.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -1683,7 +1686,9 @@ metadata:
           Arafou Otoko no Isekai Tsuuhan Seikatsu
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   432832:
@@ -2101,8 +2106,8 @@ metadata:
           Dr. STONE: SCIENCE FUTURE
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    audience_rating: 12.2
+        user_rating: 7.9
+    audience_rating: 8.1
     critic_rating: 8.2
     label: AA Winner,Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
@@ -2318,6 +2323,24 @@ metadata:
     critic_rating: 7.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  451433:
+    title: |-
+      Farmagia
+    sort_title: |-
+      Farmagia
+    original_title: |-
+      Farmagia
+    genre.sync: Fantasy
+    studio: Bridge
+    seasons:
+      1:
+        title: |-
+          Farmagia
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   278626:
     title: |-
       Fate/stay night: Unlimited Blade Works
@@ -3458,6 +3481,25 @@ metadata:
     critic_rating: 9.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  437234:
+    title: |-
+      Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu
+    sort_title: |-
+      Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu
+    original_title: |-
+      I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time
+    genre.sync: Action,Adventure,Comedy,Fantasy,Primarily Adult Cast
+    studio: CloverWorks
+    seasons:
+      1:
+        title: |-
+          Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 7.2
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   370377:
     title: |-
       Id: Invaded
@@ -5030,10 +5072,16 @@ metadata:
         label: Score,Completed,2023 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.8
+      2:
+        title: |-
+          Kusuriya no Hitorigoto 2nd Season
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
     audience_rating: 8.8
     critic_rating: 8.9
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   368565:
     title: |-
       Kyokou Suiri
@@ -5837,7 +5885,7 @@ metadata:
       Momentary Lily
     original_title: |-
       Momentary Lily
-    genre.sync: Action,Primarily Female Cast,Video Games,Swordplay,Henshin,Parody,Female Protagonist,Cute Girls Doing Cute Things,Post-Apocalyptic,Urban,Urban Fantasy
+    genre.sync: Action,Post-Apocalyptic,Primarily Female Cast,Video Games,Swordplay,Henshin,Female Protagonist,Urban Fantasy,Urban,Cute Girls Doing Cute Things,Food
     studio: GoHands
     seasons:
       1:
@@ -5845,9 +5893,9 @@ metadata:
           Momentary Lily
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.6
-    audience_rating: 5.6
-    critic_rating: 6.1
+        user_rating: 5.5
+    audience_rating: 5.5
+    critic_rating: 6.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   437236:
@@ -9286,6 +9334,26 @@ metadata:
     critic_rating: 7.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  446485:
+    title: |-
+      Übel Blatt
+    sort_title: |-
+      Übel Blatt
+    original_title: |-
+      Übel Blatt
+    genre.sync: Action,Adventure,Drama,Ecchi,Fantasy,Revenge,Elf
+    studio: Satelight
+    seasons:
+      1:
+        title: |-
+          Übel Blatt
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.4
+    audience_rating: 6.4
+    critic_rating: 7.0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   256705:
     title: |-
       Uchuu Kyoudai
@@ -9625,6 +9693,25 @@ metadata:
     critic_rating: 7.8
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+  443904:
+    title: |-
+      Nihon e Youkoso Elf-san.
+    sort_title: |-
+      Nihon e Youkoso Elf-san.
+    original_title: |-
+      Welcome to Japan, Ms. Elf!
+    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Elf,Isekai,Iyashikei,Urban Fantasy
+    studio: Zero-G
+    seasons:
+      1:
+        title: |-
+          Nihon e Youkoso Elf-san.
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 7.2
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   433088:
     title: |-
       Wind Breaker
