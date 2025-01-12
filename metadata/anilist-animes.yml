@@ -386,7 +386,7 @@ metadata:
       Akuyaku Reijou Tensei Oji-san
     original_title: |-
       From Bureaucrat to Villainess: Dad's Been Reincarnated!
-    genre.sync: Comedy,Fantasy,Villainess,Gender Bending,Isekai,Seinen,Reincarnation
+    genre.sync: Comedy,Fantasy,Villainess,Gender Bending,Isekai,Seinen,School,Age Regression,Reincarnation,Female Protagonist
     studio: Ajiado
     seasons:
       1:
@@ -459,26 +459,6 @@ metadata:
     critic_rating: 7.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  446692:
-    title: |-
-      Douse, Koishite Shimaunda.
-    sort_title: |-
-      Douse, Koishite Shimaunda.
-    original_title: |-
-      Anyway, I'm Falling in Love with You.
-    genre.sync: Drama,Romance,Shoujo,Female Protagonist,Male Harem
-    studio: TYPHOON GRAPHICS
-    seasons:
-      1:
-        title: |-
-          Douse, Koishite Shimaunda.
-        label: Score,2025 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.7
-    audience_rating: 5.7
-    critic_rating: 6.6
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   248035:
     title: |-
       Ao no Exorcist
@@ -520,8 +500,8 @@ metadata:
           Ao no Exorcist: Yosuga-hen
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 7.1
+        user_rating: 7.2
+    audience_rating: 7.2
     critic_rating: 7.4
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
@@ -545,6 +525,26 @@ metadata:
     critic_rating: 8.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  453353:
+    title: |-
+      Arafou Otoko no Isekai Tsuuhan Seikatsu
+    sort_title: |-
+      Arafou Otoko no Isekai Tsuuhan Seikatsu
+    original_title: |-
+      The Daily Life of a Middle-Aged Online Shopper in Another World
+    genre.sync: Ecchi,Fantasy,Isekai
+    studio: East Fish Studio
+    seasons:
+      1:
+        title: |-
+          Arafou Otoko no Isekai Tsuuhan Seikatsu
+        label: Score,Watching,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.8
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   357019:
     title: |-
       Arifureta Shokugyou de Sekai Saikyou
@@ -691,6 +691,24 @@ metadata:
     critic_rating: 8.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  446838:
+    title: |-
+      Baban Baban Ban Vampire
+    sort_title: |-
+      Baban Baban Ban Vampire
+    original_title: |-
+      Babanba Banban Vampire
+    genre.sync: Comedy,Romance,Supernatural,Vampire,Male Protagonist,Age Gap,LGBTQ+ Themes
+    studio: Gaina
+    seasons:
+      1:
+        title: |-
+          Baban Baban Ban Vampire
+        label: Score,Watching,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   278152:
     title: |-
       Baby Steps
@@ -764,9 +782,9 @@ metadata:
           BanG Dream! Ave Mujica
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.6
-    critic_rating: 8.0
+        user_rating: 7.9
+    audience_rating: 7.9
+    critic_rating: 8.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   281270:
@@ -1115,13 +1133,13 @@ metadata:
       1:
         title: |-
           Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita
-        label: Score,2025 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 5.9
     audience_rating: 5.9
     critic_rating: 6.6
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   426703:
     title: |-
       Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta
@@ -1519,7 +1537,7 @@ metadata:
       Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.
     original_title: |-
       I'm Getting Married to a Girl I Hate in My Class
-    genre.sync: Comedy,Romance,Tsundere,Arranged Marriage,Marriage
+    genre.sync: Comedy,Romance,Tsundere,Arranged Marriage,Marriage,School,Male Protagonist
     studio: Studio Gokumi
     seasons:
       1:
@@ -1671,26 +1689,6 @@ metadata:
     critic_rating: 7.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  453353:
-    title: |-
-      Arafou Otoko no Isekai Tsuuhan Seikatsu
-    sort_title: |-
-      Arafou Otoko no Isekai Tsuuhan Seikatsu
-    original_title: |-
-      The Daily Life of a Middle-Aged Online Shopper in Another World
-    genre.sync: Ecchi,Fantasy,Isekai
-    studio: East Fish Studio
-    seasons:
-      1:
-        title: |-
-          Arafou Otoko no Isekai Tsuuhan Seikatsu
-        label: Score,2025 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
-    critic_rating: 6.8
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   432832:
     title: |-
       Dandadan
@@ -2071,6 +2069,26 @@ metadata:
     critic_rating: 7.0
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  446692:
+    title: |-
+      Douse, Koishite Shimaunda.
+    sort_title: |-
+      Douse, Koishite Shimaunda.
+    original_title: |-
+      Anyway, I'm Falling in Love with You.
+    genre.sync: Drama,Romance,Shoujo,Female Protagonist,Male Harem
+    studio: TYPHOON GRAPHICS
+    seasons:
+      1:
+        title: |-
+          Douse, Koishite Shimaunda.
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 5.7
+    audience_rating: 5.7
+    critic_rating: 6.6
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   355774:
     title: |-
       Dr. STONE
@@ -2104,13 +2122,13 @@ metadata:
       4:
         title: |-
           Dr. STONE: SCIENCE FUTURE
-        label: Score,2025 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.9
     audience_rating: 8.1
     critic_rating: 8.2
-    label: AA Winner,Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: AA Winner,Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   440820:
     title: |-
       Dragon Ball DAIMA
@@ -2283,26 +2301,6 @@ metadata:
     critic_rating: 7.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  451596:
-    title: |-
-      Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru
-    sort_title: |-
-      Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru
-    original_title: |-
-      Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest
-    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance
-    studio: Okuruto Noboru
-    seasons:
-      1:
-        title: |-
-          Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru
-        label: Score,2025 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
-    critic_rating: 6.6
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   410031:
     title: |-
       Fairy Tail: 100 Years Quest
@@ -2336,11 +2334,13 @@ metadata:
       1:
         title: |-
           Farmagia
-        label: Score,2025 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 5.1
+    audience_rating: 5.1
+    critic_rating: 5.8
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   278626:
     title: |-
       Fate/stay night: Unlimited Blade Works
@@ -2383,6 +2383,26 @@ metadata:
         user_rating: 0
     label: Planned
     label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
+  451596:
+    title: |-
+      Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru
+    sort_title: |-
+      Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru
+    original_title: |-
+      Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest
+    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance
+    studio: Okuruto Noboru
+    seasons:
+      1:
+        title: |-
+          Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru
+        label: Score,Watching,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 6.6
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   375271:
     title: |-
       Fumetsu no Anata e
@@ -2749,8 +2769,8 @@ metadata:
           Grisaia: Phantom Trigger THE ANIMATION (TV)
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
+        user_rating: 6.2
+    audience_rating: 6.2
     critic_rating: 6.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -2774,6 +2794,26 @@ metadata:
     critic_rating: 8.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  437234:
+    title: |-
+      Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu
+    sort_title: |-
+      Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu
+    original_title: |-
+      I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time
+    genre.sync: Action,Adventure,Comedy,Fantasy,Primarily Adult Cast
+    studio: CloverWorks
+    seasons:
+      1:
+        title: |-
+          Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 7.2
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   85249:
     title: |-
       Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST
@@ -3481,25 +3521,24 @@ metadata:
     critic_rating: 9.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  437234:
+  454085:
     title: |-
-      Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu
+      A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.
     sort_title: |-
-      Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu
+      A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.
     original_title: |-
-      I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time
-    genre.sync: Action,Adventure,Comedy,Fantasy,Primarily Adult Cast
-    studio: CloverWorks
+      I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!
+    genre.sync: Action,Adventure,Comedy,Fantasy
+    studio: Bandai Namco Pictures
     seasons:
       1:
         title: |-
-          Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu
-        label: Score,2025 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+          A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.
+        label: Score,Watching,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 0
-    critic_rating: 7.2
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   370377:
     title: |-
       Id: Invaded
@@ -5075,13 +5114,13 @@ metadata:
       2:
         title: |-
           Kusuriya no Hitorigoto 2nd Season
-        label: Score,2025 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    audience_rating: 8.8
+        label: Score,Watching,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 8.5
+    audience_rating: 8.6
     critic_rating: 8.9
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   368565:
     title: |-
       Kyokou Suiri
@@ -5481,13 +5520,13 @@ metadata:
       1:
         title: |-
           Mahoutsukai no Yakusoku
-        label: Score,2025 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 5.4
     audience_rating: 5.4
     critic_rating: 5.8
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   316842:
     title: |-
       Mahoutsukai no Yome
@@ -5783,7 +5822,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
-    critic_rating: 7.5
+    critic_rating: 7.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   388574:
@@ -6178,6 +6217,26 @@ metadata:
     critic_rating: 7.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  443904:
+    title: |-
+      Nihon e Youkoso Elf-san.
+    sort_title: |-
+      Nihon e Youkoso Elf-san.
+    original_title: |-
+      Welcome to Japan, Ms. Elf!
+    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Elf,Isekai,Iyashikei,Urban Fantasy
+    studio: Zero-G
+    seasons:
+      1:
+        title: |-
+          Nihon e Youkoso Elf-san.
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.0
+    audience_rating: 7.0
+    critic_rating: 7.2
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   415188:
     title: |-
       Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu
@@ -7190,7 +7249,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 5.8
     audience_rating: 5.8
-    critic_rating: 6.4
+    critic_rating: 6.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   398387:
@@ -8323,8 +8382,8 @@ metadata:
           Sorairo Utility (TV)
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
+        user_rating: 6.3
+    audience_rating: 6.3
     critic_rating: 6.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -9484,13 +9543,13 @@ metadata:
       2:
         title: |-
           Unnamed Memory Act.2
-        label: Score,2025 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.7
     audience_rating: 6.6
     critic_rating: 6.9
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   249872:
     title: |-
       Usagi Drop
@@ -9686,32 +9745,13 @@ metadata:
       2:
         title: |-
           Watashi no Shiawase na Kekkon 2nd Season
-        label: Score,2025 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.6
     audience_rating: 7.7
     critic_rating: 7.8
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
-  443904:
-    title: |-
-      Nihon e Youkoso Elf-san.
-    sort_title: |-
-      Nihon e Youkoso Elf-san.
-    original_title: |-
-      Welcome to Japan, Ms. Elf!
-    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Elf,Isekai,Iyashikei,Urban Fantasy
-    studio: Zero-G
-    seasons:
-      1:
-        title: |-
-          Nihon e Youkoso Elf-san.
-        label: Score,2025 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 7.2
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   433088:
     title: |-
       Wind Breaker
