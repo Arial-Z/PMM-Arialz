@@ -718,7 +718,7 @@ metadata:
       Baban Baban Ban Vampire
     original_title: |-
       Babanba Banban Vampire
-    genre.sync: Comedy,Romance,Supernatural,Vampire,Male Protagonist,Age Gap,LGBTQ+ Themes
+    genre.sync: Comedy,Romance,Supernatural,Vampire,Age Gap,Urban Fantasy,LGBTQ+ Themes,Male Protagonist,Boys' Love
     studio: Gaina
     seasons:
       1:
@@ -3817,32 +3817,6 @@ metadata:
     critic_rating: 6.9
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
-  373679:
-    title: |-
-      Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.
-    sort_title: |-
-      Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.
-    original_title: |-
-      BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.
-    genre.sync: Action,Adventure,Comedy,Fantasy,Slice of Life,Video Games,Virtual World,Female Protagonist,Cute Girls Doing Cute Things,Primarily Female Cast,Magic,Henshin,Parody
-    studio: SILVER LINK.
-    seasons:
-      1:
-        title: |-
-          Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.
-        label: Score,Completed,2020 Winter
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.4
-      2:
-        title: |-
-          Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2
-        label: Score,Watching,2023 Winter
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.2
-    critic_rating: 7.3
-    label: Ended,Watching
-    label.remove: Planned,Airing,Dropped,Paused,Planning
   449884:
     title: |-
       Izure Saikyou no Renkinjutsushi?
@@ -4748,7 +4722,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 5.8
     audience_rating: 5.8
-    critic_rating: 6.6
+    critic_rating: 6.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   279831:
@@ -4805,8 +4779,8 @@ metadata:
     sort_title: |-
       Kono Kaisha ni Suki na Hito ga Imasu
     original_title: |-
-      Kono Kaisha ni Suki na Hito ga Imasu
-    genre.sync: Comedy,Romance,Slice of Life,Seinen,Primarily Adult Cast,Heterosexual
+      I Have a Crush at Work
+    genre.sync: Comedy,Romance,Slice of Life,Seinen,Heterosexual,Primarily Adult Cast,Office
     studio: BLADE
     seasons:
       1:
@@ -4814,9 +4788,9 @@ metadata:
           Kono Kaisha ni Suki na Hito ga Imasu
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
-    critic_rating: 7.3
+        user_rating: 6.9
+    audience_rating: 6.9
+    critic_rating: 7.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   358181:
@@ -4913,26 +4887,6 @@ metadata:
     critic_rating: 8.2
     label: Ended,Watching
     label.remove: Planned,Airing,Dropped,Paused,Planning
-  424116:
-    title: |-
-      Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu
-    sort_title: |-
-      Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu
-    original_title: |-
-      I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness
-    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Fugitive,Shoujo,Hikikomori,Iyashikei,Rehabilitation,Heterosexual,Magic,Female Protagonist
-    studio: Zero-G
-    seasons:
-      1:
-        title: |-
-          Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu
-        label: Score,Watching,2023 Fall
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
-    critic_rating: 7.2
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   413515:
     title: |-
       Koukyuu no Karasu
@@ -4991,26 +4945,6 @@ metadata:
         user_rating: 7.7
     audience_rating: 7.7
     critic_rating: 7.8
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  416588:
-    title: |-
-      Kuro no Shoukanshi
-    sort_title: |-
-      Kuro no Shoukanshi
-    original_title: |-
-      Black Summoner
-    genre.sync: Action,Adventure,Fantasy,Isekai,Magic,Male Protagonist,Reincarnation,Female Harem,Gods,Elf,Demons,Slavery,CGI
-    studio: Satelight
-    seasons:
-      1:
-        title: |-
-          Kuro no Shoukanshi
-        label: Score,Completed,2022 Summer
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
-    critic_rating: 7.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   449988:
@@ -7134,26 +7068,6 @@ metadata:
     critic_rating: 8.4
     label: AA Winner,Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
-  453022:
-    title: |-
-      Sentai Red Isekai de Boukensha ni Naru
-    sort_title: |-
-      Sentai Red Isekai de Boukensha ni Naru
-    original_title: |-
-      The Red Ranger Becomes an Adventurer in Another World
-    genre.sync: Action,Adventure,Comedy,Fantasy,Henshin,Isekai,Tokusatsu,Super Robot,Swordplay,CGI,Parody,Surreal Comedy,Male Protagonist,Shounen,Superhero,Dragons
-    studio: Satelight
-    seasons:
-      1:
-        title: |-
-          Sentai Red Isekai de Boukensha ni Naru
-        label: Score,Watching,2025 Winter
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
-    critic_rating: 6.8
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   438125:
     title: |-
       Rekishi ni Nokoru Akujo ni Naruzo
@@ -7416,6 +7330,26 @@ metadata:
     critic_rating: 7.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  423732:
+    title: |-
+      Sakamoto Days
+    sort_title: |-
+      Sakamoto Days
+    original_title: |-
+      Sakamoto Days
+    genre.sync: Action,Comedy,Assassins,Found Family,Crime,Family Life,Konbini,Shounen,Guns,Male Protagonist
+    studio: TMS Entertainment
+    seasons:
+      1:
+        title: |-
+          Sakamoto Days
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.7
+    audience_rating: 7.7
+    critic_rating: 8.1
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   321536:
     title: |-
       Sakura Quest
@@ -7864,6 +7798,26 @@ metadata:
     critic_rating: 7.3
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  453022:
+    title: |-
+      Sentai Red Isekai de Boukensha ni Naru
+    sort_title: |-
+      Sentai Red Isekai de Boukensha ni Naru
+    original_title: |-
+      The Red Ranger Becomes an Adventurer in Another World
+    genre.sync: Action,Adventure,Comedy,Fantasy,Henshin,Isekai,Tokusatsu,Super Robot,Swordplay,CGI,Parody,Surreal Comedy,Male Protagonist,Shounen,Superhero,Dragons
+    studio: Satelight
+    seasons:
+      1:
+        title: |-
+          Sentai Red Isekai de Boukensha ni Naru
+        label: Score,Watching,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.8
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   396876:
     title: |-
       Shadows House
@@ -8265,32 +8219,6 @@ metadata:
     critic_rating: 7.4
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  425474:
-    title: |-
-      Shy
-    sort_title: |-
-      Shy
-    original_title: |-
-      Shy
-    genre.sync: Action,Drama,Henshin,Female Protagonist,Superhero,Super Power,Primarily Female Cast,Shounen
-    studio: 8-bit
-    seasons:
-      1:
-        title: |-
-          Shy
-        label: Score,Dropped,2023 Fall
-        label.remove: Completed,Watching,Paused,Planning
-        user_rating: 6.6
-      2:
-        title: |-
-          SHY: Tokyo Dakkan-hen
-        label: Score,2024 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 6.8
-    label: Ended,Dropped
-    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   278154:
     title: |-
       Sidonia no Kishi
@@ -8701,26 +8629,6 @@ metadata:
     critic_rating: 7.2
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  424368:
-    title: |-
-      Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story
-    sort_title: |-
-      Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story
-    original_title: |-
-      Tearmoon Empire
-    genre.sync: Drama,Fantasy,Romance,Time Manipulation,Female Protagonist,Age Regression,Conspiracy,Ojou-sama,Shoujo,Royal Affairs,Reincarnation
-    studio: SILVER LINK.
-    seasons:
-      1:
-        title: |-
-          Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story
-        label: Score,Completed,2023 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 7.2
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   80096:
     title: |-
       Tengen Toppa Gurren Lagann
