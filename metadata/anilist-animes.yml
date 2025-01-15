@@ -623,6 +623,32 @@ metadata:
     critic_rating: 7.3
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  385278:
+    title: |-
+      Ijiranaide, Nagatoro-san
+    sort_title: |-
+      Ijiranaide, Nagatoro-san
+    original_title: |-
+      Don't Toy With Me, Miss Nagatoro
+    genre.sync: Comedy,Romance,Slice of Life,Slapstick,Male Protagonist,Bullying,School,Heterosexual,Tsundere,Episodic,Primarily Teen Cast,Tanned Skin,Female Protagonist,Primarily Female Cast,School Club,Gyaru,Drawing,Shounen
+    studio: Telecom Animation Film
+    seasons:
+      1:
+        title: |-
+          Ijiranaide, Nagatoro-san
+        label: Score,Completed,2021 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.0
+      2:
+        title: |-
+          Ijiranaide, Nagatoro-san 2nd Attack
+        label: Score,Completed,2023 Winter
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.4
+    audience_rating: 7.2
+    critic_rating: 7.3
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   291630:
     title: |-
       Arslan Senki (TV)
@@ -649,6 +675,28 @@ metadata:
         user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.6
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  366263:
+    title: |-
+      Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
+    sort_title: |-
+      Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
+    original_title: |-
+      Ascendance of a Bookworm
+    genre.sync: Fantasy,Slice of Life,Class Struggle,Reincarnation,Female Protagonist,Isekai,Work,Age Regression,Economics,Family Life,Primarily Child Cast
+    studio: Ajiado
+    seasons:
+      0:
+        label.remove: Score
+      1:
+        title: |-
+          Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
+        label: Score,Completed,2022 Spring,2020 Spring,2019 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.9
+    audience_rating: 7.9
+    critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   425244:
@@ -941,6 +989,26 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  416588:
+    title: |-
+      Kuro no Shoukanshi
+    sort_title: |-
+      Kuro no Shoukanshi
+    original_title: |-
+      Black Summoner
+    genre.sync: Action,Adventure,Fantasy,Isekai,Magic,Male Protagonist,Reincarnation,Female Harem,Gods,Elf,Demons,Slavery,CGI
+    studio: Satelight
+    seasons:
+      1:
+        title: |-
+          Kuro no Shoukanshi
+        label: Score,Completed,2022 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.9
+    audience_rating: 6.9
+    critic_rating: 7.1
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   74796:
     title: |-
       Bleach
@@ -1149,7 +1217,7 @@ metadata:
       Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita
     original_title: |-
       I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic
-    genre.sync: Adventure,Fantasy,Magic,Reincarnation,Isekai
+    genre.sync: Adventure,Fantasy,Alchemy,Magic,Reincarnation
     studio: Marvy Jack
     seasons:
       1:
@@ -1157,8 +1225,8 @@ metadata:
           Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.9
-    audience_rating: 5.9
+        user_rating: 6.1
+    audience_rating: 6.1
     critic_rating: 6.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -2297,6 +2365,26 @@ metadata:
     critic_rating: 6.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  422405:
+    title: |-
+      Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san
+    sort_title: |-
+      Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san
+    original_title: |-
+      Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte
+    genre.sync: Comedy,Fantasy,Romance,Villainess,Tsundere,Video Games,Heterosexual,Gods,Ojou-sama,Primarily Teen Cast,Alternate Universe,Josei,Magic,School
+    studio: Tezuka Productions
+    seasons:
+      1:
+        title: |-
+          Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san
+        label: Score,Completed,2023 Winter
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.0
+    audience_rating: 7.0
+    critic_rating: 7.2
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   355480:
     title: |-
       Enen no Shouboutai
@@ -2987,7 +3075,7 @@ metadata:
       Hana wa Saku, Shura no Gotoku
     original_title: |-
       Flower and Asura
-    genre.sync: Drama,Slice of Life,School,School Club,Female Protagonist
+    genre.sync: Drama,Slice of Life,School,School Club,Acting,Primarily Teen Cast,Female Protagonist,Yuri
     studio: Studio Bind
     seasons:
       1:
@@ -2995,8 +3083,8 @@ metadata:
           Hana wa Saku, Shura no Gotoku
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
+        user_rating: 7.1
+    audience_rating: 7.1
     critic_rating: 7.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -3063,7 +3151,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.1
     audience_rating: 6.1
-    critic_rating: 6.5
+    critic_rating: 6.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   445011:
@@ -3408,28 +3496,6 @@ metadata:
     critic_rating: 7.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
-  366263:
-    title: |-
-      Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
-    sort_title: |-
-      Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
-    original_title: |-
-      Ascendance of a Bookworm
-    genre.sync: Fantasy,Slice of Life,Class Struggle,Reincarnation,Female Protagonist,Isekai,Work,Age Regression,Economics,Family Life,Primarily Child Cast
-    studio: Ajiado
-    seasons:
-      0:
-        label.remove: Score
-      1:
-        title: |-
-          Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
-        label: Score,Completed,2022 Spring,2020 Spring,2019 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.9
-    audience_rating: 7.9
-    critic_rating: 8.1
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   388593:
     title: |-
       Horimiya
@@ -3563,32 +3629,6 @@ metadata:
     critic_rating: 7.8
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
-  385278:
-    title: |-
-      Ijiranaide, Nagatoro-san
-    sort_title: |-
-      Ijiranaide, Nagatoro-san
-    original_title: |-
-      Don't Toy With Me, Miss Nagatoro
-    genre.sync: Comedy,Romance,Slice of Life,Slapstick,Male Protagonist,Bullying,School,Heterosexual,Tsundere,Episodic,Primarily Teen Cast,Tanned Skin,Female Protagonist,Primarily Female Cast,School Club,Gyaru,Drawing,Shounen
-    studio: Telecom Animation Film
-    seasons:
-      1:
-        title: |-
-          Ijiranaide, Nagatoro-san
-        label: Score,Completed,2021 Spring
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-      2:
-        title: |-
-          Ijiranaide, Nagatoro-san 2nd Attack
-        label: Score,2023 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.2
-    critic_rating: 7.3
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   79520:
     title: |-
       Ima, Soko ni Iru Boku
@@ -5458,7 +5498,7 @@ metadata:
       Mahoutsukai no Yakusoku
     original_title: |-
       Promise of Wizard
-    genre.sync: Fantasy,Magic
+    genre.sync: Fantasy,Magic,Ensemble Cast,Josei,Witch,Primarily Male Cast
     studio: LIDENFILMS
     seasons:
       1:
@@ -6131,6 +6171,8 @@ metadata:
     genre.sync: Action,Drama,Fantasy,Psychological,Sci-Fi,Artificial Intelligence,Tragedy,Robots,Lost Civilization,Post-Apocalyptic,Female Protagonist,Philosophy,Aliens,CGI,Swordplay,Dystopian,War
     studio: A-1 Pictures
     seasons:
+      0:
+        label.remove: Score
       1:
         title: |-
           NieR:Automata Ver1.1a
@@ -6140,7 +6182,7 @@ metadata:
     audience_rating: 7.7
     critic_rating: 7.8
     label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   432455:
     title: |-
       Nige Jouzu no Wakagimi
@@ -6554,26 +6596,6 @@ metadata:
     critic_rating: 7.1
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
-  391625:
-    title: |-
-      Ousama Ranking
-    sort_title: |-
-      Ousama Ranking
-    original_title: |-
-      Ranking of Kings
-    genre.sync: Action,Adventure,Drama,Fantasy,Disability,Coming of Age,Fairy Tale,Conspiracy,Male Protagonist,Language Barrier,Ensemble Cast,Swordplay,Bullying,Primarily Male Cast,Tragedy,Seinen,Magic,War
-    studio: Wit Studio
-    seasons:
-      1:
-        title: |-
-          Ousama Ranking
-        label: Score,AA Winner,Completed,2021 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.4
-    audience_rating: 8.4
-    critic_rating: 8.5
-    label: AA Winner,Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   432080:
     title: |-
       Ousama Ranking: Yuuki no Takarabako
@@ -6994,6 +7016,26 @@ metadata:
     critic_rating: 7.4
     label: Planned
     label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
+  391625:
+    title: |-
+      Ousama Ranking
+    sort_title: |-
+      Ousama Ranking
+    original_title: |-
+      Ranking of Kings
+    genre.sync: Action,Adventure,Drama,Fantasy,Disability,Coming of Age,Fairy Tale,Conspiracy,Male Protagonist,Language Barrier,Ensemble Cast,Swordplay,Bullying,Primarily Male Cast,Tragedy,Seinen,Magic,War
+    studio: Wit Studio
+    seasons:
+      1:
+        title: |-
+          Ousama Ranking
+        label: Score,AA Winner,Completed,2021 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.4
+    audience_rating: 8.4
+    critic_rating: 8.5
+    label: AA Winner,Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   451479:
     title: |-
       Ranma 1/2 (2024)
@@ -7183,7 +7225,7 @@ metadata:
       S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu
     original_title: |-
       Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!
-    genre.sync: Action,Adventure,Comedy,Ecchi,Fantasy,Reincarnation,Elf,Animals,Nudity,Magic
+    genre.sync: Action,Adventure,Comedy,Ecchi,Fantasy,Reincarnation,Elf,Nudity,Zoophilia,Animals,Magic,Dungeon
     studio: Zero-G
     seasons:
       1:
@@ -7191,8 +7233,8 @@ metadata:
           S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.8
-    audience_rating: 5.8
+        user_rating: 5.7
+    audience_rating: 5.7
     critic_rating: 6.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -7343,13 +7385,13 @@ metadata:
       1:
         title: |-
           Sakamoto Days
-        label: Score,2025 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.7
     audience_rating: 7.7
     critic_rating: 8.1
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   321536:
     title: |-
       Sakura Quest
@@ -9283,26 +9325,6 @@ metadata:
     critic_rating: 7.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  422405:
-    title: |-
-      Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san
-    sort_title: |-
-      Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san
-    original_title: |-
-      Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte
-    genre.sync: Comedy,Fantasy,Romance,Villainess,Tsundere,Video Games,Heterosexual,Gods,Ojou-sama,Primarily Teen Cast,Alternate Universe,Josei,Magic,School
-    studio: Tezuka Productions
-    seasons:
-      1:
-        title: |-
-          Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san
-        label: Score,Completed,2023 Winter
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
-    critic_rating: 7.2
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   352796:
     title: |-
       Tsurune: Kazemai Koukou Kyuudou-bu
@@ -9483,9 +9505,9 @@ metadata:
           Unnamed Memory Act.2
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.6
-    critic_rating: 6.9
+        user_rating: 6.8
+    audience_rating: 6.7
+    critic_rating: 7.1
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   249872:
