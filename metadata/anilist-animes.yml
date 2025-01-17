@@ -446,7 +446,7 @@ metadata:
       Ameku Takao no Suiri Karte
     original_title: |-
       Ameku M.D.: Doctor Detective
-    genre.sync: Mystery,Slice of Life,Medicine,Detective,Female Protagonist
+    genre.sync: Mystery,Slice of Life,Medicine,Detective,Female Protagonist,Episodic
     studio: project No.9
     seasons:
       1:
@@ -456,7 +456,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.0
     audience_rating: 7.0
-    critic_rating: 7.5
+    critic_rating: 7.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   348706:
@@ -560,8 +560,8 @@ metadata:
           Arafou Otoko no Isekai Tsuuhan Seikatsu
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
+        user_rating: 6.4
+    audience_rating: 6.4
     critic_rating: 6.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -2108,7 +2108,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 5.7
     audience_rating: 5.7
-    critic_rating: 6.6
+    critic_rating: 6.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   355774:
@@ -2412,7 +2412,7 @@ metadata:
       Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru
     original_title: |-
       Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest
-    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance
+    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance,Class Struggle
     studio: Okuruto Noboru
     seasons:
       1:
@@ -2420,8 +2420,8 @@ metadata:
           Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
+        user_rating: 6.3
+    audience_rating: 6.3
     critic_rating: 6.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -3061,8 +3061,8 @@ metadata:
           Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
+        user_rating: 5.9
+    audience_rating: 5.9
     critic_rating: 6.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -3395,7 +3395,7 @@ metadata:
       Honey Lemon Soda
     original_title: |-
       Honey Lemon Soda
-    genre.sync: Romance,Shoujo,Coming of Age,Bullying,Heterosexual,School
+    genre.sync: Romance,Shoujo,Coming of Age,Bullying,School,Heterosexual,Rehabilitation,Female Protagonist,Primarily Teen Cast
     studio: J.C. Staff
     seasons:
       1:
@@ -3812,9 +3812,9 @@ metadata:
           Ishura 2nd Season
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.2
-    critic_rating: 6.9
+        user_rating: 6.5
+    audience_rating: 6.4
+    critic_rating: 7.0
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   449884:
@@ -3824,7 +3824,7 @@ metadata:
       Izure Saikyou no Renkinjutsushi?
     original_title: |-
       Possibly the Greatest Alchemist of All Time
-    genre.sync: Adventure,Fantasy,Alchemy,Isekai
+    genre.sync: Adventure,Fantasy,Alchemy,Isekai,Slavery
     studio: Studio Comet
     seasons:
       1:
@@ -4483,6 +4483,26 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  432815:
+    title: |-
+      Kikansha no Mahou wa Tokubetsu desu
+    sort_title: |-
+      Kikansha no Mahou wa Tokubetsu desu
+    original_title: |-
+      A Returner's Magic Should Be Special
+    genre.sync: Action,Adventure,Fantasy,Magic,Class Struggle,School,Age Regression,Male Protagonist,Time Manipulation,Swordplay
+    studio: Arvo Animation
+    seasons:
+      1:
+        title: |-
+          Kikansha no Mahou wa Tokubetsu desu
+        label: Score,Completed,2023 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.0
+    audience_rating: 7.0
+    critic_rating: 7.1
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   272074:
     title: |-
       Kill la Kill
@@ -7112,26 +7132,6 @@ metadata:
     critic_rating: 8.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  432815:
-    title: |-
-      Kikansha no Mahou wa Tokubetsu desu
-    sort_title: |-
-      Kikansha no Mahou wa Tokubetsu desu
-    original_title: |-
-      A Returner's Magic Should Be Special
-    genre.sync: Action,Adventure,Fantasy,Magic,Class Struggle,School,Age Regression,Male Protagonist,Time Manipulation,Swordplay
-    studio: Arvo Animation
-    seasons:
-      1:
-        title: |-
-          Kikansha no Mahou wa Tokubetsu desu
-        label: Score,Completed,2023 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
-    critic_rating: 7.1
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   423787:
     title: |-
       Romantic Killer
@@ -7419,7 +7419,7 @@ metadata:
       Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi
     original_title: |-
       Headhunted to Another World: From Salaryman to Big Four!
-    genre.sync: Adventure,Comedy,Fantasy,Isekai
+    genre.sync: Adventure,Comedy,Fantasy,Isekai,Economics,Politics,Work
     studio: GEEKTOYS
     seasons:
       1:
