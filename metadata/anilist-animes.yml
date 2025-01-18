@@ -406,7 +406,7 @@ metadata:
       Akuyaku Reijou Tensei Oji-san
     original_title: |-
       From Bureaucrat to Villainess: Dad's Been Reincarnated!
-    genre.sync: Comedy,Fantasy,Villainess,Gender Bending,Isekai,Seinen,School,Age Regression,Reincarnation,Female Protagonist
+    genre.sync: Comedy,Fantasy,Villainess,Gender Bending,Isekai,Reincarnation,Female Protagonist,Seinen,School,Age Regression,Otaku Culture,Male Protagonist
     studio: Ajiado
     seasons:
       1:
@@ -414,9 +414,9 @@ metadata:
           Akuyaku Reijou Tensei Oji-san
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
-    critic_rating: 7.4
+        user_rating: 7.2
+    audience_rating: 7.2
+    critic_rating: 7.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   279827:
@@ -2106,8 +2106,8 @@ metadata:
           Douse, Koishite Shimaunda.
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.7
-    audience_rating: 5.7
+        user_rating: 5.9
+    audience_rating: 5.9
     critic_rating: 6.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -2146,7 +2146,7 @@ metadata:
           Dr. STONE: SCIENCE FUTURE
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.9
+        user_rating: 8.0
     audience_rating: 8.1
     critic_rating: 8.2
     label: AA Winner,Airing,Watching
@@ -2257,26 +2257,6 @@ metadata:
     critic_rating: 7.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  421273:
-    title: |-
-      Edomae Elf
-    sort_title: |-
-      Edomae Elf
-    original_title: |-
-      Otaku Elf
-    genre.sync: Comedy,Slice of Life,Supernatural,Otaku Culture,Elf,Hikikomori,Primarily Female Cast,Shrine Maiden,Female Protagonist,Episodic,Iyashikei,Historical,Educational,Religion,Rehabilitation,Slapstick
-    studio: C2C
-    seasons:
-      1:
-        title: |-
-          Edomae Elf
-        label: Score,Watching,2023 Spring
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
-    critic_rating: 7.3
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   412957:
     title: |-
       Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
@@ -2358,8 +2338,8 @@ metadata:
           Farmagia
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.1
-    audience_rating: 5.1
+        user_rating: 5.0
+    audience_rating: 5.0
     critic_rating: 5.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -3206,32 +3186,6 @@ metadata:
     critic_rating: 7.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  404525:
-    title: |-
-      High Card
-    sort_title: |-
-      High Card
-    original_title: |-
-      High Card
-    genre.sync: Action,Fantasy,Super Power,Urban Fantasy,Card Battle,Male Protagonist,Primarily Adult Cast,Foreign,Cars,Found Family
-    studio: TMS Entertainment
-    seasons:
-      1:
-        title: |-
-          High Card
-        label: Score,Dropped,2023 Winter
-        label.remove: Completed,Watching,Paused,Planning
-        user_rating: 7.1
-      2:
-        title: |-
-          HIGH CARD season 2
-        label: Score,2024 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.1
-    critic_rating: 7.2
-    label: Ended,Dropped
-    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   306743:
     title: |-
       High School Fleet
@@ -4129,26 +4083,6 @@ metadata:
     critic_rating: 6.3
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
-  419126:
-    title: |-
-      Kaminaki Sekai no Kamisama Katsudou
-    sort_title: |-
-      Kaminaki Sekai no Kamisama Katsudou
-    original_title: |-
-      KamiKatsu: Working for God in a Godless World
-    genre.sync: Action,Comedy,Drama,Ecchi,Fantasy,Gods,Cult,Religion,Parody,Lost Civilization,Satire,Anachronism,Isekai,Male Protagonist,Conspiracy,Super Power,Artificial Intelligence,Anti-Hero,Mythology,Time Skip,Time Manipulation,Seinen,Rural,Primarily Female Cast,CGI
-    studio: Studio Palette
-    seasons:
-      1:
-        title: |-
-          Kaminaki Sekai no Kamisama Katsudou
-        label: Score,Completed,2023 Spring
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 6.7
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   262106:
     title: |-
       Kamisama Hajimemashita
@@ -5153,6 +5087,26 @@ metadata:
     critic_rating: 7.2
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  400133:
+    title: |-
+      Vanitas no Carte
+    sort_title: |-
+      Vanitas no Carte
+    original_title: |-
+      The Case Study of Vanitas
+    genre.sync: Drama,Fantasy,Mystery,Supernatural,Vampire,Male Protagonist,Conspiracy,Foreign,Steampunk,Tragedy,Anti-Hero,Primarily Adult Cast,Heterosexual,Tsundere,Anachronism,Historical
+    studio: bones
+    seasons:
+      1:
+        title: |-
+          Vanitas no Carte
+        label: Score,Completed,2022 Winter,2021 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.9
+    audience_rating: 7.9
+    critic_rating: 8.1
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   318161:
     title: |-
       Little Witch Academia (TV)
@@ -5888,7 +5842,7 @@ metadata:
       Momentary Lily
     original_title: |-
       Momentary Lily
-    genre.sync: Action,Post-Apocalyptic,Primarily Female Cast,Video Games,Swordplay,Henshin,Female Protagonist,Urban Fantasy,Urban,Cute Girls Doing Cute Things,Food
+    genre.sync: Action,Post-Apocalyptic,Primarily Female Cast,Urban,Swordplay,Henshin,Female Protagonist,Survival,Urban Fantasy,Food,Video Games
     studio: GoHands
     seasons:
       1:
@@ -5896,9 +5850,9 @@ metadata:
           Momentary Lily
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.5
-    audience_rating: 5.5
-    critic_rating: 6.0
+        user_rating: 5.4
+    audience_rating: 5.4
+    critic_rating: 5.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   437236:
@@ -5969,26 +5923,6 @@ metadata:
     critic_rating: 7.1
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  413333:
-    title: |-
-      Nanatsu no Maken ga Shihai Suru
-    sort_title: |-
-      Nanatsu no Maken ga Shihai Suru
-    original_title: |-
-      Reign of the Seven Spellblades
-    genre.sync: Action,Fantasy,Magic,School,Revenge,Primarily Teen Cast,Ensemble Cast,LGBTQ+ Themes,Swordplay,Male Protagonist
-    studio: J.C. Staff
-    seasons:
-      1:
-        title: |-
-          Nanatsu no Maken ga Shihai Suru
-        label: Score,Completed,2023 Summer
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
-    critic_rating: 6.6
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   284131:
     title: |-
       Nanatsu no Taizai
@@ -6200,7 +6134,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.0
     audience_rating: 7.0
-    critic_rating: 7.2
+    critic_rating: 7.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   415188:
@@ -8287,26 +8221,6 @@ metadata:
     critic_rating: 8.1
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  427883:
-    title: |-
-      Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.
-    sort_title: |-
-      Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.
-    original_title: |-
-      My Instant Death Ability is Overpowered
-    genre.sync: Action,Adventure,Comedy,Fantasy,Isekai,Super Power,Parody,Male Protagonist,Cosmic Horror,Anti-Hero,Tsundere,Surreal Comedy,Primarily Teen Cast,Female Protagonist,Magic
-    studio: Okuruto Noboru
-    seasons:
-      1:
-        title: |-
-          Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.
-        label: Score,Completed,2024 Winter
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
-    critic_rating: 6.4
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   372921:
     title: |-
       Somali to Mori no Kamisama
@@ -8951,32 +8865,6 @@ metadata:
     critic_rating: 6.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  388672:
-    title: |-
-      Tian Guan Ci Fu
-    sort_title: |-
-      Tian Guan Ci Fu
-    original_title: |-
-      Heaven Official's Blessing
-    genre.sync: Adventure,Drama,Fantasy,Romance,Gods,Male Protagonist,Ghost,Cultivation,Wuxia,Magic,Boys' Love,Rural,Travel,Demons,Tragedy
-    studio: Haoliners Animation
-    seasons:
-      1:
-        title: |-
-          Tian Guan Ci Fu
-        label: Score,Completed,2020 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.3
-      2:
-        title: |-
-          Tian Guan Ci Fu 2
-        label: Score,Completed,2023 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.5
-    audience_rating: 8.4
-    critic_rating: 8.6
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   432531:
     title: |-
       Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san
@@ -9370,7 +9258,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.4
     audience_rating: 6.4
-    critic_rating: 7.0
+    critic_rating: 6.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   256705:
@@ -9578,26 +9466,6 @@ metadata:
     critic_rating: 5.8
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  400133:
-    title: |-
-      Vanitas no Carte
-    sort_title: |-
-      Vanitas no Carte
-    original_title: |-
-      The Case Study of Vanitas
-    genre.sync: Drama,Fantasy,Mystery,Supernatural,Vampire,Male Protagonist,Conspiracy,Foreign,Steampunk,Tragedy,Anti-Hero,Primarily Adult Cast,Heterosexual,Tsundere,Anachronism,Historical
-    studio: bones
-    seasons:
-      1:
-        title: |-
-          Vanitas no Carte
-        label: Score,Completed,2022 Winter,2021 Summer
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.9
-    audience_rating: 7.9
-    critic_rating: 8.1
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   359274:
     title: |-
       Vinland Saga
