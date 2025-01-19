@@ -268,8 +268,8 @@ metadata:
           A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
+        user_rating: 6.5
+    audience_rating: 6.5
     critic_rating: 6.9
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -412,13 +412,13 @@ metadata:
       1:
         title: |-
           Akuyaku Reijou Tensei Oji-san
-        label: Score,2025 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.6
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   279827:
     title: |-
       Aldnoah.Zero
@@ -520,7 +520,7 @@ metadata:
           Ao no Exorcist: Yosuga-hen
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.2
+        user_rating: 7.3
     audience_rating: 7.2
     critic_rating: 7.4
     label: Airing,Watching
@@ -711,26 +711,6 @@ metadata:
     critic_rating: 8.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  446838:
-    title: |-
-      Baban Baban Ban Vampire
-    sort_title: |-
-      Baban Baban Ban Vampire
-    original_title: |-
-      Babanba Banban Vampire
-    genre.sync: Comedy,Romance,Supernatural,Vampire,Age Gap,Urban Fantasy,LGBTQ+ Themes,Male Protagonist,Boys' Love
-    studio: Gaina
-    seasons:
-      1:
-        title: |-
-          Baban Baban Ban Vampire
-        label: Score,Watching,2025 Winter
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.0
-    audience_rating: 5.0
-    critic_rating: 6.2
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   278152:
     title: |-
       Baby Steps
@@ -796,7 +776,7 @@ metadata:
       BanG Dream! Ave Mujica
     original_title: |-
       BanG Dream! Ave Mujica
-    genre.sync: Drama,Music,Slice of Life,Band,Female Protagonist,Primarily Female Cast,Tragedy,Metal Music,Full CGI,Primarily Teen Cast,Acting
+    genre.sync: Drama,Music,Slice of Life,Band,Tragedy,Female Protagonist,Primarily Female Cast,Metal Music,Full CGI,Primarily Teen Cast,Acting,Dissociative Identities
     studio: SANZIGEN
     seasons:
       1:
@@ -804,9 +784,9 @@ metadata:
           BanG Dream! Ave Mujica
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.9
-    audience_rating: 7.9
-    critic_rating: 8.1
+        user_rating: 8.0
+    audience_rating: 8.0
+    critic_rating: 8.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   281270:
@@ -1559,7 +1539,7 @@ metadata:
       Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.
     original_title: |-
       I'm Getting Married to a Girl I Hate in My Class
-    genre.sync: Comedy,Romance,Tsundere,Arranged Marriage,Marriage,School,Male Protagonist
+    genre.sync: Comedy,Romance,Tsundere,Arranged Marriage,Marriage,Male Protagonist,School
     studio: Studio Gokumi
     seasons:
       1:
@@ -1567,9 +1547,9 @@ metadata:
           Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 7.1
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   79995:
@@ -2257,26 +2237,6 @@ metadata:
     critic_rating: 7.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  412957:
-    title: |-
-      Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
-    sort_title: |-
-      Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
-    original_title: |-
-      Reborn to Master the Blade: From Hero-King to Extraordinary Squire
-    genre.sync: Action,Adventure,Comedy,Fantasy,Reincarnation,Female Protagonist,Gender Bending,Primarily Female Cast,Magic
-    studio: Studio Comet
-    seasons:
-      1:
-        title: |-
-          Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
-        label: Score,Completed,2023 Winter
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
-    critic_rating: 6.6
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   355480:
     title: |-
       Enen no Shouboutai
@@ -2323,26 +2283,6 @@ metadata:
     critic_rating: 7.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  451433:
-    title: |-
-      Farmagia
-    sort_title: |-
-      Farmagia
-    original_title: |-
-      Farmagia
-    genre.sync: Fantasy
-    studio: Bridge
-    seasons:
-      1:
-        title: |-
-          Farmagia
-        label: Score,Watching,2025 Winter
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.0
-    audience_rating: 5.0
-    critic_rating: 5.8
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   278626:
     title: |-
       Fate/stay night: Unlimited Blade Works
@@ -2763,7 +2703,7 @@ metadata:
       Grisaia: Phantom Trigger THE ANIMATION (TV)
     original_title: |-
       Grisaia: Phantom Trigger
-    genre.sync: Action,Primarily Female Cast
+    genre.sync: Action,Primarily Female Cast,Guns
     studio: Bibury Animation Studios
     seasons:
       1:
@@ -2773,7 +2713,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.2
     audience_rating: 6.2
-    critic_rating: 6.8
+    critic_rating: 6.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   79071:
@@ -2811,8 +2751,8 @@ metadata:
           Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 7.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -5087,26 +5027,6 @@ metadata:
     critic_rating: 7.2
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  400133:
-    title: |-
-      Vanitas no Carte
-    sort_title: |-
-      Vanitas no Carte
-    original_title: |-
-      The Case Study of Vanitas
-    genre.sync: Drama,Fantasy,Mystery,Supernatural,Vampire,Male Protagonist,Conspiracy,Foreign,Steampunk,Tragedy,Anti-Hero,Primarily Adult Cast,Heterosexual,Tsundere,Anachronism,Historical
-    studio: bones
-    seasons:
-      1:
-        title: |-
-          Vanitas no Carte
-        label: Score,Completed,2022 Winter,2021 Summer
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.9
-    audience_rating: 7.9
-    critic_rating: 8.1
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   318161:
     title: |-
       Little Witch Academia (TV)
@@ -5740,7 +5660,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.4
     audience_rating: 7.4
-    critic_rating: 7.8
+    critic_rating: 7.9
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   388574:
@@ -6124,7 +6044,7 @@ metadata:
       Nihon e Youkoso Elf-san.
     original_title: |-
       Welcome to Japan, Ms. Elf!
-    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Elf,Isekai,Iyashikei,Urban Fantasy
+    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Iyashikei,Isekai,Elf,Heterosexual,Urban Fantasy
     studio: Zero-G
     seasons:
       1:
@@ -6132,8 +6052,8 @@ metadata:
           Nihon e Youkoso Elf-san.
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
+        user_rating: 7.1
+    audience_rating: 7.1
     critic_rating: 7.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -6397,7 +6317,7 @@ metadata:
           Ore dake Level Up na Ken: Season 2 - Arise from the Shadow
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.5
+        user_rating: 8.6
     audience_rating: 8.4
     critic_rating: 8.6
     label: Airing,Watching
@@ -7024,6 +6944,26 @@ metadata:
     critic_rating: 8.4
     label: AA Winner,Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
+  412957:
+    title: |-
+      Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
+    sort_title: |-
+      Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
+    original_title: |-
+      Reborn to Master the Blade: From Hero-King to Extraordinary Squire
+    genre.sync: Action,Adventure,Comedy,Fantasy,Reincarnation,Female Protagonist,Gender Bending,Primarily Female Cast,Magic
+    studio: Studio Comet
+    seasons:
+      1:
+        title: |-
+          Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
+        label: Score,Completed,2023 Winter
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.5
+    audience_rating: 6.5
+    critic_rating: 6.6
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   438125:
     title: |-
       Rekishi ni Nokoru Akujo ni Naruzo
@@ -7132,26 +7072,6 @@ metadata:
     critic_rating: 6.4
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  447749:
-    title: |-
-      S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu
-    sort_title: |-
-      S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu
-    original_title: |-
-      Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!
-    genre.sync: Action,Adventure,Comedy,Ecchi,Fantasy,Reincarnation,Elf,Nudity,Zoophilia,Animals,Magic,Dungeon
-    studio: Zero-G
-    seasons:
-      1:
-        title: |-
-          S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu
-        label: Score,2025 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.7
-    audience_rating: 5.7
-    critic_rating: 6.3
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   398387:
     title: |-
       Sabikui Bisco
@@ -7884,8 +7804,6 @@ metadata:
     genre.sync: Drama,Mystery,Supernatural,Thriller,Time Manipulation,Body Swapping,Super Power,Photography,Tragedy,Primarily Adult Cast,Male Protagonist,Crime,Episodic,Urban Fantasy,Memory Manipulation,Urban
     studio: Studio LAN
     seasons:
-      0:
-        label.remove: Score
       1:
         title: |-
           Shiguang Dailiren
@@ -8276,9 +8194,9 @@ metadata:
           Sorairo Utility (TV)
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
-    critic_rating: 6.7
+        user_rating: 6.4
+    audience_rating: 6.4
+    critic_rating: 6.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   424536:
@@ -9466,6 +9384,26 @@ metadata:
     critic_rating: 5.8
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  400133:
+    title: |-
+      Vanitas no Carte
+    sort_title: |-
+      Vanitas no Carte
+    original_title: |-
+      The Case Study of Vanitas
+    genre.sync: Drama,Fantasy,Mystery,Supernatural,Vampire,Male Protagonist,Conspiracy,Foreign,Steampunk,Tragedy,Anti-Hero,Primarily Adult Cast,Heterosexual,Tsundere,Anachronism,Historical
+    studio: bones
+    seasons:
+      1:
+        title: |-
+          Vanitas no Carte
+        label: Score,Completed,2022 Winter,2021 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.9
+    audience_rating: 7.9
+    critic_rating: 8.1
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   359274:
     title: |-
       Vinland Saga
