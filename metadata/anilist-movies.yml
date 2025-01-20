@@ -550,7 +550,7 @@ metadata:
       Girls und Panzer: Saishuushou 1
     original_title: |-
       Girls und Panzer das Finale – Part 1
-    genre.sync: Action,Sports,Tanks,Cute Girls Doing Cute Things,Primarily Teen Cast,Ships,Military,Primarily Female Cast,School Club,School
+    genre.sync: Action,Sports,Tanks,Cute Girls Doing Cute Things,Primarily Teen Cast,Ships,Female Protagonist,Military,Primarily Female Cast,School Club,School
     studio: Actas
     audience_rating: 7.9
     critic_rating: 7.9
@@ -562,7 +562,7 @@ metadata:
       Girls und Panzer: Saishuushou 2
     original_title: |-
       Girls und Panzer das Finale – Part 2
-    genre.sync: Action,Sports,Tanks,Military,Primarily Teen Cast,School Club,Cute Girls Doing Cute Things,Primarily Female Cast,School
+    genre.sync: Action,Sports,Tanks,Military,Primarily Teen Cast,School Club,Cute Girls Doing Cute Things,Female Protagonist,Primarily Female Cast,School
     studio: Actas
     audience_rating: 8.0
     critic_rating: 8.1
@@ -574,7 +574,7 @@ metadata:
       Girls und Panzer: Saishuushou 3
     original_title: |-
       Girls und Panzer das Finale – Part 3
-    genre.sync: Action,Sports,Tanks,Primarily Teen Cast,Primarily Female Cast,Ensemble Cast,School Club,Cute Girls Doing Cute Things,Military
+    genre.sync: Action,Sports,Tanks,Primarily Teen Cast,Primarily Female Cast,Ensemble Cast,School Club,Cute Girls Doing Cute Things,Female Protagonist,Military
     studio: Actas
     audience_rating: 8.1
     critic_rating: 8.2
@@ -723,7 +723,7 @@ metadata:
       Jujutsu Kaisen 0
     original_title: |-
       Jujutsu Kaisen 0
-    genre.sync: Action,Supernatural,Demons,Male Protagonist,Urban Fantasy,Tragedy,Shounen,Super Power,Magic,Martial Arts,Cultivation,Gore,Revenge,Monster Boy,Yandere,Body Horror,Urban
+    genre.sync: Action,Supernatural,Demons,Male Protagonist,Urban Fantasy,Tragedy,Shounen,Super Power,Curses,Magic,Martial Arts,Cultivation,Gore,Revenge,Monster Boy,Body Horror,Yandere,Urban
     studio: MAPPA
     audience_rating: 8.4
     critic_rating: 8.4
@@ -953,7 +953,7 @@ metadata:
       Kimetsu no Yaiba: Mugen Ressha-hen
     original_title: |-
       Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train
-    genre.sync: Action,Adventure,Drama,Fantasy,Mystery,Supernatural,Demons,Swordplay,Shounen,Tragedy,Trains,Male Protagonist,Body Horror,Super Power,Monster Girl,Primarily Teen Cast,CGI,Gore,Primarily Male Cast,Orphan
+    genre.sync: Action,Adventure,Drama,Fantasy,Mystery,Supernatural,Demons,Swordplay,Shounen,Tragedy,Trains,Curses,Male Protagonist,Body Horror,Super Power,Monster Girl,Primarily Teen Cast,Gore,CGI,Primarily Male Cast,Orphan
     studio: ufotable
     audience_rating: 8.4
     critic_rating: 8.6
@@ -966,7 +966,7 @@ metadata:
       Kimi no Na wa.
     original_title: |-
       Your Name.
-    genre.sync: Drama,Romance,Supernatural,Body Swapping,Time Manipulation,Urban Fantasy,Memory Manipulation,Coming of Age,Female Protagonist,Tragedy,Urban,Time Skip,Gender Bending,Rural,Heterosexual,Primarily Teen Cast
+    genre.sync: Drama,Romance,Supernatural,Body Swapping,Time Manipulation,Urban Fantasy,Coming of Age,Memory Manipulation,Female Protagonist,Tragedy,Urban,Gender Bending,Time Skip,Rural,Heterosexual,Primarily Teen Cast
     studio: CoMix Wave
     audience_rating: 8.5
     critic_rating: 8.8
@@ -1156,7 +1156,7 @@ metadata:
       Made in Abyss: Fukaki Tamashii no Reimei
     original_title: |-
       Made in Abyss: Dawn of the Deep Soul
-    genre.sync: Action,Adventure,Drama,Fantasy,Horror,Mystery,Psychological,Sci-Fi,Tragedy,Survival,Primarily Child Cast,Body Swapping,Seinen,Lost Civilization,Gore,Body Horror,Female Protagonist,Robots,Anthropomorphism,Male Protagonist
+    genre.sync: Action,Adventure,Drama,Fantasy,Horror,Mystery,Psychological,Sci-Fi,Tragedy,Survival,Primarily Child Cast,Body Swapping,Seinen,Lost Civilization,Gore,Curses,Body Horror,Robots,Female Protagonist,Anthropomorphism,Male Protagonist
     studio: Kinema Citrus
     audience_rating: 8.5
     critic_rating: 8.6
@@ -1169,7 +1169,7 @@ metadata:
       Made in Abyss: Hourou Suru Tasogare
     original_title: |-
       Made in Abyss: Wandering Twilight
-    genre.sync: Adventure,Drama,Fantasy,Horror,Mystery,Sci-Fi,Survival,Seinen
+    genre.sync: Adventure,Drama,Fantasy,Horror,Mystery,Sci-Fi,Survival,Curses,Seinen,Tragedy,Gore,Environmental
     studio: Kinema Citrus
     audience_rating: 8.3
     critic_rating: 8.4
@@ -1182,7 +1182,7 @@ metadata:
       Made in Abyss: Tabidachi no Yoake
     original_title: |-
       Made in Abyss: Journey's Dawn
-    genre.sync: Adventure,Drama,Fantasy,Horror,Mystery,Sci-Fi,Amnesia,Robots,Primarily Child Cast,Lost Civilization
+    genre.sync: Adventure,Drama,Fantasy,Horror,Mystery,Sci-Fi,Curses,Amnesia,Robots,Lost Civilization,Monster Girl,Primarily Child Cast
     studio: Kinema Citrus
     audience_rating: 8.0
     critic_rating: 8.2
@@ -1244,7 +1244,7 @@ metadata:
       Mononoke-hime
     original_title: |-
       Princess Mononoke
-    genre.sync: Action,Adventure,Drama,Fantasy,Environmental,Philosophy,Animals,Mythology,War,Gods,Eco-Horror,Demons,Rural,Youkai,Revenge,Female Protagonist,Historical
+    genre.sync: Action,Adventure,Drama,Fantasy,Environmental,Animals,Mythology,Philosophy,Eco-Horror,War,Gods,Demons,Rural,Youkai,Revenge,Female Protagonist,Historical,Primarily Adult Cast,Male Protagonist,Guns
     studio: Studio Ghibli
     audience_rating: 8.4
     critic_rating: 8.7
@@ -1634,7 +1634,7 @@ metadata:
       Sword Art Online the Movie -Progressive- Aria of a Starless Night
     genre.sync: Action,Adventure,Fantasy,Romance,Virtual World,Death Game,Video Games,Swordplay,Survival,Female Protagonist,Primarily Teen Cast,Isekai
     studio: A-1 Pictures
-    audience_rating: 7.8
+    audience_rating: 7.9
     critic_rating: 7.9
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
