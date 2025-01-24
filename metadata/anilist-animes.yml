@@ -2088,7 +2088,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 5.9
     audience_rating: 5.9
-    critic_rating: 6.5
+    critic_rating: 6.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   355774:
@@ -2352,7 +2352,7 @@ metadata:
       Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru
     original_title: |-
       Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest
-    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance,Class Struggle
+    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance,Mixed Gender Harem
     studio: Okuruto Noboru
     seasons:
       1:
@@ -2362,7 +2362,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.3
     audience_rating: 6.3
-    critic_rating: 6.6
+    critic_rating: 6.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   375271:
@@ -2981,8 +2981,8 @@ metadata:
           Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.9
-    audience_rating: 5.9
+        user_rating: 5.8
+    audience_rating: 5.8
     critic_rating: 6.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -3263,7 +3263,7 @@ metadata:
       Honey Lemon Soda
     original_title: |-
       Honey Lemon Soda
-    genre.sync: Romance,Shoujo,Coming of Age,Bullying,School,Heterosexual,Rehabilitation,Female Protagonist,Primarily Teen Cast
+    genre.sync: Romance,Shoujo,Bullying,Coming of Age,Heterosexual,School,Rehabilitation,Urban,Female Protagonist,Primarily Teen Cast
     studio: J.C. Staff
     seasons:
       1:
@@ -3680,11 +3680,31 @@ metadata:
           Ishura 2nd Season
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.4
+        user_rating: 6.6
+    audience_rating: 6.5
     critic_rating: 7.1
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+  449884:
+    title: |-
+      Izure Saikyou no Renkinjutsushi?
+    sort_title: |-
+      Izure Saikyou no Renkinjutsushi?
+    original_title: |-
+      Possibly the Greatest Alchemist of All Time
+    genre.sync: Adventure,Fantasy,Alchemy,Isekai,Slavery
+    studio: Studio Comet
+    seasons:
+      1:
+        title: |-
+          Izure Saikyou no Renkinjutsushi?
+        label: Score,Watching,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.5
+    audience_rating: 6.5
+    critic_rating: 6.8
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   423121:
     title: |-
       Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
@@ -6606,26 +6626,6 @@ metadata:
     critic_rating: 8.5
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  449884:
-    title: |-
-      Izure Saikyou no Renkinjutsushi?
-    sort_title: |-
-      Izure Saikyou no Renkinjutsushi?
-    original_title: |-
-      Possibly the Greatest Alchemist of All Time
-    genre.sync: Adventure,Fantasy,Alchemy,Isekai,Slavery
-    studio: Studio Comet
-    seasons:
-      1:
-        title: |-
-          Izure Saikyou no Renkinjutsushi?
-        label: Score,Watching,2025 Winter
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
-    critic_rating: 6.8
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   431495:
     title: |-
       Potion-danomi de Ikinobimasu!
@@ -7255,8 +7255,8 @@ metadata:
           Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
+        user_rating: 6.2
+    audience_rating: 6.2
     critic_rating: 6.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
