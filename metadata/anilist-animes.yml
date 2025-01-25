@@ -253,26 +253,6 @@ metadata:
     critic_rating: 8.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  454085:
-    title: |-
-      A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.
-    sort_title: |-
-      A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.
-    original_title: |-
-      I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!
-    genre.sync: Action,Adventure,Comedy,Fantasy
-    studio: Bandai Namco Pictures
-    seasons:
-      1:
-        title: |-
-          A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.
-        label: Score,Watching,2025 Winter
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
-    critic_rating: 6.9
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   319983:
     title: |-
       ACCA: 13-ku Kansatsu-ka
@@ -406,7 +386,7 @@ metadata:
       Akuyaku Reijou Tensei Oji-san
     original_title: |-
       From Bureaucrat to Villainess: Dad's Been Reincarnated!
-    genre.sync: Comedy,Fantasy,Villainess,Gender Bending,Isekai,Reincarnation,Female Protagonist,Seinen,School,Age Regression,Otaku Culture,Male Protagonist
+    genre.sync: Comedy,Fantasy,Villainess,Gender Bending,School,Female Protagonist,Isekai,Age Regression,Reincarnation,Seinen,Otaku Culture
     studio: Ajiado
     seasons:
       1:
@@ -2078,7 +2058,7 @@ metadata:
       Douse, Koishite Shimaunda.
     original_title: |-
       Anyway, I'm Falling in Love with You.
-    genre.sync: Drama,Romance,Shoujo,Female Protagonist,Male Harem
+    genre.sync: Drama,Romance,Shoujo,Male Harem,Female Protagonist
     studio: TYPHOON GRAPHICS
     seasons:
       1:
@@ -2086,8 +2066,8 @@ metadata:
           Douse, Koishite Shimaunda.
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.9
-    audience_rating: 5.9
+        user_rating: 5.7
+    audience_rating: 5.7
     critic_rating: 6.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -2126,7 +2106,7 @@ metadata:
           Dr. STONE: SCIENCE FUTURE
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.0
+        user_rating: 7.9
     audience_rating: 8.1
     critic_rating: 8.2
     label: AA Winner,Airing,Watching
@@ -3411,6 +3391,46 @@ metadata:
     critic_rating: 9.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  452466:
+    title: |-
+      Kono Kaisha ni Suki na Hito ga Imasu
+    sort_title: |-
+      Kono Kaisha ni Suki na Hito ga Imasu
+    original_title: |-
+      I Have a Crush at Work
+    genre.sync: Comedy,Romance,Slice of Life,Seinen,Heterosexual,Primarily Adult Cast,Office
+    studio: BLADE
+    seasons:
+      1:
+        title: |-
+          Kono Kaisha ni Suki na Hito ga Imasu
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.0
+    audience_rating: 7.0
+    critic_rating: 7.4
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+  454085:
+    title: |-
+      A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.
+    sort_title: |-
+      A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.
+    original_title: |-
+      I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!
+    genre.sync: Action,Adventure,Comedy,Fantasy
+    studio: Bandai Namco Pictures
+    seasons:
+      1:
+        title: |-
+          A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.
+        label: Score,Watching,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.5
+    audience_rating: 6.5
+    critic_rating: 6.9
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   370377:
     title: |-
       Id: Invaded
@@ -4621,26 +4641,6 @@ metadata:
     critic_rating: 8.1
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  452466:
-    title: |-
-      Kono Kaisha ni Suki na Hito ga Imasu
-    sort_title: |-
-      Kono Kaisha ni Suki na Hito ga Imasu
-    original_title: |-
-      I Have a Crush at Work
-    genre.sync: Comedy,Romance,Slice of Life,Seinen,Heterosexual,Primarily Adult Cast,Office
-    studio: BLADE
-    seasons:
-      1:
-        title: |-
-          Kono Kaisha ni Suki na Hito ga Imasu
-        label: Score,2025 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
-    critic_rating: 7.4
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   358181:
     title: |-
       Kono Oto Tomare!
@@ -5736,7 +5736,7 @@ metadata:
       Momentary Lily
     original_title: |-
       Momentary Lily
-    genre.sync: Action,Post-Apocalyptic,Primarily Female Cast,Urban,Swordplay,Henshin,Female Protagonist,Survival,Urban Fantasy,Food,Video Games
+    genre.sync: Action,Primarily Female Cast,Post-Apocalyptic,Tragedy,Female Protagonist,Urban,Survival,Swordplay,Henshin,Food,Super Power,Urban Fantasy,Video Games,Amnesia
     studio: GoHands
     seasons:
       1:
@@ -5744,9 +5744,9 @@ metadata:
           Momentary Lily
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.4
-    audience_rating: 5.4
-    critic_rating: 5.8
+        user_rating: 5.3
+    audience_rating: 5.3
+    critic_rating: 5.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   437236:
@@ -9155,9 +9155,9 @@ metadata:
           Übel Blatt
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
-    critic_rating: 6.8
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.7
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   256705:
