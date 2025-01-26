@@ -253,6 +253,26 @@ metadata:
     critic_rating: 8.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  454085:
+    title: |-
+      A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.
+    sort_title: |-
+      A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.
+    original_title: |-
+      I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!
+    genre.sync: Action,Adventure,Comedy,Fantasy,Magic,Male Protagonist,Dungeon
+    studio: Bandai Namco Pictures
+    seasons:
+      1:
+        title: |-
+          A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.
+        label: Score,Watching,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.5
+    audience_rating: 6.5
+    critic_rating: 6.9
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   319983:
     title: |-
       ACCA: 13-ku Kansatsu-ka
@@ -500,7 +520,7 @@ metadata:
           Ao no Exorcist: Yosuga-hen
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.3
+        user_rating: 7.4
     audience_rating: 7.2
     critic_rating: 7.4
     label: Airing,Watching
@@ -756,7 +776,7 @@ metadata:
       BanG Dream! Ave Mujica
     original_title: |-
       BanG Dream! Ave Mujica
-    genre.sync: Drama,Music,Slice of Life,Band,Tragedy,Female Protagonist,Primarily Female Cast,Metal Music,Full CGI,Primarily Teen Cast,Acting,Dissociative Identities
+    genre.sync: Drama,Music,Psychological,Band,Tragedy,Female Protagonist,Primarily Female Cast,Metal Music,Acting,Full CGI,Dissociative Identities,Primarily Teen Cast,Estranged Family,Musical Theater
     studio: SANZIGEN
     seasons:
       1:
@@ -764,8 +784,8 @@ metadata:
           BanG Dream! Ave Mujica
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.0
-    audience_rating: 8.0
+        user_rating: 8.1
+    audience_rating: 8.1
     critic_rating: 8.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -2743,7 +2763,7 @@ metadata:
       Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu
     original_title: |-
       I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time
-    genre.sync: Action,Adventure,Comedy,Fantasy,Primarily Adult Cast,Female Protagonist,Office Lady,Dungeon
+    genre.sync: Action,Adventure,Comedy,Fantasy,Primarily Adult Cast,Female Protagonist,Dungeon,Office Lady
     studio: CloverWorks
     seasons:
       1:
@@ -2751,8 +2771,8 @@ metadata:
           Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
+        user_rating: 6.9
+    audience_rating: 6.9
     critic_rating: 7.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -3391,46 +3411,6 @@ metadata:
     critic_rating: 9.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  452466:
-    title: |-
-      Kono Kaisha ni Suki na Hito ga Imasu
-    sort_title: |-
-      Kono Kaisha ni Suki na Hito ga Imasu
-    original_title: |-
-      I Have a Crush at Work
-    genre.sync: Comedy,Romance,Slice of Life,Seinen,Heterosexual,Primarily Adult Cast,Office
-    studio: BLADE
-    seasons:
-      1:
-        title: |-
-          Kono Kaisha ni Suki na Hito ga Imasu
-        label: Score,2025 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
-    critic_rating: 7.4
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
-  454085:
-    title: |-
-      A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.
-    sort_title: |-
-      A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.
-    original_title: |-
-      I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!
-    genre.sync: Action,Adventure,Comedy,Fantasy
-    studio: Bandai Namco Pictures
-    seasons:
-      1:
-        title: |-
-          A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.
-        label: Score,Watching,2025 Winter
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
-    critic_rating: 6.9
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   370377:
     title: |-
       Id: Invaded
@@ -4641,6 +4621,26 @@ metadata:
     critic_rating: 8.1
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  452466:
+    title: |-
+      Kono Kaisha ni Suki na Hito ga Imasu
+    sort_title: |-
+      Kono Kaisha ni Suki na Hito ga Imasu
+    original_title: |-
+      I Have a Crush at Work
+    genre.sync: Comedy,Romance,Slice of Life,Seinen,Heterosexual,Primarily Adult Cast,Office
+    studio: BLADE
+    seasons:
+      1:
+        title: |-
+          Kono Kaisha ni Suki na Hito ga Imasu
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.0
+    audience_rating: 7.0
+    critic_rating: 7.4
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   358181:
     title: |-
       Kono Oto Tomare!
@@ -6018,7 +6018,7 @@ metadata:
       Nihon e Youkoso Elf-san.
     original_title: |-
       Welcome to Japan, Ms. Elf!
-    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Iyashikei,Isekai,Elf,Heterosexual,Urban Fantasy
+    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Iyashikei,Elf,Heterosexual,Isekai
     studio: Zero-G
     seasons:
       1:
@@ -7681,8 +7681,8 @@ metadata:
       1:
         title: |-
           Shadows House
-        label: Score,Paused,2021 Spring
-        label.remove: Completed,Watching,Dropped,Planning
+        label: Score,Watching,2021 Spring
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.6
       2:
         title: |-
@@ -7692,8 +7692,8 @@ metadata:
         user_rating: 7.9
     audience_rating: 7.8
     critic_rating: 7.9
-    label: Ended,Paused
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   421855:
     title: |-
       Shangri-La Frontier
@@ -8167,7 +8167,7 @@ metadata:
       Sorairo Utility (TV)
     original_title: |-
       Sorairo Utility (TV)
-    genre.sync: Slice of Life,Sports,Golf,Cute Girls Doing Cute Things,Female Protagonist
+    genre.sync: Slice of Life,Sports,Golf,Cute Girls Doing Cute Things,Female Protagonist,Outdoor
     studio: Yostar Pictures
     seasons:
       1:
@@ -8175,8 +8175,8 @@ metadata:
           Sorairo Utility (TV)
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
+        user_rating: 6.5
+    audience_rating: 6.5
     critic_rating: 6.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
