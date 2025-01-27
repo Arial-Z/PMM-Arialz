@@ -33,7 +33,6 @@ overlays:
     template: [name: Anilist_Rating]
     plex_search:
       all:
-        season_label: Score
         user_rating.gte: 0.1
         user_rating.lte: 10
 
@@ -42,6 +41,5 @@ overlays:
     template: [name: User_Rating]
     plex_search:
       all:
-        season_label: Score
         user_rating.gte: 0.1
         user_rating.lte: 10
