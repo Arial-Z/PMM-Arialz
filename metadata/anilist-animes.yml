@@ -4570,7 +4570,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 5.4
     audience_rating: 5.4
-    critic_rating: 6.1
+    critic_rating: 5.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   279831:
@@ -4636,8 +4636,8 @@ metadata:
           Kono Kaisha ni Suki na Hito ga Imasu
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
+        user_rating: 7.1
+    audience_rating: 7.1
     critic_rating: 7.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -4822,7 +4822,7 @@ metadata:
       Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai
     original_title: |-
       Medaka Kuroiwa is Impervious to My Charms
-    genre.sync: Comedy,Ecchi,Romance,Love Triangle,School,Heterosexual,Shounen,Female Harem,Male Protagonist,Female Protagonist
+    genre.sync: Comedy,Ecchi,Romance,Love Triangle,School,Heterosexual,Shounen,Female Harem,Female Protagonist,Male Protagonist
     studio: SynergySP
     seasons:
       1:
@@ -4832,7 +4832,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.2
     audience_rating: 6.2
-    critic_rating: 6.6
+    critic_rating: 6.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   257765:
@@ -7076,6 +7076,8 @@ metadata:
     genre.sync: Action,Adventure,Fantasy,Mystery,Psychological,Religion,Demons,Mythology,Coming of Age,Adoption,Magic,Gods,Afterlife,Isekai,Reincarnation,Swordplay,Found Family
     studio: Children's Playground Entertainment
     seasons:
+      0:
+        label.remove: Score
       1:
         title: |-
           Saihate no Paladin
@@ -7187,7 +7189,7 @@ metadata:
       Sakamoto Days
     original_title: |-
       Sakamoto Days
-    genre.sync: Action,Comedy,Assassins,Konbini,Found Family,Crime,Family Life,Shounen,Guns,Male Protagonist
+    genre.sync: Action,Comedy,Assassins,Found Family,Konbini,Crime,Family Life,Guns,Shounen
     studio: TMS Entertainment
     seasons:
       1:
@@ -7197,7 +7199,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.7
     audience_rating: 7.7
-    critic_rating: 8.0
+    critic_rating: 7.9
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   321536:
@@ -7739,13 +7741,13 @@ metadata:
       2:
         title: |-
           Shicao Lao Long Bei Guanyi E Long Zhi Ming 2nd Season
-        label: Score,Watching,2024 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
     critic_rating: 6.8
-    label: Ended,Watching
-    label.remove: Planned,Airing,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   279830:
     title: |-
       Shigatsu wa Kimi no Uso
@@ -9529,8 +9531,6 @@ metadata:
     genre.sync: Comedy,Slice of Life,Restaurant,Work,Heterosexual,Ensemble Cast,Male Protagonist,Crossdressing
     studio: A-1 Pictures
     seasons:
-      0:
-        label.remove: Score
       1:
         title: |-
           Working!!
