@@ -1137,8 +1137,8 @@ metadata:
           Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
+        user_rating: 6.0
+    audience_rating: 6.0
     critic_rating: 6.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -1847,6 +1847,8 @@ metadata:
     genre.sync: Comedy,Drama,Sci-Fi,Slice of Life,Aliens,Urban,Philosophy,Politics,Coming of Age,Denpa,Post-Apocalyptic,Tragedy,Alternate Universe,Anti-Hero,Female Protagonist,Terrorism,Military,Time Manipulation,Gore,Seinen,Ensemble Cast,Primarily Female Cast,Achronological Order,LGBTQ+ Themes
     studio: Production +h
     seasons:
+      0:
+        label.remove: Score
       1:
         title: |-
           Dead Dead Demon's Dededededestruction
@@ -2642,34 +2644,6 @@ metadata:
     critic_rating: 8.1
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  319981:
-    title: |-
-      GRANBLUE FANTASY The Animation
-    sort_title: |-
-      GRANBLUE FANTASY The Animation
-    original_title: |-
-      Granblue Fantasy: The Animation
-    genre.sync: Adventure,Fantasy,Magic,Ensemble Cast
-    studio: A-1 Pictures
-    seasons:
-      0:
-        label.remove: Score
-      1:
-        title: |-
-          GRANBLUE FANTASY The Animation
-        label: Score,2017 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-      2:
-        title: |-
-          GRANBLUE FANTASY The Animation Season 2
-        label: Score,2019 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.5
-    critic_rating: 6.7
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   343913:
     title: |-
       Grand Blue
@@ -2983,7 +2957,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 5.8
     audience_rating: 5.8
-    critic_rating: 6.1
+    critic_rating: 6.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   445011:
@@ -3273,7 +3247,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.7
     audience_rating: 6.7
-    critic_rating: 7.0
+    critic_rating: 6.9
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   366263:
@@ -3411,26 +3385,6 @@ metadata:
     critic_rating: 9.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  370377:
-    title: |-
-      Id: Invaded
-    sort_title: |-
-      Id: Invaded
-    original_title: |-
-      Id: Invaded
-    genre.sync: Drama,Mystery,Psychological,Sci-Fi,Thriller,Detective,Virtual World,Crime,Alternate Universe,Police,Tragedy,Memory Manipulation,Urban Fantasy,Augmented Reality,Primarily Adult Cast,Prison,Meta,Revenge,Anti-Hero,Male Protagonist,Female Protagonist,Philosophy,Amnesia
-    studio: NAZ
-    seasons:
-      1:
-        title: |-
-          Id: Invaded
-        label: Score,Watching,2020 Winter
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.7
-    audience_rating: 7.7
-    critic_rating: 7.8
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   385278:
     title: |-
       Ijiranaide, Nagatoro-san
@@ -5252,7 +5206,7 @@ metadata:
       Magic Maker: Isekai Mahou no Tsukurikata
     original_title: |-
       Magic Maker: How to Make Magic in Another World
-    genre.sync: Action,Adventure,Fantasy,Slice of Life,Isekai,Reincarnation,Magic,Incest
+    genre.sync: Action,Adventure,Fantasy,Slice of Life,Isekai,Magic,Reincarnation
     studio: Studio DEEN
     seasons:
       1:
@@ -5262,7 +5216,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 5.9
     audience_rating: 5.9
-    critic_rating: 6.4
+    critic_rating: 6.3
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   278329:
@@ -5326,7 +5280,7 @@ metadata:
       Mahoutsukai no Yakusoku
     original_title: |-
       Promise of Wizard
-    genre.sync: Fantasy,Magic,Ensemble Cast,Josei,Isekai,Primarily Male Cast,Witch,Female Protagonist
+    genre.sync: Fantasy,Magic,Ensemble Cast,Josei,Primarily Male Cast,Isekai,Witch,Female Protagonist
     studio: LIDENFILMS
     seasons:
       1:
