@@ -456,7 +456,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.0
     audience_rating: 7.0
-    critic_rating: 7.4
+    critic_rating: 7.3
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   348706:
@@ -2064,7 +2064,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 5.7
     audience_rating: 5.7
-    critic_rating: 6.3
+    critic_rating: 6.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   355774:
@@ -2328,7 +2328,7 @@ metadata:
       Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru
     original_title: |-
       Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest
-    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance,Mixed Gender Harem
+    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance,Mixed Gender Harem,LGBTQ+ Themes
     studio: Okuruto Noboru
     seasons:
       1:
@@ -2336,9 +2336,9 @@ metadata:
           Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
-    critic_rating: 6.5
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   375271:
@@ -7177,7 +7177,7 @@ metadata:
       Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi
     original_title: |-
       Headhunted to Another World: From Salaryman to Big Four!
-    genre.sync: Adventure,Comedy,Fantasy,Isekai,Economics,Politics,Work
+    genre.sync: Adventure,Comedy,Fantasy,Isekai,Politics,Economics,Work,Demons,Tsundere
     studio: GEEKTOYS
     seasons:
       1:
