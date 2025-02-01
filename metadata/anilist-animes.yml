@@ -406,7 +406,7 @@ metadata:
       Akuyaku Reijou Tensei Oji-san
     original_title: |-
       From Bureaucrat to Villainess: Dad's Been Reincarnated!
-    genre.sync: Comedy,Fantasy,Villainess,Gender Bending,School,Female Protagonist,Isekai,Age Regression,Reincarnation,Seinen,Otaku Culture
+    genre.sync: Comedy,Fantasy,Villainess,School,Gender Bending,Isekai,Female Protagonist,Reincarnation,Age Regression,Otaku Culture,Seinen,Video Games
     studio: Ajiado
     seasons:
       1:
@@ -562,7 +562,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.4
     audience_rating: 6.4
-    critic_rating: 6.8
+    critic_rating: 6.7
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   357019:
@@ -2054,7 +2054,7 @@ metadata:
       Douse, Koishite Shimaunda.
     original_title: |-
       Anyway, I'm Falling in Love with You.
-    genre.sync: Drama,Romance,Shoujo,Male Harem,Female Protagonist
+    genre.sync: Drama,Romance,Shoujo,Female Protagonist,Male Harem
     studio: TYPHOON GRAPHICS
     seasons:
       1:
@@ -2102,7 +2102,7 @@ metadata:
           Dr. STONE: SCIENCE FUTURE
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.9
+        user_rating: 8.0
     audience_rating: 8.1
     critic_rating: 8.2
     label: AA Winner,Airing,Watching
@@ -3116,26 +3116,6 @@ metadata:
     critic_rating: 7.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  436603:
-    title: |-
-      Hime-sama, "Goumon" no Jikan desu
-    sort_title: |-
-      Hime-sama, "Goumon" no Jikan desu
-    original_title: |-
-      'Tis Time for "Torture," Princess
-    genre.sync: Comedy,Fantasy,Slice of Life,Female Protagonist,Episodic,Cute Girls Doing Cute Things,Iyashikei,Food,Demons,Surreal Comedy,Primarily Female Cast,Torture,Slapstick,Monster Girl,Prison
-    studio: PINE JAM
-    seasons:
-      1:
-        title: |-
-          Hime-sama, "Goumon" no Jikan desu
-        label: Score,2024 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 7.2
-    label: Planned
-    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   293121:
     title: |-
       Himouto! Umaru-chan
@@ -3326,26 +3306,6 @@ metadata:
     critic_rating: 7.4
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  331787:
-    title: |-
-      Houseki no Kuni
-    sort_title: |-
-      Houseki no Kuni
-    original_title: |-
-      Land of the Lustrous
-    genre.sync: Action,Drama,Fantasy,Mystery,Psychological,Full CGI,Philosophy,Tragedy,Agender,Anthropomorphism,Post-Apocalyptic,Seinen,CGI,Coming of Age,Memory Manipulation,Body Horror,Survival,Amnesia,Conspiracy,Time Skip
-    studio: Orange
-    seasons:
-      1:
-        title: |-
-          Houseki no Kuni
-        label: Score,AA Winner,Completed,2017 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.3
-    audience_rating: 8.3
-    critic_rating: 8.4
-    label: AA Winner,Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   252322:
     title: |-
       Hunter×hunter (2011)
@@ -4929,6 +4889,26 @@ metadata:
     critic_rating: 7.2
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  331787:
+    title: |-
+      Houseki no Kuni
+    sort_title: |-
+      Houseki no Kuni
+    original_title: |-
+      Land of the Lustrous
+    genre.sync: Action,Drama,Fantasy,Mystery,Psychological,Full CGI,Philosophy,Tragedy,Agender,Anthropomorphism,Post-Apocalyptic,Seinen,CGI,Coming of Age,Memory Manipulation,Body Horror,Survival,Amnesia,Conspiracy,Time Skip
+    studio: Orange
+    seasons:
+      1:
+        title: |-
+          Houseki no Kuni
+        label: Score,AA Winner,Completed,2017 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.3
+    audience_rating: 8.3
+    critic_rating: 8.4
+    label: AA Winner,Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   318161:
     title: |-
       Little Witch Academia (TV)
@@ -5664,7 +5644,7 @@ metadata:
       Momentary Lily
     original_title: |-
       Momentary Lily
-    genre.sync: Action,Primarily Female Cast,Post-Apocalyptic,Tragedy,Female Protagonist,Urban,Survival,Swordplay,Henshin,Food,Super Power,Urban Fantasy,Video Games,Amnesia
+    genre.sync: Action,Post-Apocalyptic,Primarily Female Cast,Tragedy,Female Protagonist,Urban,Survival,Swordplay,Food,Super Power,Urban Fantasy,Video Games,Henshin,Amnesia
     studio: GoHands
     seasons:
       1:
@@ -7728,8 +7708,8 @@ metadata:
         user_rating: 8.3
     audience_rating: 8.5
     critic_rating: 8.7
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   447450:
     title: |-
       Shikanoko Nokonoko Koshitantan
@@ -9077,7 +9057,7 @@ metadata:
       Übel Blatt
     original_title: |-
       Übel Blatt
-    genre.sync: Action,Adventure,Drama,Ecchi,Fantasy,Revenge,Elf
+    genre.sync: Action,Adventure,Drama,Ecchi,Fantasy,Revenge,Elf,Swordplay
     studio: Satelight
     seasons:
       1:
@@ -9085,9 +9065,9 @@ metadata:
           Übel Blatt
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
-    critic_rating: 6.7
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   256705:
