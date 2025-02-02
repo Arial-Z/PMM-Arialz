@@ -520,7 +520,7 @@ metadata:
           Ao no Exorcist: Yosuga-hen
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.4
+        user_rating: 7.5
     audience_rating: 7.2
     critic_rating: 7.4
     label: Airing,Watching
@@ -776,7 +776,7 @@ metadata:
       BanG Dream! Ave Mujica
     original_title: |-
       BanG Dream! Ave Mujica
-    genre.sync: Drama,Music,Psychological,Band,Tragedy,Female Protagonist,Primarily Female Cast,Metal Music,Acting,Full CGI,Dissociative Identities,Primarily Teen Cast,Estranged Family,Musical Theater
+    genre.sync: Drama,Music,Psychological,Band,Tragedy,Primarily Female Cast,Female Protagonist,Acting,Metal Music,Full CGI,Dissociative Identities,Primarily Teen Cast,Estranged Family
     studio: SANZIGEN
     seasons:
       1:
@@ -784,9 +784,9 @@ metadata:
           BanG Dream! Ave Mujica
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.1
-    audience_rating: 8.1
-    critic_rating: 8.2
+        user_rating: 8.2
+    audience_rating: 8.2
+    critic_rating: 8.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   281270:
@@ -1513,7 +1513,7 @@ metadata:
       Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.
     original_title: |-
       I'm Getting Married to a Girl I Hate in My Class
-    genre.sync: Comedy,Romance,Tsundere,Arranged Marriage,Marriage,Male Protagonist,School
+    genre.sync: Comedy,Romance,Tsundere,Arranged Marriage,Marriage,Male Protagonist,School,Primarily Teen Cast
     studio: Studio Gokumi
     seasons:
       1:
@@ -1521,8 +1521,8 @@ metadata:
           Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -2681,7 +2681,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.2
     audience_rating: 6.2
-    critic_rating: 6.7
+    critic_rating: 6.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   79071:
@@ -2706,21 +2706,21 @@ metadata:
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   437234:
     title: |-
-      Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu
+      Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu
     sort_title: |-
-      Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu
+      Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu
     original_title: |-
       I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time
-    genre.sync: Action,Adventure,Comedy,Fantasy,Primarily Adult Cast,Female Protagonist,Dungeon,Office Lady
+    genre.sync: Action,Adventure,Comedy,Fantasy,Female Protagonist,Dungeon,Primarily Adult Cast,Office Lady
     studio: CloverWorks
     seasons:
       1:
         title: |-
-          Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu
+          Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 7.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -3306,6 +3306,26 @@ metadata:
     critic_rating: 7.4
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  331787:
+    title: |-
+      Houseki no Kuni
+    sort_title: |-
+      Houseki no Kuni
+    original_title: |-
+      Land of the Lustrous
+    genre.sync: Action,Drama,Fantasy,Mystery,Psychological,Full CGI,Philosophy,Tragedy,Agender,Anthropomorphism,Post-Apocalyptic,Seinen,CGI,Coming of Age,Memory Manipulation,Body Horror,Survival,Amnesia,Conspiracy,Time Skip
+    studio: Orange
+    seasons:
+      1:
+        title: |-
+          Houseki no Kuni
+        label: Score,AA Winner,Completed,2017 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.3
+    audience_rating: 8.3
+    critic_rating: 8.4
+    label: AA Winner,Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   252322:
     title: |-
       Hunter×hunter (2011)
@@ -4889,26 +4909,6 @@ metadata:
     critic_rating: 7.2
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  331787:
-    title: |-
-      Houseki no Kuni
-    sort_title: |-
-      Houseki no Kuni
-    original_title: |-
-      Land of the Lustrous
-    genre.sync: Action,Drama,Fantasy,Mystery,Psychological,Full CGI,Philosophy,Tragedy,Agender,Anthropomorphism,Post-Apocalyptic,Seinen,CGI,Coming of Age,Memory Manipulation,Body Horror,Survival,Amnesia,Conspiracy,Time Skip
-    studio: Orange
-    seasons:
-      1:
-        title: |-
-          Houseki no Kuni
-        label: Score,AA Winner,Completed,2017 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.3
-    audience_rating: 8.3
-    critic_rating: 8.4
-    label: AA Winner,Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   318161:
     title: |-
       Little Witch Academia (TV)
@@ -5542,7 +5542,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.7
     audience_rating: 7.7
-    critic_rating: 7.9
+    critic_rating: 8.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   388574:
@@ -5926,7 +5926,7 @@ metadata:
       Nihon e Youkoso Elf-san.
     original_title: |-
       Welcome to Japan, Ms. Elf!
-    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Iyashikei,Elf,Heterosexual,Isekai
+    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Iyashikei,Elf,Heterosexual,Isekai,Urban Fantasy
     studio: Zero-G
     seasons:
       1:
@@ -6934,26 +6934,6 @@ metadata:
     critic_rating: 6.4
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  447749:
-    title: |-
-      S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu
-    sort_title: |-
-      S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu
-    original_title: |-
-      Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!
-    genre.sync: Action,Adventure,Comedy,Ecchi,Fantasy,Reincarnation,Elf,Nudity,Zoophilia,Animals,Dungeon
-    studio: Zero-G
-    seasons:
-      1:
-        title: |-
-          S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu
-        label: Score,Watching,2025 Winter
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.7
-    audience_rating: 5.7
-    critic_rating: 6.1
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   398387:
     title: |-
       Sabikui Bisco
