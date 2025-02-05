@@ -651,8 +651,8 @@ metadata:
           Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.0
-    audience_rating: 6.0
+        user_rating: 5.9
+    audience_rating: 5.9
     critic_rating: 6.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -1686,7 +1686,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 5.8
     audience_rating: 5.8
-    critic_rating: 6.0
+    critic_rating: 5.9
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   401856:
@@ -2017,7 +2017,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
-    critic_rating: 6.8
+    critic_rating: 6.7
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   423121:
@@ -3049,8 +3049,8 @@ metadata:
           Magic Maker: Isekai Mahou no Tsukurikata
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.9
-    audience_rating: 5.9
+        user_rating: 6.0
+    audience_rating: 6.0
     critic_rating: 6.3
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -4125,20 +4125,14 @@ metadata:
     seasons:
       0:
         label.remove: Score
-      1:
-        title: |-
-          Saihate no Paladin
-        label: Score,Completed,2021 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.8
       2:
         title: |-
           Saihate no Paladin: Tetsusabi no Yama no Ou
         label: Score,Completed,2023 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.3
-    audience_rating: 7.1
-    critic_rating: 7.2
+    audience_rating: 7.3
+    critic_rating: 7.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   313435:

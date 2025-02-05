@@ -50,6 +50,32 @@ metadata:
     critic_rating: 8.2
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
+  tt7745068:
+    title: |-
+      Boku no Hero Academia THE MOVIE: Futari no Hero
+    sort_title: |-
+      Boku no Hero Academia THE MOVIE: Futari no Hero
+    original_title: |-
+      My Hero Academia: Two Heroes
+    genre.sync: Action,Comedy,Drama,Sci-Fi,Super Power,Superhero,Shounen,Male Protagonist,Primarily Male Cast,Terrorism
+    studio: bones
+    audience_rating: 7.4
+    critic_rating: 7.5
+    label: AA Winner,Completed
+    label.remove: Watching,Dropped,Paused,Planning
+  tt11107074:
+    title: |-
+      Boku no Hero Academia THE MOVIE: Heroes:Rising
+    sort_title: |-
+      Boku no Hero Academia THE MOVIE: Heroes:Rising
+    original_title: |-
+      My Hero Academia: Heroes Rising
+    genre.sync: Action,Sci-Fi,Superhero,Super Power,Shounen,Rural,Male Protagonist,Terrorism,Chimera,Cultivation,Primarily Male Cast,Alternate Universe,School
+    studio: bones
+    audience_rating: 7.8
+    critic_rating: 7.9
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt13544716:
     title: |-
       Boku no Hero Academia THE MOVIE: World Heroes' Mission
@@ -136,19 +162,6 @@ metadata:
     audience_rating: 7.3
     critic_rating: 7.4
     label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt4769824:
-    title: |-
-      Kono Sekai no Katasumi ni
-    sort_title: |-
-      Kono Sekai no Katasumi ni
-    original_title: |-
-      In This Corner of the World
-    genre.sync: Drama,Slice of Life,Historical,War,Family Life,Female Protagonist,Tragedy,Seinen,Rehabilitation
-    studio: MAPPA
-    audience_rating: 8.1
-    critic_rating: 8.2
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
   tt0270933:
     title: |-
       Escaflowne
@@ -174,19 +187,6 @@ metadata:
     critic_rating: 8.3
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
-  tt0860907:
-    title: |-
-      Evangelion Shin Movie: Kyuu
-    sort_title: |-
-      Evangelion Shin Movie: Kyuu
-    original_title: |-
-      Evangelion: 3.0 You Can (Not) Redo
-    genre.sync: Action,Drama,Mecha,Psychological,Sci-Fi,Post-Apocalyptic,Time Skip,Super Robot,LGBTQ+ Themes,Boys' Love,Male Protagonist,Alternate Universe,Tragedy,Kaiju,Denpa
-    studio: Studio Khara
-    audience_rating: 7.5
-    critic_rating: 7.7
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
   tt0923811:
     title: |-
       Evangelion Shin Movie: Jo
@@ -200,18 +200,19 @@ metadata:
     critic_rating: 8.0
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
-  tt0385700:
+  tt0860907:
     title: |-
-      Final Fantasy VII: Advent Children
+      Evangelion Shin Movie: Kyuu
     sort_title: |-
-      Final Fantasy VII: Advent Children
+      Evangelion Shin Movie: Kyuu
     original_title: |-
-      Final Fantasy VII: Advent Children
-    genre.sync: Action,Fantasy,Super Power,Guns,CGI,Cyberpunk,Aliens,Full CGI,Male Protagonist,Swordplay
-    studio: Square Enix
-    audience_rating: 7.1
+      Evangelion: 3.0 You Can (Not) Redo
+    genre.sync: Action,Drama,Mecha,Psychological,Sci-Fi,Post-Apocalyptic,Time Skip,Super Robot,LGBTQ+ Themes,Boys' Love,Male Protagonist,Alternate Universe,Tragedy,Kaiju,Denpa
+    studio: Studio Khara
+    audience_rating: 7.5
     critic_rating: 7.7
-    label.remove: Completed,Watching,Dropped,Paused,Planning
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt0173840:
     title: |-
       Final Fantasy
@@ -223,6 +224,18 @@ metadata:
     studio: Square Pictures
     audience_rating: 5.7
     critic_rating: 6.3
+    label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt0385700:
+    title: |-
+      Final Fantasy VII: Advent Children
+    sort_title: |-
+      Final Fantasy VII: Advent Children
+    original_title: |-
+      Final Fantasy VII: Advent Children
+    genre.sync: Action,Fantasy,Super Power,Guns,CGI,Cyberpunk,Aliens,Full CGI,Male Protagonist,Swordplay
+    studio: Square Enix
+    audience_rating: 7.1
+    critic_rating: 7.7
     label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0876563:
     title: |-
@@ -297,18 +310,6 @@ metadata:
     studio: Actas
     audience_rating: 7.9
     critic_rating: 7.9
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt1288461:
-    title: |-
-      Tengen Toppa Gurren Lagann: Gurren-hen
-    sort_title: |-
-      Tengen Toppa Gurren Lagann: Gurren-hen
-    original_title: |-
-      Gurren Lagann The Movie: Childhood's End
-    genre.sync: Action,Comedy,Drama,Mecha,Romance,Sci-Fi,Coming of Age,Robots,Desert,Dystopian,Super Robot,Post-Apocalyptic
-    studio: Gainax
-    audience_rating: 7.9
-    critic_rating: 8.2
     label.remove: Completed,Watching,Dropped,Paused,Planning
   tt30476486:
     title: |-
@@ -408,19 +409,6 @@ metadata:
     critic_rating: 7.8
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
-  tt7236034:
-    title: |-
-      Kimi no Suizou wo Tabetai
-    sort_title: |-
-      Kimi no Suizou wo Tabetai
-    original_title: |-
-      I Want to Eat Your Pancreas
-    genre.sync: Drama,Romance,Slice of Life,Tragedy,Coming of Age,Male Protagonist,Female Protagonist,Philosophy,Heterosexual,Primarily Teen Cast,Rehabilitation,Classic Literature
-    studio: Studio VOLN
-    audience_rating: 8.4
-    critic_rating: 8.6
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
   tt12879624:
     title: |-
       Josee to Tora to Sakanatachi
@@ -446,19 +434,6 @@ metadata:
     audience_rating: 8.4
     critic_rating: 8.4
     label: AA Winner,Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt10253816:
-    title: |-
-      Koutetsujou no Kabaneri: Unato Kessen
-    sort_title: |-
-      Koutetsujou no Kabaneri: Unato Kessen
-    original_title: |-
-      Kabaneri of the Iron Fortress: The Battle of Unato
-    genre.sync: Action,Drama,Fantasy,Horror,Supernatural,Post-Apocalyptic,Steampunk,Zombie,Trains,Travel,Pandemic,Military,Heterosexual,Coming of Age,Gore
-    studio: Wit Studio
-    audience_rating: 7.5
-    critic_rating: 7.7
-    label: Completed
     label.remove: Watching,Dropped,Paused,Planning
   tt2576852:
     title: |-
@@ -497,6 +472,19 @@ metadata:
     audience_rating: 7.7
     critic_rating: 7.9
     label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt0087544:
+    title: |-
+      Kaze no Tani no Nausicaä
+    sort_title: |-
+      Kaze no Tani no Nausicaä
+    original_title: |-
+      Nausicaä of the Valley of the Wind
+    genre.sync: Action,Adventure,Drama,Fantasy,Sci-Fi,Environmental,Post-Apocalyptic,Female Protagonist,Lost Civilization,Philosophy,War,Aviation,Military,Eco-Horror
+    studio: Studio Hibari
+    audience_rating: 8.1
+    critic_rating: 8.4
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt2013293:
     title: |-
       Kaze Tachinu
@@ -548,6 +536,19 @@ metadata:
     critic_rating: 8.8
     label: AA Winner,Completed
     label.remove: Watching,Dropped,Paused,Planning
+  tt7236034:
+    title: |-
+      Kimi no Suizou wo Tabetai
+    sort_title: |-
+      Kimi no Suizou wo Tabetai
+    original_title: |-
+      I Want to Eat Your Pancreas
+    genre.sync: Drama,Romance,Slice of Life,Tragedy,Coming of Age,Male Protagonist,Female Protagonist,Philosophy,Heterosexual,Primarily Teen Cast,Rehabilitation,Classic Literature
+    studio: Studio VOLN
+    audience_rating: 8.4
+    critic_rating: 8.6
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt6587046:
     title: |-
       Kimitachi wa Dou Ikiru ka
@@ -572,6 +573,45 @@ metadata:
     audience_rating: 7.0
     critic_rating: 7.4
     label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt4769824:
+    title: |-
+      Kono Sekai no Katasumi ni
+    sort_title: |-
+      Kono Sekai no Katasumi ni
+    original_title: |-
+      In This Corner of the World
+    genre.sync: Drama,Slice of Life,Historical,War,Family Life,Female Protagonist,Tragedy,Seinen,Rehabilitation
+    studio: MAPPA
+    audience_rating: 8.1
+    critic_rating: 8.2
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
+  tt2591814:
+    title: |-
+      Kotonoha no Niwa
+    sort_title: |-
+      Kotonoha no Niwa
+    original_title: |-
+      The Garden of Words
+    genre.sync: Drama,Psychological,Romance,Slice of Life,Coming of Age,Age Gap,Feet,Teacher,Male Protagonist,Heterosexual,Urban,Bullying
+    studio: CoMix Wave
+    audience_rating: 7.5
+    critic_rating: 7.9
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
+  tt10253816:
+    title: |-
+      Koutetsujou no Kabaneri: Unato Kessen
+    sort_title: |-
+      Koutetsujou no Kabaneri: Unato Kessen
+    original_title: |-
+      Kabaneri of the Iron Fortress: The Battle of Unato
+    genre.sync: Action,Drama,Fantasy,Horror,Supernatural,Post-Apocalyptic,Steampunk,Zombie,Trains,Travel,Pandemic,Military,Heterosexual,Coming of Age,Gore
+    studio: Wit Studio
+    audience_rating: 7.5
+    critic_rating: 7.7
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt0381348:
     title: |-
       Kumo no Mukou, Yakusoku no Basho
@@ -607,32 +647,6 @@ metadata:
     studio: Kyoto Animation
     audience_rating: 7.9
     critic_rating: 8.1
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt2591814:
-    title: |-
-      Kotonoha no Niwa
-    sort_title: |-
-      Kotonoha no Niwa
-    original_title: |-
-      The Garden of Words
-    genre.sync: Drama,Psychological,Romance,Slice of Life,Coming of Age,Age Gap,Feet,Teacher,Male Protagonist,Heterosexual,Urban,Bullying
-    studio: CoMix Wave
-    audience_rating: 7.5
-    critic_rating: 7.9
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt9426210:
-    title: |-
-      Tenki no Ko
-    sort_title: |-
-      Tenki no Ko
-    original_title: |-
-      Weathering With You
-    genre.sync: Drama,Romance,Slice of Life,Supernatural,Urban Fantasy,Urban,Environmental,Female Protagonist,Male Protagonist,Fugitive,Orphan,Family Life,Heterosexual,Magic,Work
-    studio: CoMix Wave
-    audience_rating: 8.1
-    critic_rating: 8.3
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
   tt10068916:
@@ -686,6 +700,18 @@ metadata:
     audience_rating: 8.1
     critic_rating: 8.2
     label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt0113824:
+    title: |-
+      Mimi wo Sumaseba
+    sort_title: |-
+      Mimi wo Sumaseba
+    original_title: |-
+      Whisper of the Heart
+    genre.sync: Adventure,Drama,Romance,Slice of Life,Coming of Age,Writing,Female Protagonist,Heterosexual
+    studio: Studio Ghibli
+    audience_rating: 8.1
+    critic_rating: 8.2
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt6900448:
     title: |-
       Mirai no Mirai
@@ -710,32 +736,6 @@ metadata:
     audience_rating: 8.4
     critic_rating: 8.7
     label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt11107074:
-    title: |-
-      Boku no Hero Academia THE MOVIE: Heroes:Rising
-    sort_title: |-
-      Boku no Hero Academia THE MOVIE: Heroes:Rising
-    original_title: |-
-      My Hero Academia: Heroes Rising
-    genre.sync: Action,Sci-Fi,Superhero,Super Power,Shounen,Rural,Male Protagonist,Terrorism,Chimera,Cultivation,Primarily Male Cast,Alternate Universe,School
-    studio: bones
-    audience_rating: 7.8
-    critic_rating: 7.9
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt7745068:
-    title: |-
-      Boku no Hero Academia THE MOVIE: Futari no Hero
-    sort_title: |-
-      Boku no Hero Academia THE MOVIE: Futari no Hero
-    original_title: |-
-      My Hero Academia: Two Heroes
-    genre.sync: Action,Comedy,Drama,Sci-Fi,Super Power,Superhero,Shounen,Male Protagonist,Primarily Male Cast,Terrorism
-    studio: bones
-    audience_rating: 7.4
-    critic_rating: 7.5
-    label: AA Winner,Completed
     label.remove: Watching,Dropped,Paused,Planning
   tt9089294:
     title: |-
@@ -762,19 +762,6 @@ metadata:
     audience_rating: 7.8
     critic_rating: 7.9
     label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0087544:
-    title: |-
-      Kaze no Tani no Nausicaä
-    sort_title: |-
-      Kaze no Tani no Nausicaä
-    original_title: |-
-      Nausicaä of the Valley of the Wind
-    genre.sync: Action,Adventure,Drama,Fantasy,Sci-Fi,Environmental,Post-Apocalyptic,Female Protagonist,Lost Civilization,Philosophy,War,Aviation,Military,Eco-Horror
-    studio: Studio Hibari
-    audience_rating: 8.1
-    critic_rating: 8.4
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
   tt0347618:
     title: |-
       Neko no Ongaeshi
@@ -787,6 +774,30 @@ metadata:
     audience_rating: 7.5
     critic_rating: 7.7
     label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt3398268:
+    title: |-
+      Omoide no Marnie
+    sort_title: |-
+      Omoide no Marnie
+    original_title: |-
+      When Marnie Was There
+    genre.sync: Drama,Mystery,Psychological,Female Protagonist,Rural,Ghost,Outdoor,Tragedy,Time Manipulation,Drawing,Disability,Estranged Family
+    studio: Studio Ghibli
+    audience_rating: 7.8
+    critic_rating: 8.0
+    label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt0102587:
+    title: |-
+      Omoide Poro Poro
+    sort_title: |-
+      Omoide Poro Poro
+    original_title: |-
+      Only Yesterday
+    genre.sync: Drama,Romance,Slice of Life,Female Protagonist,Iyashikei,Rural,Coming of Age,Biographical,Philosophy,Family Life,Josei,Historical,Agriculture,Travel
+    studio: Studio Ghibli
+    audience_rating: 7.3
+    critic_rating: 7.4
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt2140203:
     title: |-
       Ookami Kodomo no Ame to Yuki
@@ -798,19 +809,6 @@ metadata:
     studio: MADHOUSE
     audience_rating: 8.3
     critic_rating: 8.6
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt2981768:
-    title: |-
-      Sakasama no Patema
-    sort_title: |-
-      Sakasama no Patema
-    original_title: |-
-      Patema Inverted
-    genre.sync: Adventure,Romance,Sci-Fi,Lost Civilization,Post-Apocalyptic,Dystopian,Heterosexual,Female Protagonist,Male Protagonist,Unrequited Love,Primarily Male Cast,Environmental
-    studio: Studio Rikka
-    audience_rating: 7.6
-    critic_rating: 7.9
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
   tt11433874:
@@ -850,18 +848,6 @@ metadata:
     critic_rating: 7.5
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
-  tt28036417:
-    title: |-
-      Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai
-    sort_title: |-
-      Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai
-    original_title: |-
-      Rascal Does Not Dream of a Knapsack Kid
-    genre.sync: Drama,Psychological,Romance,Supernatural,Coming of Age,Male Protagonist,Family Life,Primarily Female Cast,Alternate Universe,Heterosexual,Rehabilitation
-    studio: CloverWorks
-    audience_rating: 8.3
-    critic_rating: 8.3
-    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt13651628:
     title: |-
       Ryuu to Sobakasu no Hime
@@ -874,6 +860,19 @@ metadata:
     audience_rating: 7.3
     critic_rating: 7.5
     label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt2981768:
+    title: |-
+      Sakasama no Patema
+    sort_title: |-
+      Sakasama no Patema
+    original_title: |-
+      Patema Inverted
+    genre.sync: Adventure,Romance,Sci-Fi,Lost Civilization,Post-Apocalyptic,Dystopian,Heterosexual,Female Protagonist,Male Protagonist,Unrequited Love,Primarily Male Cast,Environmental
+    studio: Studio Rikka
+    audience_rating: 7.6
+    critic_rating: 7.9
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt7339826:
     title: |-
       Sayonara no Asa ni Yakusoku no Hana wo Kazarou
@@ -887,6 +886,18 @@ metadata:
     critic_rating: 8.4
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
+  tt28036417:
+    title: |-
+      Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai
+    sort_title: |-
+      Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai
+    original_title: |-
+      Rascal Does Not Dream of a Knapsack Kid
+    genre.sync: Drama,Psychological,Romance,Supernatural,Coming of Age,Male Protagonist,Family Life,Primarily Female Cast,Alternate Universe,Heterosexual,Rehabilitation
+    studio: CloverWorks
+    audience_rating: 8.3
+    critic_rating: 8.3
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt9881586:
     title: |-
       Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai
@@ -949,18 +960,6 @@ metadata:
     audience_rating: 8.5
     critic_rating: 8.6
     label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0113824:
-    title: |-
-      Mimi wo Sumaseba
-    sort_title: |-
-      Mimi wo Sumaseba
-    original_title: |-
-      Whisper of the Heart
-    genre.sync: Adventure,Drama,Romance,Slice of Life,Coming of Age,Writing,Female Protagonist,Heterosexual
-    studio: Studio Ghibli
-    audience_rating: 8.1
-    critic_rating: 8.2
-    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt12642574:
     title: |-
       Sidonia no Kishi: Ai Tsumugu Hoshi
@@ -974,30 +973,6 @@ metadata:
     critic_rating: 7.4
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
-  tt3398268:
-    title: |-
-      Omoide no Marnie
-    sort_title: |-
-      Omoide no Marnie
-    original_title: |-
-      When Marnie Was There
-    genre.sync: Drama,Mystery,Psychological,Female Protagonist,Rural,Ghost,Outdoor,Tragedy,Time Manipulation,Drawing,Disability,Estranged Family
-    studio: Studio Ghibli
-    audience_rating: 7.8
-    critic_rating: 8.0
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0102587:
-    title: |-
-      Omoide Poro Poro
-    sort_title: |-
-      Omoide Poro Poro
-    original_title: |-
-      Only Yesterday
-    genre.sync: Drama,Romance,Slice of Life,Female Protagonist,Iyashikei,Rural,Coming of Age,Biographical,Philosophy,Family Life,Josei,Historical,Agriculture,Travel
-    studio: Studio Ghibli
-    audience_rating: 7.3
-    critic_rating: 7.4
-    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt1121794:
     title: |-
       Stranger: Mukou Hadan
@@ -1074,6 +1049,31 @@ metadata:
     studio: A-1 Pictures
     audience_rating: 7.6
     critic_rating: 7.7
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
+  tt1288461:
+    title: |-
+      Tengen Toppa Gurren Lagann: Gurren-hen
+    sort_title: |-
+      Tengen Toppa Gurren Lagann: Gurren-hen
+    original_title: |-
+      Gurren Lagann The Movie: Childhood's End
+    genre.sync: Action,Comedy,Drama,Mecha,Romance,Sci-Fi,Coming of Age,Robots,Desert,Dystopian,Super Robot,Post-Apocalyptic
+    studio: Gainax
+    audience_rating: 7.9
+    critic_rating: 8.2
+    label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt9426210:
+    title: |-
+      Tenki no Ko
+    sort_title: |-
+      Tenki no Ko
+    original_title: |-
+      Weathering With You
+    genre.sync: Drama,Romance,Slice of Life,Supernatural,Urban Fantasy,Urban,Environmental,Female Protagonist,Male Protagonist,Fugitive,Orphan,Family Life,Heterosexual,Magic,Work
+    studio: CoMix Wave
+    audience_rating: 8.1
+    critic_rating: 8.3
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
   tt0092067:
