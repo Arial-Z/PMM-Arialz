@@ -253,6 +253,26 @@ metadata:
     critic_rating: 7.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  348706:
+    title: |-
+      Angolmois: Genkou Kassenki
+    sort_title: |-
+      Angolmois: Genkou Kassenki
+    original_title: |-
+      Angolmois: Record of Mongol Invasion
+    genre.sync: Action,Drama,Historical,Samurai,Shounen,Primarily Adult Cast,War,Tragedy
+    studio: NAZ
+    seasons:
+      1:
+        title: |-
+          Angolmois: Genkou Kassenki
+        label: Score,Completed,2018 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.1
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   248035:
     title: |-
       Ao no Exorcist
@@ -335,6 +355,8 @@ metadata:
     genre.sync: Action,Adventure,Fantasy,Psychological,Isekai,Male Protagonist,Magic,Alternate Universe,Dungeon,Anti-Hero,CGI,Nudity,Cosmic Horror,Female Harem,Primarily Female Cast,Conspiracy,Vampire,Monster Girl,Guns,Demons
     studio: White Fox
     seasons:
+      0:
+        label.remove: Score
       1:
         title: |-
           Arifureta Shokugyou de Sekai Saikyou
@@ -407,6 +429,32 @@ metadata:
         user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.6
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  278152:
+    title: |-
+      Baby Steps
+    sort_title: |-
+      Baby Steps
+    original_title: |-
+      Baby Steps
+    genre.sync: Romance,Sports,Tennis,Male Protagonist,Fitness,Heterosexual,Coming of Age
+    studio: Studio Pierrot
+    seasons:
+      1:
+        title: |-
+          Baby Steps
+        label: Score,Completed,2014 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.5
+      2:
+        title: |-
+          Baby Steps 2
+        label: Score,Completed,2015 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.8
+    audience_rating: 7.7
+    critic_rating: 7.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   439765:
@@ -974,52 +1022,6 @@ metadata:
     critic_rating: 8.6
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  264663:
-    title: |-
-      Date A Live
-    sort_title: |-
-      Date A Live
-    original_title: |-
-      Date A Live
-    genre.sync: Action,Comedy,Ecchi,Fantasy,Mecha,Romance,Sci-Fi,Heterosexual,Female Harem,Henshin,Male Protagonist,Super Power,Urban Fantasy,Urban,Primarily Teen Cast,Primarily Female Cast,Time Manipulation,Slapstick,Yandere
-    studio: AIC Plus+
-    seasons:
-      0:
-        label.remove: Score
-      1:
-        title: |-
-          Date A Live
-        label: Score,Watching,2013 Spring
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.8
-      2:
-        title: |-
-          Date A Live II
-        label: Score,2014 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-      3:
-        title: |-
-          Date A Live III
-        label: Score,2019 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-      4:
-        title: |-
-          Date A Live IV
-        label: Score,2022 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.6
-      5:
-        title: |-
-          Date A Live V
-        label: Score,2024 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.2
-    critic_rating: 7.4
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   413480:
     title: |-
       Dawang Raoming
@@ -2020,26 +2022,6 @@ metadata:
     critic_rating: 6.7
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
-  423121:
-    title: |-
-      Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
-    sort_title: |-
-      Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
-    original_title: |-
-      Reborn as a Vending Machine, I Now Wander the Dungeon
-    genre.sync: Adventure,Comedy,Fantasy,Language Barrier,Isekai,Food,Female Harem,Reincarnation,Parody,Dungeon,Magic,Martial Arts
-    studio: Studio Gokumi
-    seasons:
-      1:
-        title: |-
-          Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
-        label: Score,Completed,2023 Summer
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
-    critic_rating: 6.5
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   402474:
     title: |-
       Jigokuraku
@@ -2770,8 +2752,6 @@ metadata:
     genre.sync: Adventure,Comedy,Ecchi,Fantasy,Isekai,Satire,Parody,Primarily Female Cast,Male Protagonist,Ensemble Cast,Slapstick,Magic,Masochism,Anti-Hero,Afterlife,Gods,Reincarnation,Meta
     studio: Studio DEEN
     seasons:
-      0:
-        label.remove: Score
       1:
         title: |-
           Kono Subarashii Sekai ni Shukufuku wo!
@@ -2910,8 +2890,6 @@ metadata:
     genre.sync: Comedy,Fantasy,Magic,Witch,School,Female Protagonist,Primarily Female Cast,Boarding School,Swordplay,Episodic,Urban Fantasy,Cute Girls Doing Cute Things,Primarily Teen Cast
     studio: Trigger
     seasons:
-      0:
-        label.remove: Score
       1:
         title: |-
           Little Witch Academia (TV)
@@ -2922,26 +2900,6 @@ metadata:
     critic_rating: 7.8
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
-  440897:
-    title: |-
-      Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life
-    sort_title: |-
-      Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life
-    original_title: |-
-      Chillin' in Another World with Level 2 Super Cheat Powers
-    genre.sync: Adventure,Fantasy,Romance,Isekai,Magic,Male Protagonist,Monster Girl,Kemonomimi,Demons,Heterosexual
-    studio: J.C. Staff
-    seasons:
-      1:
-        title: |-
-          Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life
-        label: Score,Completed,2024 Spring
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
-    critic_rating: 6.8
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   414057:
     title: |-
       Lycoris Recoil
@@ -3412,8 +3370,6 @@ metadata:
     genre.sync: Action,Adventure,Comedy,Ecchi,Fantasy,Supernatural,Ensemble Cast,Shounen,Magic,Demons,Male Protagonist,Age Gap,Heterosexual,Super Power,Swordplay,Anti-Hero,Dissociative Identities
     studio: A-1 Pictures
     seasons:
-      0:
-        label.remove: Score
       1:
         title: |-
           Nanatsu no Taizai
@@ -3589,20 +3545,14 @@ metadata:
     genre.sync: Action,Comedy,Sci-Fi,Supernatural,Superhero,Super Power,Parody,Male Protagonist,Satire,Urban Fantasy,Surreal Comedy,Urban,Cyborg,Primarily Adult Cast,Kaiju,Seinen
     studio: MADHOUSE
     seasons:
-      1:
-        title: |-
-          One Punch Man
-        label: Score,Completed,2015 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.3
       2:
         title: |-
           One Punch Man 2
         label: Score,Completed,2019 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.4
-    audience_rating: 7.8
-    critic_rating: 8.0
+    audience_rating: 7.4
+    critic_rating: 7.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   81178:
@@ -4123,16 +4073,20 @@ metadata:
     genre.sync: Action,Adventure,Fantasy,Mystery,Psychological,Religion,Demons,Mythology,Coming of Age,Adoption,Magic,Gods,Afterlife,Isekai,Reincarnation,Swordplay,Found Family
     studio: Children's Playground Entertainment
     seasons:
-      0:
-        label.remove: Score
+      1:
+        title: |-
+          Saihate no Paladin
+        label: Score,Completed,2021 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.8
       2:
         title: |-
           Saihate no Paladin: Tetsusabi no Yama no Ou
         label: Score,Completed,2023 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.3
-    audience_rating: 7.3
-    critic_rating: 7.4
+    audience_rating: 7.1
+    critic_rating: 7.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   313435:
