@@ -295,14 +295,8 @@ metadata:
         label: Score,Completed,2024 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.4
-      5:
-        title: |-
-          Ao no Exorcist: Yosuga-hen
-        label: Score,Watching,2025 Winter
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.3
-    critic_rating: 7.4
+    audience_rating: 7.2
+    critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   407840:
@@ -332,7 +326,7 @@ metadata:
       Arafou Otoko no Isekai Tsuuhan Seikatsu
     original_title: |-
       The Daily Life of a Middle-Aged Online Shopper in Another World
-    genre.sync: Ecchi,Fantasy,Isekai
+    genre.sync: Ecchi,Fantasy,Isekai,Economics,Female Harem,Nekomimi
     studio: East Fish Studio
     seasons:
       1:
@@ -431,6 +425,32 @@ metadata:
     critic_rating: 7.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  434704:
+    title: |-
+      Tensei Kizoku, Kantei Skill de Nariagaru
+    sort_title: |-
+      Tensei Kizoku, Kantei Skill de Nariagaru
+    original_title: |-
+      As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World
+    genre.sync: Adventure,Fantasy,Coming of Age,Primarily Child Cast,Politics,Isekai,Reincarnation
+    studio: studio MOTHER
+    seasons:
+      1:
+        title: |-
+          Tensei Kizoku, Kantei Skill de Nariagaru
+        label: Score,Completed,2024 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.1
+      2:
+        title: |-
+          Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season
+        label: Score,Completed,2024 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.4
+    audience_rating: 7.2
+    critic_rating: 7.3
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   278152:
     title: |-
       Baby Steps
@@ -529,6 +549,26 @@ metadata:
     critic_rating: 7.9
     label: AA Winner,Ended,Planning
     label.remove: Planned,Airing,Watching,Dropped,Paused,
+  219771:
+    title: |-
+      Beelzebub
+    sort_title: |-
+      Beelzebub
+    original_title: |-
+      Beelzebub
+    genre.sync: Action,Comedy,Supernatural,Demons,Delinquents,Male Protagonist,School,Shounen,Primarily Male Cast,Family Life
+    studio: Studio Pierrot
+    seasons:
+      1:
+        title: |-
+          Beelzebub
+        label: Score,Completed,2011 Winter
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.5
+    audience_rating: 7.5
+    critic_rating: 7.8
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   414845:
     title: |-
       Benriya Saitou-san, Isekai ni Iku
@@ -559,6 +599,8 @@ metadata:
     genre.sync: Action,Adventure,Comedy,Fantasy,Magic,Shounen,Found Family,Male Protagonist,Orphan,Super Power,Ensemble Cast,Revenge,Class Struggle,Demons,Elf,Dissociative Identities,Reincarnation,Conspiracy,Adoption,Cult,Swordplay,Bullying,Heterosexual,Lost Civilization
     studio: Studio Pierrot
     seasons:
+      0:
+        label.remove: Score
       1:
         title: |-
           Black Clover
@@ -734,6 +776,8 @@ metadata:
     genre.sync: Action,Comedy,Drama,Slice of Life,Family Life,Found Family,Adoption,Assassins,Crime,Male Protagonist,Work,Guns,Parenthood,Urban,Mafia,Espionage,Primarily Adult Cast,Tragedy,Heterosexual
     studio: P.A. Works
     seasons:
+      0:
+        label.remove: Score
       1:
         title: |-
           Buddy Daddies
@@ -754,6 +798,8 @@ metadata:
     genre.sync: Action,Comedy,Mystery,Supernatural,Super Power,Crime,Detective,Mafia,Male Protagonist,Urban Fantasy,Classic Literature,Yakuza,Urban,Primarily Male Cast,Ensemble Cast,Primarily Adult Cast,Work,Orphan,Seinen,Gangs
     studio: bones
     seasons:
+      0:
+        label.remove: Score
       1:
         title: |-
           Bungou Stray Dogs
@@ -914,6 +960,38 @@ metadata:
         user_rating: 8.7
     audience_rating: 8.1
     critic_rating: 8.4
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  329822:
+    title: |-
+      Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
+    sort_title: |-
+      Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
+    original_title: |-
+      Classroom of the Elite
+    genre.sync: Drama,Psychological,School,Ensemble Cast,Coming of Age,Anti-Hero,Primarily Teen Cast,Male Protagonist,Survival,Battle Royale,Kuudere,Nudity
+    studio: Lerche
+    seasons:
+      1:
+        title: |-
+          Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
+        label: Score,Completed,2017 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.7
+      2:
+        title: |-
+          Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season
+        label: Score,Completed,2022 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.9
+      3:
+        title: |-
+          Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season
+        label: Score,Completed,2024 Winter
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.9
+    audience_rating: 7.8
+    critic_rating: 8.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   79995:
@@ -1120,6 +1198,28 @@ metadata:
     critic_rating: 8.2
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  370761:
+    title: |-
+      Dorohedoro
+    sort_title: |-
+      Dorohedoro
+    original_title: |-
+      Dorohedoro
+    genre.sync: Action,Adventure,Comedy,Fantasy,Horror,Mystery,Dystopian,Monster Boy,Magic,Amnesia,CGI,Full CGI,Gore,Surreal Comedy,Seinen,Ensemble Cast,Body Horror,Anti-Hero,Urban Fantasy,Anthropomorphism,Primarily Adult Cast,Curses,Demons,Revenge
+    studio: MAPPA
+    seasons:
+      0:
+        label.remove: Score
+      1:
+        title: |-
+          Dorohedoro
+        label: Score,Completed,2020 Winter
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.9
+    audience_rating: 7.9
+    critic_rating: 8.1
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   355774:
     title: |-
       Dr. STONE
@@ -1180,26 +1280,6 @@ metadata:
     critic_rating: 7.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
-  423257:
-    title: |-
-      Dungeon Meshi
-    sort_title: |-
-      Dungeon Meshi
-    original_title: |-
-      Delicious in Dungeon
-    genre.sync: Adventure,Comedy,Fantasy,Dungeon,Food,Magic,Primarily Adult Cast,Ensemble Cast,Environmental,Elf,Monster Girl,Dragons,Lost Civilization,Necromancy,Body Horror,Male Protagonist
-    studio: Trigger
-    seasons:
-      1:
-        title: |-
-          Dungeon Meshi
-        label: Score,Completed,2024 Winter
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.5
-    audience_rating: 8.5
-    critic_rating: 8.6
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   289882:
     title: |-
       Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
@@ -1425,6 +1505,26 @@ metadata:
     critic_rating: 8.4
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  423257:
+    title: |-
+      Dungeon Meshi
+    sort_title: |-
+      Dungeon Meshi
+    original_title: |-
+      Delicious in Dungeon
+    genre.sync: Adventure,Comedy,Fantasy,Dungeon,Food,Magic,Primarily Adult Cast,Ensemble Cast,Environmental,Elf,Monster Girl,Dragons,Lost Civilization,Necromancy,Body Horror,Male Protagonist
+    studio: Trigger
+    seasons:
+      1:
+        title: |-
+          Dungeon Meshi
+        label: Score,Completed,2024 Winter
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.5
+    audience_rating: 8.5
+    critic_rating: 8.6
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   350166:
     title: |-
       Goblin Slayer
@@ -1686,8 +1786,8 @@ metadata:
           Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.8
-    audience_rating: 5.8
+        user_rating: 5.7
+    audience_rating: 5.7
     critic_rating: 5.9
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -2880,6 +2980,46 @@ metadata:
     critic_rating: 8.9
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
+  267440:
+    title: |-
+      Shingeki no Kyojin
+    sort_title: |-
+      Shingeki no Kyojin
+    original_title: |-
+      Attack on Titan
+    genre.sync: Action,Drama,Fantasy,Mystery,Revenge,Kaiju,Tragedy,Military,Male Protagonist,Post-Apocalyptic,Primarily Teen Cast,Super Power,Steampunk,Swordplay,Memory Manipulation,Gore,Dystopian,Ensemble Cast,Orphan,Kuudere,Espionage,Cannibalism
+    studio: Wit Studio
+    seasons:
+      0:
+        label.remove: Score
+      1:
+        title: |-
+          Shingeki no Kyojin
+        label: Score,Completed,2013 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.4
+      2:
+        title: |-
+          Shingeki no Kyojin 2
+        label: Score,Completed,2017 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.4
+      3:
+        title: |-
+          Shingeki no Kyojin 3
+        label: Score,Completed,2019 Spring,2018 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.7
+      4:
+        title: |-
+          Shingeki no Kyojin: The Final Season
+        label: Score,AA Winner,Planning,2023 Winter,2022 Winter,2021 Winter
+        label.remove: Completed,Watching,Dropped,Paused,
+        user_rating: 8.6
+    audience_rating: 8.5
+    critic_rating: 8.7
+    label: AA Winner,Ended,Planning
+    label.remove: Planned,Airing,Watching,Dropped,Paused,
   318161:
     title: |-
       Little Witch Academia (TV)
@@ -4941,32 +5081,6 @@ metadata:
     critic_rating: 7.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  434704:
-    title: |-
-      Tensei Kizoku, Kantei Skill de Nariagaru
-    sort_title: |-
-      Tensei Kizoku, Kantei Skill de Nariagaru
-    original_title: |-
-      As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World
-    genre.sync: Adventure,Fantasy,Coming of Age,Primarily Child Cast,Politics,Isekai,Reincarnation
-    studio: studio MOTHER
-    seasons:
-      1:
-        title: |-
-          Tensei Kizoku, Kantei Skill de Nariagaru
-        label: Score,Completed,2024 Spring
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-      2:
-        title: |-
-          Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season
-        label: Score,Completed,2024 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.2
-    critic_rating: 7.3
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   423362:
     title: |-
       Tensei Oujo to Tensai Reijou no Mahou Kakumei
@@ -5818,38 +5932,6 @@ metadata:
     critic_rating: 8.0
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  329822:
-    title: |-
-      Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
-    sort_title: |-
-      Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
-    original_title: |-
-      Classroom of the Elite
-    genre.sync: Drama,Psychological,School,Ensemble Cast,Coming of Age,Anti-Hero,Primarily Teen Cast,Male Protagonist,Survival,Battle Royale,Kuudere,Nudity
-    studio: Lerche
-    seasons:
-      1:
-        title: |-
-          Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
-        label: Score,Completed,2017 Summer
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.7
-      2:
-        title: |-
-          Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season
-        label: Score,Completed,2022 Summer
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.9
-      3:
-        title: |-
-          Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season
-        label: Score,Completed,2024 Winter
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.9
-    audience_rating: 7.8
-    critic_rating: 8.0
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   424019:
     title: |-
       Yozakura-san Chi no Daisakusen
