@@ -242,7 +242,7 @@ metadata:
       Akuyaku Reijou Tensei Oji-san
     original_title: |-
       From Bureaucrat to Villainess: Dad's Been Reincarnated!
-    genre.sync: Comedy,Fantasy,Villainess,School,Female Protagonist,Gender Bending,Otaku Culture,Meta,Isekai,Seinen,Video Games,Reincarnation,Mixed Gender Harem,Age Regression
+    genre.sync: Comedy,Fantasy,Villainess,Seinen,Video Games,School,Otaku Culture,Female Protagonist,Meta,Gender Bending,Isekai,Reincarnation,Elderly Protagonist,Mixed Gender Harem,Age Regression
     studio: Ajiado
     seasons:
       1:
@@ -378,7 +378,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.3
     audience_rating: 6.3
-    critic_rating: 6.7
+    critic_rating: 6.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   357019:
@@ -615,6 +615,26 @@ metadata:
         user_rating: 7.5
     audience_rating: 7.5
     critic_rating: 7.8
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  414845:
+    title: |-
+      Benriya Saitou-san, Isekai ni Iku
+    sort_title: |-
+      Benriya Saitou-san, Isekai ni Iku
+    original_title: |-
+      Handyman Saitou in Another World
+    genre.sync: Adventure,Comedy,Fantasy,Slice of Life,Primarily Adult Cast,Isekai,Male Protagonist,Ensemble Cast,Magic,Fairy,Swordplay,Seinen,Episodic,Dungeon,Memory Manipulation,Ninja,Surreal Comedy
+    studio: C2C
+    seasons:
+      1:
+        title: |-
+          Benriya Saitou-san, Isekai ni Iku
+        label: Score,Completed,2023 Winter
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.3
+    audience_rating: 7.3
+    critic_rating: 7.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   331753:
@@ -1245,6 +1265,12 @@ metadata:
         label: Score,Completed,2013 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.0
+      2:
+        title: |-
+          Diamond no Ace: Second Season
+        label: Score,Completed,2015 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.2
       3:
         title: |-
           Diamond no Ace act II
@@ -1626,6 +1652,8 @@ metadata:
     genre.sync: Action,Adventure,Fantasy,Goblin,Revenge,Gore,Tragedy,Male Protagonist,Rape,Primarily Adult Cast,Dungeon,Magic
     studio: White Fox
     seasons:
+      0:
+        label.remove: Score
       1:
         title: |-
           Goblin Slayer
@@ -1640,26 +1668,6 @@ metadata:
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.3
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  378556:
-    title: |-
-      The God Of High School
-    sort_title: |-
-      The God Of High School
-    original_title: |-
-      The God of High School
-    genre.sync: Action,Comedy,Supernatural,Martial Arts,Gods,Super Power,Urban Fantasy,Shounen,Male Protagonist,Cult,Rotoscoping,Foreign,Primarily Teen Cast
-    studio: MAPPA
-    seasons:
-      1:
-        title: |-
-          The God Of High School
-        label: Score,Completed,2020 Summer
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
-    critic_rating: 7.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   338455:
@@ -1720,26 +1728,6 @@ metadata:
     critic_rating: 8.4
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  425756:
-    title: |-
-      Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
-    sort_title: |-
-      Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
-    original_title: |-
-      The Great Cleric
-    genre.sync: Adventure,Comedy,Fantasy,Magic,Nekomimi,Work,Time Skip,Isekai,Medicine,Tsundere,Cultivation,Martial Arts,Reincarnation,Dungeon,Anthropomorphism,Slavery,Male Protagonist
-    studio: CLOUDHEARTS
-    seasons:
-      1:
-        title: |-
-          Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
-        label: Score,Completed,2023 Summer
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
-    critic_rating: 7.1
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   376144:
     title: |-
       Great Pretender
@@ -1805,7 +1793,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
-    critic_rating: 7.1
+    critic_rating: 7.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   85249:
@@ -1860,8 +1848,6 @@ metadata:
     genre.sync: Comedy,Drama,Sports,Volleyball,School Club,Male Protagonist,Primarily Male Cast,Shounen,Ensemble Cast,Primarily Teen Cast,Fitness,School,Coming of Age
     studio: Production I.G
     seasons:
-      0:
-        label.remove: Score
       1:
         title: |-
           Haikyuu!!
@@ -1874,36 +1860,16 @@ metadata:
         label: Score,Completed,2015 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.6
-      4:
+      3:
         title: |-
-          Haikyuu!! TO THE TOP
-        label: Score,Completed,2020 Fall,2020 Winter
+          Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou
+        label: Score,Completed,2016 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.4
-    audience_rating: 8.4
-    critic_rating: 8.5
+        user_rating: 8.7
+    audience_rating: 8.5
+    critic_rating: 8.6
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  414845:
-    title: |-
-      Benriya Saitou-san, Isekai ni Iku
-    sort_title: |-
-      Benriya Saitou-san, Isekai ni Iku
-    original_title: |-
-      Handyman Saitou in Another World
-    genre.sync: Adventure,Comedy,Fantasy,Slice of Life,Primarily Adult Cast,Isekai,Male Protagonist,Ensemble Cast,Magic,Fairy,Swordplay,Seinen,Episodic,Dungeon,Memory Manipulation,Ninja,Surreal Comedy
-    studio: C2C
-    seasons:
-      1:
-        title: |-
-          Benriya Saitou-san, Isekai ni Iku
-        label: Score,Completed,2023 Winter
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.3
-    audience_rating: 7.3
-    critic_rating: 7.4
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   450933:
     title: |-
       Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite
@@ -1924,26 +1890,6 @@ metadata:
     critic_rating: 5.9
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
-  445252:
-    title: |-
-      Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki
-    sort_title: |-
-      Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki
-    original_title: |-
-      The Healer Who Was Banished From His Party, Is, in Fact, the Strongest
-    genre.sync: Action,Adventure,Fantasy,Male Protagonist
-    studio: Studio elle
-    seasons:
-      1:
-        title: |-
-          Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki
-        label: Score,Completed,2024 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 5.7
-    audience_rating: 5.7
-    critic_rating: 5.7
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   401856:
     title: |-
       Heion Sedai no Idaten-tachi
@@ -1982,46 +1928,6 @@ metadata:
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.3
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  402474:
-    title: |-
-      Jigokuraku
-    sort_title: |-
-      Jigokuraku
-    original_title: |-
-      Hell’s Paradise
-    genre.sync: Action,Adventure,Mystery,Supernatural,Survival,Swordplay,Gore,Body Horror,Ninja,Samurai,Shounen,Battle Royale,Anti-Hero,Travel,Historical,Religion,Tragedy,Super Power,Gods,Philosophy
-    studio: MAPPA
-    seasons:
-      1:
-        title: |-
-          Jigokuraku
-        label: Score,Completed,2023 Spring
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.0
-    audience_rating: 8.0
-    critic_rating: 8.1
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  263688:
-    title: |-
-      Hellsing Ova
-    sort_title: |-
-      Hellsing Ova
-    original_title: |-
-      Hellsing Ultimate
-    genre.sync: Action,Horror,Supernatural,Vampire,Gore,Seinen,Urban Fantasy,War,Foreign,Anti-Hero,Religion,Cannibalism,Primarily Adult Cast,Military,Urban,Guns,Body Horror,Butler,Monster Girl,Male Protagonist
-    studio: MADHOUSE
-    seasons:
-      1:
-        title: |-
-          Hellsing Ova
-        label: Score,Completed,2006 Winter
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.1
-    audience_rating: 8.1
-    critic_rating: 8.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   306743:
@@ -2189,26 +2095,6 @@ metadata:
     critic_rating: 9.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  426834:
-    title: |-
-      Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu
-    sort_title: |-
-      Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu
-    original_title: |-
-      I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
-    genre.sync: Action,Adventure,Fantasy,Magic,Male Protagonist,Reincarnation,Femboy,Female Harem,Demons,Chibi,Cute Boys Doing Cute Things,Age Regression
-    studio: Tsumugi Akita Anime Lab
-    seasons:
-      1:
-        title: |-
-          Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu
-        label: Score,Completed,2024 Spring
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.4
-    critic_rating: 7.4
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   385278:
     title: |-
       Ijiranaide, Nagatoro-san
@@ -2315,6 +2201,26 @@ metadata:
     critic_rating: 6.7
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+  402474:
+    title: |-
+      Jigokuraku
+    sort_title: |-
+      Jigokuraku
+    original_title: |-
+      Hell’s Paradise
+    genre.sync: Action,Adventure,Mystery,Supernatural,Survival,Swordplay,Gore,Body Horror,Ninja,Samurai,Shounen,Battle Royale,Anti-Hero,Travel,Historical,Religion,Tragedy,Super Power,Gods,Philosophy
+    studio: MAPPA
+    seasons:
+      1:
+        title: |-
+          Jigokuraku
+        label: Score,Completed,2023 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.0
+    audience_rating: 8.0
+    critic_rating: 8.1
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   257756:
     title: |-
       Jormungand
@@ -3301,6 +3207,8 @@ metadata:
     genre.sync: Action,Romance,Sci-Fi,Supernatural,Magic,School,Male Protagonist,Military,Terrorism,Incest
     studio: MADHOUSE
     seasons:
+      0:
+        label.remove: Score
       1:
         title: |-
           Mahouka Koukou no Rettousei
@@ -3739,26 +3647,26 @@ metadata:
     critic_rating: 7.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
-  428030:
+  422250:
     title: |-
-      Sentai Daishikkaku
+      Isekai Shikkaku
     sort_title: |-
-      Sentai Daishikkaku
+      Isekai Shikkaku
     original_title: |-
-      GO! GO! Loser Ranger!
-    genre.sync: Action,Comedy,Drama,Sci-Fi,Urban Fantasy,Monster Boy,Tokusatsu,Anti-Hero,Revenge,Shapeshifting,Espionage,Henshin,Aliens,Urban,Survival,Conspiracy,Fugitive
-    studio: Yostar Pictures
+      No Longer Allowed in Another World
+    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Supernatural,Isekai,Suicide,Male Protagonist,Seinen,Philosophy,Satire,Travel,Nekomimi,Magic
+    studio: Atelier Pontdarc
     seasons:
       1:
         title: |-
-          Sentai Daishikkaku
-        label: Score,Completed,2024 Spring
+          Isekai Shikkaku
+        label: Score,Completed,2024 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.2
+        user_rating: 7.1
+    audience_rating: 7.1
     critic_rating: 7.3
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   275610:
     title: |-
       Noragami
@@ -4046,6 +3954,26 @@ metadata:
     critic_rating: 8.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  445252:
+    title: |-
+      Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki
+    sort_title: |-
+      Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki
+    original_title: |-
+      The Healer Who Was Banished From His Party, Is, in Fact, the Strongest
+    genre.sync: Action,Adventure,Fantasy,Male Protagonist
+    studio: Studio elle
+    seasons:
+      1:
+        title: |-
+          Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki
+        label: Score,Completed,2024 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 5.7
+    audience_rating: 5.7
+    critic_rating: 5.7
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   262090:
     title: |-
       Psycho-pass
@@ -4456,6 +4384,26 @@ metadata:
     critic_rating: 6.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  425756:
+    title: |-
+      Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
+    sort_title: |-
+      Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
+    original_title: |-
+      The Great Cleric
+    genre.sync: Adventure,Comedy,Fantasy,Magic,Nekomimi,Work,Time Skip,Isekai,Medicine,Tsundere,Cultivation,Martial Arts,Reincarnation,Dungeon,Anthropomorphism,Slavery,Male Protagonist
+    studio: CLOUDHEARTS
+    seasons:
+      1:
+        title: |-
+          Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
+        label: Score,Completed,2023 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.0
+    audience_rating: 7.0
+    critic_rating: 7.1
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   345596:
     title: |-
       Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
@@ -4550,6 +4498,26 @@ metadata:
     critic_rating: 7.3
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+  428030:
+    title: |-
+      Sentai Daishikkaku
+    sort_title: |-
+      Sentai Daishikkaku
+    original_title: |-
+      GO! GO! Loser Ranger!
+    genre.sync: Action,Comedy,Drama,Sci-Fi,Urban Fantasy,Monster Boy,Tokusatsu,Anti-Hero,Revenge,Shapeshifting,Espionage,Henshin,Aliens,Urban,Survival,Conspiracy,Fugitive
+    studio: Yostar Pictures
+    seasons:
+      1:
+        title: |-
+          Sentai Daishikkaku
+        label: Score,Completed,2024 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.2
+    audience_rating: 7.2
+    critic_rating: 7.3
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   396876:
     title: |-
       Shadows House
@@ -5222,6 +5190,26 @@ metadata:
     critic_rating: 7.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  426834:
+    title: |-
+      Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu
+    sort_title: |-
+      Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu
+    original_title: |-
+      I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
+    genre.sync: Action,Adventure,Fantasy,Magic,Male Protagonist,Reincarnation,Femboy,Female Harem,Demons,Chibi,Cute Boys Doing Cute Things,Age Regression
+    studio: Tsumugi Akita Anime Lab
+    seasons:
+      1:
+        title: |-
+          Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu
+        label: Score,Completed,2024 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.4
+    audience_rating: 7.4
+    critic_rating: 7.4
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   410378:
     title: |-
       Tensei Shitara Ken Deshita
@@ -5314,6 +5302,26 @@ metadata:
         user_rating: 7.6
     audience_rating: 7.6
     critic_rating: 8.1
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  378556:
+    title: |-
+      The God Of High School
+    sort_title: |-
+      The God Of High School
+    original_title: |-
+      The God of High School
+    genre.sync: Action,Comedy,Supernatural,Martial Arts,Gods,Super Power,Urban Fantasy,Shounen,Male Protagonist,Cult,Rotoscoping,Foreign,Primarily Teen Cast
+    studio: MAPPA
+    seasons:
+      1:
+        title: |-
+          The God Of High School
+        label: Score,Completed,2020 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.9
+    audience_rating: 6.9
+    critic_rating: 7.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   281249:
