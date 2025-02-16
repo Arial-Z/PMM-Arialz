@@ -200,7 +200,7 @@ metadata:
       A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.
     original_title: |-
       I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!
-    genre.sync: Action,Adventure,Comedy,Fantasy,Magic,Male Protagonist,Dungeon
+    genre.sync: Action,Adventure,Comedy,Fantasy,Male Protagonist,Magic,Dungeon
     studio: Bandai Namco Pictures
     seasons:
       1:
@@ -336,7 +336,7 @@ metadata:
           Ao no Exorcist: Yosuga-hen
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.5
+        user_rating: 7.6
     audience_rating: 7.3
     critic_rating: 7.4
     label: Airing,Watching
@@ -532,7 +532,7 @@ metadata:
       BanG Dream! Ave Mujica
     original_title: |-
       BanG Dream! Ave Mujica
-    genre.sync: Drama,Music,Psychological,Band,Tragedy,Primarily Female Cast,Female Protagonist,Primarily Teen Cast,Full CGI,Metal Music,Acting,Dissociative Identities,Estranged Family
+    genre.sync: Drama,Music,Psychological,Primarily Teen Cast,Band,Tragedy,Female Protagonist,Primarily Female Cast,Full CGI,Dissociative Identities,Metal Music,Acting,Estranged Family
     studio: SANZIGEN
     seasons:
       1:
@@ -542,7 +542,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.2
     audience_rating: 8.2
-    critic_rating: 8.3
+    critic_rating: 8.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   281270:
@@ -2161,6 +2161,26 @@ metadata:
     critic_rating: 7.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  422250:
+    title: |-
+      Isekai Shikkaku
+    sort_title: |-
+      Isekai Shikkaku
+    original_title: |-
+      No Longer Allowed in Another World
+    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Supernatural,Isekai,Suicide,Male Protagonist,Seinen,Philosophy,Satire,Travel,Nekomimi,Magic
+    studio: Atelier Pontdarc
+    seasons:
+      1:
+        title: |-
+          Isekai Shikkaku
+        label: Score,Completed,2024 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.3
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   406592:
     title: |-
       Isekai Yakkyoku
@@ -3647,26 +3667,6 @@ metadata:
     critic_rating: 7.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
-  422250:
-    title: |-
-      Isekai Shikkaku
-    sort_title: |-
-      Isekai Shikkaku
-    original_title: |-
-      No Longer Allowed in Another World
-    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Supernatural,Isekai,Suicide,Male Protagonist,Seinen,Philosophy,Satire,Travel,Nekomimi,Magic
-    studio: Atelier Pontdarc
-    seasons:
-      1:
-        title: |-
-          Isekai Shikkaku
-        label: Score,Completed,2024 Summer
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 7.3
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   275610:
     title: |-
       Noragami
