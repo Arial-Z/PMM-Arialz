@@ -242,7 +242,7 @@ metadata:
       Akuyaku Reijou Tensei Oji-san
     original_title: |-
       From Bureaucrat to Villainess: Dad's Been Reincarnated!
-    genre.sync: Comedy,Fantasy,Villainess,Seinen,Video Games,School,Otaku Culture,Female Protagonist,Meta,Gender Bending,Isekai,Reincarnation,Elderly Protagonist,Mixed Gender Harem,Age Regression
+    genre.sync: Comedy,Fantasy,Villainess,Seinen,Video Games,School,Female Protagonist,Otaku Culture,Meta,Gender Bending,Isekai,Reincarnation,Elderly Protagonist,Mixed Gender Harem,Age Regression,Surreal Comedy,Parody
     studio: Ajiado
     seasons:
       1:
@@ -1320,7 +1320,7 @@ metadata:
           Dr. STONE: SCIENCE FUTURE
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.0
+        user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.2
     label: AA Winner,Airing,Watching
@@ -3503,40 +3503,6 @@ metadata:
     critic_rating: 8.7
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  352408:
-    title: |-
-      Tensei Shitara Slime Datta Ken
-    sort_title: |-
-      Tensei Shitara Slime Datta Ken
-    original_title: |-
-      That Time I Got Reincarnated as a Slime
-    genre.sync: Action,Adventure,Comedy,Fantasy,Isekai,Found Family,Reincarnation,Magic,Super Power,Shapeshifting,Kingdom Management,Ensemble Cast,Alternate Universe,Economics,Clone,Politics,Henshin,Monster Boy,Monster Girl,Fairy,Demons,Agender,Gender Bending,Male Protagonist,Goblin
-    studio: 8-bit
-    seasons:
-      0:
-        label.remove: Score
-      1:
-        title: |-
-          Tensei Shitara Slime Datta Ken
-        label: Score,AA Winner,Completed,2018 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.0
-      2:
-        title: |-
-          Tensei Shitara Slime Datta Ken 2nd Season
-        label: Score,AA Winner,Completed,2021 Summer,2021 Winter
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.2
-      3:
-        title: |-
-          Tensei Shitara Slime Datta Ken 3rd Season
-        label: Score,Completed,2024 Spring
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.7
-    audience_rating: 8.0
-    critic_rating: 8.1
-    label: AA Winner,Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -3702,7 +3668,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.0
     audience_rating: 7.0
-    critic_rating: 7.3
+    critic_rating: 7.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   275610:
@@ -3890,6 +3856,26 @@ metadata:
     critic_rating: 8.6
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
+  412826:
+    title: |-
+      Otomege Sekai wa Mob ni Kibishii Sekai desu
+    sort_title: |-
+      Otomege Sekai wa Mob ni Kibishii Sekai desu
+    original_title: |-
+      Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs
+    genre.sync: Action,Fantasy,Mecha,Romance,Anti-Hero,Isekai,Male Protagonist,Matriarchy,School,Robots,Ojou-sama,Video Games
+    studio: ENGI
+    seasons:
+      1:
+        title: |-
+          Otomege Sekai wa Mob ni Kibishii Sekai desu
+        label: Score,Completed,2022 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.3
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   391625:
     title: |-
       Ousama Ranking
@@ -4668,6 +4654,28 @@ metadata:
     critic_rating: 6.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  279830:
+    title: |-
+      Shigatsu wa Kimi no Uso
+    sort_title: |-
+      Shigatsu wa Kimi no Uso
+    original_title: |-
+      Your lie in April
+    genre.sync: Drama,Music,Romance,Slice of Life,Tragedy,Disability,Classical Music,Primarily Teen Cast,Coming of Age,Rehabilitation,Male Protagonist,Female Protagonist,Unrequited Love,Heterosexual,School
+    studio: A-1 Pictures
+    seasons:
+      0:
+        label.remove: Score
+      1:
+        title: |-
+          Shigatsu wa Kimi no Uso
+        label: Score,Completed,2014 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.4
+    audience_rating: 8.4
+    critic_rating: 8.6
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   369048:
     title: |-
       Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru
@@ -4916,19 +4924,6 @@ metadata:
     critic_rating: 9.3
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  256705:
-    title: |-
-      Uchuu Kyoudai
-    sort_title: |-
-      Uchuu Kyoudai
-    original_title: |-
-      Space Brothers
-    genre.sync: Comedy,Sci-Fi,Slice of Life,Space,Work,Seinen,Primarily Adult Cast,Ensemble Cast,Male Protagonist
-    studio: A-1 Pictures
-    audience_rating: 8.3
-    critic_rating: 8.5
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   405920:
     title: |-
       Spy×family
@@ -5283,6 +5278,40 @@ metadata:
     critic_rating: 7.5
     label: Planned,Planning
     label.remove: Airing,Ended,Watching,Dropped,Paused,
+  352408:
+    title: |-
+      Tensei Shitara Slime Datta Ken
+    sort_title: |-
+      Tensei Shitara Slime Datta Ken
+    original_title: |-
+      That Time I Got Reincarnated as a Slime
+    genre.sync: Action,Adventure,Comedy,Fantasy,Isekai,Found Family,Reincarnation,Magic,Super Power,Shapeshifting,Kingdom Management,Ensemble Cast,Alternate Universe,Economics,Clone,Politics,Henshin,Monster Boy,Monster Girl,Fairy,Demons,Agender,Gender Bending,Male Protagonist,Goblin
+    studio: 8-bit
+    seasons:
+      0:
+        label.remove: Score
+      1:
+        title: |-
+          Tensei Shitara Slime Datta Ken
+        label: Score,AA Winner,Completed,2018 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.0
+      2:
+        title: |-
+          Tensei Shitara Slime Datta Ken 2nd Season
+        label: Score,AA Winner,Completed,2021 Summer,2021 Winter
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.2
+      3:
+        title: |-
+          Tensei Shitara Slime Datta Ken 3rd Season
+        label: Score,Completed,2024 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.7
+    audience_rating: 8.0
+    critic_rating: 8.1
+    label: AA Winner,Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   436948:
     title: |-
       The Fable
@@ -5499,26 +5528,6 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  412826:
-    title: |-
-      Otomege Sekai wa Mob ni Kibishii Sekai desu
-    sort_title: |-
-      Otomege Sekai wa Mob ni Kibishii Sekai desu
-    original_title: |-
-      Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs
-    genre.sync: Action,Fantasy,Mecha,Romance,Anti-Hero,Isekai,Male Protagonist,Matriarchy,School,Robots,Ojou-sama,Video Games
-    studio: ENGI
-    seasons:
-      1:
-        title: |-
-          Otomege Sekai wa Mob ni Kibishii Sekai desu
-        label: Score,Completed,2022 Spring
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 7.3
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   421378:
     title: |-
       Trigun Stampede
@@ -5611,6 +5620,39 @@ metadata:
         user_rating: 8.1
     audience_rating: 7.8
     critic_rating: 7.9
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  446485:
+    title: |-
+      Übel Blatt
+    sort_title: |-
+      Übel Blatt
+    original_title: |-
+      Übel Blatt
+    genre.sync: Action,Adventure,Drama,Ecchi,Fantasy,Revenge,Elf,Swordplay
+    studio: Satelight
+    seasons:
+      1:
+        title: |-
+          Übel Blatt
+        label: Score,Watching,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 5.9
+    audience_rating: 5.9
+    critic_rating: 6.2
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+  256705:
+    title: |-
+      Uchuu Kyoudai
+    sort_title: |-
+      Uchuu Kyoudai
+    original_title: |-
+      Space Brothers
+    genre.sync: Comedy,Sci-Fi,Slice of Life,Space,Work,Seinen,Primarily Adult Cast,Ensemble Cast,Male Protagonist
+    studio: A-1 Pictures
+    audience_rating: 8.3
+    critic_rating: 8.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   259675:
@@ -6071,28 +6113,6 @@ metadata:
         user_rating: 7.9
     audience_rating: 7.8
     critic_rating: 8.0
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  279830:
-    title: |-
-      Shigatsu wa Kimi no Uso
-    sort_title: |-
-      Shigatsu wa Kimi no Uso
-    original_title: |-
-      Your lie in April
-    genre.sync: Drama,Music,Romance,Slice of Life,Tragedy,Disability,Classical Music,Primarily Teen Cast,Coming of Age,Rehabilitation,Male Protagonist,Female Protagonist,Unrequited Love,Heterosexual,School
-    studio: A-1 Pictures
-    seasons:
-      0:
-        label.remove: Score
-      1:
-        title: |-
-          Shigatsu wa Kimi no Uso
-        label: Score,Completed,2014 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.4
-    audience_rating: 8.4
-    critic_rating: 8.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   424019:

@@ -300,18 +300,6 @@ metadata:
     audience_rating: 8.1
     critic_rating: 8.2
     label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt1288461:
-    title: |-
-      Tengen Toppa Gurren Lagann: Gurren-hen
-    sort_title: |-
-      Tengen Toppa Gurren Lagann: Gurren-hen
-    original_title: |-
-      Gurren Lagann The Movie: Childhood's End
-    genre.sync: Action,Comedy,Drama,Mecha,Romance,Sci-Fi,Coming of Age,Robots,Desert,Dystopian,Super Robot,Post-Apocalyptic
-    studio: Gainax
-    audience_rating: 7.9
-    critic_rating: 8.2
-    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt30476486:
     title: |-
       Haikyuu!!: Gomi Suteba no Kessen
@@ -512,18 +500,6 @@ metadata:
     critic_rating: 7.9
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
-  tt0097814:
-    title: |-
-      Majo no Takkyuubin
-    sort_title: |-
-      Majo no Takkyuubin
-    original_title: |-
-      Kiki's Delivery Service
-    genre.sync: Adventure,Drama,Fantasy,Slice of Life,Coming of Age,Witch,Female Protagonist,Urban Fantasy,Magic,Work,Primarily Female Cast,Urban,Primarily Adult Cast
-    studio: Studio Ghibli
-    audience_rating: 8.1
-    critic_rating: 8.2
-    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt5311514:
     title: |-
       Kimi no Na wa.
@@ -650,19 +626,6 @@ metadata:
     critic_rating: 8.1
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
-  tt0092067:
-    title: |-
-      Tenkuu no Shiro Laputa
-    sort_title: |-
-      Tenkuu no Shiro Laputa
-    original_title: |-
-      Castle in the Sky
-    genre.sync: Adventure,Fantasy,Sci-Fi,Lost Civilization,Environmental,Steampunk,Pirates,Aviation,Fugitive,Female Protagonist,Military,Travel
-    studio: Studio Ghibli
-    audience_rating: 8.0
-    critic_rating: 8.3
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
   tt10068916:
     title: |-
       Made in Abyss: Fukaki Tamashii no Reimei
@@ -689,6 +652,30 @@ metadata:
     critic_rating: 8.2
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
+  tt0097814:
+    title: |-
+      Majo no Takkyuubin
+    sort_title: |-
+      Majo no Takkyuubin
+    original_title: |-
+      Kiki's Delivery Service
+    genre.sync: Adventure,Drama,Fantasy,Slice of Life,Coming of Age,Witch,Female Protagonist,Urban Fantasy,Magic,Work,Primarily Female Cast,Urban,Primarily Adult Cast
+    studio: Studio Ghibli
+    audience_rating: 8.1
+    critic_rating: 8.2
+    label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt0113824:
+    title: |-
+      Mimi wo Sumaseba
+    sort_title: |-
+      Mimi wo Sumaseba
+    original_title: |-
+      Whisper of the Heart
+    genre.sync: Adventure,Drama,Romance,Slice of Life,Coming of Age,Writing,Female Protagonist,Heterosexual
+    studio: Studio Ghibli
+    audience_rating: 8.1
+    critic_rating: 8.2
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt6900448:
     title: |-
       Mirai no Mirai
@@ -775,18 +762,6 @@ metadata:
     audience_rating: 7.3
     critic_rating: 7.4
     label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt26224944:
-    title: |-
-      Psycho-pass Providence
-    sort_title: |-
-      Psycho-pass Providence
-    original_title: |-
-      PSYCHO-PASS: Providence
-    genre.sync: Action,Psychological,Sci-Fi,Thriller,Cyberpunk,Artificial Intelligence,Crime,Female Protagonist,Police,Dystopian,Guns,Conspiracy,Religion,Espionage,Politics
-    studio: Production I.G
-    audience_rating: 7.6
-    critic_rating: 7.6
-    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt11433874:
     title: |-
       Psycho-pass 3: First Inspector
@@ -798,6 +773,18 @@ metadata:
     studio: Production I.G
     audience_rating: 7.7
     critic_rating: 7.8
+    label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt26224944:
+    title: |-
+      Psycho-pass Providence
+    sort_title: |-
+      Psycho-pass Providence
+    original_title: |-
+      PSYCHO-PASS: Providence
+    genre.sync: Action,Psychological,Sci-Fi,Thriller,Cyberpunk,Artificial Intelligence,Crime,Female Protagonist,Police,Dystopian,Guns,Conspiracy,Religion,Espionage,Politics
+    studio: Production I.G
+    audience_rating: 7.6
+    critic_rating: 7.6
     label.remove: Completed,Watching,Dropped,Paused,Planning
   tt2981768:
     title: |-
@@ -874,18 +861,6 @@ metadata:
     audience_rating: 8.5
     critic_rating: 8.6
     label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0113824:
-    title: |-
-      Mimi wo Sumaseba
-    sort_title: |-
-      Mimi wo Sumaseba
-    original_title: |-
-      Whisper of the Heart
-    genre.sync: Adventure,Drama,Romance,Slice of Life,Coming of Age,Writing,Female Protagonist,Heterosexual
-    studio: Studio Ghibli
-    audience_rating: 8.1
-    critic_rating: 8.2
-    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt12642574:
     title: |-
       Sidonia no Kishi: Ai Tsumugu Hoshi
@@ -925,19 +900,6 @@ metadata:
     critic_rating: 8.0
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
-  tt15830702:
-    title: |-
-      Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo
-    sort_title: |-
-      Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo
-    original_title: |-
-      Sword Art Online the Movie -Progressive- Scherzo of Deep Night
-    genre.sync: Action,Adventure,Fantasy,Romance,Virtual World,Isekai,Death Game,Female Protagonist,Swordplay
-    studio: A-1 Pictures
-    audience_rating: 7.6
-    critic_rating: 7.7
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
   tt13424422:
     title: |-
       Sword Art Online: Progressive - Hoshinaki Yoru no Aria
@@ -951,6 +913,31 @@ metadata:
     critic_rating: 7.9
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
+  tt15830702:
+    title: |-
+      Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo
+    sort_title: |-
+      Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo
+    original_title: |-
+      Sword Art Online the Movie -Progressive- Scherzo of Deep Night
+    genre.sync: Action,Adventure,Fantasy,Romance,Virtual World,Isekai,Death Game,Female Protagonist,Swordplay
+    studio: A-1 Pictures
+    audience_rating: 7.6
+    critic_rating: 7.7
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
+  tt1288461:
+    title: |-
+      Tengen Toppa Gurren Lagann: Gurren-hen
+    sort_title: |-
+      Tengen Toppa Gurren Lagann: Gurren-hen
+    original_title: |-
+      Gurren Lagann The Movie: Childhood's End
+    genre.sync: Action,Comedy,Drama,Mecha,Romance,Sci-Fi,Coming of Age,Robots,Desert,Dystopian,Super Robot,Post-Apocalyptic
+    studio: Gainax
+    audience_rating: 7.9
+    critic_rating: 8.2
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt9426210:
     title: |-
       Tenki no Ko
@@ -961,6 +948,19 @@ metadata:
     genre.sync: Drama,Romance,Slice of Life,Supernatural,Urban Fantasy,Urban,Environmental,Female Protagonist,Male Protagonist,Fugitive,Orphan,Family Life,Heterosexual,Magic,Work
     studio: CoMix Wave
     audience_rating: 8.1
+    critic_rating: 8.3
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
+  tt0092067:
+    title: |-
+      Tenkuu no Shiro Laputa
+    sort_title: |-
+      Tenkuu no Shiro Laputa
+    original_title: |-
+      Castle in the Sky
+    genre.sync: Adventure,Fantasy,Sci-Fi,Lost Civilization,Environmental,Steampunk,Pirates,Aviation,Fugitive,Female Protagonist,Military,Travel
+    studio: Studio Ghibli
+    audience_rating: 8.0
     critic_rating: 8.3
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
