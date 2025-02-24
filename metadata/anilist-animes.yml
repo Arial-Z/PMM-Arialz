@@ -5142,6 +5142,8 @@ metadata:
     genre.sync: Action,Comedy,Drama,Mecha,Romance,Sci-Fi,Super Robot,Coming of Age,Dystopian,Found Family,Male Protagonist,Post-Apocalyptic,Primarily Adult Cast,Space Opera,Tragedy,Travel,War,Space,Aliens,Class Struggle,Time Skip,Politics,Desert,Anthropomorphism,Outdoor,Heterosexual
     studio: Gainax
     seasons:
+      0:
+        label.remove: Score
       1:
         title: |-
           Tengen Toppa Gurren Lagann
