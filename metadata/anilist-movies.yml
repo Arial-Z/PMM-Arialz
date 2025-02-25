@@ -49,18 +49,6 @@ metadata:
     critic_rating: 8.2
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
-  tt13651628:
-    title: |-
-      Ryuu to Sobakasu no Hime
-    sort_title: |-
-      Ryuu to Sobakasu no Hime
-    original_title: |-
-      Belle
-    genre.sync: Drama,Music,Mystery,Sci-Fi,Virtual World,Primarily Teen Cast,Female Protagonist,Artificial Intelligence,Augmented Reality,Coming of Age,CGI,Fairy Tale,Tragedy,Idol
-    studio: Studio Chizu
-    audience_rating: 7.3
-    critic_rating: 7.5
-    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt16360006:
     title: |-
       Bubble
@@ -82,7 +70,7 @@ metadata:
       5 Centimeters per Second
     genre.sync: Drama,Romance,Slice of Life,Coming of Age,Heterosexual,Unrequited Love,Time Skip,Tragedy,Travel,Trains,Male Protagonist
     studio: CoMix Wave
-    audience_rating: 7.2
+    audience_rating: 7.1
     critic_rating: 7.6
     label.remove: Completed,Watching,Dropped,Paused,Planning
   tt12735338:
@@ -108,18 +96,6 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 7.5
     critic_rating: 7.8
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0270933:
-    title: |-
-      Escaflowne
-    sort_title: |-
-      Escaflowne
-    original_title: |-
-      Escaflowne: A Girl in Gaea
-    genre.sync: Adventure,Drama,Fantasy,Mecha,Romance,Sci-Fi,Isekai,Female Protagonist,War,Super Robot
-    studio: Sunrise
-    audience_rating: 6.6
-    critic_rating: 7.1
     label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0860906:
     title: |-
@@ -345,19 +321,6 @@ metadata:
     critic_rating: 8.4
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
-  tt4489416:
-    title: |-
-      Kokoro ga Sakebitagatterun da.
-    sort_title: |-
-      Kokoro ga Sakebitagatterun da.
-    original_title: |-
-      The Anthem of the Heart
-    genre.sync: Drama,Music,Romance,Slice of Life,Supernatural,Rehabilitation,School,Coming of Age,Tragedy,Musical Theater,Female Protagonist,Love Triangle,Primarily Teen Cast,Heterosexual
-    studio: A-1 Pictures
-    audience_rating: 7.6
-    critic_rating: 7.8
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
   tt2576852:
     title: |-
       Kaguya-hime no Monogatari
@@ -395,6 +358,31 @@ metadata:
     critic_rating: 8.4
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
+  tt2013293:
+    title: |-
+      Kaze Tachinu
+    sort_title: |-
+      Kaze Tachinu
+    original_title: |-
+      The Wind Rises
+    genre.sync: Drama,Romance,Aviation,Historical,Work,Biographical,Male Protagonist,Tragedy,Time Skip,War,Primarily Adult Cast
+    studio: Studio Ghibli
+    audience_rating: 8.0
+    critic_rating: 8.1
+    label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt7933596:
+    title: |-
+      Kidou Senshi Gundam Thunderbolt: BANDIT FLOWER
+    sort_title: |-
+      Kidou Senshi Gundam Thunderbolt: BANDIT FLOWER
+    original_title: |-
+      Mobile Suit Gundam Thunderbolt: Bandit Flower
+    genre.sync: Action,Drama,Mecha,Sci-Fi,Space,Military,Real Robot,Anti-Hero,Gore
+    studio: Sunrise
+    audience_rating: 6.9
+    critic_rating: 7.2
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt6035470:
     title: |-
       Kidou Senshi Gundam Thunderbolt: December Sky
@@ -408,18 +396,19 @@ metadata:
     critic_rating: 7.9
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
-  tt0097814:
+  tt13288678:
     title: |-
-      Majo no Takkyuubin
+      Kidou Senshi Gundam: Senkou no Hathaway
     sort_title: |-
-      Majo no Takkyuubin
+      Kidou Senshi Gundam: Senkou no Hathaway
     original_title: |-
-      Kiki's Delivery Service
-    genre.sync: Adventure,Drama,Fantasy,Slice of Life,Coming of Age,Witch,Female Protagonist,Urban Fantasy,Magic,Work,Primarily Female Cast,Urban,Primarily Adult Cast
-    studio: Studio Ghibli
-    audience_rating: 8.1
-    critic_rating: 8.2
-    label.remove: Completed,Watching,Dropped,Paused,Planning
+      Mobile Suit Gundam Hathaway
+    genre.sync: Action,Drama,Mecha,Sci-Fi,Terrorism,Anti-Hero,Politics,Real Robot,Military,Tragedy
+    studio: Sunrise
+    audience_rating: 7.8
+    critic_rating: 7.8
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt5311514:
     title: |-
       Kimi no Na wa.
@@ -440,7 +429,7 @@ metadata:
       Kimi no Suizou wo Tabetai
     original_title: |-
       I Want to Eat Your Pancreas
-    genre.sync: Drama,Romance,Slice of Life,Tragedy,Coming of Age,Male Protagonist,Female Protagonist,Philosophy,Heterosexual,Primarily Teen Cast,Rehabilitation,Classic Literature
+    genre.sync: Drama,Romance,Slice of Life,Tragedy,Coming of Age,Male Protagonist,Female Protagonist,Philosophy,Heterosexual,Primarily Teen Cast,Classic Literature,Rehabilitation,Achronological Order
     studio: Studio VOLN
     audience_rating: 8.4
     critic_rating: 8.6
@@ -483,6 +472,19 @@ metadata:
     critic_rating: 8.9
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
+  tt4489416:
+    title: |-
+      Kokoro ga Sakebitagatterun da.
+    sort_title: |-
+      Kokoro ga Sakebitagatterun da.
+    original_title: |-
+      The Anthem of the Heart
+    genre.sync: Drama,Music,Romance,Slice of Life,Supernatural,Rehabilitation,School,Coming of Age,Tragedy,Musical Theater,Female Protagonist,Love Triangle,Primarily Teen Cast,Heterosexual
+    studio: A-1 Pictures
+    audience_rating: 7.6
+    critic_rating: 7.8
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt4769824:
     title: |-
       Kono Sekai no Katasumi ni
@@ -494,6 +496,19 @@ metadata:
     studio: MAPPA
     audience_rating: 8.1
     critic_rating: 8.2
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
+  tt2591814:
+    title: |-
+      Kotonoha no Niwa
+    sort_title: |-
+      Kotonoha no Niwa
+    original_title: |-
+      The Garden of Words
+    genre.sync: Drama,Psychological,Romance,Slice of Life,Coming of Age,Age Gap,Feet,Teacher,Male Protagonist,Heterosexual,Urban,Bullying
+    studio: CoMix Wave
+    audience_rating: 7.5
+    critic_rating: 7.9
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
   tt0381348:
@@ -533,82 +548,30 @@ metadata:
     critic_rating: 8.1
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
-  tt0092067:
+  tt0097814:
     title: |-
-      Tenkuu no Shiro Laputa
+      Majo no Takkyuubin
     sort_title: |-
-      Tenkuu no Shiro Laputa
+      Majo no Takkyuubin
     original_title: |-
-      Castle in the Sky
-    genre.sync: Adventure,Fantasy,Sci-Fi,Lost Civilization,Environmental,Steampunk,Pirates,Aviation,Fugitive,Female Protagonist,Military,Travel
+      Kiki's Delivery Service
+    genre.sync: Adventure,Drama,Fantasy,Slice of Life,Coming of Age,Witch,Female Protagonist,Urban Fantasy,Magic,Work,Primarily Female Cast,Urban,Primarily Adult Cast
     studio: Studio Ghibli
-    audience_rating: 8.0
-    critic_rating: 8.3
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt2591814:
-    title: |-
-      Kotonoha no Niwa
-    sort_title: |-
-      Kotonoha no Niwa
-    original_title: |-
-      The Garden of Words
-    genre.sync: Drama,Psychological,Romance,Slice of Life,Coming of Age,Age Gap,Feet,Teacher,Male Protagonist,Heterosexual,Urban,Bullying
-    studio: CoMix Wave
-    audience_rating: 7.5
-    critic_rating: 7.9
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt11417856:
-    title: |-
-      Shika no Ou: Yuna to Yakusoku no Tabi
-    sort_title: |-
-      Shika no Ou: Yuna to Yakusoku no Tabi
-    original_title: |-
-      The Deer King
-    genre.sync: Action,Adventure,Drama,Fantasy,Fugitive,Adoption,Pandemic,Male Protagonist,Slavery,Found Family,Politics,Medicine,War
-    studio: Production I.G
-    audience_rating: 6.8
-    critic_rating: 6.9
+    audience_rating: 8.1
+    critic_rating: 8.2
     label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt2013293:
+  tt0113824:
     title: |-
-      Kaze Tachinu
+      Mimi wo Sumaseba
     sort_title: |-
-      Kaze Tachinu
+      Mimi wo Sumaseba
     original_title: |-
-      The Wind Rises
-    genre.sync: Drama,Romance,Aviation,Historical,Work,Biographical,Male Protagonist,Tragedy,Time Skip,War,Primarily Adult Cast
+      Whisper of the Heart
+    genre.sync: Adventure,Drama,Romance,Slice of Life,Coming of Age,Writing,Female Protagonist,Heterosexual
     studio: Studio Ghibli
-    audience_rating: 8.0
-    critic_rating: 8.1
+    audience_rating: 8.1
+    critic_rating: 8.2
     label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt2140203:
-    title: |-
-      Ookami Kodomo no Ame to Yuki
-    sort_title: |-
-      Ookami Kodomo no Ame to Yuki
-    original_title: |-
-      Wolf Children
-    genre.sync: Drama,Fantasy,Romance,Slice of Life,Family Life,Werewolf,Coming of Age,Female Protagonist,Environmental,Rural,Parenthood,Snowscape,Shapeshifting,Kemonomimi,Tragedy
-    studio: MADHOUSE
-    audience_rating: 8.3
-    critic_rating: 8.6
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt7339826:
-    title: |-
-      Sayonara no Asa ni Yakusoku no Hana wo Kazarou
-    sort_title: |-
-      Sayonara no Asa ni Yakusoku no Hana wo Kazarou
-    original_title: |-
-      Maquia: When the Promised Flower Blooms
-    genre.sync: Drama,Fantasy,Psychological,Parenthood,Family Life,Coming of Age,Orphan,Adoption,Female Protagonist,Tragedy,Time Skip,Work,Foreign,Urban Fantasy,Travel
-    studio: P.A. Works
-    audience_rating: 8.2
-    critic_rating: 8.4
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
   tt6900448:
     title: |-
       Mirai no Mirai
@@ -621,32 +584,6 @@ metadata:
     audience_rating: 7.1
     critic_rating: 7.3
     label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt13288678:
-    title: |-
-      Kidou Senshi Gundam: Senkou no Hathaway
-    sort_title: |-
-      Kidou Senshi Gundam: Senkou no Hathaway
-    original_title: |-
-      Mobile Suit Gundam Hathaway
-    genre.sync: Action,Drama,Mecha,Sci-Fi,Terrorism,Anti-Hero,Politics,Real Robot,Military,Tragedy
-    studio: Sunrise
-    audience_rating: 7.8
-    critic_rating: 7.8
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt7933596:
-    title: |-
-      Kidou Senshi Gundam Thunderbolt: BANDIT FLOWER
-    sort_title: |-
-      Kidou Senshi Gundam Thunderbolt: BANDIT FLOWER
-    original_title: |-
-      Mobile Suit Gundam Thunderbolt: Bandit Flower
-    genre.sync: Action,Drama,Mecha,Sci-Fi,Space,Military,Real Robot,Anti-Hero,Gore
-    studio: Sunrise
-    audience_rating: 6.9
-    critic_rating: 7.2
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
   tt0119698:
     title: |-
       Mononoke-hime
@@ -708,6 +645,31 @@ metadata:
     audience_rating: 7.3
     critic_rating: 7.4
     label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt2140203:
+    title: |-
+      Ookami Kodomo no Ame to Yuki
+    sort_title: |-
+      Ookami Kodomo no Ame to Yuki
+    original_title: |-
+      Wolf Children
+    genre.sync: Drama,Fantasy,Romance,Slice of Life,Family Life,Werewolf,Coming of Age,Female Protagonist,Environmental,Rural,Parenthood,Snowscape,Shapeshifting,Kemonomimi,Tragedy
+    studio: MADHOUSE
+    audience_rating: 8.3
+    critic_rating: 8.6
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
+  tt13651628:
+    title: |-
+      Ryuu to Sobakasu no Hime
+    sort_title: |-
+      Ryuu to Sobakasu no Hime
+    original_title: |-
+      Belle
+    genre.sync: Drama,Music,Mystery,Sci-Fi,Virtual World,Primarily Teen Cast,Female Protagonist,Artificial Intelligence,Augmented Reality,Coming of Age,CGI,Fairy Tale,Tragedy,Idol
+    studio: Studio Chizu
+    audience_rating: 7.3
+    critic_rating: 7.5
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt2981768:
     title: |-
       Sakasama no Patema
@@ -719,6 +681,19 @@ metadata:
     studio: Studio Rikka
     audience_rating: 7.6
     critic_rating: 7.9
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
+  tt7339826:
+    title: |-
+      Sayonara no Asa ni Yakusoku no Hana wo Kazarou
+    sort_title: |-
+      Sayonara no Asa ni Yakusoku no Hana wo Kazarou
+    original_title: |-
+      Maquia: When the Promised Flower Blooms
+    genre.sync: Drama,Fantasy,Psychological,Parenthood,Family Life,Coming of Age,Orphan,Adoption,Female Protagonist,Tragedy,Time Skip,Work,Foreign,Urban Fantasy,Travel
+    studio: P.A. Works
+    audience_rating: 8.2
+    critic_rating: 8.4
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
   tt0245429:
@@ -734,6 +709,18 @@ metadata:
     critic_rating: 8.8
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
+  tt11417856:
+    title: |-
+      Shika no Ou: Yuna to Yakusoku no Tabi
+    sort_title: |-
+      Shika no Ou: Yuna to Yakusoku no Tabi
+    original_title: |-
+      The Deer King
+    genre.sync: Action,Adventure,Drama,Fantasy,Fugitive,Adoption,Pandemic,Male Protagonist,Slavery,Found Family,Politics,Medicine,War
+    studio: Production I.G
+    audience_rating: 6.8
+    critic_rating: 6.9
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt2458948:
     title: |-
       Shin Evangelion Movie:||
@@ -745,18 +732,6 @@ metadata:
     studio: Studio Khara
     audience_rating: 8.5
     critic_rating: 8.6
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0113824:
-    title: |-
-      Mimi wo Sumaseba
-    sort_title: |-
-      Mimi wo Sumaseba
-    original_title: |-
-      Whisper of the Heart
-    genre.sync: Adventure,Drama,Romance,Slice of Life,Coming of Age,Writing,Female Protagonist,Heterosexual
-    studio: Studio Ghibli
-    audience_rating: 8.1
-    critic_rating: 8.2
     label.remove: Completed,Watching,Dropped,Paused,Planning
   tt1121794:
     title: |-
@@ -778,7 +753,7 @@ metadata:
       Summer Wars
     original_title: |-
       Summer Wars
-    genre.sync: Action,Comedy,Drama,Romance,Sci-Fi,Artificial Intelligence,Family Life,Virtual World,Ensemble Cast,Rural,Male Protagonist,Terrorism
+    genre.sync: Action,Comedy,Drama,Romance,Sci-Fi,Family Life,Virtual World,Artificial Intelligence,Ensemble Cast,Software Development,Rural,Male Protagonist,Terrorism
     studio: MADHOUSE
     audience_rating: 7.7
     critic_rating: 8.0
@@ -807,6 +782,19 @@ metadata:
     genre.sync: Drama,Romance,Slice of Life,Supernatural,Urban Fantasy,Urban,Environmental,Female Protagonist,Male Protagonist,Fugitive,Orphan,Family Life,Heterosexual,Magic,Work
     studio: CoMix Wave
     audience_rating: 8.1
+    critic_rating: 8.3
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
+  tt0092067:
+    title: |-
+      Tenkuu no Shiro Laputa
+    sort_title: |-
+      Tenkuu no Shiro Laputa
+    original_title: |-
+      Castle in the Sky
+    genre.sync: Adventure,Fantasy,Sci-Fi,Lost Civilization,Environmental,Steampunk,Pirates,Aviation,Fugitive,Female Protagonist,Military,Travel
+    studio: Studio Ghibli
+    audience_rating: 8.0
     critic_rating: 8.3
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
