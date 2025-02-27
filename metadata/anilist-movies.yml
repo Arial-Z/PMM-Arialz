@@ -1,5 +1,17 @@
 # Romaji-Renamer v1.24+
 metadata:
+  tt0110008:
+    title: |-
+      Heisei Tanuki Gassen Ponpoko
+    sort_title: |-
+      Heisei Tanuki Gassen Ponpoko
+    original_title: |-
+      Pom Poko
+    genre.sync: Comedy,Drama,Fantasy,Environmental,Mythology,Ensemble Cast,Animals,Rural,Primarily Animal Cast,Anthropomorphism,Henshin,Shapeshifting,Revenge,Primarily Male Cast
+    studio: Studio Ghibli
+    audience_rating: 7.0
+    critic_rating: 7.3
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0094625:
     title: |-
       Akira
@@ -11,6 +23,18 @@ metadata:
     studio: Tokyo Movie Shinsha
     audience_rating: 7.9
     critic_rating: 8.2
+    label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt12441478:
+    title: |-
+      Aya to Majo
+    sort_title: |-
+      Aya to Majo
+    original_title: |-
+      Earwig and the Witch
+    genre.sync: Fantasy,Witch,Magic,Full CGI,Kids,CGI,Female Protagonist
+    studio: Studio Ghibli
+    audience_rating: 5.1
+    critic_rating: 5.4
     label.remove: Completed,Watching,Dropped,Paused,Planning
   tt4272866:
     title: |-
@@ -360,6 +384,18 @@ metadata:
     critic_rating: 7.8
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
+  tt0097814:
+    title: |-
+      Majo no Takkyuubin
+    sort_title: |-
+      Majo no Takkyuubin
+    original_title: |-
+      Kiki's Delivery Service
+    genre.sync: Adventure,Drama,Fantasy,Slice of Life,Coming of Age,Witch,Female Protagonist,Urban Fantasy,Magic,Work,Primarily Female Cast,Urban,Primarily Adult Cast
+    studio: Studio Ghibli
+    audience_rating: 8.1
+    critic_rating: 8.2
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt5311514:
     title: |-
       Kimi no Na wa.
@@ -499,6 +535,32 @@ metadata:
     critic_rating: 8.1
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
+  tt0092067:
+    title: |-
+      Tenkuu no Shiro Laputa
+    sort_title: |-
+      Tenkuu no Shiro Laputa
+    original_title: |-
+      Castle in the Sky
+    genre.sync: Adventure,Fantasy,Sci-Fi,Lost Civilization,Environmental,Steampunk,Pirates,Aviation,Fugitive,Female Protagonist,Military,Travel
+    studio: Studio Ghibli
+    audience_rating: 8.0
+    critic_rating: 8.3
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
+  tt7339826:
+    title: |-
+      Sayonara no Asa ni Yakusoku no Hana wo Kazarou
+    sort_title: |-
+      Sayonara no Asa ni Yakusoku no Hana wo Kazarou
+    original_title: |-
+      Maquia: When the Promised Flower Blooms
+    genre.sync: Drama,Fantasy,Psychological,Parenthood,Family Life,Coming of Age,Orphan,Adoption,Female Protagonist,Tragedy,Time Skip,Work,Foreign,Urban Fantasy,Travel
+    studio: P.A. Works
+    audience_rating: 8.2
+    critic_rating: 8.4
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt6900448:
     title: |-
       Mirai no Mirai
@@ -511,6 +573,19 @@ metadata:
     audience_rating: 7.1
     critic_rating: 7.3
     label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt7933596:
+    title: |-
+      Kidou Senshi Gundam Thunderbolt: BANDIT FLOWER
+    sort_title: |-
+      Kidou Senshi Gundam Thunderbolt: BANDIT FLOWER
+    original_title: |-
+      Mobile Suit Gundam Thunderbolt: Bandit Flower
+    genre.sync: Action,Drama,Mecha,Sci-Fi,Space,Military,Real Robot,Anti-Hero,Gore
+    studio: Sunrise
+    audience_rating: 6.9
+    critic_rating: 7.2
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt0119698:
     title: |-
       Mononoke-hime
@@ -646,6 +721,18 @@ metadata:
     studio: Studio Khara
     audience_rating: 8.5
     critic_rating: 8.6
+    label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt0113824:
+    title: |-
+      Mimi wo Sumaseba
+    sort_title: |-
+      Mimi wo Sumaseba
+    original_title: |-
+      Whisper of the Heart
+    genre.sync: Adventure,Drama,Romance,Slice of Life,Coming of Age,Writing,Female Protagonist,Heterosexual
+    studio: Studio Ghibli
+    audience_rating: 8.1
+    critic_rating: 8.2
     label.remove: Completed,Watching,Dropped,Paused,Planning
   tt1121794:
     title: |-

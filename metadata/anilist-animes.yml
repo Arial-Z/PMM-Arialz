@@ -3229,6 +3229,8 @@ metadata:
     genre.sync: Action,Romance,Sci-Fi,Supernatural,Magic,School,Male Protagonist,Military,Terrorism,Incest
     studio: MADHOUSE
     seasons:
+      0:
+        label.remove: Score
       1:
         title: |-
           Mahouka Koukou no Rettousei
@@ -5538,6 +5540,8 @@ metadata:
     genre.sync: Action,Drama,Sci-Fi,Tragedy,Full CGI,Guns,Desert,Dystopian,Male Protagonist,Fugitive,Twins,Philosophy,Travel,Primarily Adult Cast,CGI,Steampunk,Gore,Crime,Aliens,Body Horror,Shounen,Religion
     studio: Orange
     seasons:
+      0:
+        label.remove: Score
       1:
         title: |-
           Trigun Stampede
