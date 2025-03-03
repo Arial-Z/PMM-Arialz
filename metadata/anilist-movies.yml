@@ -36,19 +36,6 @@ metadata:
     audience_rating: 5.1
     critic_rating: 5.4
     label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt4272866:
-    title: |-
-      Bakemono no Ko
-    sort_title: |-
-      Bakemono no Ko
-    original_title: |-
-      The Boy and The Beast
-    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Supernatural,Coming of Age,Male Protagonist,Urban Fantasy,Martial Arts,Found Family,Isekai,Cultivation,Primarily Animal Cast,Anthropomorphism,Orphan,Tragedy,Time Skip
-    studio: Studio Chizu
-    audience_rating: 7.9
-    critic_rating: 8.2
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
   tt0983213:
     title: |-
       Byousoku 5 Centimeter
@@ -85,6 +72,19 @@ metadata:
     audience_rating: 7.5
     critic_rating: 7.8
     label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt4769824:
+    title: |-
+      Kono Sekai no Katasumi ni
+    sort_title: |-
+      Kono Sekai no Katasumi ni
+    original_title: |-
+      In This Corner of the World
+    genre.sync: Drama,Slice of Life,Historical,War,Family Life,Female Protagonist,Tragedy,Seinen,Rehabilitation
+    studio: MAPPA
+    audience_rating: 8.1
+    critic_rating: 8.2
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt0860906:
     title: |-
       Evangelion Shin Movie: Ha
@@ -173,18 +173,6 @@ metadata:
     audience_rating: 7.9
     critic_rating: 7.9
     label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0495596:
-    title: |-
-      Ged Senki
-    sort_title: |-
-      Ged Senki
-    original_title: |-
-      Tales from Earthsea
-    genre.sync: Adventure,Fantasy,Magic,Travel,Male Protagonist
-    studio: Studio Ghibli
-    audience_rating: 6.4
-    critic_rating: 6.8
-    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0113568:
     title: |-
       GHOST IN THE SHELL: Koukaku Kidoutai
@@ -198,17 +186,17 @@ metadata:
     critic_rating: 8.3
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
-  tt1260502:
+  tt0347246:
     title: |-
-      GHOST IN THE SHELL: Koukaku Kidoutai 2.0
+      Innocence
     sort_title: |-
-      GHOST IN THE SHELL: Koukaku Kidoutai 2.0
+      Innocence
     original_title: |-
-      Ghost in the Shell 2.0
-    genre.sync: Action,Psychological,Sci-Fi,Military,Cyberpunk,Cyborg,CGI
+      Ghost in the Shell 2: Innocence
+    genre.sync: Action,Psychological,Sci-Fi,Philosophy,Cyberpunk,Police,Memory Manipulation,Artificial Intelligence,CGI,Male Protagonist,Robots,Photography,Seinen,Noir
     studio: Production I.G
-    audience_rating: 7.6
-    critic_rating: 8.0
+    audience_rating: 7.5
+    critic_rating: 7.8
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
   tt5731132:
@@ -222,18 +210,6 @@ metadata:
     studio: Signal.MD
     audience_rating: 6.5
     critic_rating: 6.8
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0206013:
-    title: |-
-      Hoohokekyo Tonari no Yamada-kun
-    sort_title: |-
-      Hoohokekyo Tonari no Yamada-kun
-    original_title: |-
-      My Neighbors the Yamadas
-    genre.sync: Comedy,Slice of Life,Ensemble Cast,Episodic,Family Life,Achronological Order,Chibi,Rotoscoping
-    studio: Studio Ghibli
-    audience_rating: 6.9
-    critic_rating: 7.1
     label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0370754:
     title: |-
@@ -283,19 +259,6 @@ metadata:
     audience_rating: 8.4
     critic_rating: 8.7
     label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0347246:
-    title: |-
-      Innocence
-    sort_title: |-
-      Innocence
-    original_title: |-
-      Ghost in the Shell 2: Innocence
-    genre.sync: Action,Psychological,Sci-Fi,Philosophy,Cyberpunk,Police,Memory Manipulation,Artificial Intelligence,CGI,Male Protagonist,Robots,Photography,Seinen,Noir
-    studio: Production I.G
-    audience_rating: 7.5
-    critic_rating: 7.8
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
   tt12879624:
     title: |-
       Josee to Tora to Sakanatachi
@@ -333,19 +296,6 @@ metadata:
     audience_rating: 7.7
     critic_rating: 7.9
     label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0087544:
-    title: |-
-      Kaze no Tani no Nausicaä
-    sort_title: |-
-      Kaze no Tani no Nausicaä
-    original_title: |-
-      Nausicaä of the Valley of the Wind
-    genre.sync: Action,Adventure,Drama,Fantasy,Sci-Fi,Environmental,Post-Apocalyptic,Female Protagonist,Lost Civilization,Philosophy,War,Aviation,Military,Eco-Horror
-    studio: Studio Hibari
-    audience_rating: 8.1
-    critic_rating: 8.4
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
   tt2013293:
     title: |-
       Kaze Tachinu
@@ -423,18 +373,6 @@ metadata:
     critic_rating: 8.6
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
-  tt6587046:
-    title: |-
-      Kimitachi wa Dou Ikiru ka
-    sort_title: |-
-      Kimitachi wa Dou Ikiru ka
-    original_title: |-
-      The Boy and the Heron
-    genre.sync: Adventure,Drama,Fantasy,Supernatural,Fairy Tale,Animals,Coming of Age,Autobiographical,Isekai,Anthropomorphism,Shapeshifting,Urban Fantasy,Tragedy,Adoption,Philosophy,Male Protagonist
-    studio: Studio Ghibli
-    audience_rating: 7.7
-    critic_rating: 7.6
-    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt5595168:
     title: |-
       Kingsglaive Final Fantasy XV
@@ -471,19 +409,6 @@ metadata:
     studio: A-1 Pictures
     audience_rating: 7.6
     critic_rating: 7.8
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt4769824:
-    title: |-
-      Kono Sekai no Katasumi ni
-    sort_title: |-
-      Kono Sekai no Katasumi ni
-    original_title: |-
-      In This Corner of the World
-    genre.sync: Drama,Slice of Life,Historical,War,Family Life,Female Protagonist,Tragedy,Seinen,Rehabilitation
-    studio: MAPPA
-    audience_rating: 8.1
-    critic_rating: 8.2
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
   tt2591814:
@@ -523,19 +448,43 @@ metadata:
     audience_rating: 7.8
     critic_rating: 7.9
     label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt4539114:
+  tt4272866:
     title: |-
-      Kyoukai no Kanata: I'LL BE HERE - Mirai-hen
+      Bakemono no Ko
     sort_title: |-
-      Kyoukai no Kanata: I'LL BE HERE - Mirai-hen
+      Bakemono no Ko
     original_title: |-
-      Beyond the Boundary -I'LL BE HERE-: Future
-    genre.sync: Action,Drama,Fantasy,Romance,Slice of Life,Supernatural,Urban Fantasy,Super Power,Demons,Male Protagonist,Amnesia,Magic,Primarily Teen Cast
-    studio: Kyoto Animation
+      The Boy and The Beast
+    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Supernatural,Coming of Age,Male Protagonist,Urban Fantasy,Martial Arts,Found Family,Isekai,Cultivation,Primarily Animal Cast,Anthropomorphism,Orphan,Tragedy,Time Skip
+    studio: Studio Chizu
     audience_rating: 7.9
-    critic_rating: 8.1
+    critic_rating: 8.2
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
+  tt6587046:
+    title: |-
+      Kimitachi wa Dou Ikiru ka
+    sort_title: |-
+      Kimitachi wa Dou Ikiru ka
+    original_title: |-
+      The Boy and the Heron
+    genre.sync: Adventure,Drama,Fantasy,Supernatural,Fairy Tale,Animals,Coming of Age,Autobiographical,Isekai,Anthropomorphism,Shapeshifting,Urban Fantasy,Tragedy,Adoption,Philosophy,Male Protagonist
+    studio: Studio Ghibli
+    audience_rating: 7.7
+    critic_rating: 7.6
+    label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt0495596:
+    title: |-
+      Ged Senki
+    sort_title: |-
+      Ged Senki
+    original_title: |-
+      Tales from Earthsea
+    genre.sync: Adventure,Fantasy,Magic,Travel,Male Protagonist
+    studio: Studio Ghibli
+    audience_rating: 6.4
+    critic_rating: 6.8
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0097814:
     title: |-
       Majo no Takkyuubin
@@ -547,6 +496,18 @@ metadata:
     studio: Studio Ghibli
     audience_rating: 8.1
     critic_rating: 8.2
+    label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt0206013:
+    title: |-
+      Hoohokekyo Tonari no Yamada-kun
+    sort_title: |-
+      Hoohokekyo Tonari no Yamada-kun
+    original_title: |-
+      My Neighbors the Yamadas
+    genre.sync: Comedy,Slice of Life,Ensemble Cast,Episodic,Family Life,Achronological Order,Chibi,Rotoscoping
+    studio: Studio Ghibli
+    audience_rating: 6.9
+    critic_rating: 7.1
     label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0113824:
     title: |-
@@ -597,6 +558,19 @@ metadata:
     audience_rating: 7.8
     critic_rating: 7.9
     label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt0087544:
+    title: |-
+      Kaze no Tani no Nausicaä
+    sort_title: |-
+      Kaze no Tani no Nausicaä
+    original_title: |-
+      Nausicaä of the Valley of the Wind
+    genre.sync: Action,Adventure,Drama,Fantasy,Sci-Fi,Environmental,Post-Apocalyptic,Female Protagonist,Lost Civilization,Philosophy,War,Aviation,Military,Eco-Horror
+    studio: Studio Hibari
+    audience_rating: 8.1
+    critic_rating: 8.4
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt0347618:
     title: |-
       Neko no Ongaeshi
@@ -754,7 +728,7 @@ metadata:
       Suzume no Tojimari
     original_title: |-
       Suzume
-    genre.sync: Adventure,Fantasy,Mystery,Supernatural,Urban Fantasy,Female Protagonist,Travel,Coming of Age,Magic,Shapeshifting,Orphan,Family Life,Gods,Kaiju
+    genre.sync: Adventure,Fantasy,Mystery,Supernatural,Urban Fantasy,Female Protagonist,Travel,Coming of Age,Magic,Shapeshifting,Orphan,Gods,Family Life,Kaiju
     studio: CoMix Wave
     audience_rating: 8.2
     critic_rating: 8.3
