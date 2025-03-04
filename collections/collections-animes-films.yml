@@ -26,63 +26,7 @@ collections:
     visible_shared: false
     url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Studio_Ghibli.png
     url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Studio_Ghibli_background.jpg
-
-  Shounen:
-    smart_filter:
-      all:
-        genre: Shounen
-      sort_by: title.asc
-    sort_title: |-
-      !0 - Shonen
-    collection_mode: hide
-    visible_library: false
-    visible_home: false
-    visible_shared: false
-    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Shounen.jpg
-    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_background.jpg
-
-  Seinen:
-    smart_filter:
-      all:
-        genre: Seinen
-      sort_by: title.asc
-    sort_title: |-
-      !1 - Seinen
-    collection_mode: hide
-    visible_library: false
-    visible_home: false
-    visible_shared: false
-    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Seinen.jpg
-    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_background.jpg
-
-  Shoujo:
-    smart_filter:
-      all:
-        genre: Shoujo
-      sort_by: title.asc
-    sort_title: |-
-      !2 - Shoujo
-    collection_mode: hide
-    visible_library: false
-    visible_home: false
-    visible_shared: false
-    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Shoujo.jpg
-    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_background.jpg
-
-  Josei:
-    smart_filter:
-      all:
-        genre: Josei
-      sort_by: title.asc
-    sort_title: |-
-      !3 - Josei
-    collection_mode: hide
-    visible_library: false
-    visible_home: false
-    visible_shared: false
-    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Josei.png
-    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_background.jpg
-
+ 
   Evangelion:
     plex_search:
       all:
