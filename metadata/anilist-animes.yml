@@ -811,8 +811,8 @@ metadata:
           Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.8
-    audience_rating: 5.8
+        user_rating: 5.7
+    audience_rating: 5.7
     critic_rating: 5.9
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -1438,7 +1438,7 @@ metadata:
       Enen no Shouboutai
     original_title: |-
       Fire Force
-    genre.sync: Action,Drama,Sci-Fi,Supernatural,Firefighters,Super Power,Urban Fantasy,Shounen,Conspiracy,Cult,Demons,Male Protagonist,Post-Apocalyptic,Religion,Primarily Adult Cast,Tragedy,Dystopian,Ensemble Cast,Nudity
+    genre.sync: Action,Drama,Sci-Fi,Supernatural,Firefighters,Super Power,Urban Fantasy,Shounen,Demons,Conspiracy,Cult,Male Protagonist,Post-Apocalyptic,Religion,Primarily Adult Cast,Tragedy,Dystopian,Ensemble Cast,Nudity
     studio: David Production
     seasons:
       1:
@@ -3214,8 +3214,8 @@ metadata:
           Magic Maker: Isekai Mahou no Tsukurikata
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
+        user_rating: 6.2
+    audience_rating: 6.2
     critic_rating: 6.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -3788,6 +3788,26 @@ metadata:
     critic_rating: 8.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  417147:
+    title: |-
+      Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF
+    sort_title: |-
+      Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF
+    original_title: |-
+      Spice and Wolf: MERCHANT MEETS THE WISE WOLF
+    genre.sync: Adventure,Fantasy,Romance,Economics,Travel,Work,Kemonomimi,Rural,Heterosexual,Primarily Adult Cast,Agriculture,Mythology,Female Protagonist,Gods,Religion,Age Gap,Historical,Foreign,Male Protagonist,Politics
+    studio: Passione
+    seasons:
+      1:
+        title: |-
+          Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF
+        label: Score,Watching,2024 Spring
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.9
+    audience_rating: 7.9
+    critic_rating: 8.1
+    label: Planned,Watching
+    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
   414908:
     title: |-
       Ooyukiumi no Kaina
@@ -4904,26 +4924,6 @@ metadata:
     critic_rating: 9.3
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  417147:
-    title: |-
-      Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF
-    sort_title: |-
-      Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF
-    original_title: |-
-      Spice and Wolf: MERCHANT MEETS THE WISE WOLF
-    genre.sync: Adventure,Fantasy,Romance,Economics,Travel,Work,Kemonomimi,Rural,Heterosexual,Primarily Adult Cast,Agriculture,Mythology,Female Protagonist,Gods,Religion,Age Gap,Historical,Foreign,Male Protagonist,Politics
-    studio: Passione
-    seasons:
-      1:
-        title: |-
-          Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF
-        label: Score,Watching,2024 Spring
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.9
-    audience_rating: 7.9
-    critic_rating: 8.1
-    label: Planned,Watching
-    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
   405920:
     title: |-
       Spy×family
