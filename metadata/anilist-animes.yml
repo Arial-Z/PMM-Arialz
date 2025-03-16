@@ -532,7 +532,7 @@ metadata:
       BanG Dream! Ave Mujica
     original_title: |-
       Ave Mujica - The Die is Cast -
-    genre.sync: Drama,Music,Psychological,Band,Female Protagonist,Tragedy,Primarily Female Cast,Primarily Teen Cast,Acting,Dissociative Identities,Full CGI,Chuunibyou,Satire,Metal Music,Estranged Family,Yuri,Ensemble Cast
+    genre.sync: Drama,Music,Psychological,Female Protagonist,Tragedy,Primarily Female Cast,Band,Primarily Teen Cast,Dissociative Identities,Acting,Estranged Family,Chuunibyou,Full CGI,Metal Music,LGBTQ+ Themes,Incest,Disability,Ensemble Cast
     studio: SANZIGEN
     seasons:
       1:
@@ -932,8 +932,8 @@ metadata:
         user_rating: 8.3
     audience_rating: 8.3
     critic_rating: 8.5
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   251982:
     title: |-
       Chihayafuru
@@ -4338,8 +4338,8 @@ metadata:
         user_rating: 7.6
     audience_rating: 7.6
     critic_rating: 7.7
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Planned,Watching
+    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
   262114:
     title: |-
       Sakurasou no Pet na Kanojo
