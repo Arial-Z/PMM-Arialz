@@ -803,19 +803,19 @@ metadata:
       Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita
     original_title: |-
       I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic
-    genre.sync: Adventure,Fantasy,Alchemy,Female Harem,Magic,Reincarnation
+    genre.sync: Adventure,Fantasy,Magic,Alchemy,Female Harem,Reincarnation,Male Protagonist
     studio: Marvy Jack
     seasons:
       1:
         title: |-
           Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita
-        label: Score,Watching,2025 Winter
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.7
-    audience_rating: 5.7
+        label: Score,Completed,2025 Winter
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 5.9
+    audience_rating: 5.9
     critic_rating: 5.9
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   426294:
     title: |-
       Buddy Daddies
@@ -1878,8 +1878,8 @@ metadata:
         user_rating: 5.6
     audience_rating: 5.6
     critic_rating: 5.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   401856:
     title: |-
       Heion Sedai no Idaten-tachi
@@ -3206,7 +3206,7 @@ metadata:
       Magic Maker: Isekai Mahou no Tsukurikata
     original_title: |-
       Magic Maker: How to Make Magic in Another World
-    genre.sync: Action,Adventure,Fantasy,Slice of Life,Magic,Isekai,Reincarnation,Incest
+    genre.sync: Action,Adventure,Fantasy,Slice of Life,Magic,Isekai,Reincarnation
     studio: Studio DEEN
     seasons:
       1:
@@ -4377,7 +4377,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.2
     audience_rating: 6.2
-    critic_rating: 6.4
+    critic_rating: 6.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   79089:
