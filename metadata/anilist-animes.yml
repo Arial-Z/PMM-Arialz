@@ -2224,13 +2224,13 @@ metadata:
       1:
         title: |-
           Izure Saikyou no Renkinjutsushi?
-        label: Score,Watching,2025 Winter
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Winter
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
     critic_rating: 6.6
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   423121:
     title: |-
       Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
