@@ -376,8 +376,8 @@ metadata:
           Arafou Otoko no Isekai Tsuuhan Seikatsu
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
+        user_rating: 6.2
+    audience_rating: 6.2
     critic_rating: 6.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -1875,8 +1875,8 @@ metadata:
           Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.6
-    audience_rating: 5.6
+        user_rating: 5.7
+    audience_rating: 5.7
     critic_rating: 5.7
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
@@ -2218,7 +2218,7 @@ metadata:
       Izure Saikyou no Renkinjutsushi?
     original_title: |-
       Possibly the Greatest Alchemist of All Time
-    genre.sync: Adventure,Fantasy,Isekai,Alchemy,Slavery,Female Harem
+    genre.sync: Adventure,Fantasy,Alchemy,Isekai,Slavery,Female Harem
     studio: Studio Comet
     seasons:
       1:
@@ -4244,8 +4244,8 @@ metadata:
         user_rating: 7.8
     audience_rating: 7.7
     critic_rating: 7.8
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   398387:
     title: |-
       Sabikui Bisco
@@ -4367,7 +4367,7 @@ metadata:
       Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi
     original_title: |-
       Headhunted to Another World: From Salaryman to Big Four!
-    genre.sync: Adventure,Comedy,Fantasy,Isekai,Politics,Economics,Work,Demons,Tsundere
+    genre.sync: Adventure,Comedy,Fantasy,Isekai,Politics,Work,Economics,Demons
     studio: GEEKTOYS
     seasons:
       1:
@@ -4375,8 +4375,8 @@ metadata:
           Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi
         label: Score,Completed,2025 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
+        user_rating: 6.5
+    audience_rating: 6.5
     critic_rating: 6.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
