@@ -336,11 +336,11 @@ metadata:
           Ao no Exorcist: Yosuga-hen
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.7
+        user_rating: 7.8
     audience_rating: 7.3
     critic_rating: 7.4
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   407840:
     title: |-
       Aoashi
@@ -532,7 +532,7 @@ metadata:
       BanG Dream! Ave Mujica
     original_title: |-
       Ave Mujica - The Die is Cast -
-    genre.sync: Drama,Music,Psychological,Female Protagonist,Tragedy,Primarily Female Cast,Band,Primarily Teen Cast,Dissociative Identities,Acting,Estranged Family,Chuunibyou,Full CGI,Metal Music,LGBTQ+ Themes,Incest,Disability,Ensemble Cast
+    genre.sync: Drama,Music,Psychological,Female Protagonist,Tragedy,Primarily Female Cast,Band,Primarily Teen Cast,Acting,Dissociative Identities,Estranged Family,Gambling,Full CGI,Metal Music,LGBTQ+ Themes,Yuri,Disability,Ensemble Cast,Incest
     studio: SANZIGEN
     seasons:
       1:
@@ -540,8 +540,8 @@ metadata:
           BanG Dream! Ave Mujica
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.2
-    audience_rating: 8.2
+        user_rating: 8.1
+    audience_rating: 8.1
     critic_rating: 8.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -1765,7 +1765,7 @@ metadata:
       Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu
     original_title: |-
       I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time
-    genre.sync: Action,Adventure,Comedy,Fantasy,Primarily Adult Cast,Office Lady,Female Protagonist,Dungeon,Work,Heterosexual,Magic
+    genre.sync: Action,Adventure,Comedy,Fantasy,Primarily Adult Cast,Office Lady,Female Protagonist,Dungeon,Work,Heterosexual,Magic,Tsundere,Shounen
     studio: CloverWorks
     seasons:
       1:
