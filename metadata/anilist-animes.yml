@@ -927,13 +927,13 @@ metadata:
       1:
         title: |-
           Chi. Chikyuu no Undou ni Tsuite
-        label: Score,Watching,2024 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.5
     audience_rating: 8.5
     critic_rating: 8.7
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   251982:
     title: |-
       Chihayafuru
@@ -2851,8 +2851,8 @@ metadata:
         user_rating: 5.0
     audience_rating: 5.0
     critic_rating: 5.3
-    label: Airing,Dropped
-    label.remove: Planned,Ended,Completed,Watching,Paused,Planning
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   279831:
     title: |-
       Kiseijuu: Sei no Kakuritsu
@@ -6211,8 +6211,8 @@ metadata:
         user_rating: 6.9
     audience_rating: 6.9
     critic_rating: 7.3
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   262109:
     title: |-
       Zetsuen no Tempest
