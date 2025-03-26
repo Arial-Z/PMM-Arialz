@@ -811,8 +811,8 @@ metadata:
           Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita
         label: Score,Completed,2025 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 5.9
-    audience_rating: 5.9
+        user_rating: 6.0
+    audience_rating: 6.0
     critic_rating: 6.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -1438,7 +1438,7 @@ metadata:
       Enen no Shouboutai
     original_title: |-
       Fire Force
-    genre.sync: Action,Drama,Sci-Fi,Supernatural,Firefighters,Super Power,Urban Fantasy,Shounen,Demons,Conspiracy,Cult,Male Protagonist,Post-Apocalyptic,Religion,Primarily Adult Cast,Tragedy,Dystopian,Ensemble Cast,Nudity
+    genre.sync: Action,Drama,Sci-Fi,Supernatural,Firefighters,Super Power,Urban Fantasy,Shounen,Demons,Conspiracy,Cult,Male Protagonist,Religion,Post-Apocalyptic,Primarily Adult Cast,Tragedy,Dystopian,Ensemble Cast,Nudity
     studio: David Production
     seasons:
       1:
@@ -1877,7 +1877,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 5.7
     audience_rating: 5.7
-    critic_rating: 5.7
+    critic_rating: 5.8
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   401856:
@@ -3206,7 +3206,7 @@ metadata:
       Magic Maker: Isekai Mahou no Tsukurikata
     original_title: |-
       Magic Maker: How to Make Magic in Another World
-    genre.sync: Action,Adventure,Fantasy,Slice of Life,Magic,Isekai,Reincarnation
+    genre.sync: Action,Adventure,Fantasy,Slice of Life,Magic,Isekai,Reincarnation,Male Protagonist
     studio: Studio DEEN
     seasons:
       1:
