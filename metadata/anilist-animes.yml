@@ -248,13 +248,13 @@ metadata:
       1:
         title: |-
           Akuyaku Reijou Tensei Oji-san
-        label: Score,Watching,2025 Winter
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Winter
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.5
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   279827:
     title: |-
       Aldnoah.Zero
@@ -543,8 +543,8 @@ metadata:
         user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.2
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   281270:
     title: |-
       Barakamon
@@ -1318,13 +1318,13 @@ metadata:
       4:
         title: |-
           Dr. STONE: SCIENCE FUTURE
-        label: Score,Watching,2025 Winter
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Winter
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.2
-    label: AA Winner,Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: AA Winner,Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   440820:
     title: |-
       Dragon Ball DAIMA
@@ -1536,9 +1536,9 @@ metadata:
         label.remove: Completed,Watching,Paused,Planning
         user_rating: 6.1
     audience_rating: 6.1
-    critic_rating: 6.2
-    label: Airing,Dropped
-    label.remove: Planned,Ended,Completed,Watching,Paused,Planning
+    critic_rating: 6.1
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   375271:
     title: |-
       Fumetsu no Anata e
@@ -2218,7 +2218,7 @@ metadata:
       Izure Saikyou no Renkinjutsushi?
     original_title: |-
       Possibly the Greatest Alchemist of All Time
-    genre.sync: Adventure,Fantasy,Alchemy,Isekai,Slavery,Female Harem
+    genre.sync: Adventure,Fantasy,Alchemy,Isekai,Slavery,Creature Taming,Female Harem
     studio: Studio Comet
     seasons:
       1:
@@ -2226,8 +2226,8 @@ metadata:
           Izure Saikyou no Renkinjutsushi?
         label: Score,Completed,2025 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
+        user_rating: 6.6
+    audience_rating: 6.6
     critic_rating: 6.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -4367,7 +4367,7 @@ metadata:
       Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi
     original_title: |-
       Headhunted to Another World: From Salaryman to Big Four!
-    genre.sync: Adventure,Comedy,Fantasy,Isekai,Politics,Work,Economics,Demons
+    genre.sync: Adventure,Comedy,Fantasy,Politics,Isekai,Work,Economics,Demons
     studio: GEEKTOYS
     seasons:
       1:
