@@ -2105,24 +2105,6 @@ metadata:
     critic_rating: 9.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  455710:
-    title: |-
-      Ore wa Seikan Kokka no Akutoku Ryoushu! 
-    sort_title: |-
-      Ore wa Seikan Kokka no Akutoku Ryoushu! 
-    original_title: |-
-      I'm the Evil Lord of an Intergalactic Empire!
-    genre.sync: Action,Adventure,Comedy,Ecchi,Fantasy,Mecha,Romance,Sci-Fi
-    studio: Quad
-    seasons:
-      1:
-        title: |-
-          Ore wa Seikan Kokka no Akutoku Ryoushu! 
-        label: Score
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Planned
-    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   385278:
     title: |-
       Ijiranaide, Nagatoro-san
@@ -2266,7 +2248,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.3
     audience_rating: 6.3
-    critic_rating: 6.5
+    critic_rating: 6.4
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   402474:
@@ -2649,6 +2631,26 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  442540:
+    title: |-
+      Kijin Gentoushou
+    sort_title: |-
+      Kijin Gentoushou
+    original_title: |-
+      Sword of the Demon Hunter: Kijin Gentosho
+    genre.sync: Action,Adventure,Fantasy,Time Skip,Demons,Swordplay
+    studio: Yokohama Animation Lab
+    seasons:
+      1:
+        title: |-
+          Kijin Gentoushou
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 7.4
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   432815:
     title: |-
       Kikansha no Mahou wa Tokubetsu desu
@@ -3232,9 +3234,9 @@ metadata:
           Magic Maker: Isekai Mahou no Tsukurikata
         label: Score,Completed,2025 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
-    critic_rating: 6.4
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 6.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   278329:
@@ -3737,6 +3739,25 @@ metadata:
     critic_rating: 7.4
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  451682:
+    title: |-
+      Aru Majo ga Shinu Made
+    sort_title: |-
+      Aru Majo ga Shinu Made
+    original_title: |-
+      Once Upon a Witch's Death
+    genre.sync: Adventure,Drama,Fantasy,Female Protagonist,Primarily Female Cast,Witch,Magic
+    studio: EMT Squared
+    seasons:
+      1:
+        title: |-
+          Aru Majo ga Shinu Made
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 6.8
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   81797:
     title: |-
       One Piece
@@ -3874,6 +3895,24 @@ metadata:
     critic_rating: 8.6
     label: Ended,Watching
     label.remove: Planned,Airing,Dropped,Paused,Planning
+  455710:
+    title: |-
+      Ore wa Seikan Kokka no Akutoku Ryoushu! 
+    sort_title: |-
+      Ore wa Seikan Kokka no Akutoku Ryoushu! 
+    original_title: |-
+      I'm the Evil Lord of an Intergalactic Empire!
+    genre.sync: Action,Adventure,Comedy,Ecchi,Fantasy,Mecha,Romance,Sci-Fi
+    studio: Quad
+    seasons:
+      1:
+        title: |-
+          Ore wa Seikan Kokka no Akutoku Ryoushu! 
+        label: Score
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Planned
+    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   412826:
     title: |-
       Otomege Sekai wa Mob ni Kibishii Sekai desu
@@ -5096,25 +5135,6 @@ metadata:
     critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  442540:
-    title: |-
-      Kijin Gentoushou
-    sort_title: |-
-      Kijin Gentoushou
-    original_title: |-
-      Sword of the Demon Hunter: Kijin Gentosho
-    genre.sync: Action,Adventure,Fantasy,Time Skip,Demons,Swordplay
-    studio: Yokohama Animation Lab
-    seasons:
-      1:
-        title: |-
-          Kijin Gentoushou
-        label: Score,2025 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 7.4
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   305104:
     title: |-
       Tanaka-kun wa Itsumo Kedaruge
