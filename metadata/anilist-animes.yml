@@ -467,6 +467,26 @@ metadata:
     critic_rating: 7.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  451682:
+    title: |-
+      Aru Majo ga Shinu Made
+    sort_title: |-
+      Aru Majo ga Shinu Made
+    original_title: |-
+      Once Upon a Witch's Death
+    genre.sync: Adventure,Drama,Fantasy,Female Protagonist,Primarily Female Cast,Witch,Magic
+    studio: EMT Squared
+    seasons:
+      1:
+        title: |-
+          Aru Majo ga Shinu Made
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.4
+    audience_rating: 6.4
+    critic_rating: 6.8
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   278152:
     title: |-
       Baby Steps
@@ -617,6 +637,24 @@ metadata:
     critic_rating: 7.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  455684:
+    title: |-
+      Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
+    sort_title: |-
+      Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
+    original_title: |-
+      The Beginning After the End
+    genre.sync: Action,Adventure,Fantasy,Magic,War,Reincarnation,Isekai,Male Protagonist,Travel
+    studio: studio A-CAT
+    seasons:
+      1:
+        title: |-
+          Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   414845:
     title: |-
       Benriya Saitou-san, Isekai ni Iku
@@ -1860,6 +1898,25 @@ metadata:
     critic_rating: 8.6
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  452826:
+    title: |-
+      Haite Kudasai, Takamine-san
+    sort_title: |-
+      Haite Kudasai, Takamine-san
+    original_title: |-
+      Please Put Them On, Takamine-san
+    genre.sync: Comedy,Ecchi,Romance,Slice of Life,Heterosexual,Femdom,Nudity,Large Breasts,Female Protagonist,Time Manipulation,Slavery,Tsundere,Bullying,School,Male Protagonist,Shounen
+    studio: LIDENFILMS
+    seasons:
+      1:
+        title: |-
+          Haite Kudasai, Takamine-san
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 6.6
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   450933:
     title: |-
       Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite
@@ -2301,6 +2358,8 @@ metadata:
     genre.sync: Action,Drama,Supernatural,Urban Fantasy,Shounen,Super Power,Youkai,Curses,Male Protagonist,Primarily Teen Cast,Exorcism,Dissociative Identities,Urban,Demons,Body Horror,Orphan,Magic,Martial Arts,Ensemble Cast,Primarily Male Cast,Gore
     studio: MAPPA
     seasons:
+      0:
+        label.remove: Score
       1:
         title: |-
           Jujutsu Kaisen
@@ -2638,7 +2697,7 @@ metadata:
       Kijin Gentoushou
     original_title: |-
       Sword of the Demon Hunter: Kijin Gentosho
-    genre.sync: Action,Adventure,Fantasy,Time Skip,Demons,Swordplay
+    genre.sync: Action,Adventure,Fantasy,Demons,Time Skip,Male Protagonist,Swordplay,Shrine Maiden
     studio: Yokohama Animation Lab
     seasons:
       1:
@@ -3739,25 +3798,6 @@ metadata:
     critic_rating: 7.4
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  451682:
-    title: |-
-      Aru Majo ga Shinu Made
-    sort_title: |-
-      Aru Majo ga Shinu Made
-    original_title: |-
-      Once Upon a Witch's Death
-    genre.sync: Adventure,Drama,Fantasy,Female Protagonist,Primarily Female Cast,Witch,Magic
-    studio: EMT Squared
-    seasons:
-      1:
-        title: |-
-          Aru Majo ga Shinu Made
-        label: Score,2025 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 6.8
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   81797:
     title: |-
       One Piece
@@ -5565,6 +5605,24 @@ metadata:
     critic_rating: 7.7
     label: AA Winner,Ended,Watching
     label.remove: Planned,Airing,Dropped,Paused,Planning
+  455711:
+    title: |-
+      Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru
+    sort_title: |-
+      Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru
+    original_title: |-
+      The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom
+    genre.sync: Fantasy,Romance,Shoujo
+    studio: TROYCA
+    seasons:
+      1:
+        title: |-
+          Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   83277:
     title: |-
       Toradora!
@@ -5910,6 +5968,24 @@ metadata:
     critic_rating: 8.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  436400:
+    title: |-
+      Your Forma
+    sort_title: |-
+      Your Forma
+    original_title: |-
+      Your Forma
+    genre.sync: Action,Drama,Mystery,Sci-Fi,Female Protagonist,Detective
+    studio: Geno Studio
+    seasons:
+      1:
+        title: |-
+          Your Forma
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   433088:
     title: |-
       Wind Breaker
