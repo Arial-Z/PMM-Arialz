@@ -368,7 +368,7 @@ metadata:
       Arafou Otoko no Isekai Tsuuhan Seikatsu
     original_title: |-
       The Daily Life of a Middle-Aged Online Shopper in Another World
-    genre.sync: Ecchi,Fantasy,Isekai,Nekomimi,Male Protagonist,Economics,Female Harem
+    genre.sync: Ecchi,Fantasy,Isekai,Nekomimi,Male Protagonist,Economics
     studio: East Fish Studio
     seasons:
       1:
@@ -376,11 +376,11 @@ metadata:
           Arafou Otoko no Isekai Tsuuhan Seikatsu
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
+        user_rating: 6.1
+    audience_rating: 6.1
     critic_rating: 6.3
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   357019:
     title: |-
       Arifureta Shokugyou de Sekai Saikyou
@@ -474,7 +474,7 @@ metadata:
       Aru Majo ga Shinu Made
     original_title: |-
       Once Upon a Witch's Death
-    genre.sync: Adventure,Drama,Fantasy,Female Protagonist,Primarily Female Cast,Witch,Magic
+    genre.sync: Adventure,Drama,Fantasy,Female Protagonist,Primarily Female Cast,Witch,Magic,Curses
     studio: EMT Squared
     seasons:
       1:
@@ -637,24 +637,6 @@ metadata:
     critic_rating: 7.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  455684:
-    title: |-
-      Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
-    sort_title: |-
-      Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
-    original_title: |-
-      The Beginning After the End
-    genre.sync: Action,Adventure,Fantasy,Magic,War,Reincarnation,Isekai,Male Protagonist,Travel
-    studio: studio A-CAT
-    seasons:
-      1:
-        title: |-
-          Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
-        label: Score,2025 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   414845:
     title: |-
       Benriya Saitou-san, Isekai ni Iku
@@ -854,6 +836,24 @@ metadata:
     critic_rating: 6.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  447246:
+    title: |-
+      Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru
+    sort_title: |-
+      Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru
+    original_title: |-
+      The Brilliant Healer's New Life in the Shadows
+    genre.sync: Action,Comedy,Fantasy
+    studio: Makaria
+    seasons:
+      1:
+        title: |-
+          Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   426294:
     title: |-
       Buddy Daddies
@@ -1564,7 +1564,7 @@ metadata:
       Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru
     original_title: |-
       Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest
-    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance,Male Protagonist,Mixed Gender Harem,LGBTQ+ Themes,Female Harem
+    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance,Male Protagonist,Mixed Gender Harem,Female Harem
     studio: Okuruto Noboru
     seasons:
       1:
@@ -1572,9 +1572,9 @@ metadata:
           Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru
         label: Score,Dropped,2025 Winter
         label.remove: Completed,Watching,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
-    critic_rating: 6.1
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.3
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   375271:
@@ -1898,25 +1898,6 @@ metadata:
     critic_rating: 8.6
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  452826:
-    title: |-
-      Haite Kudasai, Takamine-san
-    sort_title: |-
-      Haite Kudasai, Takamine-san
-    original_title: |-
-      Please Put Them On, Takamine-san
-    genre.sync: Comedy,Ecchi,Romance,Slice of Life,Heterosexual,Femdom,Nudity,Large Breasts,Female Protagonist,Time Manipulation,Slavery,Tsundere,Bullying,School,Male Protagonist,Shounen
-    studio: LIDENFILMS
-    seasons:
-      1:
-        title: |-
-          Haite Kudasai, Takamine-san
-        label: Score,2025 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 6.6
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   450933:
     title: |-
       Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite
@@ -2275,7 +2256,7 @@ metadata:
       Izure Saikyou no Renkinjutsushi?
     original_title: |-
       Possibly the Greatest Alchemist of All Time
-    genre.sync: Adventure,Fantasy,Alchemy,Isekai,Slavery,Creature Taming,Female Harem
+    genre.sync: Adventure,Fantasy,Isekai,Slavery,Alchemy,Female Harem,Creature Taming
     studio: Studio Comet
     seasons:
       1:
@@ -2534,6 +2515,24 @@ metadata:
     critic_rating: 7.6
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+  455711:
+    title: |-
+      Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru
+    sort_title: |-
+      Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru
+    original_title: |-
+      The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom
+    genre.sync: Fantasy,Romance,Shoujo
+    studio: TROYCA
+    seasons:
+      1:
+        title: |-
+          Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   441260:
     title: |-
       Karasu wa Aruji wo Erabanai
@@ -4113,6 +4112,26 @@ metadata:
     critic_rating: 5.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  452826:
+    title: |-
+      Haite Kudasai, Takamine-san
+    sort_title: |-
+      Haite Kudasai, Takamine-san
+    original_title: |-
+      Please Put Them On, Takamine-san
+    genre.sync: Comedy,Ecchi,Romance,Slice of Life,Heterosexual,Femdom,Nudity,Large Breasts,Female Protagonist,Time Manipulation,Slavery,Tsundere,Bullying,School,Male Protagonist,Shounen
+    studio: LIDENFILMS
+    seasons:
+      1:
+        title: |-
+          Haite Kudasai, Takamine-san
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.6
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   262090:
     title: |-
       Psycho-pass
@@ -4297,6 +4316,25 @@ metadata:
     critic_rating: 8.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  452456:
+    title: |-
+      Rock wa Lady no Tashinami Deshite
+    sort_title: |-
+      Rock wa Lady no Tashinami Deshite
+    original_title: |-
+      Rock is a Lady’s Modesty
+    genre.sync: Drama,Music,Rock Music,Female Protagonist,Ojou-sama,Band,LGBTQ+ Themes,Yuri,School
+    studio: Bandai Namco Pictures
+    seasons:
+      1:
+        title: |-
+          Rock wa Lady no Tashinami Deshite
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 7.5
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   423787:
     title: |-
       Romantic Killer
@@ -4417,6 +4455,26 @@ metadata:
     critic_rating: 8.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  455684:
+    title: |-
+      Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
+    sort_title: |-
+      Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
+    original_title: |-
+      The Beginning After the End
+    genre.sync: Action,Adventure,Fantasy,Magic,War,Reincarnation,Isekai,Male Protagonist,Travel
+    studio: studio A-CAT
+    seasons:
+      1:
+        title: |-
+          Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 6.6
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   423732:
     title: |-
       Sakamoto Days
@@ -4800,7 +4858,7 @@ metadata:
       Shingeki no Kyojin
     original_title: |-
       Attack on Titan
-    genre.sync: Action,Drama,Fantasy,Mystery,Revenge,Kaiju,Tragedy,Military,Male Protagonist,Post-Apocalyptic,Primarily Teen Cast,Super Power,Henshin,Steampunk,Swordplay,Memory Manipulation,Gore,Dystopian,Orphan,Ensemble Cast,Kuudere,Espionage,Cannibalism
+    genre.sync: Action,Drama,Fantasy,Mystery,Revenge,Kaiju,Tragedy,Male Protagonist,Military,Post-Apocalyptic,Primarily Teen Cast,Super Power,Henshin,Steampunk,Swordplay,Memory Manipulation,Gore,Dystopian,Orphan,Ensemble Cast,Kuudere,Espionage,Cannibalism
     studio: WIT STUDIO
     seasons:
       0:
@@ -5605,24 +5663,6 @@ metadata:
     critic_rating: 7.7
     label: AA Winner,Ended,Watching
     label.remove: Planned,Airing,Dropped,Paused,Planning
-  455711:
-    title: |-
-      Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru
-    sort_title: |-
-      Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru
-    original_title: |-
-      The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom
-    genre.sync: Fantasy,Romance,Shoujo
-    studio: TROYCA
-    seasons:
-      1:
-        title: |-
-          Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru
-        label: Score,2025 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   83277:
     title: |-
       Toradora!
@@ -5968,24 +6008,6 @@ metadata:
     critic_rating: 8.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  436400:
-    title: |-
-      Your Forma
-    sort_title: |-
-      Your Forma
-    original_title: |-
-      Your Forma
-    genre.sync: Action,Drama,Mystery,Sci-Fi,Female Protagonist,Detective
-    studio: Geno Studio
-    seasons:
-      1:
-        title: |-
-          Your Forma
-        label: Score,2025 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   433088:
     title: |-
       Wind Breaker
@@ -6002,10 +6024,16 @@ metadata:
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.8
+      2:
+        title: |-
+          WIND BREAKER Season 2
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
     audience_rating: 7.8
-    critic_rating: 7.7
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    critic_rating: 7.4
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   145211:
     title: |-
       Working!!
@@ -6250,6 +6278,26 @@ metadata:
     critic_rating: 8.0
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  436400:
+    title: |-
+      Your Forma
+    sort_title: |-
+      Your Forma
+    original_title: |-
+      Your Forma
+    genre.sync: Action,Drama,Mystery,Sci-Fi,Female Protagonist,Detective
+    studio: Geno Studio
+    seasons:
+      1:
+        title: |-
+          Your Forma
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 6.7
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   424019:
     title: |-
       Yozakura-san Chi no Daisakusen
