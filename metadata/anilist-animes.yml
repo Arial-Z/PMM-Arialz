@@ -242,7 +242,7 @@ metadata:
       Akuyaku Reijou Tensei Oji-san
     original_title: |-
       From Bureaucrat to Villainess: Dad's Been Reincarnated!
-    genre.sync: Comedy,Fantasy,Villainess,Seinen,Video Games,School,Otaku Culture,Gender Bending,Meta,Female Protagonist,Isekai,Matchmaking,Elderly Protagonist,Parody,Mixed Gender Harem,Age Regression,Primarily Teen Cast,Primarily Male Cast,Reincarnation,Magic,Animals,Male Protagonist,Surreal Comedy
+    genre.sync: Comedy,Fantasy,Villainess,Seinen,Video Games,School,Otaku Culture,Gender Bending,Meta,Female Protagonist,Isekai,Matchmaking,Elderly Protagonist,Parody,Mixed Gender Harem,Age Regression,Reincarnation,Primarily Teen Cast,Primarily Male Cast,Magic,Animals,Male Protagonist,Surreal Comedy,Dragons
     studio: Ajiado
     seasons:
       1:
@@ -252,7 +252,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.3
     audience_rating: 7.3
-    critic_rating: 7.5
+    critic_rating: 7.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   279827:
@@ -295,6 +295,24 @@ metadata:
     critic_rating: 7.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  456902:
+    title: |-
+      Anne Shirley
+    sort_title: |-
+      Anne Shirley
+    original_title: |-
+      Anne Shirley
+    genre.sync: Drama,Slice of Life,Female Protagonist,Classic Literature,Coming of Age,Rural,Historical
+    studio: The Answer Studio
+    seasons:
+      1:
+        title: |-
+          Anne Shirley
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   248035:
     title: |-
       Ao no Exorcist
@@ -378,7 +396,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.1
     audience_rating: 6.1
-    critic_rating: 6.3
+    critic_rating: 6.4
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   357019:
@@ -552,7 +570,7 @@ metadata:
       BanG Dream! Ave Mujica
     original_title: |-
       Ave Mujica - The Die is Cast -
-    genre.sync: Drama,Music,Psychological,Band,Female Protagonist,Primarily Female Cast,Tragedy,Primarily Teen Cast,Dissociative Identities,Acting,Estranged Family,Full CGI,Metal Music,LGBTQ+ Themes,Disability,Yuri,Incest,Ensemble Cast
+    genre.sync: Drama,Music,Psychological,Female Protagonist,Band,Primarily Female Cast,Primarily Teen Cast,Tragedy,Estranged Family,Dissociative Identities,Chuunibyou,Idol,Full CGI,Acting,Ensemble Cast,Metal Music,Disability,LGBTQ+ Themes,Yuri,Rock Music,Musical Theater
     studio: SANZIGEN
     seasons:
       1:
@@ -562,7 +580,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.1
     audience_rating: 8.1
-    critic_rating: 8.2
+    critic_rating: 8.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   281270:
@@ -836,24 +854,6 @@ metadata:
     critic_rating: 6.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  447246:
-    title: |-
-      Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru
-    sort_title: |-
-      Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru
-    original_title: |-
-      The Brilliant Healer's New Life in the Shadows
-    genre.sync: Action,Comedy,Fantasy
-    studio: Makaria
-    seasons:
-      1:
-        title: |-
-          Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru
-        label: Score,2025 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   426294:
     title: |-
       Buddy Daddies
@@ -910,6 +910,26 @@ metadata:
     critic_rating: 8.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  423264:
+    title: |-
+      Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)
+    sort_title: |-
+      Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)
+    original_title: |-
+      Can a Boy-Girl Friendship Survive?
+    genre.sync: Comedy,Romance,Heterosexual,School,Love Triangle
+    studio: J.C.STAFF
+    seasons:
+      1:
+        title: |-
+          Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 7.5
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   397934:
     title: |-
       Chainsaw Man
@@ -1127,7 +1147,7 @@ metadata:
       D.Gray-man
     original_title: |-
       D.Gray-man
-    genre.sync: Action,Adventure,Drama,Fantasy,Shounen,Demons,Super Power,Male Protagonist,Foreign,LGBTQ+ Themes
+    genre.sync: Action,Adventure,Drama,Fantasy,Shounen,Demons,Super Power,Male Protagonist,Foreign,LGBTQ+ Themes,Exorcism
     studio: TMS Entertainment
     audience_rating: 7.6
     critic_rating: 8.0
@@ -1491,10 +1511,16 @@ metadata:
         label: Score,Completed,2020 Summer
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.8
-    audience_rating: 7.7
-    critic_rating: 7.8
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+      3:
+        title: |-
+          Enen no Shouboutai: San no Shou
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 8.0
+    audience_rating: 7.8
+    critic_rating: 7.9
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   410031:
     title: |-
       Fairy Tail: 100 Years Quest
@@ -1813,7 +1839,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.7
     audience_rating: 6.7
-    critic_rating: 6.8
+    critic_rating: 6.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   85249:
@@ -1898,6 +1924,26 @@ metadata:
     critic_rating: 8.6
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  452826:
+    title: |-
+      Haite Kudasai, Takamine-san
+    sort_title: |-
+      Haite Kudasai, Takamine-san
+    original_title: |-
+      Please Put Them On, Takamine-san
+    genre.sync: Comedy,Ecchi,Romance,Slice of Life,Femdom,Nudity,Heterosexual,Large Breasts,Time Manipulation,Female Protagonist,Slavery,Tsundere,Bullying,Male Protagonist,School,Shounen
+    studio: LIDENFILMS
+    seasons:
+      1:
+        title: |-
+          Haite Kudasai, Takamine-san
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.6
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   450933:
     title: |-
       Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite
@@ -2249,6 +2295,26 @@ metadata:
     critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  447246:
+    title: |-
+      Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru
+    sort_title: |-
+      Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru
+    original_title: |-
+      The Brilliant Healer's New Life in the Shadows
+    genre.sync: Action,Comedy,Fantasy
+    studio: Makaria
+    seasons:
+      1:
+        title: |-
+          Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru
+        label: Score,Watching,2025 Spring
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.0
+    audience_rating: 6.0
+    critic_rating: 6.5
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   449884:
     title: |-
       Izure Saikyou no Renkinjutsushi?
@@ -2553,6 +2619,24 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  452710:
+    title: |-
+      Katainaka no Ossan, Kensei ni Naru
+    sort_title: |-
+      Katainaka no Ossan, Kensei ni Naru
+    original_title: |-
+      From Old Country Bumpkin to Master Swordsman
+    genre.sync: Action,Adventure,Comedy,Fantasy,Seinen,Medieval,Female Harem
+    studio: Hayabusa Film
+    seasons:
+      1:
+        title: |-
+          Katainaka no Ossan, Kensei ni Naru
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   132941:
     title: |-
       Katanagatari
@@ -2702,13 +2786,13 @@ metadata:
       1:
         title: |-
           Kijin Gentoushou
-        label: Score,2025 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Spring
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 7.4
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   432815:
     title: |-
       Kikansha no Mahou wa Tokubetsu desu
@@ -3095,6 +3179,25 @@ metadata:
     critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  455388:
+    title: |-
+      Kowloon Generic Romance
+    sort_title: |-
+      Kowloon Generic Romance
+    original_title: |-
+      Kowloon Generic Romance
+    genre.sync: Drama,Mystery,Romance,Sci-Fi,Slice of Life,Female Protagonist,Heterosexual,Urban,Male Protagonist,Dystopian,Amnesia,Seinen,Primarily Adult Cast
+    studio: Arvo Animation
+    seasons:
+      1:
+        title: |-
+          Kowloon Generic Romance
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 7.6
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   83996:
     title: |-
       Kuroshitsuji
@@ -3131,10 +3234,16 @@ metadata:
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.8
+      5:
+        title: |-
+          Kuroshitsuji: Midori no Majo-hen
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
     audience_rating: 7.3
     critic_rating: 7.7
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   431162:
     title: |-
       Kusuriya no Hitorigoto
@@ -3161,6 +3270,24 @@ metadata:
     critic_rating: 8.9
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
+  437408:
+    title: |-
+      Lazarus
+    sort_title: |-
+      Lazarus
+    original_title: |-
+      Lazarus
+    genre.sync: Action,Sci-Fi,Cyberpunk,Parkour,Urban,Medicine,Male Protagonist
+    studio: MAPPA
+    seasons:
+      1:
+        title: |-
+          Lazarus
+        label: Score
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Planned
+    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   318161:
     title: |-
       Little Witch Academia (TV)
@@ -3669,6 +3796,24 @@ metadata:
     critic_rating: 7.1
     label: Ended,Planning
     label.remove: Planned,Airing,Watching,Dropped,Paused,
+  457099:
+    title: |-
+      Nazotoki wa Dinner no Ato de
+    sort_title: |-
+      Nazotoki wa Dinner no Ato de
+    original_title: |-
+      The Dinner Table Detective
+    genre.sync: Comedy,Drama,Mystery,Detective,Female Protagonist,Butler
+    studio: MADHOUSE
+    seasons:
+      1:
+        title: |-
+          Nazotoki wa Dinner no Ato de
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   309206:
     title: |-
       Nejimaki Seirei Senki: Tenkyou no Alderamin
@@ -3736,7 +3881,7 @@ metadata:
       Nihon e Youkoso Elf-san.
     original_title: |-
       Welcome to Japan, Ms. Elf!
-    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Iyashikei,Elf,Heterosexual,Isekai,Age Gap,Magic,Urban Fantasy,Male Protagonist,Female Protagonist
+    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Iyashikei,Elf,Heterosexual,Isekai,Male Protagonist,Age Gap,Food,Magic,Urban Fantasy,Female Protagonist
     studio: Zero-G
     seasons:
       1:
@@ -3927,13 +4072,13 @@ metadata:
       2:
         title: |-
           Ore dake Level Up na Ken: Season 2 - Arise from the Shadow
-        label: Score,Watching,2025 Winter
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Winter
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.7
     audience_rating: 8.4
     critic_rating: 8.6
-    label: Ended,Watching
-    label.remove: Planned,Airing,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   455710:
     title: |-
       Ore wa Seikan Kokka no Akutoku Ryoushu! 
@@ -3950,8 +4095,8 @@ metadata:
         label: Score
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 0
-    label: Planned
-    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   412826:
     title: |-
       Otomege Sekai wa Mob ni Kibishii Sekai desu
@@ -4112,26 +4257,6 @@ metadata:
     critic_rating: 5.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  452826:
-    title: |-
-      Haite Kudasai, Takamine-san
-    sort_title: |-
-      Haite Kudasai, Takamine-san
-    original_title: |-
-      Please Put Them On, Takamine-san
-    genre.sync: Comedy,Ecchi,Romance,Slice of Life,Heterosexual,Femdom,Nudity,Large Breasts,Female Protagonist,Time Manipulation,Slavery,Tsundere,Bullying,School,Male Protagonist,Shounen
-    studio: LIDENFILMS
-    seasons:
-      1:
-        title: |-
-          Haite Kudasai, Takamine-san
-        label: Score,2025 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
-    critic_rating: 6.6
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   262090:
     title: |-
       Psycho-pass
@@ -4331,7 +4456,8 @@ metadata:
           Rock wa Lady no Tashinami Deshite
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 7.2
+    audience_rating: 7.2
     critic_rating: 7.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -4462,19 +4588,19 @@ metadata:
       Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
     original_title: |-
       The Beginning After the End
-    genre.sync: Action,Adventure,Fantasy,Magic,War,Reincarnation,Isekai,Male Protagonist,Travel
+    genre.sync: Action,Adventure,Fantasy,Magic,War,Reincarnation,Male Protagonist,Isekai
     studio: studio A-CAT
     seasons:
       1:
         title: |-
           Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
-        label: Score,2025 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Spring
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 6.6
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   423732:
     title: |-
       Sakamoto Days
@@ -4776,13 +4902,13 @@ metadata:
       2:
         title: |-
           Shangri-La Frontier 2nd Season
-        label: Score,Watching,2024 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.2
     audience_rating: 8.1
     critic_rating: 8.2
-    label: Planned,Watching
-    label.remove: Airing,Ended,Dropped,Paused,Planning
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   412843:
     title: |-
       Shicao Lao Long Bei Guanyi E Long Zhi Ming
@@ -6029,7 +6155,7 @@ metadata:
           WIND BREAKER Season 2
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 7.7
     audience_rating: 7.8
     critic_rating: 7.4
     label: Airing,Completed
