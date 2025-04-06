@@ -310,7 +310,9 @@ metadata:
           Anne Shirley
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   248035:
@@ -563,6 +565,26 @@ metadata:
     critic_rating: 8.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  456678:
+    title: |-
+      Ballpark de Tsukamaete!
+    sort_title: |-
+      Ballpark de Tsukamaete!
+    original_title: |-
+      Catch Me at the Ballpark!
+    genre.sync: Comedy,Romance,Slice of Life,Sports,Seinen,Baseball,Gyaru,Iyashikei
+    studio: EMT Squared
+    seasons:
+      1:
+        title: |-
+          Ballpark de Tsukamaete!
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.9
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   439765:
     title: |-
       BanG Dream! Ave Mujica
@@ -910,26 +932,6 @@ metadata:
     critic_rating: 8.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  456678:
-    title: |-
-      Ballpark de Tsukamaete!
-    sort_title: |-
-      Ballpark de Tsukamaete!
-    original_title: |-
-      Catch Me at the Ballpark!
-    genre.sync: Comedy,Romance,Slice of Life,Sports,Seinen,Baseball,Gyaru,Iyashikei
-    studio: EMT Squared
-    seasons:
-      1:
-        title: |-
-          Ballpark de Tsukamaete!
-        label: Score,2025 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
-    critic_rating: 6.9
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   397934:
     title: |-
       Chainsaw Man
@@ -1774,6 +1776,24 @@ metadata:
     critic_rating: 8.1
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  454822:
+    title: |-
+      Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru
+    sort_title: |-
+      Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru
+    original_title: |-
+      The Gorilla God’s Go-To Girl
+    genre.sync: Comedy,Fantasy,Romance,Male Harem,Female Protagonist
+    studio: Kachigarasu
+    seasons:
+      1:
+        title: |-
+          Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   343913:
     title: |-
       Grand Blue
@@ -2654,7 +2674,9 @@ metadata:
           Katainaka no Ossan, Kensei ni Naru
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 7.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   132941:
@@ -3214,7 +3236,8 @@ metadata:
           Kowloon Generic Romance
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 7.3
+    audience_rating: 7.3
     critic_rating: 7.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -3259,7 +3282,7 @@ metadata:
           Kuroshitsuji: Midori no Majo-hen
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 7.1
     audience_rating: 7.3
     critic_rating: 7.7
     label: Airing,Completed
@@ -3831,7 +3854,9 @@ metadata:
           Nazotoki wa Dinner no Ato de
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.0
+    audience_rating: 6.0
+    critic_rating: 6.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   309206:
@@ -5998,6 +6023,44 @@ metadata:
     critic_rating: 7.7
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+  453673:
+    title: |-
+      Uma Musume: Cinderella Gray
+    sort_title: |-
+      Uma Musume: Cinderella Gray
+    original_title: |-
+      Umamusume: Cinderella Gray
+    genre.sync: Drama,Sports,Primarily Female Cast,Athletics,Female Protagonist,Kemonomimi,Historical
+    studio: CygamesPictures
+    seasons:
+      1:
+        title: |-
+          Uma Musume: Cinderella Gray
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.7
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+  455638:
+    title: |-
+      Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi
+    sort_title: |-
+      Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi
+    original_title: |-
+      The Unaware Atelier Meister
+    genre.sync: Action,Adventure,Fantasy,Male Protagonist,Slapstick
+    studio: EMT Squared
+    seasons:
+      1:
+        title: |-
+          Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   423030:
     title: |-
       Undead Unluck
@@ -6180,6 +6243,26 @@ metadata:
     critic_rating: 7.4
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+  453127:
+    title: |-
+      Witch Watch
+    sort_title: |-
+      Witch Watch
+    original_title: |-
+      Witch Watch
+    genre.sync: Comedy,Drama,Fantasy,Romance,Slice of Life,Magic,Witch,Male Protagonist,Primarily Teen Cast,Found Family,Shounen,Female Protagonist,Heterosexual,Urban Fantasy,Parody
+    studio: Bibury Animation Studios
+    seasons:
+      1:
+        title: |-
+          Witch Watch
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 7.5
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   145211:
     title: |-
       Working!!
