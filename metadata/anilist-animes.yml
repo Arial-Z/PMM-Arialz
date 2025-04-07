@@ -1543,6 +1543,44 @@ metadata:
     critic_rating: 7.9
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
+  381536:
+    title: |-
+      Bai Yao Pu
+    sort_title: |-
+      Bai Yao Pu
+    original_title: |-
+      Fairies Albums
+    genre.sync: Fantasy,Mystery,Supernatural,Episodic
+    studio: Haoliners Animation
+    seasons:
+      1:
+        title: |-
+          Bai Yao Pu
+        label: Score,2020 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.9
+      2:
+        title: |-
+          Bai Yao Pu 2
+        label: Score,2021 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.0
+      3:
+        title: |-
+          Bai Yao Pu: Jingshi Pian
+        label: Score,2022 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.1
+      4:
+        title: |-
+          Bai Yao Pu: Si Fu Pian
+        label: Score,2024 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.4
+    audience_rating: 6.8
+    critic_rating: 7.5
+    label: Planned
+    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   410031:
     title: |-
       Fairy Tail: 100 Years Quest
@@ -1783,7 +1821,7 @@ metadata:
       Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru
     original_title: |-
       The Gorilla God’s Go-To Girl
-    genre.sync: Comedy,Fantasy,Romance,Male Harem,Female Protagonist
+    genre.sync: Comedy,Fantasy,Romance,Male Harem,Female Protagonist,Animals,Gods,School,Shoujo
     studio: Kachigarasu
     seasons:
       1:
@@ -2638,7 +2676,9 @@ metadata:
           Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi
         label: Score,Watching,2025 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   455711:
@@ -3799,6 +3839,24 @@ metadata:
     critic_rating: 8.4
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  458058:
+    title: |-
+      Vigilante: Boku no Hero Academia ILLEGALS
+    sort_title: |-
+      Vigilante: Boku no Hero Academia ILLEGALS
+    original_title: |-
+      My Hero Academia: Vigilantes
+    genre.sync: Action,Adventure,Drama,Fantasy,Super Power,Crime,Superhero,Fugitive,Urban,Male Protagonist,Shounen
+    studio: bones film
+    seasons:
+      1:
+        title: |-
+          Vigilante: Boku no Hero Academia ILLEGALS
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   446389:
     title: |-
       Nageki no Bourei wa Intai Shitai
@@ -5024,6 +5082,26 @@ metadata:
     critic_rating: 8.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  449857:
+    title: |-
+      Shin Samurai-den YAIBA
+    sort_title: |-
+      Shin Samurai-den YAIBA
+    original_title: |-
+      YAIBA: Samurai Legend
+    genre.sync: Adventure,Comedy,Fantasy,Shounen,Samurai,Swordplay,Male Protagonist
+    studio: WIT STUDIO
+    seasons:
+      1:
+        title: |-
+          Shin Samurai-den YAIBA
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.6
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   369048:
     title: |-
       Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru
@@ -5252,6 +5330,32 @@ metadata:
     critic_rating: 8.1
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  389377:
+    title: |-
+      Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita
+    sort_title: |-
+      Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita
+    original_title: |-
+      I've Been Killing Slimes for 300 Years and Maxed Out My Level
+    genre.sync: Adventure,Comedy,Fantasy,Slice of Life,Primarily Female Cast,Female Protagonist,Found Family,Family Life,Witch,Cute Girls Doing Cute Things,Iyashikei,Rural,Reincarnation,Isekai,Parenthood,Dragons,Episodic,Elf,Monster Girl,Demons,Magic,Time Skip,Slapstick
+    studio: REVOROOT
+    seasons:
+      1:
+        title: |-
+          Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita
+        label: Score,Completed,2021 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.9
+      2:
+        title: |-
+          Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.1
+    audience_rating: 7.0
+    critic_rating: 7.1
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   424536:
     title: |-
       Sousou no Frieren
@@ -5366,6 +5470,24 @@ metadata:
     critic_rating: 7.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  451711:
+    title: |-
+      Summer Pockets
+    sort_title: |-
+      Summer Pockets
+    original_title: |-
+      Summer Pockets
+    genre.sync: Drama,Romance,Slice of Life,Supernatural,Tragedy,Rural,Time Manipulation,Urban Fantasy,Alternate Universe,Family Life,Memory Manipulation,Male Protagonist,Time Loop,Age Regression,Coming of Age
+    studio: feel.
+    seasons:
+      1:
+        title: |-
+          Summer Pockets
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   407306:
     title: |-
       Summer Time Render
@@ -6391,26 +6513,6 @@ metadata:
     critic_rating: 7.4
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  449857:
-    title: |-
-      Shin Samurai-den YAIBA
-    sort_title: |-
-      Shin Samurai-den YAIBA
-    original_title: |-
-      YAIBA: Samurai Legend
-    genre.sync: Adventure,Comedy,Fantasy,Shounen,Samurai,Swordplay,Male Protagonist
-    studio: WIT STUDIO
-    seasons:
-      1:
-        title: |-
-          Shin Samurai-den YAIBA
-        label: Score,2025 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 7.6
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   348002:
     title: |-
       Yakusoku no Neverland
@@ -6627,6 +6729,24 @@ metadata:
     critic_rating: 8.2
     label: Ended,Paused
     label.remove: Planned,Airing,Completed,Watching,Dropped,Planning
+  435343:
+    title: |-
+      Zatsu Tabi: That's Journey
+    sort_title: |-
+      Zatsu Tabi: That's Journey
+    original_title: |-
+      ZatsuTabi -That's Journey-
+    genre.sync: Adventure,Comedy,Drama,Slice of Life,Seinen,Travel,Iyashikei,Female Protagonist,Drawing,Primarily Female Cast
+    studio: Makaria
+    seasons:
+      1:
+        title: |-
+          Zatsu Tabi: That's Journey
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   447955:
     title: |-
       Zenshuu.
