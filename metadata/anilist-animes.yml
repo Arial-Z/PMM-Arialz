@@ -381,6 +381,24 @@ metadata:
     critic_rating: 8.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  453846:
+    title: |-
+      Apocalypse Hotel
+    sort_title: |-
+      Apocalypse Hotel
+    original_title: |-
+      Apocalypse Hotel
+    genre.sync: Post-Apocalyptic,Inn,Robots,Urban,Aliens,Artificial Intelligence,Anthropomorphism
+    studio: CygamesPictures
+    seasons:
+      1:
+        title: |-
+          Apocalypse Hotel
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   453353:
     title: |-
       Arafou Otoko no Isekai Tsuuhan Seikatsu
@@ -504,7 +522,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.4
     audience_rating: 6.4
-    critic_rating: 6.8
+    critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   278152:
@@ -533,6 +551,44 @@ metadata:
     critic_rating: 7.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  381536:
+    title: |-
+      Bai Yao Pu
+    sort_title: |-
+      Bai Yao Pu
+    original_title: |-
+      Fairies Albums
+    genre.sync: Fantasy,Mystery,Supernatural,Episodic
+    studio: Haoliners Animation
+    seasons:
+      1:
+        title: |-
+          Bai Yao Pu
+        label: Score,2020 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.9
+      2:
+        title: |-
+          Bai Yao Pu 2
+        label: Score,2021 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.0
+      3:
+        title: |-
+          Bai Yao Pu: Jingshi Pian
+        label: Score,2022 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.1
+      4:
+        title: |-
+          Bai Yao Pu: Si Fu Pian
+        label: Score,2024 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.4
+    audience_rating: 6.8
+    critic_rating: 7.5
+    label: Planned
+    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   193811:
     title: |-
       Bakuman.
@@ -1343,6 +1399,26 @@ metadata:
     critic_rating: 8.2
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  457099:
+    title: |-
+      Nazotoki wa Dinner no Ato de
+    sort_title: |-
+      Nazotoki wa Dinner no Ato de
+    original_title: |-
+      The Dinner Table Detective
+    genre.sync: Comedy,Drama,Mystery,Detective,Female Protagonist,Butler
+    studio: MADHOUSE
+    seasons:
+      1:
+        title: |-
+          Nazotoki wa Dinner no Ato de
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.0
+    audience_rating: 6.0
+    critic_rating: 6.5
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   370761:
     title: |-
       Dorohedoro
@@ -1518,7 +1594,7 @@ metadata:
       Enen no Shouboutai
     original_title: |-
       Fire Force
-    genre.sync: Action,Drama,Sci-Fi,Supernatural,Firefighters,Super Power,Urban Fantasy,Shounen,Demons,Conspiracy,Cult,Male Protagonist,Religion,Post-Apocalyptic,Primarily Adult Cast,Tragedy,Dystopian,Ensemble Cast,Nudity
+    genre.sync: Action,Drama,Sci-Fi,Supernatural,Firefighters,Super Power,Urban Fantasy,Shounen,Demons,Conspiracy,Cult,Male Protagonist,Post-Apocalyptic,Religion,Primarily Adult Cast,Tragedy,Ensemble Cast,Dystopian,Nudity,Rescue
     studio: David Production
     seasons:
       1:
@@ -1543,44 +1619,6 @@ metadata:
     critic_rating: 7.9
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
-  381536:
-    title: |-
-      Bai Yao Pu
-    sort_title: |-
-      Bai Yao Pu
-    original_title: |-
-      Fairies Albums
-    genre.sync: Fantasy,Mystery,Supernatural,Episodic
-    studio: Haoliners Animation
-    seasons:
-      1:
-        title: |-
-          Bai Yao Pu
-        label: Score,2020 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.9
-      2:
-        title: |-
-          Bai Yao Pu 2
-        label: Score,2021 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-      3:
-        title: |-
-          Bai Yao Pu: Jingshi Pian
-        label: Score,2022 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-      4:
-        title: |-
-          Bai Yao Pu: Si Fu Pian
-        label: Score,2024 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.8
-    critic_rating: 7.5
-    label: Planned
-    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   410031:
     title: |-
       Fairy Tail: 100 Years Quest
@@ -2890,8 +2928,8 @@ metadata:
           Kijin Gentoushou
         label: Score,Watching,2025 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
+        user_rating: 7.1
+    audience_rating: 7.1
     critic_rating: 7.7
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -3811,6 +3849,24 @@ metadata:
     critic_rating: 8.7
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  457473:
+    title: |-
+      Kidou Senshi Gundam GQuuuuuuX
+    sort_title: |-
+      Kidou Senshi Gundam GQuuuuuuX
+    original_title: |-
+      Mobile Suit Gundam GQuuuuuuX
+    genre.sync: Drama,Mecha,Sci-Fi,Female Protagonist,Cyberpunk,Real Robot,Space,Robots,Super Robot,Alternate Universe
+    studio: Studio Khara
+    seasons:
+      1:
+        title: |-
+          Kidou Senshi Gundam GQuuuuuuX
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -3839,24 +3895,6 @@ metadata:
     critic_rating: 8.4
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  458058:
-    title: |-
-      Vigilante: Boku no Hero Academia ILLEGALS
-    sort_title: |-
-      Vigilante: Boku no Hero Academia ILLEGALS
-    original_title: |-
-      My Hero Academia: Vigilantes
-    genre.sync: Action,Adventure,Drama,Fantasy,Super Power,Crime,Superhero,Fugitive,Urban,Male Protagonist,Shounen
-    studio: bones film
-    seasons:
-      1:
-        title: |-
-          Vigilante: Boku no Hero Academia ILLEGALS
-        label: Score,2025 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   446389:
     title: |-
       Nageki no Bourei wa Intai Shitai
@@ -3917,26 +3955,6 @@ metadata:
     critic_rating: 7.1
     label: Ended,Planning
     label.remove: Planned,Airing,Watching,Dropped,Paused,
-  457099:
-    title: |-
-      Nazotoki wa Dinner no Ato de
-    sort_title: |-
-      Nazotoki wa Dinner no Ato de
-    original_title: |-
-      The Dinner Table Detective
-    genre.sync: Comedy,Drama,Mystery,Detective,Female Protagonist,Butler
-    studio: MADHOUSE
-    seasons:
-      1:
-        title: |-
-          Nazotoki wa Dinner no Ato de
-        label: Score,2025 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.0
-    audience_rating: 6.0
-    critic_rating: 6.5
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   309206:
     title: |-
       Nejimaki Seirei Senki: Tenkyou no Alderamin
@@ -5184,6 +5202,24 @@ metadata:
     critic_rating: 8.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  446141:
+    title: |-
+      Shiunji-ke no Kodomotachi
+    sort_title: |-
+      Shiunji-ke no Kodomotachi
+    original_title: |-
+      The Shiunji Family Children
+    genre.sync: Comedy,Romance,Inseki,Female Harem,Male Protagonist,Primarily Female Cast,Heterosexual,Nudity,Adoption
+    studio: Doga Kobo
+    seasons:
+      1:
+        title: |-
+          Shiunji-ke no Kodomotachi
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   402640:
     title: |-
       Shokei Shoujo no Virgin Road
@@ -5290,6 +5326,32 @@ metadata:
     critic_rating: 8.1
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  389377:
+    title: |-
+      Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita
+    sort_title: |-
+      Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita
+    original_title: |-
+      I've Been Killing Slimes for 300 Years and Maxed Out My Level
+    genre.sync: Adventure,Comedy,Fantasy,Slice of Life,Primarily Female Cast,Female Protagonist,Found Family,Family Life,Witch,Cute Girls Doing Cute Things,Iyashikei,Rural,Reincarnation,Isekai,Parenthood,Dragons,Episodic,Elf,Monster Girl,Demons,Magic,Time Skip,Slapstick
+    studio: REVOROOT
+    seasons:
+      1:
+        title: |-
+          Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita
+        label: Score,Completed,2021 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.9
+      2:
+        title: |-
+          Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.1
+    audience_rating: 7.0
+    critic_rating: 7.1
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   372921:
     title: |-
       Somali to Mori no Kamisama
@@ -5330,32 +5392,6 @@ metadata:
     critic_rating: 8.1
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  389377:
-    title: |-
-      Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita
-    sort_title: |-
-      Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita
-    original_title: |-
-      I've Been Killing Slimes for 300 Years and Maxed Out My Level
-    genre.sync: Adventure,Comedy,Fantasy,Slice of Life,Primarily Female Cast,Female Protagonist,Found Family,Family Life,Witch,Cute Girls Doing Cute Things,Iyashikei,Rural,Reincarnation,Isekai,Parenthood,Dragons,Episodic,Elf,Monster Girl,Demons,Magic,Time Skip,Slapstick
-    studio: REVOROOT
-    seasons:
-      1:
-        title: |-
-          Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita
-        label: Score,Completed,2021 Spring
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.9
-      2:
-        title: |-
-          Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni
-        label: Score,2025 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.0
-    critic_rating: 7.1
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   424536:
     title: |-
       Sousou no Frieren
@@ -5485,7 +5521,9 @@ metadata:
           Summer Pockets
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.9
+    audience_rating: 6.9
+    critic_rating: 7.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   407306:
@@ -6275,6 +6313,26 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  458058:
+    title: |-
+      Vigilante: Boku no Hero Academia ILLEGALS
+    sort_title: |-
+      Vigilante: Boku no Hero Academia ILLEGALS
+    original_title: |-
+      My Hero Academia: Vigilantes
+    genre.sync: Action,Adventure,Drama,Fantasy,Super Power,Crime,Superhero,Fugitive,Urban,Male Protagonist,Shounen
+    studio: bones film
+    seasons:
+      1:
+        title: |-
+          Vigilante: Boku no Hero Academia ILLEGALS
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.4
+    audience_rating: 7.4
+    critic_rating: 7.6
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   359274:
     title: |-
       Vinland Saga
@@ -6744,7 +6802,9 @@ metadata:
           Zatsu Tabi: That's Journey
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   447955:
