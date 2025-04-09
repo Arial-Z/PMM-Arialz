@@ -31,17 +31,13 @@ templates:
 overlays:
   MAL_Rating:
     template: [name: MAL_Rating]
-    plex_search:
-      all:
-        season_label: Score
-        user_rating.gte: 0.1
-        user_rating.lte: 10
+    plex_all: true
+    filters:
+      season_label: score
 
 
   User_Rating:
     template: [name: User_Rating]
-    plex_search:
-      all:
-        season_label: Score
-        user_rating.gte: 0.1
-        user_rating.lte: 10
+    plex_all: true
+    filters:
+      season_label: score
