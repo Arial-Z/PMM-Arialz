@@ -32,8 +32,12 @@ overlays:
   Anilist_Rating:
     template: [name: Anilist_Rating]
     plex_all: true
+    filters:
+      season_label: score
 
 
   User_Rating:
     template: [name: User_Rating]
     plex_all: true
+    filters:
+      season_label: score
