@@ -31,15 +31,9 @@ templates:
 overlays:
   Anilist_Rating:
     template: [name: Anilist_Rating]
-    plex_search:
-      all:
-        user_rating.gte: 0.1
-        user_rating.lte: 10
+    plex_all: true
 
 
   User_Rating:
     template: [name: User_Rating]
-    plex_search:
-      all:
-        user_rating.gte: 0.1
-        user_rating.lte: 10
+    plex_all: true
