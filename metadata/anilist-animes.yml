@@ -396,7 +396,9 @@ metadata:
           Apocalypse Hotel
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   453353:
@@ -512,7 +514,7 @@ metadata:
       Aru Majo ga Shinu Made
     original_title: |-
       Once Upon a Witch's Death
-    genre.sync: Adventure,Drama,Fantasy,Female Protagonist,Primarily Female Cast,Witch,Magic,Curses
+    genre.sync: Adventure,Drama,Fantasy,Female Protagonist,Primarily Female Cast,Witch,LGBTQ+ Themes,Curses
     studio: EMT Squared
     seasons:
       1:
@@ -520,8 +522,8 @@ metadata:
           Aru Majo ga Shinu Made
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
+        user_rating: 6.7
+    audience_rating: 6.7
     critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -1399,26 +1401,6 @@ metadata:
     critic_rating: 8.2
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  457099:
-    title: |-
-      Nazotoki wa Dinner no Ato de
-    sort_title: |-
-      Nazotoki wa Dinner no Ato de
-    original_title: |-
-      The Dinner Table Detective
-    genre.sync: Comedy,Drama,Mystery,Detective,Female Protagonist,Butler
-    studio: MADHOUSE
-    seasons:
-      1:
-        title: |-
-          Nazotoki wa Dinner no Ato de
-        label: Score,2025 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.0
-    audience_rating: 6.0
-    critic_rating: 6.5
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   370761:
     title: |-
       Dorohedoro
@@ -2059,7 +2041,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.3
     audience_rating: 6.3
-    critic_rating: 6.6
+    critic_rating: 6.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   450933:
@@ -2845,6 +2827,26 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  457473:
+    title: |-
+      Kidou Senshi Gundam GQuuuuuuX
+    sort_title: |-
+      Kidou Senshi Gundam GQuuuuuuX
+    original_title: |-
+      Mobile Suit Gundam GQuuuuuuX
+    genre.sync: Drama,Mecha,Sci-Fi,Female Protagonist,Cyberpunk,Real Robot,Space,Robots,Super Robot,Alternate Universe
+    studio: Studio Khara
+    seasons:
+      1:
+        title: |-
+          Kidou Senshi Gundam GQuuuuuuX
+        label: Score,Watching,2025 Spring
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.4
+    audience_rating: 7.4
+    critic_rating: 7.7
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   403849:
     title: |-
       Kidou Senshi Gundam UC
@@ -3849,24 +3851,6 @@ metadata:
     critic_rating: 8.7
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  457473:
-    title: |-
-      Kidou Senshi Gundam GQuuuuuuX
-    sort_title: |-
-      Kidou Senshi Gundam GQuuuuuuX
-    original_title: |-
-      Mobile Suit Gundam GQuuuuuuX
-    genre.sync: Drama,Mecha,Sci-Fi,Female Protagonist,Cyberpunk,Real Robot,Space,Robots,Super Robot,Alternate Universe
-    studio: Studio Khara
-    seasons:
-      1:
-        title: |-
-          Kidou Senshi Gundam GQuuuuuuX
-        label: Score,2025 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -3955,6 +3939,26 @@ metadata:
     critic_rating: 7.1
     label: Ended,Planning
     label.remove: Planned,Airing,Watching,Dropped,Paused,
+  457099:
+    title: |-
+      Nazotoki wa Dinner no Ato de
+    sort_title: |-
+      Nazotoki wa Dinner no Ato de
+    original_title: |-
+      The Dinner Table Detective
+    genre.sync: Comedy,Drama,Mystery,Detective,Female Protagonist,Butler
+    studio: MADHOUSE
+    seasons:
+      1:
+        title: |-
+          Nazotoki wa Dinner no Ato de
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.0
+    audience_rating: 6.0
+    critic_rating: 6.5
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   309206:
     title: |-
       Nejimaki Seirei Senki: Tenkyou no Alderamin
@@ -5217,7 +5221,9 @@ metadata:
           Shiunji-ke no Kodomotachi
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 7.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   402640:
@@ -5862,6 +5868,26 @@ metadata:
     critic_rating: 7.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  438049:
+    title: |-
+      Tu Bian Yingxiong X
+    sort_title: |-
+      Tu Bian Yingxiong X
+    original_title: |-
+      To Be Hero X
+    genre.sync: Action,Supernatural,Anti-Hero,Suicide,Animals,Tragedy,Urban Fantasy,Idol,Unrequited Love,Conspiracy,Superhero,CGI,Super Power
+    studio: Paper Plane Animation Studio
+    seasons:
+      1:
+        title: |-
+          Tu Bian Yingxiong X
+        label: Score,Watching,2025 Spring
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 8.0
+    audience_rating: 8.0
+    critic_rating: 8.5
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   281249:
     title: |-
       Tokyo Ghoul
@@ -6794,7 +6820,7 @@ metadata:
       Zatsu Tabi: That's Journey
     original_title: |-
       ZatsuTabi -That's Journey-
-    genre.sync: Adventure,Comedy,Drama,Slice of Life,Seinen,Travel,Iyashikei,Female Protagonist,Drawing,Primarily Female Cast
+    genre.sync: Adventure,Comedy,Drama,Slice of Life,Travel,Iyashikei,Drawing,Seinen,Female Protagonist,Primarily Female Cast,Primarily Adult Cast,Cute Girls Doing Cute Things
     studio: Makaria
     seasons:
       1:
