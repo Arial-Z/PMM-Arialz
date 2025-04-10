@@ -33,11 +33,11 @@ overlays:
     template: [name: MAL_Rating]
     plex_all: true
     filters:
-      season_label: score
+      label: score
 
 
   User_Rating:
     template: [name: User_Rating]
     plex_all: true
     filters:
-      season_label: score
+      label: score
