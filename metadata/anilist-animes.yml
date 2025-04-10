@@ -416,8 +416,8 @@ metadata:
           Arafou Otoko no Isekai Tsuuhan Seikatsu
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
+        user_rating: 6.3
+    audience_rating: 6.3
     critic_rating: 6.4
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
@@ -2031,7 +2031,7 @@ metadata:
       Haite Kudasai, Takamine-san
     original_title: |-
       Please Put Them On, Takamine-san
-    genre.sync: Comedy,Ecchi,Romance,Slice of Life,Femdom,Nudity,Heterosexual,Large Breasts,Time Manipulation,Female Protagonist,Slavery,Tsundere,Bullying,Male Protagonist,School,Shounen
+    genre.sync: Comedy,Ecchi,Romance,Slice of Life,Femdom,Nudity,Heterosexual,Slavery,Time Manipulation,Large Breasts,Tsundere,Bullying,Female Protagonist,Male Protagonist,Shounen,School
     studio: LIDENFILMS
     seasons:
       1:
@@ -2039,8 +2039,8 @@ metadata:
           Haite Kudasai, Takamine-san
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
+        user_rating: 5.9
+    audience_rating: 5.9
     critic_rating: 6.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -2708,7 +2708,7 @@ metadata:
       Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru
     original_title: |-
       The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom
-    genre.sync: Fantasy,Romance,Shoujo
+    genre.sync: Fantasy,Romance,Shoujo,Kuudere,Magic,Female Protagonist
     studio: TROYCA
     seasons:
       1:
@@ -2716,7 +2716,9 @@ metadata:
           Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru
         label: Score,Watching,2025 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   441260:
@@ -3851,6 +3853,24 @@ metadata:
     critic_rating: 8.7
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  421103:
+    title: |-
+      Moonrise
+    sort_title: |-
+      Moonrise
+    original_title: |-
+      Moonrise
+    genre.sync: Action,Fantasy,Sci-Fi,Male Protagonist,CGI,Space
+    studio: WIT STUDIO
+    seasons:
+      1:
+        title: |-
+          Moonrise
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -4605,7 +4625,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.2
     audience_rating: 7.2
-    critic_rating: 7.5
+    critic_rating: 7.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   423787:
@@ -4735,7 +4755,7 @@ metadata:
       Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
     original_title: |-
       The Beginning After the End
-    genre.sync: Action,Adventure,Fantasy,Magic,War,Reincarnation,Male Protagonist,Isekai
+    genre.sync: Action,Adventure,Fantasy,Magic,Reincarnation,War,Isekai,Male Protagonist,Travel
     studio: studio A-CAT
     seasons:
       1:
@@ -4743,9 +4763,9 @@ metadata:
           Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
         label: Score,Watching,2025 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 6.6
+        user_rating: 6.5
+    audience_rating: 6.5
+    critic_rating: 6.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   423732:
@@ -6450,7 +6470,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.7
     audience_rating: 7.8
-    critic_rating: 7.4
+    critic_rating: 7.9
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   453127:
@@ -6724,7 +6744,7 @@ metadata:
       Your Forma
     original_title: |-
       Your Forma
-    genre.sync: Action,Drama,Mystery,Sci-Fi,Female Protagonist,Detective
+    genre.sync: Action,Drama,Mystery,Sci-Fi,Female Protagonist,Cyberpunk,Detective
     studio: Geno Studio
     seasons:
       1:
@@ -6732,9 +6752,9 @@ metadata:
           Your Forma
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
-    critic_rating: 6.7
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   424019:
