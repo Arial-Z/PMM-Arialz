@@ -3868,7 +3868,9 @@ metadata:
           Moonrise
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 6.9
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   371310:
@@ -5572,6 +5574,26 @@ metadata:
     critic_rating: 8.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  449395:
+    title: |-
+      Chao Neng Lifang
+    sort_title: |-
+      Chao Neng Lifang
+    original_title: |-
+      Super Cube
+    genre.sync: Action,Adventure,Fantasy
+    studio: Big Firebird Cultural Media
+    seasons:
+      1:
+        title: |-
+          Chao Neng Lifang
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.9
+    audience_rating: 6.9
+    critic_rating: 7.2
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   259640:
     title: |-
       Sword Art Online
@@ -5848,6 +5870,24 @@ metadata:
     critic_rating: 8.1
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  448537:
+    title: |-
+      Teogonia
+    sort_title: |-
+      Teogonia
+    original_title: |-
+      Teogonia
+    genre.sync: Action,Fantasy
+    studio: Asahi Production
+    seasons:
+      1:
+        title: |-
+          Teogonia
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   436948:
     title: |-
       The Fable
