@@ -208,8 +208,8 @@ metadata:
           A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
+        user_rating: 6.4
+    audience_rating: 6.4
     critic_rating: 6.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -630,7 +630,7 @@ metadata:
       Ballpark de Tsukamaete!
     original_title: |-
       Catch Me at the Ballpark!
-    genre.sync: Comedy,Romance,Slice of Life,Sports,Seinen,Baseball,Iyashikei,Work,Gyaru,Heterosexual
+    genre.sync: Comedy,Romance,Slice of Life,Sports,Seinen,Baseball,Work,Ensemble Cast,Iyashikei,Gyaru,Heterosexual
     studio: EMT Squared
     seasons:
       1:
@@ -638,8 +638,8 @@ metadata:
           Ballpark de Tsukamaete!
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
+        user_rating: 6.5
+    audience_rating: 6.5
     critic_rating: 6.9
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -1027,7 +1027,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.0
     audience_rating: 7.0
-    critic_rating: 7.3
+    critic_rating: 7.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   289679:
@@ -1288,9 +1288,9 @@ metadata:
           Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
-    critic_rating: 7.3
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 7.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   80042:
@@ -1618,7 +1618,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.9
     audience_rating: 7.8
-    critic_rating: 7.9
+    critic_rating: 7.8
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   410031:
@@ -2362,7 +2362,7 @@ metadata:
       Isekai Shikkaku
     original_title: |-
       No Longer Allowed in Another World
-    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Supernatural,Suicide,Isekai,Male Protagonist,Travel,Seinen,Satire,Philosophy,Magic,Nekomimi
+    genre.sync: Comedy,Fantasy,Romance,Slice of Life,Supernatural,Isekai,Suicide,Male Protagonist,Travel,Seinen,Satire,Philosophy,Magic,Nekomimi
     studio: Atelier Pontdarc
     seasons:
       1:
@@ -2402,7 +2402,7 @@ metadata:
       Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru
     original_title: |-
       The Brilliant Healer's New Life in the Shadows
-    genre.sync: Action,Comedy,Fantasy,Female Harem,Magic
+    genre.sync: Action,Comedy,Fantasy,Magic,Female Harem
     studio: Makaria
     seasons:
       1:
@@ -2412,7 +2412,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.2
     audience_rating: 6.2
-    critic_rating: 6.4
+    critic_rating: 6.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   449884:
@@ -3340,7 +3340,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.4
     audience_rating: 7.4
-    critic_rating: 7.8
+    critic_rating: 7.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   83996:
@@ -3422,7 +3422,7 @@ metadata:
       Lazarus
     original_title: |-
       Lazarus
-    genre.sync: Action,Sci-Fi,Urban,Parkour,Medicine,Drugs,Anti-Hero,Death Game,Fugitive,Cyberpunk,Male Protagonist,Guns,Seinen
+    genre.sync: Action,Sci-Fi,Urban,Parkour,Drugs,Medicine,Anti-Hero,Fugitive,Death Game,Cyberpunk,Male Protagonist,Guns,Seinen
     studio: MAPPA
     seasons:
       1:
@@ -3920,13 +3920,13 @@ metadata:
       1:
         title: |-
           Moonrise
-        label: Score,2025 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 6.9
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Spring
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 6.8
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -4691,7 +4691,7 @@ metadata:
       Rock wa Lady no Tashinami Deshite
     original_title: |-
       Rock is a Lady’s Modesty
-    genre.sync: Drama,Music,Female Protagonist,Ojou-sama,Band,Rock Music,School,Yuri,Bullying,LGBTQ+ Themes,CGI,Seinen,Urban,Primarily Female Cast
+    genre.sync: Drama,Music,Ojou-sama,Female Protagonist,Band,Rock Music,School,Bullying,Yuri,Seinen,Urban,LGBTQ+ Themes,Primarily Female Cast,CGI
     studio: Bandai Namco Pictures
     seasons:
       1:
@@ -4699,8 +4699,8 @@ metadata:
           Rock wa Lady no Tashinami Deshite
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.3
-    audience_rating: 7.3
+        user_rating: 7.4
+    audience_rating: 7.4
     critic_rating: 7.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -5947,7 +5947,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.1
     audience_rating: 6.1
-    critic_rating: 6.7
+    critic_rating: 6.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   436948:
@@ -6295,8 +6295,8 @@ metadata:
           Übel Blatt
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.9
-    audience_rating: 5.9
+        user_rating: 6.0
+    audience_rating: 6.0
     critic_rating: 6.3
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
