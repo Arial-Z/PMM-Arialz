@@ -421,7 +421,8 @@ metadata:
     studio: Square Enix
     audience_rating: 7.0
     critic_rating: 7.4
-    label.remove: Completed,Watching,Dropped,Paused,Planning
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt5323662:
     title: |-
       Koe no Katachi
