@@ -416,8 +416,8 @@ metadata:
           Arafou Otoko no Isekai Tsuuhan Seikatsu
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
+        user_rating: 6.2
+    audience_rating: 6.2
     critic_rating: 6.4
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
@@ -3068,13 +3068,13 @@ metadata:
       2:
         title: |-
           Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II
-        label: Score,Dropped,2024 Summer
-        label.remove: Completed,Watching,Paused,Planning
+        label: Score,Watching,2024 Summer
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 6.7
-    label: Airing,Dropped
-    label.remove: Planned,Ended,Watching,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   414562:
     title: |-
       Kimi wa Houkago Insomnia
@@ -4703,7 +4703,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.4
     audience_rating: 7.4
-    critic_rating: 7.5
+    critic_rating: 7.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   423787:
@@ -4833,7 +4833,7 @@ metadata:
       Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
     original_title: |-
       The Beginning After the End
-    genre.sync: Action,Adventure,Fantasy,Magic,Medieval,Reincarnation,War,Isekai,Male Protagonist,Travel
+    genre.sync: Action,Adventure,Fantasy,Magic,Isekai,War,Reincarnation,Medieval,Male Protagonist,Travel
     studio: studio A-CAT
     seasons:
       1:
@@ -4841,8 +4841,8 @@ metadata:
           Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
         label: Score,Watching,2025 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.6
-    audience_rating: 5.6
+        user_rating: 5.5
+    audience_rating: 5.5
     critic_rating: 5.3
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -6574,7 +6574,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 7.8
-    critic_rating: 7.9
+    critic_rating: 7.8
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   453127:
@@ -6856,9 +6856,9 @@ metadata:
           Your Forma
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.9
-    audience_rating: 5.9
-    critic_rating: 6.3
+        user_rating: 5.8
+    audience_rating: 5.8
+    critic_rating: 6.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   424019:
