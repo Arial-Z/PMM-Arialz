@@ -580,14 +580,14 @@ metadata:
           Bai Yao Pu: Jingshi Pian
         label: Score,2022 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.0
+        user_rating: 7.1
       4:
         title: |-
           Bai Yao Pu: Si Fu Pian
         label: Score,2024 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.8
+        user_rating: 6.5
+    audience_rating: 6.9
     critic_rating: 7.5
     label: Planned
     label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -2698,7 +2698,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
-    critic_rating: 6.8
+    critic_rating: 6.7
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   455711:
@@ -4124,7 +4124,7 @@ metadata:
       Ninja to Koroshiya no Futarigurashi
     original_title: |-
       A Ninja and an Assassin Under One Roof
-    genre.sync: Comedy,Female Protagonist,Slapstick,Anti-Hero,Ninja,Assassins,Cute Girls Doing Cute Things,Yuri,Surreal Comedy,Primarily Female Cast,Fugitive,Urban,Tragedy,Yandere,LGBTQ+ Themes
+    genre.sync: Comedy,Urban,Female Protagonist,Slapstick,Anti-Hero,Primarily Female Cast,Assassins,Ninja,Cute Girls Doing Cute Things,Surreal Comedy,Tragedy,Fugitive,Robots,Yuri,Yandere,Artificial Intelligence,LGBTQ+ Themes
     studio: Shaft
     seasons:
       1:
@@ -5215,7 +5215,7 @@ metadata:
       Shin Samurai-den YAIBA
     original_title: |-
       YAIBA: Samurai Legend
-    genre.sync: Action,Adventure,Comedy,Fantasy,Shounen,Samurai,Swordplay,Male Protagonist
+    genre.sync: Action,Adventure,Comedy,Fantasy,Male Protagonist,Shounen,Samurai,Swordplay
     studio: WIT STUDIO
     seasons:
       1:
@@ -5509,7 +5509,7 @@ metadata:
       Sousou no Frieren
     original_title: |-
       Frieren: Beyond Journey’s End
-    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Philosophy,Time Skip,Female Protagonist,Iyashikei,Found Family,Medieval,Kuudere,Foreign,Demons
+    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Philosophy,Time Skip,Female Protagonist,Medieval,Iyashikei,Found Family,Kuudere,Foreign,Demons
     studio: MADHOUSE
     seasons:
       1:
@@ -5663,7 +5663,7 @@ metadata:
       Sword Art Online
     original_title: |-
       Sword Art Online
-    genre.sync: Action,Adventure,Fantasy,Romance,Virtual World,Isekai,Death Game,Video Games,Male Protagonist,Swordplay,Primarily Teen Cast,Heterosexual,Primarily Female Cast
+    genre.sync: Action,Adventure,Fantasy,Romance,Virtual World,Isekai,Death Game,Video Games,Swordplay,Male Protagonist,Primarily Teen Cast,Heterosexual,Primarily Female Cast
     studio: A-1 Pictures
     seasons:
       0:
@@ -5739,7 +5739,7 @@ metadata:
           Tate no Yuusha no Nariagari Season 2
         label: Score,Completed,2022 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.5
+        user_rating: 6.4
       3:
         title: |-
           Tate no Yuusha no Nariagari Season 3
@@ -5757,7 +5757,7 @@ metadata:
       Tengen Toppa Gurren Lagann
     original_title: |-
       Gurren Lagann
-    genre.sync: Action,Comedy,Drama,Mecha,Romance,Sci-Fi,Super Robot,Coming of Age,Dystopian,Found Family,Male Protagonist,Post-Apocalyptic,Primarily Adult Cast,Space Opera,Tragedy,Travel,War,Space,Aliens,Time Skip,Class Struggle,Politics,Desert,Anthropomorphism,Heterosexual,Outdoor Activities
+    genre.sync: Action,Comedy,Drama,Mecha,Romance,Sci-Fi,Super Robot,Coming of Age,Dystopian,Found Family,Male Protagonist,Post-Apocalyptic,Primarily Adult Cast,Space Opera,Tragedy,Travel,War,Space,Class Struggle,Aliens,Time Skip,Politics,Desert,Anthropomorphism,Heterosexual,Outdoor Activities
     studio: Gainax
     seasons:
       0:
@@ -6021,8 +6021,8 @@ metadata:
           Tokyo Ghoul:re
         label: Score,Completed,2018 Fall,2018 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.8
+        user_rating: 6.1
+    audience_rating: 6.7
     critic_rating: 7.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -6558,7 +6558,7 @@ metadata:
       Wind Breaker
     original_title: |-
       Wind Breaker
-    genre.sync: Action,Comedy,Drama,Delinquents,Gangs,Male Protagonist,Primarily Male Cast,Shounen,Urban,School,Found Family,Tsundere,Bullying,Ensemble Cast,Primarily Teen Cast
+    genre.sync: Action,Comedy,Drama,Delinquents,Gangs,Male Protagonist,Primarily Male Cast,Shounen,School,Urban,Found Family,Tsundere,Ensemble Cast,Primarily Teen Cast,Bullying
     studio: CloverWorks
     seasons:
       1:
@@ -6584,7 +6584,7 @@ metadata:
       Witch Watch
     original_title: |-
       Witch Watch
-    genre.sync: Comedy,Drama,Fantasy,Romance,Slice of Life,Magic,Witch,Slapstick,Heterosexual,Found Family,Primarily Teen Cast,Cohabitation,Female Protagonist,Urban Fantasy,Shounen,Male Protagonist,Surreal Comedy,Episodic,Parody
+    genre.sync: Comedy,Drama,Fantasy,Romance,Slice of Life,Magic,Witch,Slapstick,Heterosexual,Found Family,Primarily Teen Cast,Female Protagonist,Urban Fantasy,Cohabitation,Shounen,Male Protagonist,Surreal Comedy,Episodic,Parody
     studio: Bibury Animation Studios
     seasons:
       1:
@@ -6774,7 +6774,7 @@ metadata:
       Yoru no Kurage wa Oyogenai
     original_title: |-
       Jellyfish Can’t Swim in the Night
-    genre.sync: Drama,Music,Slice of Life,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Drawing,Urban,Band,Idol,Transgender,LGBTQ+ Themes,Cute Girls Doing Cute Things,Hikikomori
+    genre.sync: Drama,Music,Slice of Life,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Drawing,Urban,Band,Idol,LGBTQ+ Themes,Cute Girls Doing Cute Things,Transgender,Hikikomori
     studio: Doga Kobo
     seasons:
       1:
@@ -6888,7 +6888,7 @@ metadata:
       Yuru Camp△
     original_title: |-
       Laid-Back Camp
-    genre.sync: Comedy,Slice of Life,Outdoor Activities,Camping,Iyashikei,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Rural,Food,Educational,Primarily Teen Cast,School Club,Kuudere,Seinen
+    genre.sync: Comedy,Slice of Life,Outdoor Activities,Camping,Iyashikei,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Rural,Primarily Teen Cast,Food,Educational,Travel,School Club,Kuudere,Seinen,Episodic
     studio: C-Station
     seasons:
       0:
