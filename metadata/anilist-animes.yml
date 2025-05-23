@@ -650,7 +650,7 @@ metadata:
       BanG Dream! Ave Mujica
     original_title: |-
       Ave Mujica - The Die is Cast -
-    genre.sync: Drama,Music,Psychological,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Acting,Full CGI,Metal Music,LGBTQ+ Themes,Disability,Musical Theater,Rock Music,Ensemble Cast,Incest
+    genre.sync: Drama,Music,Psychological,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Acting,Full CGI,Yuri,Metal Music,Disability,Musical Theater,Rock Music,Ensemble Cast
     studio: SANZIGEN
     seasons:
       1:
@@ -1023,13 +1023,13 @@ metadata:
       1:
         title: |-
           Chao Neng Lifang
-        label: Score,Watching,2025 Winter
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Winter
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.3
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   289679:
     title: |-
       Charlotte
@@ -1300,7 +1300,7 @@ metadata:
       DARKER THAN BLACK: Kuro no Keiyakusha
     original_title: |-
       Darker than Black
-    genre.sync: Action,Mystery,Sci-Fi,Super Power,Anti-Hero,Crime,Noir,Urban,Assassins,Conspiracy,Tragedy,Terrorism,Urban Fantasy,Police,Espionage,Triads,Episodic
+    genre.sync: Action,Mystery,Sci-Fi,Super Power,Anti-Hero,Noir,Crime,Urban,Assassins,Conspiracy,Tragedy,Terrorism,Urban Fantasy,Police,Espionage,Triads,Episodic
     studio: bones
     seasons:
       0:
@@ -3340,7 +3340,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.3
     audience_rating: 7.3
-    critic_rating: 7.7
+    critic_rating: 7.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   83996:
@@ -3430,8 +3430,8 @@ metadata:
           Lazarus
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.2
+        user_rating: 7.1
+    audience_rating: 7.1
     critic_rating: 7.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -4693,7 +4693,7 @@ metadata:
       Rock wa Lady no Tashinami Deshite
     original_title: |-
       Rock is a Lady’s Modesty
-    genre.sync: Drama,Music,Ojou-sama,Rock Music,Band,Female Protagonist,School,Yuri,Seinen,Primarily Female Cast,Urban,CGI,Primarily Teen Cast,LGBTQ+ Themes
+    genre.sync: Drama,Music,Female Protagonist,Band,Rock Music,Ojou-sama,School,Primarily Female Cast,Urban,Yuri,Primarily Teen Cast,LGBTQ+ Themes,CGI,Seinen
     studio: Bandai Namco Pictures
     seasons:
       1:
