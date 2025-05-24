@@ -6275,13 +6275,13 @@ metadata:
       1:
         title: |-
           Übel Blatt
-        label: Score,Watching,2025 Winter
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Dropped,2025 Winter
+        label.remove: Completed,Watching,Paused,Planning
         user_rating: 6.0
     audience_rating: 6.0
     critic_rating: 6.3
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   256705:
     title: |-
       Uchuu Kyoudai
