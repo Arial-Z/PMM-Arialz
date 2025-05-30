@@ -650,7 +650,7 @@ metadata:
       BanG Dream! Ave Mujica
     original_title: |-
       Ave Mujica - The Die is Cast -
-    genre.sync: Drama,Music,Psychological,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Acting,Full CGI,Yuri,Metal Music,Disability,Musical Theater,Rock Music,Ensemble Cast
+    genre.sync: Drama,Music,Psychological,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Acting,Full CGI,Metal Music,Disability,Musical Theater,Rock Music,Ensemble Cast
     studio: SANZIGEN
     seasons:
       1:
@@ -1025,8 +1025,8 @@ metadata:
           Chao Neng Lifang
         label: Score,Completed,2025 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
+        user_rating: 7.1
+    audience_rating: 7.1
     critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -1288,9 +1288,9 @@ metadata:
           Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
-    critic_rating: 7.1
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   80042:
@@ -2410,8 +2410,8 @@ metadata:
           Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru
         label: Score,Watching,2025 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
+        user_rating: 6.3
+    audience_rating: 6.3
     critic_rating: 6.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -3422,7 +3422,7 @@ metadata:
       Lazarus
     original_title: |-
       Lazarus
-    genre.sync: Action,Sci-Fi,Urban,Parkour,Drugs,Medicine,Anti-Hero,Fugitive,Death Game,Episodic,Cyberpunk,Guns,Seinen,Male Protagonist
+    genre.sync: Action,Sci-Fi,Episodic,Medicine,Fugitive,Anti-Hero,Parkour,Urban,Drugs,Cyberpunk,Male Protagonist,Guns,Seinen,Yuri,Death Game
     studio: MAPPA
     seasons:
       1:
@@ -4319,7 +4319,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.7
     audience_rating: 8.4
-    critic_rating: 8.6
+    critic_rating: 8.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   455710:
@@ -4662,8 +4662,8 @@ metadata:
         user_rating: 8.4
     audience_rating: 8.3
     critic_rating: 8.4
-    label: AA Winner,Planned,Watching
-    label.remove: Airing,Ended,Dropped,Paused,Planning
+    label: AA Winner,Planned,Dropped
+    label.remove: Airing,Ended,Watching,Paused,Planning
   299508:
     title: |-
       ReLIFE
@@ -6552,7 +6552,7 @@ metadata:
           WIND BREAKER Season 2
         label: Score,Watching,2025 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.8
+        user_rating: 7.7
     audience_rating: 7.8
     critic_rating: 7.8
     label: Airing,Watching
