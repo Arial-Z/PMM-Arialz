@@ -379,7 +379,7 @@ metadata:
       Kimi no Na wa.
     original_title: |-
       Your Name.
-    genre.sync: Drama,Romance,Supernatural,Body Swapping,Time Manipulation,Urban Fantasy,Coming of Age,Female Protagonist,Memory Manipulation,Male Protagonist,Tragedy,Urban,Rural,Gender Bending,Heterosexual,Primarily Teen Cast
+    genre.sync: Drama,Romance,Supernatural,Body Swapping,Time Manipulation,Urban Fantasy,Coming of Age,Female Protagonist,Male Protagonist,Memory Manipulation,Urban,Tragedy,Rural,Gender Bending,Heterosexual,Primarily Teen Cast
     studio: CoMix Wave
     audience_rating: 8.5
     critic_rating: 8.8
@@ -430,7 +430,7 @@ metadata:
       Koe no Katachi
     original_title: |-
       A Silent Voice
-    genre.sync: Drama,Romance,Slice of Life,Disability,Bullying,Rehabilitation,Language Barrier,Coming of Age,Suicide,Tragedy,Male Protagonist,Primarily Teen Cast,School,Time Skip
+    genre.sync: Drama,Romance,Slice of Life,Disability,Bullying,Rehabilitation,Language Barrier,Coming of Age,Suicide,Tragedy,Male Protagonist,Primarily Teen Cast,School,Time Skip,Female Protagonist
     studio: Kyoto Animation
     audience_rating: 8.8
     critic_rating: 8.9
@@ -535,6 +535,18 @@ metadata:
     audience_rating: 7.1
     critic_rating: 7.3
     label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt14759062:
+    title: |-
+      Kidou Senshi Gundam SEED FREEDOM
+    sort_title: |-
+      Kidou Senshi Gundam SEED FREEDOM
+    original_title: |-
+      Mobile Suit Gundam SEED FREEDOM
+    genre.sync: Action,Drama,Mecha,Romance,Sci-Fi,Real Robot,Conspiracy,Ensemble Cast,Military,Heterosexual,Space Opera,Space,Super Robot,Robots,CGI,Class Struggle,Politics
+    studio: Sunrise
+    audience_rating: 7.4
+    critic_rating: 7.6
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0119698:
     title: |-
       Mononoke-hime
@@ -630,7 +642,7 @@ metadata:
       Patema Inverted
     genre.sync: Adventure,Romance,Sci-Fi,Lost Civilization,Heterosexual,Post-Apocalyptic,Dystopian,Male Protagonist,Tragedy,Primarily Male Cast,Female Protagonist,Environmental,Steampunk
     studio: Studio Rikka
-    audience_rating: 7.6
+    audience_rating: 7.7
     critic_rating: 7.9
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
