@@ -2849,6 +2849,68 @@ metadata:
     critic_rating: 7.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+  254931:
+    title: |-
+      Kidou Senshi Gundam SEED
+    sort_title: |-
+      Kidou Senshi Gundam SEED
+    original_title: |-
+      Mobile Suit Gundam Seed
+    genre.sync: Action,Drama,Mecha,Sci-Fi,Military,War,Tragedy,Real Robot,Space,Love Triangle,Male Protagonist,Space Opera,Netorare,Primarily Teen Cast
+    studio: Sunrise
+    seasons:
+      0:
+        label.remove: Score
+      1:
+        title: |-
+          Kidou Senshi Gundam SEED
+        label: Score,Completed,2002 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.2
+    audience_rating: 7.2
+    critic_rating: 7.7
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  81466:
+    title: |-
+      Kidou Senshi Gundam SEED C.E.73: Stargazer
+    sort_title: |-
+      Kidou Senshi Gundam SEED C.E.73: Stargazer
+    original_title: |-
+      Mobile Suit Gundam Seed C.E.73: Stargazer
+    genre.sync: Mecha,Sci-Fi,Military,Space,Terrorism,Real Robot
+    studio: Sunrise
+    seasons:
+      1:
+        title: |-
+          Kidou Senshi Gundam SEED C.E.73: Stargazer
+        label: Score,2006 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.1
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  74890:
+    title: |-
+      Kidou Senshi Gundam SEED DESTINY
+    sort_title: |-
+      Kidou Senshi Gundam SEED DESTINY
+    original_title: |-
+      Mobile Suit Gundam Seed Destiny
+    genre.sync: Action,Drama,Mecha,Romance,Sci-Fi,Male Protagonist,Tragedy,War,Military,Real Robot,Space,Primarily Teen Cast,Memory Manipulation
+    studio: Sunrise
+    seasons:
+      1:
+        title: |-
+          Kidou Senshi Gundam SEED DESTINY
+        label: Score,Completed,2004 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.5
+    audience_rating: 6.5
+    critic_rating: 7.2
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   403849:
     title: |-
       Kidou Senshi Gundam UC
@@ -3857,68 +3919,6 @@ metadata:
     critic_rating: 8.7
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  254931:
-    title: |-
-      Kidou Senshi Gundam SEED
-    sort_title: |-
-      Kidou Senshi Gundam SEED
-    original_title: |-
-      Mobile Suit Gundam Seed
-    genre.sync: Action,Drama,Mecha,Sci-Fi,Military,War,Tragedy,Real Robot,Space,Love Triangle,Male Protagonist,Space Opera,Netorare,Primarily Teen Cast
-    studio: Sunrise
-    seasons:
-      0:
-        label.remove: Score
-      1:
-        title: |-
-          Kidou Senshi Gundam SEED
-        label: Score,Completed,2002 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.2
-    critic_rating: 7.7
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  81466:
-    title: |-
-      Kidou Senshi Gundam SEED C.E.73: Stargazer
-    sort_title: |-
-      Kidou Senshi Gundam SEED C.E.73: Stargazer
-    original_title: |-
-      Mobile Suit Gundam Seed C.E.73: Stargazer
-    genre.sync: Mecha,Sci-Fi,Military,Space,Terrorism,Real Robot
-    studio: Sunrise
-    seasons:
-      1:
-        title: |-
-          Kidou Senshi Gundam SEED C.E.73: Stargazer
-        label: Score,2006 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 7.1
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  74890:
-    title: |-
-      Kidou Senshi Gundam SEED DESTINY
-    sort_title: |-
-      Kidou Senshi Gundam SEED DESTINY
-    original_title: |-
-      Mobile Suit Gundam Seed Destiny
-    genre.sync: Action,Drama,Mecha,Romance,Sci-Fi,Male Protagonist,Tragedy,War,Military,Real Robot,Space,Primarily Teen Cast,Memory Manipulation
-    studio: Sunrise
-    seasons:
-      1:
-        title: |-
-          Kidou Senshi Gundam SEED DESTINY
-        label: Score,Completed,2004 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
-    critic_rating: 7.2
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   341295:
     title: |-
       Modao Zushi
@@ -4186,7 +4186,7 @@ metadata:
       Ninja to Koroshiya no Futarigurashi
     original_title: |-
       A Ninja and an Assassin Under One Roof
-    genre.sync: Comedy,Urban,Female Protagonist,Anti-Hero,Primarily Female Cast,Assassins,Ninja,Slapstick,Cute Girls Doing Cute Things,Tragedy,Surreal Comedy,Yuri,Fugitive,LGBTQ+ Themes,Yandere
+    genre.sync: Comedy,Female Protagonist,Urban,Primarily Female Cast,Anti-Hero,Assassins,Ninja,Slapstick,Cute Girls Doing Cute Things,Tragedy,Surreal Comedy,Yuri,Fugitive,LGBTQ+ Themes,Yandere
     studio: Shaft
     seasons:
       1:
@@ -4196,7 +4196,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.2
     audience_rating: 7.2
-    critic_rating: 7.3
+    critic_rating: 7.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   275610:
@@ -5165,7 +5165,7 @@ metadata:
           Sentai Daishikkaku 2nd Season
         label: Score,Watching,2025 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.2
+        user_rating: 7.1
     audience_rating: 7.2
     critic_rating: 7.4
     label: Airing,Watching
@@ -5287,7 +5287,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.2
     audience_rating: 7.2
-    critic_rating: 7.5
+    critic_rating: 7.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   369048:
@@ -5399,7 +5399,7 @@ metadata:
       Shokei Shoujo no Virgin Road
     original_title: |-
       The Executioner and Her Way of Life
-    genre.sync: Action,Adventure,Drama,Fantasy,Anti-Hero,Magic,Memory Manipulation,Primarily Female Cast,Time Manipulation,Female Protagonist,Isekai,Yuri,Assassins,LGBTQ+ Themes,Religion,Gore
+    genre.sync: Action,Adventure,Drama,Fantasy,Anti-Hero,Magic,Memory Manipulation,Primarily Female Cast,Time Manipulation,Female Protagonist,Isekai,Assassins,Yuri,LGBTQ+ Themes,Religion
     studio: J.C.STAFF
     seasons:
       1:
@@ -5505,7 +5505,7 @@ metadata:
       Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita
     original_title: |-
       I've Been Killing Slimes for 300 Years and Maxed Out My Level
-    genre.sync: Adventure,Comedy,Fantasy,Slice of Life,Primarily Female Cast,Female Protagonist,Found Family,Family Life,Witch,Iyashikei,Cute Girls Doing Cute Things,Rural,Reincarnation,Isekai,Parenthood,Dragons,Elf,Episodic,Monster Girl,Demons,Magic,Time Skip,Slapstick
+    genre.sync: Adventure,Comedy,Fantasy,Slice of Life,Primarily Female Cast,Female Protagonist,Found Family,Family Life,Witch,Iyashikei,Cute Girls Doing Cute Things,Rural,Reincarnation,Isekai,Parenthood,Dragons,Monster Girl,Episodic,Demons,Elf,Time Skip,Magic,Slapstick
     studio: REVOROOT
     seasons:
       1:
@@ -5519,9 +5519,9 @@ metadata:
           Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni
         label: Score,Watching,2025 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
-    critic_rating: 6.9
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 6.8
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   372921:
@@ -5571,7 +5571,7 @@ metadata:
       Sousou no Frieren
     original_title: |-
       Frieren: Beyond Journey’s End
-    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Philosophy,Time Skip,Female Protagonist,Medieval,Iyashikei,Found Family,Kuudere,Foreign,Demons
+    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Philosophy,Time Skip,Found Family,Female Protagonist,Medieval,Iyashikei,Kuudere,Demons,Foreign
     studio: MADHOUSE
     seasons:
       1:
@@ -5619,7 +5619,7 @@ metadata:
       Steins;Gate
     original_title: |-
       Steins;Gate
-    genre.sync: Drama,Psychological,Sci-Fi,Thriller,Time Manipulation,Alternate Universe,Time Loop,Conspiracy,Tragedy,Memory Manipulation,Male Protagonist,Urban,Dystopian,Primarily Adult Cast,Dissociative Identities,Philosophy,Chuunibyou,Tsundere,Otaku Culture,Denpa
+    genre.sync: Drama,Psychological,Sci-Fi,Thriller,Time Manipulation,Alternate Universe,Time Loop,Conspiracy,Tragedy,Memory Manipulation,Male Protagonist,Urban,Dystopian,Primarily Adult Cast,Denpa,Dissociative Identities,Philosophy,Chuunibyou,Tsundere,Otaku Culture
     studio: WHITE FOX
     seasons:
       0:
@@ -6167,7 +6167,7 @@ metadata:
       Tondemo Skill de Isekai Hourou Meshi
     original_title: |-
       Campfire Cooking in Another World with my Absurd Skill
-    genre.sync: Adventure,Comedy,Fantasy,Food,Isekai,Found Family,Animals,Camping,Iyashikei,Male Protagonist,Gods,Travel
+    genre.sync: Adventure,Comedy,Fantasy,Food,Isekai,Found Family,Animals,Iyashikei,Camping,Male Protagonist,Gods,Travel
     studio: MAPPA
     seasons:
       1:
@@ -6215,7 +6215,7 @@ metadata:
       Toradora!
     original_title: |-
       Toradora!
-    genre.sync: Comedy,Drama,Romance,Slice of Life,Tsundere,Coming of Age,Love Triangle,Primarily Teen Cast,School,Heterosexual,Female Protagonist,Unrequited Love,Slapstick
+    genre.sync: Comedy,Drama,Romance,Slice of Life,Tsundere,Coming of Age,Love Triangle,Primarily Teen Cast,School,Heterosexual,Unrequited Love,Male Protagonist,Female Protagonist,Slapstick
     studio: J.C.STAFF
     seasons:
       0:
@@ -6626,7 +6626,7 @@ metadata:
       Witch Watch
     original_title: |-
       Witch Watch
-    genre.sync: Comedy,Drama,Fantasy,Romance,Slice of Life,Magic,Witch,Slapstick,Heterosexual,Found Family,Primarily Teen Cast,Female Protagonist,Urban Fantasy,Cohabitation,Shounen,Male Protagonist,Surreal Comedy,Episodic,Parody
+    genre.sync: Comedy,Drama,Fantasy,Romance,Slice of Life,Supernatural,Magic,Witch,Slapstick,Heterosexual,Found Family,Primarily Teen Cast,Female Protagonist,Urban Fantasy,Cohabitation,Shounen,Male Protagonist,Surreal Comedy,Episodic,Parody
     studio: Bibury Animation Studios
     seasons:
       1:
@@ -6786,7 +6786,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 5.1
     audience_rating: 6.7
-    critic_rating: 6.9
+    critic_rating: 6.8
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   412374:
@@ -6816,7 +6816,7 @@ metadata:
       Yoru no Kurage wa Oyogenai
     original_title: |-
       Jellyfish Can’t Swim in the Night
-    genre.sync: Drama,Music,Slice of Life,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Drawing,Urban,Band,Idol,Cute Girls Doing Cute Things,Transgender,LGBTQ+ Themes,Hikikomori
+    genre.sync: Drama,Music,Slice of Life,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Drawing,Urban,Band,Idol,Yuri,Cute Girls Doing Cute Things,Transgender,LGBTQ+ Themes,Hikikomori
     studio: Doga Kobo
     seasons:
       1:
