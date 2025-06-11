@@ -3497,34 +3497,6 @@ metadata:
     critic_rating: 7.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
-  402033:
-    title: |-
-      Shiguang Dailiren
-    sort_title: |-
-      Shiguang Dailiren
-    original_title: |-
-      Link Click
-    genre.sync: Drama,Mystery,Supernatural,Thriller,Time Manipulation,Super Power,Body Swapping,Photography,Primarily Adult Cast,Tragedy,Male Protagonist,Crime,Urban Fantasy,Memory Manipulation,Urban,Episodic
-    studio: Studio LAN
-    seasons:
-      0:
-        label.remove: Score
-      1:
-        title: |-
-          Shiguang Dailiren
-        label: Score,Dropped,2021 Spring
-        label.remove: Completed,Watching,Paused,Planning
-        user_rating: 8.6
-      2:
-        title: |-
-          Shiguang Dailiren II
-        label: Score,2023 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.6
-    audience_rating: 8.6
-    critic_rating: 8.6
-    label: Planned,Dropped
-    label.remove: Airing,Ended,Completed,Watching,Paused,Planning
   318161:
     title: |-
       Little Witch Academia (TV)
@@ -5298,6 +5270,34 @@ metadata:
     critic_rating: 8.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  402033:
+    title: |-
+      Shiguang Dailiren
+    sort_title: |-
+      Shiguang Dailiren
+    original_title: |-
+      Link Click
+    genre.sync: Drama,Mystery,Supernatural,Thriller,Time Manipulation,Super Power,Body Swapping,Photography,Primarily Adult Cast,Tragedy,Male Protagonist,Crime,Urban Fantasy,Memory Manipulation,Urban,Episodic
+    studio: Studio LAN
+    seasons:
+      0:
+        label.remove: Score
+      1:
+        title: |-
+          Shiguang Dailiren
+        label: Score,Dropped,2021 Spring
+        label.remove: Completed,Watching,Paused,Planning
+        user_rating: 8.6
+      2:
+        title: |-
+          Shiguang Dailiren II
+        label: Score,2023 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 8.6
+    audience_rating: 8.6
+    critic_rating: 8.6
+    label: Planned,Dropped
+    label.remove: Airing,Ended,Completed,Watching,Paused,Planning
   449857:
     title: |-
       Shin Samurai-den YAIBA
