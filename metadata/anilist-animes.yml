@@ -1428,7 +1428,7 @@ metadata:
       Dorohedoro
     original_title: |-
       Dorohedoro
-    genre.sync: Action,Adventure,Comedy,Fantasy,Horror,Mystery,Monster Boy,Dystopian,Magic,Amnesia,CGI,Full CGI,Gore,Surreal Comedy,Seinen,Ensemble Cast,Body Horror,Anti-Hero,Urban Fantasy,Anthropomorphism,Primarily Adult Cast,Curses,Demons,Revenge
+    genre.sync: Action,Adventure,Comedy,Fantasy,Horror,Mystery,Monster Boy,Dystopian,Magic,CGI,Amnesia,Full CGI,Gore,Surreal Comedy,Ensemble Cast,Body Horror,Seinen,Anti-Hero,Anthropomorphism,Urban Fantasy,Primarily Adult Cast,Curses,Demons,Revenge
     studio: MAPPA
     seasons:
       0:
@@ -1696,13 +1696,13 @@ metadata:
       1:
         title: |-
           Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru
-        label: Score,Watching,2025 Winter
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Dropped,2025 Winter
+        label.remove: Completed,Watching,Paused,Planning
         user_rating: 6.3
     audience_rating: 6.3
     critic_rating: 6.3
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   375271:
     title: |-
       Fumetsu no Anata e
@@ -2716,8 +2716,8 @@ metadata:
           Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru
         label: Score,Watching,2025 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
+        user_rating: 7.1
+    audience_rating: 7.1
     critic_rating: 7.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -4895,7 +4895,7 @@ metadata:
       Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
     original_title: |-
       The Beginning After the End
-    genre.sync: Action,Adventure,Fantasy,Magic,Isekai,War,Reincarnation,Medieval,Male Protagonist,CGI
+    genre.sync: Action,Adventure,Fantasy,Magic,Reincarnation,Isekai,War,Medieval,Male Protagonist,CGI
     studio: studio A-CAT
     seasons:
       1:
