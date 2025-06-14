@@ -5294,8 +5294,14 @@ metadata:
         label: Score,2023 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.6
-    audience_rating: 8.6
-    critic_rating: 8.6
+      3:
+        title: |-
+          Shiguang Dailiren: Yingdu Pian
+        label: Score,2024 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 8.3
+    audience_rating: 8.5
+    critic_rating: 8.5
     label: Planned,Dropped
     label.remove: Airing,Ended,Completed,Watching,Paused,Planning
   449857:
