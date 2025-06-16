@@ -777,6 +777,28 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  79604:
+    title: |-
+      Black Lagoon
+    sort_title: |-
+      Black Lagoon
+    original_title: |-
+      Black Lagoon
+    genre.sync: Action,Adventure,Drama,Thriller,Crime,Guns,Seinen,Primarily Adult Cast,Pirates,Anti-Hero,Gangs,Ensemble Cast,Travel,Mafia,Tomboy,Assassins,Female Protagonist,Foreign,Ships,Military
+    studio: MADHOUSE
+    seasons:
+      0:
+        label.remove: Score
+      1:
+        title: |-
+          Black Lagoon
+        label: Score,2006 Fall,2006 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.9
+    audience_rating: 7.9
+    critic_rating: 8.1
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   74796:
     title: |-
       Bleach
@@ -4186,7 +4208,7 @@ metadata:
       Ninja to Koroshiya no Futarigurashi
     original_title: |-
       A Ninja and an Assassin Under One Roof
-    genre.sync: Comedy,Female Protagonist,Urban,Slapstick,Anti-Hero,Primarily Female Cast,Assassins,Ninja,Cute Girls Doing Cute Things,Surreal Comedy,Tragedy,Yuri,Fugitive,LGBTQ+ Themes,Yandere
+    genre.sync: Comedy,Urban,Female Protagonist,Slapstick,Primarily Female Cast,Anti-Hero,Assassins,Ninja,Cute Girls Doing Cute Things,Surreal Comedy,Tragedy,Yuri,Fugitive,LGBTQ+ Themes
     studio: Shaft
     seasons:
       1:
@@ -4194,8 +4216,8 @@ metadata:
           Ninja to Koroshiya no Futarigurashi
         label: Score,Watching,2025 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.2
+        user_rating: 7.3
+    audience_rating: 7.3
     critic_rating: 7.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -5519,7 +5541,7 @@ metadata:
       Skip to Loafer
     original_title: |-
       Skip and Loafer
-    genre.sync: Comedy,Romance,Slice of Life,School,Female Protagonist,Primarily Teen Cast,Coming of Age,Urban,Heterosexual,Seinen,Iyashikei
+    genre.sync: Comedy,Romance,Slice of Life,School,Female Protagonist,Primarily Teen Cast,Coming of Age,Urban,Seinen,Heterosexual,Iyashikei
     studio: P.A.WORKS
     seasons:
       1:
@@ -5605,7 +5627,7 @@ metadata:
       Sousou no Frieren
     original_title: |-
       Frieren: Beyond Journey’s End
-    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Philosophy,Time Skip,Found Family,Female Protagonist,Medieval,Iyashikei,Kuudere,Demons,Foreign
+    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Philosophy,Time Skip,Found Family,Female Protagonist,Medieval,Iyashikei,Kuudere,Yuri,Foreign,Demons
     studio: MADHOUSE
     seasons:
       1:
@@ -5625,7 +5647,7 @@ metadata:
       Spy×family
     original_title: |-
       SPY x FAMILY
-    genre.sync: Action,Comedy,Slice of Life,Supernatural,Family Life,Espionage,Found Family,Assassins,Shounen,Fake Relationship,Conspiracy,Adoption,Crime,Female Protagonist,Male Protagonist,Slapstick,Urban,Foreign,Parenthood,Super Power,School,Ensemble Cast,Heterosexual,Surreal Comedy
+    genre.sync: Action,Comedy,Slice of Life,Supernatural,Family Life,Espionage,Found Family,Assassins,Shounen,Fake Relationship,Conspiracy,Adoption,Female Protagonist,Crime,Male Protagonist,Foreign,Slapstick,Urban,Parenthood,Super Power,School,Ensemble Cast,Surreal Comedy,Heterosexual
     studio: CloverWorks
     seasons:
       0:
@@ -5853,7 +5875,7 @@ metadata:
       Tengen Toppa Gurren Lagann
     original_title: |-
       Gurren Lagann
-    genre.sync: Action,Comedy,Drama,Mecha,Romance,Sci-Fi,Super Robot,Coming of Age,Dystopian,Found Family,Male Protagonist,Post-Apocalyptic,Primarily Adult Cast,Space Opera,Tragedy,Travel,War,Space,Class Struggle,Aliens,Time Skip,Desert,Politics,Anthropomorphism,Outdoor Activities,Philosophy,Heterosexual
+    genre.sync: Action,Comedy,Drama,Mecha,Romance,Sci-Fi,Super Robot,Coming of Age,Found Family,Male Protagonist,Dystopian,Post-Apocalyptic,Space Opera,Tragedy,War,Travel,Space,Class Struggle,Primarily Adult Cast,Aliens,Time Skip,Politics,Anthropomorphism,Desert,Outdoor Activities,Philosophy,Heterosexual
     studio: Gainax
     seasons:
       0:
@@ -6347,7 +6369,7 @@ metadata:
           Tsurune: Kazemai Koukou Kyuudou-bu
         label: Score,Completed,2018 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.5
+        user_rating: 7.6
       2:
         title: |-
           Tsurune: Tsunagari no Issha
@@ -6438,7 +6460,7 @@ metadata:
       Uma Musume: Cinderella Gray
     original_title: |-
       Umamusume: Cinderella Gray
-    genre.sync: Drama,Sports,Primarily Female Cast,Athletics,Female Protagonist,Kemonomimi,Seinen,Historical
+    genre.sync: Drama,Sports,Athletics,Primarily Female Cast,Female Protagonist,Kemonomimi,Seinen,Historical
     studio: CygamesPictures
     seasons:
       1:
@@ -6448,7 +6470,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.2
     audience_rating: 8.2
-    critic_rating: 8.3
+    critic_rating: 8.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   423030:
@@ -6526,7 +6548,7 @@ metadata:
       Vanitas no Carte
     original_title: |-
       The Case Study of Vanitas
-    genre.sync: Drama,Fantasy,Mystery,Supernatural,Vampire,Male Protagonist,Conspiracy,Foreign,Steampunk,Tragedy,Anti-Hero,Heterosexual,Primarily Adult Cast,Tsundere,Anachronism,Historical
+    genre.sync: Action,Drama,Fantasy,Mystery,Supernatural,Vampire,Conspiracy,Male Protagonist,Foreign,Steampunk,Cute Boys Doing Cute Things,Tragedy,Heterosexual,Anti-Hero,Primarily Adult Cast,Tsundere,Anachronism,Historical
     studio: bones
     seasons:
       1:
@@ -6660,7 +6682,7 @@ metadata:
       Witch Watch
     original_title: |-
       Witch Watch
-    genre.sync: Comedy,Drama,Fantasy,Romance,Slice of Life,Supernatural,Magic,Witch,Slapstick,Heterosexual,Found Family,Primarily Teen Cast,Female Protagonist,Urban Fantasy,Cohabitation,Shounen,Male Protagonist,Surreal Comedy,Episodic,Parody
+    genre.sync: Comedy,Drama,Fantasy,Romance,Slice of Life,Supernatural,Magic,Witch,Female Protagonist,Slapstick,Heterosexual,Found Family,Male Protagonist,Primarily Teen Cast,Shounen,Urban Fantasy,Surreal Comedy,Cohabitation,Episodic,Otaku Culture,Parody
     studio: Bibury Animation Studios
     seasons:
       1:
@@ -6850,7 +6872,7 @@ metadata:
       Yoru no Kurage wa Oyogenai
     original_title: |-
       Jellyfish Can’t Swim in the Night
-    genre.sync: Drama,Music,Slice of Life,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Drawing,Urban,Band,Idol,Yuri,Cute Girls Doing Cute Things,Transgender,LGBTQ+ Themes,Hikikomori
+    genre.sync: Drama,Music,Slice of Life,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Drawing,Urban,Band,Idol,Cute Girls Doing Cute Things,Transgender,LGBTQ+ Themes,Hikikomori,Yuri
     studio: Doga Kobo
     seasons:
       1:
