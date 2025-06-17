@@ -388,7 +388,7 @@ metadata:
       Apocalypse Hotel
     original_title: |-
       Apocalypse Hotel
-    genre.sync: Comedy,Sci-Fi,Slice of Life,Female Protagonist,Post-Apocalyptic,Artificial Intelligence,Robots,Anthropomorphism,Urban,Aliens,Work,Inn,Time Skip,Iyashikei,Shapeshifting
+    genre.sync: Comedy,Sci-Fi,Slice of Life,Female Protagonist,Post-Apocalyptic,Robots,Artificial Intelligence,Aliens,Anthropomorphism,Work,Urban,Inn,Time Skip,Iyashikei,Parody,Shapeshifting
     studio: CygamesPictures
     seasons:
       1:
@@ -514,7 +514,7 @@ metadata:
       Aru Majo ga Shinu Made
     original_title: |-
       Once Upon a Witch's Death
-    genre.sync: Adventure,Drama,Fantasy,Female Protagonist,Witch,Primarily Female Cast,Curses,Magic,Urban Fantasy,Bisexual,Foreign,Iyashikei,Found Family
+    genre.sync: Adventure,Drama,Fantasy,Female Protagonist,Witch,Curses,Magic,Primarily Female Cast,Iyashikei,Found Family,Urban Fantasy,Orphan,Foreign,Coming of Age
     studio: EMT Squared
     seasons:
       1:
@@ -525,8 +525,8 @@ metadata:
         user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 7.1
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   278152:
     title: |-
       Baby Steps
@@ -641,8 +641,8 @@ metadata:
         user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 7.0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   439765:
     title: |-
       BanG Dream! Ave Mujica
@@ -1618,7 +1618,7 @@ metadata:
       Enen no Shouboutai
     original_title: |-
       Fire Force
-    genre.sync: Action,Drama,Sci-Fi,Supernatural,Firefighters,Super Power,Urban Fantasy,Shounen,Conspiracy,Demons,Cult,Religion,Male Protagonist,Nudity,Urban,Post-Apocalyptic,Rescue,Tragedy,Ensemble Cast,Dystopian,Slapstick
+    genre.sync: Action,Drama,Sci-Fi,Supernatural,Firefighters,Urban Fantasy,Super Power,Shounen,Conspiracy,Demons,Cult,Religion,Male Protagonist,Urban,Nudity,Post-Apocalyptic,Rescue,Tragedy,Ensemble Cast,Dystopian,Slapstick
     studio: David Production
     seasons:
       1:
@@ -2079,13 +2079,13 @@ metadata:
       1:
         title: |-
           Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite
-        label: Score,Watching,2025 Winter
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Dropped,2025 Winter
+        label.remove: Completed,Watching,Paused,Planning
         user_rating: 5.7
     audience_rating: 5.7
     critic_rating: 5.8
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   401856:
     title: |-
       Heion Sedai no Idaten-tachi
@@ -2858,7 +2858,7 @@ metadata:
       Kidou Senshi Gundam GQuuuuuuX
     original_title: |-
       Mobile Suit Gundam GQuuuuuuX
-    genre.sync: Action,Drama,Mecha,Sci-Fi,Space,Female Protagonist,Alternate Universe,Real Robot,Conspiracy,Guns,Cyberpunk,Super Robot,Politics,LGBTQ+ Themes,Space Opera,Robots,Heterosexual,Fugitive,Class Struggle,Swordplay,CGI,Bisexual
+    genre.sync: Action,Drama,Mecha,Sci-Fi,Space,Female Protagonist,Alternate Universe,Real Robot,Conspiracy,LGBTQ+ Themes,Heterosexual,Cyberpunk,Politics,Robots,Guns,Super Robot,Space Opera,Tragedy,Fugitive,Bisexual,Class Struggle,Love Triangle,Swordplay,CGI,Military
     studio: Studio Khara
     seasons:
       1:
@@ -3644,7 +3644,7 @@ metadata:
       Magic Maker: Isekai Mahou no Tsukurikata
     original_title: |-
       Magic Maker: How to Make Magic in Another World
-    genre.sync: Action,Adventure,Fantasy,Slice of Life,Magic,Isekai,Reincarnation,Male Protagonist,Demons
+    genre.sync: Action,Adventure,Fantasy,Slice of Life,Magic,Isekai,Reincarnation,Fairy,Male Protagonist,Demons
     studio: Studio DEEN
     seasons:
       1:
@@ -5749,8 +5749,8 @@ metadata:
           Summer Pockets
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
+        user_rating: 6.9
+    audience_rating: 6.9
     critic_rating: 7.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -6576,8 +6576,8 @@ metadata:
           Vigilante: Boku no Hero Academia ILLEGALS
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.4
+        user_rating: 7.5
+    audience_rating: 7.5
     critic_rating: 7.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
