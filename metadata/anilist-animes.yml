@@ -2430,13 +2430,13 @@ metadata:
       1:
         title: |-
           Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru
-        label: Score,Watching,2025 Spring
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Spring
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.3
     audience_rating: 6.3
     critic_rating: 6.5
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   449884:
     title: |-
       Izure Saikyou no Renkinjutsushi?
@@ -2740,7 +2740,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
-    critic_rating: 7.5
+    critic_rating: 7.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   441260:
@@ -4917,7 +4917,7 @@ metadata:
       Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
     original_title: |-
       The Beginning After the End
-    genre.sync: Action,Adventure,Fantasy,Magic,Reincarnation,Isekai,War,Medieval,Male Protagonist,CGI
+    genre.sync: Action,Adventure,Fantasy,Magic,Isekai,War,Reincarnation,Medieval,Male Protagonist,CGI
     studio: studio A-CAT
     seasons:
       1:
@@ -4925,9 +4925,9 @@ metadata:
           Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
         label: Score,Completed,2025 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 5.4
-    audience_rating: 5.4
-    critic_rating: 5.2
+        user_rating: 5.6
+    audience_rating: 5.6
+    critic_rating: 5.9
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   423732:
@@ -6668,13 +6668,13 @@ metadata:
       2:
         title: |-
           WIND BREAKER Season 2
-        label: Score,Watching,2025 Spring
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,2025 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.7
     audience_rating: 7.8
     critic_rating: 7.8
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   453127:
     title: |-
       Witch Watch
