@@ -1636,13 +1636,13 @@ metadata:
       3:
         title: |-
           Enen no Shouboutai: San no Shou
-        label: Score,Watching,2025 Spring
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Spring
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 7.7
     critic_rating: 7.8
-    label: Planned,Watching
-    label.remove: Airing,Ended,Dropped,Paused,Planning
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   410031:
     title: |-
       Fairy Tail: 100 Years Quest
@@ -2776,13 +2776,13 @@ metadata:
       1:
         title: |-
           Katainaka no Ossan, Kensei ni Naru
-        label: Score,Watching,2025 Spring
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Spring
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 7.0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   132941:
     title: |-
       Katanagatari
@@ -4424,8 +4424,8 @@ metadata:
         user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.6
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   412826:
     title: |-
       Otomege Sekai wa Mob ni Kibishii Sekai desu
@@ -5578,8 +5578,8 @@ metadata:
         user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 6.8
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   372921:
     title: |-
       Somali to Mori no Kamisama
