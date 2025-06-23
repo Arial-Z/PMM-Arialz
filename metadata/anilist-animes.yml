@@ -5187,9 +5187,9 @@ metadata:
           Sentai Daishikkaku 2nd Season
         label: Score,Watching,2025 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.2
-    critic_rating: 7.4
+        user_rating: 7.0
+    audience_rating: 7.1
+    critic_rating: 7.3
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   396876:
@@ -5561,7 +5561,7 @@ metadata:
       Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita
     original_title: |-
       I've Been Killing Slimes for 300 Years and Maxed Out My Level
-    genre.sync: Adventure,Comedy,Fantasy,Slice of Life,Primarily Female Cast,Female Protagonist,Found Family,Family Life,Witch,Iyashikei,Cute Girls Doing Cute Things,Rural,Reincarnation,Isekai,Parenthood,Dragons,Monster Girl,Episodic,Demons,Elf,Time Skip,Magic,Slapstick
+    genre.sync: Adventure,Comedy,Fantasy,Slice of Life,Primarily Female Cast,Female Protagonist,Found Family,Family Life,Witch,Iyashikei,Cute Girls Doing Cute Things,Rural,Reincarnation,Isekai,Parenthood,Dragons,Episodic,Monster Girl,Demons,Elf,Magic,Time Skip,Slapstick
     studio: REVOROOT
     seasons:
       1:
@@ -5627,7 +5627,7 @@ metadata:
       Sousou no Frieren
     original_title: |-
       Frieren: Beyond Journey’s End
-    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Philosophy,Time Skip,Found Family,Female Protagonist,Medieval,Iyashikei,Kuudere,Yuri,Foreign,Demons
+    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Philosophy,Time Skip,Found Family,Female Protagonist,Medieval,Iyashikei,Kuudere,Demons,Foreign
     studio: MADHOUSE
     seasons:
       1:
@@ -6139,8 +6139,8 @@ metadata:
           Tokyo Ghoul:re
         label: Score,Completed,2018 Fall,2018 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.7
+        user_rating: 6.2
+    audience_rating: 6.8
     critic_rating: 7.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -6171,7 +6171,7 @@ metadata:
       Tokyo Revengers
     original_title: |-
       Tokyo Revengers
-    genre.sync: Action,Drama,Romance,Supernatural,Gangs,Delinquents,Time Manipulation,Age Regression,Male Protagonist,Tragedy,Primarily Male Cast,Urban,Crime,Ensemble Cast,Alternate Universe,Revenge,Shounen,Motorcycles,Heterosexual
+    genre.sync: Action,Drama,Romance,Supernatural,Gangs,Delinquents,Time Manipulation,Age Regression,Male Protagonist,Tragedy,Primarily Male Cast,Urban,Ensemble Cast,Crime,Revenge,Alternate Universe,Shounen,Motorcycles,Heterosexual,Bullying
     studio: LIDENFILMS
     seasons:
       1:
@@ -6193,7 +6193,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.7
     audience_rating: 7.7
-    critic_rating: 7.8
+    critic_rating: 7.7
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   418368:
@@ -6203,7 +6203,7 @@ metadata:
       Tonari no Youkai-san
     original_title: |-
       Tonari no Yokai-san
-    genre.sync: Drama,Slice of Life,Supernatural,Youkai,Urban Fantasy,Rural,Josei,Heterosexual,Alternate Universe,Iyashikei
+    genre.sync: Drama,Slice of Life,Supernatural,Youkai,Urban Fantasy,Rural,Josei,Heterosexual,Alternate Universe,Tragedy,Iyashikei
     studio: LIDENFILMS
     seasons:
       1:
@@ -6430,7 +6430,7 @@ metadata:
           Uchuu Senkan Yamato 2199
         label: Score,Completed,2012 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.1
+        user_rating: 8.0
       2:
         title: |-
           Uchuu Senkan Yamato 2202: Ai no Senshi-tachi
@@ -6468,8 +6468,8 @@ metadata:
           Uma Musume: Cinderella Gray
         label: Score,Watching,2025 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.2
-    audience_rating: 8.2
+        user_rating: 8.3
+    audience_rating: 8.3
     critic_rating: 8.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -6682,7 +6682,7 @@ metadata:
       Witch Watch
     original_title: |-
       Witch Watch
-    genre.sync: Comedy,Drama,Fantasy,Romance,Slice of Life,Supernatural,Magic,Witch,Female Protagonist,Slapstick,Heterosexual,Found Family,Male Protagonist,Primarily Teen Cast,Shounen,Urban Fantasy,Surreal Comedy,Cohabitation,Episodic,Otaku Culture,Parody
+    genre.sync: Comedy,Drama,Fantasy,Romance,Slice of Life,Supernatural,Magic,Witch,Female Protagonist,Slapstick,Found Family,Male Protagonist,Surreal Comedy,Heterosexual,Primarily Teen Cast,Urban Fantasy,Shounen,Cohabitation,Episodic,Otaku Culture,Parody
     studio: Bibury Animation Studios
     seasons:
       1:
@@ -6892,7 +6892,7 @@ metadata:
       Youjo Senki
     original_title: |-
       Saga of Tanya the Evil
-    genre.sync: Action,Fantasy,Military,War,Anti-Hero,Female Protagonist,Revenge,Primarily Adult Cast,Isekai,Reincarnation,Gods,Magic,Philosophy,Religion,Historical,Foreign,Gender Bending,Guns,Politics
+    genre.sync: Action,Fantasy,Military,War,Anti-Hero,Female Protagonist,Revenge,Primarily Adult Cast,Isekai,Reincarnation,Gods,Magic,Philosophy,Religion,Historical,Foreign,Politics,Gender Bending,Guns
     studio: NUT
     seasons:
       0:
@@ -7053,8 +7053,8 @@ metadata:
         user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 6.9
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   447955:
     title: |-
       Zenshuu.
