@@ -6448,8 +6448,8 @@ metadata:
           Yamato yo Towa ni: REBEL3199
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.5
-    audience_rating: 7.1
+        user_rating: 5.4
+    audience_rating: 7.0
     critic_rating: 7.7
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
@@ -6957,8 +6957,8 @@ metadata:
         user_rating: 5.7
     audience_rating: 5.7
     critic_rating: 6.1
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   424019:
     title: |-
       Yozakura-san Chi no Daisakusen
