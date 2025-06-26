@@ -2730,7 +2730,7 @@ metadata:
       Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru
     original_title: |-
       The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom
-    genre.sync: Fantasy,Romance,Shoujo,Kuudere,Magic,Female Protagonist,Revenge,Royal Affairs
+    genre.sync: Fantasy,Romance,Kuudere,Shoujo,Female Protagonist,Magic,Revenge,Royal Affairs
     studio: TROYCA
     seasons:
       1:
@@ -2740,7 +2740,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
-    critic_rating: 7.4
+    critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   441260:
@@ -3152,13 +3152,13 @@ metadata:
       2:
         title: |-
           Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II
-        label: Score,Watching,2024 Summer
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2024 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 6.7
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   414562:
     title: |-
       Kimi wa Houkago Insomnia
@@ -4214,13 +4214,13 @@ metadata:
       1:
         title: |-
           Ninja to Koroshiya no Futarigurashi
-        label: Score,Watching,2025 Spring
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Spring
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.4
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   275610:
     title: |-
       Noragami
@@ -4788,8 +4788,8 @@ metadata:
         user_rating: 7.5
     audience_rating: 7.5
     critic_rating: 7.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   423787:
     title: |-
       Romantic Killer
@@ -4925,9 +4925,9 @@ metadata:
           Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
         label: Score,Completed,2025 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 5.6
-    audience_rating: 5.6
-    critic_rating: 5.9
+        user_rating: 5.8
+    audience_rating: 5.8
+    critic_rating: 6.0
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   423732:
@@ -5373,7 +5373,7 @@ metadata:
       Shingeki no Kyojin
     original_title: |-
       Attack on Titan
-    genre.sync: Action,Drama,Fantasy,Mystery,Revenge,Kaiju,Male Protagonist,Tragedy,Military,Post-Apocalyptic,Primarily Teen Cast,Super Power,Henshin,Steampunk,Swordplay,Memory Manipulation,Gore,Dystopian,Ensemble Cast,Orphan,Kuudere,Espionage,Cannibalism
+    genre.sync: Action,Drama,Fantasy,Mystery,Revenge,Kaiju,Male Protagonist,Tragedy,Military,Post-Apocalyptic,Primarily Teen Cast,Super Power,Henshin,Steampunk,Swordplay,Gore,Memory Manipulation,Dystopian,Ensemble Cast,Orphan,Kuudere,Espionage,Cannibalism
     studio: WIT STUDIO
     seasons:
       0:
@@ -6672,7 +6672,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.7
     audience_rating: 7.8
-    critic_rating: 7.8
+    critic_rating: 7.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   453127:
@@ -6946,7 +6946,7 @@ metadata:
       Your Forma
     original_title: |-
       Your Forma
-    genre.sync: Action,Drama,Mystery,Sci-Fi,Detective,Female Protagonist,Cyberpunk,Crime,Male Protagonist
+    genre.sync: Action,Drama,Mystery,Sci-Fi,Detective,Female Protagonist,Cyberpunk,Male Protagonist,Crime,Robots
     studio: Geno Studio
     seasons:
       1:
@@ -6954,9 +6954,9 @@ metadata:
           Your Forma
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.7
-    audience_rating: 5.7
-    critic_rating: 6.1
+        user_rating: 5.8
+    audience_rating: 5.8
+    critic_rating: 6.2
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   424019:
