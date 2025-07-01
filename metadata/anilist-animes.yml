@@ -388,7 +388,7 @@ metadata:
       Apocalypse Hotel
     original_title: |-
       Apocalypse Hotel
-    genre.sync: Comedy,Sci-Fi,Slice of Life,Post-Apocalyptic,Robots,Female Protagonist,Anthropomorphism,Work,Urban,Aliens,Artificial Intelligence,Inn,Surreal Comedy,Iyashikei,Time Skip,Parody,Shapeshifting
+    genre.sync: Comedy,Sci-Fi,Slice of Life,Post-Apocalyptic,Robots,Work,Female Protagonist,Anthropomorphism,Urban,Aliens,Artificial Intelligence,Inn,Surreal Comedy,Time Skip,Iyashikei,Parody,Space,Shapeshifting
     studio: CygamesPictures
     seasons:
       1:
@@ -396,9 +396,9 @@ metadata:
           Apocalypse Hotel
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
-    critic_rating: 7.8
+        user_rating: 8.0
+    audience_rating: 8.0
+    critic_rating: 8.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   453353:
@@ -1618,7 +1618,7 @@ metadata:
       Enen no Shouboutai
     original_title: |-
       Fire Force
-    genre.sync: Action,Drama,Sci-Fi,Supernatural,Firefighters,Urban Fantasy,Super Power,Shounen,Conspiracy,Demons,Cult,Religion,Male Protagonist,Urban,Post-Apocalyptic,Rescue,Tragedy,Ensemble Cast,Dystopian,Slapstick
+    genre.sync: Action,Drama,Sci-Fi,Supernatural,Firefighters,Super Power,Urban Fantasy,Demons,Shounen,Conspiracy,Cult,Religion,Male Protagonist,Urban,Post-Apocalyptic,Rescue,Tragedy,Ensemble Cast,Dystopian,Slapstick
     studio: David Production
     seasons:
       1:
@@ -2858,7 +2858,7 @@ metadata:
       Kidou Senshi Gundam GQuuuuuuX
     original_title: |-
       Mobile Suit Gundam GQuuuuuuX
-    genre.sync: Action,Drama,Mecha,Sci-Fi,Female Protagonist,Space,Alternate Universe,Real Robot,Heterosexual,Conspiracy,Cyberpunk,Tragedy,Guns,Robots,Love Triangle,Space Opera,Super Robot,Politics,Fugitive,CGI,Class Struggle,Swordplay,Military
+    genre.sync: Action,Drama,Mecha,Sci-Fi,Space,Female Protagonist,Alternate Universe,Real Robot,Conspiracy,Heterosexual,Cyberpunk,Space Opera,Politics,Robots,Guns,Super Robot,Tragedy,Love Triangle,Fugitive,CGI,Espionage,Meta,Isekai,Swordplay,Military
     studio: Studio Khara
     seasons:
       1:
@@ -2866,9 +2866,9 @@ metadata:
           Kidou Senshi Gundam GQuuuuuuX
         label: Score,Watching,2025 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.3
-    audience_rating: 7.3
-    critic_rating: 7.4
+        user_rating: 7.0
+    audience_rating: 7.0
+    critic_rating: 7.1
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   254931:
@@ -3008,7 +3008,7 @@ metadata:
       Kijin Gentoushou
     original_title: |-
       Sword of the Demon Hunter: Kijin Gentosho
-    genre.sync: Action,Adventure,Fantasy,Demons,Male Protagonist,Swordplay,Historical,Tragedy,Rape
+    genre.sync: Action,Adventure,Fantasy,Demons,Male Protagonist,Swordplay,Historical,Tragedy,Rape,Time Skip
     studio: Yokohama Animation Lab
     seasons:
       1:
@@ -3644,7 +3644,7 @@ metadata:
       Magic Maker: Isekai Mahou no Tsukurikata
     original_title: |-
       Magic Maker: How to Make Magic in Another World
-    genre.sync: Action,Adventure,Fantasy,Slice of Life,Magic,Isekai,Reincarnation,Fairy,Male Protagonist,Demons
+    genre.sync: Action,Adventure,Fantasy,Slice of Life,Magic,Isekai,Reincarnation,Male Protagonist,Demons
     studio: Studio DEEN
     seasons:
       1:
@@ -5435,7 +5435,7 @@ metadata:
       Shiunji-ke no Kodomotachi
     original_title: |-
       The Shiunji Family Children
-    genre.sync: Comedy,Romance,Inseki,Adoption,Female Harem,Male Protagonist,Primarily Female Cast,Seinen,Heterosexual,School
+    genre.sync: Comedy,Romance,Inseki,Adoption,Female Harem,Male Protagonist,Primarily Female Cast,Heterosexual,Seinen,Coming of Age
     studio: Doga Kobo
     seasons:
       1:
@@ -5443,8 +5443,8 @@ metadata:
           Shiunji-ke no Kodomotachi
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
+        user_rating: 7.0
+    audience_rating: 7.0
     critic_rating: 7.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
@@ -6576,11 +6576,11 @@ metadata:
           Vigilante: Boku no Hero Academia ILLEGALS
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
-    critic_rating: 7.6
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.6
+    audience_rating: 7.6
+    critic_rating: 7.7
+    label: Planned
+    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   359274:
     title: |-
       Vinland Saga
@@ -7042,7 +7042,7 @@ metadata:
       Zatsu Tabi: That's Journey
     original_title: |-
       ZatsuTabi -That's Journey-
-    genre.sync: Adventure,Comedy,Drama,Slice of Life,Travel,Female Protagonist,Primarily Female Cast,Iyashikei,Seinen,Cute Girls Doing Cute Things,Primarily Adult Cast
+    genre.sync: Adventure,Comedy,Drama,Slice of Life,Travel,Female Protagonist,Primarily Female Cast,Iyashikei,Seinen,Cute Girls Doing Cute Things,Primarily Adult Cast,Yuri
     studio: Makaria
     seasons:
       1:
@@ -7050,8 +7050,8 @@ metadata:
           Zatsu Tabi: That's Journey
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 6.9
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
