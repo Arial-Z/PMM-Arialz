@@ -1293,8 +1293,8 @@ metadata:
         user_rating: 8.4
     audience_rating: 8.4
     critic_rating: 8.5
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   423264:
     title: |-
       Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)
@@ -2473,7 +2473,7 @@ metadata:
         label: Score,Completed,2023 Summer
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.3
-    audience_rating: 6.3
+    audience_rating: -6.3
     critic_rating: 6.4
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
