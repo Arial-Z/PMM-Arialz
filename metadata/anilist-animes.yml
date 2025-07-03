@@ -1291,6 +1291,12 @@ metadata:
         label: Score,Completed,2024 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.4
+      2:
+        title: |-
+          Dandadan 2nd Season
+        label: Score,2025 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
     audience_rating: 8.4
     critic_rating: 8.5
     label: Airing,Completed
@@ -1712,7 +1718,7 @@ metadata:
       Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru
     original_title: |-
       Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest
-    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance,Male Protagonist,Female Harem,Mixed Gender Harem
+    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance,Male Protagonist,Female Harem,Mixed Gender Harem,Primarily Female Cast,Magic
     studio: Okuruto Noboru
     seasons:
       1:
@@ -2444,7 +2450,7 @@ metadata:
       Izure Saikyou no Renkinjutsushi?
     original_title: |-
       Possibly the Greatest Alchemist of All Time
-    genre.sync: Adventure,Fantasy,Isekai,Alchemy,Slavery,Creature Taming,Female Harem,Medieval
+    genre.sync: Adventure,Fantasy,Isekai,Alchemy,Slavery,Female Harem,Creature Taming,Medieval,Magic
     studio: Studio Comet
     seasons:
       1:
@@ -4787,7 +4793,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.7
     audience_rating: 7.7
-    critic_rating: 7.7
+    critic_rating: 7.9
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   423787:
@@ -4917,7 +4923,7 @@ metadata:
       Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
     original_title: |-
       The Beginning After the End
-    genre.sync: Action,Adventure,Fantasy,Magic,Isekai,War,Reincarnation,Medieval,Male Protagonist,CGI
+    genre.sync: Action,Adventure,Fantasy,Magic,Isekai,Reincarnation,Medieval,War,Male Protagonist,CGI
     studio: studio A-CAT
     seasons:
       1:
@@ -4927,7 +4933,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 5.8
     audience_rating: 5.8
-    critic_rating: 6.0
+    critic_rating: 6.1
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   423732:
@@ -6954,9 +6960,9 @@ metadata:
           Your Forma
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.8
-    audience_rating: 5.8
-    critic_rating: 6.2
+        user_rating: 5.9
+    audience_rating: 5.9
+    critic_rating: 6.3
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   424019:
