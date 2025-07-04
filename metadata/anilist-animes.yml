@@ -208,11 +208,11 @@ metadata:
           A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.
         label: Score,Watching,2025 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
+        user_rating: 6.5
+    audience_rating: 6.5
     critic_rating: 6.6
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Planned,Watching
+    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
   319983:
     title: |-
       ACCA: 13-ku Kansatsu-ka
@@ -477,7 +477,6 @@ metadata:
         label: Score,Completed,2023 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.4
-    audience_rating: 7.2
     critic_rating: 7.3
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
@@ -630,7 +629,7 @@ metadata:
       Ballpark de Tsukamaete!
     original_title: |-
       Catch Me at the Ballpark!
-    genre.sync: Comedy,Romance,Slice of Life,Sports,Ensemble Cast,Seinen,Work,Baseball,Iyashikei,Female Protagonist,Gyaru
+    genre.sync: Comedy,Romance,Slice of Life,Sports,Ensemble Cast,Seinen,Work,Baseball,Iyashikei,Female Protagonist,Episodic,Gyaru
     studio: EMT Squared
     seasons:
       1:
@@ -650,7 +649,7 @@ metadata:
       BanG Dream! Ave Mujica
     original_title: |-
       Ave Mujica - The Die is Cast -
-    genre.sync: Drama,Music,Psychological,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Acting,Full CGI,Yuri,Metal Music,Disability,LGBTQ+ Themes,Ensemble Cast,Musical Theater,Rock Music,Incest
+    genre.sync: Drama,Music,Psychological,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Acting,Full CGI,Metal Music,LGBTQ+ Themes,Disability,Ensemble Cast,Musical Theater,Rock Music,Incest,Yuri
     studio: SANZIGEN
     seasons:
       1:
@@ -1296,9 +1295,9 @@ metadata:
           Dandadan 2nd Season
         label: Score,2025 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    audience_rating: 8.4
-    critic_rating: 8.5
+        user_rating: 8.1
+    audience_rating: 8.2
+    critic_rating: 8.4
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   423264:
@@ -1308,7 +1307,7 @@ metadata:
       Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)
     original_title: |-
       Can a Boy-Girl Friendship Survive?
-    genre.sync: Comedy,Romance,Love Triangle,Heterosexual,School,Horticulture,Unrequited Love,Work,Coming of Age,Male Protagonist,Fashion,Kuudere,Female Protagonist
+    genre.sync: Comedy,Romance,Love Triangle,Heterosexual,Unrequited Love,Horticulture,School,Male Protagonist,Fashion,Work,Coming of Age,Female Protagonist
     studio: J.C.STAFF
     seasons:
       1:
@@ -1318,7 +1317,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.6
     audience_rating: 6.6
-    critic_rating: 6.7
+    critic_rating: 6.6
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   80042:
@@ -1646,7 +1645,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.7
     audience_rating: 7.7
-    critic_rating: 7.8
+    critic_rating: 7.7
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   410031:
@@ -3430,7 +3429,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.2
     audience_rating: 7.2
-    critic_rating: 7.5
+    critic_rating: 7.4
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   83996:
@@ -3503,8 +3502,8 @@ metadata:
         user_rating: 8.7
     audience_rating: 8.8
     critic_rating: 8.9
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   437408:
     title: |-
       Lazarus
@@ -3512,7 +3511,7 @@ metadata:
       Lazarus
     original_title: |-
       Lazarus
-    genre.sync: Action,Sci-Fi,Medicine,Episodic,Urban,Anti-Hero,Fugitive,Drugs,Parkour,Guns,Seinen,Crime,Ensemble Cast,Cyberpunk,Male Protagonist,Environmental,Espionage,Found Family
+    genre.sync: Action,Sci-Fi,Ensemble Cast,Crime,Medicine,Urban,Fugitive,Episodic,Drugs,Anti-Hero,Seinen,Environmental,Parkour,Cyberpunk,Guns,Male Protagonist,Found Family,Espionage
     studio: MAPPA
     seasons:
       1:
@@ -3520,9 +3519,9 @@ metadata:
           Lazarus
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 7.3
+        user_rating: 7.0
+    audience_rating: 7.0
+    critic_rating: 7.2
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   318161:
@@ -4014,8 +4013,8 @@ metadata:
           Moonrise
         label: Score,Watching,2025 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
+        user_rating: 6.5
+    audience_rating: 6.5
     critic_rating: 6.7
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
@@ -4783,7 +4782,7 @@ metadata:
       Rock wa Lady no Tashinami Deshite
     original_title: |-
       Rock is a Lady’s Modesty
-    genre.sync: Drama,Music,Female Protagonist,Band,Rock Music,Ojou-sama,Primarily Female Cast,School,Yuri,Seinen,Urban,Primarily Teen Cast,LGBTQ+ Themes,CGI
+    genre.sync: Drama,Music,Female Protagonist,Band,Rock Music,Ojou-sama,Primarily Female Cast,School,Yuri,Seinen,Urban,Primarily Teen Cast,CGI,LGBTQ+ Themes
     studio: Bandai Namco Pictures
     seasons:
       1:
@@ -6071,9 +6070,9 @@ metadata:
           Teogonia
         label: Score,Completed,2025 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
-    critic_rating: 6.8
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 6.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   436948:
@@ -6867,10 +6866,15 @@ metadata:
         label: Score,Completed,2022 Summer
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.9
-    audience_rating: 7.9
+      2:
+        title: |-
+          Yofukashi no Uta Season 2
+        label: Score,2025 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
     critic_rating: 7.9
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   432808:
     title: |-
       Yoru no Kurage wa Oyogenai
