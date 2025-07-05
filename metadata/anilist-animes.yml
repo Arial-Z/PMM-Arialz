@@ -3497,13 +3497,13 @@ metadata:
       2:
         title: |-
           Kusuriya no Hitorigoto 2nd Season
-        label: Score,Watching,2025 Winter
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Winter
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.7
     audience_rating: 8.8
     critic_rating: 8.9
-    label: Ended,Watching
-    label.remove: Planned,Airing,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   437408:
     title: |-
       Lazarus
@@ -5093,10 +5093,15 @@ metadata:
         label: Score,AA Winner,Completed,2018 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.0
-    audience_rating: 8.0
+      2:
+        title: |-
+          Seishun Buta Yarou wa Santa Claus no Yume wo Minai
+        label: Score,2025 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
     critic_rating: 8.2
-    label: AA Winner,Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: AA Winner,Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   173271:
     title: |-
       Seitokai Yakuindomo
@@ -5621,10 +5626,15 @@ metadata:
         label: Score,Completed,2022 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.0
-    audience_rating: 8.0
+      2:
+        title: |-
+          Sono Bisque Doll wa Koi wo Suru Season 2
+        label: Score,2025 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
     critic_rating: 8.1
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   424536:
     title: |-
       Sousou no Frieren
@@ -6871,8 +6881,9 @@ metadata:
           Yofukashi no Uta Season 2
         label: Score,2025 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 7.9
+        user_rating: 8.1
+    audience_rating: 8.0
+    critic_rating: 8.1
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   432808:
