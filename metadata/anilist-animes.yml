@@ -1771,7 +1771,9 @@ metadata:
           Gachiakuta
         label: Score,2025 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 7.8
+    audience_rating: 7.8
+    critic_rating: 8.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   267246:
@@ -1935,7 +1937,7 @@ metadata:
         label: Score,Completed,2018 Summer
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.2
-    audience_rating: 8.2
+    audience_rating: -8.2
     critic_rating: 8.4
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
@@ -4164,26 +4166,6 @@ metadata:
     critic_rating: 7.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  426199:
-    title: |-
-      Tsuyokute New Saga
-    sort_title: |-
-      Tsuyokute New Saga
-    original_title: |-
-      New Saga
-    genre.sync: Adventure,Fantasy,Female Harem,Male Protagonist
-    studio: Studio Massket
-    seasons:
-      1:
-        title: |-
-          Tsuyokute New Saga
-        label: Score,Watching,2025 Summer
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
-    critic_rating: 6.9
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   416998:
     title: |-
       NieR:Automata Ver1.1a
@@ -4251,7 +4233,7 @@ metadata:
       Ninja to Koroshiya no Futarigurashi
     original_title: |-
       A Ninja and an Assassin Under One Roof
-    genre.sync: Comedy,Urban,Female Protagonist,Primarily Female Cast,Assassins,Slapstick,Ninja,Anti-Hero,Cute Girls Doing Cute Things,Surreal Comedy,Fugitive,Yuri,Tragedy,LGBTQ+ Themes,Afterlife,Yandere,Robots
+    genre.sync: Comedy,Urban,Female Protagonist,Primarily Female Cast,Assassins,Slapstick,Ninja,Anti-Hero,Cute Girls Doing Cute Things,Surreal Comedy,Yuri,Fugitive,Tragedy,LGBTQ+ Themes,Afterlife,Yandere,Robots
     studio: Shaft
     seasons:
       1:
@@ -5095,24 +5077,6 @@ metadata:
     critic_rating: 6.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  452713:
-    title: |-
-      Yuusha Party wo Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugaisugiru
-    sort_title: |-
-      Yuusha Party wo Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugaisugiru
-    original_title: |-
-      Scooped Up by an S-Rank Adventurer!
-    genre.sync: Action,Adventure,Fantasy,Magic,Male Protagonist
-    studio: Felix Film
-    seasons:
-      1:
-        title: |-
-          Yuusha Party wo Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugaisugiru
-        label: Score,Watching,2025 Summer
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   425756:
     title: |-
       Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
@@ -5410,7 +5374,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
-    critic_rating: 7.4
+    critic_rating: 7.3
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   369048:
@@ -5522,7 +5486,7 @@ metadata:
       Shokei Shoujo no Virgin Road
     original_title: |-
       The Executioner and Her Way of Life
-    genre.sync: Action,Adventure,Drama,Fantasy,Anti-Hero,Magic,Memory Manipulation,Primarily Female Cast,Time Manipulation,Female Protagonist,Isekai,Assassins,Religion,Yuri,LGBTQ+ Themes,Gore
+    genre.sync: Action,Adventure,Drama,Fantasy,Anti-Hero,Memory Manipulation,Magic,Primarily Female Cast,Time Manipulation,Female Protagonist,Isekai,Assassins,Religion,LGBTQ+ Themes,Gore
     studio: J.C.STAFF
     seasons:
       1:
@@ -5654,7 +5618,7 @@ metadata:
       Somali to Mori no Kamisama
     original_title: |-
       Somali and the Forest Spirit
-    genre.sync: Adventure,Drama,Fantasy,Slice of Life,Adoption,Found Family,Female Protagonist,Travel,Family Life,Iyashikei,Lost Civilization,Elderly Protagonist,Parenthood,Survival,Male Protagonist,Demons,Youkai
+    genre.sync: Adventure,Drama,Fantasy,Slice of Life,Adoption,Found Family,Female Protagonist,Travel,Family Life,Iyashikei,Lost Civilization,Parenthood,Elderly Protagonist,Survival,Male Protagonist,Demons,Youkai
     studio: Satelight
     seasons:
       1:
@@ -6056,7 +6020,7 @@ metadata:
       Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu
     original_title: |-
       I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
-    genre.sync: Action,Adventure,Fantasy,Magic,Reincarnation,Male Protagonist,Femboy,Demons,Chibi,Female Harem,Cute Boys Doing Cute Things
+    genre.sync: Action,Adventure,Fantasy,Magic,Reincarnation,Male Protagonist,Femboy,Demons,Chibi,Female Harem,Cute Boys Doing Cute Things,Isekai,Swordplay
     studio: Tsumugi Akita Anime Lab
     seasons:
       1:
@@ -6076,7 +6040,7 @@ metadata:
       Tensei Shitara Ken Deshita
     original_title: |-
       Reincarnated as a Sword
-    genre.sync: Action,Adventure,Fantasy,Swordplay,Nekomimi,Orphan,Reincarnation,Isekai,Found Family,Female Protagonist,Magic,Kemonomimi,Dungeon
+    genre.sync: Action,Adventure,Fantasy,Swordplay,Nekomimi,Orphan,Reincarnation,Isekai,Female Protagonist,Found Family,Magic,Kemonomimi,Dungeon
     studio: C2C
     seasons:
       1:
@@ -6096,7 +6060,7 @@ metadata:
       Tensei Shitara Slime Datta Ken
     original_title: |-
       That Time I Got Reincarnated as a Slime
-    genre.sync: Action,Adventure,Comedy,Fantasy,Isekai,Found Family,Reincarnation,Magic,Kingdom Management,Super Power,Shounen,Shapeshifting,Economics,Alternate Universe,Ensemble Cast,Clone,Politics,Henshin,Monster Boy,Agender,Male Protagonist,Fairy,Monster Girl,Demons,Gender Bending,Goblin
+    genre.sync: Action,Adventure,Comedy,Fantasy,Isekai,Found Family,Reincarnation,Magic,Kingdom Management,Super Power,Shapeshifting,Economics,Alternate Universe,Ensemble Cast,Clone,Politics,Monster Boy,Henshin,Male Protagonist,Agender,Monster Girl,Fairy,Demons,Gender Bending,Goblin
     studio: 8-bit
     seasons:
       0:
@@ -6453,6 +6417,26 @@ metadata:
     critic_rating: 7.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  426199:
+    title: |-
+      Tsuyokute New Saga
+    sort_title: |-
+      Tsuyokute New Saga
+    original_title: |-
+      New Saga
+    genre.sync: Adventure,Fantasy,Female Harem,Male Protagonist
+    studio: Studio Massket
+    seasons:
+      1:
+        title: |-
+          Tsuyokute New Saga
+        label: Score,Watching,2025 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.9
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   446485:
     title: |-
       Übel Blatt
@@ -6503,7 +6487,7 @@ metadata:
           Uchuu Senkan Yamato 2199
         label: Score,Completed,2012 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.0
+        user_rating: 8.1
       2:
         title: |-
           Uchuu Senkan Yamato 2202: Ai no Senshi-tachi
@@ -6522,7 +6506,7 @@ metadata:
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 5.4
-    audience_rating: 7.0
+    audience_rating: 7.1
     critic_rating: 7.7
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
@@ -6543,7 +6527,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.4
     audience_rating: 8.4
-    critic_rating: 8.5
+    critic_rating: 8.4
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   423030:
@@ -6687,7 +6671,7 @@ metadata:
       Violet Evergarden
     original_title: |-
       Violet Evergarden
-    genre.sync: Drama,Fantasy,Slice of Life,Rehabilitation,Writing,Tragedy,Female Protagonist,Coming of Age,Kuudere,Work,War,Disability,Episodic,Military,Orphan,Travel
+    genre.sync: Drama,Fantasy,Slice of Life,Rehabilitation,Writing,Tragedy,Coming of Age,Female Protagonist,Kuudere,Work,War,Disability,Episodic,Military,Orphan,Travel
     studio: Kyoto Animation
     seasons:
       0:
@@ -6755,7 +6739,7 @@ metadata:
       Witch Watch
     original_title: |-
       Witch Watch
-    genre.sync: Comedy,Drama,Fantasy,Romance,Slice of Life,Supernatural,Magic,Witch,Female Protagonist,Slapstick,Found Family,Male Protagonist,Surreal Comedy,Heterosexual,Primarily Teen Cast,Urban Fantasy,Cohabitation,Otaku Culture,Episodic,Shounen,Parody,Meta
+    genre.sync: Comedy,Drama,Fantasy,Romance,Slice of Life,Supernatural,Magic,Witch,Female Protagonist,Slapstick,Found Family,Surreal Comedy,Male Protagonist,Primarily Teen Cast,Heterosexual,Urban Fantasy,Cohabitation,Otaku Culture,Episodic,Shounen,Parody,Meta
     studio: Bibury Animation Studios
     seasons:
       1:
@@ -6951,7 +6935,7 @@ metadata:
       Yoru no Kurage wa Oyogenai
     original_title: |-
       Jellyfish Can’t Swim in the Night
-    genre.sync: Drama,Music,Slice of Life,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Drawing,Urban,Band,Idol,Cute Girls Doing Cute Things,Transgender,LGBTQ+ Themes,Hikikomori
+    genre.sync: Drama,Music,Slice of Life,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Drawing,Urban,Band,Idol,Cute Girls Doing Cute Things,Hikikomori,LGBTQ+ Themes
     studio: Doga Kobo
     seasons:
       1:
@@ -7065,7 +7049,7 @@ metadata:
       Yuru Camp△
     original_title: |-
       Laid-Back Camp
-    genre.sync: Comedy,Slice of Life,Outdoor Activities,Camping,Iyashikei,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Rural,Primarily Teen Cast,Food,Educational,Travel,School Club,Kuudere,Seinen,Episodic
+    genre.sync: Comedy,Slice of Life,Outdoor Activities,Camping,Iyashikei,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Rural,Primarily Teen Cast,Food,Educational,Seinen,Travel,School Club,Kuudere,Episodic
     studio: C-Station
     seasons:
       0:
@@ -7114,6 +7098,24 @@ metadata:
     critic_rating: 8.2
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
+  452713:
+    title: |-
+      Yuusha Party wo Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugaisugiru
+    sort_title: |-
+      Yuusha Party wo Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugaisugiru
+    original_title: |-
+      Scooped Up by an S-Rank Adventurer!
+    genre.sync: Action,Adventure,Fantasy,Magic,Male Protagonist
+    studio: Felix Film
+    seasons:
+      1:
+        title: |-
+          Yuusha Party wo Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugaisugiru
+        label: Score,Watching,2025 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   435343:
     title: |-
       Zatsu Tabi: That's Journey
