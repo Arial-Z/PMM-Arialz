@@ -381,6 +381,26 @@ metadata:
     critic_rating: 8.2
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  451504:
+    title: |-
+      Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku
+    sort_title: |-
+      Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku
+    original_title: |-
+      Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin
+    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance,Isekai,Reincarnation,Virtual World
+    studio: Maho Film
+    seasons:
+      1:
+        title: |-
+          Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku
+        label: Score,Watching,2025 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.2
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   453846:
     title: |-
       Apocalypse Hotel
@@ -414,13 +434,13 @@ metadata:
       1:
         title: |-
           Arafou Otoko no Isekai Tsuuhan Seikatsu
-        label: Score,Watching,2025 Winter
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Dropped,2025 Winter
+        label.remove: Completed,Watching,Paused,Planning
         user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.4
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   357019:
     title: |-
       Arifureta Shokugyou de Sekai Saikyou
@@ -754,6 +774,26 @@ metadata:
     critic_rating: 7.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  452712:
+    title: |-
+      Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru
+    sort_title: |-
+      Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru
+    original_title: |-
+      Betrothed to My Sister's Ex
+    genre.sync: Drama,Romance,Royal Affairs,Heterosexual,Marriage,Female Protagonist,Josei
+    studio: LandQ studios
+    seasons:
+      1:
+        title: |-
+          Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru
+        label: Score,2025 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 7.2
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   331753:
     title: |-
       Black Clover
@@ -1467,7 +1507,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.9
     audience_rating: 7.9
-    critic_rating: 8.1
+    critic_rating: 8.0
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   355774:
@@ -1508,8 +1548,8 @@ metadata:
         user_rating: 8.2
     audience_rating: 8.1
     critic_rating: 8.2
-    label: AA Winner,Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: AA Winner,Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   440820:
     title: |-
       Dragon Ball DAIMA
@@ -2791,8 +2831,8 @@ metadata:
           Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru
         label: Score,Completed,2025 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
+        user_rating: 7.2
+    audience_rating: 7.2
     critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -5030,7 +5070,7 @@ metadata:
       Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi
     original_title: |-
       Headhunted to Another World: From Salaryman to Big Four!
-    genre.sync: Adventure,Comedy,Fantasy,Politics,Isekai,Work,Economics,Demons,Kemonomimi,Magic,Elf,Monster Girl
+    genre.sync: Adventure,Comedy,Fantasy,Politics,Isekai,Work,Economics,Demons,Kemonomimi,Magic,Monster Girl,Elf
     studio: GEEKTOYS
     seasons:
       1:
@@ -5954,7 +5994,7 @@ metadata:
           Tate no Yuusha no Nariagari Season 4
         label: Score,2025 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 7.2
     audience_rating: 7.1
     critic_rating: 7.2
     label: AA Winner,Airing,Completed
@@ -6780,6 +6820,46 @@ metadata:
     critic_rating: 6.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+  456435:
+    title: |-
+      Mizu Zokusei no Mahou Tsukai
+    sort_title: |-
+      Mizu Zokusei no Mahou Tsukai
+    original_title: |-
+      The Water Magician
+    genre.sync: Action,Adventure,Fantasy,Male Protagonist,Isekai,Magic,Survival
+    studio: TYPHOON GRAPHICS
+    seasons:
+      1:
+        title: |-
+          Mizu Zokusei no Mahou Tsukai
+        label: Score,Watching,2025 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 7.1
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+  457843:
+    title: |-
+      Tsuihousha Shokudou e Youkoso!
+    sort_title: |-
+      Tsuihousha Shokudou e Youkoso!
+    original_title: |-
+      Welcome to the Outcast's Restaurant!
+    genre.sync: Adventure,Comedy,Fantasy,Slice of Life,Food,Restaurant
+    studio: OLM
+    seasons:
+      1:
+        title: |-
+          Tsuihousha Shokudou e Youkoso!
+        label: Score,2025 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.3
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   433088:
     title: |-
       Wind Breaker
@@ -6826,6 +6906,26 @@ metadata:
     critic_rating: 7.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+  453585:
+    title: |-
+      Ame to Kimi to
+    sort_title: |-
+      Ame to Kimi to
+    original_title: |-
+      With You and the Rain
+    genre.sync: Comedy,Slice of Life,Iyashikei,Seinen
+    studio: Lesprit
+    seasons:
+      1:
+        title: |-
+          Ame to Kimi to
+        label: Score,2025 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.0
+    audience_rating: 7.0
+    critic_rating: 7.5
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   145211:
     title: |-
       Working!!
@@ -7093,7 +7193,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 5.9
     audience_rating: 5.9
-    critic_rating: 6.3
+    critic_rating: 6.2
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   424019:
