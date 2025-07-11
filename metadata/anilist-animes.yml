@@ -275,6 +275,26 @@ metadata:
     critic_rating: 7.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  453585:
+    title: |-
+      Ame to Kimi to
+    sort_title: |-
+      Ame to Kimi to
+    original_title: |-
+      With You and the Rain
+    genre.sync: Comedy,Slice of Life,Iyashikei,Seinen
+    studio: Lesprit
+    seasons:
+      1:
+        title: |-
+          Ame to Kimi to
+        label: Score,2025 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.0
+    audience_rating: 7.0
+    critic_rating: 7.5
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   348706:
     title: |-
       Angolmois: Genkou Kassenki
@@ -381,26 +401,6 @@ metadata:
     critic_rating: 8.2
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  451504:
-    title: |-
-      Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku
-    sort_title: |-
-      Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku
-    original_title: |-
-      Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin
-    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance,Isekai,Reincarnation,Virtual World
-    studio: Maho Film
-    seasons:
-      1:
-        title: |-
-          Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku
-        label: Score,Watching,2025 Summer
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 7.2
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   453846:
     title: |-
       Apocalypse Hotel
@@ -497,9 +497,16 @@ metadata:
         label: Score,Completed,2023 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.4
-    critic_rating: 7.3
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+      3:
+        title: |-
+          Arknights: Enshin Shomei
+        label: Score,2025 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.0
+    audience_rating: 7.1
+    critic_rating: 7.5
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   291630:
     title: |-
       Arslan Senki (TV)
@@ -669,7 +676,7 @@ metadata:
       BanG Dream! Ave Mujica
     original_title: |-
       Ave Mujica - The Die is Cast -
-    genre.sync: Drama,Music,Psychological,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Acting,Full CGI,Metal Music,LGBTQ+ Themes,Disability,Ensemble Cast,Musical Theater,Rock Music,Incest,Yuri
+    genre.sync: Drama,Music,Psychological,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Acting,Full CGI,Metal Music,Disability,Rock Music,Musical Theater,Incest
     studio: SANZIGEN
     seasons:
       1:
@@ -774,26 +781,6 @@ metadata:
     critic_rating: 7.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  452712:
-    title: |-
-      Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru
-    sort_title: |-
-      Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru
-    original_title: |-
-      Betrothed to My Sister's Ex
-    genre.sync: Drama,Romance,Royal Affairs,Heterosexual,Marriage,Female Protagonist,Josei
-    studio: LandQ studios
-    seasons:
-      1:
-        title: |-
-          Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru
-        label: Score,2025 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 7.2
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   331753:
     title: |-
       Black Clover
@@ -1235,6 +1222,26 @@ metadata:
     critic_rating: 7.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  451793:
+    title: |-
+      Clevatess: Majuu no Ou to Akago to Kabane no Yuusha
+    sort_title: |-
+      Clevatess: Majuu no Ou to Akago to Kabane no Yuusha
+    original_title: |-
+      Clevatess
+    genre.sync: Action,Drama,Fantasy,Medieval,Revenge,Magic,Parenthood
+    studio: Lay-duce
+    seasons:
+      1:
+        title: |-
+          Clevatess: Majuu no Ou to Akago to Kabane no Yuusha
+        label: Score,Watching,2025 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.4
+    audience_rating: 7.4
+    critic_rating: 7.8
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   79525:
     title: |-
       Code Geass: Hangyaku no Lelouch
@@ -1347,7 +1354,7 @@ metadata:
       Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)
     original_title: |-
       Can a Boy-Girl Friendship Survive?
-    genre.sync: Comedy,Romance,Love Triangle,Heterosexual,Unrequited Love,Horticulture,School,Male Protagonist,Fashion,Work,Coming of Age,Female Protagonist
+    genre.sync: Comedy,Romance,Love Triangle,Heterosexual,Horticulture,School,Unrequited Love,Male Protagonist,Fashion,Work,Coming of Age,Female Protagonist
     studio: J.C.STAFF
     seasons:
       1:
@@ -1434,6 +1441,26 @@ metadata:
     critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  456740:
+    title: |-
+      Dekin no Mogura
+    sort_title: |-
+      Dekin no Mogura
+    original_title: |-
+      Dekin no Mogura: The Earthbound Mole
+    genre.sync: Comedy,Drama,Mystery,Slice of Life,Supernatural,Seinen,Urban Fantasy
+    studio: Brain's Base
+    seasons:
+      1:
+        title: |-
+          Dekin no Mogura
+        label: Score,Watching,2025 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 5.7
+    audience_rating: 5.7
+    critic_rating: 6.2
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   420550:
     title: |-
       Dekiru Neko wa Kyou mo Yuuutsu
@@ -1683,7 +1710,7 @@ metadata:
           Enen no Shouboutai: San no Shou
         label: Score,Completed,2025 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.7
+        user_rating: 7.8
     audience_rating: 7.7
     critic_rating: 7.7
     label: Planned,Completed
@@ -2448,6 +2475,26 @@ metadata:
     critic_rating: 6.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  451504:
+    title: |-
+      Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku
+    sort_title: |-
+      Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku
+    original_title: |-
+      Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin
+    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance,Isekai,Reincarnation,Virtual World
+    studio: Maho Film
+    seasons:
+      1:
+        title: |-
+          Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku
+        label: Score,Watching,2025 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.2
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   418367:
     title: |-
       Isekai Nonbiri Nouka
@@ -2523,8 +2570,8 @@ metadata:
           Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru
         label: Score,Completed,2025 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 6.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -2564,10 +2611,16 @@ metadata:
         label: Score,Completed,2023 Summer
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.3
-    audience_rating: -6.3
-    critic_rating: 6.4
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+      2:
+        title: |-
+          Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season
+        label: Score,Watching,2025 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.6
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   402474:
     title: |-
       Jigokuraku
@@ -3587,7 +3640,7 @@ metadata:
           Kusuriya no Hitorigoto 2nd Season
         label: Score,Completed,2025 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.7
+        user_rating: 8.8
     audience_rating: 8.8
     critic_rating: 8.9
     label: Ended,Completed
@@ -3599,7 +3652,7 @@ metadata:
       Lazarus
     original_title: |-
       Lazarus
-    genre.sync: Action,Sci-Fi,Ensemble Cast,Crime,Medicine,Urban,Fugitive,Episodic,Drugs,Anti-Hero,Seinen,Environmental,Parkour,Cyberpunk,Guns,Male Protagonist,Found Family,Espionage
+    genre.sync: Action,Sci-Fi,Ensemble Cast,Crime,Medicine,Urban,Fugitive,Episodic,Drugs,Environmental,Anti-Hero,Seinen,Parkour,Cyberpunk,Found Family,Guns,Male Protagonist,Espionage
     studio: MAPPA
     seasons:
       1:
@@ -4002,6 +4055,26 @@ metadata:
     critic_rating: 7.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  456435:
+    title: |-
+      Mizu Zokusei no Mahou Tsukai
+    sort_title: |-
+      Mizu Zokusei no Mahou Tsukai
+    original_title: |-
+      The Water Magician
+    genre.sync: Action,Adventure,Fantasy,Male Protagonist,Isekai,Magic,Survival
+    studio: TYPHOON GRAPHICS
+    seasons:
+      1:
+        title: |-
+          Mizu Zokusei no Mahou Tsukai
+        label: Score,Watching,2025 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 7.1
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   307375:
     title: |-
       Mob Psycho 100
@@ -4494,7 +4567,7 @@ metadata:
           Ore dake Level Up na Ken: Season 2 - Arise from the Shadow
         label: Score,Completed,2025 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.7
+        user_rating: 8.6
     audience_rating: 8.4
     critic_rating: 8.4
     label: Ended,Completed
@@ -4870,7 +4943,7 @@ metadata:
       Rock wa Lady no Tashinami Deshite
     original_title: |-
       Rock is a Lady’s Modesty
-    genre.sync: Drama,Music,Female Protagonist,Band,Rock Music,Ojou-sama,Primarily Female Cast,School,Yuri,Seinen,Urban,Primarily Teen Cast,CGI,LGBTQ+ Themes
+    genre.sync: Drama,Music,Female Protagonist,Band,Rock Music,Ojou-sama,Primarily Female Cast,Primarily Teen Cast,School,CGI,Urban,Seinen,LGBTQ+ Themes
     studio: Bandai Namco Pictures
     seasons:
       1:
@@ -5633,6 +5706,24 @@ metadata:
     critic_rating: 7.4
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  459970:
+    title: |-
+      Kizetsu Yuusha to Ansatsu Hime
+    sort_title: |-
+      Kizetsu Yuusha to Ansatsu Hime
+    original_title: |-
+      The Shy Hero and the Assassin Princesses
+    genre.sync: Action,Comedy,Fantasy
+    studio: CONNECT
+    seasons:
+      1:
+        title: |-
+          Kizetsu Yuusha to Ansatsu Hime
+        label: Score,Watching,2025 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   452832:
     title: |-
       Silent Witch: Chinmoku no Majo no Kakushigoto
@@ -6123,10 +6214,16 @@ metadata:
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.4
-    audience_rating: -7.4
-    critic_rating: 7.4
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+      2:
+        title: |-
+          Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season
+        label: Score,Watching,2025 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.3
+    audience_rating: 7.3
+    critic_rating: 7.5
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   410378:
     title: |-
       Tensei Shitara Ken Deshita
@@ -6459,6 +6556,26 @@ metadata:
     critic_rating: 7.9
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  457843:
+    title: |-
+      Tsuihousha Shokudou e Youkoso!
+    sort_title: |-
+      Tsuihousha Shokudou e Youkoso!
+    original_title: |-
+      Welcome to the Outcast's Restaurant!
+    genre.sync: Adventure,Comedy,Fantasy,Slice of Life,Food,Restaurant
+    studio: OLM
+    seasons:
+      1:
+        title: |-
+          Tsuihousha Shokudou e Youkoso!
+        label: Score,2025 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.3
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   390832:
     title: |-
       Tsuki ga Michibiku Isekai Douchuu
@@ -6604,6 +6721,26 @@ metadata:
     critic_rating: 7.7
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+  456807:
+    title: |-
+      Busamen Gachi Fighter
+    sort_title: |-
+      Busamen Gachi Fighter
+    original_title: |-
+      Uglymug, Epicfighter
+    genre.sync: Adventure,Fantasy,Isekai,Seinen,Male Protagonist,Super Power
+    studio: WHITE FOX
+    seasons:
+      1:
+        title: |-
+          Busamen Gachi Fighter
+        label: Score,2025 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.7
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   453673:
     title: |-
       Uma Musume: Cinderella Gray
@@ -6820,46 +6957,6 @@ metadata:
     critic_rating: 6.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
-  456435:
-    title: |-
-      Mizu Zokusei no Mahou Tsukai
-    sort_title: |-
-      Mizu Zokusei no Mahou Tsukai
-    original_title: |-
-      The Water Magician
-    genre.sync: Action,Adventure,Fantasy,Male Protagonist,Isekai,Magic,Survival
-    studio: TYPHOON GRAPHICS
-    seasons:
-      1:
-        title: |-
-          Mizu Zokusei no Mahou Tsukai
-        label: Score,Watching,2025 Summer
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 7.1
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
-  457843:
-    title: |-
-      Tsuihousha Shokudou e Youkoso!
-    sort_title: |-
-      Tsuihousha Shokudou e Youkoso!
-    original_title: |-
-      Welcome to the Outcast's Restaurant!
-    genre.sync: Adventure,Comedy,Fantasy,Slice of Life,Food,Restaurant
-    studio: OLM
-    seasons:
-      1:
-        title: |-
-          Tsuihousha Shokudou e Youkoso!
-        label: Score,2025 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 7.3
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   433088:
     title: |-
       Wind Breaker
@@ -6906,26 +7003,6 @@ metadata:
     critic_rating: 7.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
-  453585:
-    title: |-
-      Ame to Kimi to
-    sort_title: |-
-      Ame to Kimi to
-    original_title: |-
-      With You and the Rain
-    genre.sync: Comedy,Slice of Life,Iyashikei,Seinen
-    studio: Lesprit
-    seasons:
-      1:
-        title: |-
-          Ame to Kimi to
-        label: Score,2025 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
-    critic_rating: 7.5
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   145211:
     title: |-
       Working!!
@@ -7287,7 +7364,9 @@ metadata:
           Yuusha Party wo Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugaisugiru
         label: Score,Watching,2025 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.7
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   435343:
@@ -7370,3 +7449,23 @@ metadata:
     critic_rating: 7.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  452712:
+    title: |-
+      Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru
+    sort_title: |-
+      Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru
+    original_title: |-
+      Betrothed to My Sister's Ex
+    genre.sync: Drama,Romance,Royal Affairs,Heterosexual,Marriage,Female Protagonist,Josei
+    studio: LandQ studios
+    seasons:
+      1:
+        title: |-
+          Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru
+        label: Score,2025 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 7.2
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
