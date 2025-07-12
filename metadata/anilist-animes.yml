@@ -1038,6 +1038,26 @@ metadata:
     critic_rating: 8.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  456807:
+    title: |-
+      Busamen Gachi Fighter
+    sort_title: |-
+      Busamen Gachi Fighter
+    original_title: |-
+      Uglymug, Epicfighter
+    genre.sync: Adventure,Fantasy,Isekai,Seinen,Male Protagonist,Super Power
+    studio: WHITE FOX
+    seasons:
+      1:
+        title: |-
+          Busamen Gachi Fighter
+        label: Score,2025 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.7
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   397934:
     title: |-
       Chainsaw Man
@@ -1570,9 +1590,9 @@ metadata:
       4:
         title: |-
           Dr. STONE: SCIENCE FUTURE
-        label: Score,Completed,2025 Winter
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.2
+        label: Score,Watching,2025 Summer,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.2
     label: AA Winner,Airing,Watching
@@ -3409,6 +3429,24 @@ metadata:
     critic_rating: 8.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  459970:
+    title: |-
+      Kizetsu Yuusha to Ansatsu Hime
+    sort_title: |-
+      Kizetsu Yuusha to Ansatsu Hime
+    original_title: |-
+      The Shy Hero and the Assassin Princesses
+    genre.sync: Action,Comedy,Fantasy
+    studio: CONNECT
+    seasons:
+      1:
+        title: |-
+          Kizetsu Yuusha to Ansatsu Hime
+        label: Score,Watching,2025 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   318893:
     title: |-
       Kobayashi-san Chi no Maidragon
@@ -4752,6 +4790,26 @@ metadata:
     critic_rating: 5.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  440861:
+    title: |-
+      Koujo Denka no Katei Kyoushi
+    sort_title: |-
+      Koujo Denka no Katei Kyoushi
+    original_title: |-
+      Private Tutor to the Duke's Daughter
+    genre.sync: Drama,Fantasy,Romance,Magic,Female Harem
+    studio: Studio Blanc
+    seasons:
+      1:
+        title: |-
+          Koujo Denka no Katei Kyoushi
+        label: Score,2025 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.5
+    audience_rating: 6.5
+    critic_rating: 6.9
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   262090:
     title: |-
       Psycho-pass
@@ -5706,24 +5764,6 @@ metadata:
     critic_rating: 7.4
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  459970:
-    title: |-
-      Kizetsu Yuusha to Ansatsu Hime
-    sort_title: |-
-      Kizetsu Yuusha to Ansatsu Hime
-    original_title: |-
-      The Shy Hero and the Assassin Princesses
-    genre.sync: Action,Comedy,Fantasy
-    studio: CONNECT
-    seasons:
-      1:
-        title: |-
-          Kizetsu Yuusha to Ansatsu Hime
-        label: Score,Watching,2025 Summer
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   452832:
     title: |-
       Silent Witch: Chinmoku no Majo no Kakushigoto
@@ -6514,6 +6554,26 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  449843:
+    title: |-
+      Tougen Anki
+    sort_title: |-
+      Tougen Anki
+    original_title: |-
+      Tougen Anki
+    genre.sync: Action,Mystery,Supernatural,Shounen,Male Protagonist,Demons,Tragedy,Guns,Urban Fantasy,Revenge
+    studio: Studio Hibari
+    seasons:
+      1:
+        title: |-
+          Tougen Anki
+        label: Score,Watching,2025 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.2
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   421378:
     title: |-
       Trigun Stampede
@@ -6721,26 +6781,6 @@ metadata:
     critic_rating: 7.7
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
-  456807:
-    title: |-
-      Busamen Gachi Fighter
-    sort_title: |-
-      Busamen Gachi Fighter
-    original_title: |-
-      Uglymug, Epicfighter
-    genre.sync: Adventure,Fantasy,Isekai,Seinen,Male Protagonist,Super Power
-    studio: WHITE FOX
-    seasons:
-      1:
-        title: |-
-          Busamen Gachi Fighter
-        label: Score,2025 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
-    critic_rating: 6.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   453673:
     title: |-
       Uma Musume: Cinderella Gray
@@ -7174,8 +7214,8 @@ metadata:
           Yofukashi no Uta Season 2
         label: Score,2025 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.1
-    audience_rating: 8.0
+        user_rating: 8.0
+    audience_rating: 7.9
     critic_rating: 8.1
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
@@ -7462,10 +7502,10 @@ metadata:
       1:
         title: |-
           Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru
-        label: Score,2025 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Summer
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 7.2
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
