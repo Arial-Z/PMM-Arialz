@@ -1850,19 +1850,19 @@ metadata:
       Gachiakuta
     original_title: |-
       Gachiakuta
-    genre.sync: Action,Drama,Fantasy,Shounen,Urban Fantasy,Dystopian,Male Protagonist,Revenge,Class Struggle,Ensemble Cast,Super Power,Post-Apocalyptic,Survival,Tragedy
+    genre.sync: Action,Drama,Fantasy,Shounen,Urban Fantasy,Class Struggle,Dystopian,Ensemble Cast,Post-Apocalyptic,Survival,Super Power,Male Protagonist,Tragedy,Revenge
     studio: bones
     seasons:
       1:
         title: |-
           Gachiakuta
-        label: Score,2025 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Summer
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 8.1
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   267246:
     title: |-
       Gin no Saji
@@ -4434,7 +4434,7 @@ metadata:
       Ninja to Koroshiya no Futarigurashi
     original_title: |-
       A Ninja and an Assassin Under One Roof
-    genre.sync: Comedy,Urban,Female Protagonist,Primarily Female Cast,Assassins,Slapstick,Ninja,Anti-Hero,Cute Girls Doing Cute Things,Surreal Comedy,Yuri,Fugitive,Tragedy,LGBTQ+ Themes,Afterlife,Yandere,Robots
+    genre.sync: Comedy,Female Protagonist,Primarily Female Cast,Assassins,Slapstick,Ninja,Urban,Anti-Hero,Surreal Comedy,Cute Girls Doing Cute Things,Fugitive,Yuri,Tragedy,LGBTQ+ Themes,Yandere
     studio: Shaft
     seasons:
       1:
@@ -5174,8 +5174,8 @@ metadata:
         user_rating: 7.6
     audience_rating: 7.6
     critic_rating: 7.6
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   262114:
     title: |-
       Sakurasou no Pet na Kanojo
@@ -5687,7 +5687,7 @@ metadata:
       Shokei Shoujo no Virgin Road
     original_title: |-
       The Executioner and Her Way of Life
-    genre.sync: Action,Adventure,Drama,Fantasy,Anti-Hero,Memory Manipulation,Magic,Primarily Female Cast,Time Manipulation,Female Protagonist,Isekai,Assassins,Religion,LGBTQ+ Themes,Gore
+    genre.sync: Action,Adventure,Drama,Fantasy,Anti-Hero,Magic,Memory Manipulation,Primarily Female Cast,Time Manipulation,Female Protagonist,Isekai,Assassins,Yuri,Religion,LGBTQ+ Themes,Gore
     studio: J.C.STAFF
     seasons:
       1:
@@ -5827,7 +5827,7 @@ metadata:
           Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni
         label: Score,Watching,2025 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.8
+        user_rating: 6.7
     audience_rating: 6.8
     critic_rating: 6.8
     label: Ended,Watching
@@ -5885,7 +5885,7 @@ metadata:
       Sousou no Frieren
     original_title: |-
       Frieren: Beyond Journey’s End
-    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Philosophy,Time Skip,Found Family,Medieval,Female Protagonist,Iyashikei,Kuudere,Foreign,Demons
+    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Philosophy,Medieval,Time Skip,Found Family,Female Protagonist,Iyashikei,Kuudere,Foreign,Demons
     studio: MADHOUSE
     seasons:
       1:
@@ -6246,8 +6246,8 @@ metadata:
     sort_title: |-
       Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu
     original_title: |-
-      I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
-    genre.sync: Action,Adventure,Fantasy,Magic,Reincarnation,Male Protagonist,Femboy,Demons,Chibi,Female Harem,Cute Boys Doing Cute Things,Isekai,Swordplay
+      I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability
+    genre.sync: Action,Adventure,Fantasy,Magic,Male Protagonist,Reincarnation,Femboy,Demons,Chibi,Cute Boys Doing Cute Things,Female Harem,Swordplay
     studio: Tsumugi Akita Anime Lab
     seasons:
       1:
@@ -6800,7 +6800,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.4
     audience_rating: 8.4
-    critic_rating: 8.4
+    critic_rating: 8.5
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   423030:
@@ -7032,7 +7032,7 @@ metadata:
       Witch Watch
     original_title: |-
       Witch Watch
-    genre.sync: Comedy,Drama,Fantasy,Romance,Slice of Life,Supernatural,Magic,Witch,Female Protagonist,Slapstick,Found Family,Surreal Comedy,Male Protagonist,Primarily Teen Cast,Heterosexual,Urban Fantasy,Cohabitation,Otaku Culture,Episodic,Shounen,Parody,Meta
+    genre.sync: Comedy,Drama,Fantasy,Romance,Slice of Life,Supernatural,Magic,Witch,Female Protagonist,Slapstick,Found Family,Surreal Comedy,Male Protagonist,Heterosexual,Primarily Teen Cast,Urban Fantasy,Cohabitation,Otaku Culture,Episodic,Shounen,Parody,Meta
     studio: Bibury Animation Studios
     seasons:
       1:
@@ -7202,7 +7202,7 @@ metadata:
       Yofukashi no Uta
     original_title: |-
       Call of the Night
-    genre.sync: Comedy,Psychological,Romance,Slice of Life,Supernatural,Vampire,Urban Fantasy,Urban,Male Protagonist,Heterosexual,Aromantic,Coming of Age,Female Protagonist,Age Gap,Shounen,Primarily Teen Cast
+    genre.sync: Comedy,Psychological,Romance,Slice of Life,Supernatural,Vampire,Urban Fantasy,Urban,Male Protagonist,Female Protagonist,Heterosexual,Aromantic,Coming of Age,Age Gap,Shounen,Primarily Teen Cast
     studio: LIDENFILMS
     seasons:
       1:
@@ -7322,7 +7322,7 @@ metadata:
       Yozakura-san Chi no Daisakusen
     original_title: |-
       Mission: Yozakura Family
-    genre.sync: Action,Comedy,Romance,Shounen,Espionage,Marriage,Family Life,Male Protagonist,Body Horror,Surreal Comedy,Super Power,Yandere,School,Heterosexual,Guns
+    genre.sync: Action,Comedy,Romance,Shounen,Espionage,Marriage,Family Life,Male Protagonist,Yandere,Super Power,Surreal Comedy,Body Horror,Guns,School,Heterosexual
     studio: SILVER LINK.
     seasons:
       1:
