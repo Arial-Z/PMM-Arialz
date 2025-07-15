@@ -408,7 +408,7 @@ metadata:
       Apocalypse Hotel
     original_title: |-
       Apocalypse Hotel
-    genre.sync: Comedy,Sci-Fi,Slice of Life,Post-Apocalyptic,Robots,Work,Female Protagonist,Aliens,Artificial Intelligence,Anthropomorphism,Inn,Urban,Surreal Comedy,Time Skip,Iyashikei,Parody,Space
+    genre.sync: Comedy,Sci-Fi,Slice of Life,Post-Apocalyptic,Robots,Work,Female Protagonist,Aliens,Artificial Intelligence,Anthropomorphism,Inn,Urban,Surreal Comedy,Time Skip,Iyashikei,Space,Parody
     studio: CygamesPictures
     seasons:
       1:
@@ -2293,7 +2293,7 @@ metadata:
       Hikaru ga Shinda Natsu
     original_title: |-
       The Summer Hikaru Died
-    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Cosmic Horror,Tragedy,Male Protagonist,Monster Boy,Rural,Seinen,Unrequited Love,Boys' Love,Primarily Teen Cast,LGBTQ+ Themes
+    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Male Protagonist,Cosmic Horror,Monster Boy,Rural,Tragedy,Seinen,Boys' Love,LGBTQ+ Themes,POV,Eco-Horror,Primarily Teen Cast,Unrequited Love
     studio: CygamesPictures
     seasons:
       1:
@@ -3024,7 +3024,7 @@ metadata:
       Kidou Senshi Gundam GQuuuuuuX
     original_title: |-
       Mobile Suit Gundam GQuuuuuuX
-    genre.sync: Action,Drama,Mecha,Sci-Fi,Space,Female Protagonist,Alternate Universe,Real Robot,Conspiracy,Heterosexual,Cyberpunk,Space Opera,Robots,Guns,Super Robot,Love Triangle,Fugitive,Tragedy,Politics,Espionage,Meta,Isekai,CGI,Swordplay,Military
+    genre.sync: Action,Drama,Mecha,Sci-Fi,Space,Female Protagonist,Alternate Universe,Real Robot,Conspiracy,Heterosexual,Cyberpunk,Space Opera,Robots,Guns,Super Robot,Love Triangle,Fugitive,Tragedy,Politics,Meta,Espionage,Isekai,Achronological Order,CGI,Military,Swordplay
     studio: Studio Khara
     seasons:
       1:
@@ -5174,8 +5174,8 @@ metadata:
         user_rating: 7.6
     audience_rating: 7.6
     critic_rating: 7.6
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   262114:
     title: |-
       Sakurasou no Pet na Kanojo
@@ -5773,7 +5773,7 @@ metadata:
       Silent Witch: Chinmoku no Majo no Kakushigoto
     original_title: |-
       Secrets of the Silent Witch
-    genre.sync: Adventure,Fantasy,Female Protagonist,Witch,School,Magic,Politics,Royal Affairs,Shoujo,Hikikomori,Bullying
+    genre.sync: Adventure,Fantasy,Female Protagonist,Witch,School,Magic,Royal Affairs,Shoujo,Politics,Hikikomori
     studio: Studio Gokumi
     seasons:
       1:
@@ -5781,9 +5781,9 @@ metadata:
           Silent Witch: Chinmoku no Majo no Kakushigoto
         label: Score,Watching,2025 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.4
-    critic_rating: 7.8
+        user_rating: 7.6
+    audience_rating: 7.6
+    critic_rating: 7.9
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   412696:
@@ -6898,7 +6898,7 @@ metadata:
       Vigilante: Boku no Hero Academia ILLEGALS
     original_title: |-
       My Hero Academia: Vigilantes
-    genre.sync: Action,Adventure,Drama,Fantasy,Urban,Super Power,Superhero,Fugitive,Crime,Shounen,Urban Fantasy,Idol,Male Protagonist
+    genre.sync: Action,Adventure,Drama,Fantasy,Urban Fantasy,Urban,Super Power,Superhero,Shounen,Crime,Fugitive,Idol,Male Protagonist,Anti-Hero
     studio: bones film
     seasons:
       1:
@@ -6986,7 +6986,7 @@ metadata:
       Watari-kun no xx ga Houkai Sunzen
     original_title: |-
       Watari-kun's ****** Is about to Collapse
-    genre.sync: Comedy,Drama,Romance,Slice of Life,Love Triangle,School,Female Harem,Yandere
+    genre.sync: Comedy,Drama,Romance,Slice of Life,Love Triangle,School,Female Harem,Seinen,Yandere
     studio: Staple Entertainment
     seasons:
       1:
@@ -6994,9 +6994,9 @@ metadata:
           Watari-kun no xx ga Houkai Sunzen
         label: Score,2025 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
-    critic_rating: 6.6
+        user_rating: 6.0
+    audience_rating: 6.0
+    critic_rating: 6.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   433088:
