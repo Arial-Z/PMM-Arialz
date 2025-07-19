@@ -579,6 +579,26 @@ metadata:
     critic_rating: 7.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  451679:
+    title: |-
+      Bad Girl
+    sort_title: |-
+      Bad Girl
+    original_title: |-
+      Bad Girl
+    genre.sync: Comedy,Romance,School,Female Protagonist,Primarily Female Cast,Yuri,Delinquents,Cute Girls Doing Cute Things,Primarily Teen Cast,Urban,LGBTQ+ Themes
+    studio: Bridge
+    seasons:
+      1:
+        title: |-
+          Bad Girl
+        label: Score,2025 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 6.9
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   381536:
     title: |-
       Bai Yao Pu
@@ -2787,10 +2807,16 @@ metadata:
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.2
+      2:
+        title: |-
+          Kaijuu 8-gou 2nd Season
+        label: Score,2025 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
     audience_rating: 8.2
-    critic_rating: 8.3
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    critic_rating: 8.1
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   376729:
     title: |-
       Kami no Tou: Tower of God
@@ -3566,9 +3592,9 @@ metadata:
           Koujo Denka no Katei Kyoushi
         label: Score,Watching,2025 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
-    critic_rating: 6.9
+        user_rating: 6.4
+    audience_rating: 6.4
+    critic_rating: 6.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   413515:
@@ -5169,11 +5195,11 @@ metadata:
       1:
         title: |-
           Sakamoto Days
-        label: Score,Completed,2025 Winter
-        label.remove: Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Summer,2025 Winter
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.6
     audience_rating: 7.6
-    critic_rating: 7.6
+    critic_rating: 7.8
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   262114:
@@ -6563,7 +6589,7 @@ metadata:
       Tougen Anki
     original_title: |-
       Tougen Anki
-    genre.sync: Action,Mystery,Supernatural,Shounen,Male Protagonist,Demons,Tragedy,Guns,Urban Fantasy,Revenge
+    genre.sync: Action,Mystery,Supernatural,Demons,Shounen,Tragedy,Male Protagonist,Shapeshifting,Guns,Urban Fantasy,Revenge
     studio: Studio Hibari
     seasons:
       1:
@@ -6571,8 +6597,8 @@ metadata:
           Tougen Anki
         label: Score,Watching,2025 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
