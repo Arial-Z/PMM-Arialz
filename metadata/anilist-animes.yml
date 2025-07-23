@@ -2810,13 +2810,13 @@ metadata:
       2:
         title: |-
           Kaijuu 8-gou 2nd Season
-        label: Score,2025 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Summer
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 8.0
     critic_rating: 8.1
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   376729:
     title: |-
       Kami no Tou: Tower of God
