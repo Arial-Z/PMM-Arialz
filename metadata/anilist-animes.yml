@@ -596,7 +596,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.6
     audience_rating: 6.6
-    critic_rating: 6.9
+    critic_rating: 6.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   381536:
@@ -814,13 +814,13 @@ metadata:
       1:
         title: |-
           Biaoren
-        label: Score,2023 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2023 Spring
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.6
-    label: Planned
-    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Planned,Watching
+    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
   331753:
     title: |-
       Black Clover
@@ -3612,9 +3612,9 @@ metadata:
           Koujo Denka no Katei Kyoushi
         label: Score,Watching,2025 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
-    critic_rating: 6.8
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.7
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   413515:
@@ -6619,7 +6619,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
-    critic_rating: 7.2
+    critic_rating: 7.1
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   421378:
@@ -6754,6 +6754,26 @@ metadata:
         user_rating: 6.3
     audience_rating: 6.3
     critic_rating: 6.8
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+  459453:
+    title: |-
+      Tu Bian Yingxiong X
+    sort_title: |-
+      Tu Bian Yingxiong X
+    original_title: |-
+      To Be Hero X
+    genre.sync: Action,Drama,Mystery,Supernatural,Conspiracy,Urban Fantasy,Superhero,Tragedy,Henshin,Anti-Hero,Super Power,Idol,Mixed Media,CGI,Achronological Order,Suicide,Ensemble Cast,Male Protagonist,Female Protagonist
+    studio: Paper Plane Animation Studio
+    seasons:
+      1:
+        title: |-
+          Tu Bian Yingxiong X
+        label: Score,Watching,2025 Spring
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 8.2
+    audience_rating: 8.2
+    critic_rating: 8.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   446485:
