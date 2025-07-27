@@ -3177,3 +3177,123 @@ metadata:
     seasons:
       0:
         label.remove: Score
+      1:
+        title: |-
+          Kidou Senshi Gundam: Suisei no Majo
+        label: Score,Completed,2023 Spring,2022 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.8
+    audience_rating: 7.8
+    critic_rating: 7.8
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  299497:
+    title: |-
+      Kidou Senshi Gundam: Tekketsu no Orphans
+    sort_title: |-
+      Kidou Senshi Gundam: Tekketsu no Orphans
+    original_title: |-
+      Mobile Suit GUNDAM Iron Blooded Orphans
+    genre.sync: 
+    studio: Sunrise
+    seasons:
+      1:
+        title: |-
+          Kidou Senshi Gundam: Tekketsu no Orphans
+        label: Score,Completed,2015 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.8
+      2:
+        title: |-
+          Kidou Senshi Gundam: Tekketsu no Orphans 2
+        label: Score,Completed,2016 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.9
+    audience_rating: 7.8
+    critic_rating: 8.1
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  442540:
+    title: |-
+      Kijin Gentoushou
+    sort_title: |-
+      Kijin Gentoushou
+    original_title: |-
+      Sword of the Demon Hunter: Kijin Gentosho
+    genre.sync: 
+    studio: Yokohama Animation Lab
+    seasons:
+      1:
+        title: |-
+          Kijin Gentoushou
+        label: Score,Watching,2025 Spring
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.4
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+  432815:
+    title: |-
+      Kikansha no Mahou wa Tokubetsu desu
+    sort_title: |-
+      Kikansha no Mahou wa Tokubetsu desu
+    original_title: |-
+      A Returner's Magic Should Be Special
+    genre.sync: 
+    studio: Arvo Animation
+    seasons:
+      1:
+        title: |-
+          Kikansha no Mahou wa Tokubetsu desu
+        label: Score,Completed,2023 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.9
+    audience_rating: 6.9
+    critic_rating: 7.1
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  272074:
+    title: |-
+      Kill la Kill
+    sort_title: |-
+      Kill la Kill
+    original_title: |-
+      Kill la Kill
+    genre.sync: 
+    studio: TRIGGER
+    seasons:
+      0:
+        label.remove: Score
+      1:
+        title: |-
+          Kill la Kill
+        label: Score,Completed,2013 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.9
+    audience_rating: 7.9
+    critic_rating: 8.0
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  348545:
+    title: |-
+      Kimetsu no Yaiba
+    sort_title: |-
+      Kimetsu no Yaiba
+    original_title: |-
+      Demon Slayer: Kimetsu no Yaiba
+    genre.sync: 
+    studio: ufotable
+    seasons:
+      1:
+        title: |-
+          Kimetsu no Yaiba
+        label: Score,AA Winner,Completed,2019 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.2
+      2:
+        title: |-
+          Kimetsu no Yaiba: Mugen Ressha-hen (TV)
+        label: Score,Completed,2021 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.2
