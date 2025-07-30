@@ -4691,13 +4691,13 @@ metadata:
       1:
         title: |-
           Ore wa Seikan Kokka no Akutoku Ryoushu! 
-        label: Score,2025 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Spring
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.7
     audience_rating: 6.7
     critic_rating: 7.0
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   412826:
     title: |-
       Otomege Sekai wa Mob ni Kibishii Sekai desu
