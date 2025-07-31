@@ -2226,9 +2226,9 @@ metadata:
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   450933:
     title: |-
-      Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite
+      Hazure Skill «Kinomi Master»: Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite
     sort_title: |-
-      Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite
+      Hazure Skill «Kinomi Master»: Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite
     original_title: |-
       Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~
     genre.sync: Action,Adventure,Fantasy,Magic
@@ -2236,7 +2236,7 @@ metadata:
     seasons:
       1:
         title: |-
-          Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite
+          Hazure Skill «Kinomi Master»: Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite
         label: Score,Dropped,2025 Winter
         label.remove: Completed,Watching,Paused,Planning
         user_rating: 5.7
@@ -2552,7 +2552,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.7
     audience_rating: 6.7
-    critic_rating: 7.1
+    critic_rating: 7.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   418367:
@@ -4168,7 +4168,7 @@ metadata:
       Mizu Zokusei no Mahou Tsukai
     original_title: |-
       The Water Magician
-    genre.sync: Action,Adventure,Fantasy,Male Protagonist,Isekai,Magic,Survival
+    genre.sync: Action,Adventure,Fantasy,Male Protagonist,Isekai,Magic,Survival,Reincarnation
     studio: TYPHOON GRAPHICS
     seasons:
       1:
@@ -4176,8 +4176,8 @@ metadata:
           Mizu Zokusei no Mahou Tsukai
         label: Score,Watching,2025 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
+        user_rating: 6.9
+    audience_rating: 6.9
     critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -4691,13 +4691,13 @@ metadata:
       1:
         title: |-
           Ore wa Seikan Kokka no Akutoku Ryoushu! 
-        label: Score,Watching,2025 Spring
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Spring
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.7
     audience_rating: 6.7
     critic_rating: 7.0
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   412826:
     title: |-
       Otomege Sekai wa Mob ni Kibishii Sekai desu
@@ -5189,7 +5189,7 @@ metadata:
       Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
     original_title: |-
       The Beginning After the End
-    genre.sync: Action,Adventure,Fantasy,Magic,Isekai,Reincarnation,Medieval,War,Male Protagonist,CGI
+    genre.sync: Action,Adventure,Fantasy,Magic,Isekai,Reincarnation,Medieval,War,Male Protagonist,Cultivation,CGI
     studio: studio A-CAT
     seasons:
       1:
@@ -5651,7 +5651,7 @@ metadata:
       Shingeki no Kyojin
     original_title: |-
       Attack on Titan
-    genre.sync: Action,Drama,Fantasy,Mystery,Revenge,Kaiju,Male Protagonist,Tragedy,Military,Post-Apocalyptic,Primarily Teen Cast,Super Power,Henshin,Steampunk,Swordplay,Gore,Memory Manipulation,Dystopian,Ensemble Cast,Orphan,Kuudere,Espionage,Cannibalism
+    genre.sync: Action,Drama,Fantasy,Mystery,Kaiju,Tragedy,Military,Revenge,Post-Apocalyptic,Primarily Teen Cast,Male Protagonist,Super Power,Henshin,Steampunk,Swordplay,Gore,Memory Manipulation,Dystopian,Ensemble Cast,Orphan,Kuudere,Cannibalism,Espionage
     studio: WIT STUDIO
     seasons:
       0:
@@ -6671,7 +6671,7 @@ metadata:
       Tsuihousha Shokudou e Youkoso!
     original_title: |-
       Welcome to the Outcast's Restaurant!
-    genre.sync: Adventure,Comedy,Fantasy,Slice of Life,Male Protagonist,Restaurant
+    genre.sync: Adventure,Comedy,Fantasy,Slice of Life,Male Protagonist,Restaurant,Food,Slavery
     studio: OLM
     seasons:
       1:
@@ -7572,8 +7572,8 @@ metadata:
           Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru
         label: Score,Watching,2025 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
