@@ -200,7 +200,7 @@ metadata:
       A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.
     original_title: |-
       I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!
-    genre.sync: Action,Adventure,Comedy,Fantasy,Female Harem,Male Protagonist,Dungeon,Primarily Female Cast,Magic
+    genre.sync: Action,Adventure,Comedy,Fantasy,Female Harem,Dungeon,Male Protagonist,Primarily Female Cast,Magic
     studio: Bandai Namco Pictures
     seasons:
       1:
@@ -438,7 +438,7 @@ metadata:
         label.remove: Completed,Watching,Paused,Planning
         user_rating: 6.2
     audience_rating: 6.2
-    critic_rating: 6.4
+    critic_rating: 6.3
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   357019:
@@ -1085,7 +1085,7 @@ metadata:
       Busamen Gachi Fighter
     original_title: |-
       Uglymug, Epicfighter
-    genre.sync: Adventure,Fantasy,Isekai,Seinen,Male Protagonist,Super Power
+    genre.sync: Adventure,Fantasy,Isekai,Seinen,Male Protagonist,Super Power,Archery
     studio: WHITE FOX
     seasons:
       1:
@@ -1095,7 +1095,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.1
     audience_rating: 6.1
-    critic_rating: 6.6
+    critic_rating: 6.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   397934:
@@ -1289,7 +1289,7 @@ metadata:
       Clevatess: Majuu no Ou to Akago to Kabane no Yuusha
     original_title: |-
       Clevatess
-    genre.sync: Action,Drama,Fantasy,Medieval,Revenge,Magic,Parenthood
+    genre.sync: Action,Drama,Fantasy,Medieval,Revenge,Magic,Parenthood,Demons,Adoption,Anti-Hero,Swordplay
     studio: Lay-duce
     seasons:
       1:
@@ -1297,8 +1297,8 @@ metadata:
           Clevatess: Majuu no Ou to Akago to Kabane no Yuusha
         label: Score,Watching,2025 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
+        user_rating: 7.6
+    audience_rating: 7.6
     critic_rating: 7.9
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -1414,7 +1414,7 @@ metadata:
       Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)
     original_title: |-
       Can a Boy-Girl Friendship Survive?
-    genre.sync: Comedy,Romance,Love Triangle,Heterosexual,School,Horticulture,Male Protagonist,Unrequited Love,Fashion,Coming of Age,Female Protagonist
+    genre.sync: Comedy,Romance,Love Triangle,Heterosexual,School,Horticulture,Male Protagonist,Unrequited Love,Coming of Age,Fashion,Female Protagonist
     studio: J.C.STAFF
     seasons:
       1:
@@ -1657,6 +1657,34 @@ metadata:
     critic_rating: 7.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  423688:
+    title: |-
+      Long Zu
+    sort_title: |-
+      Long Zu
+    original_title: |-
+      Dragon Raja -The Blazing Dawn-
+    genre.sync: Action,Drama,Fantasy,Dragons,College,Lost Civilization,Male Protagonist,Magic,Conspiracy
+    studio: GARDEN
+    seasons:
+      0:
+        label.remove: Score
+      1:
+        title: |-
+          Long Zu
+        label: Score,Completed,2022 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.2
+      2:
+        title: |-
+          Long Zu 2
+        label: Score,2025 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.5
+    audience_rating: 6.8
+    critic_rating: 7.4
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   423257:
     title: |-
       Dungeon Meshi
@@ -2678,7 +2706,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.2
     audience_rating: 6.2
-    critic_rating: 6.6
+    critic_rating: 6.5
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   402474:
@@ -3490,8 +3518,8 @@ metadata:
           Kizetsu Yuusha to Ansatsu Hime
         label: Score,Watching,2025 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.0
-    audience_rating: 6.0
+        user_rating: 6.1
+    audience_rating: 6.1
     critic_rating: 6.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -5049,7 +5077,7 @@ metadata:
       Rock wa Lady no Tashinami Deshite
     original_title: |-
       Rock is a Lady’s Modesty
-    genre.sync: Drama,Music,Female Protagonist,Band,Rock Music,Ojou-sama,Primarily Female Cast,Primarily Teen Cast,Yuri,School,CGI,Urban,LGBTQ+ Themes,Seinen
+    genre.sync: Drama,Music,Female Protagonist,Band,Rock Music,Ojou-sama,Primarily Female Cast,Primarily Teen Cast,School,CGI,Urban,Yuri,Seinen
     studio: Bandai Namco Pictures
     seasons:
       1:
@@ -7474,7 +7502,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.1
     audience_rating: 6.1
-    critic_rating: 6.6
+    critic_rating: 6.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   435343:
