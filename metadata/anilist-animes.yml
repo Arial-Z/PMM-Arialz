@@ -418,7 +418,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.0
     audience_rating: 8.0
-    critic_rating: 8.1
+    critic_rating: 8.0
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   453353:
@@ -2333,7 +2333,7 @@ metadata:
       Hikaru ga Shinda Natsu
     original_title: |-
       The Summer Hikaru Died
-    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Male Protagonist,Monster Boy,Rural,Tragedy,Cosmic Horror,LGBTQ+ Themes,Boys' Love,Mythology,Primarily Teen Cast,Denpa,Unrequited Love,POV
+    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Male Protagonist,Monster Boy,Rural,Tragedy,Cosmic Horror,LGBTQ+ Themes,Mythology,Boys' Love,Denpa,Primarily Teen Cast,Unrequited Love
     studio: CygamesPictures
     seasons:
       1:
@@ -5847,7 +5847,7 @@ metadata:
       Silent Witch: Chinmoku no Majo no Kakushigoto
     original_title: |-
       Secrets of the Silent Witch
-    genre.sync: Adventure,Fantasy,Female Protagonist,Witch,School,Magic,Royal Affairs,Shoujo,Hikikomori,Politics,Ojou-sama,Coming of Age,Bullying
+    genre.sync: Adventure,Fantasy,Female Protagonist,Witch,School,Royal Affairs,Magic,Shoujo,Hikikomori,Politics,Primarily Teen Cast,Ojou-sama,Coming of Age,Bullying
     studio: Studio Gokumi
     seasons:
       1:
@@ -5857,7 +5857,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.7
     audience_rating: 7.7
-    critic_rating: 7.9
+    critic_rating: 8.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   412696:
@@ -7080,7 +7080,7 @@ metadata:
       Watari-kun no xx ga Houkai Sunzen
     original_title: |-
       Watari-kun's ****** Is about to Collapse
-    genre.sync: Comedy,Drama,Romance,Slice of Life,Love Triangle,Yandere,Kuudere,School,Female Harem,Seinen,Heterosexual
+    genre.sync: Comedy,Drama,Romance,Slice of Life,Love Triangle,Yandere,Kuudere,School,Heterosexual,Female Harem
     studio: Staple Entertainment
     seasons:
       1:
@@ -7520,8 +7520,8 @@ metadata:
           Zatsu Tabi: That's Journey
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
+        user_rating: 6.7
+    audience_rating: 6.7
     critic_rating: 6.9
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
