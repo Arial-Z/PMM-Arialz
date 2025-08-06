@@ -6199,13 +6199,13 @@ metadata:
       4:
         title: |-
           Tate no Yuusha no Nariagari Season 4
-        label: Score,2025 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Summer
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.2
-    label: AA Winner,Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: AA Winner,Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   80096:
     title: |-
       Tengen Toppa Gurren Lagann
