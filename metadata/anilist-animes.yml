@@ -292,7 +292,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
-    critic_rating: 7.5
+    critic_rating: 7.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   348706:
@@ -428,7 +428,7 @@ metadata:
       Arafou Otoko no Isekai Tsuuhan Seikatsu
     original_title: |-
       The Daily Life of a Middle-Aged Online Shopper in Another World
-    genre.sync: Ecchi,Fantasy,Isekai,Nekomimi,Male Protagonist,Economics,Female Harem,Nudity,Food,Anthropomorphism,Kemonomimi
+    genre.sync: Ecchi,Fantasy,Isekai,Nekomimi,Male Protagonist,Adoption,Economics,Female Harem,Nudity,Food,Anthropomorphism,Kemonomimi
     studio: East Fish Studio
     seasons:
       1:
@@ -4204,8 +4204,8 @@ metadata:
           Mizu Zokusei no Mahou Tsukai
         label: Score,Watching,2025 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -5227,7 +5227,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 5.9
     audience_rating: 5.9
-    critic_rating: 6.1
+    critic_rating: 6.2
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   423732:
@@ -6699,7 +6699,7 @@ metadata:
       Tsuihousha Shokudou e Youkoso!
     original_title: |-
       Welcome to the Outcast's Restaurant!
-    genre.sync: Adventure,Comedy,Fantasy,Slice of Life,Male Protagonist,Restaurant,Food,Slavery
+    genre.sync: Adventure,Comedy,Fantasy,Slice of Life,Restaurant,Male Protagonist,Food,Rural
     studio: OLM
     seasons:
       1:
