@@ -3814,13 +3814,13 @@ metadata:
       2:
         title: |-
           Long Zu 2
-        label: Score,2025 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Summer
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.6
     audience_rating: 6.9
     critic_rating: 7.4
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   414057:
     title: |-
       Lycoris Recoil
