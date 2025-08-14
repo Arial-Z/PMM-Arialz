@@ -292,7 +292,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
-    critic_rating: 7.4
+    critic_rating: 7.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   348706:
@@ -1402,8 +1402,8 @@ metadata:
           Dandadan 2nd Season
         label: Score,2025 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.2
-    audience_rating: 8.3
+        user_rating: 8.3
+    audience_rating: 8.4
     critic_rating: 8.5
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
@@ -4935,8 +4935,8 @@ metadata:
       1:
         title: |-
           Quanzhi Gaoshou
-        label: Score,2017 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Completed,2017 Spring
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.5
       2:
         title: |-
@@ -5277,7 +5277,7 @@ metadata:
       Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi
     original_title: |-
       Headhunted to Another World: From Salaryman to Big Four!
-    genre.sync: Adventure,Comedy,Fantasy,Politics,Isekai,Work,Economics,Demons,Kemonomimi,Magic,Monster Girl,Elf
+    genre.sync: Adventure,Comedy,Fantasy,Isekai,Politics,Work,Economics,Demons,Kemonomimi,Magic,Monster Girl,Elf
     studio: GEEKTOYS
     seasons:
       1:
@@ -6699,7 +6699,7 @@ metadata:
       Tsuihousha Shokudou e Youkoso!
     original_title: |-
       Welcome to the Outcast's Restaurant!
-    genre.sync: Adventure,Comedy,Fantasy,Slice of Life,Restaurant,Male Protagonist,Food,Rural
+    genre.sync: Adventure,Comedy,Fantasy,Slice of Life,Restaurant,Male Protagonist,Food,Suicide,Rural
     studio: OLM
     seasons:
       1:
@@ -7592,7 +7592,7 @@ metadata:
       Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru
     original_title: |-
       Betrothed to My Sister's Ex
-    genre.sync: Drama,Romance,Royal Affairs,Heterosexual,Marriage,Female Protagonist,Josei
+    genre.sync: Drama,Fantasy,Romance,Royal Affairs,Heterosexual,Marriage,Female Protagonist,Josei
     studio: LandQ studios
     seasons:
       1:
