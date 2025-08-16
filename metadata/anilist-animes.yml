@@ -178,7 +178,7 @@ metadata:
       86: Eighty Six
     original_title: |-
       86 Eighty-six
-    genre.sync: Action,Drama,Mecha,Sci-Fi,War,Class Struggle,Military,Tragedy,Dystopian,Survival,Politics,Proxy Battle,Post-Apocalyptic,Female Protagonist,Memory Manipulation,Robots,Male Protagonist,Conspiracy,Real Robot,Guns,Primarily Teen Cast,Ensemble Cast
+    genre.sync: Action,Drama,Mecha,Sci-Fi,War,Class Struggle,Military,Tragedy,Dystopian,Survival,Politics,Proxy Battle,Post-Apocalyptic,Female Protagonist,Robots,Male Protagonist,Memory Manipulation,Conspiracy,Guns,Real Robot,Ensemble Cast,Primarily Teen Cast
     studio: A-1 Pictures
     seasons:
       0:
@@ -322,7 +322,7 @@ metadata:
       Anne Shirley
     original_title: |-
       Anne Shirley
-    genre.sync: Drama,Slice of Life,Orphan,Parenthood,Female Protagonist,Coming of Age,Classic Literature,Historical,Shoujo,Rural,Iyashikei,Family Life,Adoption,School,Teacher,Foreign
+    genre.sync: Drama,Slice of Life,Orphan,Female Protagonist,Parenthood,Coming of Age,Classic Literature,Rural,Historical,Shoujo,Iyashikei,School,Family Life,Adoption,Teacher,Foreign,Coastal
     studio: The Answer Studio
     seasons:
       1:
@@ -586,7 +586,7 @@ metadata:
       Bad Girl
     original_title: |-
       Bad Girl
-    genre.sync: Comedy,Romance,School,Female Protagonist,Primarily Female Cast,Yuri,Cute Girls Doing Cute Things,Delinquents,Primarily Teen Cast,Urban,Surreal Comedy,Female Harem
+    genre.sync: Comedy,Romance,School,Female Protagonist,Primarily Female Cast,Yuri,Cute Girls Doing Cute Things,Delinquents,Primarily Teen Cast,Urban,Surreal Comedy,LGBTQ+ Themes,Female Harem
     studio: Bridge
     seasons:
       1:
@@ -594,8 +594,8 @@ metadata:
           Bad Girl
         label: Score,2025 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
+        user_rating: 6.6
+    audience_rating: 6.6
     critic_rating: 6.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -1211,7 +1211,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.5
     audience_rating: 8.3
-    critic_rating: 8.3
+    critic_rating: 8.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   415440:
@@ -1664,7 +1664,7 @@ metadata:
       Dungeon Meshi
     original_title: |-
       Delicious in Dungeon
-    genre.sync: Adventure,Comedy,Fantasy,Dungeon,Food,Magic,Primarily Adult Cast,Ensemble Cast,Medieval,Environmental,Elf,Monster Girl,Lost Civilization,Dragons,Necromancy,Body Horror,Chimera,Female Protagonist,Male Protagonist
+    genre.sync: Adventure,Comedy,Fantasy,Dungeon,Food,Magic,Primarily Adult Cast,Elf,Ensemble Cast,Medieval,Environmental,Monster Girl,Lost Civilization,Dragons,Necromancy,Body Horror,Chimera,Male Protagonist,Female Protagonist
     studio: TRIGGER
     seasons:
       1:
@@ -1890,7 +1890,7 @@ metadata:
       Gachiakuta
     original_title: |-
       Gachiakuta
-    genre.sync: Action,Drama,Fantasy,Class Struggle,Shounen,Urban Fantasy,Dystopian,Super Power,Post-Apocalyptic,Ensemble Cast,Male Protagonist,Revenge,Survival,Tragedy,CGI
+    genre.sync: Action,Drama,Fantasy,Class Struggle,Shounen,Urban Fantasy,Dystopian,Super Power,Survival,Ensemble Cast,Revenge,Male Protagonist,Post-Apocalyptic,Tragedy,CGI,Urban
     studio: bones
     seasons:
       1:
@@ -2091,14 +2091,14 @@ metadata:
           Great Pretender
         label: Score,Completed,2020 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.2
+        user_rating: 8.1
       2:
         title: |-
           Great Pretender
         label: Score,Completed,2020 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.2
-    audience_rating: 8.2
+        user_rating: 8.1
+    audience_rating: 8.1
     critic_rating: 8.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -3260,7 +3260,7 @@ metadata:
       Kill la Kill
     original_title: |-
       Kill la Kill
-    genre.sync: Action,Comedy,Ecchi,Henshin,Female Protagonist,Revenge,Incest,Psychosexual,Nudity,Parody,Surreal Comedy,Class Struggle,Dystopian,Tomboy,Super Power,Age Gap,Aliens,Orphan,Coming of Age,Primarily Teen Cast,Anti-Hero,School,Military,Cult,Bullying,Villainess
+    genre.sync: Action,Comedy,Ecchi,Henshin,Female Protagonist,Revenge,Incest,Nudity,Parody,Surreal Comedy,Psychosexual,Class Struggle,Dystopian,Tomboy,Super Power,Age Gap,Aliens,Orphan,Coming of Age,Primarily Teen Cast,Anti-Hero,School,Military,Cult,Bullying,Villainess
     studio: TRIGGER
     seasons:
       0:
@@ -3666,7 +3666,7 @@ metadata:
       Kowloon Generic Romance
     original_title: |-
       Kowloon Generic Romance
-    genre.sync: Drama,Mystery,Romance,Sci-Fi,Slice of Life,Female Protagonist,Dystopian,Office,Work,Primarily Adult Cast,Conspiracy,Urban,Heterosexual,Amnesia,Clone,Denpa,Urban Fantasy,Tragedy,Body Image,Seinen,Office Lady,Time Loop,Fashion,LGBTQ+ Themes
+    genre.sync: Drama,Mystery,Romance,Sci-Fi,Slice of Life,Female Protagonist,Dystopian,Conspiracy,Primarily Adult Cast,Urban,Heterosexual,Amnesia,Clone,Urban Fantasy,Denpa,Body Image,Tragedy,Seinen,Office Lady,Office,Work,Time Loop,Fashion,LGBTQ+ Themes
     studio: Arvo Animation
     seasons:
       1:
@@ -3828,7 +3828,7 @@ metadata:
       Lycoris Recoil
     original_title: |-
       Lycoris Recoil
-    genre.sync: Action,Slice of Life,Female Protagonist,Primarily Female Cast,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Found Family,Ensemble Cast,Work,Kuudere,Orphan,Espionage,LGBTQ+ Themes,Politics
+    genre.sync: Action,Slice of Life,Female Protagonist,Primarily Female Cast,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Found Family,Work,Kuudere,Orphan,Espionage,LGBTQ+ Themes,Ensemble Cast
     studio: A-1 Pictures
     seasons:
       0:
@@ -4290,7 +4290,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.7
     audience_rating: 7.7
-    critic_rating: 7.8
+    critic_rating: 7.7
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   421103:
@@ -4508,7 +4508,7 @@ metadata:
       Ninja to Koroshiya no Futarigurashi
     original_title: |-
       A Ninja and an Assassin Under One Roof
-    genre.sync: Comedy,Female Protagonist,Primarily Female Cast,Assassins,Slapstick,Ninja,Urban,Anti-Hero,Cute Girls Doing Cute Things,Surreal Comedy,Fugitive,Yuri,Tragedy,LGBTQ+ Themes,Yandere
+    genre.sync: Comedy,Female Protagonist,Ninja,Primarily Female Cast,Assassins,Slapstick,Urban,Anti-Hero,Cute Girls Doing Cute Things,Surreal Comedy,Fugitive,Yuri,Tragedy,LGBTQ+ Themes,Robots
     studio: Shaft
     seasons:
       1:
@@ -4576,7 +4576,7 @@ metadata:
       One Piece
     original_title: |-
       One Piece
-    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Pirates,Travel,Shounen,Ensemble Cast,Super Power,Found Family,Male Protagonist,Tragedy,Ships,Conspiracy,Slapstick,Slavery,Time Skip,Dystopian,Politics,War,Fugitive,Gods,Crime,Swordplay,Monster Boy,Lost Civilization,Anthropomorphism,Henshin,Philosophy,Prison,Samurai,Robots,Shapeshifting,Food,Cyborg,Primarily Adult Cast,Medicine
+    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Pirates,Travel,Shounen,Ensemble Cast,Super Power,Found Family,Male Protagonist,Tragedy,Ships,Conspiracy,Slapstick,Time Skip,Slavery,Dystopian,Politics,War,Fugitive,Crime,Gods,Swordplay,Monster Boy,Lost Civilization,Anthropomorphism,Henshin,Philosophy,Prison,Food,Samurai,Robots,Shapeshifting,Cyborg,Primarily Adult Cast,Medicine
     studio: Toei Animation
     audience_rating: 8.8
     critic_rating: 8.7
@@ -4831,7 +4831,7 @@ metadata:
       Owari no Seraph
     original_title: |-
       Seraph of the End: Vampire Reign
-    genre.sync: Action,Drama,Fantasy,Mystery,Supernatural,Vampire,Post-Apocalyptic,Urban Fantasy,Male Protagonist,Shounen,Military,War,Time Skip,Demons,Boys' Love,Revenge,Swordplay,Lost Civilization,Primarily Teen Cast
+    genre.sync: Action,Drama,Fantasy,Mystery,Supernatural,Vampire,Post-Apocalyptic,Urban Fantasy,Male Protagonist,Shounen,Military,War,Time Skip,Demons,Revenge,Swordplay,Lost Civilization,Boys' Love,Primarily Teen Cast
     studio: WIT STUDIO
     seasons:
       1:
@@ -5479,7 +5479,7 @@ metadata:
       Sentai Daishikkaku
     original_title: |-
       Go! Go! Loser Ranger!
-    genre.sync: Action,Comedy,Drama,Sci-Fi,Monster Boy,Urban Fantasy,Tokusatsu,Anti-Hero,Revenge,Shapeshifting,Espionage,Henshin,Aliens,Survival,Urban,Conspiracy,Fugitive
+    genre.sync: Action,Comedy,Drama,Sci-Fi,Urban Fantasy,Monster Boy,Tokusatsu,Anti-Hero,Revenge,Shapeshifting,Espionage,Henshin,Aliens,Survival,Urban,Conspiracy,Fugitive
     studio: Yostar Pictures
     seasons:
       1:
@@ -5989,13 +5989,13 @@ metadata:
           Spy×family
         label: Score,AA Winner,Completed,2022 Fall,2022 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.3
+        user_rating: 8.2
       2:
         title: |-
           SPY×FAMILY Season 2
         label: Score,Completed,2023 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.0
+        user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.2
     label: AA Winner,Planned,Completed
@@ -6213,7 +6213,7 @@ metadata:
       Tengen Toppa Gurren Lagann
     original_title: |-
       Gurren Lagann
-    genre.sync: Action,Comedy,Drama,Mecha,Romance,Sci-Fi,Super Robot,Coming of Age,Found Family,Male Protagonist,Dystopian,Post-Apocalyptic,Space Opera,Tragedy,War,Travel,Space,Class Struggle,Primarily Adult Cast,Aliens,Time Skip,Politics,Anthropomorphism,Heterosexual,Desert,Outdoor Activities
+    genre.sync: Action,Comedy,Drama,Mecha,Romance,Sci-Fi,Super Robot,Coming of Age,Found Family,Dystopian,Male Protagonist,Post-Apocalyptic,Space Opera,Tragedy,Travel,War,Primarily Adult Cast,Space,Aliens,Time Skip,Politics,Outdoor Activities,Class Struggle,Philosophy,Anthropomorphism,Heterosexual
     studio: Gainax
     seasons:
       0:
@@ -6515,7 +6515,7 @@ metadata:
       Tokyo Revengers
     original_title: |-
       Tokyo Revengers
-    genre.sync: Action,Drama,Romance,Supernatural,Gangs,Delinquents,Time Manipulation,Age Regression,Male Protagonist,Tragedy,Primarily Male Cast,Urban,Ensemble Cast,Crime,Revenge,Alternate Universe,Shounen,Motorcycles,Heterosexual,Bullying
+    genre.sync: Action,Drama,Romance,Supernatural,Gangs,Delinquents,Time Manipulation,Age Regression,Male Protagonist,Primarily Male Cast,Tragedy,Urban,Ensemble Cast,Crime,Revenge,Alternate Universe,Shounen,Motorcycles,Heterosexual,Bullying
     studio: LIDENFILMS
     seasons:
       1:
@@ -6645,8 +6645,8 @@ metadata:
           Tougen Anki
         label: Score,Watching,2025 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
+        user_rating: 6.7
+    audience_rating: 6.7
     critic_rating: 7.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -6791,7 +6791,7 @@ metadata:
       Tu Bian Yingxiong X
     original_title: |-
       To Be Hero X
-    genre.sync: Action,Drama,Mystery,Supernatural,Urban Fantasy,Conspiracy,Superhero,Tragedy,Henshin,Anti-Hero,Achronological Order,Super Power,Idol,CGI,Mixed Media,Suicide,Ensemble Cast,Male Protagonist,Female Protagonist
+    genre.sync: Action,Drama,Mystery,Supernatural,Urban Fantasy,Conspiracy,Superhero,Henshin,Tragedy,Anti-Hero,Achronological Order,Super Power,Idol,CGI,Mixed Media,Suicide,Ensemble Cast,Female Protagonist,Male Protagonist
     studio: Paper Plane Animation Studio
     seasons:
       1:
@@ -7100,7 +7100,7 @@ metadata:
       Wind Breaker
     original_title: |-
       Wind Breaker
-    genre.sync: Action,Comedy,Drama,Gangs,Delinquents,Male Protagonist,Primarily Male Cast,Shounen,School,Urban,Found Family,Tsundere,Ensemble Cast,Primarily Teen Cast,Bullying
+    genre.sync: Action,Comedy,Drama,Gangs,Delinquents,Male Protagonist,Primarily Male Cast,Shounen,School,Found Family,Urban,Tsundere,Ensemble Cast,Primarily Teen Cast,Bullying
     studio: CloverWorks
     seasons:
       1:
@@ -7322,7 +7322,7 @@ metadata:
       Yoru no Kurage wa Oyogenai
     original_title: |-
       Jellyfish Can’t Swim in the Night
-    genre.sync: Drama,Music,Slice of Life,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Drawing,Urban,Band,Idol,Cute Girls Doing Cute Things,Hikikomori
+    genre.sync: Drama,Music,Slice of Life,Primarily Female Cast,Female Protagonist,Primarily Teen Cast,Coming of Age,Drawing,Urban,Band,Idol,Cute Girls Doing Cute Things,Hikikomori
     studio: Doga Kobo
     seasons:
       1:
@@ -7532,7 +7532,7 @@ metadata:
       Zenshuu.
     original_title: |-
       Zenshu
-    genre.sync: Action,Fantasy,Romance,Isekai,Female Protagonist,Super Power,Magic,Drawing,Primarily Adult Cast,Heterosexual,Food,Anthropomorphism,Meta,Gods,Otaku Culture,Tragedy
+    genre.sync: Action,Fantasy,Romance,Isekai,Female Protagonist,Super Power,Magic,Drawing,Anthropomorphism,Meta,Heterosexual,Tragedy,Primarily Adult Cast
     studio: MAPPA
     seasons:
       1:
@@ -7572,7 +7572,7 @@ metadata:
       Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto
     original_title: |-
       Zom 100: Bucket List of the Dead
-    genre.sync: Action,Comedy,Horror,Supernatural,Zombie,Travel,Post-Apocalyptic,Surreal Comedy,Survival,Rural,Male Protagonist,Urban,Primarily Adult Cast,Rehabilitation,Slapstick,Work,Tsundere,Seinen,Gore,Body Horror
+    genre.sync: Action,Comedy,Horror,Supernatural,Zombie,Post-Apocalyptic,Travel,Surreal Comedy,Survival,Rural,Male Protagonist,Urban,Primarily Adult Cast,Rehabilitation,Slapstick,Work,Seinen,Tsundere,Gore,Body Horror
     studio: BUG FILMS
     seasons:
       1:
