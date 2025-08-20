@@ -500,13 +500,13 @@ metadata:
       3:
         title: |-
           Arknights: Enshin Shomei
-        label: Score,2025 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Summer
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.5
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   291630:
     title: |-
       Arslan Senki (TV)
@@ -2568,13 +2568,13 @@ metadata:
       1:
         title: |-
           Isekai Nonbiri Nouka
-        label: Score,2023 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Completed,2023 Winter
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.4
     audience_rating: 7.4
     critic_rating: 7.5
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   422250:
     title: |-
       Isekai Shikkaku
