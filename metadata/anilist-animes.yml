@@ -30,7 +30,7 @@ metadata:
           Hajime no Ippo
         label: Score,Completed,2000 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.6
+        user_rating: 8.7
       2:
         title: |-
           Hajime no Ippo: New Challenger
@@ -43,7 +43,7 @@ metadata:
         label: Score,Completed,2013 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.5
-    audience_rating: 8.5
+    audience_rating: 8.6
     critic_rating: 8.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -322,7 +322,7 @@ metadata:
       Anne Shirley
     original_title: |-
       Anne Shirley
-    genre.sync: Drama,Slice of Life,Orphan,Female Protagonist,Parenthood,Coming of Age,Classic Literature,Rural,Historical,Shoujo,Iyashikei,School,Family Life,Adoption,Teacher,Foreign,Coastal
+    genre.sync: Drama,Slice of Life,Orphan,Female Protagonist,Parenthood,Coming of Age,Classic Literature,Rural,Historical,Shoujo,Iyashikei,Family Life,School,Adoption,Teacher,Foreign,Coastal
     studio: The Answer Studio
     seasons:
       1:
@@ -586,7 +586,7 @@ metadata:
       Bad Girl
     original_title: |-
       Bad Girl
-    genre.sync: Comedy,Romance,School,Female Protagonist,Primarily Female Cast,Yuri,Cute Girls Doing Cute Things,Delinquents,Primarily Teen Cast,Urban,Surreal Comedy,LGBTQ+ Themes,Female Harem
+    genre.sync: Comedy,Romance,School,Female Protagonist,Primarily Female Cast,Yuri,Cute Girls Doing Cute Things,Delinquents,Primarily Teen Cast,Urban,Surreal Comedy,Female Harem,LGBTQ+ Themes
     studio: Bridge
     seasons:
       1:
@@ -911,7 +911,7 @@ metadata:
       Bocchi the Rock!
     original_title: |-
       Bocchi The Rock!
-    genre.sync: Comedy,Music,Slice of Life,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Rock Music,Cute Girls Doing Cute Things,Coming of Age,Hikikomori,Rehabilitation,Surreal Comedy,Meta
+    genre.sync: Comedy,Music,Slice of Life,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Rock Music,Cute Girls Doing Cute Things,Coming of Age,Hikikomori,Rehabilitation,Surreal Comedy,Meta,Mixed Media
     studio: CloverWorks
     seasons:
       1:
@@ -1105,7 +1105,7 @@ metadata:
       Chainsaw Man
     original_title: |-
       Chainsaw Man
-    genre.sync: Action,Drama,Horror,Supernatural,Demons,Monster Boy,Urban Fantasy,Male Protagonist,Gore,Tragedy,Body Horror,Anti-Hero,Shapeshifting,Urban,Henshin,Coming of Age,Shounen,Psychosexual,Surreal Comedy,Monster Girl,Primarily Adult Cast,Heterosexual,Found Family,Anthropomorphism,Guns,Assassins,Age Gap
+    genre.sync: Action,Drama,Horror,Supernatural,Demons,Monster Boy,Urban Fantasy,Male Protagonist,Gore,Anti-Hero,Tragedy,Body Horror,Shapeshifting,Urban,Henshin,Shounen,Coming of Age,Psychosexual,Surreal Comedy,Monster Girl,Primarily Adult Cast,Heterosexual,Anthropomorphism,Found Family,Assassins,Guns,Age Gap
     studio: MAPPA
     seasons:
       1:
@@ -1167,7 +1167,7 @@ metadata:
       Chi. Chikyuu no Undou ni Tsuite
     original_title: |-
       Orb: On the Movements of the Earth
-    genre.sync: Drama,Astronomy,Philosophy,Religion,Ensemble Cast,Seinen,Foreign,Historical,Tragedy,Time Skip,Fugitive,Medieval,Meta,Conspiracy,Primarily Male Cast,Female Protagonist,Torture,Male Protagonist,Politics
+    genre.sync: Drama,Astronomy,Philosophy,Religion,Ensemble Cast,Seinen,Foreign,Historical,Tragedy,Medieval,Time Skip,Fugitive,Conspiracy,Meta,Primarily Male Cast,Torture,Female Protagonist,Male Protagonist,Politics
     studio: MADHOUSE
     seasons:
       1:
@@ -1211,7 +1211,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.5
     audience_rating: 8.3
-    critic_rating: 8.4
+    critic_rating: 8.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   415440:
@@ -1388,7 +1388,7 @@ metadata:
       Dandadan
     original_title: |-
       Dan Da Dan
-    genre.sync: Action,Comedy,Drama,Romance,Sci-Fi,Supernatural,Urban Fantasy,Youkai,Ghost,Aliens,Super Power,Surreal Comedy,Primarily Teen Cast,Shounen,Henshin,Heterosexual,Exorcism,Female Protagonist,Male Protagonist,School
+    genre.sync: Action,Comedy,Drama,Romance,Sci-Fi,Supernatural,Urban Fantasy,Youkai,Ghost,Aliens,Super Power,Surreal Comedy,Primarily Teen Cast,Shounen,Henshin,Heterosexual,Female Protagonist,Male Protagonist,Exorcism,School
     studio: Science SARU
     seasons:
       1:
@@ -1684,7 +1684,7 @@ metadata:
       Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
     original_title: |-
       Is It Wrong to Try to Pick Up Girls in a Dungeon?
-    genre.sync: Action,Adventure,Comedy,Fantasy,Romance,Dungeon,Male Protagonist,Gods,Magic,Mythology,Primarily Female Cast,Female Harem,Swordplay
+    genre.sync: Action,Adventure,Comedy,Fantasy,Romance,Dungeon,Male Protagonist,Gods,Magic,Medieval,Mythology,Primarily Female Cast,Female Harem,Swordplay
     studio: J.C.STAFF
     seasons:
       0:
@@ -1824,7 +1824,7 @@ metadata:
       Fate/strange Fake
     original_title: |-
       Fate/strange Fake
-    genre.sync: Action,Adventure,Fantasy,Mystery,Supernatural,Magic,Religion,Guns,Mythology,War,Dissociative Identities,Conspiracy,Vampire,Archery,Assassins,Cyborg,Swordplay,Police,Ensemble Cast,Foreign,Urban,Urban Fantasy,Battle Royale
+    genre.sync: Action,Adventure,Fantasy,Mystery,Supernatural,Magic,Guns,Mythology,War,Dissociative Identities,Conspiracy,Vampire,Archery,Assassins,Cyborg,Religion,Swordplay,Police,Ensemble Cast,Foreign,Urban,Urban Fantasy,Battle Royale
     studio: A-1 Pictures
     seasons:
       0:
@@ -1890,7 +1890,7 @@ metadata:
       Gachiakuta
     original_title: |-
       Gachiakuta
-    genre.sync: Action,Drama,Fantasy,Class Struggle,Shounen,Urban Fantasy,Dystopian,Super Power,Survival,Ensemble Cast,Revenge,Male Protagonist,Post-Apocalyptic,Tragedy,CGI,Urban
+    genre.sync: Action,Drama,Fantasy,Class Struggle,Shounen,Urban Fantasy,Dystopian,Super Power,Ensemble Cast,Survival,Revenge,Male Protagonist,Post-Apocalyptic,Tragedy,CGI,Urban
     studio: bones
     seasons:
       1:
@@ -1900,7 +1900,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 7.8
-    critic_rating: 8.1
+    critic_rating: 8.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   267246:
@@ -1949,7 +1949,7 @@ metadata:
       Girls Band Cry
     original_title: |-
       Girls Band Cry
-    genre.sync: Drama,Music,Slice of Life,Band,Primarily Female Cast,Female Protagonist,Rock Music,Coming of Age,Full CGI,Urban,Bullying,LGBTQ+ Themes,Yuri
+    genre.sync: Drama,Music,Slice of Life,Band,Primarily Female Cast,Female Protagonist,Rock Music,Coming of Age,Full CGI,Urban,Bullying,LGBTQ+ Themes
     studio: Toei Animation
     seasons:
       1:
@@ -2055,7 +2055,7 @@ metadata:
       Grand Blue
     original_title: |-
       Grand Blue Dreaming
-    genre.sync: Comedy,Slice of Life,Sports,School Club,Slapstick,Coastal,College,Primarily Adult Cast,Seinen,Male Protagonist,Surreal Comedy,Scuba Diving,Ensemble Cast
+    genre.sync: Comedy,Slice of Life,Sports,School Club,Coastal,Slapstick,College,Primarily Adult Cast,Seinen,Male Protagonist,Surreal Comedy,Scuba Diving,Ensemble Cast
     studio: Zero-G
     seasons:
       1:
@@ -2463,7 +2463,7 @@ metadata:
       Houseki no Kuni
     original_title: |-
       Land of the Lustrous
-    genre.sync: Action,Drama,Fantasy,Mystery,Psychological,Coming of Age,Full CGI,Philosophy,Agender,Anthropomorphism,Tragedy,Post-Apocalyptic,Seinen,Coastal,CGI,Memory Manipulation,Body Horror,Survival,Amnesia,Conspiracy,Time Skip
+    genre.sync: Action,Drama,Fantasy,Mystery,Psychological,Coming of Age,CGI,Full CGI,Philosophy,Agender,Anthropomorphism,Tragedy,Post-Apocalyptic,Seinen,Memory Manipulation,Coastal,Body Horror,Survival,Amnesia,Conspiracy,Time Skip
     studio: Orange
     seasons:
       1:
@@ -3194,7 +3194,7 @@ metadata:
       Kidou Senshi Gundam: Tekketsu no Orphans
     original_title: |-
       Mobile Suit GUNDAM Iron Blooded Orphans
-    genre.sync: Action,Drama,Mecha,Sci-Fi,Orphan,Military,Real Robot,Dystopian,War,Tragedy,Politics,Found Family,Swordplay,Super Robot,Anti-Hero,Space,Ensemble Cast,Kuudere,Coming of Age,Polyamorous,Revenge
+    genre.sync: Action,Drama,Mecha,Sci-Fi,Orphan,Military,Real Robot,Dystopian,War,Tragedy,Politics,Found Family,Swordplay,Anti-Hero,Space,Ensemble Cast,Kuudere,Coming of Age,Polyamorous,Revenge,Super Robot
     studio: Sunrise
     seasons:
       1:
@@ -3326,7 +3326,7 @@ metadata:
       Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo
     original_title: |-
       The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You
-    genre.sync: Comedy,Ecchi,Romance,Female Harem,Polyamorous,Ensemble Cast,Surreal Comedy,Heterosexual,Male Protagonist,Primarily Female Cast,Parody,Meta,Primarily Teen Cast,Tsundere,School,Kuudere,Slapstick,Love Triangle,Seinen,Age Regression,Drugs,Alchemy,Gods,MILF,Age Gap
+    genre.sync: Comedy,Ecchi,Romance,Polyamorous,Female Harem,Ensemble Cast,Heterosexual,Surreal Comedy,Male Protagonist,Primarily Female Cast,Parody,Meta,Primarily Teen Cast,Kuudere,Tsundere,School,Slapstick,Love Triangle,Seinen,Drugs,Alchemy,Bisexual,Gods,Age Regression,Age Gap,MILF
     studio: Bibury Animation Studios
     seasons:
       1:
@@ -3378,7 +3378,7 @@ metadata:
       Kimi wa Houkago Insomnia
     original_title: |-
       Insomniacs After School
-    genre.sync: Romance,Slice of Life,Coming of Age,Iyashikei,Photography,Primarily Teen Cast,Seinen,Heterosexual,Astronomy,School Club,Male Protagonist,Female Protagonist,School,Rural,Disability,Outdoor Activities
+    genre.sync: Romance,Slice of Life,Coming of Age,Iyashikei,Heterosexual,Photography,Primarily Teen Cast,Seinen,Astronomy,School Club,Male Protagonist,Female Protagonist,School,Rural,Disability,Camping,Outdoor Activities
     studio: LIDENFILMS
     seasons:
       1:
@@ -3614,7 +3614,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.2
     audience_rating: 6.2
-    critic_rating: 6.6
+    critic_rating: 6.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   413515:
@@ -3828,7 +3828,7 @@ metadata:
       Lycoris Recoil
     original_title: |-
       Lycoris Recoil
-    genre.sync: Action,Slice of Life,Female Protagonist,Primarily Female Cast,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Found Family,Work,Kuudere,Orphan,Espionage,LGBTQ+ Themes,Ensemble Cast
+    genre.sync: Action,Slice of Life,Female Protagonist,Primarily Female Cast,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Found Family,Work,Kuudere,Espionage,Orphan,LGBTQ+ Themes,Restaurant,Ensemble Cast
     studio: A-1 Pictures
     seasons:
       0:
@@ -3912,7 +3912,7 @@ metadata:
           Magi: The kingdom of magic
         label: Score,Completed,2013 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.1
+        user_rating: 8.0
     audience_rating: 7.9
     critic_rating: 8.1
     label: Ended,Completed
@@ -4051,6 +4051,26 @@ metadata:
     critic_rating: 7.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  371436:
+    title: |-
+      Majo no Tabitabi
+    sort_title: |-
+      Majo no Tabitabi
+    original_title: |-
+      Wandering Witch: The Journey of Elaina
+    genre.sync: Adventure,Fantasy,Slice of Life,Episodic,Witch,Magic,Female Protagonist,Travel,Primarily Female Cast,Cute Girls Doing Cute Things,Time Skip,Achronological Order,Tragedy,LGBTQ+ Themes
+    studio: C2C
+    seasons:
+      1:
+        title: |-
+          Majo no Tabitabi
+        label: Score,Completed,2020 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.4
+    audience_rating: 7.4
+    critic_rating: 7.6
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   423601:
     title: |-
       Majo to Yajuu
@@ -4112,8 +4132,8 @@ metadata:
           Maou 2099
         label: Score,Completed,2024 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.4
+        user_rating: 7.3
+    audience_rating: 7.3
     critic_rating: 7.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -4288,8 +4308,8 @@ metadata:
           mono
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.7
-    audience_rating: 7.7
+        user_rating: 7.6
+    audience_rating: 7.6
     critic_rating: 7.7
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
@@ -4508,7 +4528,7 @@ metadata:
       Ninja to Koroshiya no Futarigurashi
     original_title: |-
       A Ninja and an Assassin Under One Roof
-    genre.sync: Comedy,Female Protagonist,Ninja,Primarily Female Cast,Assassins,Slapstick,Urban,Anti-Hero,Cute Girls Doing Cute Things,Surreal Comedy,Fugitive,Yuri,Tragedy,LGBTQ+ Themes,Robots
+    genre.sync: Comedy,Female Protagonist,Primarily Female Cast,Assassins,Slapstick,Ninja,Urban,Cute Girls Doing Cute Things,Anti-Hero,Surreal Comedy,Fugitive,Yuri,Tragedy,LGBTQ+ Themes,Robots
     studio: Shaft
     seasons:
       1:
@@ -4538,14 +4558,14 @@ metadata:
           Noragami
         label: Score,Completed,2014 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.8
+        user_rating: 7.7
       2:
         title: |-
           Noragami ARAGOTO
         label: Score,Completed,2015 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.0
-    audience_rating: 7.9
+    audience_rating: 7.8
     critic_rating: 8.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -4576,7 +4596,7 @@ metadata:
       One Piece
     original_title: |-
       One Piece
-    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Pirates,Travel,Shounen,Ensemble Cast,Super Power,Found Family,Male Protagonist,Tragedy,Ships,Conspiracy,Slapstick,Time Skip,Slavery,Dystopian,Politics,War,Fugitive,Crime,Gods,Swordplay,Monster Boy,Lost Civilization,Anthropomorphism,Henshin,Philosophy,Prison,Food,Samurai,Robots,Shapeshifting,Cyborg,Primarily Adult Cast,Medicine
+    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Pirates,Travel,Shounen,Ensemble Cast,Super Power,Found Family,Male Protagonist,Tragedy,Ships,Conspiracy,Slapstick,Time Skip,Slavery,Dystopian,Politics,War,Fugitive,Crime,Gods,Swordplay,Monster Boy,Lost Civilization,Anthropomorphism,Henshin,Philosophy,Prison,Food,Robots,Shapeshifting,Cyborg,Primarily Adult Cast,Medicine,Samurai
     studio: Toei Animation
     audience_rating: 8.8
     critic_rating: 8.7
@@ -5125,7 +5145,7 @@ metadata:
           Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
         label: Score,Dropped,2023 Summer
         label.remove: Completed,Watching,Paused,Planning
-        user_rating: 7.5
+        user_rating: 7.4
       2:
         title: |-
           Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran
@@ -5257,7 +5277,7 @@ metadata:
       Sakurasou no Pet na Kanojo
     original_title: |-
       The Pet Girl of Sakurasou
-    genre.sync: Comedy,Drama,Romance,Slice of Life,Kuudere,Heterosexual,School,Coming of Age,Ensemble Cast,Found Family,Love Triangle,Work,Drawing,Disability
+    genre.sync: Comedy,Drama,Romance,Slice of Life,Kuudere,Heterosexual,School,Found Family,Coming of Age,Ensemble Cast,Love Triangle,Work,Drawing,Cohabitation,Disability
     studio: J.C.STAFF
     seasons:
       1:
@@ -5649,7 +5669,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.0
     audience_rating: 7.0
-    critic_rating: 7.3
+    critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   369048:
@@ -5719,7 +5739,7 @@ metadata:
       Shirobako
     original_title: |-
       Shirobako
-    genre.sync: Comedy,Drama,Slice of Life,Work,Drawing,Primarily Adult Cast,Female Protagonist,Ensemble Cast,Meta,Otaku Culture,Educational,Office Lady,Primarily Female Cast,Coming of Age
+    genre.sync: Comedy,Drama,Slice of Life,Work,Primarily Adult Cast,Drawing,Female Protagonist,Ensemble Cast,Meta,Otaku Culture,Educational,Office Lady,Primarily Female Cast,Coming of Age
     studio: P.A.WORKS
     seasons:
       0:
@@ -5895,7 +5915,7 @@ metadata:
           Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita
         label: Score,Completed,2021 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.9
+        user_rating: 6.8
       2:
         title: |-
           Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni
@@ -6093,7 +6113,7 @@ metadata:
       Summer Time Render
     original_title: |-
       Summer Time Rendering
-    genre.sync: Action,Drama,Mystery,Supernatural,Thriller,Time Manipulation,Urban Fantasy,Time Loop,Shapeshifting,Reincarnation,Super Power,Primarily Teen Cast,Religion,Mythology,Tragedy,Coastal,Rural,Body Swapping,Alternate Universe,Ensemble Cast,Dissociative Identities,Cosmic Horror,Survival,Gods,Heterosexual,Male Protagonist,Gore,Amnesia,Shounen,Aliens
+    genre.sync: Action,Drama,Mystery,Supernatural,Thriller,Time Manipulation,Urban Fantasy,Time Loop,Shapeshifting,Reincarnation,Super Power,Primarily Teen Cast,Mythology,Religion,Tragedy,Coastal,Rural,Body Swapping,Alternate Universe,Ensemble Cast,Dissociative Identities,Cosmic Horror,Survival,Gods,Heterosexual,Male Protagonist,Gore,Amnesia,Shounen,Aliens
     studio: OLM
     seasons:
       1:
@@ -6213,7 +6233,7 @@ metadata:
       Tengen Toppa Gurren Lagann
     original_title: |-
       Gurren Lagann
-    genre.sync: Action,Comedy,Drama,Mecha,Romance,Sci-Fi,Super Robot,Coming of Age,Found Family,Dystopian,Male Protagonist,Post-Apocalyptic,Space Opera,Tragedy,Travel,War,Primarily Adult Cast,Space,Aliens,Time Skip,Politics,Outdoor Activities,Class Struggle,Philosophy,Anthropomorphism,Heterosexual
+    genre.sync: Action,Comedy,Drama,Mecha,Romance,Sci-Fi,Super Robot,Coming of Age,Found Family,Dystopian,Male Protagonist,Post-Apocalyptic,Space Opera,Tragedy,Travel,War,Space,Primarily Adult Cast,Aliens,Time Skip,Politics,Outdoor Activities,Class Struggle,Urban,Philosophy,Anthropomorphism,Heterosexual
     studio: Gainax
     seasons:
       0:
@@ -6461,7 +6481,7 @@ metadata:
       Tokyo Ghoul
     original_title: |-
       Tokyo Ghoul
-    genre.sync: Action,Drama,Horror,Mystery,Psychological,Supernatural,Gore,Urban Fantasy,Tragedy,Survival,Torture,Body Horror,Male Protagonist,Anti-Hero,Seinen,Coming of Age,Urban,Police,Cannibalism,Detective
+    genre.sync: Action,Drama,Horror,Mystery,Psychological,Supernatural,Gore,Urban Fantasy,Tragedy,Survival,Body Horror,Torture,Male Protagonist,Seinen,Anti-Hero,Coming of Age,Urban,Police,Cannibalism,Detective
     studio: Studio Pierrot
     seasons:
       0:
@@ -6647,7 +6667,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.7
     audience_rating: 6.7
-    critic_rating: 7.0
+    critic_rating: 6.9
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   421378:
@@ -6779,8 +6799,8 @@ metadata:
           Tsuyokute New Saga
         label: Score,Watching,2025 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
+        user_rating: 6.4
+    audience_rating: 6.4
     critic_rating: 6.7
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -6791,7 +6811,7 @@ metadata:
       Tu Bian Yingxiong X
     original_title: |-
       To Be Hero X
-    genre.sync: Action,Drama,Mystery,Supernatural,Urban Fantasy,Conspiracy,Superhero,Henshin,Tragedy,Anti-Hero,Achronological Order,Super Power,Idol,CGI,Mixed Media,Suicide,Ensemble Cast,Female Protagonist,Male Protagonist
+    genre.sync: Action,Drama,Mystery,Supernatural,Urban Fantasy,Conspiracy,Superhero,Henshin,Tragedy,Anti-Hero,Achronological Order,Super Power,Mixed Media,CGI,Idol,Suicide,Ensemble Cast,Female Protagonist,Male Protagonist
     studio: Paper Plane Animation Studio
     seasons:
       1:
@@ -6894,7 +6914,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.5
     audience_rating: 8.5
-    critic_rating: 8.5
+    critic_rating: 8.6
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   423030:
@@ -7012,7 +7032,7 @@ metadata:
       Vinland Saga
     original_title: |-
       Vinland Saga
-    genre.sync: Action,Adventure,Drama,Vikings,Revenge,Foreign,Historical,Philosophy,Male Protagonist,War,Tragedy,Coming of Age,Seinen,Primarily Male Cast,Politics,Military,Anti-Hero,Swordplay,Primarily Adult Cast,Travel,Gore,Medieval,Survival,Ships,Conspiracy,Slavery,Time Skip,Orphan
+    genre.sync: Action,Adventure,Drama,Vikings,Revenge,Foreign,Historical,Philosophy,Male Protagonist,War,Tragedy,Coming of Age,Seinen,Primarily Male Cast,Politics,Military,Anti-Hero,Swordplay,Primarily Adult Cast,Gore,Travel,Medieval,Survival,Ships,Conspiracy,Slavery,Time Skip,Orphan
     studio: WIT STUDIO
     seasons:
       1:
@@ -7073,26 +7093,6 @@ metadata:
     critic_rating: 8.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  371436:
-    title: |-
-      Majo no Tabitabi
-    sort_title: |-
-      Majo no Tabitabi
-    original_title: |-
-      Wandering Witch: The Journey of Elaina
-    genre.sync: Adventure,Fantasy,Slice of Life,Episodic,Witch,Magic,Female Protagonist,Travel,Primarily Female Cast,Cute Girls Doing Cute Things,Time Skip,Achronological Order,Tragedy,LGBTQ+ Themes
-    studio: C2C
-    seasons:
-      1:
-        title: |-
-          Majo no Tabitabi
-        label: Score,Completed,2020 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.4
-    critic_rating: 7.6
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   439785:
     title: |-
       Watari-kun no xx ga Houkai Sunzen
@@ -7146,7 +7146,7 @@ metadata:
       Witch Watch
     original_title: |-
       Witch Watch
-    genre.sync: Comedy,Drama,Fantasy,Romance,Slice of Life,Supernatural,Magic,Witch,Slapstick,Female Protagonist,Found Family,Surreal Comedy,Male Protagonist,Heterosexual,Primarily Teen Cast,Urban Fantasy,Cohabitation,Otaku Culture,Episodic,Shounen,Parody,Meta
+    genre.sync: Comedy,Drama,Fantasy,Romance,Slice of Life,Supernatural,Magic,Witch,Slapstick,Female Protagonist,Found Family,Surreal Comedy,Primarily Teen Cast,Male Protagonist,Heterosexual,Urban Fantasy,Cohabitation,Otaku Culture,Episodic,Shounen,Parody,Meta
     studio: Bibury Animation Studios
     seasons:
       1:
@@ -7362,7 +7362,7 @@ metadata:
       Youjo Senki
     original_title: |-
       Saga of Tanya the Evil
-    genre.sync: Action,Fantasy,Military,War,Anti-Hero,Female Protagonist,Religion,Revenge,Primarily Adult Cast,Reincarnation,Gods,Isekai,Magic,Philosophy,Historical,Foreign,Guns,Politics,Gender Bending
+    genre.sync: Action,Fantasy,Military,War,Anti-Hero,Religion,Female Protagonist,Revenge,Primarily Adult Cast,Reincarnation,Gods,Isekai,Magic,Philosophy,Foreign,Historical,Guns,Politics,Gender Bending,Gore
     studio: NUT
     seasons:
       0:
@@ -7520,8 +7520,8 @@ metadata:
           Yuusha Party wo Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugaisugiru
         label: Score,Watching,2025 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
+        user_rating: 6.0
+    audience_rating: 6.0
     critic_rating: 6.3
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -7552,7 +7552,7 @@ metadata:
       Zenshuu.
     original_title: |-
       Zenshu
-    genre.sync: Action,Fantasy,Romance,Isekai,Female Protagonist,Super Power,Magic,Drawing,Anthropomorphism,Meta,Heterosexual,Tragedy,Primarily Adult Cast
+    genre.sync: Action,Fantasy,Romance,Isekai,Female Protagonist,Super Power,Magic,Drawing,Primarily Adult Cast,Heterosexual,Ensemble Cast,Anthropomorphism,Meta,Gods,Tragedy,Otaku Culture
     studio: MAPPA
     seasons:
       1:
