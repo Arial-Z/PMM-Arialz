@@ -4806,6 +4806,50 @@ metadata:
     critic_rating: 7.4
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  313488:
+    title: |-
+      Yi Ren Zhi Xia
+    sort_title: |-
+      Yi Ren Zhi Xia
+    original_title: |-
+      Hitori no Shita - The Outcast
+    genre.sync: Action,Adventure,Supernatural,Martial Arts,Cultivation,Super Power,Urban Fantasy,Female Protagonist
+    studio: Haoliners Animation
+    seasons:
+      1:
+        title: |-
+          Yi Ren Zhi Xia
+        label: Score,Completed,2016 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.4
+      2:
+        title: |-
+          Yi Ren Zhi Xia 2
+        label: Score,Completed,2017 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.1
+      3:
+        title: |-
+          Yi Ren Zhi Xia 3
+        label: Score,Completed,2020 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.6
+      4:
+        title: |-
+          Yi Ren Zhi Xia 4
+        label: Score,Completed,2021 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.5
+      5:
+        title: |-
+          Yi Ren Zhi Xia 5
+        label: Score,2022 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.3
+    audience_rating: 6.6
+    critic_rating: 7.0
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   294002:
     title: |-
       Overlord
@@ -5186,6 +5230,8 @@ metadata:
     genre.sync: Action,Adventure,Fantasy,Mystery,Psychological,Demons,Coming of Age,Religion,Mythology,Adoption,Magic,Gods,Afterlife,Isekai,Swordplay,Reincarnation,Found Family
     studio: Children's Playground Entertainment
     seasons:
+      0:
+        label.remove: Score
       1:
         title: |-
           Saihate no Paladin
