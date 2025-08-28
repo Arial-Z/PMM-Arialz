@@ -4216,7 +4216,7 @@ metadata:
       Mizu Zokusei no Mahou Tsukai
     original_title: |-
       The Water Magician
-    genre.sync: Action,Adventure,Fantasy,Male Protagonist,Isekai,Magic,Reincarnation,Survival,Travel
+    genre.sync: Action,Adventure,Fantasy,Male Protagonist,Isekai,Magic,Reincarnation,Survival
     studio: TYPHOON GRAPHICS
     seasons:
       1:
@@ -4806,50 +4806,6 @@ metadata:
     critic_rating: 7.4
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  313488:
-    title: |-
-      Yi Ren Zhi Xia
-    sort_title: |-
-      Yi Ren Zhi Xia
-    original_title: |-
-      Hitori no Shita - The Outcast
-    genre.sync: Action,Adventure,Supernatural,Martial Arts,Cultivation,Super Power,Urban Fantasy,Female Protagonist
-    studio: Haoliners Animation
-    seasons:
-      1:
-        title: |-
-          Yi Ren Zhi Xia
-        label: Score,Completed,2016 Summer
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-      2:
-        title: |-
-          Yi Ren Zhi Xia 2
-        label: Score,Completed,2017 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-      3:
-        title: |-
-          Yi Ren Zhi Xia 3
-        label: Score,Completed,2020 Spring
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-      4:
-        title: |-
-          Yi Ren Zhi Xia 4
-        label: Score,Completed,2021 Summer
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.5
-      5:
-        title: |-
-          Yi Ren Zhi Xia 5
-        label: Score,2022 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.6
-    critic_rating: 7.0
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   294002:
     title: |-
       Overlord
@@ -5283,7 +5239,7 @@ metadata:
       Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
     original_title: |-
       The Beginning After the End
-    genre.sync: Action,Adventure,Fantasy,Magic,Isekai,Reincarnation,Medieval,War,Male Protagonist,Cultivation,CGI
+    genre.sync: Action,Adventure,Fantasy,Magic,Reincarnation,Isekai,Medieval,Male Protagonist,War,Cultivation,CGI
     studio: studio A-CAT
     seasons:
       1:
@@ -6773,8 +6729,8 @@ metadata:
           Tsuihousha Shokudou e Youkoso!
         label: Score,2025 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 7.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -7355,6 +7311,50 @@ metadata:
     critic_rating: 6.8
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  313488:
+    title: |-
+      Yi Ren Zhi Xia
+    sort_title: |-
+      Yi Ren Zhi Xia
+    original_title: |-
+      Hitori no Shita - The Outcast
+    genre.sync: Action,Adventure,Supernatural,Martial Arts,Cultivation,Super Power,Urban Fantasy,Female Protagonist
+    studio: Haoliners Animation
+    seasons:
+      1:
+        title: |-
+          Yi Ren Zhi Xia
+        label: Score,Completed,2016 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.4
+      2:
+        title: |-
+          Yi Ren Zhi Xia 2
+        label: Score,Completed,2017 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.1
+      3:
+        title: |-
+          Yi Ren Zhi Xia 3
+        label: Score,Completed,2020 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.6
+      4:
+        title: |-
+          Yi Ren Zhi Xia 4
+        label: Score,Completed,2021 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.5
+      5:
+        title: |-
+          Yi Ren Zhi Xia 5
+        label: Score,2022 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.3
+    audience_rating: 6.6
+    critic_rating: 7.0
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   412374:
     title: |-
       Yofukashi no Uta
@@ -7668,6 +7668,6 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.9
     audience_rating: 6.9
-    critic_rating: 7.2
+    critic_rating: 7.3
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
