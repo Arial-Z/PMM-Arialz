@@ -505,8 +505,8 @@ metadata:
         user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.5
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   291630:
     title: |-
       Arslan Senki (TV)
@@ -696,7 +696,7 @@ metadata:
       BanG Dream! Ave Mujica
     original_title: |-
       Ave Mujica - The Die is Cast -
-    genre.sync: Drama,Music,Psychological,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Acting,Yuri,Full CGI,Metal Music,Rock Music,Musical Theater,Disability,Incest
+    genre.sync: Drama,Music,Psychological,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Dissociative Identities,Tragedy,Estranged Family,Yuri,Acting,Full CGI,Metal Music,Musical Theater,Incest,Rock Music,Disability,Ensemble Cast
     studio: SANZIGEN
     seasons:
       1:
@@ -816,8 +816,8 @@ metadata:
           Biaoren
         label: Score,Watching,2023 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.2
+        user_rating: 7.3
+    audience_rating: 7.3
     critic_rating: 7.6
     label: Planned,Watching
     label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
@@ -1085,7 +1085,7 @@ metadata:
       Busamen Gachi Fighter
     original_title: |-
       Uglymug, Epicfighter
-    genre.sync: Adventure,Fantasy,Isekai,Seinen,Male Protagonist,Super Power,Archery
+    genre.sync: Adventure,Fantasy,Isekai,Seinen,Male Protagonist,Super Power
     studio: WHITE FOX
     seasons:
       1:
@@ -1093,8 +1093,8 @@ metadata:
           Busamen Gachi Fighter
         label: Score,2025 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
+        user_rating: 6.0
+    audience_rating: 6.0
     critic_rating: 6.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -1289,7 +1289,7 @@ metadata:
       Clevatess: Majuu no Ou to Akago to Kabane no Yuusha
     original_title: |-
       Clevatess
-    genre.sync: Action,Drama,Fantasy,Medieval,Parenthood,Magic,Demons,Adoption,Swordplay,Revenge,Dystopian,Cosmic Horror,Orphan,War,Sadism,Super Power,Anti-Hero,Slavery,Primarily Adult Cast,Tragedy,Found Family
+    genre.sync: Action,Drama,Fantasy,Parenthood,Medieval,Magic,Demons,Swordplay,Adoption,Dystopian,Revenge,Cosmic Horror,Orphan,War,Super Power,Sadism,Slavery,Primarily Adult Cast,Tragedy,Anti-Hero,Found Family
     studio: Lay-duce
     seasons:
       1:
@@ -1297,8 +1297,8 @@ metadata:
           Clevatess: Majuu no Ou to Akago to Kabane no Yuusha
         label: Score,Watching,2025 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
+        user_rating: 7.6
+    audience_rating: 7.6
     critic_rating: 7.9
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -1404,7 +1404,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.3
     audience_rating: 8.4
-    critic_rating: 8.5
+    critic_rating: 8.6
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   423264:
@@ -1422,8 +1422,8 @@ metadata:
           Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
+        user_rating: 6.5
+    audience_rating: 6.5
     critic_rating: 6.6
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
@@ -1536,8 +1536,8 @@ metadata:
           Dekin no Mogura
         label: Score,Watching,2025 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.8
-    audience_rating: 5.8
+        user_rating: 5.9
+    audience_rating: 5.9
     critic_rating: 6.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -2652,7 +2652,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
-    critic_rating: 6.9
+    critic_rating: 6.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   449884:
@@ -5117,7 +5117,7 @@ metadata:
       Rock wa Lady no Tashinami Deshite
     original_title: |-
       Rock is a Lady’s Modesty
-    genre.sync: Drama,Music,Female Protagonist,Band,Rock Music,Ojou-sama,Primarily Female Cast,Primarily Teen Cast,School,CGI,Urban,Seinen
+    genre.sync: Drama,Music,Female Protagonist,Band,Rock Music,Ojou-sama,Primarily Female Cast,Primarily Teen Cast,School,CGI,Urban,Yuri
     studio: Bandai Namco Pictures
     seasons:
       1:
