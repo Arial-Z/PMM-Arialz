@@ -2162,6 +2162,26 @@ metadata:
     critic_rating: 6.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  464419:
+    title: |-
+      Guimi Zhi Zhu
+    sort_title: |-
+      Guimi Zhi Zhu
+    original_title: |-
+      Lord of Mysteries
+    genre.sync: Action,Drama,Fantasy,Mystery,Supernatural,Thriller,Male Protagonist,Religion,Magic,Cult,Cosmic Horror,Gore,Gods,Body Horror,Steampunk,Primarily Adult Cast,Tragedy,Astronomy,Lost Civilization,Acting,Isekai,Cultivation,Alchemy,Dissociative Identities
+    studio: B.CMAY PICTURES
+    seasons:
+      1:
+        title: |-
+          Guimi Zhi Zhu
+        label: Score,Watching,2025 Spring
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 8.3
+    audience_rating: 8.3
+    critic_rating: 8.6
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   85249:
     title: |-
       Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST
@@ -3841,26 +3861,6 @@ metadata:
     critic_rating: 7.4
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
-  464419:
-    title: |-
-      Guimi Zhi Zhu
-    sort_title: |-
-      Guimi Zhi Zhu
-    original_title: |-
-      Lord of Mysteries
-    genre.sync: Action,Drama,Fantasy,Mystery,Supernatural,Thriller,Male Protagonist,Religion,Magic,Cult,Cosmic Horror,Gore,Gods,Body Horror,Steampunk,Primarily Adult Cast,Tragedy,Astronomy,Lost Civilization,Acting,Isekai,Cultivation,Alchemy,Dissociative Identities
-    studio: B.CMAY PICTURES
-    seasons:
-      1:
-        title: |-
-          Guimi Zhi Zhu
-        label: Score,Watching,2025 Spring
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.3
-    audience_rating: 8.3
-    critic_rating: 8.6
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   414057:
     title: |-
       Lycoris Recoil
