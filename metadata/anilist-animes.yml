@@ -206,13 +206,13 @@ metadata:
       1:
         title: |-
           A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.
-        label: Score,Watching,2025 Winter
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Dropped,2025 Winter
+        label.remove: Completed,Watching,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
     critic_rating: 6.6
-    label: Planned,Watching
-    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
+    label: Planned,Dropped
+    label.remove: Airing,Ended,Completed,Watching,Paused,Planning
   319983:
     title: |-
       ACCA: 13-ku Kansatsu-ka
@@ -6864,8 +6864,8 @@ metadata:
         user_rating: 8.2
     audience_rating: 8.2
     critic_rating: 8.5
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   446485:
     title: |-
       Übel Blatt
