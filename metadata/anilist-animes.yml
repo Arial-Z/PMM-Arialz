@@ -1300,8 +1300,8 @@ metadata:
         user_rating: 7.6
     audience_rating: 7.6
     critic_rating: 7.9
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   79525:
     title: |-
       Code Geass: Hangyaku no Lelouch
@@ -1602,7 +1602,7 @@ metadata:
       Dorohedoro
     original_title: |-
       Dorohedoro
-    genre.sync: Action,Adventure,Comedy,Fantasy,Horror,Mystery,Monster Boy,Dystopian,Magic,CGI,Amnesia,Full CGI,Gore,Surreal Comedy,Ensemble Cast,Body Horror,Seinen,Anti-Hero,Anthropomorphism,Urban Fantasy,Primarily Adult Cast,Curses,Demons,Revenge
+    genre.sync: Action,Adventure,Comedy,Fantasy,Horror,Mystery,Monster Boy,Dystopian,Magic,Amnesia,CGI,Full CGI,Gore,Surreal Comedy,Seinen,Body Horror,Ensemble Cast,Anthropomorphism,Anti-Hero,Urban Fantasy,Primarily Adult Cast,Curses,Demons,Revenge
     studio: MAPPA
     seasons:
       0:
@@ -2693,8 +2693,8 @@ metadata:
         user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 6.6
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   423121:
     title: |-
       Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
@@ -2719,8 +2719,8 @@ metadata:
         user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.4
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   402474:
     title: |-
       Jigokuraku
@@ -4256,7 +4256,7 @@ metadata:
       Mizu Zokusei no Mahou Tsukai
     original_title: |-
       The Water Magician
-    genre.sync: Action,Adventure,Fantasy,Male Protagonist,Isekai,Magic,Reincarnation,Dungeon,Survival
+    genre.sync: Action,Adventure,Fantasy,Male Protagonist,Isekai,Magic,Reincarnation,Dungeon
     studio: TYPHOON GRAPHICS
     seasons:
       1:
@@ -4266,7 +4266,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
-    critic_rating: 7.2
+    critic_rating: 7.1
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   307375:
@@ -5741,7 +5741,7 @@ metadata:
       Shingeki no Kyojin
     original_title: |-
       Attack on Titan
-    genre.sync: Action,Drama,Fantasy,Mystery,Kaiju,Tragedy,Revenge,Military,Primarily Teen Cast,Post-Apocalyptic,Male Protagonist,Super Power,Steampunk,Henshin,Swordplay,Memory Manipulation,Gore,Dystopian,Ensemble Cast,Orphan,Kuudere,Cannibalism,Espionage
+    genre.sync: Action,Drama,Fantasy,Mystery,Kaiju,Tragedy,Revenge,Military,Primarily Teen Cast,Post-Apocalyptic,Male Protagonist,Super Power,Steampunk,Henshin,Gore,Swordplay,Memory Manipulation,Dystopian,Vore,Orphan,Ensemble Cast,Kuudere,Cannibalism,Espionage
     studio: WIT STUDIO
     seasons:
       0:
@@ -6844,8 +6844,8 @@ metadata:
         user_rating: 6.3
     audience_rating: 6.3
     critic_rating: 6.6
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   459453:
     title: |-
       Tu Bian Yingxiong X
@@ -7393,8 +7393,8 @@ metadata:
         user_rating: 6.3
     audience_rating: 6.6
     critic_rating: 7.0
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   412374:
     title: |-
       Yofukashi no Uta
