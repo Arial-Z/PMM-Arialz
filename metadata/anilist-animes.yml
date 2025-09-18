@@ -1405,8 +1405,8 @@ metadata:
         user_rating: 8.3
     audience_rating: 8.4
     critic_rating: 8.6
-    label: AA Winner,Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: AA Winner,Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   423264:
     title: |-
       Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)
