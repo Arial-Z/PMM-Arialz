@@ -696,7 +696,7 @@ metadata:
       BanG Dream! Ave Mujica
     original_title: |-
       Ave Mujica - The Die is Cast -
-    genre.sync: Drama,Music,Psychological,Female Protagonist,Band,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Acting,Yuri,Full CGI,Metal Music,Musical Theater,Incest,Rock Music,Disability,Ensemble Cast
+    genre.sync: Drama,Music,Psychological,Female Protagonist,Band,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Acting,Yuri,Full CGI,Metal Music,Musical Theater,Rock Music,Disability,Ensemble Cast
     studio: SANZIGEN
     seasons:
       1:
@@ -1289,7 +1289,7 @@ metadata:
       Clevatess: Majuu no Ou to Akago to Kabane no Yuusha
     original_title: |-
       Clevatess
-    genre.sync: Action,Drama,Fantasy,Parenthood,Medieval,Magic,Demons,Swordplay,Adoption,Dystopian,Revenge,Cosmic Horror,Orphan,War,Super Power,Sadism,Slavery,Primarily Adult Cast,Tragedy,Anti-Hero,Found Family
+    genre.sync: Action,Drama,Fantasy,Medieval,Magic,Parenthood,Swordplay,Adoption,Primarily Adult Cast,Tragedy,Dystopian,Revenge,Orphan,Anti-Hero,Monster Boy,Demons,Found Family,Cosmic Horror,Slavery,Gore
     studio: Lay-duce
     seasons:
       1:
@@ -1297,8 +1297,8 @@ metadata:
           Clevatess: Majuu no Ou to Akago to Kabane no Yuusha
         label: Score,Watching,2025 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.6
+        user_rating: 7.8
+    audience_rating: 7.8
     critic_rating: 7.9
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
@@ -3798,7 +3798,7 @@ metadata:
       Lazarus
     original_title: |-
       Lazarus
-    genre.sync: Action,Sci-Fi,Ensemble Cast,Crime,Medicine,Urban,Fugitive,Environmental,Drugs,Anti-Hero,Found Family,Episodic,Male Protagonist,Philosophy,Parkour,Cyberpunk,Espionage,Seinen,Guns,Rescue,Homeless
+    genre.sync: Action,Sci-Fi,Ensemble Cast,Crime,Medicine,Urban,Fugitive,Drugs,Environmental,Anti-Hero,Philosophy,Male Protagonist,Episodic,Found Family,Parkour,Cyberpunk,Espionage,Seinen,Guns,Rescue,Homeless
     studio: MAPPA
     seasons:
       1:
@@ -7419,8 +7419,8 @@ metadata:
         user_rating: 8.2
     audience_rating: 8.1
     critic_rating: 8.1
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   432808:
     title: |-
       Yoru no Kurage wa Oyogenai
