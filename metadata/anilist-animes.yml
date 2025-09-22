@@ -2092,8 +2092,8 @@ metadata:
         user_rating: 8.3
     audience_rating: 8.2
     critic_rating: 8.6
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Planned,Watching
+    label.remove: Airing,Ended,Dropped,Paused,Planning
   376144:
     title: |-
       Great Pretender
@@ -2373,7 +2373,7 @@ metadata:
       Hikaru ga Shinda Natsu
     original_title: |-
       The Summer Hikaru Died
-    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Male Protagonist,Rural,Monster Boy,Tragedy,Cosmic Horror,LGBTQ+ Themes,Mythology,Boys' Love,Primarily Teen Cast,Body Horror,Gods,Unrequited Love,Seinen,School
+    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Male Protagonist,Monster Boy,Rural,Tragedy,Cosmic Horror,LGBTQ+ Themes,Mythology,Boys' Love,Primarily Teen Cast,Body Horror,Gods,Unrequited Love,Seinen,School
     studio: CygamesPictures
     seasons:
       1:
@@ -2702,7 +2702,7 @@ metadata:
       Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
     original_title: |-
       Reborn as a Vending Machine, I Now Wander the Dungeon
-    genre.sync: Adventure,Comedy,Fantasy,Language Barrier,Isekai,Food,Female Harem,Reincarnation,Parody,Dungeon,Magic,Martial Arts
+    genre.sync: Adventure,Comedy,Fantasy,Language Barrier,Isekai,Food,Reincarnation,Dungeon,Parody,Magic,Martial Arts,Female Harem
     studio: Studio Gokumi
     seasons:
       1:
@@ -2716,8 +2716,8 @@ metadata:
           Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season
         label: Score,Completed,2025 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
+        user_rating: 6.3
+    audience_rating: 6.3
     critic_rating: 6.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -6135,7 +6135,7 @@ metadata:
       Summer Pockets
     original_title: |-
       Summer Pockets
-    genre.sync: Drama,Romance,Slice of Life,Supernatural,Rural,Urban Fantasy,Time Manipulation,Male Protagonist,Alternate Universe,Tragedy,Coastal,Heterosexual,Family Life,Time Loop,Age Regression,Memory Manipulation,Coming of Age,Ghost
+    genre.sync: Drama,Romance,Slice of Life,Supernatural,Rural,Urban Fantasy,Coastal,Time Manipulation,Male Protagonist,Family Life,Tragedy,Alternate Universe,Time Loop,Heterosexual,Age Regression,Coming of Age,Memory Manipulation
     studio: feel.
     seasons:
       1:
