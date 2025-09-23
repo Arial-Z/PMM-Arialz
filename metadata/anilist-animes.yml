@@ -1400,13 +1400,13 @@ metadata:
       2:
         title: |-
           Dandadan 2nd Season
-        label: Score,2025 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Summer
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.3
     audience_rating: 8.4
     critic_rating: 8.6
-    label: AA Winner,Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: AA Winner,Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   423264:
     title: |-
       Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)
