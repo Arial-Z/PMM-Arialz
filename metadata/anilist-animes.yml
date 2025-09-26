@@ -696,7 +696,7 @@ metadata:
       BanG Dream! Ave Mujica
     original_title: |-
       Ave Mujica - The Die is Cast -
-    genre.sync: Drama,Music,Psychological,Female Protagonist,Band,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Acting,Yuri,Full CGI,Metal Music,Musical Theater,Rock Music,Disability,Ensemble Cast
+    genre.sync: Drama,Music,Psychological,Female Protagonist,Band,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Yuri,Acting,Full CGI,Metal Music,Musical Theater,Rock Music,Disability,Ensemble Cast,LGBTQ+ Themes
     studio: SANZIGEN
     seasons:
       1:
@@ -1093,8 +1093,8 @@ metadata:
           Busamen Gachi Fighter
         label: Score,2025 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.0
-    audience_rating: 6.0
+        user_rating: 6.2
+    audience_rating: 6.2
     critic_rating: 6.3
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
@@ -1355,7 +1355,7 @@ metadata:
       D.Gray-man
     original_title: |-
       D.Gray-man
-    genre.sync: Action,Adventure,Drama,Fantasy,Shounen,Demons,Male Protagonist,Super Power,Exorcism,Foreign,Philosophy,Urban Fantasy,Anachronism,Primarily Teen Cast
+    genre.sync: Action,Adventure,Drama,Fantasy,Shounen,Demons,Male Protagonist,Super Power,Exorcism,Philosophy,Foreign,Urban Fantasy,Primarily Teen Cast,Anachronism
     studio: TMS Entertainment
     audience_rating: 7.6
     critic_rating: 8.0
@@ -1404,7 +1404,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.4
     audience_rating: 8.4
-    critic_rating: 8.6
+    critic_rating: 8.5
     label: AA Winner,Planned,Watching
     label.remove: Airing,Ended,Dropped,Paused,Planning
   423264:
@@ -1528,7 +1528,7 @@ metadata:
       Dekin no Mogura
     original_title: |-
       Dekin no Mogura: The Earthbound Mole
-    genre.sync: Comedy,Drama,Mystery,Slice of Life,Supernatural,Seinen,Exorcism,Primarily Adult Cast,Urban Fantasy,Surreal Comedy
+    genre.sync: Comedy,Drama,Mystery,Slice of Life,Supernatural,Seinen,Exorcism,Primarily Adult Cast,Urban Fantasy,Surreal Comedy,Mythology
     studio: Brain's Base
     seasons:
       1:
@@ -1536,9 +1536,9 @@ metadata:
           Dekin no Mogura
         label: Score,Watching,2025 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.9
-    audience_rating: 5.9
-    critic_rating: 6.2
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.9
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   420550:
@@ -1901,8 +1901,8 @@ metadata:
         user_rating: 7.9
     audience_rating: 8.0
     critic_rating: 8.2
-    label: AA Winner,Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: AA Winner,Planned,Planning
+    label.remove: Airing,Ended,Watching,Dropped,Paused,
   450537:
     title: |-
       Gachiakuta
@@ -3502,7 +3502,7 @@ metadata:
       Kizetsu Yuusha to Ansatsu Hime
     original_title: |-
       The Shy Hero and the Assassin Princesses
-    genre.sync: Action,Comedy,Fantasy
+    genre.sync: Action,Comedy,Fantasy,Magic,Assassins,Female Harem,Rehabilitation
     studio: CONNECT
     seasons:
       1:
@@ -3510,8 +3510,8 @@ metadata:
           Kizetsu Yuusha to Ansatsu Hime
         label: Score,Watching,2025 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.0
-    audience_rating: 6.0
+        user_rating: 6.4
+    audience_rating: 6.4
     critic_rating: 6.5
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
@@ -3778,7 +3778,7 @@ metadata:
       Lazarus
     original_title: |-
       Lazarus
-    genre.sync: Action,Sci-Fi,Ensemble Cast,Crime,Medicine,Urban,Fugitive,Drugs,Environmental,Anti-Hero,Philosophy,Male Protagonist,Episodic,Found Family,Parkour,Cyberpunk,Espionage,Seinen,Guns,Rescue,Homeless
+    genre.sync: Action,Sci-Fi,Ensemble Cast,Crime,Medicine,Urban,Fugitive,Drugs,Environmental,Anti-Hero,Philosophy,Male Protagonist,Episodic,Found Family,Parkour,Cyberpunk,Espionage,Seinen,Guns,Rescue,Foreign,Homeless
     studio: MAPPA
     seasons:
       1:
@@ -4322,7 +4322,7 @@ metadata:
         label.remove: Completed,Watching,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
-    critic_rating: 6.7
+    critic_rating: 6.6
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   371310:
@@ -5089,7 +5089,7 @@ metadata:
       Rock wa Lady no Tashinami Deshite
     original_title: |-
       Rock is a Lady’s Modesty
-    genre.sync: Drama,Music,Female Protagonist,Band,Rock Music,Ojou-sama,Primarily Female Cast,Primarily Teen Cast,School,CGI,Urban,Yuri
+    genre.sync: Drama,Music,Female Protagonist,Band,Rock Music,Ojou-sama,Primarily Female Cast,Primarily Teen Cast,School,CGI,Yuri,Urban
     studio: Bandai Namco Pictures
     seasons:
       1:
@@ -6349,8 +6349,8 @@ metadata:
           Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season
         label: Score,Completed,2025 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.4
+        user_rating: 7.6
+    audience_rating: 7.5
     critic_rating: 7.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -7560,7 +7560,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 5.9
     audience_rating: 5.9
-    critic_rating: 6.2
+    critic_rating: 6.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   435343:
