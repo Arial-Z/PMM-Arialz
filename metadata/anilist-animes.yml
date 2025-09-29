@@ -1923,6 +1923,24 @@ metadata:
     critic_rating: 8.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+  461265:
+    title: |-
+      Sozai Saishuka no Isekai Ryokouki
+    sort_title: |-
+      Sozai Saishuka no Isekai Ryokouki
+    original_title: |-
+      A Gatherer's Adventure in Isekai
+    genre.sync: Adventure,Comedy,Fantasy,Slice of Life
+    studio: Tatsunoko Production
+    seasons:
+      1:
+        title: |-
+          Sozai Saishuka no Isekai Ryokouki
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   267246:
     title: |-
       Gin no Saji
@@ -2091,7 +2109,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.3
     audience_rating: 8.2
-    critic_rating: 8.6
+    critic_rating: 8.4
     label: Planned,Watching
     label.remove: Airing,Ended,Dropped,Paused,Planning
   376144:
@@ -2353,7 +2371,7 @@ metadata:
       Hikaru ga Shinda Natsu
     original_title: |-
       The Summer Hikaru Died
-    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Male Protagonist,Monster Boy,Rural,Tragedy,Cosmic Horror,LGBTQ+ Themes,Mythology,Boys' Love,Primarily Teen Cast,Body Horror,Gods,Unrequited Love,Seinen,School
+    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Tragedy,Rural,Body Horror,Male Protagonist,Cosmic Horror,Mythology,LGBTQ+ Themes,Seinen,Primarily Teen Cast,Gods,Unrequited Love,School,Mixed Media
     studio: CygamesPictures
     seasons:
       1:
@@ -2361,11 +2379,11 @@ metadata:
           Hikaru ga Shinda Natsu
         label: Score,2025 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.0
-    audience_rating: 8.0
-    critic_rating: 8.1
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+        user_rating: 8.1
+    audience_rating: 8.1
+    critic_rating: 8.2
+    label: Planned
+    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   293121:
     title: |-
       Himouto! Umaru-chan
@@ -2573,8 +2591,8 @@ metadata:
         user_rating: 6.7
     audience_rating: 6.7
     critic_rating: 6.7
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   418367:
     title: |-
       Isekai Nonbiri Nouka
@@ -3251,8 +3269,8 @@ metadata:
         user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.3
-    label: Airing,Dropped
-    label.remove: Planned,Ended,Completed,Watching,Paused,Planning
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   432815:
     title: |-
       Kikansha no Mahou wa Tokubetsu desu
@@ -5861,7 +5879,7 @@ metadata:
       Silent Witch: Chinmoku no Majo no Kakushigoto
     original_title: |-
       Secrets of the Silent Witch
-    genre.sync: Adventure,Fantasy,Female Protagonist,Magic,Witch,School,Royal Affairs,Politics,Shoujo,Hikikomori,Primarily Teen Cast,Coming of Age,Ojou-sama,Class Struggle,Bullying
+    genre.sync: Adventure,Fantasy,Female Protagonist,Magic,Witch,School,Royal Affairs,Primarily Teen Cast,Hikikomori,Shoujo,Politics,Coming of Age,Ojou-sama,Class Struggle,Bullying
     studio: Studio Gokumi
     seasons:
       1:
@@ -6098,8 +6116,8 @@ metadata:
         user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.3
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   407306:
     title: |-
       Summer Time Render
@@ -6217,7 +6235,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.0
     audience_rating: 7.1
-    critic_rating: 7.2
+    critic_rating: 7.1
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   80096:
@@ -6811,13 +6829,13 @@ metadata:
       1:
         title: |-
           Tu Bian Yingxiong X
-        label: Score,Watching,2025 Spring
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Dropped,2025 Spring
+        label.remove: Completed,Watching,Paused,Planning
         user_rating: 8.5
     audience_rating: 8.5
     critic_rating: 8.7
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   446485:
     title: |-
       Übel Blatt
@@ -7102,29 +7120,11 @@ metadata:
           Watari-kun no xx ga Houkai Sunzen
         label: Score,2025 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.9
-    audience_rating: 5.9
+        user_rating: 5.8
+    audience_rating: 5.8
     critic_rating: 6.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
-  453694:
-    title: |-
-      Yasei no Last Boss ga Arawareta!
-    sort_title: |-
-      Yasei no Last Boss ga Arawareta!
-    original_title: |-
-      A Wild Last Boss Appeared!
-    genre.sync: Action,Adventure,Fantasy,Isekai,Magic,Primarily Female Cast,Female Protagonist,Gender Bending,Virtual World
-    studio: WAO World
-    seasons:
-      1:
-        title: |-
-          Yasei no Last Boss ga Arawareta!
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   433088:
     title: |-
       Wind Breaker
@@ -7321,6 +7321,24 @@ metadata:
     critic_rating: 6.8
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  453694:
+    title: |-
+      Yasei no Last Boss ga Arawareta!
+    sort_title: |-
+      Yasei no Last Boss ga Arawareta!
+    original_title: |-
+      A Wild Last Boss Appeared!
+    genre.sync: Action,Adventure,Fantasy,Isekai,Magic,Primarily Female Cast,Female Protagonist,Gender Bending,Virtual World
+    studio: WAO World
+    seasons:
+      1:
+        title: |-
+          Yasei no Last Boss ga Arawareta!
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   313488:
     title: |-
       Yi Ren Zhi Xia
