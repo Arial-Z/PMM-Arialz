@@ -2024,6 +2024,26 @@ metadata:
     critic_rating: 8.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  440502:
+    title: |-
+      Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga
+    sort_title: |-
+      Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga
+    original_title: |-
+      Hero Without a Class: Who Even Needs Skills?!
+    genre.sync: Action,Adventure,Comedy,Fantasy,Shounen,Swordplay
+    studio: studio A-CAT
+    seasons:
+      1:
+        title: |-
+          Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.0
+    audience_rating: 6.0
+    critic_rating: 6.5
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   306743:
     title: |-
       High School Fleet
@@ -2262,7 +2282,7 @@ metadata:
       Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku
     original_title: |-
       Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin
-    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance,Virtual World,Isekai,Kingdom Management,Reincarnation,Elf
+    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance,Isekai,Reincarnation,Virtual World,Kingdom Management,Elf,Anti-Hero,Magic,Seinen
     studio: Maho Film
     seasons:
       1:
@@ -3271,6 +3291,25 @@ metadata:
     critic_rating: 8.9
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  440965:
+    title: |-
+      Let’s Play: Quest Darake no My Life
+    sort_title: |-
+      Let’s Play: Quest Darake no My Life
+    original_title: |-
+      Let’s Play
+    genre.sync: Comedy,Romance,Slice of Life
+    studio: OLM
+    seasons:
+      1:
+        title: |-
+          Let’s Play: Quest Darake no My Life
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 6.4
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   318161:
     title: |-
       Little Witch Academia (TV)
@@ -5013,7 +5052,7 @@ metadata:
       Shingeki no Kyojin
     original_title: |-
       Attack on Titan
-    genre.sync: Action,Drama,Fantasy,Mystery,Kaiju,Tragedy,Revenge,Military,Primarily Teen Cast,Post-Apocalyptic,Male Protagonist,Super Power,Steampunk,Henshin,Gore,Swordplay,Memory Manipulation,Dystopian,Vore,Orphan,Ensemble Cast,Kuudere,Cannibalism,Espionage
+    genre.sync: Action,Drama,Fantasy,Mystery,Kaiju,Revenge,Tragedy,Military,Post-Apocalyptic,Primarily Teen Cast,Male Protagonist,Super Power,Henshin,Steampunk,Gore,Swordplay,Memory Manipulation,Vore,Dystopian,Ensemble Cast,Orphan,Cannibalism,Espionage,Kuudere
     studio: WIT STUDIO
     seasons:
       0:
@@ -6204,13 +6243,13 @@ metadata:
       1:
         title: |-
           Vigilante: Boku no Hero Academia ILLEGALS
-        label: Score,2025 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Spring
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.6
     audience_rating: 7.6
     critic_rating: 7.6
-    label: Planned
-    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Planned,Watching
+    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
   359274:
     title: |-
       Vinland Saga
@@ -6455,6 +6494,26 @@ metadata:
     critic_rating: 6.8
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  453230:
+    title: |-
+      Yano-kun no Futsuu no Hibi
+    sort_title: |-
+      Yano-kun no Futsuu no Hibi
+    original_title: |-
+      Yano-kun's Ordinary Days
+    genre.sync: Comedy,Romance,Slice of Life,Seinen,Female Protagonist,Heterosexual,School,Primarily Teen Cast
+    studio: Ajiado
+    seasons:
+      1:
+        title: |-
+          Yano-kun no Futsuu no Hibi
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 7.0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   453694:
     title: |-
       Yasei no Last Boss ga Arawareta!
