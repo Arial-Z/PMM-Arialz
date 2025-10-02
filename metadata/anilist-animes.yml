@@ -493,7 +493,7 @@ metadata:
         label: Score,2024 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.5
-    audience_rating: 6.9
+    audience_rating: 13.8
     critic_rating: 7.5
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
@@ -2024,26 +2024,6 @@ metadata:
     critic_rating: 8.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  440502:
-    title: |-
-      Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga
-    sort_title: |-
-      Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga
-    original_title: |-
-      Hero Without a Class: Who Even Needs Skills?!
-    genre.sync: Action,Adventure,Comedy,Fantasy,Shounen,Swordplay
-    studio: studio A-CAT
-    seasons:
-      1:
-        title: |-
-          Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.0
-    audience_rating: 6.0
-    critic_rating: 6.5
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   306743:
     title: |-
       High School Fleet
@@ -3306,7 +3286,8 @@ metadata:
           Let’s Play: Quest Darake no My Life
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 5.6
+    audience_rating: 5.6
     critic_rating: 6.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -3804,6 +3785,26 @@ metadata:
     critic_rating: 7.7
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  440502:
+    title: |-
+      Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga
+    sort_title: |-
+      Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga
+    original_title: |-
+      Hero Without a Class: Who Even Needs Skills?!
+    genre.sync: Action,Adventure,Comedy,Fantasy,Shounen,Swordplay
+    studio: studio A-CAT
+    seasons:
+      1:
+        title: |-
+          Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.0
+    audience_rating: 6.0
+    critic_rating: 6.5
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -3832,6 +3833,24 @@ metadata:
     critic_rating: 8.4
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  452709:
+    title: |-
+      Bukiyou na Senpai.
+    sort_title: |-
+      Bukiyou na Senpai.
+    original_title: |-
+      My Awkward Senpai
+    genre.sync: Comedy,Romance,Seinen,Office Lady,Primarily Adult Cast,Office,Work
+    studio: Studio elle
+    seasons:
+      1:
+        title: |-
+          Bukiyou na Senpai.
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   446389:
     title: |-
       Nageki no Bourei wa Intai Shitai
@@ -4277,6 +4296,24 @@ metadata:
     critic_rating: 8.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  455754:
+    title: |-
+      Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!
+    sort_title: |-
+      Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!
+    original_title: |-
+      Pass the Monster Meat, Milady!
+    genre.sync: Fantasy,Romance,Shoujo,Female Protagonist,Food,Royal Affairs
+    studio: Asahi Production
+    seasons:
+      1:
+        title: |-
+          Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   262090:
     title: |-
       Psycho-pass
@@ -5345,6 +5382,25 @@ metadata:
     critic_rating: 8.2
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  460096:
+    title: |-
+      Taiyou yori mo Mabushii Hoshi
+    sort_title: |-
+      Taiyou yori mo Mabushii Hoshi
+    original_title: |-
+      A Star Brighter Than the Sun
+    genre.sync: Romance
+    studio: Studio KAI
+    seasons:
+      1:
+        title: |-
+          Taiyou yori mo Mabushii Hoshi
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 7.0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   244061:
     title: |-
       Steins;Gate
@@ -5779,6 +5835,25 @@ metadata:
     critic_rating: 7.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  455749:
+    title: |-
+      Watashi wo Tabetai, Hitodenashi
+    sort_title: |-
+      Watashi wo Tabetai, Hitodenashi
+    original_title: |-
+      This Monster Wants to Eat Me
+    genre.sync: Drama,Horror,Psychological,Romance,Supernatural,Monster Girl,Mermaid,Tragedy,Youkai,Yuri,LGBTQ+ Themes,Mythology,Coastal,Female Protagonist,Denpa,Orphan,Rural
+    studio: Studio Lings
+    seasons:
+      1:
+        title: |-
+          Watashi wo Tabetai, Hitodenashi
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 7.1
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   281249:
     title: |-
       Tokyo Ghoul
@@ -5955,6 +6030,26 @@ metadata:
     critic_rating: 8.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  465214:
+    title: |-
+      Towa no Yuugure
+    sort_title: |-
+      Towa no Yuugure
+    original_title: |-
+      Dusk Beyond the End of the World
+    genre.sync: Action,Drama,Romance,Sci-Fi,Heterosexual,Robots,Dystopian,Post-Apocalyptic,Artificial Intelligence,Male Protagonist
+    studio: P.A.WORKS
+    seasons:
+      0:
+        label.remove: Score
+      1:
+        title: |-
+          Towa no Yuugure
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   421378:
     title: |-
       Trigun Stampede
