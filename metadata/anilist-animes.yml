@@ -453,6 +453,24 @@ metadata:
     critic_rating: 7.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  459058:
+    title: |-
+      Alma-chan wa Kazoku ni Naritai
+    sort_title: |-
+      Alma-chan wa Kazoku ni Naritai
+    original_title: |-
+      Alma-chan Wants to Be a Family!
+    genre.sync: Comedy,Romance,Sci-Fi,Slice of Life,Artificial Intelligence,Female Protagonist,Male Protagonist,Parenthood,Family Life,Robots,Iyashikei
+    studio: Studio Flad
+    seasons:
+      1:
+        title: |-
+          Alma-chan wa Kazoku ni Naritai
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   278152:
     title: |-
       Baby Steps
@@ -569,24 +587,6 @@ metadata:
     critic_rating: 8.1
     label: Planned
     label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
-  461708:
-    title: |-
-      Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
-    sort_title: |-
-      Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
-    original_title: |-
-      The Banished Court Magician Aims to Become the Strongest
-    genre.sync: Action,Adventure,Fantasy,Magic,Dungeon
-    studio: Gekkou
-    seasons:
-      1:
-        title: |-
-          Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   281270:
     title: |-
       Barakamon
@@ -859,13 +859,13 @@ metadata:
       8:
         title: |-
           Boku no Hero Academia FINAL SEASON
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.9
     audience_rating: 7.8
     critic_rating: 8.0
     label: AA Winner,Airing,Planning
-    label.remove: Planned,Ended,Watching,Dropped,Paused,
+    label.remove: Planned,Ended,Dropped,Paused,
   426294:
     title: |-
       Buddy Daddies
@@ -1419,6 +1419,43 @@ metadata:
     critic_rating: 8.2
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  461683:
+    title: |-
+      Digimon Beatbreak
+    sort_title: |-
+      Digimon Beatbreak
+    original_title: |-
+      Digimon Beatbreak
+    genre.sync: Adventure,Fantasy,Sci-Fi,Urban,Proxy Battle,Found Family,Artificial Intelligence
+    studio: Toei Animation
+    seasons:
+      1:
+        title: |-
+          Digimon Beatbreak
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 6.9
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+  460974:
+    title: |-
+      Sawaranaide Kotesashi-kun
+    sort_title: |-
+      Sawaranaide Kotesashi-kun
+    original_title: |-
+      Hands off: Sawaranaide Kotesashi-kun!
+    genre.sync: Comedy,Ecchi,Romance,Sports,Female Harem,Male Protagonist,Medicine,Nudity,Primarily Female Cast,School
+    studio: Quad
+    seasons:
+      1:
+        title: |-
+          Sawaranaide Kotesashi-kun
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   370761:
     title: |-
       Dorohedoro
@@ -1567,6 +1604,28 @@ metadata:
     critic_rating: 7.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  465214:
+    title: |-
+      Towa no Yuugure
+    sort_title: |-
+      Towa no Yuugure
+    original_title: |-
+      Dusk Beyond the End of the World
+    genre.sync: Action,Drama,Romance,Sci-Fi,Heterosexual,Robots,Dystopian,Post-Apocalyptic,Artificial Intelligence,Male Protagonist
+    studio: P.A.WORKS
+    seasons:
+      0:
+        label.remove: Score
+      1:
+        title: |-
+          Towa no Yuugure
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.4
+    audience_rating: 6.4
+    critic_rating: 7.4
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   412957:
     title: |-
       Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
@@ -1708,9 +1767,9 @@ metadata:
           Fumetsu no Anata e Season 3
         label: Score,Watching,2025 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    audience_rating: 16.0
-    critic_rating: 8.2
+        user_rating: 7.7
+    audience_rating: 7.9
+    critic_rating: 8.1
     label: AA Winner,Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   450537:
@@ -2660,7 +2719,9 @@ metadata:
           Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   441260:
@@ -2921,6 +2982,24 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  452926:
+    title: |-
+      Kikaijikake no Marie
+    sort_title: |-
+      Kikaijikake no Marie
+    original_title: |-
+      Mechanical Marie
+    genre.sync: Action,Comedy,Romance,Sci-Fi,Female Protagonist,Maids,Shoujo
+    studio: Zero-G
+    seasons:
+      1:
+        title: |-
+          Kikaijikake no Marie
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   432815:
     title: |-
       Kikansha no Mahou wa Tokubetsu desu
@@ -3119,7 +3198,7 @@ metadata:
         label: Score,Completed,2024 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.5
-    audience_rating: 8.2
+    audience_rating: 13.6
     critic_rating: 8.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -3359,25 +3438,6 @@ metadata:
     critic_rating: 8.9
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  460608:
-    title: |-
-      Shuumatsu Touring
-    sort_title: |-
-      Shuumatsu Touring
-    original_title: |-
-      Touring After the Apocalypse
-    genre.sync: Adventure,Sci-Fi,Slice of Life,Post-Apocalyptic,Female Protagonist,Travel,Iyashikei,Motorcycles
-    studio: Nexus
-    seasons:
-      1:
-        title: |-
-          Shuumatsu Touring
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 6.9
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   440965:
     title: |-
       Let’s Play: Quest Darake no My Life
@@ -3808,6 +3868,26 @@ metadata:
     critic_rating: 7.7
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  461708:
+    title: |-
+      Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
+    sort_title: |-
+      Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
+    original_title: |-
+      The Banished Court Magician Aims to Become the Strongest
+    genre.sync: Action,Adventure,Fantasy,Magic,Dungeon
+    studio: Gekkou
+    seasons:
+      1:
+        title: |-
+          Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 5.8
+    audience_rating: 5.8
+    critic_rating: 6.4
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   307375:
     title: |-
       Mob Psycho 100
@@ -3872,6 +3952,24 @@ metadata:
     critic_rating: 8.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  444999:
+    title: |-
+      Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.
+    sort_title: |-
+      Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.
+    original_title: |-
+      Dad is a Hero, Mom is a Spirit, I'm a Reincarnator
+    genre.sync: Fantasy,Romance
+    studio: J.C.STAFF
+    seasons:
+      1:
+        title: |-
+          Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   447925:
     title: |-
       mono
@@ -3940,24 +4038,6 @@ metadata:
     critic_rating: 8.4
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  404174:
-    title: |-
-      Tomodachi no Imouto ga Ore ni dake Uzai
-    sort_title: |-
-      Tomodachi no Imouto ga Ore ni dake Uzai
-    original_title: |-
-      My Friend's Little Sister Has It In for Me!
-    genre.sync: Comedy,Romance,Slice of Life,Love Triangle,Heterosexual,Otaku Culture,Software Development
-    studio: BLADE
-    seasons:
-      1:
-        title: |-
-          Tomodachi no Imouto ga Ore ni dake Uzai
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   446389:
     title: |-
       Nageki no Bourei wa Intai Shitai
@@ -3974,7 +4054,7 @@ metadata:
         label: Score,Completed,2024 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.9
-    audience_rating: 6.9
+    audience_rating: -6.9
     critic_rating: 7.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -4532,8 +4612,9 @@ metadata:
           Ranma 1/2 (2024) 2nd Season
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 8.0
+        user_rating: 7.4
+    audience_rating: 7.7
+    critic_rating: 7.9
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   305089:
@@ -4685,19 +4766,19 @@ metadata:
       Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka
     original_title: |-
       May I Ask for One Final Thing?
-    genre.sync: Action,Comedy,Drama,Fantasy,Romance,Female Protagonist,Villainess,Ojou-sama
+    genre.sync: Action,Comedy,Drama,Fantasy,Romance,Female Protagonist,Villainess,Ojou-sama,Royal Affairs
     studio: LIDENFILMS
     seasons:
       1:
         title: |-
           Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.4
     audience_rating: 7.4
     critic_rating: 7.9
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   401915:
     title: |-
       Saihate no Paladin
@@ -5364,6 +5445,26 @@ metadata:
     critic_rating: 8.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  460608:
+    title: |-
+      Shuumatsu Touring
+    sort_title: |-
+      Shuumatsu Touring
+    original_title: |-
+      Touring After the Apocalypse
+    genre.sync: Adventure,Sci-Fi,Slice of Life,Post-Apocalyptic,Female Protagonist,Travel,Iyashikei,Motorcycles
+    studio: Nexus
+    seasons:
+      1:
+        title: |-
+          Shuumatsu Touring
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.9
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   426018:
     title: |-
       Shuumatsu Train Doko e Iku?
@@ -5384,6 +5485,24 @@ metadata:
     critic_rating: 7.4
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  466237:
+    title: |-
+      SI-VIS: The Sound of Heroes
+    sort_title: |-
+      SI-VIS: The Sound of Heroes
+    original_title: |-
+      SI-VIS: The Sound of Heroes
+    genre.sync: Action,Music,Superhero,Idol
+    studio: Aniplex
+    seasons:
+      1:
+        title: |-
+          SI-VIS: The Sound of Heroes
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   452832:
     title: |-
       Silent Witch: Chinmoku no Majo no Kakushigoto
@@ -5535,13 +5654,13 @@ metadata:
       3:
         title: |-
           SPY×FAMILY Season 3
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    audience_rating: 8.1
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.8
+    audience_rating: 8.0
     critic_rating: 8.1
-    label: AA Winner,Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: AA Winner,Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   244061:
     title: |-
       Steins;Gate
@@ -5996,24 +6115,6 @@ metadata:
     critic_rating: 7.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  461118:
-    title: |-
-      Toujima Tanzaburou wa Kamen Rider ni Naritai
-    sort_title: |-
-      Toujima Tanzaburou wa Kamen Rider ni Naritai
-    original_title: |-
-      Tojima Wants to Be a Kamen Rider
-    genre.sync: Action,Comedy,Male Protagonist,Tokusatsu
-    studio: LIDENFILMS
-    seasons:
-      1:
-        title: |-
-          Toujima Tanzaburou wa Kamen Rider ni Naritai
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   281249:
     title: |-
       Tokyo Ghoul
@@ -6100,6 +6201,26 @@ metadata:
     critic_rating: 7.7
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  404174:
+    title: |-
+      Tomodachi no Imouto ga Ore ni dake Uzai
+    sort_title: |-
+      Tomodachi no Imouto ga Ore ni dake Uzai
+    original_title: |-
+      My Friend's Little Sister Has It In for Me!
+    genre.sync: Comedy,Romance,Slice of Life,Love Triangle,Heterosexual,Otaku Culture,Software Development
+    studio: BLADE
+    seasons:
+      1:
+        title: |-
+          Tomodachi no Imouto ga Ore ni dake Uzai
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.5
+    audience_rating: 6.5
+    critic_rating: 6.7
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   418368:
     title: |-
       Tonari no Youkai-san
@@ -6190,28 +6311,26 @@ metadata:
     critic_rating: 8.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  465214:
+  461118:
     title: |-
-      Towa no Yuugure
+      Toujima Tanzaburou wa Kamen Rider ni Naritai
     sort_title: |-
-      Towa no Yuugure
+      Toujima Tanzaburou wa Kamen Rider ni Naritai
     original_title: |-
-      Dusk Beyond the End of the World
-    genre.sync: Action,Drama,Romance,Sci-Fi,Heterosexual,Robots,Dystopian,Post-Apocalyptic,Artificial Intelligence,Male Protagonist
-    studio: P.A.WORKS
+      Tojima Wants to Be a Kamen Rider
+    genre.sync: Action,Comedy,Male Protagonist,Tokusatsu
+    studio: LIDENFILMS
     seasons:
-      0:
-        label.remove: Score
       1:
         title: |-
-          Towa no Yuugure
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
-    critic_rating: 7.4
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+          Toujima Tanzaburou wa Kamen Rider ni Naritai
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 7.3
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   421378:
     title: |-
       Trigun Stampede
@@ -6397,8 +6516,8 @@ metadata:
         user_rating: 8.5
     audience_rating: 8.5
     critic_rating: 8.6
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   423030:
     title: |-
       Undead Unluck
