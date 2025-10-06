@@ -255,6 +255,26 @@ metadata:
     critic_rating: 7.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  459058:
+    title: |-
+      Alma-chan wa Kazoku ni Naritai
+    sort_title: |-
+      Alma-chan wa Kazoku ni Naritai
+    original_title: |-
+      Alma-chan Wants to Be a Family!
+    genre.sync: Comedy,Romance,Sci-Fi,Slice of Life,Artificial Intelligence,Female Protagonist,Male Protagonist,Parenthood,Family Life,Robots,Iyashikei
+    studio: Studio Flad
+    seasons:
+      1:
+        title: |-
+          Alma-chan wa Kazoku ni Naritai
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.4
+    audience_rating: 6.4
+    critic_rating: 7.0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   348706:
     title: |-
       Angolmois: Genkou Kassenki
@@ -453,24 +473,6 @@ metadata:
     critic_rating: 7.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  459058:
-    title: |-
-      Alma-chan wa Kazoku ni Naritai
-    sort_title: |-
-      Alma-chan wa Kazoku ni Naritai
-    original_title: |-
-      Alma-chan Wants to Be a Family!
-    genre.sync: Comedy,Romance,Sci-Fi,Slice of Life,Artificial Intelligence,Female Protagonist,Male Protagonist,Parenthood,Family Life,Robots,Iyashikei
-    studio: Studio Flad
-    seasons:
-      1:
-        title: |-
-          Alma-chan wa Kazoku ni Naritai
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   278152:
     title: |-
       Baby Steps
@@ -1024,6 +1026,26 @@ metadata:
     critic_rating: 8.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  444999:
+    title: |-
+      Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.
+    sort_title: |-
+      Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.
+    original_title: |-
+      Dad is a Hero, Mom is a Spirit, I'm a Reincarnator
+    genre.sync: Fantasy,Romance
+    studio: J.C.STAFF
+    seasons:
+      1:
+        title: |-
+          Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 6.9
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   251982:
     title: |-
       Chihayafuru
@@ -1434,26 +1456,9 @@ metadata:
           Digimon Beatbreak
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.4
+    audience_rating: 6.4
     critic_rating: 6.9
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
-  460974:
-    title: |-
-      Sawaranaide Kotesashi-kun
-    sort_title: |-
-      Sawaranaide Kotesashi-kun
-    original_title: |-
-      Hands off: Sawaranaide Kotesashi-kun!
-    genre.sync: Comedy,Ecchi,Romance,Sports,Female Harem,Male Protagonist,Medicine,Nudity,Primarily Female Cast,School
-    studio: Quad
-    seasons:
-      1:
-        title: |-
-          Sawaranaide Kotesashi-kun
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   370761:
@@ -1604,28 +1609,24 @@ metadata:
     critic_rating: 7.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  465214:
+  444810:
     title: |-
-      Towa no Yuugure
+      Egao no Taenai Shokuba desu.
     sort_title: |-
-      Towa no Yuugure
+      Egao no Taenai Shokuba desu.
     original_title: |-
-      Dusk Beyond the End of the World
-    genre.sync: Action,Drama,Romance,Sci-Fi,Heterosexual,Robots,Dystopian,Post-Apocalyptic,Artificial Intelligence,Male Protagonist
-    studio: P.A.WORKS
+      A Mangaka's Weirdly Wonderful Workplace
+    genre.sync: Comedy,Slice of Life,Female Protagonist,Drawing,Primarily Female Cast,Cute Girls Doing Cute Things,Yuri,Work
+    studio: Voil
     seasons:
-      0:
-        label.remove: Score
       1:
         title: |-
-          Towa no Yuugure
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
-    critic_rating: 7.4
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+          Egao no Taenai Shokuba desu.
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   412957:
     title: |-
       Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
@@ -2182,7 +2183,7 @@ metadata:
       Hikaru ga Shinda Natsu
     original_title: |-
       The Summer Hikaru Died
-    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Tragedy,Rural,Body Horror,Male Protagonist,Cosmic Horror,Mythology,LGBTQ+ Themes,Seinen,Primarily Teen Cast,Gods,Unrequited Love,School,Mixed Media
+    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Tragedy,Rural,Male Protagonist,Body Horror,Cosmic Horror,Mythology,LGBTQ+ Themes,Primarily Teen Cast,Seinen,Gods,Urban Fantasy,Unrequited Love,Curses,School,Mixed Media
     studio: CygamesPictures
     seasons:
       1:
@@ -2192,7 +2193,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.1
     audience_rating: 8.1
-    critic_rating: 8.2
+    critic_rating: 8.1
     label: Planned
     label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   293121:
@@ -2444,6 +2445,24 @@ metadata:
     critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  460341:
+    title: |-
+      Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga
+    sort_title: |-
+      Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga
+    original_title: |-
+      My Status as an Assassin Obviously Exceeds the Hero’s
+    genre.sync: Action,Adventure,Fantasy,Medieval,Magic,Isekai
+    studio: Sunrise
+    seasons:
+      1:
+        title: |-
+          Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   423121:
     title: |-
       Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
@@ -2465,7 +2484,7 @@ metadata:
           Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season
         label: Score,Completed,2025 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.3
+        user_rating: 6.4
     audience_rating: 6.3
     critic_rating: 6.4
     label: Ended,Completed
@@ -2997,7 +3016,9 @@ metadata:
           Kikaijikake no Marie
         label: Score,Watching,2025 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.9
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   432815:
@@ -3952,24 +3973,6 @@ metadata:
     critic_rating: 8.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  444999:
-    title: |-
-      Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.
-    sort_title: |-
-      Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.
-    original_title: |-
-      Dad is a Hero, Mom is a Spirit, I'm a Reincarnator
-    genre.sync: Fantasy,Romance
-    studio: J.C.STAFF
-    seasons:
-      1:
-        title: |-
-          Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   447925:
     title: |-
       mono
@@ -4054,10 +4057,10 @@ metadata:
         label: Score,Completed,2024 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.9
-    audience_rating: -6.9
+    audience_rating: 6.9
     critic_rating: 7.0
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   284131:
     title: |-
       Nanatsu no Taizai
@@ -4977,6 +4980,26 @@ metadata:
     critic_rating: 6.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  460974:
+    title: |-
+      Sawaranaide Kotesashi-kun
+    sort_title: |-
+      Sawaranaide Kotesashi-kun
+    original_title: |-
+      Hands off: Sawaranaide Kotesashi-kun!
+    genre.sync: Comedy,Ecchi,Romance,Sports,Female Harem,Male Protagonist,Medicine,Nudity,Primarily Female Cast,School
+    studio: Quad
+    seasons:
+      1:
+        title: |-
+          Sawaranaide Kotesashi-kun
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 5.8
+    audience_rating: 5.8
+    critic_rating: 6.5
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   425756:
     title: |-
       Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
@@ -5230,7 +5253,7 @@ metadata:
       Shiguang Dailiren
     original_title: |-
       Link Click
-    genre.sync: Drama,Mystery,Supernatural,Thriller,Time Manipulation,Super Power,Body Swapping,Photography,Primarily Adult Cast,Male Protagonist,Tragedy,Crime,Urban Fantasy,Urban,Memory Manipulation,Episodic
+    genre.sync: Drama,Mystery,Supernatural,Thriller,Time Manipulation,Super Power,Body Swapping,Photography,Primarily Adult Cast,Male Protagonist,Tragedy,Crime,Urban Fantasy,Urban,Memory Manipulation
     studio: Studio LAN
     seasons:
       0:
@@ -5500,7 +5523,9 @@ metadata:
           SI-VIS: The Sound of Heroes
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 5.6
+    audience_rating: 5.6
+    critic_rating: 6.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   452832:
@@ -5510,7 +5535,7 @@ metadata:
       Silent Witch: Chinmoku no Majo no Kakushigoto
     original_title: |-
       Secrets of the Silent Witch
-    genre.sync: Adventure,Fantasy,Female Protagonist,Magic,Witch,School,Royal Affairs,Primarily Teen Cast,Hikikomori,Shoujo,Politics,Coming of Age,Ojou-sama,Class Struggle,Bullying
+    genre.sync: Adventure,Fantasy,Female Protagonist,Magic,Witch,School,Royal Affairs,Primarily Teen Cast,Hikikomori,Politics,Shoujo,Coming of Age,Class Struggle,Ojou-sama
     studio: Studio Gokumi
     seasons:
       1:
@@ -5518,9 +5543,9 @@ metadata:
           Silent Witch: Chinmoku no Majo no Kakushigoto
         label: Score,Completed,2025 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.8
-    critic_rating: 8.0
+        user_rating: 8.0
+    audience_rating: 8.0
+    critic_rating: 8.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   412696:
@@ -6331,6 +6356,28 @@ metadata:
     critic_rating: 7.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+  465214:
+    title: |-
+      Towa no Yuugure
+    sort_title: |-
+      Towa no Yuugure
+    original_title: |-
+      Dusk Beyond the End of the World
+    genre.sync: Action,Drama,Romance,Sci-Fi,Heterosexual,Robots,Dystopian,Post-Apocalyptic,Artificial Intelligence,Male Protagonist
+    studio: P.A.WORKS
+    seasons:
+      0:
+        label.remove: Score
+      1:
+        title: |-
+          Towa no Yuugure
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.4
+    audience_rating: 6.4
+    critic_rating: 7.4
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   421378:
     title: |-
       Trigun Stampede
@@ -6917,7 +6964,7 @@ metadata:
       Yasei no Last Boss ga Arawareta!
     original_title: |-
       A Wild Last Boss Appeared!
-    genre.sync: Action,Adventure,Fantasy,Isekai,Gender Bending,Magic,Virtual World,Video Games,Primarily Female Cast,Female Protagonist
+    genre.sync: Action,Adventure,Fantasy,Isekai,Gender Bending,Magic,Virtual World,Video Games,Female Protagonist,Primarily Female Cast
     studio: WAO World
     seasons:
       1:
