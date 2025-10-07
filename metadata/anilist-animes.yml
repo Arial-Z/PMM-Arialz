@@ -245,6 +245,8 @@ metadata:
     genre.sync: Action,Mecha,Sci-Fi,War,Military,Conspiracy,Space Opera,Post-Apocalyptic,Politics,Guns,Lost Civilization,Real Robot,Revenge
     studio: A-1 Pictures
     seasons:
+      0:
+        label.remove: Score
       1:
         title: |-
           Aldnoah.Zero
@@ -262,7 +264,7 @@ metadata:
       Alma-chan wa Kazoku ni Naritai
     original_title: |-
       Alma-chan Wants to Be a Family!
-    genre.sync: Comedy,Romance,Sci-Fi,Slice of Life,Artificial Intelligence,Female Protagonist,Male Protagonist,Parenthood,Family Life,Robots,Iyashikei
+    genre.sync: Comedy,Romance,Sci-Fi,Slice of Life,Artificial Intelligence,Female Protagonist,Male Protagonist,Parenthood,Family Life,Found Family,Robots,Iyashikei
     studio: Studio Flad
     seasons:
       1:
@@ -295,6 +297,26 @@ metadata:
     critic_rating: 7.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  460341:
+    title: |-
+      Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga
+    sort_title: |-
+      Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga
+    original_title: |-
+      My Status as an Assassin Obviously Exceeds the Hero’s
+    genre.sync: Action,Adventure,Fantasy,Medieval,Magic,Isekai
+    studio: Sunrise
+    seasons:
+      1:
+        title: |-
+          Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.5
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   248035:
     title: |-
       Ao no Exorcist
@@ -1080,6 +1102,25 @@ metadata:
     critic_rating: 8.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  453057:
+    title: |-
+      Chitose-kun wa Ramune Bin no Naka
+    sort_title: |-
+      Chitose-kun wa Ramune Bin no Naka
+    original_title: |-
+      Chitose Is in the Ramune Bottle
+    genre.sync: Comedy,Romance,Female Harem,School,Philosophy,Coming of Age,Male Protagonist
+    studio: feel.
+    seasons:
+      1:
+        title: |-
+          Chitose-kun wa Ramune Bin no Naka
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 7.4
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   415440:
     title: |-
       Chiyu Mahou no Machigatta Tsukaikata
@@ -1624,7 +1665,9 @@ metadata:
           Egao no Taenai Shokuba desu.
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   412957:
@@ -2445,24 +2488,6 @@ metadata:
     critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  460341:
-    title: |-
-      Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga
-    sort_title: |-
-      Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga
-    original_title: |-
-      My Status as an Assassin Obviously Exceeds the Hero’s
-    genre.sync: Action,Adventure,Fantasy,Medieval,Magic,Isekai
-    studio: Sunrise
-    seasons:
-      1:
-        title: |-
-          Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   423121:
     title: |-
       Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
@@ -3001,26 +3026,6 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  452926:
-    title: |-
-      Kikaijikake no Marie
-    sort_title: |-
-      Kikaijikake no Marie
-    original_title: |-
-      Mechanical Marie
-    genre.sync: Action,Comedy,Romance,Sci-Fi,Female Protagonist,Maids,Shoujo
-    studio: Zero-G
-    seasons:
-      1:
-        title: |-
-          Kikaijikake no Marie
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
-    critic_rating: 6.9
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   432815:
     title: |-
       Kikansha no Mahou wa Tokubetsu desu
@@ -3889,6 +3894,26 @@ metadata:
     critic_rating: 7.7
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  452926:
+    title: |-
+      Kikaijikake no Marie
+    sort_title: |-
+      Kikaijikake no Marie
+    original_title: |-
+      Mechanical Marie
+    genre.sync: Action,Comedy,Romance,Sci-Fi,Female Protagonist,Maids,Shoujo
+    studio: Zero-G
+    seasons:
+      1:
+        title: |-
+          Kikaijikake no Marie
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.9
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   461708:
     title: |-
       Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
@@ -4486,6 +4511,26 @@ metadata:
     critic_rating: 8.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  465978:
+    title: |-
+      Debu to Love to Ayamachi to!
+    sort_title: |-
+      Debu to Love to Ayamachi to!
+    original_title: |-
+      Plus-sized Misadventures in Love!
+    genre.sync: Comedy,Drama,Romance,Office Lady,Shoujo
+    studio: Marvy Jack
+    seasons:
+      1:
+        title: |-
+          Debu to Love to Ayamachi to!
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 5.3
+    audience_rating: 5.3
+    critic_rating: 6.4
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   262090:
     title: |-
       Psycho-pass
@@ -4987,7 +5032,7 @@ metadata:
       Sawaranaide Kotesashi-kun
     original_title: |-
       Hands off: Sawaranaide Kotesashi-kun!
-    genre.sync: Comedy,Ecchi,Romance,Sports,Female Harem,Male Protagonist,Medicine,Nudity,Primarily Female Cast,School
+    genre.sync: Comedy,Ecchi,Romance,Sports,Female Harem,Male Protagonist,Nudity,Medicine,Primarily Female Cast,School
     studio: Quad
     seasons:
       1:
@@ -5649,7 +5694,9 @@ metadata:
           Sozai Saishuka no Isekai Ryokouki
         label: Score,Watching,2025 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 5.6
+    audience_rating: 5.6
+    critic_rating: 6.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   405920:
@@ -6282,10 +6329,16 @@ metadata:
         label: Score,Completed,2023 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.6
+      2:
+        title: |-
+          Tondemo Skill de Isekai Hourou Meshi 2
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
     audience_rating: 7.6
-    critic_rating: 7.6
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    critic_rating: 7.5
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   385077:
     title: |-
       Tonikaku Kawaii
