@@ -304,7 +304,7 @@ metadata:
       Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga
     original_title: |-
       My Status as an Assassin Obviously Exceeds the Hero’s
-    genre.sync: Action,Adventure,Fantasy,Medieval,Magic,Isekai
+    genre.sync: Action,Adventure,Fantasy,Isekai,Medieval,Magic,Assassins
     studio: Sunrise
     seasons:
       1:
@@ -1117,7 +1117,8 @@ metadata:
           Chitose-kun wa Ramune Bin no Naka
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 7.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -1408,6 +1409,26 @@ metadata:
     critic_rating: 7.6
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  465978:
+    title: |-
+      Debu to Love to Ayamachi to!
+    sort_title: |-
+      Debu to Love to Ayamachi to!
+    original_title: |-
+      Plus-sized Misadventures in Love!
+    genre.sync: Comedy,Drama,Romance,Office Lady,Shoujo
+    studio: Marvy Jack
+    seasons:
+      1:
+        title: |-
+          Debu to Love to Ayamachi to!
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 5.3
+    audience_rating: 5.3
+    critic_rating: 6.4
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   378878:
     title: |-
       Deca-Dence
@@ -1657,7 +1678,7 @@ metadata:
       Egao no Taenai Shokuba desu.
     original_title: |-
       A Mangaka's Weirdly Wonderful Workplace
-    genre.sync: Comedy,Slice of Life,Female Protagonist,Drawing,Primarily Female Cast,Cute Girls Doing Cute Things,Yuri,Work
+    genre.sync: Comedy,Slice of Life,Drawing,Female Protagonist,Primarily Female Cast,Yuri,Work,Cute Girls Doing Cute Things,Primarily Adult Cast
     studio: Voil
     seasons:
       1:
@@ -2435,7 +2456,7 @@ metadata:
       Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku
     original_title: |-
       Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin
-    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance,Isekai,Reincarnation,Virtual World,Kingdom Management,Elf,Anti-Hero,Magic,Seinen
+    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance,Anti-Hero,Reincarnation,Virtual World,Isekai,Kingdom Management,Elf,Seinen,Magic,Video Games
     studio: Maho Film
     seasons:
       1:
@@ -3026,6 +3047,26 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  452926:
+    title: |-
+      Kikaijikake no Marie
+    sort_title: |-
+      Kikaijikake no Marie
+    original_title: |-
+      Mechanical Marie
+    genre.sync: Action,Comedy,Romance,Sci-Fi,Female Protagonist,Maids,Shoujo
+    studio: Zero-G
+    seasons:
+      1:
+        title: |-
+          Kikaijikake no Marie
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.9
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   432815:
     title: |-
       Kikansha no Mahou wa Tokubetsu desu
@@ -3481,7 +3522,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 5.6
     audience_rating: 5.6
-    critic_rating: 6.4
+    critic_rating: 6.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   318161:
@@ -3894,26 +3935,6 @@ metadata:
     critic_rating: 7.7
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  452926:
-    title: |-
-      Kikaijikake no Marie
-    sort_title: |-
-      Kikaijikake no Marie
-    original_title: |-
-      Mechanical Marie
-    genre.sync: Action,Comedy,Romance,Sci-Fi,Female Protagonist,Maids,Shoujo
-    studio: Zero-G
-    seasons:
-      1:
-        title: |-
-          Kikaijikake no Marie
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
-    critic_rating: 6.9
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   461708:
     title: |-
       Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
@@ -4033,9 +4054,9 @@ metadata:
           Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga
         label: Score,Watching,2025 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.0
-    audience_rating: 6.0
-    critic_rating: 6.5
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 6.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   371310:
@@ -4511,26 +4532,6 @@ metadata:
     critic_rating: 8.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  465978:
-    title: |-
-      Debu to Love to Ayamachi to!
-    sort_title: |-
-      Debu to Love to Ayamachi to!
-    original_title: |-
-      Plus-sized Misadventures in Love!
-    genre.sync: Comedy,Drama,Romance,Office Lady,Shoujo
-    studio: Marvy Jack
-    seasons:
-      1:
-        title: |-
-          Debu to Love to Ayamachi to!
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.3
-    audience_rating: 5.3
-    critic_rating: 6.4
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   262090:
     title: |-
       Psycho-pass
@@ -6001,6 +6002,24 @@ metadata:
     critic_rating: 7.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  446238:
+    title: |-
+      Tensei Akujo no Kuro Rekishi
+    sort_title: |-
+      Tensei Akujo no Kuro Rekishi
+    original_title: |-
+      The Dark History of the Reincarnated Villainess
+    genre.sync: Comedy,Fantasy,Romance,Shoujo
+    studio: Studio DEEN
+    seasons:
+      1:
+        title: |-
+          Tensei Akujo no Kuro Rekishi
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   434704:
     title: |-
       Tensei Kizoku, Kantei Skill de Nariagaru
@@ -6334,8 +6353,8 @@ metadata:
           Tondemo Skill de Isekai Hourou Meshi 2
         label: Score,Watching,2025 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    audience_rating: 7.6
+        user_rating: 7.4
+    audience_rating: 7.5
     critic_rating: 7.5
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
@@ -6794,6 +6813,24 @@ metadata:
     critic_rating: 8.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  453600:
+    title: |-
+      WanDance
+    sort_title: |-
+      WanDance
+    original_title: |-
+      Wandance
+    genre.sync: Drama,Sports,Dancing,School Club,Disability,CGI,School,Seinen,Female Protagonist,Male Protagonist
+    studio: MADHOUSE
+    seasons:
+      1:
+        title: |-
+          WanDance
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   455749:
     title: |-
       Watashi wo Tabetai, Hitodenashi
@@ -6997,7 +7034,7 @@ metadata:
       Yano-kun no Futsuu no Hibi
     original_title: |-
       Yano-kun's Ordinary Days
-    genre.sync: Comedy,Romance,Slice of Life,Seinen,Female Protagonist,Heterosexual,School,Primarily Teen Cast
+    genre.sync: Comedy,Romance,Slice of Life,Seinen,School,Primarily Teen Cast,Heterosexual,Female Protagonist
     studio: Ajiado
     seasons:
       1:
@@ -7005,9 +7042,9 @@ metadata:
           Yano-kun no Futsuu no Hibi
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
-    critic_rating: 7.0
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   453694:
@@ -7063,7 +7100,7 @@ metadata:
           Yi Ren Zhi Xia 4
         label: Score,Completed,2021 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.5
+        user_rating: 6.6
       5:
         title: |-
           Yi Ren Zhi Xia 5
