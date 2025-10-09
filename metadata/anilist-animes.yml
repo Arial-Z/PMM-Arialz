@@ -1545,6 +1545,26 @@ metadata:
     critic_rating: 8.0
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  354167:
+    title: |-
+      Dororo
+    sort_title: |-
+      Dororo
+    original_title: |-
+      Dororo
+    genre.sync: Action,Adventure,Drama,Supernatural,Demons,Revenge,Disability,Swordplay,Tragedy,Samurai,Estranged Family,Youkai,Orphan,Anti-Hero,Parenthood,Curses,War,Male Protagonist,Historical,Rural,Travel,Urban Fantasy,Gore,Episodic,Philosophy,Crossdressing,Female Protagonist,Body Horror,Tomboy
+    studio: MAPPA
+    seasons:
+      1:
+        title: |-
+          Dororo
+        label: Score,AA Winner,Completed,2019 Winter
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.1
+    audience_rating: 8.1
+    critic_rating: 8.3
+    label: AA Winner,Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   355774:
     title: |-
       Dr. STONE
@@ -5877,7 +5897,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.2
     audience_rating: 6.2
-    critic_rating: 7.0
+    critic_rating: 7.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   305104:
@@ -6017,7 +6037,9 @@ metadata:
           Tensei Akujo no Kuro Rekishi
         label: Score,Watching,2025 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 6.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   434704:
@@ -6435,7 +6457,7 @@ metadata:
       Towa no Yuugure
     original_title: |-
       Dusk Beyond the End of the World
-    genre.sync: Action,Drama,Romance,Sci-Fi,Heterosexual,Robots,Dystopian,Post-Apocalyptic,Artificial Intelligence,Male Protagonist
+    genre.sync: Action,Drama,Romance,Sci-Fi,Heterosexual,Robots,Dystopian,Lost Civilization,Post-Apocalyptic,Male Protagonist,Artificial Intelligence,Gore
     studio: P.A.WORKS
     seasons:
       0:
@@ -6445,8 +6467,8 @@ metadata:
           Towa no Yuugure
         label: Score,Watching,2025 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 7.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -6828,7 +6850,9 @@ metadata:
           WanDance
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   455749:
@@ -6848,7 +6872,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
-    critic_rating: 7.1
+    critic_rating: 7.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   433088:
