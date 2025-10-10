@@ -230,9 +230,9 @@ metadata:
           Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 7.2
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 7.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   279827:
@@ -495,6 +495,26 @@ metadata:
     critic_rating: 7.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  293996:
+    title: |-
+      Gakusen Toshi Asterisk
+    sort_title: |-
+      Gakusen Toshi Asterisk
+    original_title: |-
+      The Asterisk War
+    genre.sync: Action,Comedy,Ecchi,Fantasy,Romance,Sci-Fi,Male Protagonist,Female Harem,Magic,Swordplay
+    studio: A-1 Pictures
+    seasons:
+      1:
+        title: |-
+          Gakusen Toshi Asterisk
+        label: Score,Completed,2016 Spring,2015 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 6.9
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   278152:
     title: |-
       Baby Steps
@@ -598,7 +618,7 @@ metadata:
       BanG Dream! Ave Mujica
     original_title: |-
       Ave Mujica - The Die is Cast -
-    genre.sync: Drama,Music,Psychological,Female Protagonist,Band,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Yuri,Acting,Full CGI,Metal Music,Rock Music,Musical Theater,Disability,Ensemble Cast,LGBTQ+ Themes
+    genre.sync: Drama,Music,Psychological,Female Protagonist,Band,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Acting,Full CGI,Yuri,Metal Music,Rock Music,Musical Theater,Disability,Ensemble Cast,LGBTQ+ Themes
     studio: SANZIGEN
     seasons:
       1:
@@ -1122,6 +1142,26 @@ metadata:
     critic_rating: 7.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+  299506:
+    title: |-
+      Rakudai Kishi no Cavalry
+    sort_title: |-
+      Rakudai Kishi no Cavalry
+    original_title: |-
+      Chivalry of a Failed Knight
+    genre.sync: Action,Ecchi,Fantasy,Romance,Swordplay,Male Protagonist,School,Tsundere,Heterosexual,Magic,Boarding School,Female Protagonist,Primarily Teen Cast
+    studio: SILVER LINK.
+    seasons:
+      1:
+        title: |-
+          Rakudai Kishi no Cavalry
+        label: Score,Completed,2015 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.2
+    audience_rating: 7.2
+    critic_rating: 7.4
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   415440:
     title: |-
       Chiyu Mahou no Machigatta Tsukaikata
@@ -1335,6 +1375,26 @@ metadata:
     critic_rating: 6.6
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  446238:
+    title: |-
+      Tensei Akujo no Kuro Rekishi
+    sort_title: |-
+      Tensei Akujo no Kuro Rekishi
+    original_title: |-
+      The Dark History of the Reincarnated Villainess
+    genre.sync: Comedy,Fantasy,Romance,Shoujo,Villainess
+    studio: Studio DEEN
+    seasons:
+      1:
+        title: |-
+          Tensei Akujo no Kuro Rekishi
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 6.8
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   80042:
     title: |-
       DARKER THAN BLACK: Kuro no Keiyakusha
@@ -1691,26 +1751,6 @@ metadata:
     critic_rating: 7.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  444810:
-    title: |-
-      Egao no Taenai Shokuba desu.
-    sort_title: |-
-      Egao no Taenai Shokuba desu.
-    original_title: |-
-      A Mangaka's Weirdly Wonderful Workplace
-    genre.sync: Comedy,Slice of Life,Drawing,Female Protagonist,Primarily Female Cast,Yuri,Work,Cute Girls Doing Cute Things,Primarily Adult Cast
-    studio: Voil
-    seasons:
-      1:
-        title: |-
-          Egao no Taenai Shokuba desu.
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
-    critic_rating: 6.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   412957:
     title: |-
       Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
@@ -3863,6 +3903,26 @@ metadata:
     critic_rating: 7.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  444810:
+    title: |-
+      Egao no Taenai Shokuba desu.
+    sort_title: |-
+      Egao no Taenai Shokuba desu.
+    original_title: |-
+      A Mangaka's Weirdly Wonderful Workplace
+    genre.sync: Comedy,Slice of Life,Drawing,Female Protagonist,Primarily Female Cast,Yuri,Work,Cute Girls Doing Cute Things,Primarily Adult Cast
+    studio: Voil
+    seasons:
+      1:
+        title: |-
+          Egao no Taenai Shokuba desu.
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.7
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   432847:
     title: |-
       Maou 2099
@@ -4640,26 +4700,6 @@ metadata:
     critic_rating: 7.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  299506:
-    title: |-
-      Rakudai Kishi no Cavalry
-    sort_title: |-
-      Rakudai Kishi no Cavalry
-    original_title: |-
-      Chivalry of a Failed Knight
-    genre.sync: Action,Ecchi,Fantasy,Romance,Swordplay,Male Protagonist,School,Tsundere,Heterosexual,Magic,Boarding School,Female Protagonist,Primarily Teen Cast
-    studio: SILVER LINK.
-    seasons:
-      1:
-        title: |-
-          Rakudai Kishi no Cavalry
-        label: Score,Completed,2015 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.2
-    critic_rating: 7.4
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   451479:
     title: |-
       Ranma 1/2 (2024)
@@ -4749,7 +4789,7 @@ metadata:
       Rock wa Lady no Tashinami Deshite
     original_title: |-
       Rock is a Lady’s Modesty
-    genre.sync: Drama,Music,Female Protagonist,Band,Rock Music,Ojou-sama,Primarily Female Cast,Primarily Teen Cast,School,CGI,Yuri,Urban
+    genre.sync: Drama,Music,Female Protagonist,Band,Rock Music,Ojou-sama,Primarily Female Cast,Primarily Teen Cast,LGBTQ+ Themes,School,CGI,Urban,Yuri
     studio: Bandai Namco Pictures
     seasons:
       1:
@@ -5001,7 +5041,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.9
     audience_rating: 6.9
-    critic_rating: 7.1
+    critic_rating: 7.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   257518:
@@ -5895,8 +5935,8 @@ metadata:
           Taiyou yori mo Mabushii Hoshi
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
+        user_rating: 6.5
+    audience_rating: 6.5
     critic_rating: 7.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -5910,8 +5950,6 @@ metadata:
     genre.sync: Comedy,Slice of Life,School,Male Protagonist,Primarily Teen Cast,Iyashikei,Episodic,Cute Boys Doing Cute Things,Kuudere
     studio: SILVER LINK.
     seasons:
-      0:
-        label.remove: Score
       1:
         title: |-
           Tanaka-kun wa Itsumo Kedaruge
@@ -6022,26 +6060,6 @@ metadata:
     critic_rating: 7.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  446238:
-    title: |-
-      Tensei Akujo no Kuro Rekishi
-    sort_title: |-
-      Tensei Akujo no Kuro Rekishi
-    original_title: |-
-      The Dark History of the Reincarnated Villainess
-    genre.sync: Comedy,Fantasy,Romance,Shoujo
-    studio: Studio DEEN
-    seasons:
-      1:
-        title: |-
-          Tensei Akujo no Kuro Rekishi
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
-    critic_rating: 6.8
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   434704:
     title: |-
       Tensei Kizoku, Kantei Skill de Nariagaru
@@ -6469,7 +6487,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
-    critic_rating: 7.4
+    critic_rating: 7.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   421378:
@@ -6652,11 +6670,11 @@ metadata:
       1:
         title: |-
           Uma Musume: Cinderella Gray
-        label: Score,Completed,2025 Spring
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.5
-    audience_rating: 8.5
-    critic_rating: 8.6
+        label: Score,Watching,2025 Fall,2025 Spring
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 8.2
+    audience_rating: 8.2
+    critic_rating: 8.5
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   423030:
@@ -6842,7 +6860,7 @@ metadata:
       WanDance
     original_title: |-
       Wandance
-    genre.sync: Drama,Sports,Dancing,School Club,Disability,CGI,School,Seinen,Female Protagonist,Male Protagonist
+    genre.sync: Drama,Sports,Dancing,Disability,School Club,CGI,School,Seinen,Male Protagonist,Female Protagonist
     studio: MADHOUSE
     seasons:
       1:
@@ -6862,7 +6880,7 @@ metadata:
       Watashi wo Tabetai, Hitodenashi
     original_title: |-
       This Monster Wants to Eat Me
-    genre.sync: Drama,Horror,Psychological,Romance,Supernatural,Monster Girl,Mermaid,Yuri,Youkai,Coastal,LGBTQ+ Themes,Suicide,Mythology,Tragedy,Female Protagonist,Orphan,Primarily Female Cast,Denpa,Rural
+    genre.sync: Drama,Horror,Psychological,Romance,Supernatural,Monster Girl,Mermaid,Youkai,Coastal,Yuri,Suicide,Mythology,Tragedy,LGBTQ+ Themes,Female Protagonist,Orphan,Primarily Female Cast,Denpa,Rural
     studio: Studio Lings
     seasons:
       1:
