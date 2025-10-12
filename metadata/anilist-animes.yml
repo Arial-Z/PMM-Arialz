@@ -986,26 +986,6 @@ metadata:
     critic_rating: 8.4
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  449395:
-    title: |-
-      Chao Neng Lifang
-    sort_title: |-
-      Chao Neng Lifang
-    original_title: |-
-      Super Cube
-    genre.sync: Action,Adventure,Fantasy,Cultivation,Martial Arts
-    studio: Big Firebird Cultural Media
-    seasons:
-      1:
-        title: |-
-          Chao Neng Lifang
-        label: Score,Completed,2025 Winter
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 7.2
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   289679:
     title: |-
       Charlotte
@@ -1078,8 +1058,6 @@ metadata:
     genre.sync: Drama,Romance,Slice of Life,Sports,Karuta,Female Protagonist,School Club,Coming of Age,Love Triangle,Josei,School
     studio: MADHOUSE
     seasons:
-      0:
-        label.remove: Score
       1:
         title: |-
           Chihayafuru
@@ -1308,13 +1286,13 @@ metadata:
       2:
         title: |-
           Dandadan 2nd Season
-        label: Score,Watching,2025 Summer
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.4
     audience_rating: 8.4
     critic_rating: 8.5
-    label: AA Winner,Planned,Watching
-    label.remove: Airing,Ended,Dropped,Paused,Planning
+    label: AA Winner,Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   423264:
     title: |-
       Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)
@@ -1503,6 +1481,26 @@ metadata:
     critic_rating: 8.2
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  372361:
+    title: |-
+      Houkago Teibou Nisshi
+    sort_title: |-
+      Houkago Teibou Nisshi
+    original_title: |-
+      Diary of Our Days at the Breakwater
+    genre.sync: Comedy,Slice of Life,Sports,Fishing,School Club,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Outdoor Activities,Primarily Teen Cast,Iyashikei,Food,Coastal,Educational,Rural,Seinen
+    studio: Doga Kobo
+    seasons:
+      1:
+        title: |-
+          Houkago Teibou Nisshi
+        label: Score,2020 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.4
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   461683:
     title: |-
       Digimon Beatbreak
@@ -1520,7 +1518,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.4
     audience_rating: 6.4
-    critic_rating: 6.9
+    critic_rating: 7.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   370761:
@@ -1763,26 +1761,6 @@ metadata:
     critic_rating: 7.7
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  402640:
-    title: |-
-      Shokei Shoujo no Virgin Road
-    sort_title: |-
-      Shokei Shoujo no Virgin Road
-    original_title: |-
-      The Executioner and Her Way of Life
-    genre.sync: Action,Adventure,Drama,Fantasy,Anti-Hero,Memory Manipulation,Magic,Primarily Female Cast,Time Manipulation,Female Protagonist,Isekai,Assassins,Yuri,Religion,LGBTQ+ Themes,Gore
-    studio: J.C.STAFF
-    seasons:
-      1:
-        title: |-
-          Shokei Shoujo no Virgin Road
-        label: Score,Completed,2022 Spring
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
-    critic_rating: 6.8
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   410031:
     title: |-
       Fairy Tail: 100 Years Quest
@@ -1872,9 +1850,9 @@ metadata:
           Fumetsu no Anata e Season 3
         label: Score,Watching,2025 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.7
+        user_rating: 7.8
     audience_rating: 7.9
-    critic_rating: 8.1
+    critic_rating: 8.2
     label: AA Winner,Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   450537:
@@ -1989,11 +1967,13 @@ metadata:
       1:
         title: |-
           Gnosia
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.4
+    audience_rating: 6.4
+    critic_rating: 7.1
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   350166:
     title: |-
       Goblin Slayer
@@ -2427,26 +2407,6 @@ metadata:
     audience_rating: 8.1
     critic_rating: 8.1
     label: AA Winner,Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  372361:
-    title: |-
-      Houkago Teibou Nisshi
-    sort_title: |-
-      Houkago Teibou Nisshi
-    original_title: |-
-      Diary of Our Days at the Breakwater
-    genre.sync: Comedy,Slice of Life,Sports,Fishing,School Club,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Outdoor Activities,Primarily Teen Cast,Iyashikei,Food,Coastal,Educational,Rural,Seinen
-    studio: Doga Kobo
-    seasons:
-      1:
-        title: |-
-          Houkago Teibou Nisshi
-        label: Score,2020 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 7.4
-    label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   331787:
     title: |-
@@ -3603,6 +3563,24 @@ metadata:
     critic_rating: 6.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+  466129:
+    title: |-
+      Chanto Suenai Kyuuketsuki-chan
+    sort_title: |-
+      Chanto Suenai Kyuuketsuki-chan
+    original_title: |-
+      Li'l Miss Vampire Can't Suck Right
+    genre.sync: Comedy,Slice of Life,Supernatural,Vampire,School,Male Protagonist,Female Protagonist
+    studio: feel.
+    seasons:
+      1:
+        title: |-
+          Chanto Suenai Kyuuketsuki-chan
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   318161:
     title: |-
       Little Witch Academia (TV)
@@ -4028,8 +4006,8 @@ metadata:
           Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
         label: Score,Watching,2025 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.8
-    audience_rating: 5.8
+        user_rating: 6.0
+    audience_rating: 6.0
     critic_rating: 6.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -4370,10 +4348,16 @@ metadata:
         label: Score,Completed,2019 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.4
-    audience_rating: 7.8
-    critic_rating: 8.0
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+      3:
+        title: |-
+          One Punch Man 3
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    audience_rating: 15.7
+    critic_rating: 7.8
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   81178:
     title: |-
       Ookami to Koushinryou
@@ -4739,9 +4723,9 @@ metadata:
           Ranma 1/2 (2024) 2nd Season
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.7
-    critic_rating: 7.9
+        user_rating: 7.6
+    audience_rating: 7.8
+    critic_rating: 8.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   305089:
@@ -5526,6 +5510,26 @@ metadata:
     critic_rating: 8.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  402640:
+    title: |-
+      Shokei Shoujo no Virgin Road
+    sort_title: |-
+      Shokei Shoujo no Virgin Road
+    original_title: |-
+      The Executioner and Her Way of Life
+    genre.sync: Action,Adventure,Drama,Fantasy,Anti-Hero,Memory Manipulation,Magic,Primarily Female Cast,Time Manipulation,Female Protagonist,Isekai,Assassins,Yuri,Religion,LGBTQ+ Themes,Gore
+    studio: J.C.STAFF
+    seasons:
+      1:
+        title: |-
+          Shokei Shoujo no Virgin Road
+        label: Score,Completed,2022 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 6.8
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   332983:
     title: |-
       Shoujo Shuumatsu Ryokou
@@ -5587,8 +5591,8 @@ metadata:
           Shuumatsu Touring
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
+        user_rating: 6.4
+    audience_rating: 6.4
     critic_rating: 6.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -6365,8 +6369,8 @@ metadata:
           Tomodachi no Imouto ga Ore ni dake Uzai
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
+        user_rating: 6.4
+    audience_rating: 6.4
     critic_rating: 6.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -6473,7 +6477,7 @@ metadata:
       Toujima Tanzaburou wa Kamen Rider ni Naritai
     original_title: |-
       Tojima Wants to Be a Kamen Rider
-    genre.sync: Action,Comedy,Male Protagonist,Tokusatsu
+    genre.sync: Action,Comedy,Male Protagonist,Tokusatsu,Superhero
     studio: LIDENFILMS
     seasons:
       1:
@@ -6481,9 +6485,9 @@ metadata:
           Toujima Tanzaburou wa Kamen Rider ni Naritai
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 7.3
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   465214:
