@@ -264,7 +264,7 @@ metadata:
       Alma-chan wa Kazoku ni Naritai
     original_title: |-
       Alma-chan Wants to Be a Family!
-    genre.sync: Comedy,Romance,Sci-Fi,Slice of Life,Artificial Intelligence,Female Protagonist,Male Protagonist,Parenthood,Family Life,Found Family,Robots,Iyashikei
+    genre.sync: Comedy,Romance,Sci-Fi,Slice of Life,Family Life,Found Family,Artificial Intelligence,Female Protagonist,Male Protagonist,Parenthood,Iyashikei,Robots
     studio: Studio Flad
     seasons:
       1:
@@ -272,9 +272,9 @@ metadata:
           Alma-chan wa Kazoku ni Naritai
         label: Score,Watching,2025 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
-    critic_rating: 7.0
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 7.1
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   348706:
@@ -986,6 +986,26 @@ metadata:
     critic_rating: 8.4
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  466129:
+    title: |-
+      Chanto Suenai Kyuuketsuki-chan
+    sort_title: |-
+      Chanto Suenai Kyuuketsuki-chan
+    original_title: |-
+      Li'l Miss Vampire Can't Suck Right
+    genre.sync: Comedy,Slice of Life,Supernatural,Vampire,School,Male Protagonist,Female Protagonist
+    studio: feel.
+    seasons:
+      1:
+        title: |-
+          Chanto Suenai Kyuuketsuki-chan
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.9
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   289679:
     title: |-
       Charlotte
@@ -1045,7 +1065,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.6
     audience_rating: 6.6
-    critic_rating: 6.9
+    critic_rating: 7.1
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   251982:
@@ -1481,26 +1501,6 @@ metadata:
     critic_rating: 8.2
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  372361:
-    title: |-
-      Houkago Teibou Nisshi
-    sort_title: |-
-      Houkago Teibou Nisshi
-    original_title: |-
-      Diary of Our Days at the Breakwater
-    genre.sync: Comedy,Slice of Life,Sports,Fishing,School Club,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Outdoor Activities,Primarily Teen Cast,Iyashikei,Food,Coastal,Educational,Rural,Seinen
-    studio: Doga Kobo
-    seasons:
-      1:
-        title: |-
-          Houkago Teibou Nisshi
-        label: Score,2020 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 7.4
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   461683:
     title: |-
       Digimon Beatbreak
@@ -1508,7 +1508,7 @@ metadata:
       Digimon Beatbreak
     original_title: |-
       Digimon Beatbreak
-    genre.sync: Adventure,Fantasy,Sci-Fi,Urban,Proxy Battle,Found Family,Artificial Intelligence
+    genre.sync: Adventure,Fantasy,Sci-Fi,Urban,Proxy Battle,Primarily Teen Cast,Male Protagonist,Found Family,Artificial Intelligence,Anthropomorphism,Cyberpunk
     studio: Toei Animation
     seasons:
       1:
@@ -1516,8 +1516,8 @@ metadata:
           Digimon Beatbreak
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
+        user_rating: 6.6
+    audience_rating: 6.6
     critic_rating: 7.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -1961,7 +1961,7 @@ metadata:
       Gnosia
     original_title: |-
       Gnosia
-    genre.sync: Drama,Mystery,Sci-Fi,Time Loop,Aliens,Survival,Space
+    genre.sync: Drama,Mystery,Sci-Fi,Aliens,Time Loop,Survival,Space
     studio: domerica
     seasons:
       1:
@@ -2305,7 +2305,7 @@ metadata:
       Hikaru ga Shinda Natsu
     original_title: |-
       The Summer Hikaru Died
-    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Tragedy,Rural,Male Protagonist,Body Horror,Cosmic Horror,Mythology,LGBTQ+ Themes,Primarily Teen Cast,Seinen,Gods,Urban Fantasy,Unrequited Love,Curses,School,Mixed Media
+    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Tragedy,Rural,Male Protagonist,Body Horror,Cosmic Horror,Mythology,LGBTQ+ Themes,Primarily Teen Cast,Seinen,Gods,Urban Fantasy,Unrequited Love,Curses,School
     studio: CygamesPictures
     seasons:
       1:
@@ -2407,6 +2407,26 @@ metadata:
     audience_rating: 8.1
     critic_rating: 8.1
     label: AA Winner,Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  372361:
+    title: |-
+      Houkago Teibou Nisshi
+    sort_title: |-
+      Houkago Teibou Nisshi
+    original_title: |-
+      Diary of Our Days at the Breakwater
+    genre.sync: Comedy,Slice of Life,Sports,Fishing,School Club,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Outdoor Activities,Primarily Teen Cast,Iyashikei,Food,Coastal,Educational,Rural,Seinen
+    studio: Doga Kobo
+    seasons:
+      1:
+        title: |-
+          Houkago Teibou Nisshi
+        label: Score,2020 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.4
+    label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   331787:
     title: |-
@@ -3102,7 +3122,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.2
     audience_rating: 6.2
-    critic_rating: 6.9
+    critic_rating: 6.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   432815:
@@ -3303,10 +3323,16 @@ metadata:
         label: Score,Completed,2024 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.5
-    audience_rating: 13.6
+      6:
+        title: |-
+          Kingdom 6th Season
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.8
+    audience_rating: 8.1
     critic_rating: 8.5
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   279831:
     title: |-
       Kiseijuu: Sei no Kakuritsu
@@ -3561,24 +3587,6 @@ metadata:
         user_rating: 5.6
     audience_rating: 5.6
     critic_rating: 6.2
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
-  466129:
-    title: |-
-      Chanto Suenai Kyuuketsuki-chan
-    sort_title: |-
-      Chanto Suenai Kyuuketsuki-chan
-    original_title: |-
-      Li'l Miss Vampire Can't Suck Right
-    genre.sync: Comedy,Slice of Life,Supernatural,Vampire,School,Male Protagonist,Female Protagonist
-    studio: feel.
-    seasons:
-      1:
-        title: |-
-          Chanto Suenai Kyuuketsuki-chan
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   318161:
@@ -4156,11 +4164,11 @@ metadata:
       1:
         title: |-
           Nageki no Bourei wa Intai Shitai
-        label: Score,Completed,2024 Fall
-        label.remove: Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Fall,2024 Fall
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.9
     audience_rating: 6.9
-    critic_rating: 7.0
+    critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   284131:
@@ -4353,9 +4361,9 @@ metadata:
           One Punch Man 3
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    audience_rating: 15.7
-    critic_rating: 7.8
+        user_rating: 7.7
+    audience_rating: 7.8
+    critic_rating: 7.7
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   81178:
@@ -5095,7 +5103,7 @@ metadata:
       Sawaranaide Kotesashi-kun
     original_title: |-
       Hands off: Sawaranaide Kotesashi-kun!
-    genre.sync: Comedy,Ecchi,Romance,Sports,Female Harem,Male Protagonist,Nudity,Medicine,Primarily Female Cast,School
+    genre.sync: Comedy,Ecchi,Romance,Sports,Female Harem,Male Protagonist,Nudity,Medicine,School,Primarily Female Cast
     studio: Quad
     seasons:
       1:
@@ -5103,8 +5111,8 @@ metadata:
           Sawaranaide Kotesashi-kun
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.8
-    audience_rating: 5.8
+        user_rating: 6.0
+    audience_rating: 6.0
     critic_rating: 6.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -5633,7 +5641,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 5.6
     audience_rating: 5.6
-    critic_rating: 6.4
+    critic_rating: 6.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   452832:
@@ -5643,7 +5651,7 @@ metadata:
       Silent Witch: Chinmoku no Majo no Kakushigoto
     original_title: |-
       Secrets of the Silent Witch
-    genre.sync: Adventure,Fantasy,Female Protagonist,Magic,Witch,School,Royal Affairs,Primarily Teen Cast,Hikikomori,Politics,Shoujo,Coming of Age,Class Struggle,Ojou-sama
+    genre.sync: Adventure,Fantasy,Female Protagonist,Magic,Witch,School,Royal Affairs,Primarily Teen Cast,Hikikomori,Shoujo,Politics,Coming of Age,Class Struggle,Ojou-sama
     studio: Studio Gokumi
     seasons:
       1:
@@ -5651,9 +5659,9 @@ metadata:
           Silent Witch: Chinmoku no Majo no Kakushigoto
         label: Score,Completed,2025 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.0
-    audience_rating: 8.0
-    critic_rating: 8.2
+        user_rating: 8.1
+    audience_rating: 8.1
+    critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   412696:
