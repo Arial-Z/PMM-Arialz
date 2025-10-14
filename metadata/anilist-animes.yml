@@ -1,4 +1,4 @@
-# Romaji-Renamer v1.25.3
+# Romaji-Renamer v1.25.3+
 metadata:
   114801:
     title: |-
@@ -314,7 +314,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
-    critic_rating: 7.5
+    critic_rating: 7.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   248035:
@@ -1117,7 +1117,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
-    critic_rating: 7.4
+    critic_rating: 7.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   415440:
@@ -1422,9 +1422,9 @@ metadata:
           Debu to Love to Ayamachi to!
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.3
-    audience_rating: 5.3
-    critic_rating: 6.4
+        user_rating: 5.7
+    audience_rating: 5.7
+    critic_rating: 6.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   378878:
@@ -1696,7 +1696,7 @@ metadata:
       Egao no Taenai Shokuba desu.
     original_title: |-
       A Mangaka's Weirdly Wonderful Workplace
-    genre.sync: Comedy,Slice of Life,Drawing,Female Protagonist,Primarily Female Cast,Yuri,Work,Cute Girls Doing Cute Things,Primarily Adult Cast
+    genre.sync: Comedy,Slice of Life,Female Protagonist,Drawing,Cute Girls Doing Cute Things,Work,Primarily Female Cast,Yuri,Primarily Adult Cast
     studio: Voil
     seasons:
       1:
@@ -1704,9 +1704,9 @@ metadata:
           Egao no Taenai Shokuba desu.
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
-    critic_rating: 6.7
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 6.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   412957:
@@ -5757,7 +5757,7 @@ metadata:
       Sozai Saishuka no Isekai Ryokouki
     original_title: |-
       A Gatherer's Adventure in Isekai
-    genre.sync: Adventure,Comedy,Fantasy,Slice of Life
+    genre.sync: Adventure,Comedy,Fantasy,Slice of Life,Travel,Male Protagonist,Isekai,Magic
     studio: Tatsunoko Production
     seasons:
       1:
@@ -5767,7 +5767,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 5.6
     audience_rating: 5.6
-    critic_rating: 6.2
+    critic_rating: 6.1
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   405920:
@@ -6425,7 +6425,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.4
     audience_rating: 7.5
-    critic_rating: 7.5
+    critic_rating: 7.7
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   385077:
@@ -6949,6 +6949,24 @@ metadata:
     critic_rating: 7.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  458960:
+    title: |-
+      Kimi to Koete Koi ni Naru
+    sort_title: |-
+      Kimi to Koete Koi ni Naru
+    original_title: |-
+      With You, Our Love Will Make It Through
+    genre.sync: Drama,Fantasy,Romance,Shoujo,Anthropomorphism,Heterosexual
+    studio: Millepensee
+    seasons:
+      1:
+        title: |-
+          Kimi to Koete Koi ni Naru
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   145211:
     title: |-
       Working!!
