@@ -1107,7 +1107,7 @@ metadata:
       Chitose-kun wa Ramune Bin no Naka
     original_title: |-
       Chitose Is in the Ramune Bottle
-    genre.sync: Comedy,Romance,Female Harem,School,Philosophy,Coming of Age,Male Protagonist
+    genre.sync: Comedy,Romance,Philosophy,Female Harem,School,Coming of Age,Primarily Teen Cast,Male Protagonist
     studio: feel.
     seasons:
       1:
@@ -1115,8 +1115,8 @@ metadata:
           Chitose-kun wa Ramune Bin no Naka
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
+        user_rating: 6.9
+    audience_rating: 6.9
     critic_rating: 7.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -1206,8 +1206,8 @@ metadata:
         user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 7.9
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   79525:
     title: |-
       Code Geass: Hangyaku no Lelouch
@@ -2366,8 +2366,8 @@ metadata:
         user_rating: 7.9
     audience_rating: 7.9
     critic_rating: 8.1
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   388593:
     title: |-
       Horimiya
@@ -2591,8 +2591,8 @@ metadata:
         user_rating: 6.4
     audience_rating: 6.3
     critic_rating: 6.4
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   402474:
     title: |-
       Jigokuraku
@@ -3263,6 +3263,26 @@ metadata:
     critic_rating: 6.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  458960:
+    title: |-
+      Kimi to Koete Koi ni Naru
+    sort_title: |-
+      Kimi to Koete Koi ni Naru
+    original_title: |-
+      With You, Our Love Will Make It Through
+    genre.sync: Drama,Fantasy,Romance,Shoujo,Anthropomorphism,Heterosexual
+    studio: Millepensee
+    seasons:
+      1:
+        title: |-
+          Kimi to Koete Koi ni Naru
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.4
+    audience_rating: 6.4
+    critic_rating: 7.0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   414562:
     title: |-
       Kimi wa Houkago Insomnia
@@ -3453,8 +3473,8 @@ metadata:
         user_rating: 8.2
     audience_rating: 8.1
     critic_rating: 8.2
-    label: Ended,Dropped
-    label.remove: Planned,Airing,Watching,Paused,Planning
+    label: Planned,Dropped
+    label.remove: Airing,Ended,Watching,Paused,Planning
   413515:
     title: |-
       Koukyuu no Karasu
@@ -3567,8 +3587,8 @@ metadata:
         user_rating: 8.8
     audience_rating: 8.8
     critic_rating: 8.9
-    label: AA Winner,Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: AA Winner,Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   440965:
     title: |-
       Let’s Play: Quest Darake no My Life
@@ -3997,8 +4017,8 @@ metadata:
         user_rating: 7.8
     audience_rating: 7.7
     critic_rating: 7.7
-    label: AA Winner,Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: AA Winner,Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   461708:
     title: |-
       Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
@@ -4120,7 +4140,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.1
     audience_rating: 6.1
-    critic_rating: 6.6
+    critic_rating: 6.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   371310:
@@ -4359,13 +4379,13 @@ metadata:
       3:
         title: |-
           One Punch Man 3
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.7
     audience_rating: 7.8
     critic_rating: 7.7
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   81178:
     title: |-
       Ookami to Koushinryou
@@ -5453,7 +5473,7 @@ metadata:
           Shingeki no Kyojin
         label: Score,Completed,2013 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.4
+        user_rating: 8.5
       2:
         title: |-
           Shingeki no Kyojin Season 2
@@ -5472,7 +5492,7 @@ metadata:
         label: Score,AA Winner,Planning,2023 Winter,2022 Winter,2021 Winter
         label.remove: Completed,Watching,Dropped,Paused,
         user_rating: 8.6
-    audience_rating: 8.5
+    audience_rating: 8.6
     critic_rating: 8.7
     label: AA Winner,Ended,Planning
     label.remove: Planned,Airing,Watching,Dropped,Paused,
@@ -6423,8 +6443,8 @@ metadata:
           Tondemo Skill de Isekai Hourou Meshi 2
         label: Score,Watching,2025 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.5
+        user_rating: 7.5
+    audience_rating: 7.6
     critic_rating: 7.7
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
@@ -6949,24 +6969,6 @@ metadata:
     critic_rating: 7.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  458960:
-    title: |-
-      Kimi to Koete Koi ni Naru
-    sort_title: |-
-      Kimi to Koete Koi ni Naru
-    original_title: |-
-      With You, Our Love Will Make It Through
-    genre.sync: Drama,Fantasy,Romance,Shoujo,Anthropomorphism,Heterosexual
-    studio: Millepensee
-    seasons:
-      1:
-        title: |-
-          Kimi to Koete Koi ni Naru
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   145211:
     title: |-
       Working!!
