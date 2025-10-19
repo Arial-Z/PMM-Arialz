@@ -1,4 +1,4 @@
-# Romaji-Renamer v1.25.3+
+# Romaji-Renamer v1.25.4
 metadata:
   114801:
     title: |-
@@ -1961,7 +1961,7 @@ metadata:
       Gnosia
     original_title: |-
       Gnosia
-    genre.sync: Drama,Mystery,Sci-Fi,Aliens,Time Loop,Survival,Space
+    genre.sync: Drama,Mystery,Sci-Fi,Time Loop,Aliens,Survival,Space,Amnesia,Primarily Adult Cast,CGI
     studio: domerica
     seasons:
       1:
@@ -1969,9 +1969,9 @@ metadata:
           Gnosia
         label: Score,Watching,2025 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
-    critic_rating: 7.1
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   350166:
@@ -2834,7 +2834,7 @@ metadata:
       Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun
     original_title: |-
       Inexpressive Kashiwada and Expressive Oota
-    genre.sync: Comedy,Romance,Slice of Life,Shounen,Kuudere,Heterosexual
+    genre.sync: Comedy,Romance,Slice of Life,Shounen,Kuudere,Heterosexual,School
     studio: STUDIO POLON
     seasons:
       1:
@@ -3340,8 +3340,8 @@ metadata:
       5:
         title: |-
           Kingdom 5th Season
-        label: Score,Completed,2024 Winter
-        label.remove: Watching,Dropped,Paused,Planning
+        label: Score,2024 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.5
       6:
         title: |-
@@ -4751,7 +4751,7 @@ metadata:
           Ranma 1/2 (2024) 2nd Season
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.6
+        user_rating: 7.7
     audience_rating: 7.8
     critic_rating: 8.1
     label: Airing
@@ -5819,7 +5819,7 @@ metadata:
           SPY×FAMILY Season 3
         label: Score,Watching,2025 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.8
+        user_rating: 7.9
     audience_rating: 8.0
     critic_rating: 8.2
     label: AA Winner,Airing,Watching
@@ -6399,7 +6399,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.4
     audience_rating: 6.4
-    critic_rating: 6.7
+    critic_rating: 6.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   418368:
@@ -6505,7 +6505,7 @@ metadata:
       Toujima Tanzaburou wa Kamen Rider ni Naritai
     original_title: |-
       Tojima Wants to Be a Kamen Rider
-    genre.sync: Action,Comedy,Male Protagonist,Tokusatsu,Superhero
+    genre.sync: Action,Comedy,Tokusatsu,Superhero,Male Protagonist,Henshin
     studio: LIDENFILMS
     seasons:
       1:
@@ -6513,8 +6513,8 @@ metadata:
           Toujima Tanzaburou wa Kamen Rider ni Naritai
         label: Score,Watching,2025 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
+        user_rating: 7.2
+    audience_rating: 7.2
     critic_rating: 7.7
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning

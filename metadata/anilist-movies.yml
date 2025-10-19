@@ -1,4 +1,4 @@
-# Romaji-Renamer v1.25.3+
+# Romaji-Renamer v1.25.4
 metadata:
   tt0110008:
     title: |-
@@ -97,6 +97,19 @@ metadata:
     audience_rating: 7.5
     critic_rating: 7.8
     label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt11032374:
+    title: |-
+      Kimetsu no Yaiba: Mugen Ressha-hen
+    sort_title: |-
+      Kimetsu no Yaiba: Mugen Ressha-hen
+    original_title: |-
+      Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train
+    genre.sync: Action,Adventure,Drama,Fantasy,Mystery,Supernatural,Demons,Swordplay,Shounen,Tragedy,Trains,Vampire,Curses,Male Protagonist,Body Horror,Super Power,Monster Girl,Primarily Teen Cast,CGI,Gore,Primarily Male Cast,Orphan
+    studio: ufotable
+    audience_rating: 8.4
+    critic_rating: 8.6
+    label: AA Winner,Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt0860906:
     title: |-
       Evangelion Shin Movie: Ha
