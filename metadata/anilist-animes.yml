@@ -383,26 +383,6 @@ metadata:
     critic_rating: 8.1
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  451504:
-    title: |-
-      Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku
-    sort_title: |-
-      Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku
-    original_title: |-
-      Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin
-    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance,Anti-Hero,Reincarnation,Virtual World,Isekai,Elf,Kingdom Management,Video Games,Magic,Creature Taming,Twins,Male Protagonist
-    studio: Maho Film
-    seasons:
-      1:
-        title: |-
-          Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku
-        label: Score,Completed,2025 Summer
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 6.7
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   453846:
     title: |-
       Apocalypse Hotel
@@ -767,26 +747,6 @@ metadata:
     critic_rating: 8.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  262109:
-    title: |-
-      Zetsuen no Tempest
-    sort_title: |-
-      Zetsuen no Tempest
-    original_title: |-
-      Blast of Tempest
-    genre.sync: Action,Drama,Fantasy,Mystery,Romance,Urban Fantasy,Revenge,Magic,Time Manipulation,Love Triangle,Anti-Hero,Tragedy,Heterosexual,Suicide,Classic Literature,Male Protagonist,Shounen,Post-Apocalyptic,Environmental
-    studio: bones
-    seasons:
-      1:
-        title: |-
-          Zetsuen no Tempest
-        label: Score,Completed,2012 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.6
-    critic_rating: 7.9
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   74796:
     title: |-
       Bleach
@@ -2487,6 +2447,26 @@ metadata:
     critic_rating: 6.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  451504:
+    title: |-
+      Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku
+    sort_title: |-
+      Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku
+    original_title: |-
+      Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin
+    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance,Anti-Hero,Reincarnation,Virtual World,Isekai,Elf,Kingdom Management,Video Games,Magic,Creature Taming,Twins,Male Protagonist
+    studio: Maho Film
+    seasons:
+      1:
+        title: |-
+          Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku
+        label: Score,Completed,2025 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 6.7
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   418367:
     title: |-
       Isekai Nonbiri Nouka
@@ -2928,13 +2908,13 @@ metadata:
       1:
         title: |-
           Kidou Senshi Gundam GQuuuuuuX
-        label: Score,Dropped,2025 Spring
-        label.remove: Completed,Watching,Paused,Planning
+        label: Score,Watching,2025 Spring
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.9
     audience_rating: 6.9
     critic_rating: 7.0
-    label: Ended,Dropped
-    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   254931:
     title: |-
       Kidou Senshi Gundam SEED
@@ -6380,28 +6360,6 @@ metadata:
     critic_rating: 7.7
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
-  465214:
-    title: |-
-      Towa no Yuugure
-    sort_title: |-
-      Towa no Yuugure
-    original_title: |-
-      Dusk Beyond the End of the World
-    genre.sync: Action,Drama,Romance,Sci-Fi,Heterosexual,Robots,Dystopian,Lost Civilization,Post-Apocalyptic,Artificial Intelligence,Male Protagonist
-    studio: P.A.WORKS
-    seasons:
-      0:
-        label.remove: Score
-      1:
-        title: |-
-          Towa no Yuugure
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
-    critic_rating: 7.4
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   421378:
     title: |-
       Trigun Stampede
@@ -6509,13 +6467,13 @@ metadata:
       1:
         title: |-
           Tu Bian Yingxiong X
-        label: Score,Dropped,2025 Spring
-        label.remove: Completed,Watching,Paused,Planning
+        label: Score,Watching,2025 Spring
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.5
     audience_rating: 8.5
     critic_rating: 8.7
-    label: Ended,Dropped
-    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   256705:
     title: |-
       Uchuu Kyoudai
@@ -6782,7 +6740,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
-    critic_rating: 7.4
+    critic_rating: 7.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   433088:
@@ -7241,6 +7199,26 @@ metadata:
     critic_rating: 7.6
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
+  262109:
+    title: |-
+      Zetsuen no Tempest
+    sort_title: |-
+      Zetsuen no Tempest
+    original_title: |-
+      Blast of Tempest
+    genre.sync: Action,Drama,Fantasy,Mystery,Romance,Urban Fantasy,Revenge,Magic,Time Manipulation,Love Triangle,Anti-Hero,Tragedy,Heterosexual,Suicide,Classic Literature,Male Protagonist,Shounen,Post-Apocalyptic,Environmental
+    studio: bones
+    seasons:
+      1:
+        title: |-
+          Zetsuen no Tempest
+        label: Score,Completed,2012 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.6
+    audience_rating: 7.6
+    critic_rating: 7.9
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   429310:
     title: |-
       Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto
