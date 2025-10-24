@@ -555,7 +555,13 @@ metadata:
         label: Score,2024 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.5
-    audience_rating: 13.8
+      5:
+        title: |-
+          Bai Yao Pu: Luoyang Pian
+        label: Score,2025 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    audience_rating: 6.9
     critic_rating: 7.5
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
@@ -598,7 +604,7 @@ metadata:
       BanG Dream! Ave Mujica
     original_title: |-
       Ave Mujica - The Die is Cast -
-    genre.sync: Drama,Music,Psychological,Female Protagonist,Band,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Acting,Full CGI,Yuri,Metal Music,Rock Music,Musical Theater,Disability,Ensemble Cast,LGBTQ+ Themes
+    genre.sync: Drama,Music,Psychological,Female Protagonist,Band,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Acting,Full CGI,Yuri,Metal Music,Musical Theater,Rock Music,Disability,Ensemble Cast
     studio: SANZIGEN
     seasons:
       1:
@@ -919,7 +925,7 @@ metadata:
       Bukiyou na Senpai.
     original_title: |-
       My Awkward Senpai
-    genre.sync: Comedy,Romance,Office Lady,Office,Seinen,Primarily Adult Cast,Work
+    genre.sync: Comedy,Romance,Office Lady,Office,Seinen,Primarily Adult Cast,Work,Assassins,Heterosexual
     studio: Studio elle
     seasons:
       1:
@@ -986,6 +992,24 @@ metadata:
     critic_rating: 8.4
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  461311:
+    title: |-
+      null
+    sort_title: |-
+      null
+    original_title: |-
+      null
+    genre.sync: 
+    seasons:
+      1:
+        title: |-
+          null
+        label: Score,null Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 7.2
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   289679:
     title: |-
       Charlotte
@@ -1894,6 +1918,26 @@ metadata:
     critic_rating: 8.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  432723:
+    title: |-
+      3-nen Z-gumi Ginpachi-sensei
+    sort_title: |-
+      3-nen Z-gumi Ginpachi-sensei
+    original_title: |-
+      GINTAMA - Mr. Ginpachi's Zany Class
+    genre.sync: Comedy,School,Surreal Comedy,Parody
+    studio: Bandai Namco Pictures
+    seasons:
+      1:
+        title: |-
+          3-nen Z-gumi Ginpachi-sensei
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.9
+    audience_rating: 7.9
+    critic_rating: 8.3
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   434127:
     title: |-
       Girls Band Cry
@@ -3788,7 +3832,7 @@ metadata:
       Majo no Tabitabi
     original_title: |-
       Wandering Witch: The Journey of Elaina
-    genre.sync: Adventure,Fantasy,Slice of Life,Episodic,Witch,Magic,Female Protagonist,Travel,Cute Girls Doing Cute Things,Primarily Female Cast,Time Skip,Achronological Order,Tragedy,LGBTQ+ Themes
+    genre.sync: Adventure,Fantasy,Slice of Life,Witch,Episodic,Magic,Female Protagonist,Travel,Cute Girls Doing Cute Things,Time Skip,Primarily Female Cast,Achronological Order,Medieval,Tragedy,LGBTQ+ Themes
     studio: C2C
     seasons:
       1:
@@ -6730,7 +6774,7 @@ metadata:
       Watashi wo Tabetai, Hitodenashi
     original_title: |-
       This Monster Wants to Eat Me
-    genre.sync: Drama,Horror,Psychological,Romance,Supernatural,Monster Girl,Mermaid,Suicide,Coastal,Youkai,Yuri,Mythology,Tragedy,LGBTQ+ Themes,Denpa,Female Protagonist,Orphan,Primarily Female Cast,Rural
+    genre.sync: Drama,Horror,Psychological,Romance,Supernatural,Monster Girl,Mermaid,Suicide,Coastal,LGBTQ+ Themes,Youkai,Mythology,Tragedy,Denpa,Female Protagonist,Orphan,Yuri,Primarily Female Cast,Rural
     studio: Studio Lings
     seasons:
       1:
