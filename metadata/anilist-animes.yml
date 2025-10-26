@@ -284,7 +284,7 @@ metadata:
       Alma-chan wa Kazoku ni Naritai
     original_title: |-
       Alma-chan Wants to Be a Family!
-    genre.sync: Comedy,Romance,Sci-Fi,Slice of Life,Family Life,Found Family,Artificial Intelligence,Female Protagonist,Male Protagonist,Parenthood,Iyashikei,Robots
+    genre.sync: Comedy,Romance,Sci-Fi,Slice of Life,Family Life,Artificial Intelligence,Found Family,Robots,Female Protagonist,Male Protagonist,Parenthood,Iyashikei
     studio: Studio Flad
     seasons:
       1:
@@ -2182,6 +2182,26 @@ metadata:
     critic_rating: 8.6
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  299516:
+    title: |-
+      Heavy Object
+    sort_title: |-
+      Heavy Object
+    original_title: |-
+      Heavy Object
+    genre.sync: Action,Comedy,Mecha,Sci-Fi,War,Real Robot,Politics,Military,CGI,Episodic,Snowscape,Guns
+    studio: J.C.STAFF
+    seasons:
+      1:
+        title: |-
+          Heavy Object
+        label: Score,Completed,2015 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 7.2
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   401856:
     title: |-
       Heion Sedai no Idaten-tachi
@@ -2271,7 +2291,7 @@ metadata:
       Hikaru ga Shinda Natsu
     original_title: |-
       The Summer Hikaru Died
-    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Tragedy,Rural,Male Protagonist,Cosmic Horror,Body Horror,Mythology,Urban Fantasy,LGBTQ+ Themes,Primarily Teen Cast,Seinen,Gods,Unrequited Love,Curses,School
+    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Tragedy,Rural,Male Protagonist,Cosmic Horror,Body Horror,Mythology,Urban Fantasy,Primarily Teen Cast,LGBTQ+ Themes,Seinen,Gods,Unrequited Love,Curses,School
     studio: CygamesPictures
     seasons:
       1:
@@ -2810,7 +2830,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.3
     audience_rating: 6.3
-    critic_rating: 6.8
+    critic_rating: 6.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   441260:
@@ -4019,6 +4039,26 @@ metadata:
     critic_rating: 8.7
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  76547:
+    title: |-
+      Kidou Senshi Gundam
+    sort_title: |-
+      Kidou Senshi Gundam
+    original_title: |-
+      Mobile Suit Gundam
+    genre.sync: Drama,Mecha,Sci-Fi,War,Military,Real Robot,Space,Space Opera,Travel,Politics,Conspiracy,Coming of Age,Tragedy,Foreign,Ensemble Cast,Primarily Teen Cast,Revenge,Male Protagonist,Super Power,Aviation,Tanks
+    studio: Sunrise
+    seasons:
+      1:
+        title: |-
+          Kidou Senshi Gundam
+        label: Score,Watching,1979 Spring
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.6
+    audience_rating: 7.6
+    critic_rating: 7.8
+    label: Planned,Watching
+    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
   341295:
     title: |-
       Modao Zushi
@@ -4114,8 +4154,8 @@ metadata:
           Nageki no Bourei wa Intai Shitai
         label: Score,Watching,2025 Fall,2024 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
+        user_rating: 7.0
+    audience_rating: 7.0
     critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
@@ -4327,8 +4367,8 @@ metadata:
           One Punch Man 3
         label: Score,Watching,2025 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.3
-    audience_rating: 7.7
+        user_rating: 7.2
+    audience_rating: 7.6
     critic_rating: 7.5
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
@@ -4699,7 +4739,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.7
     audience_rating: 7.8
-    critic_rating: 8.1
+    critic_rating: 8.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   305089:
@@ -5315,7 +5355,7 @@ metadata:
       Shiguang Dailiren
     original_title: |-
       Link Click
-    genre.sync: Drama,Mystery,Supernatural,Thriller,Time Manipulation,Super Power,Body Swapping,Photography,Primarily Adult Cast,Male Protagonist,Tragedy,Crime,Urban Fantasy,Urban,Memory Manipulation
+    genre.sync: Drama,Mystery,Supernatural,Thriller,Time Manipulation,Super Power,Body Swapping,Photography,Tragedy,Primarily Adult Cast,Male Protagonist,Crime,Urban Fantasy,Urban,Memory Manipulation
     studio: Studio LAN
     seasons:
       0:
@@ -5537,7 +5577,7 @@ metadata:
       Shuumatsu Touring
     original_title: |-
       Touring After the Apocalypse
-    genre.sync: Adventure,Sci-Fi,Slice of Life,Post-Apocalyptic,Female Protagonist,Travel,Iyashikei,Motorcycles
+    genre.sync: Adventure,Sci-Fi,Slice of Life,Iyashikei,Post-Apocalyptic,Female Protagonist,Travel,Primarily Female Cast,Motorcycles
     studio: Nexus
     seasons:
       1:
@@ -6275,7 +6315,7 @@ metadata:
       Tomodachi no Imouto ga Ore ni dake Uzai
     original_title: |-
       My Friend's Little Sister Has It In for Me!
-    genre.sync: Comedy,Romance,Slice of Life,Love Triangle,Heterosexual,Otaku Culture,Software Development
+    genre.sync: Comedy,Romance,Slice of Life,Love Triangle,Heterosexual,Yuri,Age Gap,Reverse Isekai,War,Guns,Software Development,Female Harem,Otaku Culture
     studio: BLADE
     seasons:
       1:
@@ -6283,9 +6323,9 @@ metadata:
           Tomodachi no Imouto ga Ore ni dake Uzai
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
-    critic_rating: 6.6
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   418368:
@@ -6391,7 +6431,7 @@ metadata:
       Toujima Tanzaburou wa Kamen Rider ni Naritai
     original_title: |-
       Tojima Wants to Be a Kamen Rider
-    genre.sync: Action,Comedy,Tokusatsu,Superhero,Male Protagonist,Henshin
+    genre.sync: Action,Comedy,Male Protagonist,Superhero,Chuunibyou,Surreal Comedy,Tokusatsu,Henshin
     studio: LIDENFILMS
     seasons:
       1:
@@ -6399,8 +6439,8 @@ metadata:
           Toujima Tanzaburou wa Kamen Rider ni Naritai
         label: Score,Watching,2025 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.2
+        user_rating: 7.3
+    audience_rating: 7.3
     critic_rating: 7.7
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
