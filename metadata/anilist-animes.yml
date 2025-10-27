@@ -334,7 +334,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
-    critic_rating: 7.4
+    critic_rating: 7.3
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   248035:
@@ -916,6 +916,26 @@ metadata:
     critic_rating: 8.0
     label: AA Winner,Airing,Planning
     label.remove: Planned,Ended,Dropped,Paused,
+  435466:
+    title: |-
+      Yuuki Bakuhatsu Bang Bravern
+    sort_title: |-
+      Yuuki Bakuhatsu Bang Bravern
+    original_title: |-
+      Brave Bang Bravern!
+    genre.sync: Action,Comedy,Mecha,Sci-Fi,Super Robot,Parody,Male Protagonist,Military,Meta,Primarily Adult Cast,Tokusatsu,Aliens,LGBTQ+ Themes,Boys' Love,Reincarnation,Nudity,War,Foreign,Time Manipulation
+    studio: CygamesPictures
+    seasons:
+      1:
+        title: |-
+          Yuuki Bakuhatsu Bang Bravern
+        label: Score,Dropped,2024 Winter
+        label.remove: Completed,Watching,Paused,Planning
+        user_rating: 7.6
+    audience_rating: 7.6
+    critic_rating: 7.5
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   426294:
     title: |-
       Buddy Daddies
@@ -1682,7 +1702,7 @@ metadata:
       Egao no Taenai Shokuba desu.
     original_title: |-
       A Mangaka's Weirdly Wonderful Workplace
-    genre.sync: Comedy,Slice of Life,Female Protagonist,Drawing,Cute Girls Doing Cute Things,Work,Primarily Adult Cast,Primarily Female Cast,Yuri
+    genre.sync: Comedy,Slice of Life,Drawing,Female Protagonist,Cute Girls Doing Cute Things,Primarily Female Cast,Work,Primarily Adult Cast
     studio: Voil
     seasons:
       1:
@@ -1881,6 +1901,26 @@ metadata:
     critic_rating: 6.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  100171:
+    title: |-
+      Ginga Tetsudou 999
+    sort_title: |-
+      Ginga Tetsudou 999
+    original_title: |-
+      Galaxy Express 999
+    genre.sync: Adventure,Drama,Mecha,Sci-Fi,Space,Dystopian,Trains,Space Opera,Coming of Age,Episodic,Philosophy,Tragedy,Cyborg,Travel,Robots,Environmental,Guns
+    studio: Toei Animation
+    seasons:
+      1:
+        title: |-
+          Ginga Tetsudou 999
+        label: Score,1978 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.5
+    audience_rating: 7.5
+    critic_rating: 7.8
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   267246:
     title: |-
       Gin no Saji
@@ -2913,6 +2953,26 @@ metadata:
     critic_rating: 8.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  76547:
+    title: |-
+      Kidou Senshi Gundam
+    sort_title: |-
+      Kidou Senshi Gundam
+    original_title: |-
+      Mobile Suit Gundam
+    genre.sync: Drama,Mecha,Sci-Fi,War,Military,Real Robot,Space,Space Opera,Travel,Politics,Conspiracy,Coming of Age,Tragedy,Foreign,Ensemble Cast,Primarily Teen Cast,Revenge,Male Protagonist,Super Power,Aviation,Tanks
+    studio: Sunrise
+    seasons:
+      1:
+        title: |-
+          Kidou Senshi Gundam
+        label: Score,Watching,1979 Spring
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.6
+    audience_rating: 7.6
+    critic_rating: 7.8
+    label: Planned,Watching
+    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
   80675:
     title: |-
       Kidou Senshi Gundam 00
@@ -4039,26 +4099,6 @@ metadata:
     critic_rating: 8.7
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  76547:
-    title: |-
-      Kidou Senshi Gundam
-    sort_title: |-
-      Kidou Senshi Gundam
-    original_title: |-
-      Mobile Suit Gundam
-    genre.sync: Drama,Mecha,Sci-Fi,War,Military,Real Robot,Space,Space Opera,Travel,Politics,Conspiracy,Coming of Age,Tragedy,Foreign,Ensemble Cast,Primarily Teen Cast,Revenge,Male Protagonist,Super Power,Aviation,Tanks
-    studio: Sunrise
-    seasons:
-      1:
-        title: |-
-          Kidou Senshi Gundam
-        label: Score,Watching,1979 Spring
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.6
-    critic_rating: 7.8
-    label: Planned,Watching
-    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
   341295:
     title: |-
       Modao Zushi
@@ -5723,7 +5763,7 @@ metadata:
       Sozai Saishuka no Isekai Ryokouki
     original_title: |-
       A Gatherer's Adventure in Isekai
-    genre.sync: Adventure,Comedy,Fantasy,Slice of Life,Travel,Male Protagonist,Isekai,Magic
+    genre.sync: Adventure,Comedy,Fantasy,Slice of Life,Male Protagonist,Isekai,Magic
     studio: Tatsunoko Production
     seasons:
       1:
@@ -5733,7 +5773,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 5.6
     audience_rating: 5.6
-    critic_rating: 6.1
+    critic_rating: 6.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   405920:
