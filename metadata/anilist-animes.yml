@@ -916,26 +916,6 @@ metadata:
     critic_rating: 8.0
     label: AA Winner,Airing,Planning
     label.remove: Planned,Ended,Dropped,Paused,
-  435466:
-    title: |-
-      Yuuki Bakuhatsu Bang Bravern
-    sort_title: |-
-      Yuuki Bakuhatsu Bang Bravern
-    original_title: |-
-      Brave Bang Bravern!
-    genre.sync: Action,Comedy,Mecha,Sci-Fi,Super Robot,Parody,Male Protagonist,Military,Meta,Primarily Adult Cast,Tokusatsu,Aliens,LGBTQ+ Themes,Boys' Love,Reincarnation,Nudity,War,Foreign,Time Manipulation
-    studio: CygamesPictures
-    seasons:
-      1:
-        title: |-
-          Yuuki Bakuhatsu Bang Bravern
-        label: Score,Dropped,2024 Winter
-        label.remove: Completed,Watching,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.6
-    critic_rating: 7.5
-    label: Ended,Dropped
-    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   426294:
     title: |-
       Buddy Daddies
@@ -1133,7 +1113,7 @@ metadata:
       Chitose-kun wa Ramune Bin no Naka
     original_title: |-
       Chitose Is in the Ramune Bottle
-    genre.sync: Comedy,Romance,Philosophy,Female Harem,School,Coming of Age,Primarily Teen Cast,Male Protagonist
+    genre.sync: Comedy,Romance,Female Harem,School,Philosophy,Coming of Age,Primarily Teen Cast,Male Protagonist
     studio: feel.
     seasons:
       1:
@@ -1901,26 +1881,6 @@ metadata:
     critic_rating: 6.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  100171:
-    title: |-
-      Ginga Tetsudou 999
-    sort_title: |-
-      Ginga Tetsudou 999
-    original_title: |-
-      Galaxy Express 999
-    genre.sync: Adventure,Drama,Mecha,Sci-Fi,Space,Dystopian,Trains,Space Opera,Coming of Age,Episodic,Philosophy,Tragedy,Cyborg,Travel,Robots,Environmental,Guns
-    studio: Toei Animation
-    seasons:
-      1:
-        title: |-
-          Ginga Tetsudou 999
-        label: Score,1978 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
-    critic_rating: 7.8
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   267246:
     title: |-
       Gin no Saji
@@ -1947,6 +1907,26 @@ metadata:
     critic_rating: 8.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  100171:
+    title: |-
+      Ginga Tetsudou 999
+    sort_title: |-
+      Ginga Tetsudou 999
+    original_title: |-
+      Galaxy Express 999
+    genre.sync: Adventure,Drama,Mecha,Sci-Fi,Space,Dystopian,Trains,Space Opera,Coming of Age,Episodic,Philosophy,Tragedy,Cyborg,Travel,Robots,Environmental,Guns
+    studio: Toei Animation
+    seasons:
+      1:
+        title: |-
+          Ginga Tetsudou 999
+        label: Score,Watching,1978 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.5
+    audience_rating: 7.5
+    critic_rating: 7.8
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   79895:
     title: |-
       Gintama
@@ -3316,7 +3296,7 @@ metadata:
       Kimi to Koete Koi ni Naru
     original_title: |-
       With You, Our Love Will Make It Through
-    genre.sync: Drama,Fantasy,Romance,Shoujo,Anthropomorphism
+    genre.sync: Drama,Fantasy,Romance,Shoujo,Anthropomorphism,Primarily Teen Cast,Coming of Age,Love Triangle,Urban,Urban Fantasy,Teens' Love,School,Female Protagonist,Heterosexual
     studio: Millepensee
     seasons:
       1:
@@ -3326,7 +3306,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.6
     audience_rating: 6.6
-    critic_rating: 7.1
+    critic_rating: 7.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   414562:
@@ -7058,8 +7038,8 @@ metadata:
           Yano-kun no Futsuu no Hibi
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
