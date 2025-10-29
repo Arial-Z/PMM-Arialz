@@ -1507,6 +1507,24 @@ metadata:
     critic_rating: 7.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+  411393:
+    title: |-
+      Disney Twisted-Wonderland: THE ANIMATION  - Season 1: EPISODE of HEARTSLABYUL
+    sort_title: |-
+      Disney Twisted-Wonderland: THE ANIMATION  - Season 1: EPISODE of HEARTSLABYUL
+    original_title: |-
+      Disney Twisted-Wonderland: THE ANIMATION  - Season 1: EPISODE of HEARTSLABYUL
+    genre.sync: Adventure,Fantasy,Magic,Primarily Male Cast,Isekai,Male Protagonist,Ensemble Cast,School,LGBTQ+ Themes,Animals,Urban Fantasy
+    studio: Yumeta Company
+    seasons:
+      1:
+        title: |-
+          Disney Twisted-Wonderland: THE ANIMATION  - Season 1: EPISODE of HEARTSLABYUL
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   370761:
     title: |-
       Dorohedoro
@@ -5933,7 +5951,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.6
     audience_rating: 6.6
-    critic_rating: 7.2
+    critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   305104:
