@@ -186,8 +186,8 @@ metadata:
           3-nen Z-gumi Ginpachi-sensei
         label: Score,Watching,2025 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.9
-    audience_rating: 7.9
+        user_rating: 7.8
+    audience_rating: 7.8
     critic_rating: 8.3
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -938,26 +938,6 @@ metadata:
     critic_rating: 8.1
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  452709:
-    title: |-
-      Bukiyou na Senpai.
-    sort_title: |-
-      Bukiyou na Senpai.
-    original_title: |-
-      My Awkward Senpai
-    genre.sync: Comedy,Romance,Office Lady,Office,Seinen,Primarily Adult Cast,Work,Assassins,Heterosexual
-    studio: Studio elle
-    seasons:
-      1:
-        title: |-
-          Bukiyou na Senpai.
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 6.9
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   305075:
     title: |-
       Bungou Stray Dogs
@@ -1106,26 +1086,6 @@ metadata:
     critic_rating: 8.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  453057:
-    title: |-
-      Chitose-kun wa Ramune Bin no Naka
-    sort_title: |-
-      Chitose-kun wa Ramune Bin no Naka
-    original_title: |-
-      Chitose Is in the Ramune Bottle
-    genre.sync: Comedy,Romance,Female Harem,School,Philosophy,Coming of Age,Primarily Teen Cast,Male Protagonist
-    studio: feel.
-    seasons:
-      1:
-        title: |-
-          Chitose-kun wa Ramune Bin no Naka
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
-    critic_rating: 7.3
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   415440:
     title: |-
       Chiyu Mahou no Machigatta Tsukaikata
@@ -1201,7 +1161,7 @@ metadata:
       Clevatess: Majuu no Ou to Akago to Kabane no Yuusha
     original_title: |-
       Clevatess
-    genre.sync: Action,Drama,Fantasy,Medieval,Magic,Swordplay,Parenthood,Adoption,Primarily Adult Cast,Tragedy,Dystopian,Revenge,Orphan,Anti-Hero,Monster Boy,Demons,Found Family,Cosmic Horror,Slavery,Gore
+    genre.sync: Action,Drama,Fantasy,Medieval,Magic,Swordplay,Parenthood,Primarily Adult Cast,Adoption,Tragedy,Monster Boy,Female Protagonist,Dystopian,Orphan,Revenge,Demons,Anti-Hero,Slavery,Cosmic Horror,Found Family,Gore
     studio: Lay-duce
     seasons:
       1:
@@ -1487,26 +1447,6 @@ metadata:
     critic_rating: 8.2
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  461683:
-    title: |-
-      Digimon Beatbreak
-    sort_title: |-
-      Digimon Beatbreak
-    original_title: |-
-      Digimon Beatbreak
-    genre.sync: Adventure,Fantasy,Sci-Fi,Urban,Proxy Battle,Primarily Teen Cast,Male Protagonist,Found Family,Artificial Intelligence,Anthropomorphism,Cyberpunk
-    studio: Toei Animation
-    seasons:
-      1:
-        title: |-
-          Digimon Beatbreak
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 7.2
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   411393:
     title: |-
       Disney Twisted-Wonderland: THE ANIMATION  - Season 1: EPISODE of HEARTSLABYUL
@@ -1522,7 +1462,9 @@ metadata:
           Disney Twisted-Wonderland: THE ANIMATION  - Season 1: EPISODE of HEARTSLABYUL
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 6.9
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   370761:
@@ -1693,26 +1635,6 @@ metadata:
     critic_rating: 7.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  444810:
-    title: |-
-      Egao no Taenai Shokuba desu.
-    sort_title: |-
-      Egao no Taenai Shokuba desu.
-    original_title: |-
-      A Mangaka's Weirdly Wonderful Workplace
-    genre.sync: Comedy,Slice of Life,Drawing,Female Protagonist,Cute Girls Doing Cute Things,Primarily Female Cast,Work,Primarily Adult Cast
-    studio: Voil
-    seasons:
-      1:
-        title: |-
-          Egao no Taenai Shokuba desu.
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 6.8
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   412957:
     title: |-
       Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
@@ -2851,26 +2773,6 @@ metadata:
     critic_rating: 7.6
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
-  461467:
-    title: |-
-      Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun
-    sort_title: |-
-      Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun
-    original_title: |-
-      Inexpressive Kashiwada and Expressive Oota
-    genre.sync: Comedy,Romance,Slice of Life,Shounen,Kuudere,Heterosexual,School
-    studio: STUDIO POLON
-    seasons:
-      1:
-        title: |-
-          Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
-    critic_rating: 6.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   441260:
     title: |-
       Karasu wa Aruji wo Erabanai
@@ -3307,26 +3209,6 @@ metadata:
     critic_rating: 6.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  458960:
-    title: |-
-      Kimi to Koete Koi ni Naru
-    sort_title: |-
-      Kimi to Koete Koi ni Naru
-    original_title: |-
-      With You, Our Love Will Make It Through
-    genre.sync: Drama,Fantasy,Romance,Shoujo,Anthropomorphism,Primarily Teen Cast,Coming of Age,Love Triangle,Urban,Urban Fantasy,Teens' Love,School,Female Protagonist,Heterosexual
-    studio: Millepensee
-    seasons:
-      1:
-        title: |-
-          Kimi to Koete Koi ni Naru
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 7.0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   414562:
     title: |-
       Kimi wa Houkago Insomnia
@@ -5608,26 +5490,6 @@ metadata:
     critic_rating: 8.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  460608:
-    title: |-
-      Shuumatsu Touring
-    sort_title: |-
-      Shuumatsu Touring
-    original_title: |-
-      Touring After the Apocalypse
-    genre.sync: Adventure,Sci-Fi,Slice of Life,Iyashikei,Post-Apocalyptic,Female Protagonist,Travel,Primarily Female Cast,Motorcycles
-    studio: Nexus
-    seasons:
-      1:
-        title: |-
-          Shuumatsu Touring
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
-    critic_rating: 6.9
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   426018:
     title: |-
       Shuumatsu Train Doko e Iku?
@@ -5934,26 +5796,6 @@ metadata:
     critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  460096:
-    title: |-
-      Taiyou yori mo Mabushii Hoshi
-    sort_title: |-
-      Taiyou yori mo Mabushii Hoshi
-    original_title: |-
-      A Star Brighter Than the Sun
-    genre.sync: Romance
-    studio: Studio KAI
-    seasons:
-      1:
-        title: |-
-          Taiyou yori mo Mabushii Hoshi
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 7.1
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   305104:
     title: |-
       Tanaka-kun wa Itsumo Kedaruge
@@ -6346,26 +6188,6 @@ metadata:
     critic_rating: 7.7
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  404174:
-    title: |-
-      Tomodachi no Imouto ga Ore ni dake Uzai
-    sort_title: |-
-      Tomodachi no Imouto ga Ore ni dake Uzai
-    original_title: |-
-      My Friend's Little Sister Has It In for Me!
-    genre.sync: Comedy,Romance,Slice of Life,Love Triangle,Heterosexual,Yuri,Age Gap,Reverse Isekai,War,Guns,Software Development,Female Harem,Otaku Culture
-    studio: BLADE
-    seasons:
-      1:
-        title: |-
-          Tomodachi no Imouto ga Ore ni dake Uzai
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
-    critic_rating: 6.5
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   418368:
     title: |-
       Tonari no Youkai-san
@@ -6852,7 +6674,7 @@ metadata:
       Watashi wo Tabetai, Hitodenashi
     original_title: |-
       This Monster Wants to Eat Me
-    genre.sync: Drama,Horror,Psychological,Romance,Supernatural,Monster Girl,Mermaid,Suicide,Coastal,LGBTQ+ Themes,Youkai,Mythology,Tragedy,Denpa,Female Protagonist,Orphan,Yuri,Primarily Female Cast,Rural
+    genre.sync: Drama,Horror,Psychological,Romance,Supernatural,Monster Girl,Mermaid,Suicide,Mythology,Coastal,Youkai,LGBTQ+ Themes,Tragedy,Orphan,Primarily Female Cast,Female Protagonist,Denpa,Yuri,Rural,Seinen
     studio: Studio Lings
     seasons:
       1:
@@ -7041,26 +6863,6 @@ metadata:
     critic_rating: 6.8
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  453230:
-    title: |-
-      Yano-kun no Futsuu no Hibi
-    sort_title: |-
-      Yano-kun no Futsuu no Hibi
-    original_title: |-
-      Yano-kun's Ordinary Days
-    genre.sync: Comedy,Romance,Slice of Life,Seinen,School,Primarily Teen Cast,Heterosexual,Female Protagonist
-    studio: Ajiado
-    seasons:
-      1:
-        title: |-
-          Yano-kun no Futsuu no Hibi
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
-    critic_rating: 7.1
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   453694:
     title: |-
       Yasei no Last Boss ga Arawareta!
