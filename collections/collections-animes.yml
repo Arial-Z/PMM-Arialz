@@ -99,3 +99,17 @@ collections:
     visible_shared: false
     url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Josei.jpg
     url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/animes_background.jpg
+
+Kidou Senshi Gundam Collection:
+    smart_filter:
+      all:
+        title.begins: Kidou Senshi Gundam
+      sort_by: release.asc
+    sort_title: |-
+      Kidou Senshi Gundam
+    collection_mode: hide_items
+    visible_library: true
+    visible_home: false
+    visible_shared: false
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Gundam.jpg
+    url_background: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/animes/Gundam_background.jpg
