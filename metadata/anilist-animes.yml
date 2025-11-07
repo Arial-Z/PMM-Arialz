@@ -979,7 +979,7 @@ metadata:
       Chainsaw Man
     original_title: |-
       Chainsaw Man
-    genre.sync: Action,Drama,Horror,Supernatural,Demons,Monster Boy,Urban Fantasy,Male Protagonist,Gore,Tragedy,Anti-Hero,Body Horror,Shapeshifting,Urban,Henshin,Shounen,Surreal Comedy,Monster Girl,Psychosexual,Primarily Adult Cast,Coming of Age,Heterosexual,Anthropomorphism,Guns,Assassins,Found Family
+    genre.sync: Action,Drama,Horror,Supernatural,Demons,Monster Boy,Urban Fantasy,Male Protagonist,Gore,Tragedy,Anti-Hero,Body Horror,Shapeshifting,Urban,Henshin,Shounen,Psychosexual,Surreal Comedy,Primarily Adult Cast,Monster Girl,Coming of Age,Anthropomorphism,Yakuza,Heterosexual,Guns,Found Family,Assassins
     studio: MAPPA
     seasons:
       1:
@@ -1021,7 +1021,7 @@ metadata:
       Chi. Chikyuu no Undou ni Tsuite
     original_title: |-
       Orb: On the Movements of the Earth
-    genre.sync: Drama,Astronomy,Philosophy,Religion,Ensemble Cast,Seinen,Foreign,Historical,Tragedy,Time Skip,Medieval,Fugitive,Meta,Torture,Primarily Male Cast,Conspiracy,Female Protagonist,Male Protagonist
+    genre.sync: Drama,Astronomy,Philosophy,Religion,Ensemble Cast,Seinen,Foreign,Historical,Tragedy,Medieval,Time Skip,Fugitive,Meta,Primarily Male Cast,Torture,Conspiracy,Female Protagonist,Male Protagonist
     studio: MADHOUSE
     seasons:
       1:
@@ -1181,7 +1181,7 @@ metadata:
       Code Geass: Hangyaku no Lelouch
     original_title: |-
       Code Geass: Lelouch of the Rebellion
-    genre.sync: Action,Drama,Mecha,Sci-Fi,Thriller,Anti-Hero,War,Class Struggle,Military,Politics,Super Power,Revenge,Terrorism,Male Protagonist,Tragedy,Real Robot,Female Protagonist,Dystopian,Philosophy,Super Robot,Memory Manipulation
+    genre.sync: Action,Drama,Mecha,Sci-Fi,Thriller,Anti-Hero,War,Military,Class Struggle,Politics,Super Power,Revenge,Terrorism,Male Protagonist,Tragedy,Real Robot,Female Protagonist,Dystopian,Philosophy,Super Robot,Memory Manipulation
     studio: Sunrise
     seasons:
       1:
@@ -1207,7 +1207,7 @@ metadata:
       Cyberpunk: Edgerunners
     original_title: |-
       Cyberpunk: Edgerunners
-    genre.sync: Action,Drama,Psychological,Sci-Fi,Cyberpunk,Tragedy,Crime,Dystopian,Cyborg,Class Struggle,Male Protagonist,Urban,Gangs,Body Horror,Orphan,Guns,Gore,Revenge,Anti-Hero,Primarily Adult Cast,Heterosexual,Drugs,Terrorism,Coming of Age,Nudity
+    genre.sync: Action,Drama,Psychological,Sci-Fi,Cyberpunk,Tragedy,Crime,Dystopian,Cyborg,Class Struggle,Male Protagonist,Urban,Gangs,Orphan,Body Horror,Guns,Gore,Revenge,Anti-Hero,Primarily Adult Cast,Drugs,Heterosexual,Terrorism,Coming of Age,Nudity
     studio: TRIGGER
     seasons:
       1:
@@ -1756,7 +1756,7 @@ metadata:
       Fumetsu no Anata e
     original_title: |-
       To Your Eternity
-    genre.sync: Adventure,Drama,Fantasy,Psychological,Supernatural,Shapeshifting,Tragedy,Coming of Age,Rural,Philosophy,Travel,Ensemble Cast,Survival,Agender,Body Horror
+    genre.sync: Adventure,Drama,Fantasy,Psychological,Supernatural,Shapeshifting,Tragedy,Coming of Age,Travel,Rural,Philosophy,Agender,Medieval,Ensemble Cast,Survival,Body Horror
     studio: Brain's Base
     seasons:
       1:
@@ -1788,7 +1788,7 @@ metadata:
       Gachiakuta
     original_title: |-
       Gachiakuta
-    genre.sync: Action,Drama,Fantasy,Shounen,Urban Fantasy,Class Struggle,Super Power,Dystopian,Ensemble Cast,Survival,Revenge,Post-Apocalyptic,Male Protagonist,Tragedy,Urban
+    genre.sync: Action,Drama,Fantasy,Shounen,Urban Fantasy,Super Power,Dystopian,Ensemble Cast,Survival,Revenge,Post-Apocalyptic,Male Protagonist,Class Struggle,Tragedy,Urban
     studio: bones
     seasons:
       1:
@@ -1847,26 +1847,6 @@ metadata:
     critic_rating: 8.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  100171:
-    title: |-
-      Ginga Tetsudou 999
-    sort_title: |-
-      Ginga Tetsudou 999
-    original_title: |-
-      Galaxy Express 999
-    genre.sync: Adventure,Drama,Mecha,Sci-Fi,Space,Dystopian,Trains,Space Opera,Coming of Age,Episodic,Philosophy,Tragedy,Cyborg,Travel,Robots,Environmental,Guns
-    studio: Toei Animation
-    seasons:
-      1:
-        title: |-
-          Ginga Tetsudou 999
-        label: Score,Watching,1978 Fall
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
-    critic_rating: 7.8
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   79895:
     title: |-
       Gintama
@@ -1935,7 +1915,7 @@ metadata:
       Golden Kamuy
     original_title: |-
       Golden Kamuy
-    genre.sync: Action,Adventure,Comedy,Historical,Outdoor Activities,Seinen,Survival,Military,Ensemble Cast,Snowscape,Primarily Adult Cast,Food,Guns,War,Primarily Male Cast,Gore,Educational
+    genre.sync: Action,Adventure,Comedy,Historical,Seinen,Outdoor Activities,Survival,Military,Ensemble Cast,Snowscape,Primarily Adult Cast,Food,Guns,Wilderness,Indigenous Cultures,War,Primarily Male Cast,Gore
     studio: Geno Studio
     seasons:
       1:
@@ -2047,7 +2027,7 @@ metadata:
       Guimi Zhi Zhu
     original_title: |-
       Lord of Mysteries
-    genre.sync: Action,Drama,Fantasy,Mystery,Supernatural,Thriller,Male Protagonist,Cult,Religion,Magic,Cosmic Horror,Gore,Gods,Body Horror,Steampunk,Primarily Adult Cast,Tragedy,Espionage,Conspiracy,Cultivation,Lost Civilization,Isekai,Alchemy,Acting,Astronomy,Dissociative Identities
+    genre.sync: Action,Drama,Fantasy,Mystery,Supernatural,Thriller,Male Protagonist,Cult,Religion,Cosmic Horror,Magic,Gore,Gods,Body Horror,Steampunk,Primarily Adult Cast,Tragedy,Espionage,Conspiracy,Isekai,Cultivation,Lost Civilization,Alchemy,Acting,Astronomy,Dissociative Identities
     studio: B.CMAY PICTURES
     seasons:
       1:
@@ -2109,7 +2089,7 @@ metadata:
       Haikyuu!!
     original_title: |-
       Haikyu!!
-    genre.sync: Comedy,Drama,Sports,Volleyball,School Club,Male Protagonist,Primarily Male Cast,Shounen,Ensemble Cast,Primarily Teen Cast,School,Coming of Age
+    genre.sync: Comedy,Drama,Sports,Volleyball,School Club,Male Protagonist,Primarily Male Cast,Ensemble Cast,Shounen,Primarily Teen Cast,School,Coming of Age
     studio: Production I.G
     seasons:
       0:
@@ -2142,26 +2122,6 @@ metadata:
     critic_rating: 8.6
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  299516:
-    title: |-
-      Heavy Object
-    sort_title: |-
-      Heavy Object
-    original_title: |-
-      Heavy Object
-    genre.sync: Action,Comedy,Mecha,Sci-Fi,War,Real Robot,Politics,Military,CGI,Episodic,Snowscape,Guns
-    studio: J.C.STAFF
-    seasons:
-      1:
-        title: |-
-          Heavy Object
-        label: Score,Completed,2015 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
-    critic_rating: 7.2
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   401856:
     title: |-
       Heion Sedai no Idaten-tachi
@@ -2614,7 +2574,7 @@ metadata:
       Kage no Jitsuryokusha ni Naritakute!
     original_title: |-
       The Eminence in Shadow
-    genre.sync: Action,Comedy,Fantasy,Isekai,Chuunibyou,Male Protagonist,Parody,Anti-Hero,Magic,Cult,Acting,Swordplay,Reincarnation,Primarily Female Cast,Meta,Female Harem,Satire,Espionage,Nudity,Elf
+    genre.sync: Action,Comedy,Fantasy,Isekai,Chuunibyou,Male Protagonist,Parody,Anti-Hero,Magic,Cult,Acting,Swordplay,Assassins,Reincarnation,Primarily Female Cast,Meta,Female Harem,Satire,Espionage,Nudity,Elf
     studio: Nexus
     seasons:
       1:
@@ -3098,7 +3058,7 @@ metadata:
       Kill la Kill
     original_title: |-
       Kill la Kill
-    genre.sync: Action,Comedy,Ecchi,Henshin,Female Protagonist,Revenge,Incest,Nudity,Parody,Surreal Comedy,Psychosexual,Class Struggle,Dystopian,Tomboy,Super Power,Age Gap,Aliens,Orphan,Coming of Age,Primarily Teen Cast,Anti-Hero,School,Military,Cult,Bullying,Villainess
+    genre.sync: Action,Comedy,Ecchi,Henshin,Female Protagonist,Revenge,Incest,Psychosexual,Nudity,Parody,Surreal Comedy,Class Struggle,Dystopian,Tomboy,Super Power,Age Gap,Aliens,Orphan,Coming of Age,Primarily Teen Cast,Anti-Hero,School,Military,Cult,Bullying,Villainess
     studio: TRIGGER
     seasons:
       0:
@@ -3274,7 +3234,7 @@ metadata:
           Kingdom 6th Season
         label: Score,Watching,2025 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.2
+        user_rating: 8.3
     audience_rating: 8.2
     critic_rating: 8.6
     label: Airing,Watching
@@ -3822,14 +3782,14 @@ metadata:
           Major 2nd
         label: Score,Completed,2018 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.2
+        user_rating: 7.1
       2:
         title: |-
           Major 2nd Season 2
         label: Score,Completed,2020 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.4
-    audience_rating: 7.3
+    audience_rating: 7.2
     critic_rating: 7.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -3860,7 +3820,7 @@ metadata:
       Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou
     original_title: |-
       The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants
-    genre.sync: Action,Comedy,Fantasy,Demons,Magic,Reincarnation,Male Protagonist,School,Super Power,Conspiracy,Memory Manipulation,Swordplay,War,Heterosexual,Twins,Kuudere,Time Manipulation
+    genre.sync: Action,Comedy,Fantasy,Demons,Magic,Reincarnation,Male Protagonist,School,Super Power,Conspiracy,Memory Manipulation,War,Swordplay,Heterosexual,Twins,Time Manipulation,Kuudere
     studio: SILVER LINK.
     seasons:
       1:
@@ -4327,7 +4287,7 @@ metadata:
       Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF
     original_title: |-
       Spice and Wolf: MERCHANT MEETS THE WISE WOLF
-    genre.sync: Adventure,Fantasy,Romance,Slice of Life,Economics,Travel,Work,Kemonomimi,Rural,Female Protagonist,Heterosexual,Primarily Adult Cast,Male Protagonist,Medieval,Mythology,Agriculture,Gods,Religion,Historical,Age Gap,Foreign,Politics
+    genre.sync: Adventure,Fantasy,Romance,Slice of Life,Economics,Travel,Rural,Work,Kemonomimi,Female Protagonist,Heterosexual,Primarily Adult Cast,Male Protagonist,Medieval,Mythology,Agriculture,Gods,Religion,Historical,Age Gap,Foreign,Politics
     studio: Passione
     seasons:
       1:
@@ -4811,7 +4771,7 @@ metadata:
       Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka
     original_title: |-
       May I Ask for One Final Thing?
-    genre.sync: Action,Comedy,Drama,Fantasy,Romance,Female Protagonist,Villainess,Royal Affairs,Tomboy,Isekai,Ojou-sama,Shoujo
+    genre.sync: Action,Comedy,Drama,Fantasy,Romance,Female Protagonist,Villainess,Royal Affairs,Isekai,Ojou-sama,Shoujo
     studio: LIDENFILMS
     seasons:
       1:
@@ -4907,7 +4867,7 @@ metadata:
       Sakamoto Days
     original_title: |-
       Sakamoto Days
-    genre.sync: Action,Comedy,Urban,Assassins,Found Family,Crime,Konbini,Primarily Adult Cast,Family Life,Male Protagonist,Gangs,Gore,Super Power,Guns,Shounen,Espionage
+    genre.sync: Action,Comedy,Urban,Assassins,Found Family,Crime,Konbini,Super Power,Primarily Adult Cast,Family Life,Male Protagonist,Slapstick,Gangs,Gore,Guns,Shounen,Espionage
     studio: TMS Entertainment
     seasons:
       1:
@@ -4967,7 +4927,7 @@ metadata:
       Sanda
     original_title: |-
       Sanda
-    genre.sync: Drama,Mystery,Male Protagonist,Coming of Age,Female Protagonist,Dystopian,Shounen,Henshin,Surreal Comedy,LGBTQ+ Themes,Shapeshifting,Urban Fantasy,Primarily Teen Cast,Snowscape,Mythology
+    genre.sync: Drama,Mystery,Male Protagonist,Coming of Age,Female Protagonist,Dystopian,Body Image,Shounen,Henshin,LGBTQ+ Themes,Yuri,Surreal Comedy,Urban Fantasy,Shapeshifting,Primarily Teen Cast,Snowscape,Mythology
     studio: Science SARU
     seasons:
       1:
@@ -5603,7 +5563,7 @@ metadata:
       Sousou no Frieren
     original_title: |-
       Frieren: Beyond Journey’s End
-    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Philosophy,Medieval,Time Skip,Found Family,Female Protagonist,Shounen,Iyashikei,Kuudere,Foreign,Demons
+    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Philosophy,Medieval,Time Skip,Female Protagonist,Shounen,Found Family,Iyashikei,Kuudere,Demons,Foreign
     studio: MADHOUSE
     seasons:
       1:
@@ -5763,7 +5723,7 @@ metadata:
       Sword Art Online
     original_title: |-
       Sword Art Online
-    genre.sync: Action,Adventure,Fantasy,Romance,Virtual World,Isekai,Death Game,Video Games,Male Protagonist,Swordplay,Primarily Teen Cast,Heterosexual,Primarily Female Cast,Rescue,Time Skip,Unrequited Love
+    genre.sync: Action,Adventure,Fantasy,Romance,Virtual World,Isekai,Death Game,Video Games,Male Protagonist,Swordplay,Primarily Teen Cast,Heterosexual,Primarily Female Cast,Rescue,Unrequited Love,Time Skip
     studio: A-1 Pictures
     seasons:
       0:
@@ -5811,8 +5771,8 @@ metadata:
           Tanaka-kun wa Itsumo Kedaruge
         label: Score,Completed,2016 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.6
+        user_rating: 7.7
+    audience_rating: 7.7
     critic_rating: 7.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -5861,7 +5821,7 @@ metadata:
       Tengen Toppa Gurren Lagann
     original_title: |-
       Gurren Lagann
-    genre.sync: Action,Comedy,Drama,Mecha,Romance,Sci-Fi,Super Robot,Coming of Age,Male Protagonist,Found Family,Dystopian,Post-Apocalyptic,Space Opera,Tragedy,Travel,War,Space,Aliens,Philosophy,Time Skip,Outdoor Activities,Politics,Anthropomorphism,Primarily Adult Cast,Class Struggle,Heterosexual
+    genre.sync: Action,Comedy,Drama,Mecha,Romance,Sci-Fi,Super Robot,Coming of Age,Male Protagonist,Found Family,Dystopian,Post-Apocalyptic,Space Opera,Tragedy,Philosophy,Travel,War,Space,Aliens,Time Skip,Outdoor Activities,Politics,Anthropomorphism,Primarily Adult Cast,Class Struggle,Heterosexual
     studio: Gainax
     seasons:
       0:
@@ -6119,7 +6079,7 @@ metadata:
           Tokyo Ghoul
         label: Score,Completed,2014 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.5
+        user_rating: 7.6
       2:
         title: |-
           Tokyo Ghoul √A
@@ -6171,7 +6131,7 @@ metadata:
           Tokyo Revengers
         label: Score,Completed,2021 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.6
+        user_rating: 7.7
       2:
         title: |-
           Tokyo Revengers: Seiya Kessen-hen
@@ -6279,8 +6239,8 @@ metadata:
           Toradora!
         label: Score,Completed,2008 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.8
+        user_rating: 7.7
+    audience_rating: 7.7
     critic_rating: 8.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -6934,7 +6894,7 @@ metadata:
       Yofukashi no Uta
     original_title: |-
       Call of the Night
-    genre.sync: Comedy,Psychological,Romance,Slice of Life,Supernatural,Vampire,Urban Fantasy,Urban,Female Protagonist,Male Protagonist,Aromantic,Heterosexual,Coming of Age,Age Gap,Shounen,Primarily Teen Cast
+    genre.sync: Comedy,Psychological,Romance,Slice of Life,Supernatural,Vampire,Urban Fantasy,Urban,Female Protagonist,Male Protagonist,Aromantic,Heterosexual,Coming of Age,Age Gap,Shounen,Psychosexual,Primarily Teen Cast
     studio: LIDENFILMS
     seasons:
       1:
@@ -6980,7 +6940,7 @@ metadata:
       Youjo Senki
     original_title: |-
       Saga of Tanya the Evil
-    genre.sync: Action,Fantasy,Military,War,Anti-Hero,Female Protagonist,Religion,Revenge,Reincarnation,Primarily Adult Cast,Isekai,Gods,Magic,Philosophy,Historical,Foreign,Gore,Guns,Politics,Gender Bending
+    genre.sync: Action,Fantasy,Military,War,Anti-Hero,Female Protagonist,Religion,Revenge,Reincarnation,Isekai,Gods,Primarily Adult Cast,Magic,Philosophy,Historical,Foreign,Gore,Guns,Politics,Gender Bending
     studio: NUT
     seasons:
       0:
@@ -7150,7 +7110,7 @@ metadata:
       Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto
     original_title: |-
       Zom 100: Bucket List of the Dead
-    genre.sync: Action,Comedy,Horror,Supernatural,Zombie,Travel,Post-Apocalyptic,Surreal Comedy,Survival,Rural,Male Protagonist,Urban,Revenge,Slapstick,Primarily Adult Cast,Rehabilitation,Tsundere,Seinen,Work,Gore,Body Horror
+    genre.sync: Action,Comedy,Horror,Supernatural,Zombie,Travel,Post-Apocalyptic,Surreal Comedy,Survival,Rural,Male Protagonist,Urban,Slapstick,Primarily Adult Cast,Rehabilitation,Work,Seinen,Tsundere,Gore,Body Horror
     studio: BUG FILMS
     seasons:
       1:
