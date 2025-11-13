@@ -188,7 +188,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 7.8
-    critic_rating: 8.3
+    critic_rating: 8.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   378609:
@@ -252,7 +252,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
-    critic_rating: 7.3
+    critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   279827:
@@ -1171,7 +1171,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 7.8
-    critic_rating: 7.9
+    critic_rating: 7.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   79525:
@@ -1464,7 +1464,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.7
     audience_rating: 6.7
-    critic_rating: 7.2
+    critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   370761:
@@ -6446,9 +6446,9 @@ metadata:
           Uma Musume: Cinderella Gray
         label: Score,Watching,2025 Fall,2025 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.3
-    audience_rating: 8.3
-    critic_rating: 8.5
+        user_rating: 8.4
+    audience_rating: 8.4
+    critic_rating: 8.6
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   423030:
@@ -6634,7 +6634,7 @@ metadata:
       Watashi wo Tabetai, Hitodenashi
     original_title: |-
       This Monster Wants to Eat Me
-    genre.sync: Drama,Horror,Psychological,Romance,Supernatural,Monster Girl,Mermaid,Orphan,LGBTQ+ Themes,Youkai,Tragedy,Coastal,Suicide,Female Protagonist,Yuri,Primarily Female Cast,Rural,Mythology,Seinen
+    genre.sync: Drama,Horror,Psychological,Romance,Supernatural,Monster Girl,Orphan,Mermaid,Suicide,Youkai,Tragedy,Female Protagonist,Rural,Yuri,Coastal,Mythology,Primarily Female Cast,Seinen
     studio: Studio Lings
     seasons:
       1:
