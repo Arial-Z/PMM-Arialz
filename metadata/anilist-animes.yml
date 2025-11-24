@@ -334,7 +334,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
-    critic_rating: 7.1
+    critic_rating: 7.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   248035:
@@ -6371,13 +6371,13 @@ metadata:
       1:
         title: |-
           Tu Bian Yingxiong X
-        label: Score,Watching,2025 Spring
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Dropped,2025 Spring
+        label.remove: Completed,Watching,Paused,Planning
         user_rating: 8.5
     audience_rating: 8.5
     critic_rating: 8.7
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   256705:
     title: |-
       Uchuu Kyoudai
