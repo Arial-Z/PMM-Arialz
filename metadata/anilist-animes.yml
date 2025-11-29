@@ -2874,13 +2874,13 @@ metadata:
       1:
         title: |-
           Kidou Senshi Gundam GQuuuuuuX
-        label: Score,Watching,2025 Spring
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Dropped,2025 Spring
+        label.remove: Completed,Watching,Paused,Planning
         user_rating: 6.9
     audience_rating: 6.9
     critic_rating: 7.0
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   254931:
     title: |-
       Kidou Senshi Gundam SEED
