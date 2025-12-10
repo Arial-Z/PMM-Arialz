@@ -982,6 +982,8 @@ metadata:
     genre.sync: Action,Drama,Horror,Supernatural,Demons,Monster Boy,Urban Fantasy,Male Protagonist,Gore,Tragedy,Anti-Hero,Body Horror,Shapeshifting,Urban,Henshin,Shounen,Psychosexual,Surreal Comedy,Primarily Adult Cast,Monster Girl,Coming of Age,Anthropomorphism,Yakuza,Heterosexual,Guns,Found Family,Assassins
     studio: MAPPA
     seasons:
+      0:
+        label.remove: Score
       1:
         title: |-
           Chainsaw Man
