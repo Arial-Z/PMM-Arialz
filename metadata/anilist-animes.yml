@@ -786,6 +786,26 @@ metadata:
     critic_rating: 8.0
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  454524:
+    title: |-
+      Kaoru Hana wa Rin to Saku
+    sort_title: |-
+      Kaoru Hana wa Rin to Saku
+    original_title: |-
+      The Fragrant Flower Blooms With Dignity
+    genre.sync: Comedy,Drama,Romance,Heterosexual,Primarily Teen Cast,Male Protagonist,Iyashikei,School,Female Protagonist,Urban,Shounen,Food,Ensemble Cast
+    studio: CloverWorks
+    seasons:
+      1:
+        title: |-
+          Kaoru Hana wa Rin to Saku
+        label: Score,2025 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 8.6
+    audience_rating: 8.6
+    critic_rating: 8.6
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   408629:
     title: |-
       Blue Lock
@@ -909,13 +929,13 @@ metadata:
       8:
         title: |-
           Boku no Hero Academia FINAL SEASON
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.6
     audience_rating: 7.9
     critic_rating: 8.0
-    label: AA Winner,Airing,Planning
-    label.remove: Planned,Ended,Dropped,Paused,
+    label: AA Winner,Ended,Planning
+    label.remove: Planned,Airing,Watching,Dropped,Paused,
   426294:
     title: |-
       Buddy Daddies
@@ -4034,13 +4054,13 @@ metadata:
       1:
         title: |-
           Nageki no Bourei wa Intai Shitai
-        label: Score,Watching,2025 Fall,2024 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Fall,2024 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.2
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   284131:
     title: |-
       Nanatsu no Taizai
@@ -6150,6 +6170,26 @@ metadata:
     critic_rating: 7.7
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  421994:
+    title: |-
+      Tomo-chan wa Onnanoko!
+    sort_title: |-
+      Tomo-chan wa Onnanoko!
+    original_title: |-
+      Tomo-chan Is a Girl!
+    genre.sync: Comedy,Romance,Slice of Life,Tomboy,Female Protagonist,Unrequited Love,Heterosexual,Primarily Teen Cast,School,Episodic,Slapstick,Martial Arts,Athletics
+    studio: Lay-duce
+    seasons:
+      1:
+        title: |-
+          Tomo-chan wa Onnanoko!
+        label: Score,Dropped,2023 Winter
+        label.remove: Completed,Watching,Paused,Planning
+        user_rating: 7.6
+    audience_rating: 7.6
+    critic_rating: 7.7
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   418368:
     title: |-
       Tonari no Youkai-san
@@ -6838,13 +6878,13 @@ metadata:
       1:
         title: |-
           Yasei no Last Boss ga Arawareta!
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.4
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   313488:
     title: |-
       Yi Ren Zhi Xia
