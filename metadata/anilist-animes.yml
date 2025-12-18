@@ -242,19 +242,19 @@ metadata:
       Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!
     original_title: |-
       Pass the Monster Meat, Milady!
-    genre.sync: Fantasy,Romance,Food,Shoujo,Female Protagonist,Royal Affairs
+    genre.sync: Fantasy,Romance,Food,Shoujo,Female Protagonist,Marriage,Heterosexual,Magic
     studio: Asahi Production
     seasons:
       1:
         title: |-
           Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 7.2
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   279827:
     title: |-
       Aldnoah.Zero
@@ -624,7 +624,7 @@ metadata:
       BanG Dream! Ave Mujica
     original_title: |-
       Ave Mujica - The Die is Cast -
-    genre.sync: Drama,Music,Psychological,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Tragedy,Estranged Family,Dissociative Identities,Acting,Full CGI,Metal Music,Musical Theater,Rock Music,Yuri,Disability,Ensemble Cast
+    genre.sync: Drama,Music,Psychological,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Tragedy,Estranged Family,Dissociative Identities,Acting,Full CGI,Metal Music,Yuri,Musical Theater,Rock Music,Disability,Ensemble Cast,LGBTQ+ Themes
     studio: SANZIGEN
     seasons:
       1:
@@ -1324,8 +1324,8 @@ metadata:
           DARKER THAN BLACK: Ryuusei no Gemini
         label: Score,Completed,2009 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.4
+        user_rating: 7.0
+    audience_rating: 7.3
     critic_rating: 7.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -1466,7 +1466,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.6
     audience_rating: 6.6
-    critic_rating: 6.8
+    critic_rating: 6.9
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   370761:
@@ -3559,6 +3559,26 @@ metadata:
     critic_rating: 8.9
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  78783:
+    title: |-
+      Taiyou no Ko Esteban
+    sort_title: |-
+      Taiyou no Ko Esteban
+    original_title: |-
+      The Mysterious Cities of Gold
+    genre.sync: Adventure,Sci-Fi,Foreign,Historical,Outdoor Activities,Lost Civilization,Anachronism,Ships,Mythology
+    studio: Studio Pierrot
+    seasons:
+      1:
+        title: |-
+          Taiyou no Ko Esteban
+        label: Score,1982 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.4
+    audience_rating: -1.5
+    critic_rating: 7.8
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   318161:
     title: |-
       Little Witch Academia (TV)
@@ -6738,7 +6758,7 @@ metadata:
       Watashi wo Tabetai, Hitodenashi
     original_title: |-
       This Monster Wants to Eat Me
-    genre.sync: Drama,Horror,Psychological,Romance,Supernatural,Monster Girl,Female Protagonist,Youkai,Orphan,Suicide,Primarily Female Cast,Tragedy,Mermaid,Yuri,Coastal,Seinen,Mythology,Rural
+    genre.sync: Drama,Horror,Psychological,Romance,Supernatural,Monster Girl,Female Protagonist,Suicide,Youkai,Primarily Female Cast,Orphan,Mermaid,Tragedy,Yuri,Coastal,Seinen,Rural,Mythology
     studio: Studio Lings
     seasons:
       1:
@@ -6746,8 +6766,8 @@ metadata:
           Watashi wo Tabetai, Hitodenashi
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
+        user_rating: 7.2
+    audience_rating: 7.2
     critic_rating: 7.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -7194,7 +7214,7 @@ metadata:
       Zetsuen no Tempest
     original_title: |-
       Blast of Tempest
-    genre.sync: Action,Drama,Fantasy,Mystery,Romance,Urban Fantasy,Revenge,Magic,Time Manipulation,Love Triangle,Anti-Hero,Tragedy,Heterosexual,Suicide,Classic Literature,Male Protagonist,Shounen,Post-Apocalyptic,Environmental
+    genre.sync: Action,Drama,Fantasy,Mystery,Romance,Urban Fantasy,Revenge,Magic,Time Manipulation,Anti-Hero,Love Triangle,Tragedy,Heterosexual,Suicide,Classic Literature,Male Protagonist,Shounen,Post-Apocalyptic,Environmental
     studio: bones
     seasons:
       1:
