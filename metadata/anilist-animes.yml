@@ -290,13 +290,13 @@ metadata:
       1:
         title: |-
           Alma-chan wa Kazoku ni Naritai
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.7
     audience_rating: 6.7
     critic_rating: 7.2
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   348706:
     title: |-
       Angolmois: Genkou Kassenki
@@ -3982,13 +3982,13 @@ metadata:
       1:
         title: |-
           Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 5.9
     audience_rating: 5.9
     critic_rating: 6.2
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   307375:
     title: |-
       Mob Psycho 100
@@ -4704,8 +4704,8 @@ metadata:
         user_rating: 7.7
     audience_rating: 7.8
     critic_rating: 8.0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   305089:
     title: |-
       Re:Zero kara Hajimeru Isekai Seikatsu
@@ -4861,13 +4861,13 @@ metadata:
       1:
         title: |-
           Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.2
     audience_rating: 7.2
     critic_rating: 7.5
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   401915:
     title: |-
       Saihate no Paladin
