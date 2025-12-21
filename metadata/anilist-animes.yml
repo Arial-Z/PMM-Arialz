@@ -284,7 +284,7 @@ metadata:
       Alma-chan wa Kazoku ni Naritai
     original_title: |-
       Alma-chan Wants to Be a Family!
-    genre.sync: Comedy,Romance,Sci-Fi,Slice of Life,Family Life,Artificial Intelligence,Female Protagonist,Found Family,Robots,Iyashikei,Male Protagonist,Parenthood,Urban
+    genre.sync: Comedy,Romance,Sci-Fi,Slice of Life,Female Protagonist,Found Family,Family Life,Artificial Intelligence,Robots,Iyashikei,Male Protagonist,Parenthood,Idol,Urban
     studio: Studio Flad
     seasons:
       1:
@@ -292,8 +292,8 @@ metadata:
           Alma-chan wa Kazoku ni Naritai
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
+        user_rating: 6.9
+    audience_rating: 6.9
     critic_rating: 7.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -1043,19 +1043,19 @@ metadata:
       Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.
     original_title: |-
       Dad is a Hero, Mom is a Spirit, I'm a Reincarnator
-    genre.sync: Fantasy,Romance,Female Protagonist,Reincarnation,Magic,Primarily Child Cast,Isekai
+    genre.sync: Fantasy,Romance,Female Protagonist,Reincarnation,Magic,Isekai
     studio: J.C.STAFF
     seasons:
       1:
         title: |-
           Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.4
     audience_rating: 6.4
     critic_rating: 6.7
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   251982:
     title: |-
       Chihayafuru
@@ -1664,7 +1664,7 @@ metadata:
       Enen no Shouboutai
     original_title: |-
       Fire Force
-    genre.sync: Action,Drama,Sci-Fi,Supernatural,Firefighters,Urban Fantasy,Super Power,Shounen,Demons,Conspiracy,Cult,Male Protagonist,Steampunk,Urban,Post-Apocalyptic,Religion,Rescue,Tragedy,Ensemble Cast,Dystopian,Slapstick
+    genre.sync: Action,Drama,Sci-Fi,Supernatural,Firefighters,Urban Fantasy,Super Power,Shounen,Demons,Conspiracy,Cult,Urban,Male Protagonist,Steampunk,Post-Apocalyptic,Religion,Rescue,Tragedy,Ensemble Cast,Dystopian,Slapstick
     studio: David Production
     seasons:
       1:
@@ -1796,13 +1796,13 @@ metadata:
       1:
         title: |-
           Gachiakuta
-        label: Score,Watching,2025 Summer
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.0
     audience_rating: 8.0
     critic_rating: 8.1
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   293996:
     title: |-
       Gakusen Toshi Asterisk
@@ -3108,13 +3108,13 @@ metadata:
       1:
         title: |-
           Kikaijikake no Marie
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.2
     audience_rating: 6.2
-    critic_rating: 6.6
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    critic_rating: 6.7
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   432815:
     title: |-
       Kikansha no Mahou wa Tokubetsu desu
@@ -3976,7 +3976,7 @@ metadata:
       Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
     original_title: |-
       The Banished Court Magician Aims to Become the Strongest
-    genre.sync: Action,Adventure,Fantasy,Magic,Dungeon
+    genre.sync: Action,Adventure,Fantasy,Magic,Dungeon,Swordplay
     studio: Gekkou
     seasons:
       1:
@@ -3984,9 +3984,9 @@ metadata:
           Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 5.9
-    audience_rating: 5.9
-    critic_rating: 6.2
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 6.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   307375:
@@ -4331,9 +4331,9 @@ metadata:
           One Punch Man 3
         label: Score,Watching,2025 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.6
-    audience_rating: 7.1
-    critic_rating: 6.9
+        user_rating: 5.4
+    audience_rating: 7.0
+    critic_rating: 6.8
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   81178:
@@ -4701,9 +4701,9 @@ metadata:
           Ranma 1/2 (2024) 2nd Season
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.7
+        user_rating: 7.8
     audience_rating: 7.8
-    critic_rating: 8.0
+    critic_rating: 7.9
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   305089:
@@ -6573,8 +6573,8 @@ metadata:
         user_rating: 8.4
     audience_rating: 8.4
     critic_rating: 8.6
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   423030:
     title: |-
       Undead Unluck
@@ -6954,7 +6954,7 @@ metadata:
       Yasei no Last Boss ga Arawareta!
     original_title: |-
       A Wild Last Boss Appeared!
-    genre.sync: Action,Adventure,Fantasy,Magic,Isekai,Female Protagonist,Video Games,Virtual World,Gender Bending,Meta,Shapeshifting,Creature Taming,Primarily Female Cast,Super Power
+    genre.sync: Action,Adventure,Fantasy,Magic,Isekai,Video Games,Female Protagonist,Gender Bending,Virtual World,Creature Taming,Shapeshifting,Primarily Female Cast,Super Power,Meta,Memory Manipulation
     studio: WAO World
     seasons:
       1:
@@ -6962,11 +6962,11 @@ metadata:
           Yasei no Last Boss ga Arawareta!
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.3
-    audience_rating: 7.3
+        user_rating: 7.4
+    audience_rating: 7.4
     critic_rating: 7.5
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   313488:
     title: |-
       Yi Ren Zhi Xia
