@@ -4931,7 +4931,7 @@ metadata:
       Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
     original_title: |-
       The Beginning After the End
-    genre.sync: Action,Adventure,Fantasy,Magic,Reincarnation,Isekai,Male Protagonist,War,Medieval,CGI,Cultivation
+    genre.sync: Action,Adventure,Fantasy,Magic,Reincarnation,Isekai,Male Protagonist,War,Medieval,Cultivation,CGI
     studio: studio A-CAT
     seasons:
       1:
@@ -6311,13 +6311,13 @@ metadata:
       2:
         title: |-
           Tondemo Skill de Isekai Hourou Meshi 2
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.5
     audience_rating: 7.6
     critic_rating: 7.7
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   385077:
     title: |-
       Tonikaku Kawaii
@@ -6920,13 +6920,13 @@ metadata:
       5:
         title: |-
           Xian Wang de Richang Shenghuo 5
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 7.3
     critic_rating: 7.4
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   348002:
     title: |-
       Yakusoku no Neverland
@@ -7006,13 +7006,13 @@ metadata:
           Yi Ren Zhi Xia 4
         label: Score,Completed,2021 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.6
+        user_rating: 6.5
       5:
         title: |-
           Yi Ren Zhi Xia 5
         label: Score,Completed,2022 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.4
+        user_rating: 6.3
     audience_rating: 6.6
     critic_rating: 7.0
     label: Planned,Completed
