@@ -1,4 +1,4 @@
-# Romaji-Renamer v1.25.4
+# Romaji-Renamer v1.25.4+
 metadata:
   tt0110008:
     title: |-
@@ -192,7 +192,7 @@ metadata:
       GHOST IN THE SHELL: Koukaku Kidoutai
     original_title: |-
       Ghost in the Shell
-    genre.sync: Action,Psychological,Sci-Fi,Cyberpunk,Artificial Intelligence,Philosophy,Urban,Cyborg,Robots,Police,Primarily Male Cast,Female Protagonist,Primarily Adult Cast,Seinen,Noir,Dystopian,Crime
+    genre.sync: Action,Psychological,Sci-Fi,Cyberpunk,Artificial Intelligence,Philosophy,Urban,Cyborg,Robots,Police,Female Protagonist,Primarily Adult Cast,Seinen,Noir,Primarily Male Cast,Dystopian,Crime
     studio: Production I.G
     audience_rating: 8.0
     critic_rating: 8.3
@@ -253,7 +253,7 @@ metadata:
       Hotaru no Haka
     original_title: |-
       Grave of the Fireflies
-    genre.sync: Drama,Tragedy,Survival,Orphan,War,Family Life,Historical,Primarily Child Cast,Homeless,Rural
+    genre.sync: Drama,Tragedy,Orphan,Survival,War,Family Life,Historical,Primarily Child Cast,Homeless,Rural
     studio: Studio Ghibli
     audience_rating: 8.3
     critic_rating: 8.5
@@ -265,7 +265,7 @@ metadata:
       Howl no Ugoku Shiro
     original_title: |-
       Howl‘s Moving Castle
-    genre.sync: Adventure,Drama,Fantasy,Romance,Magic,Elderly Protagonist,Female Protagonist,Steampunk,Witch,War,Monster Boy,Shapeshifting
+    genre.sync: Adventure,Drama,Fantasy,Romance,Magic,Female Protagonist,Elderly Protagonist,Steampunk,Witch,War,Monster Boy,Shapeshifting
     studio: Studio Ghibli
     audience_rating: 8.5
     critic_rating: 8.7
@@ -327,7 +327,7 @@ metadata:
       Kaze no Tani no Nausicaä
     original_title: |-
       Nausicaä of the Valley of the Wind
-    genre.sync: Action,Adventure,Drama,Fantasy,Sci-Fi,Environmental,Post-Apocalyptic,Lost Civilization,Female Protagonist,Philosophy,War,Aviation,Eco-Horror,Military
+    genre.sync: Action,Adventure,Drama,Fantasy,Sci-Fi,Environmental,Post-Apocalyptic,Lost Civilization,Female Protagonist,Philosophy,War,Aviation,Military,Eco-Horror
     studio: Studio Hibari
     audience_rating: 8.1
     critic_rating: 8.4
@@ -366,7 +366,7 @@ metadata:
       Mobile Suit Gundam Thunderbolt: Bandit Flower
     genre.sync: Action,Drama,Mecha,Sci-Fi,Space,Military,Real Robot,Anti-Hero,Gore,Ensemble Cast,Cult,Primarily Adult Cast
     studio: Sunrise
-    audience_rating: 6.8
+    audience_rating: 6.9
     critic_rating: 7.2
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
@@ -442,7 +442,7 @@ metadata:
       Kimitachi wa Dou Ikiru ka
     original_title: |-
       The Boy and the Heron
-    genre.sync: Adventure,Drama,Fantasy,Supernatural,Fairy Tale,Animals,Coming of Age,Isekai,Shapeshifting,Urban Fantasy,Anthropomorphism,Philosophy,Autobiographical,Male Protagonist,Adoption,Tragedy
+    genre.sync: Adventure,Drama,Fantasy,Supernatural,Fairy Tale,Coming of Age,Animals,Isekai,Anthropomorphism,Shapeshifting,Urban Fantasy,Philosophy,Autobiographical,Male Protagonist,Adoption,Tragedy
     studio: Studio Ghibli
     audience_rating: 7.7
     critic_rating: 7.6
@@ -509,7 +509,7 @@ metadata:
     genre.sync: Drama,Psychological,Romance,Slice of Life,Coming of Age,Age Gap,Teacher,Feet,Male Protagonist,Heterosexual,Urban
     studio: CoMix Wave
     audience_rating: 7.5
-    critic_rating: 7.9
+    critic_rating: 7.8
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
   tt0381348:
@@ -543,7 +543,7 @@ metadata:
       Look Back
     original_title: |-
       Look Back
-    genre.sync: Drama,Slice of Life,Drawing,Tragedy,Female Protagonist,Coming of Age,Primarily Female Cast,Philosophy,Meta,Work,Rotoscoping,Hikikomori,Autobiographical,Otaku Culture
+    genre.sync: Drama,Slice of Life,Drawing,Tragedy,Female Protagonist,Coming of Age,Primarily Female Cast,Meta,Philosophy,Work,Autobiographical,Hikikomori,Rotoscoping,Rehabilitation
     studio: Studio Durian
     audience_rating: 8.6
     critic_rating: 8.6
@@ -581,7 +581,7 @@ metadata:
       Mimi wo Sumaseba
     original_title: |-
       Whisper of the Heart
-    genre.sync: Adventure,Drama,Romance,Slice of Life,Coming of Age,Writing,Female Protagonist,Shoujo,Heterosexual
+    genre.sync: Adventure,Drama,Romance,Slice of Life,Coming of Age,Writing,Female Protagonist,Heterosexual,Shoujo
     studio: Studio Ghibli
     audience_rating: 8.1
     critic_rating: 8.2
@@ -598,6 +598,18 @@ metadata:
     audience_rating: 7.1
     critic_rating: 7.3
     label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt1853614:
+    title: |-
+      Momo e no Tegami
+    sort_title: |-
+      Momo e no Tegami
+    original_title: |-
+      A Letter to Momo
+    genre.sync: Drama,Supernatural,Youkai,Ghost,Family Life,Rural,Coming of Age,Female Protagonist
+    studio: Production I.G
+    audience_rating: 7.3
+    critic_rating: 7.6
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0119698:
     title: |-
       Mononoke-hime
@@ -611,6 +623,18 @@ metadata:
     critic_rating: 8.7
     label: Completed
     label.remove: Watching,Dropped,Paused,Planning
+  tt11958344:
+    title: |-
+      Nakitai Watashi wa Neko wo Kaburu
+    sort_title: |-
+      Nakitai Watashi wa Neko wo Kaburu
+    original_title: |-
+      A Whisker Away
+    genre.sync: Drama,Fantasy,Romance,Shapeshifting,Animals,Female Protagonist,Henshin,Kemonomimi,Family Life,Urban Fantasy,Heterosexual,School,Anthropomorphism
+    studio: Studio Colorido
+    audience_rating: 7.2
+    critic_rating: 7.3
+    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt17382524:
     title: |-
       Natsu e no Tunnel, Sayonara no Deguchi
@@ -630,7 +654,7 @@ metadata:
       Neko no Ongaeshi
     original_title: |-
       The Cat Returns
-    genre.sync: Adventure,Comedy,Drama,Fantasy,Animals,Anthropomorphism,Fairy Tale,Female Protagonist,Nekomimi,Primarily Animal Cast,Royal Affairs,Heterosexual,Isekai,Kemonomimi,Arranged Marriage,Shoujo
+    genre.sync: Adventure,Comedy,Drama,Fantasy,Anthropomorphism,Animals,Fairy Tale,Female Protagonist,Nekomimi,Primarily Animal Cast,Royal Affairs,Isekai,Heterosexual,Kemonomimi,Shoujo,Arranged Marriage
     studio: Studio Ghibli
     audience_rating: 7.5
     critic_rating: 7.7
@@ -717,7 +741,7 @@ metadata:
       Sen to Chihiro no Kamikakushi
     original_title: |-
       Spirited Away
-    genre.sync: Adventure,Drama,Fantasy,Supernatural,Coming of Age,Female Protagonist,Youkai,Isekai,Shapeshifting,Magic,Urban Fantasy,Work,Curses,Mythology,Gods
+    genre.sync: Adventure,Drama,Fantasy,Supernatural,Female Protagonist,Isekai,Youkai,Curses,Coming of Age,Shapeshifting,Magic,Work,Mythology,Urban Fantasy,Gods
     studio: Studio Ghibli
     audience_rating: 8.6
     critic_rating: 8.8
@@ -793,7 +817,7 @@ metadata:
       Tenki no Ko
     original_title: |-
       Weathering With You
-    genre.sync: Drama,Romance,Slice of Life,Supernatural,Urban Fantasy,Urban,Orphan,Environmental,Female Protagonist,Male Protagonist,Fugitive,Family Life,Heterosexual,Found Family,Magic,Work
+    genre.sync: Drama,Romance,Slice of Life,Supernatural,Urban Fantasy,Urban,Environmental,Orphan,Female Protagonist,Male Protagonist,Fugitive,Found Family,Family Life,Heterosexual,Magic,Super Power,Work
     studio: CoMix Wave
     audience_rating: 8.1
     critic_rating: 8.3
@@ -844,7 +868,7 @@ metadata:
       Umi ga Kikoeru
     original_title: |-
       Ocean Waves
-    genre.sync: Drama,Romance,Slice of Life,School,Coming of Age,Male Protagonist,Heterosexual,Love Triangle,Primarily Teen Cast
+    genre.sync: Drama,Romance,Slice of Life,School,Coming of Age,Male Protagonist,Heterosexual,Love Triangle,Primarily Teen Cast,Female Protagonist
     studio: J.C.STAFF
     audience_rating: 6.3
     critic_rating: 6.5
