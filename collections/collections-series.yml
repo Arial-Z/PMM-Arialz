@@ -30,6 +30,7 @@ collections:
     smart_filter:
       all:
         label: Arialzapprouved
+        unplayed_episodes: true
       sort_by: title.asc
     sort_title: |-
       !2 - Series recommandées par Guilhem
