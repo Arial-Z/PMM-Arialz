@@ -307,7 +307,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.9
     audience_rating: 6.9
-    critic_rating: 7.2
+    critic_rating: 7.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   348706:
@@ -1007,6 +1007,26 @@ metadata:
     critic_rating: 8.4
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  461311:
+    title: |-
+      Chao Neng Lifang
+    sort_title: |-
+      Chao Neng Lifang
+    original_title: |-
+      Super Cube
+    genre.sync: Action,Adventure,Fantasy,Cultivation,Martial Arts,Super Power
+    studio: Big Firebird Cultural Media
+    seasons:
+      1:
+        title: |-
+          Chao Neng Lifang
+        label: Score,Completed,2025 Winter
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.2
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   289679:
     title: |-
       Charlotte
@@ -1744,6 +1764,26 @@ metadata:
         user_rating: 0
     label: Planned
     label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
+  467641:
+    title: |-
+      Fujimoto Tatsuki 17-26
+    sort_title: |-
+      Fujimoto Tatsuki 17-26
+    original_title: |-
+      Tatsuki Fujimoto 17-26
+    genre.sync: Action,Comedy,Drama,Romance,Sci-Fi,Slice of Life,Supernatural,Episodic,Anthology,Surreal Comedy,School,Urban Fantasy,Magic,Male Protagonist,Female Protagonist,Family Life,Found Family,Gender Bending,Aliens,Heterosexual,Coastal,Assassins,Nudity
+    studio: ZEXCS
+    seasons:
+      1:
+        title: |-
+          Fujimoto Tatsuki 17-26
+        label: Score,2025 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 8.0
+    audience_rating: 8.0
+    critic_rating: 8.1
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   375271:
     title: |-
       Fumetsu no Anata e
@@ -2953,8 +2993,8 @@ metadata:
           Kidou Senshi Gundam GQuuuuuuX
         label: Score,Dropped,2025 Spring
         label.remove: Completed,Watching,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 7.0
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
@@ -3103,9 +3143,9 @@ metadata:
           Kikaijikake no Marie
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
-    critic_rating: 6.7
+        user_rating: 6.5
+    audience_rating: 6.5
+    critic_rating: 6.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   432815:
@@ -4003,8 +4043,8 @@ metadata:
           Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
+        user_rating: 6.2
+    audience_rating: 6.2
     critic_rating: 6.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -4290,26 +4330,6 @@ metadata:
     critic_rating: 7.4
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  461311:
-    title: |-
-      Chao Neng Lifang
-    sort_title: |-
-      Chao Neng Lifang
-    original_title: |-
-      Super Cube
-    genre.sync: Action,Adventure,Fantasy,Cultivation,Martial Arts,Super Power
-    studio: Big Firebird Cultural Media
-    seasons:
-      1:
-        title: |-
-          Chao Neng Lifang
-        label: Score,Completed,2025 Winter
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 7.2
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   81797:
     title: |-
       One Piece
@@ -4350,13 +4370,13 @@ metadata:
       3:
         title: |-
           One Punch Man 3
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.4
+        label: Score,Completed,2025 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 5.3
     audience_rating: 7.0
     critic_rating: 6.8
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   81178:
     title: |-
       Ookami to Koushinryou
@@ -4593,6 +4613,26 @@ metadata:
     critic_rating: 8.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  412806:
+    title: |-
+      Fuufu Ijou, Koibito Miman.
+    sort_title: |-
+      Fuufu Ijou, Koibito Miman.
+    original_title: |-
+      More than a Married Couple, but Not Lovers.
+    genre.sync: Comedy,Drama,Ecchi,Romance,Love Triangle,Male Protagonist,Heterosexual,Primarily Teen Cast,Gyaru,Tsundere,School,Fake Relationship,LGBTQ+ Themes,Cohabitation,Nudity,Coming of Age
+    studio: studio MOTHER
+    seasons:
+      1:
+        title: |-
+          Fuufu Ijou, Koibito Miman.
+        label: Score,2022 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.5
+    audience_rating: 7.5
+    critic_rating: 7.6
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   262090:
     title: |-
       Psycho-pass
@@ -4722,7 +4762,7 @@ metadata:
           Ranma 1/2 (2024) 2nd Season
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.8
+        user_rating: 7.7
     audience_rating: 7.8
     critic_rating: 7.9
     label: Ended
@@ -5320,7 +5360,7 @@ metadata:
       Shiguang Dailiren
     original_title: |-
       Link Click
-    genre.sync: Drama,Mystery,Supernatural,Thriller,Time Manipulation,Body Swapping,Super Power,Photography,Tragedy,Primarily Adult Cast,Male Protagonist,Crime,Urban Fantasy,Urban,Memory Manipulation
+    genre.sync: Drama,Mystery,Supernatural,Thriller,Time Manipulation,Body Swapping,Super Power,Photography,Tragedy,Male Protagonist,Primarily Adult Cast,Crime,Urban Fantasy,Urban,Memory Manipulation
     studio: Studio LAN
     seasons:
       0:
@@ -5879,26 +5919,6 @@ metadata:
     critic_rating: 7.1
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  467641:
-    title: |-
-      Fujimoto Tatsuki 17-26
-    sort_title: |-
-      Fujimoto Tatsuki 17-26
-    original_title: |-
-      Tatsuki Fujimoto 17-26
-    genre.sync: Action,Comedy,Drama,Romance,Sci-Fi,Slice of Life,Supernatural,Episodic,Anthology,Surreal Comedy,School,Urban Fantasy,Magic,Male Protagonist,Female Protagonist,Family Life,Found Family,Gender Bending,Aliens,Heterosexual,Coastal,Assassins,Nudity
-    studio: ZEXCS
-    seasons:
-      1:
-        title: |-
-          Fujimoto Tatsuki 17-26
-        label: Score,2025 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.0
-    audience_rating: 8.0
-    critic_rating: 8.1
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   80096:
     title: |-
       Tengen Toppa Gurren Lagann
@@ -6536,6 +6556,26 @@ metadata:
     critic_rating: 7.7
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+  453673:
+    title: |-
+      Uma Musume: Cinderella Gray
+    sort_title: |-
+      Uma Musume: Cinderella Gray
+    original_title: |-
+      Umamusume: Cinderella Gray
+    genre.sync: Drama,Sports,Athletics,Primarily Female Cast,Female Protagonist,Kemonomimi,Seinen,Historical
+    studio: CygamesPictures
+    seasons:
+      1:
+        title: |-
+          Uma Musume: Cinderella Gray
+        label: Score,Completed,2025 Fall,2025 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.5
+    audience_rating: 8.5
+    critic_rating: 8.6
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   423030:
     title: |-
       Undead Unluck
@@ -6921,7 +6961,7 @@ metadata:
       Yasei no Last Boss ga Arawareta!
     original_title: |-
       A Wild Last Boss Appeared!
-    genre.sync: Action,Adventure,Fantasy,Magic,Isekai,Video Games,Female Protagonist,Gender Bending,Virtual World,Creature Taming,Shapeshifting,Primarily Female Cast,Super Power,Meta,Memory Manipulation
+    genre.sync: Action,Adventure,Fantasy,Magic,Isekai,Female Protagonist,Gender Bending,Video Games,Virtual World,Creature Taming,Shapeshifting,Primarily Female Cast,Super Power,Meta,Memory Manipulation
     studio: WAO World
     seasons:
       1:
