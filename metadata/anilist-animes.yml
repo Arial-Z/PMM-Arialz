@@ -337,7 +337,7 @@ metadata:
       Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga
     original_title: |-
       My Status as an Assassin Obviously Exceeds the Hero’s
-    genre.sync: Action,Adventure,Fantasy,Magic,Isekai,Assassins,Medieval,Elf
+    genre.sync: Action,Adventure,Fantasy,Magic,Isekai,Medieval,Heterosexual,Assassins,Elf
     studio: Sunrise
     seasons:
       1:
@@ -345,9 +345,9 @@ metadata:
           Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 6.8
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 6.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   248035:
@@ -1816,6 +1816,26 @@ metadata:
     critic_rating: 8.1
     label: AA Winner,Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
+  412806:
+    title: |-
+      Fuufu Ijou, Koibito Miman.
+    sort_title: |-
+      Fuufu Ijou, Koibito Miman.
+    original_title: |-
+      More than a Married Couple, but Not Lovers.
+    genre.sync: Comedy,Drama,Ecchi,Romance,Love Triangle,Male Protagonist,Heterosexual,Primarily Teen Cast,Gyaru,Tsundere,School,Fake Relationship,LGBTQ+ Themes,Cohabitation,Nudity,Coming of Age
+    studio: studio MOTHER
+    seasons:
+      1:
+        title: |-
+          Fuufu Ijou, Koibito Miman.
+        label: Score,2022 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.5
+    audience_rating: 7.5
+    critic_rating: 7.6
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   450537:
     title: |-
       Gachiakuta
@@ -4613,26 +4633,6 @@ metadata:
     critic_rating: 8.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  412806:
-    title: |-
-      Fuufu Ijou, Koibito Miman.
-    sort_title: |-
-      Fuufu Ijou, Koibito Miman.
-    original_title: |-
-      More than a Married Couple, but Not Lovers.
-    genre.sync: Comedy,Drama,Ecchi,Romance,Love Triangle,Male Protagonist,Heterosexual,Primarily Teen Cast,Gyaru,Tsundere,School,Fake Relationship,LGBTQ+ Themes,Cohabitation,Nudity,Coming of Age
-    studio: studio MOTHER
-    seasons:
-      1:
-        title: |-
-          Fuufu Ijou, Koibito Miman.
-        label: Score,2022 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
-    critic_rating: 7.6
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   262090:
     title: |-
       Psycho-pass
@@ -5450,7 +5450,7 @@ metadata:
           Shingeki no Kyojin Season 2
         label: Score,Completed,2017 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.4
+        user_rating: 8.5
       3:
         title: |-
           Shingeki no Kyojin Season 3
@@ -6314,8 +6314,8 @@ metadata:
           Tondemo Skill de Isekai Hourou Meshi 2
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.6
+        user_rating: 7.7
+    audience_rating: 7.7
     critic_rating: 7.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -7007,13 +7007,13 @@ metadata:
           Yi Ren Zhi Xia 4
         label: Score,Completed,2021 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.5
+        user_rating: 6.6
       5:
         title: |-
           Yi Ren Zhi Xia 5
         label: Score,Completed,2022 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.3
+        user_rating: 6.4
     audience_rating: 6.6
     critic_rating: 7.0
     label: Planned,Completed
