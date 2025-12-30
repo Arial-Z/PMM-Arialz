@@ -31,7 +31,7 @@ collections:
       all:
         label: Arialzapprouved
         unplayed_episodes: true
-      sort_by: title.asc
+      sort_by: random
     sort_title: |-
       !2 - Series recommandées par Guilhem
     collection_mode: hide
