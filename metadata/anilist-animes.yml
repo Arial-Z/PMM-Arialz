@@ -297,7 +297,7 @@ metadata:
       Alma-chan wa Kazoku ni Naritai
     original_title: |-
       Alma-chan Wants to Be a Family!
-    genre.sync: Comedy,Romance,Sci-Fi,Slice of Life,Female Protagonist,Found Family,Family Life,Artificial Intelligence,Robots,Iyashikei,Male Protagonist,Parenthood,Idol,Urban
+    genre.sync: Comedy,Romance,Sci-Fi,Slice of Life,Female Protagonist,Found Family,Family Life,Artificial Intelligence,Robots,Iyashikei,Male Protagonist,Parenthood,Slapstick,Cute Girls Doing Cute Things,Urban
     studio: Studio Flad
     seasons:
       1:
@@ -495,13 +495,13 @@ metadata:
       3:
         title: |-
           Arknights: Enshin Shomei
-        label: Score,Watching,2025 Summer
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Dropped,2025 Summer
+        label.remove: Completed,Watching,Paused,Planning
         user_rating: 7.7
     audience_rating: 7.4
     critic_rating: 7.5
-    label: Ended,Watching
-    label.remove: Planned,Airing,Dropped,Paused,Planning
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Watching,Paused,Planning
   291630:
     title: |-
       Arslan Senki (TV)
@@ -852,7 +852,7 @@ metadata:
       Boku dake ga Inai Machi
     original_title: |-
       Erased
-    genre.sync: Drama,Mystery,Psychological,Supernatural,Thriller,Age Regression,Time Manipulation,Crime,Tragedy,Time Skip,Primarily Child Cast,Male Protagonist,Detective,Urban Fantasy,Snowscape,Super Power,Ensemble Cast,Seinen,School,Fugitive,Revenge
+    genre.sync: Drama,Mystery,Psychological,Supernatural,Thriller,Age Regression,Time Manipulation,Crime,Tragedy,Time Skip,Male Protagonist,Primarily Child Cast,Detective,Snowscape,Urban Fantasy,Ensemble Cast,Fugitive,Super Power,Seinen,School,Revenge
     studio: A-1 Pictures
     seasons:
       1:
@@ -2306,7 +2306,7 @@ metadata:
       Hikaru ga Shinda Natsu
     original_title: |-
       The Summer Hikaru Died
-    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Tragedy,Rural,Cosmic Horror,Male Protagonist,Mythology,Body Horror,Urban Fantasy,LGBTQ+ Themes,Primarily Teen Cast,Unrequited Love,Gods,Boys' Love,Seinen,Curses,Mixed Media,School
+    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Tragedy,Rural,Cosmic Horror,Male Protagonist,Gods,Mythology,Body Horror,LGBTQ+ Themes,Urban Fantasy,Primarily Teen Cast,Unrequited Love,Boys' Love,Seinen,Curses,Mixed Media,School
     studio: CygamesPictures
     seasons:
       1:
@@ -2568,26 +2568,6 @@ metadata:
     critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  460903:
-    title: |-
-      Yuusha Party wo Oidasareta Kiyou Binbou
-    sort_title: |-
-      Yuusha Party wo Oidasareta Kiyou Binbou
-    original_title: |-
-      Jack-of-All-Trades, Party of None
-    genre.sync: Action,Adventure,Fantasy
-    studio: animation studio42
-    seasons:
-      1:
-        title: |-
-          Yuusha Party wo Oidasareta Kiyou Binbou
-        label: Score,2026 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
-    critic_rating: 6.8
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   423121:
     title: |-
       Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
@@ -2977,7 +2957,7 @@ metadata:
       Kidou Senshi Gundam
     original_title: |-
       Mobile Suit Gundam
-    genre.sync: Drama,Mecha,Sci-Fi,War,Military,Real Robot,Space,Space Opera,Politics,Travel,Tragedy,Coming of Age,Foreign,Ensemble Cast,Primarily Teen Cast,Revenge,Conspiracy,Male Protagonist,Super Power,Aviation,Tanks
+    genre.sync: Drama,Mecha,Sci-Fi,War,Military,Real Robot,Space,Space Opera,Travel,Politics,Tragedy,Coming of Age,Foreign,Ensemble Cast,Primarily Teen Cast,Revenge,Conspiracy,Male Protagonist,Aviation,Super Power,Tanks
     studio: Sunrise
     seasons:
       1:
@@ -3393,7 +3373,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.4
     audience_rating: 8.2
-    critic_rating: 8.6
+    critic_rating: 8.5
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   279831:
@@ -3477,13 +3457,13 @@ metadata:
       1:
         title: |-
           Kono Subarashii Sekai ni Bakuen wo!
-        label: Score,Watching,2023 Spring
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Dropped,2023 Spring
+        label.remove: Completed,Watching,Paused,Planning
         user_rating: 7.4
     audience_rating: 7.4
     critic_rating: 7.5
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   303867:
     title: |-
       Kono Subarashii Sekai ni Shukufuku wo!
@@ -3560,6 +3540,25 @@ metadata:
     critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  459339:
+    title: |-
+      Majutsushi Kunon wa Mieteiru
+    sort_title: |-
+      Majutsushi Kunon wa Mieteiru
+    original_title: |-
+      Kunon the Sorcerer Can See
+    genre.sync: Action,Adventure,Fantasy,Magic,Disability,Male Protagonist,Maids
+    studio: Platinum Vision
+    seasons:
+      1:
+        title: |-
+          Majutsushi Kunon wa Mieteiru
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 6.5
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   83996:
     title: |-
       Kuroshitsuji
@@ -4322,6 +4321,24 @@ metadata:
     critic_rating: 7.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  458508:
+    title: |-
+      Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru
+    sort_title: |-
+      Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru
+    original_title: |-
+      Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power
+    genre.sync: Action,Adventure,Fantasy
+    studio: CompTown
+    seasons:
+      1:
+        title: |-
+          Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   275610:
     title: |-
       Noragami
@@ -4412,9 +4429,9 @@ metadata:
           One Punch Man 3
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 5.3
+        user_rating: 5.2
     audience_rating: 7.0
-    critic_rating: 6.8
+    critic_rating: 6.9
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   81178:
@@ -5273,6 +5290,26 @@ metadata:
     critic_rating: 7.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  437266:
+    title: |-
+      Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku
+    sort_title: |-
+      Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku
+    original_title: |-
+      Sentenced to Be a Hero
+    genre.sync: Action,Comedy,Drama,Fantasy,Male Protagonist,Gore,Demons,Conspiracy,Revenge,Crime,Gods
+    studio: Studio KAI
+    seasons:
+      1:
+        title: |-
+          Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku
+        label: Score,2026 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.8
+    audience_rating: 7.8
+    critic_rating: 8.4
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   396876:
     title: |-
       Shadows House
@@ -5420,13 +5457,13 @@ metadata:
       1:
         title: |-
           Shin Samurai-den YAIBA
-        label: Score,Watching,2025 Spring
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Dropped,2025 Spring
+        label.remove: Completed,Watching,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.2
-    label: Planned,Watching
-    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
+    label: Planned,Dropped
+    label.remove: Airing,Ended,Completed,Watching,Paused,Planning
   369048:
     title: |-
       Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru
@@ -5750,7 +5787,7 @@ metadata:
           SPY×FAMILY Season 3
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.1
+        user_rating: 8.2
     audience_rating: 8.1
     critic_rating: 8.2
     label: AA Winner,Ended,Completed
@@ -6406,7 +6443,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.3
     audience_rating: 7.3
-    critic_rating: 7.7
+    critic_rating: 7.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   421378:
@@ -6583,7 +6620,7 @@ metadata:
       Uma Musume: Cinderella Gray
     original_title: |-
       Umamusume: Cinderella Gray
-    genre.sync: Drama,Sports,Athletics,Primarily Female Cast,Female Protagonist,Kemonomimi,Seinen,Historical
+    genre.sync: Drama,Sports,Athletics,Primarily Female Cast,Female Protagonist,Kemonomimi,Seinen
     studio: CygamesPictures
     seasons:
       1:
@@ -7214,6 +7251,26 @@ metadata:
     critic_rating: 8.2
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
+  460903:
+    title: |-
+      Yuusha Party wo Oidasareta Kiyou Binbou
+    sort_title: |-
+      Yuusha Party wo Oidasareta Kiyou Binbou
+    original_title: |-
+      Jack-of-All-Trades, Party of None
+    genre.sync: Action,Adventure,Fantasy
+    studio: animation studio42
+    seasons:
+      1:
+        title: |-
+          Yuusha Party wo Oidasareta Kiyou Binbou
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.4
+    audience_rating: 6.4
+    critic_rating: 6.8
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   447955:
     title: |-
       Zenshuu.
