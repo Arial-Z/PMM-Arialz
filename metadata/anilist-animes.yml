@@ -495,13 +495,13 @@ metadata:
       3:
         title: |-
           Arknights: Enshin Shomei
-        label: Score,Dropped,2025 Summer
-        label.remove: Completed,Watching,Paused,Planning
+        label: Score,Watching,2025 Summer
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.7
     audience_rating: 7.4
     critic_rating: 7.5
-    label: Ended,Dropped
-    label.remove: Planned,Airing,Watching,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   291630:
     title: |-
       Arslan Senki (TV)
@@ -2017,10 +2017,16 @@ metadata:
         label: Score,Completed,2022 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.1
-    audience_rating: 8.1
+      5:
+        title: |-
+          Golden Kamuy: Saishuushou
+        label: Score,2026 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    audience_rating: 10.7
     critic_rating: 8.1
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   272138:
     title: |-
       Golden Time
@@ -3396,6 +3402,24 @@ metadata:
     critic_rating: 8.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  458508:
+    title: |-
+      Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru
+    sort_title: |-
+      Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru
+    original_title: |-
+      Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power
+    genre.sync: Action,Adventure,Fantasy
+    studio: CompTown
+    seasons:
+      1:
+        title: |-
+          Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   318893:
     title: |-
       Kobayashi-san Chi no Maidragon
@@ -3540,25 +3564,6 @@ metadata:
     critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  459339:
-    title: |-
-      Majutsushi Kunon wa Mieteiru
-    sort_title: |-
-      Majutsushi Kunon wa Mieteiru
-    original_title: |-
-      Kunon the Sorcerer Can See
-    genre.sync: Action,Adventure,Fantasy,Magic,Disability,Male Protagonist,Maids
-    studio: Platinum Vision
-    seasons:
-      1:
-        title: |-
-          Majutsushi Kunon wa Mieteiru
-        label: Score,Watching,2026 Winter
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 6.5
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   83996:
     title: |-
       Kuroshitsuji
@@ -3949,6 +3954,26 @@ metadata:
     critic_rating: 7.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  459339:
+    title: |-
+      Majutsushi Kunon wa Mieteiru
+    sort_title: |-
+      Majutsushi Kunon wa Mieteiru
+    original_title: |-
+      Kunon the Sorcerer Can See
+    genre.sync: Action,Adventure,Fantasy,Magic,Disability,Male Protagonist,Maids
+    studio: Platinum Vision
+    seasons:
+      1:
+        title: |-
+          Majutsushi Kunon wa Mieteiru
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.4
+    audience_rating: 6.4
+    critic_rating: 6.5
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   432847:
     title: |-
       Maou 2099
@@ -4321,24 +4346,6 @@ metadata:
     critic_rating: 7.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  458508:
-    title: |-
-      Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru
-    sort_title: |-
-      Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru
-    original_title: |-
-      Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power
-    genre.sync: Action,Adventure,Fantasy
-    studio: CompTown
-    seasons:
-      1:
-        title: |-
-          Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru
-        label: Score,Watching,2026 Winter
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   275610:
     title: |-
       Noragami
@@ -5290,26 +5297,6 @@ metadata:
     critic_rating: 7.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  437266:
-    title: |-
-      Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku
-    sort_title: |-
-      Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku
-    original_title: |-
-      Sentenced to Be a Hero
-    genre.sync: Action,Comedy,Drama,Fantasy,Male Protagonist,Gore,Demons,Conspiracy,Revenge,Crime,Gods
-    studio: Studio KAI
-    seasons:
-      1:
-        title: |-
-          Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku
-        label: Score,2026 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.8
-    critic_rating: 8.4
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   396876:
     title: |-
       Shadows House
@@ -5457,13 +5444,13 @@ metadata:
       1:
         title: |-
           Shin Samurai-den YAIBA
-        label: Score,Dropped,2025 Spring
-        label.remove: Completed,Watching,Paused,Planning
+        label: Score,Watching,2025 Spring
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.2
-    label: Planned,Dropped
-    label.remove: Airing,Ended,Completed,Watching,Paused,Planning
+    label: Planned,Watching
+    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
   369048:
     title: |-
       Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru
@@ -6737,10 +6724,15 @@ metadata:
         label: Score,Watching,2025 Spring
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.6
-    audience_rating: 7.6
+      2:
+        title: |-
+          Vigilante: Boku no Hero Academia ILLEGALS 2nd Season
+        label: Score,2026 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
     critic_rating: 7.6
-    label: Planned,Watching
-    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   359274:
     title: |-
       Vinland Saga
@@ -7251,6 +7243,26 @@ metadata:
     critic_rating: 8.2
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
+  437266:
+    title: |-
+      Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku
+    sort_title: |-
+      Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku
+    original_title: |-
+      Sentenced to Be a Hero
+    genre.sync: Action,Comedy,Drama,Fantasy,Male Protagonist,Gore,Demons,Conspiracy,Revenge,Crime,Gods
+    studio: Studio KAI
+    seasons:
+      1:
+        title: |-
+          Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku
+        label: Score,2026 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.8
+    audience_rating: 7.8
+    critic_rating: 8.4
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   460903:
     title: |-
       Yuusha Party wo Oidasareta Kiyou Binbou
