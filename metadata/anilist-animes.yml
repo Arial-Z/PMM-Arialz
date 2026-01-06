@@ -347,7 +347,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.7
     audience_rating: 6.7
-    critic_rating: 6.7
+    critic_rating: 6.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   248035:
@@ -593,7 +593,7 @@ metadata:
           Bai Yao Pu: Luoyang Pian
         label: Score,2025 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.7
+        user_rating: 5.8
     audience_rating: 6.7
     critic_rating: 7.5
     label: Ended,Watching
@@ -1428,6 +1428,24 @@ metadata:
     critic_rating: 7.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  464963:
+    title: |-
+      Maou no Musume wa Yasashi Sugiru!!
+    sort_title: |-
+      Maou no Musume wa Yasashi Sugiru!!
+    original_title: |-
+      The Demon King's Daughter is Too Kind!!
+    genre.sync: Comedy,Fantasy,Slice of Life,Rural,Female Protagonist,Cute Girls Doing Cute Things,Demons,Family Life
+    studio: EMT Squared
+    seasons:
+      1:
+        title: |-
+          Maou no Musume wa Yasashi Sugiru!!
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   273005:
     title: |-
       Diamond no Ace
@@ -1489,7 +1507,7 @@ metadata:
       Dorohedoro
     original_title: |-
       Dorohedoro
-    genre.sync: Action,Adventure,Comedy,Fantasy,Horror,Mystery,Monster Boy,Dystopian,Magic,Amnesia,CGI,Full CGI,Gore,Surreal Comedy,Seinen,Body Horror,Ensemble Cast,Urban Fantasy,Anti-Hero,Anthropomorphism,Primarily Adult Cast,Curses,Male Protagonist,Demons,Revenge,Found Family
+    genre.sync: Action,Adventure,Comedy,Fantasy,Horror,Mystery,Dystopian,Monster Boy,Magic,Amnesia,CGI,Full CGI,Gore,Surreal Comedy,Seinen,Body Horror,Ensemble Cast,Urban Fantasy,Anti-Hero,Anthropomorphism,Primarily Adult Cast,Curses,Male Protagonist,Demons,Revenge,Found Family
     studio: MAPPA
     seasons:
       0:
@@ -2022,8 +2040,8 @@ metadata:
           Golden Kamuy: Saishuushou
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    audience_rating: 10.7
+        user_rating: 7.1
+    audience_rating: 7.9
     critic_rating: 8.1
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
@@ -2554,6 +2572,24 @@ metadata:
     critic_rating: 7.5
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  456099:
+    title: |-
+      Isekai no Sata wa Shachiku Shidai
+    sort_title: |-
+      Isekai no Sata wa Shachiku Shidai
+    original_title: |-
+      Isekai Office Worker: The Other World's Books Depend on the Bean Counter
+    genre.sync: Adventure,Fantasy,Romance,Slice of Life,Boys' Love,Politics,Economics,Male Protagonist,Magic,Royal Affairs,Primarily Adult Cast,LGBTQ+ Themes
+    studio: Studio DEEN
+    seasons:
+      1:
+        title: |-
+          Isekai no Sata wa Shachiku Shidai
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   406592:
     title: |-
       Isekai Yakkyoku
@@ -3409,7 +3445,7 @@ metadata:
       Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru
     original_title: |-
       Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power
-    genre.sync: Action,Adventure,Fantasy
+    genre.sync: Action,Adventure,Fantasy,Isekai,Reincarnation,Magic,Politics
     studio: CompTown
     seasons:
       1:
@@ -3417,7 +3453,9 @@ metadata:
           Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 6.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   318893:
@@ -6211,6 +6249,24 @@ metadata:
     critic_rating: 7.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  465505:
+    title: |-
+      Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.
+    sort_title: |-
+      Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.
+    original_title: |-
+      There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her
+    genre.sync: Adventure,Comedy,Fantasy,Romance,Demons
+    studio: Gekkou
+    seasons:
+      1:
+        title: |-
+          Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   281249:
     title: |-
       Tokyo Ghoul
@@ -6729,7 +6785,8 @@ metadata:
           Vigilante: Boku no Hero Academia ILLEGALS 2nd Season
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 7.3
+    audience_rating: 7.4
     critic_rating: 7.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -7065,8 +7122,8 @@ metadata:
         user_rating: 6.4
     audience_rating: 11.0
     critic_rating: 7.0
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   412374:
     title: |-
       Yofukashi no Uta
