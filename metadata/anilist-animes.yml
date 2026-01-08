@@ -204,6 +204,26 @@ metadata:
     critic_rating: 7.7
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+  463334:
+    title: |-
+      29-sai Dokushin Chuuken Boukensha no Nichijou
+    sort_title: |-
+      29-sai Dokushin Chuuken Boukensha no Nichijou
+    original_title: |-
+      An Adventurer’s Daily Grind at Age 29
+    genre.sync: Adventure,Fantasy,Slice of Life,Iyashikei
+    studio: HORNETS
+    seasons:
+      1:
+        title: |-
+          29-sai Dokushin Chuuken Boukensha no Nichijou
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 5.9
+    audience_rating: 5.9
+    critic_rating: 6.4
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   378609:
     title: |-
       86: Eighty Six
@@ -248,25 +268,6 @@ metadata:
     critic_rating: 7.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  463334:
-    title: |-
-      29-sai Dokushin Chuuken Boukensha no Nichijou
-    sort_title: |-
-      29-sai Dokushin Chuuken Boukensha no Nichijou
-    original_title: |-
-      An Adventurer’s Daily Grind at Age 29
-    genre.sync: Adventure,Fantasy,Slice of Life,Iyashikei
-    studio: HORNETS
-    seasons:
-      1:
-        title: |-
-          29-sai Dokushin Chuuken Boukensha no Nichijou
-        label: Score,Watching,2026 Winter
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 6.4
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   455754:
     title: |-
       Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!
@@ -1330,7 +1331,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
-    critic_rating: 6.6
+    critic_rating: 6.5
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   80042:
@@ -1669,24 +1670,6 @@ metadata:
     critic_rating: 7.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  462789:
-    title: |-
-      Okiraku Ryoushu no Tanoshii Ryouchi Bouei
-    sort_title: |-
-      Okiraku Ryoushu no Tanoshii Ryouchi Bouei
-    original_title: |-
-      Easygoing Territory Defense by the Optimistic Lord
-    genre.sync: Adventure,Fantasy,Male Protagonist,Reincarnation
-    studio: NAZ
-    seasons:
-      1:
-        title: |-
-          Okiraku Ryoushu no Tanoshii Ryouchi Bouei
-        label: Score,Watching,2026 Winter
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   412957:
     title: |-
       Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀
@@ -1933,25 +1916,6 @@ metadata:
     critic_rating: 7.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  455309:
-    title: |-
-      Odayaka Kizoku no Kyuuka no Susume.
-    sort_title: |-
-      Odayaka Kizoku no Kyuuka no Susume.
-    original_title: |-
-      A Gentle Noble's Vacation Recommendation
-    genre.sync: Adventure,Fantasy,Slice of Life,LGBTQ+ Themes,Boys' Love,Isekai
-    studio: Ascension
-    seasons:
-      1:
-        title: |-
-          Odayaka Kizoku no Kyuuka no Susume.
-        label: Score,2026 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 6.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   267246:
     title: |-
       Gin no Saji
@@ -2597,7 +2561,7 @@ metadata:
       Isekai no Sata wa Shachiku Shidai
     original_title: |-
       Isekai Office Worker: The Other World's Books Depend on the Bean Counter
-    genre.sync: Adventure,Fantasy,Romance,Slice of Life,Boys' Love,Politics,Economics,Male Protagonist,Magic,Royal Affairs,Primarily Adult Cast,LGBTQ+ Themes
+    genre.sync: Adventure,Fantasy,Romance,Slice of Life,Boys' Love,Politics,Economics,Male Protagonist,Magic,Royal Affairs,Primarily Adult Cast,LGBTQ+ Themes,Isekai
     studio: Studio DEEN
     seasons:
       1:
@@ -2740,10 +2704,16 @@ metadata:
         label: Score,AA Winner,Completed,2023 Summer
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.7
+      3:
+        title: |-
+          Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen
+        label: Score,2026 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
     audience_rating: 8.6
     critic_rating: 8.6
-    label: AA Winner,Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: AA Winner,Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   407520:
     title: |-
       Kage no Jitsuryokusha ni Naritakute!
@@ -3984,8 +3954,8 @@ metadata:
         user_rating: 7.4
     audience_rating: 7.4
     critic_rating: 7.6
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   423601:
     title: |-
       Majo to Yajuu
@@ -4113,7 +4083,9 @@ metadata:
           Maou no Musume wa Yasashi Sugiru!!
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.5
+    audience_rating: 6.5
+    critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   397965:
@@ -4490,6 +4462,46 @@ metadata:
     critic_rating: 7.4
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  455309:
+    title: |-
+      Odayaka Kizoku no Kyuuka no Susume.
+    sort_title: |-
+      Odayaka Kizoku no Kyuuka no Susume.
+    original_title: |-
+      A Gentle Noble's Vacation Recommendation
+    genre.sync: Adventure,Fantasy,Slice of Life,LGBTQ+ Themes,Boys' Love,Isekai
+    studio: Ascension
+    seasons:
+      1:
+        title: |-
+          Odayaka Kizoku no Kyuuka no Susume.
+        label: Score,2026 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.7
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+  462789:
+    title: |-
+      Okiraku Ryoushu no Tanoshii Ryouchi Bouei
+    sort_title: |-
+      Okiraku Ryoushu no Tanoshii Ryouchi Bouei
+    original_title: |-
+      Easygoing Territory Defense by the Optimistic Lord
+    genre.sync: Adventure,Fantasy,Male Protagonist,Reincarnation
+    studio: NAZ
+    seasons:
+      1:
+        title: |-
+          Okiraku Ryoushu no Tanoshii Ryouchi Bouei
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.4
+    audience_rating: 6.4
+    critic_rating: 6.9
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   81797:
     title: |-
       One Piece
@@ -4628,8 +4640,8 @@ metadata:
           Ore dake Level Up na Ken: Season 2 - Arise from the Shadow
         label: Score,Completed,2025 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.6
-    audience_rating: 8.4
+        user_rating: 8.5
+    audience_rating: 8.3
     critic_rating: 8.4
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -4983,6 +4995,25 @@ metadata:
     critic_rating: 7.9
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  463013:
+    title: |-
+      "Omae Gotoki ga Maou ni Kateru to Omou na" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai
+    sort_title: |-
+      "Omae Gotoki ga Maou ni Kateru to Omou na" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai
+    original_title: |-
+      ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!
+    genre.sync: Action,Adventure,Drama,Fantasy,Horror,Female Protagonist,Yuri,Zombie,Medieval,Magic,Gore,Slavery,Demons
+    studio: A.C.G.T.
+    seasons:
+      1:
+        title: |-
+          "Omae Gotoki ga Maou ni Kateru to Omou na" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 6.7
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   423787:
     title: |-
       Romantic Killer
@@ -6905,7 +6936,7 @@ metadata:
       Watashi wo Tabetai, Hitodenashi
     original_title: |-
       This Monster Wants to Eat Me
-    genre.sync: Drama,Horror,Psychological,Romance,Supernatural,Monster Girl,Female Protagonist,Suicide,Youkai,Primarily Female Cast,Tragedy,Orphan,Mermaid,Coastal,Yuri,Memory Manipulation,Rural,Mythology,LGBTQ+ Themes,Seinen
+    genre.sync: Drama,Horror,Psychological,Romance,Supernatural,Female Protagonist,Monster Girl,Youkai,Suicide,Primarily Female Cast,Tragedy,Orphan,Mermaid,Coastal,Memory Manipulation,Yuri,Rural,Mythology,LGBTQ+ Themes,Seinen
     studio: Studio Lings
     seasons:
       1:
