@@ -139,7 +139,7 @@ metadata:
       "Omae Gotoki ga Maou ni Kateru to Omou na" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai
     original_title: |-
       ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!
-    genre.sync: Action,Adventure,Drama,Fantasy,Horror,Female Protagonist,Yuri,Zombie,Medieval,Magic,Gore,Slavery,Demons
+    genre.sync: Action,Adventure,Drama,Fantasy,Horror,Female Protagonist,Yuri,Medieval,Magic,Gore,Slavery,Demons
     studio: A.C.G.T.
     seasons:
       1:
@@ -1047,6 +1047,26 @@ metadata:
     critic_rating: 8.4
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  457766:
+    title: |-
+      Champignon no Majo
+    sort_title: |-
+      Champignon no Majo
+    original_title: |-
+      Champignon Witch
+    genre.sync: Drama,Fantasy,Supernatural,Shoujo,Medieval,Heterosexual,Witch,Female Protagonist
+    studio: TYPHOON GRAPHICS
+    seasons:
+      1:
+        title: |-
+          Champignon no Majo
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.5
+    audience_rating: 6.5
+    critic_rating: 7.2
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   461311:
     title: |-
       Chao Neng Lifang
@@ -1369,7 +1389,9 @@ metadata:
           DARK MOON: Kuro no Tsuki - Tsuki no Saidan
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.0
+    audience_rating: 6.0
+    critic_rating: 6.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   80042:
@@ -1446,6 +1468,24 @@ metadata:
     critic_rating: 7.6
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  461423:
+    title: |-
+      Dead Account
+    sort_title: |-
+      Dead Account
+    original_title: |-
+      Dead Account
+    genre.sync: Action,Supernatural,Exorcism,Ghost,Super Power,Curses
+    studio: SynergySP
+    seasons:
+      1:
+        title: |-
+          Dead Account
+        label: Score,2026 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   378878:
     title: |-
       Deca-Dence
@@ -1753,11 +1793,11 @@ metadata:
       3:
         title: |-
           Enen no Shouboutai: San no Shou
-        label: Score,Completed,2025 Spring
+        label: Score,Completed,2026 Winter,2025 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 7.7
-    critic_rating: 7.7
+    critic_rating: 7.8
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   410031:
@@ -2336,11 +2376,13 @@ metadata:
       1:
         title: |-
           Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru
-        label: Score,2026 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.4
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   263688:
     title: |-
       Hellsing Ova
@@ -2967,7 +3009,7 @@ metadata:
       Kaoru Hana wa Rin to Saku
     original_title: |-
       The Fragrant Flower Blooms With Dignity
-    genre.sync: Comedy,Drama,Romance,Heterosexual,Primarily Teen Cast,Male Protagonist,Iyashikei,School,Female Protagonist,Urban,Shounen,Food,Ensemble Cast
+    genre.sync: Comedy,Drama,Romance,Heterosexual,Primarily Teen Cast,Male Protagonist,School,Iyashikei,Female Protagonist,Shounen,Urban,Food,Ensemble Cast
     studio: CloverWorks
     seasons:
       1:
@@ -5317,6 +5359,25 @@ metadata:
     critic_rating: 6.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  461513:
+    title: |-
+      Yuusha no Kuzu
+    sort_title: |-
+      Yuusha no Kuzu
+    original_title: |-
+      Scum of the Brave
+    genre.sync: Action,Comedy,Drama,Fantasy,Sci-Fi,Male Protagonist
+    studio: OLM
+    seasons:
+      1:
+        title: |-
+          Yuusha no Kuzu
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 6.6
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   425756:
     title: |-
       Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
@@ -5891,26 +5952,6 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  457766:
-    title: |-
-      Champignon no Majo
-    sort_title: |-
-      Champignon no Majo
-    original_title: |-
-      Champignon Witch
-    genre.sync: Drama,Fantasy,Supernatural,Shoujo,Medieval,Heterosexual,Witch,Female Protagonist
-    studio: TYPHOON GRAPHICS
-    seasons:
-      1:
-        title: |-
-          Champignon no Majo
-        label: Score,2026 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
-    critic_rating: 7.2
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   424536:
     title: |-
       Sousou no Frieren
@@ -6283,6 +6324,24 @@ metadata:
     critic_rating: 7.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  461466:
+    title: |-
+      Tensei Shitara Dragon no Tamago Datta
+    sort_title: |-
+      Tensei Shitara Dragon no Tamago Datta
+    original_title: |-
+      Reincarnated as a Dragon Hatchling
+    genre.sync: Action,Adventure,Fantasy,Dragons
+    studio: GA-CREW
+    seasons:
+      1:
+        title: |-
+          Tensei Shitara Dragon no Tamago Datta
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   410378:
     title: |-
       Tensei Shitara Ken Deshita
@@ -6637,10 +6696,15 @@ metadata:
         label: Score,Completed,2023 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.8
-    audience_rating: 7.8
+      2:
+        title: |-
+          Trigun Stargaze
+        label: Score,2026 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
     critic_rating: 7.8
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   445829:
     title: |-
       Tsue to Tsurugi no Wistoria
@@ -7485,8 +7549,8 @@ metadata:
           Yuusha Party wo Oidasareta Kiyou Binbou
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
+        user_rating: 6.5
+    audience_rating: 6.5
     critic_rating: 6.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
