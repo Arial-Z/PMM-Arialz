@@ -463,7 +463,7 @@ metadata:
       Apocalypse Hotel
     original_title: |-
       Apocalypse Hotel
-    genre.sync: Comedy,Sci-Fi,Slice of Life,Post-Apocalyptic,Work,Robots,Female Protagonist,Inn,Anthropomorphism,Urban,Artificial Intelligence,Surreal Comedy,Aliens,Iyashikei,Time Skip,Episodic
+    genre.sync: Comedy,Sci-Fi,Slice of Life,Post-Apocalyptic,Work,Robots,Female Protagonist,Inn,Anthropomorphism,Artificial Intelligence,Surreal Comedy,Aliens,Urban,Time Skip,Iyashikei,Episodic
     studio: CygamesPictures
     seasons:
       1:
@@ -535,13 +535,13 @@ metadata:
       3:
         title: |-
           Arknights: Enshin Shomei
-        label: Score,Watching,2025 Summer
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Dropped,2025 Summer
+        label.remove: Completed,Watching,Paused,Planning
         user_rating: 7.7
     audience_rating: 7.4
     critic_rating: 7.5
-    label: Ended,Watching
-    label.remove: Planned,Airing,Dropped,Paused,Planning
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Watching,Paused,Planning
   291630:
     title: |-
       Arslan Senki (TV)
@@ -1275,6 +1275,26 @@ metadata:
     critic_rating: 8.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  435815:
+    title: |-
+      Hananoi-kun to Koi no Yamai
+    sort_title: |-
+      Hananoi-kun to Koi no Yamai
+    original_title: |-
+      A Condition Called Love
+    genre.sync: Drama,Romance,Shoujo,Heterosexual,Primarily Teen Cast,Female Protagonist,School
+    studio: East Fish Studio
+    seasons:
+      1:
+        title: |-
+          Hananoi-kun to Koi no Yamai
+        label: Score,2024 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 6.8
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   384541:
     title: |-
       Cyberpunk: Edgerunners
@@ -1374,26 +1394,6 @@ metadata:
     critic_rating: 6.5
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  454526:
-    title: |-
-      DARK MOON: Kuro no Tsuki - Tsuki no Saidan
-    sort_title: |-
-      DARK MOON: Kuro no Tsuki - Tsuki no Saidan
-    original_title: |-
-      DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN
-    genre.sync: Supernatural,Vampire
-    studio: TROYCA
-    seasons:
-      1:
-        title: |-
-          DARK MOON: Kuro no Tsuki - Tsuki no Saidan
-        label: Score,2026 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.0
-    audience_rating: 6.0
-    critic_rating: 6.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   80042:
     title: |-
       DARKER THAN BLACK: Kuro no Keiyakusha
@@ -1483,7 +1483,9 @@ metadata:
           Dead Account
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.0
+    audience_rating: 6.0
+    critic_rating: 6.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   378878:
@@ -1911,7 +1913,7 @@ metadata:
           Fumetsu no Anata e Season 3
         label: Score,Watching,2025 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.7
+        user_rating: 7.6
     audience_rating: 7.9
     critic_rating: 8.1
     label: AA Winner,Airing,Watching
@@ -2432,7 +2434,7 @@ metadata:
       Hikaru ga Shinda Natsu
     original_title: |-
       The Summer Hikaru Died
-    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Tragedy,Rural,Cosmic Horror,Male Protagonist,Gods,Mythology,Body Horror,LGBTQ+ Themes,Urban Fantasy,Primarily Teen Cast,Unrequited Love,Boys' Love,Seinen,Curses,Mixed Media,School
+    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Tragedy,Rural,Cosmic Horror,Male Protagonist,Gods,Mythology,Body Horror,LGBTQ+ Themes,Urban Fantasy,Primarily Teen Cast,Unrequited Love,Curses,Seinen,Boys' Love,Mixed Media,Philosophy
     studio: CygamesPictures
     seasons:
       1:
@@ -2756,10 +2758,16 @@ metadata:
         label: Score,Completed,2023 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.0
+      2:
+        title: |-
+          Jigokuraku 2nd Season
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
     audience_rating: 8.0
     critic_rating: 8.1
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   257756:
     title: |-
       Jormungand
@@ -2807,13 +2815,13 @@ metadata:
       3:
         title: |-
           Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen
-        label: Score,2026 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.3
     audience_rating: 8.5
     critic_rating: 8.6
-    label: AA Winner,Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: AA Winner,Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   407520:
     title: |-
       Kage no Jitsuryokusha ni Naritakute!
@@ -4119,7 +4127,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.4
     audience_rating: 6.4
-    critic_rating: 6.5
+    critic_rating: 6.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   432847:
@@ -4575,13 +4583,31 @@ metadata:
       1:
         title: |-
           Odayaka Kizoku no Kyuuka no Susume.
-        label: Score,2026 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+  460693:
+    title: |-
+      Hikuidori
+    sort_title: |-
+      Hikuidori
+    original_title: |-
+      Oedo Fire Slayer -The Legend of Phoenix-
+    genre.sync: Action,Drama,Firefighters,Full CGI
+    studio: SynergySP
+    seasons:
+      1:
+        title: |-
+          Hikuidori
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   462789:
     title: |-
       Okiraku Ryoushu no Tanoshii Ryouchi Bouei
@@ -4644,8 +4670,8 @@ metadata:
           One Punch Man 3
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 5.2
-    audience_rating: 7.0
+        user_rating: 5.1
+    audience_rating: 6.9
     critic_rating: 6.9
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
@@ -5359,25 +5385,6 @@ metadata:
     critic_rating: 6.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  461513:
-    title: |-
-      Yuusha no Kuzu
-    sort_title: |-
-      Yuusha no Kuzu
-    original_title: |-
-      Scum of the Brave
-    genre.sync: Action,Comedy,Drama,Fantasy,Sci-Fi,Male Protagonist
-    studio: OLM
-    seasons:
-      1:
-        title: |-
-          Yuusha no Kuzu
-        label: Score,Watching,2026 Winter
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 6.6
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   425756:
     title: |-
       Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
@@ -5671,13 +5678,13 @@ metadata:
       1:
         title: |-
           Shin Samurai-den YAIBA
-        label: Score,Watching,2025 Spring
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Dropped,2025 Spring
+        label.remove: Completed,Watching,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.2
-    label: Planned,Watching
-    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
+    label: Planned,Dropped
+    label.remove: Airing,Ended,Completed,Watching,Paused,Planning
   369048:
     title: |-
       Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru
@@ -6339,7 +6346,9 @@ metadata:
           Tensei Shitara Dragon no Tamago Datta
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   410378:
@@ -6665,7 +6674,7 @@ metadata:
       Toujima Tanzaburou wa Kamen Rider ni Naritai
     original_title: |-
       Tojima Wants to Be a Kamen Rider
-    genre.sync: Action,Comedy,Chuunibyou,Male Protagonist,Superhero,Henshin,Tokusatsu,Surreal Comedy
+    genre.sync: Action,Comedy,Chuunibyou,Male Protagonist,Henshin,Superhero,Tokusatsu,Surreal Comedy
     studio: LIDENFILMS
     seasons:
       1:
@@ -6701,8 +6710,9 @@ metadata:
           Trigun Stargaze
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 7.8
+        user_rating: 7.1
+    audience_rating: 7.4
+    critic_rating: 7.5
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   445829:
@@ -7501,19 +7511,39 @@ metadata:
       Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku
     original_title: |-
       Sentenced to Be a Hero
-    genre.sync: Action,Comedy,Drama,Fantasy,Male Protagonist,Gore,Demons,Conspiracy,Revenge,Crime,Gods
+    genre.sync: Action,Comedy,Drama,Fantasy,Demons,Conspiracy,Gore,Male Protagonist,Revenge,Medieval,Anti-Hero,Gods,Military,Crime
     studio: Studio KAI
     seasons:
       1:
         title: |-
           Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku
-        label: Score,2026 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.8
-    critic_rating: 8.4
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 8.2
+    audience_rating: 8.2
+    critic_rating: 8.5
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+  461513:
+    title: |-
+      Yuusha no Kuzu
+    sort_title: |-
+      Yuusha no Kuzu
+    original_title: |-
+      Scum of the Brave
+    genre.sync: Action,Comedy,Drama,Fantasy,Sci-Fi,Male Protagonist
+    studio: OLM
+    seasons:
+      1:
+        title: |-
+          Yuusha no Kuzu
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.0
+    audience_rating: 6.0
+    critic_rating: 6.6
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   465505:
     title: |-
       Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.
