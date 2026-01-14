@@ -174,10 +174,16 @@ metadata:
         label: Score,Completed,2024 Summer
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.5
-    audience_rating: 8.4
+      3:
+        title: |-
+          [Oshi no Ko] 3rd Season
+        label: Score,2026 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    audience_rating: 16.9
     critic_rating: 8.5
-    label: AA Winner,Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: AA Winner,Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   306269:
     title: |-
       3-gatsu no Lion
@@ -2676,26 +2682,6 @@ metadata:
     critic_rating: 6.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  456099:
-    title: |-
-      Isekai no Sata wa Shachiku Shidai
-    sort_title: |-
-      Isekai no Sata wa Shachiku Shidai
-    original_title: |-
-      Isekai Office Worker: The Other World's Books Depend on the Bean Counter
-    genre.sync: Adventure,Fantasy,Romance,Slice of Life,Boys' Love,Politics,Economics,Male Protagonist,Magic,Royal Affairs,Primarily Adult Cast,LGBTQ+ Themes,Isekai
-    studio: Studio DEEN
-    seasons:
-      1:
-        title: |-
-          Isekai no Sata wa Shachiku Shidai
-        label: Score,Watching,2026 Winter
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
-    critic_rating: 7.0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   418367:
     title: |-
       Isekai Nonbiri Nouka
@@ -4203,7 +4189,7 @@ metadata:
       Maou no Musume wa Yasashi Sugiru!!
     original_title: |-
       The Demon King's Daughter is Too Kind!!
-    genre.sync: Comedy,Fantasy,Slice of Life,Rural,Female Protagonist,Cute Girls Doing Cute Things,Demons,Family Life
+    genre.sync: Comedy,Fantasy,Slice of Life,Demons,Cute Girls Doing Cute Things,Rural,Female Protagonist,Family Life
     studio: EMT Squared
     seasons:
       1:
@@ -4211,8 +4197,8 @@ metadata:
           Maou no Musume wa Yasashi Sugiru!!
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -7553,7 +7539,7 @@ metadata:
       Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.
     original_title: |-
       There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her
-    genre.sync: Adventure,Comedy,Fantasy,Romance,Demons
+    genre.sync: Adventure,Comedy,Fantasy,Romance,Demons,Chuunibyou,Medieval,Heterosexual
     studio: Gekkou
     seasons:
       1:
@@ -7561,9 +7547,9 @@ metadata:
           Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
-    critic_rating: 6.9
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 6.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   460903:
