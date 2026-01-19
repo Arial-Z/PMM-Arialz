@@ -2453,26 +2453,6 @@ metadata:
     critic_rating: 8.0
     label: Planned
     label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
-  460693:
-    title: |-
-      Hikuidori
-    sort_title: |-
-      Hikuidori
-    original_title: |-
-      Oedo Fire Slayer -The Legend of Phoenix-
-    genre.sync: Action,Drama,Firefighters,Full CGI
-    studio: SynergySP
-    seasons:
-      1:
-        title: |-
-          Hikuidori
-        label: Score,Watching,2026 Winter
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 4.4
-    audience_rating: 4.4
-    critic_rating: 5.2
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   293121:
     title: |-
       Himouto! Umaru-chan
@@ -3577,8 +3557,8 @@ metadata:
           Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
+        user_rating: 6.0
+    audience_rating: 6.0
     critic_rating: 6.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
