@@ -1859,7 +1859,7 @@ metadata:
       Fujimoto Tatsuki 17-26
     original_title: |-
       Tatsuki Fujimoto 17-26
-    genre.sync: Action,Comedy,Drama,Romance,Sci-Fi,Slice of Life,Supernatural,Episodic,Anthology,Surreal Comedy,Female Protagonist,School,Magic,Urban Fantasy,Male Protagonist,Family Life,Aliens,Found Family,Urban,Heterosexual,Dystopian,Coastal,Assassins,Monster Girl,Nudity
+    genre.sync: Action,Comedy,Drama,Romance,Sci-Fi,Slice of Life,Supernatural,Episodic,Anthology,Surreal Comedy,Female Protagonist,School,Magic,Urban Fantasy,Male Protagonist,Family Life,Aliens,Found Family,Urban,Heterosexual,Dystopian,Coastal,Assassins,Monster Girl,Shapeshifting,Nudity
     studio: ZEXCS
     seasons:
       1:
@@ -2378,7 +2378,7 @@ metadata:
       Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru
     original_title: |-
       HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing
-    genre.sync: Action,Adventure,Fantasy,Creature Taming
+    genre.sync: Action,Adventure,Fantasy,Isekai,Creature Taming
     studio: Yokohama Animation Lab
     seasons:
       1:
@@ -4228,6 +4228,31 @@ metadata:
     critic_rating: 7.7
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  433953:
+    title: |-
+      Medalist
+    sort_title: |-
+      Medalist
+    original_title: |-
+      Medalist
+    genre.sync: Drama,Psychological,Sports,Ice Skating,Coming of Age,Athletics,Female Protagonist,Male Protagonist,Found Family,Seinen,Primarily Child Cast,Dancing
+    studio: ENGI
+    seasons:
+      1:
+        title: |-
+          Medalist
+        label: Score,2025 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 8.3
+      2:
+        title: |-
+          Medalist 2nd Season
+        label: Score,2026 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 8.4
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   341437:
     title: |-
       Megalo Box
@@ -7515,7 +7540,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.1
     audience_rating: 6.1
-    critic_rating: 6.7
+    critic_rating: 6.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   465505:
@@ -7553,8 +7578,8 @@ metadata:
           Yuusha Party wo Oidasareta Kiyou Binbou
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
+        user_rating: 6.4
+    audience_rating: 6.4
     critic_rating: 6.7
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
