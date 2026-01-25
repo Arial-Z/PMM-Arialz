@@ -1469,8 +1469,8 @@ metadata:
           Dead Account
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.0
-    audience_rating: 6.0
+        user_rating: 6.1
+    audience_rating: 6.1
     critic_rating: 6.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -1911,7 +1911,7 @@ metadata:
       Fuufu Ijou, Koibito Miman.
     original_title: |-
       More than a Married Couple, but Not Lovers.
-    genre.sync: Comedy,Drama,Ecchi,Romance,Love Triangle,Male Protagonist,Heterosexual,Primarily Teen Cast,Gyaru,Tsundere,School,Fake Relationship,LGBTQ+ Themes,Cohabitation,Nudity,Coming of Age
+    genre.sync: Comedy,Drama,Ecchi,Romance,Love Triangle,Male Protagonist,Heterosexual,Primarily Teen Cast,Gyaru,Tsundere,School,Fake Relationship,Cohabitation,Nudity,Coming of Age
     studio: studio MOTHER
     seasons:
       1:
@@ -1919,8 +1919,8 @@ metadata:
           Fuufu Ijou, Koibito Miman.
         label: Score,2022 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
+        user_rating: 7.6
+    audience_rating: 7.6
     critic_rating: 7.6
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
@@ -2440,7 +2440,7 @@ metadata:
       Hikaru ga Shinda Natsu
     original_title: |-
       The Summer Hikaru Died
-    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Tragedy,Rural,Cosmic Horror,Male Protagonist,Gods,Mythology,Body Horror,LGBTQ+ Themes,Urban Fantasy,Primarily Teen Cast,Unrequited Love,Curses,Boys' Love,Seinen,Mixed Media,Philosophy
+    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Rural,Tragedy,Cosmic Horror,Male Protagonist,Gods,Mythology,Body Horror,LGBTQ+ Themes,Urban Fantasy,Primarily Teen Cast,Unrequited Love,Curses,Boys' Love,Seinen,Mixed Media,Philosophy
     studio: CygamesPictures
     seasons:
       1:
@@ -4249,8 +4249,9 @@ metadata:
           Medalist 2nd Season
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 8.4
+        user_rating: 7.5
+    audience_rating: 7.9
+    critic_rating: 8.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   341437:
@@ -5631,7 +5632,7 @@ metadata:
       Shiguang Dailiren
     original_title: |-
       Link Click
-    genre.sync: Drama,Mystery,Supernatural,Thriller,Time Manipulation,Body Swapping,Super Power,Photography,Tragedy,Male Protagonist,Primarily Adult Cast,Crime,Urban Fantasy,Urban,Memory Manipulation
+    genre.sync: Drama,Mystery,Supernatural,Thriller,Time Manipulation,Body Swapping,Super Power,Photography,Male Protagonist,Tragedy,Primarily Adult Cast,Crime,Urban Fantasy,Urban,Memory Manipulation
     studio: Studio LAN
     seasons:
       0:
@@ -5873,7 +5874,7 @@ metadata:
       Silent Witch: Chinmoku no Majo no Kakushigoto
     original_title: |-
       Secrets of the Silent Witch
-    genre.sync: Adventure,Fantasy,Female Protagonist,Magic,School,Witch,Primarily Teen Cast,Royal Affairs,Hikikomori,Politics,Coming of Age,Class Struggle,Ojou-sama,Shapeshifting
+    genre.sync: Adventure,Fantasy,Female Protagonist,Magic,School,Witch,Primarily Teen Cast,Royal Affairs,Hikikomori,Coming of Age,Politics,Ojou-sama,Class Struggle,Shapeshifting
     studio: Studio Gokumi
     seasons:
       1:
@@ -6347,7 +6348,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.1
     audience_rating: 6.1
-    critic_rating: 6.7
+    critic_rating: 6.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   410378:
@@ -6866,7 +6867,7 @@ metadata:
       Uma Musume: Cinderella Gray
     original_title: |-
       Umamusume: Cinderella Gray
-    genre.sync: Drama,Sports,Athletics,Primarily Female Cast,Female Protagonist,Kemonomimi,Seinen
+    genre.sync: Drama,Sports,Athletics,Primarily Female Cast,Female Protagonist,Kemonomimi,Seinen,Yuri
     studio: CygamesPictures
     seasons:
       1:
@@ -7510,7 +7511,7 @@ metadata:
       Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku
     original_title: |-
       Sentenced to Be a Hero
-    genre.sync: Action,Comedy,Drama,Fantasy,Demons,Conspiracy,Male Protagonist,Gore,Revenge,Medieval,Anti-Hero,Gods,Military,Crime,Tragedy,Cosmic Horror
+    genre.sync: Action,Comedy,Drama,Fantasy,Anti-Hero,Demons,Conspiracy,Male Protagonist,Gore,Revenge,Medieval,Gods,Military,Crime,Tragedy,Cosmic Horror
     studio: Studio KAI
     seasons:
       1:
@@ -7530,7 +7531,7 @@ metadata:
       Yuusha no Kuzu
     original_title: |-
       Scum of the Brave
-    genre.sync: Action,Comedy,Drama,Fantasy,Sci-Fi,Male Protagonist
+    genre.sync: Action,Comedy,Drama,Fantasy,Sci-Fi,Male Protagonist,Urban Fantasy
     studio: OLM
     seasons:
       1:
