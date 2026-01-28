@@ -247,7 +247,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 5.9
     audience_rating: 5.9
-    critic_rating: 6.4
+    critic_rating: 6.3
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   378609:
@@ -4169,7 +4169,7 @@ metadata:
       Maou no Musume wa Yasashi Sugiru!!
     original_title: |-
       The Demon King's Daughter is Too Kind!!
-    genre.sync: Comedy,Fantasy,Slice of Life,Cute Girls Doing Cute Things,Demons,Family Life,Rural,Female Protagonist,Iyashikei
+    genre.sync: Comedy,Fantasy,Slice of Life,Female Protagonist,Cute Girls Doing Cute Things,Demons,Family Life,Rural,Iyashikei
     studio: EMT Squared
     seasons:
       1:
@@ -4599,7 +4599,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.3
     audience_rating: 6.3
-    critic_rating: 6.7
+    critic_rating: 6.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   462789:
@@ -5379,6 +5379,26 @@ metadata:
     critic_rating: 6.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  457078:
+    title: |-
+      Seihantai na Kimi to Boku
+    sort_title: |-
+      Seihantai na Kimi to Boku
+    original_title: |-
+      You and I Are Polar Opposites
+    genre.sync: Comedy,Drama,Romance,Slice of Life,Coming of Age,Heterosexual,Female Protagonist,School,Iyashikei,Urban,Shounen,Gyaru,Primarily Teen Cast,Male Protagonist
+    studio: Lapin Track
+    seasons:
+      1:
+        title: |-
+          Seihantai na Kimi to Boku
+        label: Score,2026 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 8.0
+    audience_rating: 8.0
+    critic_rating: 8.1
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   425756:
     title: |-
       Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
@@ -7380,26 +7400,6 @@ metadata:
     critic_rating: 7.7
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  457078:
-    title: |-
-      Seihantai na Kimi to Boku
-    sort_title: |-
-      Seihantai na Kimi to Boku
-    original_title: |-
-      You and I Are Polar Opposites
-    genre.sync: Comedy,Drama,Romance,Slice of Life,Coming of Age,Heterosexual,Female Protagonist,School,Iyashikei,Urban,Shounen,Gyaru,Primarily Teen Cast,Male Protagonist
-    studio: Lapin Track
-    seasons:
-      1:
-        title: |-
-          Seihantai na Kimi to Boku
-        label: Score,2026 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.0
-    audience_rating: 8.0
-    critic_rating: 8.1
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   315500:
     title: |-
       Youjo Senki
@@ -7577,7 +7577,7 @@ metadata:
       Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.
     original_title: |-
       There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her
-    genre.sync: Adventure,Comedy,Fantasy,Romance,Demons,Chuunibyou,Medieval,Heterosexual
+    genre.sync: Adventure,Comedy,Fantasy,Romance,Heterosexual,Demons,Medieval,Reincarnation
     studio: Gekkou
     seasons:
       1:
@@ -7587,7 +7587,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
-    critic_rating: 6.8
+    critic_rating: 6.7
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   460903:
