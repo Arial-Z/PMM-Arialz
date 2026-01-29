@@ -683,7 +683,7 @@ metadata:
       BanG Dream! Ave Mujica
     original_title: |-
       Ave Mujica - The Die is Cast -
-    genre.sync: Drama,Music,Psychological,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Full CGI,Acting,Incest,Yuri,LGBTQ+ Themes,Metal Music,Musical Theater,Rock Music,Disability,Ensemble Cast
+    genre.sync: Drama,Music,Psychological,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Incest,Full CGI,Acting,LGBTQ+ Themes,Yuri,Metal Music,Musical Theater,Rock Music,Disability,Ensemble Cast
     studio: SANZIGEN
     seasons:
       1:
@@ -1668,8 +1668,8 @@ metadata:
         user_rating: 7.5
     audience_rating: 7.5
     critic_rating: 7.6
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   423257:
     title: |-
       Dungeon Meshi
@@ -2481,6 +2481,26 @@ metadata:
     critic_rating: 7.2
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  455709:
+    title: |-
+      Eris no Seihai
+    sort_title: |-
+      Eris no Seihai
+    original_title: |-
+      The Holy Grail of Eris
+    genre.sync: Drama,Fantasy,Mystery,Romance,Supernatural,Female Protagonist,Ghost,Revenge,Royal Affairs,Body Swapping,Villainess,Conspiracy,Politics,Anti-Hero,Tragedy,Detective,Historical,Arranged Marriage,Shoujo
+    studio: Ashi Productions
+    seasons:
+      1:
+        title: |-
+          Eris no Seihai
+        label: Score,2026 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.2
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   366263:
     title: |-
       Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
@@ -4037,7 +4057,7 @@ metadata:
       Majo no Tabitabi
     original_title: |-
       Wandering Witch: The Journey of Elaina
-    genre.sync: Adventure,Fantasy,Slice of Life,Witch,Episodic,Magic,Female Protagonist,Travel,Cute Girls Doing Cute Things,Primarily Female Cast,Time Skip,Achronological Order,Medieval,Tragedy,LGBTQ+ Themes
+    genre.sync: Adventure,Fantasy,Slice of Life,Witch,Episodic,Magic,Female Protagonist,Travel,Cute Girls Doing Cute Things,Primarily Female Cast,Time Skip,Medieval,Achronological Order,Tragedy
     studio: C2C
     seasons:
       1:
@@ -4619,7 +4639,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.6
     audience_rating: 6.6
-    critic_rating: 7.0
+    critic_rating: 6.9
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   81797:
