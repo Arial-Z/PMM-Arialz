@@ -1570,6 +1570,26 @@ metadata:
     critic_rating: 8.0
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  354167:
+    title: |-
+      Dororo
+    sort_title: |-
+      Dororo
+    original_title: |-
+      Dororo
+    genre.sync: Action,Adventure,Drama,Supernatural,Demons,Revenge,Disability,Swordplay,Tragedy,Samurai,Estranged Family,Youkai,Orphan,Anti-Hero,Parenthood,Curses,War,Male Protagonist,Historical,Travel,Rural,Urban Fantasy,Gore,Episodic,Philosophy,Crossdressing,Female Protagonist,Body Horror,Tomboy
+    studio: MAPPA
+    seasons:
+      1:
+        title: |-
+          Dororo
+        label: Score,AA Winner,Completed,2019 Winter
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.1
+    audience_rating: 8.1
+    critic_rating: 8.3
+    label: AA Winner,Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   355774:
     title: |-
       Dr. STONE
@@ -2991,8 +3011,8 @@ metadata:
           Kaoru Hana wa Rin to Saku
         label: Score,2025 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.6
-    audience_rating: 8.6
+        user_rating: 8.5
+    audience_rating: 8.5
     critic_rating: 8.6
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
@@ -4195,7 +4215,7 @@ metadata:
       Medalist
     original_title: |-
       Medalist
-    genre.sync: Drama,Psychological,Sports,Ice Skating,Coming of Age,Athletics,Female Protagonist,Male Protagonist,Found Family,Seinen,Primarily Child Cast,Dancing
+    genre.sync: Drama,Psychological,Sports,Ice Skating,Coming of Age,Athletics,Female Protagonist,Male Protagonist,Found Family,Seinen,Dancing,Primarily Child Cast
     studio: ENGI
     seasons:
       1:
@@ -5952,13 +5972,13 @@ metadata:
       2:
         title: |-
           Sousou no Frieren 2nd Season
-        label: Score,2026 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.9
     audience_rating: 9.0
     critic_rating: 9.3
-    label: AA Winner,Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: AA Winner,Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   405920:
     title: |-
       Spy×family
