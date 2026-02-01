@@ -13,7 +13,9 @@ collections:
     visible_shared: true
 
   Disney Animation:
-    trakt_list: https://trakt.tv/users/danj06/lists/disney-animated-movies-1937-2024
+    mdblist_list:
+      url: https://mdblist.com/lists/amything/external/51337
+      sort_by: released.asc
     collection_order: custom
     sync_mode: sync
     sort_title: |-
