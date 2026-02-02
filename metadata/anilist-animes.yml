@@ -336,26 +336,6 @@ metadata:
     critic_rating: 7.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  459058:
-    title: |-
-      Alma-chan wa Kazoku ni Naritai
-    sort_title: |-
-      Alma-chan wa Kazoku ni Naritai
-    original_title: |-
-      Alma-chan Wants to Be a Family!
-    genre.sync: Comedy,Romance,Sci-Fi,Slice of Life,Female Protagonist,Found Family,Family Life,Artificial Intelligence,Robots,Iyashikei,Male Protagonist,Parenthood,Slapstick,Cute Girls Doing Cute Things,Urban
-    studio: Studio Flad
-    seasons:
-      1:
-        title: |-
-          Alma-chan wa Kazoku ni Naritai
-        label: Score,Completed,2025 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
-    critic_rating: 7.1
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   348706:
     title: |-
       Angolmois: Genkou Kassenki
@@ -3274,26 +3254,6 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  452926:
-    title: |-
-      Kikaijikake no Marie
-    sort_title: |-
-      Kikaijikake no Marie
-    original_title: |-
-      Mechanical Marie
-    genre.sync: Action,Comedy,Romance,Sci-Fi,Female Protagonist,Maids,Shoujo,Robots
-    studio: Zero-G
-    seasons:
-      1:
-        title: |-
-          Kikaijikake no Marie
-        label: Score,Completed,2025 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 6.9
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   432815:
     title: |-
       Kikansha no Mahou wa Tokubetsu desu
@@ -4091,8 +4051,8 @@ metadata:
           Majutsushi Kunon wa Mieteiru
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
+        user_rating: 6.4
+    audience_rating: 6.4
     critic_rating: 6.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
