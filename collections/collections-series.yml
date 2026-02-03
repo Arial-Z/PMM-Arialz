@@ -6,7 +6,7 @@ collections:
         unplayed_episodes: true
       sort_by: episode_added.desc
     sort_title: |-
-      !0 - Series récentes à voir
+      !0 - Series recentes a voir
     collection_mode: hide
     visible_library: true
     visible_home: true
@@ -33,7 +33,7 @@ collections:
         unplayed_episodes: true
       sort_by: title.asc
     sort_title: |-
-      !2 - Series recommandées par Guilhem
+      !2 - Series recommandees par Guilhem
     collection_mode: hide
     visible_library: true
     visible_home: true
