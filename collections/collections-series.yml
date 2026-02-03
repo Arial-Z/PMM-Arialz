@@ -1,17 +1,4 @@
 collections:
-  Series récentes à voir:
-    collection_filtering: user
-    smart_filter:
-      all:
-        unplayed_episodes: true
-      sort_by: episode_added.desc
-    sort_title: |-
-      !0 - Series recentes a voir
-    collection_mode: hide
-    visible_library: true
-    visible_home: true
-    visible_shared: true
-
   Meilleures Series non vues:
     collection_filtering: user
     smart_filter:
