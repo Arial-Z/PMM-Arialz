@@ -2729,8 +2729,8 @@ metadata:
           Jigokuraku 2nd Season
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.9
-    audience_rating: 7.9
+        user_rating: 8.0
+    audience_rating: 8.0
     critic_rating: 8.1
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
@@ -7287,13 +7287,13 @@ metadata:
       6:
         title: |-
           Yi Ren Zhi Xia 6
-        label: Score,2026 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 0
     audience_rating: 6.6
     critic_rating: 7.0
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   412374:
     title: |-
       Yofukashi no Uta
