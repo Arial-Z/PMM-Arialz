@@ -247,7 +247,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 5.8
     audience_rating: 5.8
-    critic_rating: 6.3
+    critic_rating: 6.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   378609:
@@ -1360,6 +1360,26 @@ metadata:
     critic_rating: 6.5
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  454526:
+    title: |-
+      DARK MOON: Kuro no Tsuki - Tsuki no Saidan
+    sort_title: |-
+      DARK MOON: Kuro no Tsuki - Tsuki no Saidan
+    original_title: |-
+      Dark Moon: The Blood Altar
+    genre.sync: Supernatural,Vampire,Female Protagonist,Male Harem
+    studio: TROYCA
+    seasons:
+      1:
+        title: |-
+          DARK MOON: Kuro no Tsuki - Tsuki no Saidan
+        label: Score,2026 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.6
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   80042:
     title: |-
       DARKER THAN BLACK: Kuro no Keiyakusha
@@ -4109,7 +4129,7 @@ metadata:
       Maou no Musume wa Yasashi Sugiru!!
     original_title: |-
       The Demon King's Daughter is Too Kind!!
-    genre.sync: Comedy,Fantasy,Slice of Life,Female Protagonist,Cute Girls Doing Cute Things,Demons,Family Life,Rural,Iyashikei
+    genre.sync: Comedy,Fantasy,Slice of Life,Female Protagonist,Cute Girls Doing Cute Things,Demons,Family Life,Rural,Episodic,Iyashikei
     studio: EMT Squared
     seasons:
       1:
@@ -7517,7 +7537,7 @@ metadata:
       Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.
     original_title: |-
       There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her
-    genre.sync: Adventure,Comedy,Fantasy,Romance,Heterosexual,Demons,Medieval,Reincarnation
+    genre.sync: Adventure,Comedy,Fantasy,Romance,Demons,Heterosexual,Medieval
     studio: Gekkou
     seasons:
       1:
@@ -7525,9 +7545,9 @@ metadata:
           Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
-    critic_rating: 6.6
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   460903:
