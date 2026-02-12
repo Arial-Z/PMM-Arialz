@@ -149,7 +149,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.4
     audience_rating: 6.4
-    critic_rating: 6.7
+    critic_rating: 6.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   421069:
@@ -179,7 +179,7 @@ metadata:
           [Oshi no Ko] 3rd Season
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.2
+        user_rating: 8.3
     audience_rating: 8.4
     critic_rating: 8.5
     label: AA Winner,Airing,Completed
@@ -621,7 +621,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 5.9
     audience_rating: 6.7
-    critic_rating: 7.5
+    critic_rating: 7.6
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   193811:
@@ -4549,7 +4549,7 @@ metadata:
       Odayaka Kizoku no Kyuuka no Susume.
     original_title: |-
       A Gentle Noble's Vacation Recommendation
-    genre.sync: Adventure,Fantasy,Slice of Life,Isekai,LGBTQ+ Themes,Primarily Male Cast,Male Protagonist
+    genre.sync: Adventure,Fantasy,Slice of Life,Isekai,Primarily Male Cast,LGBTQ+ Themes,Male Protagonist,Josei,Cute Boys Doing Cute Things
     studio: Ascension
     seasons:
       1:
@@ -4569,7 +4569,7 @@ metadata:
       Okiraku Ryoushu no Tanoshii Ryouchi Bouei
     original_title: |-
       Easygoing Territory Defense by the Optimistic Lord
-    genre.sync: Adventure,Fantasy,Male Protagonist,Reincarnation
+    genre.sync: Adventure,Fantasy,Male Protagonist,Reincarnation,Kingdom Management
     studio: NAZ
     seasons:
       1:
@@ -4577,8 +4577,8 @@ metadata:
           Okiraku Ryoushu no Tanoshii Ryouchi Bouei
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
+        user_rating: 6.5
+    audience_rating: 6.5
     critic_rating: 6.9
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
