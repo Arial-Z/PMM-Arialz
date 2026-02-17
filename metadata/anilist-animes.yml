@@ -371,8 +371,8 @@ metadata:
           Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
+        user_rating: 6.6
+    audience_rating: 6.6
     critic_rating: 6.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -1543,8 +1543,8 @@ metadata:
           Disney Twisted-Wonderland: THE ANIMATION - Season 1: EPISODE of HEARTSLABYUL
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
+        user_rating: 6.7
+    audience_rating: 6.7
     critic_rating: 6.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
@@ -1577,7 +1577,7 @@ metadata:
       Dororo
     original_title: |-
       Dororo
-    genre.sync: Action,Adventure,Drama,Supernatural,Demons,Revenge,Disability,Swordplay,Tragedy,Samurai,Estranged Family,Youkai,Orphan,Anti-Hero,Parenthood,Curses,War,Male Protagonist,Historical,Travel,Rural,Urban Fantasy,Gore,Episodic,Philosophy,Crossdressing,Female Protagonist,Body Horror,Tomboy
+    genre.sync: Action,Adventure,Drama,Supernatural,Demons,Revenge,Disability,Swordplay,Tragedy,Samurai,Youkai,Estranged Family,Orphan,Anti-Hero,Parenthood,War,Curses,Male Protagonist,Historical,Travel,Rural,Urban Fantasy,Gore,Episodic,Philosophy,Crossdressing,Female Protagonist,Body Horror,Tomboy
     studio: MAPPA
     seasons:
       1:
@@ -1971,7 +1971,7 @@ metadata:
       Gekkan Shoujo Nozaki-kun
     original_title: |-
       Monthly Girls' Nozaki-kun
-    genre.sync: Comedy,Romance,Slice of Life,Parody,Slapstick,Drawing,Ensemble Cast,School,Unrequited Love,Otaku Culture,Female Protagonist
+    genre.sync: Comedy,Romance,Slice of Life,Parody,Drawing,Slapstick,Ensemble Cast,School,Unrequited Love,Otaku Culture,Female Protagonist
     studio: Doga Kobo
     seasons:
       1:
@@ -1979,8 +1979,8 @@ metadata:
           Gekkan Shoujo Nozaki-kun
         label: Score,Completed,2014 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.6
+        user_rating: 7.7
+    audience_rating: 7.7
     critic_rating: 7.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -2110,7 +2110,7 @@ metadata:
           Golden Kamuy: Saishuushou
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.8
+        user_rating: 7.9
     audience_rating: 8.0
     critic_rating: 8.2
     label: Airing,Completed
@@ -2875,7 +2875,7 @@ metadata:
       Kaichou wa Maid-sama!
     original_title: |-
       Maid-Sama!
-    genre.sync: Comedy,Drama,Romance,Shoujo,Female Protagonist,School,Maids,Work,Tsundere,Primarily Teen Cast,Heterosexual,Episodic,School Club
+    genre.sync: Comedy,Drama,Romance,Shoujo,Female Protagonist,School,Maids,Work,Tsundere,Heterosexual,Primarily Teen Cast,School Club,Episodic
     studio: J.C.STAFF
     seasons:
       0:
@@ -5346,7 +5346,7 @@ metadata:
       Seihantai na Kimi to Boku
     original_title: |-
       You and I Are Polar Opposites
-    genre.sync: Comedy,Drama,Romance,Slice of Life,Coming of Age,Heterosexual,Female Protagonist,School,Iyashikei,Shounen,Primarily Teen Cast,Urban,Kuudere,Gyaru,Chibi,Male Protagonist
+    genre.sync: Comedy,Drama,Romance,Slice of Life,Heterosexual,Coming of Age,Female Protagonist,School,Iyashikei,Shounen,Gyaru,Primarily Teen Cast
     studio: Lapin Track
     seasons:
       1:
@@ -5686,7 +5686,7 @@ metadata:
       Shingeki no Kyojin
     original_title: |-
       Attack on Titan
-    genre.sync: Action,Drama,Fantasy,Mystery,Kaiju,Revenge,Tragedy,Military,Post-Apocalyptic,Primarily Teen Cast,Male Protagonist,Super Power,Henshin,Steampunk,Gore,Swordplay,Memory Manipulation,Dystopian,Vore,Ensemble Cast,Orphan,Espionage,Cannibalism,Kuudere
+    genre.sync: Action,Drama,Fantasy,Mystery,Kaiju,Revenge,Tragedy,Military,Post-Apocalyptic,Primarily Teen Cast,Male Protagonist,Super Power,Henshin,Steampunk,Gore,Swordplay,Memory Manipulation,Vore,Dystopian,Ensemble Cast,Orphan,Cannibalism,Espionage,Kuudere
     studio: WIT STUDIO
     seasons:
       0:
@@ -5702,7 +5702,7 @@ metadata:
           Shingeki no Kyojin Season 2
         label: Score,Completed,2017 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.5
+        user_rating: 8.4
       3:
         title: |-
           Shingeki no Kyojin Season 3
