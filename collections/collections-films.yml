@@ -2,6 +2,7 @@ collections:
   Meilleurs Films non vus:
     collection_filtering: user
     smart_filter:
+      limit: 100
       all:
         unplayed: true
       sort_by: critic_rating.desc

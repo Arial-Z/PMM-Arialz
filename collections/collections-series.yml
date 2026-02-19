@@ -2,6 +2,7 @@ collections:
   Meilleures Series non vues:
     collection_filtering: user
     smart_filter:
+      limit: 50
       all:
         unplayed_episodes: true
         plays.lt: 1
