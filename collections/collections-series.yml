@@ -32,7 +32,7 @@ collections:
     plex_all: true
     filters:
         title: "Star Trek"
-        sort_by: title.asc
+    sort_by: title.asc
     sort_title: |-
       Star Trek
     collection_mode: hide_items
