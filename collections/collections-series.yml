@@ -27,3 +27,16 @@ collections:
     visible_home: false
     visible_shared: true
     url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/series/arialzapprouved.jpg
+
+  Star Trek:
+    smart_filter:
+      all:
+        title: "Star Trek"
+      sort_by: title.asc
+    sort_title: |-
+      Star Trek
+    collection_mode: hide_items
+    visible_library: false
+    visible_home: false
+    visible_shared: false
+    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/series/star_trek.jpg
