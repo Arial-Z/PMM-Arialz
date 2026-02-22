@@ -1901,7 +1901,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.6
     audience_rating: 7.9
-    critic_rating: 8.1
+    critic_rating: 8.0
     label: AA Winner,Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   412806:
@@ -4209,7 +4209,7 @@ metadata:
           Medalist 2nd Season
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.9
+        user_rating: 8.0
     audience_rating: 8.1
     critic_rating: 8.4
     label: Airing
@@ -6654,7 +6654,7 @@ metadata:
       Toujima Tanzaburou wa Kamen Rider ni Naritai
     original_title: |-
       Tojima Wants to Be a Kamen Rider
-    genre.sync: Action,Comedy,Chuunibyou,Male Protagonist,Henshin,Superhero,Tokusatsu,Surreal Comedy
+    genre.sync: Action,Comedy,Chuunibyou,Male Protagonist,Henshin,Superhero,Tokusatsu,Surreal Comedy,Ensemble Cast
     studio: LIDENFILMS
     seasons:
       1:
@@ -6690,8 +6690,8 @@ metadata:
           Trigun Stargaze
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.5
+        user_rating: 7.1
+    audience_rating: 7.4
     critic_rating: 7.6
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
@@ -7211,13 +7211,13 @@ metadata:
       5:
         title: |-
           Xian Wang de Richang Shenghuo 5
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2025 Fall
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.3
     audience_rating: 7.4
     critic_rating: 7.4
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   348002:
     title: |-
       Yakusoku no Neverland
@@ -7505,8 +7505,8 @@ metadata:
           Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.0
-    audience_rating: 8.0
+        user_rating: 7.9
+    audience_rating: 7.9
     critic_rating: 8.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
