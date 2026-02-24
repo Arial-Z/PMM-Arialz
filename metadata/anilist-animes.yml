@@ -619,8 +619,8 @@ metadata:
           Bai Yao Pu: Luoyang Pian
         label: Score,2025 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.9
-    audience_rating: 6.7
+        user_rating: 6.0
+    audience_rating: 6.8
     critic_rating: 7.6
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
@@ -1543,8 +1543,8 @@ metadata:
           Disney Twisted-Wonderland: THE ANIMATION - Season 1: EPISODE of HEARTSLABYUL
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 6.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
@@ -1555,7 +1555,7 @@ metadata:
       Dorohedoro
     original_title: |-
       Dorohedoro
-    genre.sync: Action,Adventure,Comedy,Fantasy,Horror,Mystery,Dystopian,Monster Boy,Magic,Amnesia,CGI,Full CGI,Gore,Surreal Comedy,Seinen,Body Horror,Ensemble Cast,Urban Fantasy,Anti-Hero,Anthropomorphism,Primarily Adult Cast,Curses,Male Protagonist,Demons,Revenge,Found Family
+    genre.sync: Action,Adventure,Comedy,Fantasy,Horror,Mystery,Dystopian,Monster Boy,Magic,Amnesia,CGI,Gore,Full CGI,Surreal Comedy,Seinen,Body Horror,Ensemble Cast,Urban Fantasy,Anthropomorphism,Anti-Hero,Primarily Adult Cast,Curses,Male Protagonist,Demons,Revenge,Found Family
     studio: MAPPA
     seasons:
       0:
@@ -5346,7 +5346,7 @@ metadata:
       Seihantai na Kimi to Boku
     original_title: |-
       You and I Are Polar Opposites
-    genre.sync: Comedy,Drama,Romance,Slice of Life,Heterosexual,Coming of Age,Female Protagonist,School,Iyashikei,Shounen,Gyaru,Primarily Teen Cast
+    genre.sync: Comedy,Drama,Romance,Slice of Life,Heterosexual,Coming of Age,Female Protagonist,School,Iyashikei,Gyaru,Primarily Teen Cast,Shounen,Urban
     studio: Lapin Track
     seasons:
       1:
@@ -5354,8 +5354,8 @@ metadata:
           Seihantai na Kimi to Boku
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.0
-    audience_rating: 8.0
+        user_rating: 8.1
+    audience_rating: 8.1
     critic_rating: 8.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
