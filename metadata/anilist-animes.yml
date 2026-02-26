@@ -953,8 +953,8 @@ metadata:
         user_rating: 8.7
     audience_rating: 7.9
     critic_rating: 8.0
-    label: AA Winner,Ended,Planning
-    label.remove: Planned,Airing,Watching,Dropped,Paused,
+    label: AA Winner,Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   426294:
     title: |-
       Buddy Daddies
@@ -1775,7 +1775,7 @@ metadata:
       Eris no Seihai
     original_title: |-
       The Holy Grail of Eris
-    genre.sync: Drama,Fantasy,Mystery,Romance,Supernatural,Female Protagonist,Ghost,Revenge,Royal Affairs,Body Swapping,Villainess,Conspiracy,Politics,Anti-Hero,Tragedy,Detective,Historical,Arranged Marriage,Shoujo
+    genre.sync: Drama,Fantasy,Mystery,Romance,Supernatural,Female Protagonist,Ghost,Royal Affairs,Revenge,Body Swapping,Villainess,Conspiracy,Politics,Detective,Tragedy,Anti-Hero,Historical,Arranged Marriage,Shoujo
     studio: Ashi Productions
     seasons:
       1:
@@ -1785,7 +1785,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.7
     audience_rating: 6.7
-    critic_rating: 7.1
+    critic_rating: 7.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   410031:
@@ -4432,8 +4432,8 @@ metadata:
         user_rating: 6.5
     audience_rating: 6.8
     critic_rating: 7.1
-    label: Ended,Planning
-    label.remove: Planned,Airing,Watching,Dropped,Paused,
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   309206:
     title: |-
       Nejimaki Seirei Senki: Tenkyou no Alderamin
@@ -4473,7 +4473,7 @@ metadata:
     audience_rating: 7.7
     critic_rating: 7.8
     label: Ended,Dropped
-    label.remove: Planned,Airing,Watching,Paused,Planning
+    label.remove: Planned,Airing,Completed,Paused,Planning
   432455:
     title: |-
       Nige Jouzu no Wakagimi
@@ -4549,7 +4549,7 @@ metadata:
       Odayaka Kizoku no Kyuuka no Susume.
     original_title: |-
       A Gentle Noble's Vacation Recommendation
-    genre.sync: Adventure,Fantasy,Slice of Life,Isekai,Primarily Male Cast,LGBTQ+ Themes,Male Protagonist,Cute Boys Doing Cute Things,Josei
+    genre.sync: Adventure,Fantasy,Slice of Life,Primarily Male Cast,Isekai,Male Protagonist,Cute Boys Doing Cute Things,LGBTQ+ Themes,Josei
     studio: Ascension
     seasons:
       1:
@@ -5062,7 +5062,7 @@ metadata:
       Rock wa Lady no Tashinami Deshite
     original_title: |-
       Rock is a Lady’s Modesty
-    genre.sync: Drama,Music,Rock Music,Female Protagonist,Band,Ojou-sama,Primarily Female Cast,Primarily Teen Cast,LGBTQ+ Themes,School,CGI,Urban,Yuri,Seinen
+    genre.sync: Drama,Music,Female Protagonist,Rock Music,Band,Ojou-sama,Primarily Female Cast,Primarily Teen Cast,LGBTQ+ Themes,School,CGI,Urban,Yuri,Seinen
     studio: Bandai Namco Pictures
     seasons:
       1:
@@ -7597,7 +7597,7 @@ metadata:
       Zetsuen no Tempest
     original_title: |-
       Blast of Tempest
-    genre.sync: Action,Drama,Fantasy,Mystery,Romance,Urban Fantasy,Revenge,Magic,Time Manipulation,Anti-Hero,Love Triangle,Tragedy,Heterosexual,Suicide,Classic Literature,Male Protagonist,Shounen,Post-Apocalyptic,Environmental
+    genre.sync: Action,Drama,Fantasy,Mystery,Romance,Urban Fantasy,Revenge,Magic,Time Manipulation,Heterosexual,Anti-Hero,Love Triangle,Tragedy,Suicide,Male Protagonist,Classic Literature,Shounen
     studio: bones
     seasons:
       1:
