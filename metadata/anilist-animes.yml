@@ -4209,8 +4209,8 @@ metadata:
           Medalist 2nd Season
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.0
-    audience_rating: 8.1
+        user_rating: 8.1
+    audience_rating: 8.2
     critic_rating: 8.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -4255,8 +4255,8 @@ metadata:
           Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
+        user_rating: 6.3
+    audience_rating: 6.3
     critic_rating: 6.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -5854,7 +5854,7 @@ metadata:
       Silent Witch: Chinmoku no Majo no Kakushigoto
     original_title: |-
       Secrets of the Silent Witch
-    genre.sync: Adventure,Fantasy,Female Protagonist,Magic,School,Witch,Primarily Teen Cast,Royal Affairs,Hikikomori,Coming of Age,Politics,Ojou-sama,Class Struggle,Shapeshifting
+    genre.sync: Adventure,Fantasy,Female Protagonist,Magic,School,Witch,Primarily Teen Cast,Royal Affairs,Hikikomori,Politics,Coming of Age,Ojou-sama,Class Struggle,Shapeshifting
     studio: Studio Gokumi
     seasons:
       1:
@@ -6318,7 +6318,7 @@ metadata:
       Tensei Shitara Dragon no Tamago Datta
     original_title: |-
       Reincarnated as a Dragon Hatchling
-    genre.sync: Action,Adventure,Fantasy,Dragons,Reincarnation
+    genre.sync: Action,Adventure,Fantasy,Dragons,Creature Taming,Reincarnation
     studio: GA-CREW
     seasons:
       1:
@@ -6328,7 +6328,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.2
     audience_rating: 6.2
-    critic_rating: 6.6
+    critic_rating: 6.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   410378:
@@ -6654,7 +6654,7 @@ metadata:
       Toujima Tanzaburou wa Kamen Rider ni Naritai
     original_title: |-
       Tojima Wants to Be a Kamen Rider
-    genre.sync: Action,Comedy,Chuunibyou,Male Protagonist,Henshin,Superhero,Tokusatsu,Surreal Comedy,Ensemble Cast
+    genre.sync: Action,Comedy,Chuunibyou,Male Protagonist,Henshin,Superhero,Tokusatsu,Surreal Comedy,Martial Arts,Ensemble Cast
     studio: LIDENFILMS
     seasons:
       1:
@@ -7497,7 +7497,7 @@ metadata:
       Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku
     original_title: |-
       Sentenced to Be a Hero
-    genre.sync: Action,Comedy,Drama,Fantasy,Anti-Hero,Demons,Conspiracy,Male Protagonist,Revenge,Gore,Medieval,Gods,Military,Crime,Tragedy,Cosmic Horror
+    genre.sync: Action,Comedy,Drama,Fantasy,Anti-Hero,Medieval,Conspiracy,Male Protagonist,Revenge,Demons,Gore,Gods,Military,Tragedy,Cosmic Horror,Crime
     studio: Studio KAI
     seasons:
       1:
