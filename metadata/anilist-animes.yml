@@ -149,7 +149,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.3
     audience_rating: 6.3
-    critic_rating: 6.6
+    critic_rating: 6.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   421069:
@@ -179,7 +179,7 @@ metadata:
           [Oshi no Ko] 3rd Season
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.3
+        user_rating: 8.4
     audience_rating: 8.4
     critic_rating: 8.5
     label: AA Winner,Airing,Completed
@@ -621,7 +621,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.0
     audience_rating: 6.8
-    critic_rating: 7.6
+    critic_rating: 7.5
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   193811:
@@ -663,7 +663,7 @@ metadata:
       BanG Dream! Ave Mujica
     original_title: |-
       Ave Mujica - The Die is Cast -
-    genre.sync: Drama,Music,Psychological,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Incest,Full CGI,Acting,LGBTQ+ Themes,Yuri,Metal Music,Musical Theater,Rock Music,Disability,Ensemble Cast
+    genre.sync: Drama,Music,Psychological,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Incest,Full CGI,LGBTQ+ Themes,Acting,Yuri,Metal Music,Musical Theater,Rock Music,Disability,Ensemble Cast
     studio: SANZIGEN
     seasons:
       1:
@@ -1230,8 +1230,8 @@ metadata:
           Clevatess: Majuu no Ou to Akago to Kabane no Yuusha
         label: Score,Completed,2025 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.8
+        user_rating: 7.7
+    audience_rating: 7.7
     critic_rating: 7.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
@@ -5062,7 +5062,7 @@ metadata:
       Rock wa Lady no Tashinami Deshite
     original_title: |-
       Rock is a Lady’s Modesty
-    genre.sync: Drama,Music,Female Protagonist,Rock Music,Band,Ojou-sama,Primarily Female Cast,Primarily Teen Cast,LGBTQ+ Themes,School,CGI,Urban,Yuri,Seinen
+    genre.sync: Drama,Music,Female Protagonist,Rock Music,Band,Ojou-sama,Primarily Female Cast,Primarily Teen Cast,LGBTQ+ Themes,School,CGI,Seinen,Urban,Yuri
     studio: Bandai Namco Pictures
     seasons:
       1:
