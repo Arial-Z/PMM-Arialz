@@ -2885,8 +2885,8 @@ metadata:
           Kaichou wa Maid-sama!
         label: Score,Completed,2010 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.7
-    audience_rating: 7.7
+        user_rating: 7.8
+    audience_rating: 7.8
     critic_rating: 8.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -4140,8 +4140,8 @@ metadata:
         user_rating: 6.9
     audience_rating: 6.9
     critic_rating: 7.2
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   397965:
     title: |-
       Mashiro no Oto
@@ -5346,7 +5346,7 @@ metadata:
       Seihantai na Kimi to Boku
     original_title: |-
       You and I Are Polar Opposites
-    genre.sync: Comedy,Drama,Romance,Slice of Life,Heterosexual,Coming of Age,School,Female Protagonist,Iyashikei,Gyaru,Primarily Teen Cast,Shounen,Urban
+    genre.sync: Comedy,Drama,Romance,Slice of Life,Heterosexual,Coming of Age,School,Female Protagonist,Iyashikei,Gyaru,Urban,Primarily Teen Cast,Shounen
     studio: Lapin Track
     seasons:
       1:
@@ -5702,19 +5702,19 @@ metadata:
           Shingeki no Kyojin Season 2
         label: Score,Completed,2017 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.4
+        user_rating: 8.5
       3:
         title: |-
           Shingeki no Kyojin Season 3
         label: Score,Completed,2019 Spring,2018 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.7
+        user_rating: 8.8
       4:
         title: |-
           Shingeki no Kyojin: The Final Season
         label: Score,AA Winner,Planning,2023 Winter,2022 Winter,2021 Winter
         label.remove: Completed,Watching,Dropped,Paused,
-        user_rating: 8.6
+        user_rating: 8.7
     audience_rating: 8.6
     critic_rating: 8.7
     label: AA Winner,Ended,Planning
@@ -6971,7 +6971,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.2
     audience_rating: 7.4
-    critic_rating: 7.5
+    critic_rating: 7.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   359274:
@@ -7528,26 +7528,6 @@ metadata:
         user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.5
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
-  465505:
-    title: |-
-      Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.
-    sort_title: |-
-      Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.
-    original_title: |-
-      There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her
-    genre.sync: Adventure,Comedy,Fantasy,Romance,Demons,Heterosexual,Medieval
-    studio: Gekkou
-    seasons:
-      1:
-        title: |-
-          Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.
-        label: Score,Watching,2026 Winter
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
-    critic_rating: 6.3
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   460903:
