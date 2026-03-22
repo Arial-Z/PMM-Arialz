@@ -2440,7 +2440,7 @@ metadata:
       Hikaru ga Shinda Natsu
     original_title: |-
       The Summer Hikaru Died
-    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Rural,Tragedy,Cosmic Horror,Male Protagonist,Mythology,Gods,Body Horror,LGBTQ+ Themes,Urban Fantasy,Primarily Teen Cast,Curses,Unrequited Love,Boys' Love,Seinen,Mixed Media,Philosophy
+    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Rural,Tragedy,Cosmic Horror,Male Protagonist,Mythology,Gods,Body Horror,Urban Fantasy,LGBTQ+ Themes,Primarily Teen Cast,Curses,Unrequited Love,Boys' Love,Seinen,Mixed Media,Philosophy
     studio: CygamesPictures
     seasons:
       1:
@@ -3003,7 +3003,7 @@ metadata:
       Kaoru Hana wa Rin to Saku
     original_title: |-
       The Fragrant Flower Blooms With Dignity
-    genre.sync: Comedy,Drama,Romance,Heterosexual,Primarily Teen Cast,Male Protagonist,School,Iyashikei,Female Protagonist,Shounen,Food,Urban,Ensemble Cast
+    genre.sync: Comedy,Drama,Romance,Heterosexual,Primarily Teen Cast,Male Protagonist,Iyashikei,School,Female Protagonist,Shounen,Food,Urban,Ensemble Cast
     studio: CloverWorks
     seasons:
       1:
@@ -3013,7 +3013,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.5
     audience_rating: 8.5
-    critic_rating: 8.6
+    critic_rating: 8.5
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   441260:
@@ -3520,8 +3520,8 @@ metadata:
         user_rating: 6.0
     audience_rating: 6.0
     critic_rating: 6.2
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   318893:
     title: |-
       Kobayashi-san Chi no Maidragon
@@ -3871,8 +3871,8 @@ metadata:
           Magic Maker: Isekai Mahou no Tsukurikata
         label: Score,Completed,2025 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
+        user_rating: 6.6
+    audience_rating: 6.6
     critic_rating: 6.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -4074,8 +4074,8 @@ metadata:
         user_rating: 6.4
     audience_rating: 6.4
     critic_rating: 6.6
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   432847:
     title: |-
       Maou 2099
@@ -4209,11 +4209,11 @@ metadata:
           Medalist 2nd Season
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.2
-    audience_rating: 8.2
+        user_rating: 8.3
+    audience_rating: 8.3
     critic_rating: 8.4
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Planned
+    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   341437:
     title: |-
       Megalo Box
@@ -4255,8 +4255,8 @@ metadata:
           Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
+        user_rating: 6.2
+    audience_rating: 6.2
     critic_rating: 6.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -5854,7 +5854,7 @@ metadata:
       Silent Witch: Chinmoku no Majo no Kakushigoto
     original_title: |-
       Secrets of the Silent Witch
-    genre.sync: Adventure,Fantasy,Female Protagonist,Magic,School,Witch,Primarily Teen Cast,Royal Affairs,Hikikomori,Coming of Age,Politics,Ojou-sama,Class Struggle,Shapeshifting
+    genre.sync: Adventure,Fantasy,Female Protagonist,Magic,School,Witch,Primarily Teen Cast,Royal Affairs,Hikikomori,Coming of Age,Politics,Ojou-sama,Shapeshifting,Class Struggle
     studio: Studio Gokumi
     seasons:
       1:
@@ -6326,9 +6326,9 @@ metadata:
           Tensei Shitara Dragon no Tamago Datta
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
-    critic_rating: 6.5
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 6.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   410378:
@@ -6538,7 +6538,7 @@ metadata:
       Tomo-chan wa Onnanoko!
     original_title: |-
       Tomo-chan Is a Girl!
-    genre.sync: Comedy,Romance,Slice of Life,Tomboy,Female Protagonist,Unrequited Love,Heterosexual,Primarily Teen Cast,School,Episodic,Slapstick,Martial Arts,Athletics
+    genre.sync: Comedy,Romance,Slice of Life,Tomboy,Female Protagonist,Unrequited Love,Heterosexual,Primarily Teen Cast,School,Slapstick,Episodic,Martial Arts,Athletics
     studio: Lay-duce
     seasons:
       1:
@@ -6654,7 +6654,7 @@ metadata:
       Toujima Tanzaburou wa Kamen Rider ni Naritai
     original_title: |-
       Tojima Wants to Be a Kamen Rider
-    genre.sync: Action,Comedy,Chuunibyou,Male Protagonist,Henshin,Superhero,Tokusatsu,Surreal Comedy,Martial Arts,Ensemble Cast
+    genre.sync: Action,Comedy,Chuunibyou,Male Protagonist,Henshin,Surreal Comedy,Superhero,Tokusatsu,Martial Arts,Ensemble Cast
     studio: LIDENFILMS
     seasons:
       1:
@@ -6662,11 +6662,11 @@ metadata:
           Toujima Tanzaburou wa Kamen Rider ni Naritai
         label: Score,Watching,2025 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.3
-    audience_rating: 7.3
-    critic_rating: 7.6
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+        user_rating: 7.5
+    audience_rating: 7.5
+    critic_rating: 7.8
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   421378:
     title: |-
       Trigun Stampede
@@ -6690,8 +6690,8 @@ metadata:
           Trigun Stargaze
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.4
+        user_rating: 6.9
+    audience_rating: 7.3
     critic_rating: 7.5
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
@@ -6835,7 +6835,7 @@ metadata:
           Yamato yo Towa ni: REBEL3199
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.7
+        user_rating: 5.8
     audience_rating: 7.1
     critic_rating: 7.8
     label: Airing,Completed
@@ -6847,7 +6847,7 @@ metadata:
       Uma Musume: Cinderella Gray
     original_title: |-
       Umamusume: Cinderella Gray
-    genre.sync: Drama,Sports,Athletics,Primarily Female Cast,Female Protagonist,Kemonomimi,Seinen,Fitness
+    genre.sync: Drama,Sports,Athletics,Primarily Female Cast,Female Protagonist,Kemonomimi,Seinen,Historical,Fitness
     studio: CygamesPictures
     seasons:
       1:
@@ -7497,7 +7497,7 @@ metadata:
       Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku
     original_title: |-
       Sentenced to Be a Hero
-    genre.sync: Action,Comedy,Drama,Fantasy,Anti-Hero,Medieval,Conspiracy,Revenge,Male Protagonist,Demons,Gore,Gods,Military,Tragedy,Cosmic Horror,Crime
+    genre.sync: Action,Comedy,Drama,Fantasy,Medieval,Conspiracy,Revenge,Male Protagonist,Demons,Anti-Hero,Gore,Gods,Military,Tragedy,Cosmic Horror,Crime
     studio: Studio KAI
     seasons:
       1:
@@ -7507,7 +7507,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.9
     audience_rating: 7.9
-    critic_rating: 8.2
+    critic_rating: 8.1
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   461513:
@@ -7517,7 +7517,7 @@ metadata:
       Yuusha no Kuzu
     original_title: |-
       Scum of the Brave
-    genre.sync: Action,Comedy,Drama,Fantasy,Sci-Fi,Male Protagonist,Drugs,Urban Fantasy
+    genre.sync: Action,Comedy,Drama,Fantasy,Sci-Fi,Urban Fantasy,Male Protagonist,Drugs,Mafia,Gore
     studio: OLM
     seasons:
       1:
@@ -7525,8 +7525,8 @@ metadata:
           Yuusha no Kuzu
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
+        user_rating: 6.1
+    audience_rating: 6.1
     critic_rating: 6.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -7537,7 +7537,7 @@ metadata:
       Yuusha Party wo Oidasareta Kiyou Binbou
     original_title: |-
       Jack-of-All-Trades, Party of None
-    genre.sync: Action,Adventure,Fantasy,Male Protagonist,Dungeon,CGI,Magic
+    genre.sync: Action,Adventure,Fantasy,Male Protagonist,Nudity,Dungeon,Magic,CGI
     studio: animation studio42
     seasons:
       1:
@@ -7547,9 +7547,9 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.6
     audience_rating: 6.6
-    critic_rating: 6.7
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    critic_rating: 6.6
+    label: Planned,Watching
+    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
   447955:
     title: |-
       Zenshuu.
