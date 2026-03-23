@@ -14,6 +14,20 @@ collections:
     visible_home: true
     visible_shared: true
 
+  Series récemment ajoutées:
+    collection_filtering: user
+    smart_filter:
+      limit: 50
+      all:
+        unplayed_episodes: true
+      sort_by: episode_added.desc
+    sort_title: |-
+      !0 - Series récemment ajoutées
+    collection_mode: hide
+    visible_library: true
+    visible_home: true
+    visible_shared: true
+
   Series recommandées par Guilhem:
     smart_filter:
       all:
