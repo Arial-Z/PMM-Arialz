@@ -19,6 +19,7 @@ collections:
     smart_filter:
       limit: 50
       all:
+        episode_added: 60
         unplayed_episodes: true
       sort_by: episode_added.desc
     sort_title: |-
