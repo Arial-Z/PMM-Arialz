@@ -4,7 +4,7 @@ collections:
     smart_filter:
       limit: 50
       all:
-        
+        critic_rating.gte: 7
         unplayed_episodes: true
         plays.lt: 1
       sort_by: critic_rating.desc
