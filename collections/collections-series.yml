@@ -4,6 +4,7 @@ collections:
     smart_filter:
       limit: 50
       all:
+        
         unplayed_episodes: true
         plays.lt: 1
       sort_by: critic_rating.desc
@@ -14,7 +15,7 @@ collections:
     visible_home: true
     visible_shared: true
 
-  Series récemment ajoutées:
+  Series recemment ajoutées:
     collection_filtering: user
     smart_filter:
       limit: 50
@@ -23,7 +24,7 @@ collections:
         unplayed_episodes: true
       sort_by: episode_added.desc
     sort_title: |-
-      !0 - Series récemment ajoutées
+      !0 - Series recemment ajoutees
     collection_mode: hide
     visible_library: false
     visible_home: true
