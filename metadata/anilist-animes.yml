@@ -162,8 +162,8 @@ metadata:
         user_rating: 8.4
     audience_rating: 8.4
     critic_rating: 8.5
-    label: AA Winner,Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: AA Winner,Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   306269:
     title: |-
       3-gatsu no Lion
@@ -228,8 +228,8 @@ metadata:
         user_rating: 5.9
     audience_rating: 5.9
     critic_rating: 6.2
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   378609:
     title: |-
       86: Eighty Six
@@ -1347,7 +1347,7 @@ metadata:
       DARK MOON: Kuro no Tsuki - Tsuki no Saidan
     original_title: |-
       Dark Moon: The Blood Altar
-    genre.sync: Supernatural,Vampire,Female Protagonist,Male Harem
+    genre.sync: Supernatural,Vampire,Female Protagonist,Male Harem,Super Power
     studio: TROYCA
     seasons:
       1:
@@ -1357,7 +1357,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.2
     audience_rating: 6.2
-    critic_rating: 6.5
+    critic_rating: 6.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   80042:
@@ -4500,8 +4500,8 @@ metadata:
         user_rating: 6.7
     audience_rating: 6.7
     critic_rating: 6.8
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   81797:
     title: |-
       One Piece
