@@ -1810,8 +1810,8 @@ metadata:
         user_rating: 8.3
     audience_rating: 8.3
     critic_rating: 8.5
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   467641:
     title: |-
       Fujimoto Tatsuki 17-26
@@ -1862,8 +1862,8 @@ metadata:
         user_rating: 7.5
     audience_rating: 7.9
     critic_rating: 8.0
-    label: AA Winner,Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: AA Winner,Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   412806:
     title: |-
       Fuufu Ijou, Koibito Miman.
@@ -6244,13 +6244,13 @@ metadata:
       1:
         title: |-
           Tensei Shitara Dragon no Tamago Datta
-        label: Score,Watching,2026 Winter
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Dropped,2026 Winter
+        label.remove: Completed,Watching,Paused,Planning
         user_rating: 6.1
     audience_rating: 6.1
     critic_rating: 6.4
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   410378:
     title: |-
       Tensei Shitara Ken Deshita
@@ -6613,8 +6613,8 @@ metadata:
         user_rating: 6.9
     audience_rating: 7.3
     critic_rating: 7.5
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   445829:
     title: |-
       Tsue to Tsurugi no Wistoria
