@@ -1040,7 +1040,7 @@ metadata:
       Chao Neng Lifang
     original_title: |-
       Super Cube
-    genre.sync: Action,Adventure,Fantasy,Cultivation,Martial Arts,Super Power
+    genre.sync: Action,Adventure,Fantasy,Cultivation,Urban Fantasy,Martial Arts,Super Power
     studio: Big Firebird Cultural Media
     seasons:
       1:
@@ -1743,8 +1743,8 @@ metadata:
           Enen no Shouboutai: San no Shou
         label: Score,Watching,2026 Winter,2025 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.7
+        user_rating: 7.9
+    audience_rating: 7.8
     critic_rating: 7.8
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
@@ -2338,7 +2338,7 @@ metadata:
       Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru
     original_title: |-
       HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing
-    genre.sync: Action,Adventure,Fantasy,Creature Taming,Isekai,Video Games,Male Protagonist,Reincarnation
+    genre.sync: Action,Adventure,Fantasy,Creature Taming,Isekai,Video Games,Male Protagonist,Reincarnation,Class Struggle
     studio: Yokohama Animation Lab
     seasons:
       1:
@@ -2346,11 +2346,11 @@ metadata:
           Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru
         label: Score,Dropped,2026 Winter
         label.remove: Completed,Watching,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 6.9
-    label: Ended,Dropped
-    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
+        user_rating: 7.0
+    audience_rating: 7.0
+    critic_rating: 7.2
+    label: Planned,Dropped
+    label.remove: Airing,Ended,Completed,Watching,Paused,Planning
   263688:
     title: |-
       Hellsing Ova
@@ -2707,13 +2707,13 @@ metadata:
       2:
         title: |-
           Jigokuraku 2nd Season
-        label: Score,Watching,2026 Winter
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Dropped,2026 Winter
+        label.remove: Completed,Watching,Paused,Planning
         user_rating: 8.1
     audience_rating: 8.1
-    critic_rating: 8.1
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    critic_rating: 8.2
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Watching,Paused,Planning
   257756:
     title: |-
       Jormungand
@@ -4917,8 +4917,8 @@ metadata:
         user_rating: 7.7
     audience_rating: 7.8
     critic_rating: 7.8
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Planned
+    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   305089:
     title: |-
       Re:Zero kara Hajimeru Isekai Seikatsu
@@ -5277,8 +5277,8 @@ metadata:
         user_rating: 8.2
     audience_rating: 8.2
     critic_rating: 8.2
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   425756:
     title: |-
       Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
@@ -5874,11 +5874,11 @@ metadata:
           Sousou no Frieren 2nd Season
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.9
-    audience_rating: 9.0
+        user_rating: 8.8
+    audience_rating: 8.9
     critic_rating: 9.1
-    label: AA Winner,Ended,Watching
-    label.remove: Planned,Airing,Dropped,Paused,Planning
+    label: AA Winner,Planned,Watching
+    label.remove: Airing,Ended,Dropped,Paused,Planning
   405920:
     title: |-
       Spy×family
@@ -6246,8 +6246,8 @@ metadata:
           Tensei Shitara Dragon no Tamago Datta
         label: Score,Dropped,2026 Winter
         label.remove: Completed,Watching,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
+        user_rating: 6.2
+    audience_rating: 6.2
     critic_rating: 6.4
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
@@ -6574,7 +6574,7 @@ metadata:
       Toujima Tanzaburou wa Kamen Rider ni Naritai
     original_title: |-
       Tojima Wants to Be a Kamen Rider
-    genre.sync: Action,Comedy,Chuunibyou,Male Protagonist,Henshin,Surreal Comedy,Superhero,Tokusatsu,Martial Arts,Ensemble Cast
+    genre.sync: Action,Comedy,Chuunibyou,Male Protagonist,Henshin,Superhero,Surreal Comedy,Tokusatsu,Martial Arts,Ensemble Cast
     studio: LIDENFILMS
     seasons:
       1:
@@ -6610,9 +6610,9 @@ metadata:
           Trigun Stargaze
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.9
+        user_rating: 6.8
     audience_rating: 7.3
-    critic_rating: 7.5
+    critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   445829:
@@ -6755,7 +6755,7 @@ metadata:
           Yamato yo Towa ni: REBEL3199
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.8
+        user_rating: 5.7
     audience_rating: 7.1
     critic_rating: 7.8
     label: Airing,Completed
@@ -6875,7 +6875,7 @@ metadata:
       Vigilante: Boku no Hero Academia ILLEGALS
     original_title: |-
       My Hero Academia: Vigilantes
-    genre.sync: Action,Adventure,Drama,Fantasy,Urban Fantasy,Urban,Super Power,Superhero,Shounen,Crime,Male Protagonist,Anti-Hero,Fugitive,Idol
+    genre.sync: Action,Adventure,Drama,Fantasy,Urban Fantasy,Urban,Super Power,Superhero,Shounen,Crime,Male Protagonist,Idol,Anti-Hero,Fugitive
     studio: bones film
     seasons:
       1:
@@ -7417,7 +7417,7 @@ metadata:
       Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku
     original_title: |-
       Sentenced to Be a Hero
-    genre.sync: Action,Comedy,Drama,Fantasy,Medieval,Conspiracy,Revenge,Male Protagonist,Demons,Anti-Hero,Gore,Gods,Military,Tragedy,Cosmic Horror,Crime
+    genre.sync: Action,Drama,Fantasy,Medieval,Conspiracy,Revenge,Demons,Anti-Hero,Male Protagonist,Gods,Gore,Tragedy,Military,Crime,Cosmic Horror,Isekai
     studio: Studio KAI
     seasons:
       1:
@@ -7425,11 +7425,11 @@ metadata:
           Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.9
-    audience_rating: 7.9
-    critic_rating: 8.1
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+        user_rating: 8.0
+    audience_rating: 8.0
+    critic_rating: 8.2
+    label: Planned,Watching
+    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
   461513:
     title: |-
       Yuusha no Kuzu
@@ -7447,7 +7447,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.1
     audience_rating: 6.1
-    critic_rating: 6.5
+    critic_rating: 6.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   460903:
@@ -7465,8 +7465,8 @@ metadata:
           Yuusha Party wo Oidasareta Kiyou Binbou
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
+        user_rating: 6.7
+    audience_rating: 6.7
     critic_rating: 6.6
     label: Planned,Watching
     label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
