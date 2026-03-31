@@ -1523,8 +1523,8 @@ metadata:
           Disney Twisted-Wonderland: THE ANIMATION - Season 1: EPISODE of HEARTSLABYUL
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 6.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
@@ -2070,11 +2070,11 @@ metadata:
           Golden Kamuy: Saishuushou
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.0
-    audience_rating: 8.0
+        user_rating: 8.2
+    audience_rating: 8.1
     critic_rating: 8.2
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   272138:
     title: |-
       Golden Time
@@ -2707,13 +2707,13 @@ metadata:
       2:
         title: |-
           Jigokuraku 2nd Season
-        label: Score,Dropped,2026 Winter
-        label.remove: Completed,Watching,Paused,Planning
+        label: Score,Completed,2026 Winter
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.2
-    label: Ended,Dropped
-    label.remove: Planned,Airing,Watching,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   257756:
     title: |-
       Jormungand
@@ -3469,7 +3469,7 @@ metadata:
       Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru
     original_title: |-
       Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power
-    genre.sync: Action,Adventure,Fantasy,Reincarnation,Time Skip,Conspiracy,Kingdom Management,Isekai,Magic,Politics,Royal Affairs,Male Protagonist,Swordplay
+    genre.sync: Action,Adventure,Fantasy,Reincarnation,Time Skip,Conspiracy,Kingdom Management,Magic,Politics,Royal Affairs,Male Protagonist,Swordplay
     studio: CompTown
     seasons:
       1:
@@ -3477,8 +3477,8 @@ metadata:
           Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
+        user_rating: 6.5
+    audience_rating: 6.5
     critic_rating: 6.7
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
@@ -4023,7 +4023,7 @@ metadata:
       Majutsushi Kunon wa Mieteiru
     original_title: |-
       Kunon the Sorcerer Can See
-    genre.sync: Action,Adventure,Fantasy,Magic,Male Protagonist,Disability,Primarily Teen Cast,Boarding School,College,Chuunibyou,Maids
+    genre.sync: Action,Adventure,Fantasy,Magic,Male Protagonist,Disability,Primarily Teen Cast,College,Chuunibyou,Maids,Boarding School
     studio: Platinum Vision
     seasons:
       1:
@@ -5266,7 +5266,7 @@ metadata:
       Seihantai na Kimi to Boku
     original_title: |-
       You and I Are Polar Opposites
-    genre.sync: Comedy,Drama,Romance,Slice of Life,Heterosexual,Coming of Age,School,Iyashikei,Female Protagonist,Gyaru,Urban,Primarily Teen Cast,Shounen
+    genre.sync: Comedy,Drama,Romance,Slice of Life,Heterosexual,School,Female Protagonist,Coming of Age,Iyashikei,Primarily Teen Cast,Urban,Gyaru,Shounen,Kuudere
     studio: Lapin Track
     seasons:
       1:
@@ -5274,11 +5274,11 @@ metadata:
           Seihantai na Kimi to Boku
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.2
-    audience_rating: 8.2
-    critic_rating: 8.2
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+        user_rating: 8.3
+    audience_rating: 8.3
+    critic_rating: 8.4
+    label: Planned
+    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   425756:
     title: |-
       Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
@@ -5606,7 +5606,7 @@ metadata:
       Shingeki no Kyojin
     original_title: |-
       Attack on Titan
-    genre.sync: Action,Drama,Fantasy,Mystery,Kaiju,Revenge,Tragedy,Military,Post-Apocalyptic,Primarily Teen Cast,Male Protagonist,Super Power,Henshin,Steampunk,Gore,Swordplay,Memory Manipulation,Vore,Dystopian,Ensemble Cast,Orphan,Cannibalism,Espionage,Kuudere
+    genre.sync: Action,Drama,Fantasy,Mystery,Kaiju,Revenge,Tragedy,Military,Post-Apocalyptic,Primarily Teen Cast,Male Protagonist,Super Power,Henshin,Steampunk,Gore,Memory Manipulation,Vore,Dystopian,Swordplay,Ensemble Cast,Orphan,Cannibalism,Espionage,Kuudere
     studio: WIT STUDIO
     seasons:
       0:
@@ -5957,6 +5957,24 @@ metadata:
     critic_rating: 8.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  469451:
+    title: |-
+      Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?
+    sort_title: |-
+      Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?
+    original_title: |-
+      The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!
+    genre.sync: Action,Adventure,Comedy,Fantasy
+    studio: Studio Flad
+    seasons:
+      1:
+        title: |-
+          Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?
+        label: Score
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Planned,Watching
+    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
   267432:
     title: |-
       Suisei no Gargantia
@@ -6244,13 +6262,13 @@ metadata:
       1:
         title: |-
           Tensei Shitara Dragon no Tamago Datta
-        label: Score,Dropped,2026 Winter
-        label.remove: Completed,Watching,Paused,Planning
+        label: Score,Completed,2026 Winter
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.4
-    label: Ended,Dropped
-    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   410378:
     title: |-
       Tensei Shitara Ken Deshita
@@ -6889,11 +6907,11 @@ metadata:
           Vigilante: Boku no Hero Academia ILLEGALS 2nd Season
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.2
+        user_rating: 7.3
     audience_rating: 7.4
-    critic_rating: 7.4
-    label: Airing,Dropped
-    label.remove: Planned,Ended,Completed,Watching,Paused,Planning
+    critic_rating: 7.5
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   359274:
     title: |-
       Vinland Saga
