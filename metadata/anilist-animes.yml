@@ -159,7 +159,7 @@ metadata:
           [Oshi no Ko] 3rd Season
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.5
+        user_rating: 8.6
     audience_rating: 8.5
     critic_rating: 8.6
     label: AA Winner,Planned,Completed
@@ -190,6 +190,26 @@ metadata:
     critic_rating: 8.6
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  432723:
+    title: |-
+      3-nen Z-gumi Ginpachi-sensei
+    sort_title: |-
+      3-nen Z-gumi Ginpachi-sensei
+    original_title: |-
+      GINTAMA - Mr. Ginpachi's Zany Class
+    genre.sync: Comedy,School,Surreal Comedy,Parody
+    studio: Bandai Namco Pictures
+    seasons:
+      1:
+        title: |-
+          3-nen Z-gumi Ginpachi-sensei
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.5
+    audience_rating: 7.5
+    critic_rating: 7.7
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   463334:
     title: |-
       29-sai Dokushin Chuuken Boukensha no Nichijou
@@ -197,7 +217,7 @@ metadata:
       29-sai Dokushin Chuuken Boukensha no Nichijou
     original_title: |-
       An Adventurer’s Daily Grind at Age 29
-    genre.sync: Adventure,Fantasy,Slice of Life,Iyashikei,Medieval,Age Regression,Succubus
+    genre.sync: Adventure,Fantasy,Slice of Life,Iyashikei,Medieval,Succubus
     studio: HORNETS
     seasons:
       1:
@@ -205,8 +225,8 @@ metadata:
           29-sai Dokushin Chuuken Boukensha no Nichijou
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
+        user_rating: 6.2
+    audience_rating: 6.2
     critic_rating: 6.6
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
@@ -1963,26 +1983,6 @@ metadata:
     critic_rating: 8.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  432723:
-    title: |-
-      3-nen Z-gumi Ginpachi-sensei
-    sort_title: |-
-      3-nen Z-gumi Ginpachi-sensei
-    original_title: |-
-      GINTAMA - Mr. Ginpachi's Zany Class
-    genre.sync: Comedy,School,Surreal Comedy,Parody
-    studio: Bandai Namco Pictures
-    seasons:
-      1:
-        title: |-
-          3-nen Z-gumi Ginpachi-sensei
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
-    critic_rating: 7.7
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   434127:
     title: |-
       Girls Band Cry
@@ -2762,8 +2762,8 @@ metadata:
           Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.4
-    audience_rating: 8.5
+        user_rating: 8.6
+    audience_rating: 8.6
     critic_rating: 8.6
     label: AA Winner,Planned,Watching
     label.remove: Airing,Ended,Dropped,Paused,Planning
@@ -4784,6 +4784,24 @@ metadata:
     critic_rating: 8.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  452801:
+    title: |-
+      Reincarnation no Kaben
+    sort_title: |-
+      Reincarnation no Kaben
+    original_title: |-
+      Petals of Reincarnation
+    genre.sync: Action,Supernatural,Reincarnation,Super Power,Male Protagonist
+    studio: BENTEN Film
+    seasons:
+      1:
+        title: |-
+          Reincarnation no Kaben
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   262090:
     title: |-
       Psycho-pass
@@ -5132,10 +5150,16 @@ metadata:
         label: Score,Completed,2025 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 5.9
-    audience_rating: -5.9
+      2:
+        title: |-
+          Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season
+        label: Score,Watching,2026 Spring
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.2
+    audience_rating: 6.1
     critic_rating: 6.2
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   469451:
     title: |-
       Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?
@@ -6986,7 +7010,7 @@ metadata:
       Watashi wo Tabetai, Hitodenashi
     original_title: |-
       This Monster Wants to Eat Me
-    genre.sync: Drama,Horror,Psychological,Romance,Supernatural,Monster Girl,Suicide,Female Protagonist,Youkai,Primarily Female Cast,Tragedy,Memory Manipulation,Orphan,Mermaid,Coastal,Yuri,Mythology,Rural,Seinen,LGBTQ+ Themes,Gore
+    genre.sync: Drama,Horror,Psychological,Romance,Supernatural,Monster Girl,Suicide,Female Protagonist,Youkai,Primarily Female Cast,Tragedy,Mermaid,Orphan,Memory Manipulation,Coastal,Yuri,Interspecies,Mythology,Rural,Seinen,LGBTQ+ Themes,Gore
     studio: Studio Lings
     seasons:
       1:
@@ -7347,10 +7371,16 @@ metadata:
         label: Score,Completed,2024 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.8
-    audience_rating: 23.3
-    critic_rating: 7.9
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+      4:
+        title: |-
+          Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.9
+    audience_rating: 7.8
+    critic_rating: 8.0
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   424019:
     title: |-
       Yozakura-san Chi no Daisakusen
