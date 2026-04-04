@@ -316,26 +316,6 @@ metadata:
     critic_rating: 7.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  469985:
-    title: |-
-      Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken
-    sort_title: |-
-      Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken
-    original_title: |-
-      Always a Catch!
-    genre.sync: Fantasy,Romance,Heterosexual,Royal Affairs,Shoujo
-    studio: TROYCA
-    seasons:
-      1:
-        title: |-
-          Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken
-        label: Score,2026 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 7.1
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   348706:
     title: |-
       Angolmois: Genkou Kassenki
@@ -1314,6 +1294,24 @@ metadata:
     critic_rating: 7.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  452711:
+    title: |-
+      Yomi no Tsugai
+    sort_title: |-
+      Yomi no Tsugai
+    original_title: |-
+      Daemons of the Shadow Realm
+    genre.sync: Action,Adventure,Comedy,Fantasy,Shounen,Youkai,Urban Fantasy,Rural
+    studio: bones film
+    seasons:
+      1:
+        title: |-
+          Yomi no Tsugai
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   432832:
     title: |-
       Dandadan
@@ -1566,10 +1564,16 @@ metadata:
         label: Score,Completed,2020 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.9
-    audience_rating: -7.9
-    critic_rating: 8.0
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+      2:
+        title: |-
+          Dorohedoro Season 2
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.8
+    audience_rating: 7.8
+    critic_rating: 8.1
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   354167:
     title: |-
       Dororo
@@ -1623,13 +1627,13 @@ metadata:
       4:
         title: |-
           Dr. STONE: SCIENCE FUTURE
-        label: Score,Completed,2025 Summer,2025 Winter
+        label: Score,Completed,2026 Spring,2025 Summer,2025 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.4
+        user_rating: 8.3
     audience_rating: 8.2
     critic_rating: 8.2
-    label: AA Winner,Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: AA Winner,Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   440820:
     title: |-
       Dragon Ball DAIMA
@@ -2704,9 +2708,16 @@ metadata:
         label: Score,Completed,2025 Summer
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.4
-    critic_rating: 6.4
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+      3:
+        title: |-
+          Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season
+        label: Score,Watching,2026 Spring
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.2
+    audience_rating: 6.3
+    critic_rating: 6.5
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   402474:
     title: |-
       Jigokuraku
@@ -3965,7 +3976,7 @@ metadata:
         label: Score,Completed,2022 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.8
-    audience_rating: 7.8
+    audience_rating: 23.5
     critic_rating: 7.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
@@ -4433,6 +4444,26 @@ metadata:
     critic_rating: 7.8
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
+  469985:
+    title: |-
+      Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken
+    sort_title: |-
+      Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken
+    original_title: |-
+      Always a Catch!
+    genre.sync: Fantasy,Romance,Heterosexual,Royal Affairs,Shoujo
+    studio: TROYCA
+    seasons:
+      1:
+        title: |-
+          Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 7.1
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   432455:
     title: |-
       Nige Jouzu no Wakagimi
@@ -6367,13 +6398,13 @@ metadata:
       4:
         title: |-
           Tensei Shitara Slime Datta Ken 4th Season
-        label: Score,2026 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    audience_rating: 11.9
-    critic_rating: 7.9
-    label: AA Winner,Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2026 Spring
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 8.1
+    audience_rating: 8.0
+    critic_rating: 8.1
+    label: AA Winner,Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   448537:
     title: |-
       Teogonia
