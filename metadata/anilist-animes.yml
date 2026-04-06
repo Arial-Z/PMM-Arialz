@@ -274,24 +274,24 @@ metadata:
     critic_rating: 7.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  462446:
+  466488:
     title: |-
-      Shunkashuutou Daikousha: Haru no Mai
+      Akane-banashi
     sort_title: |-
-      Shunkashuutou Daikousha: Haru no Mai
+      Akane-banashi
     original_title: |-
-      Agents of the Four Seasons: Dance of Spring
-    genre.sync: Drama,Fantasy,Romance,Urban Fantasy,Heterosexual,Rehabilitation,Ensemble Cast,Environmental,Mythology,Shoujo,Swordplay
-    studio: WIT STUDIO
+      Akane-banashi
+    genre.sync: Drama,Rakugo,Female Protagonist,Coming of Age,Acting,Revenge,Found Family
+    studio: ZEXCS
     seasons:
       1:
         title: |-
-          Shunkashuutou Daikousha: Haru no Mai
+          Akane-banashi
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
-    critic_rating: 7.8
+        user_rating: 7.7
+    audience_rating: 7.7
+    critic_rating: 8.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   455754:
@@ -1314,26 +1314,6 @@ metadata:
     critic_rating: 7.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  452711:
-    title: |-
-      Yomi no Tsugai
-    sort_title: |-
-      Yomi no Tsugai
-    original_title: |-
-      Daemons of the Shadow Realm
-    genre.sync: Action,Adventure,Comedy,Fantasy,Shounen,Youkai,Urban Fantasy,Rural
-    studio: bones film
-    seasons:
-      1:
-        title: |-
-          Yomi no Tsugai
-        label: Score,Watching,2026 Spring
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.6
-    critic_rating: 8.0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   432832:
     title: |-
       Dandadan
@@ -2522,13 +2502,13 @@ metadata:
       1:
         title: |-
           Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen
-        label: Score,Completed,2022 Spring,2020 Spring,2019 Fall
+        label: Score,Completed,2026 Spring,2022 Spring,2020 Spring,2019 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.9
-    audience_rating: 7.9
+        user_rating: 7.8
+    audience_rating: 7.8
     critic_rating: 8.1
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   388593:
     title: |-
       Horimiya
@@ -2704,10 +2684,15 @@ metadata:
         label: Score,Completed,2023 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.4
-    audience_rating: 7.4
+      2:
+        title: |-
+          Isekai Nonbiri Nouka 2
+        label: Score,Watching,2026 Spring
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
     critic_rating: 7.5
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   406592:
     title: |-
       Isekai Yakkyoku
@@ -2950,6 +2935,26 @@ metadata:
     critic_rating: 8.0
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  465799:
+    title: |-
+      Kami no Niwatsuki Kusunoki-tei 
+    sort_title: |-
+      Kami no Niwatsuki Kusunoki-tei 
+    original_title: |-
+      Kusunoki's Garden of Gods
+    genre.sync: Comedy,Fantasy,Slice of Life,Youkai,Gods
+    studio: JUVENAGE
+    seasons:
+      1:
+        title: |-
+          Kami no Niwatsuki Kusunoki-tei 
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 7.3
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   376729:
     title: |-
       Kami no Tou: Tower of God
@@ -3028,26 +3033,6 @@ metadata:
     critic_rating: 7.6
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
-  462598:
-    title: |-
-      Kanan-sama wa Akumade Choroi
-    sort_title: |-
-      Kanan-sama wa Akumade Choroi
-    original_title: |-
-      Mistress Kanan is Devilishly Easy
-    genre.sync: Comedy,Ecchi,Fantasy,Romance,Heterosexual,Tsundere,School,Male Protagonist,Female Protagonist,Demons,Slapstick
-    studio: Studio KAI
-    seasons:
-      1:
-        title: |-
-          Kanan-sama wa Akumade Choroi
-        label: Score,2026 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 7.3
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   454524:
     title: |-
       Kaoru Hana wa Rin to Saku
@@ -3368,26 +3353,6 @@ metadata:
     critic_rating: 8.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  470519:
-    title: |-
-      Mata Korosarete Shimatta no desu ne, Tantei-sama
-    sort_title: |-
-      Mata Korosarete Shimatta no desu ne, Tantei-sama
-    original_title: |-
-      Killed again, Mr. Detective.
-    genre.sync: Mystery,Psychological,Supernatural,Detective,Heterosexual
-    studio: LIDENFILMS
-    seasons:
-      1:
-        title: |-
-          Mata Korosarete Shimatta no desu ne, Tantei-sama
-        label: Score,2026 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
-    critic_rating: 6.8
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   348545:
     title: |-
       Kimetsu no Yaiba
@@ -3716,6 +3681,26 @@ metadata:
     critic_rating: 8.2
     label: Planned,Dropped
     label.remove: Airing,Ended,Watching,Paused,Planning
+  459627:
+    title: |-
+      Koori no Jouheki
+    sort_title: |-
+      Koori no Jouheki
+    original_title: |-
+      The Ramparts of Ice
+    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Ensemble Cast,Shoujo
+    studio: Studio KAI
+    seasons:
+      1:
+        title: |-
+          Koori no Jouheki
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.4
+    audience_rating: 7.4
+    critic_rating: 7.6
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   413515:
     title: |-
       Koukyuu no Karasu
@@ -3804,26 +3789,6 @@ metadata:
     critic_rating: 7.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  465799:
-    title: |-
-      Kami no Niwatsuki Kusunoki-tei 
-    sort_title: |-
-      Kami no Niwatsuki Kusunoki-tei 
-    original_title: |-
-      Kusunoki's Garden of Gods
-    genre.sync: Comedy,Fantasy,Slice of Life,Youkai,Gods
-    studio: JUVENAGE
-    seasons:
-      1:
-        title: |-
-          Kami no Niwatsuki Kusunoki-tei 
-        label: Score,2026 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
-    critic_rating: 7.3
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   431162:
     title: |-
       Kusuriya no Hitorigoto
@@ -3850,24 +3815,22 @@ metadata:
     critic_rating: 8.9
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  466488:
+  467209:
     title: |-
-      Akane-banashi
+      Liar Game
     sort_title: |-
-      Akane-banashi
+      Liar Game
     original_title: |-
-      Akane-banashi
-    genre.sync: Drama,Rakugo,Female Protagonist,Coming of Age,Acting,Revenge,Found Family
-    studio: ZEXCS
+      Liar Game
+    genre.sync: Drama,Psychological,Gambling,Seinen,Death Game
+    studio: MADHOUSE
     seasons:
       1:
         title: |-
-          Akane-banashi
+          Liar Game
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.7
-    audience_rating: 7.7
-    critic_rating: 8.1
+        user_rating: 0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   318161:
@@ -4121,13 +4084,13 @@ metadata:
       4:
         title: |-
           Mairimashita! Iruma-kun 4
-        label: Score,2026 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2026 Spring
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 7.9
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   371436:
     title: |-
       Majo no Tabitabi
@@ -4326,6 +4289,26 @@ metadata:
     critic_rating: 7.7
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  470519:
+    title: |-
+      Mata Korosarete Shimatta no desu ne, Tantei-sama
+    sort_title: |-
+      Mata Korosarete Shimatta no desu ne, Tantei-sama
+    original_title: |-
+      Killed again, Mr. Detective.
+    genre.sync: Mystery,Psychological,Supernatural,Detective,Heterosexual
+    studio: LIDENFILMS
+    seasons:
+      1:
+        title: |-
+          Mata Korosarete Shimatta no desu ne, Tantei-sama
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 6.8
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   433953:
     title: |-
       Medalist
@@ -4398,6 +4381,26 @@ metadata:
     critic_rating: 6.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  462598:
+    title: |-
+      Kanan-sama wa Akumade Choroi
+    sort_title: |-
+      Kanan-sama wa Akumade Choroi
+    original_title: |-
+      Mistress Kanan is Devilishly Easy
+    genre.sync: Comedy,Ecchi,Fantasy,Romance,Heterosexual,Tsundere,School,Male Protagonist,Female Protagonist,Demons,Slapstick
+    studio: Studio KAI
+    seasons:
+      1:
+        title: |-
+          Kanan-sama wa Akumade Choroi
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.3
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   307375:
     title: |-
       Mob Psycho 100
@@ -4672,6 +4675,26 @@ metadata:
     critic_rating: 7.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  452575:
+    title: |-
+      Niwatori Fighter
+    sort_title: |-
+      Niwatori Fighter
+    original_title: |-
+      Rooster Fighter
+    genre.sync: Action,Adventure,Comedy,Supernatural,Revenge,Parody,Animals,Kaiju,Male Protagonist,Super Power,Urban,Surreal Comedy,Demons,Seinen,CGI,Urban Fantasy,Body Horror
+    studio: SANZIGEN
+    seasons:
+      1:
+        title: |-
+          Niwatori Fighter
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 7.0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   275610:
     title: |-
       Noragami
@@ -5023,6 +5046,24 @@ metadata:
     critic_rating: 8.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  462400:
+    title: |-
+      Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi
+    sort_title: |-
+      Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi
+    original_title: |-
+      The Klutzy Class Monitor and the Girl with the Short Skirt
+    genre.sync: Comedy,Romance,Slice of Life,Urban,Iyashikei,Female Protagonist,Slapstick,School,Tsundere,Gyaru
+    studio: Zero-G
+    seasons:
+      1:
+        title: |-
+          Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   262090:
     title: |-
       Psycho-pass
@@ -5131,26 +5172,6 @@ metadata:
     critic_rating: 7.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  459627:
-    title: |-
-      Koori no Jouheki
-    sort_title: |-
-      Koori no Jouheki
-    original_title: |-
-      The Ramparts of Ice
-    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Ensemble Cast,Shoujo
-    studio: Studio KAI
-    seasons:
-      1:
-        title: |-
-          Koori no Jouheki
-        label: Score,2026 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.4
-    critic_rating: 7.6
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   451479:
     title: |-
       Ranma 1/2 (2024)
@@ -5293,26 +5314,6 @@ metadata:
     critic_rating: 7.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  452575:
-    title: |-
-      Niwatori Fighter
-    sort_title: |-
-      Niwatori Fighter
-    original_title: |-
-      Rooster Fighter
-    genre.sync: Action,Adventure,Comedy,Supernatural,Revenge,Parody,Animals,Kaiju,Male Protagonist,Super Power,Urban,Surreal Comedy,Demons,Seinen,CGI,Urban Fantasy,Body Horror
-    studio: SANZIGEN
-    seasons:
-      1:
-        title: |-
-          Niwatori Fighter
-        label: Score,2026 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 7.0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   413578:
     title: |-
       Rurouni Kenshin: Meiji Kenkaku Romantan (2023)
@@ -6069,6 +6070,26 @@ metadata:
     critic_rating: 8.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  462446:
+    title: |-
+      Shunkashuutou Daikousha: Haru no Mai
+    sort_title: |-
+      Shunkashuutou Daikousha: Haru no Mai
+    original_title: |-
+      Agents of the Four Seasons: Dance of Spring
+    genre.sync: Drama,Fantasy,Romance,Urban Fantasy,Heterosexual,Rehabilitation,Ensemble Cast,Environmental,Mythology,Shoujo,Swordplay
+    studio: WIT STUDIO
+    seasons:
+      1:
+        title: |-
+          Shunkashuutou Daikousha: Haru no Mai
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.5
+    audience_rating: 7.5
+    critic_rating: 7.8
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   426018:
     title: |-
       Shuumatsu Train Doko e Iku?
@@ -7356,6 +7377,24 @@ metadata:
     critic_rating: 7.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  418666:
+    title: |-
+      Tongari Boushi no Atelier
+    sort_title: |-
+      Tongari Boushi no Atelier
+    original_title: |-
+      Witch Hat Atelier
+    genre.sync: Adventure,Drama,Fantasy,Magic,Conspiracy,Witch,Drawing,Memory Manipulation,Primarily Female Cast,Female Protagonist,Coming of Age,Travel,Found Family,Rehabilitation,Medieval,Seinen,Primarily Child Cast,Philosophy,LGBTQ+ Themes,Disability
+    studio: BUG FILMS
+    seasons:
+      1:
+        title: |-
+          Tongari Boushi no Atelier
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   145211:
     title: |-
       Working!!
@@ -7608,6 +7647,26 @@ metadata:
     critic_rating: 8.1
     label: Ended,Watching
     label.remove: Planned,Airing,Dropped,Paused,Planning
+  452711:
+    title: |-
+      Yomi no Tsugai
+    sort_title: |-
+      Yomi no Tsugai
+    original_title: |-
+      Daemons of the Shadow Realm
+    genre.sync: Action,Adventure,Comedy,Fantasy,Shounen,Rural,Youkai,Male Protagonist,Urban Fantasy
+    studio: bones film
+    seasons:
+      1:
+        title: |-
+          Yomi no Tsugai
+        label: Score,Watching,2026 Spring
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.6
+    audience_rating: 7.6
+    critic_rating: 8.0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   432808:
     title: |-
       Yoru no Kurage wa Oyogenai
