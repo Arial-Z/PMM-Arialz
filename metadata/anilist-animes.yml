@@ -1195,6 +1195,26 @@ metadata:
     critic_rating: 8.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  440057:
+    title: |-
+      Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta
+    sort_title: |-
+      Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta
+    original_title: |-
+      I Made Friends with the Second Prettiest Girl in My Class
+    genre.sync: Comedy,Romance,Seinen,Otaku Culture,School,Primarily Teen Cast
+    studio: CONNECT
+    seasons:
+      1:
+        title: |-
+          Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.3
+    audience_rating: 7.3
+    critic_rating: 7.6
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   79995:
     title: |-
       Claymore
@@ -1367,7 +1387,7 @@ metadata:
       DARK MOON: Kuro no Tsuki - Tsuki no Saidan
     original_title: |-
       Dark Moon: The Blood Altar
-    genre.sync: Supernatural,Vampire,Female Protagonist,Male Harem,Super Power
+    genre.sync: Supernatural,Vampire,Female Protagonist,Ensemble Cast,Male Harem,Super Power,School,Werewolf
     studio: TROYCA
     seasons:
       1:
@@ -1774,24 +1794,6 @@ metadata:
     critic_rating: 7.8
     label: Ended,Watching
     label.remove: Planned,Airing,Dropped,Paused,Planning
-  460313:
-    title: |-
-      Replica Datte, Koi wo Suru.
-    sort_title: |-
-      Replica Datte, Koi wo Suru.
-    original_title: |-
-      Even a Replica Can Fall in Love
-    genre.sync: Drama,Romance,Supernatural,Clone,Heterosexual,Female Protagonist,School
-    studio: Voil
-    seasons:
-      1:
-        title: |-
-          Replica Datte, Koi wo Suru.
-        label: Score,2026 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   410031:
     title: |-
       Fairy Tail: 100 Years Quest
@@ -1968,6 +1970,24 @@ metadata:
     critic_rating: 6.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  468761:
+    title: |-
+      Otaku ni Yasashii Gal wa Inai!?
+    sort_title: |-
+      Otaku ni Yasashii Gal wa Inai!?
+    original_title: |-
+      Gals Can't Be Kind to Otaku!?
+    genre.sync: Comedy,Romance,Gyaru,Otaku Culture,Primarily Teen Cast
+    studio: TMS Entertainment
+    seasons:
+      1:
+        title: |-
+          Otaku ni Yasashii Gal wa Inai!?
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   279804:
     title: |-
       Gekkan Shoujo Nozaki-kun
@@ -2620,24 +2640,6 @@ metadata:
     critic_rating: 9.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  440057:
-    title: |-
-      Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta
-    sort_title: |-
-      Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta
-    original_title: |-
-      I Made Friends with the Second Prettiest Girl in My Class
-    genre.sync: Comedy,Romance,Seinen,Otaku Culture,School,Primarily Teen Cast
-    studio: CONNECT
-    seasons:
-      1:
-        title: |-
-          Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta
-        label: Score,2026 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   385278:
     title: |-
       Ijiranaide, Nagatoro-san
@@ -4317,7 +4319,9 @@ metadata:
           Marriagetoxin
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 7.3
+    audience_rating: 7.3
+    critic_rating: 7.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   397965:
@@ -4438,6 +4442,26 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  473229:
+    title: |-
+      Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de"
+    sort_title: |-
+      Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de"
+    original_title: |-
+      My Ribdiculous Reincarnation
+    genre.sync: Comedy,Fantasy,Surreal Comedy,Mixed Media,Isekai,Reincarnation,Gods,Male Protagonist
+    studio: S.o.K
+    seasons:
+      1:
+        title: |-
+          Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de"
+        label: Score,Watching,2026 Spring
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 5.6
+    audience_rating: 5.6
+    critic_rating: 6.2
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   461708:
     title: |-
       Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
@@ -4572,24 +4596,6 @@ metadata:
     critic_rating: 8.4
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  473229:
-    title: |-
-      Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de"
-    sort_title: |-
-      Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de"
-    original_title: |-
-      My Ribdiculous Reincarnation
-    genre.sync: Comedy,Fantasy,Surreal Comedy,Mixed Media,Isekai,Reincarnation,Gods,Male Protagonist
-    studio: S.o.K
-    seasons:
-      1:
-        title: |-
-          Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de"
-        label: Score,2026 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   446389:
     title: |-
       Nageki no Bourei wa Intai Shitai
@@ -5099,24 +5105,6 @@ metadata:
     critic_rating: 7.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  470864:
-    title: |-
-      Tadaima, Ojamasaremasu!
-    sort_title: |-
-      Tadaima, Ojamasaremasu!
-    original_title: |-
-      Pardon the Intrusion, I'm Home!
-    genre.sync: Comedy,Romance,Heterosexual,Shoujo
-    studio: Tatsunoko Production
-    seasons:
-      1:
-        title: |-
-          Tadaima, Ojamasaremasu!
-        label: Score,2026 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   412580:
     title: |-
       Paripi Koumei
@@ -5146,7 +5134,7 @@ metadata:
       Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi
     original_title: |-
       The Klutzy Class Monitor and the Girl with the Short Skirt
-    genre.sync: Comedy,Romance,Slice of Life,Urban,Iyashikei,Female Protagonist,Slapstick,School,Tsundere,Gyaru
+    genre.sync: Comedy,Romance,Slice of Life,Slapstick,School,Tsundere,Urban,Iyashikei,Female Protagonist,Gyaru,Heterosexual
     studio: Zero-G
     seasons:
       1:
@@ -5323,10 +5311,10 @@ metadata:
         label: Score,AA Winner,Completed,2024 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.4
-    audience_rating: 8.3
+    audience_rating: 24.9
     critic_rating: 8.3
-    label: AA Winner,Planned,Dropped
-    label.remove: Airing,Ended,Watching,Paused,Planning
+    label: AA Winner,Airing,Dropped
+    label.remove: Planned,Ended,Watching,Paused,Planning
   452801:
     title: |-
       Reincarnation no Kaben
@@ -5369,6 +5357,26 @@ metadata:
     critic_rating: 8.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  460313:
+    title: |-
+      Replica Datte, Koi wo Suru.
+    sort_title: |-
+      Replica Datte, Koi wo Suru.
+    original_title: |-
+      Even a Replica Can Fall in Love
+    genre.sync: Drama,Romance,Supernatural,Clone,Heterosexual,Female Protagonist,School
+    studio: Voil
+    seasons:
+      1:
+        title: |-
+          Replica Datte, Koi wo Suru.
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.8
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   452456:
     title: |-
       Rock wa Lady no Tashinami Deshite
@@ -6332,13 +6340,13 @@ metadata:
       2:
         title: |-
           Sousou no Frieren 2nd Season
-        label: Score,Watching,2026 Winter
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2026 Winter
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.8
     audience_rating: 8.9
     critic_rating: 9.1
-    label: AA Winner,Planned,Watching
-    label.remove: Airing,Ended,Dropped,Paused,Planning
+    label: AA Winner,Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   405920:
     title: |-
       Spy×family
@@ -6499,6 +6507,26 @@ metadata:
     critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  470864:
+    title: |-
+      Tadaima, Ojamasaremasu!
+    sort_title: |-
+      Tadaima, Ojamasaremasu!
+    original_title: |-
+      Pardon the Intrusion, I'm Home!
+    genre.sync: Comedy,Romance,Heterosexual,Shoujo
+    studio: Tatsunoko Production
+    seasons:
+      1:
+        title: |-
+          Tadaima, Ojamasaremasu!
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 5.9
+    audience_rating: 5.9
+    critic_rating: 6.6
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   305104:
     title: |-
       Tanaka-kun wa Itsumo Kedaruge
@@ -6990,19 +7018,19 @@ metadata:
       Tongari Boushi no Atelier
     original_title: |-
       Witch Hat Atelier
-    genre.sync: Adventure,Drama,Fantasy,Magic,Conspiracy,Witch,Drawing,Memory Manipulation,Primarily Female Cast,Female Protagonist,Coming of Age,Travel,Found Family,Rehabilitation,Medieval,Seinen,Primarily Child Cast,Philosophy,LGBTQ+ Themes,Disability
+    genre.sync: Adventure,Drama,Fantasy,Magic,Conspiracy,Witch,Drawing,Memory Manipulation,Female Protagonist,Primarily Female Cast,Coming of Age,Found Family,Travel,Medieval,Seinen,Philosophy,Primarily Child Cast,Rehabilitation,School,Disability,Teacher
     studio: BUG FILMS
     seasons:
       1:
         title: |-
           Tongari Boushi no Atelier
-        label: Score,2026 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2026 Spring
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.5
     audience_rating: 8.5
     critic_rating: 8.8
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   385077:
     title: |-
       Tonikaku Kawaii
