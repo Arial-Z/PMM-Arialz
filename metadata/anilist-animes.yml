@@ -128,7 +128,7 @@ metadata:
       The Mysterious Cities of Gold
     genre.sync: Adventure,Sci-Fi,Foreign,Historical,Outdoor Activities,Lost Civilization,Anachronism,Ships,Mythology
     studio: Studio Pierrot
-    audience_rating: 7.5
+    audience_rating: 7.4
     critic_rating: 7.8
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
@@ -223,13 +223,13 @@ metadata:
       1:
         title: |-
           29-sai Dokushin Chuuken Boukensha no Nichijou
-        label: Score,Watching,2026 Winter
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
+        label: Score,Completed,2026 Winter
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.3
+    audience_rating: 6.3
     critic_rating: 6.6
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   378609:
     title: |-
       86: Eighty Six
@@ -1046,13 +1046,13 @@ metadata:
       1:
         title: |-
           Champignon no Majo
-        label: Score,Watching,2026 Winter
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Dropped,2026 Winter
+        label.remove: Completed,Watching,Paused,Planning
         user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 6.8
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   461311:
     title: |-
       Chao Neng Lifang
@@ -1202,7 +1202,7 @@ metadata:
       Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta
     original_title: |-
       I Made Friends with the Second Prettiest Girl in My Class
-    genre.sync: Comedy,Romance,Seinen,Otaku Culture,School,Primarily Teen Cast
+    genre.sync: Comedy,Romance,School,Primarily Teen Cast,Seinen,Otaku Culture
     studio: CONNECT
     seasons:
       1:
@@ -1242,7 +1242,7 @@ metadata:
       Clevatess: Majuu no Ou to Akago to Kabane no Yuusha
     original_title: |-
       Clevatess
-    genre.sync: Action,Drama,Fantasy,Monster Boy,Medieval,Magic,Revenge,Swordplay,Parenthood,Tragedy,Primarily Adult Cast,Adoption,Demons,Tomboy,Female Protagonist,Dystopian,Orphan,Anti-Hero,Found Family,Gore,Shapeshifting,Body Horror,Slavery,War,Cosmic Horror
+    genre.sync: Action,Drama,Fantasy,Monster Boy,Tomboy,Female Protagonist,Medieval,Magic,Revenge,Orphan,Parenthood,Swordplay,Primarily Adult Cast,Tragedy,Dystopian,Anti-Hero,Adoption,Demons,Gore,Shapeshifting,Slavery,War,Found Family,Body Horror
     studio: Lay-duce
     seasons:
       1:
@@ -1609,13 +1609,13 @@ metadata:
       1:
         title: |-
           Dororo
-        label: Score,AA Winner,2019 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,AA Winner,Watching,2019 Winter
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.3
-    label: AA Winner,Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: AA Winner,Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   355774:
     title: |-
       Dr. STONE
@@ -1787,13 +1787,13 @@ metadata:
       3:
         title: |-
           Enen no Shouboutai: San no Shou
-        label: Score,Watching,2026 Winter,2025 Spring
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2026 Winter,2025 Spring
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.9
     audience_rating: 7.8
     critic_rating: 7.8
-    label: Ended,Watching
-    label.remove: Planned,Airing,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   410031:
     title: |-
       Fairy Tail: 100 Years Quest
@@ -1985,7 +1985,9 @@ metadata:
           Otaku ni Yasashii Gal wa Inai!?
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   279804:
@@ -2008,6 +2010,26 @@ metadata:
     critic_rating: 7.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  469599:
+    title: |-
+      Ghost Concert: missing Songs
+    sort_title: |-
+      Ghost Concert: missing Songs
+    original_title: |-
+      GHOST CONCERT : missing Songs
+    genre.sync: Action,Music,Supernatural,Female Protagonist,Super Power
+    studio: ENGI
+    seasons:
+      1:
+        title: |-
+          Ghost Concert: missing Songs
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 5.3
+    audience_rating: 5.3
+    critic_rating: 5.9
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   267246:
     title: |-
       Gin no Saji
@@ -2627,6 +2649,24 @@ metadata:
     critic_rating: 8.4
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  449883:
+    title: |-
+      Awajima Hyakkei
+    sort_title: |-
+      Awajima Hyakkei
+    original_title: |-
+      A Hundred Scenes of AWAJIMA
+    genre.sync: Drama,Music,Romance,Ensemble Cast,Episodic,Yuri,School,Primarily Female Cast
+    studio: MADHOUSE
+    seasons:
+      1:
+        title: |-
+          Awajima Hyakkei
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   252322:
     title: |-
       Hunter×hunter (2011)
@@ -2857,13 +2897,13 @@ metadata:
       3:
         title: |-
           Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen
-        label: Score,Watching,2026 Winter
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2026 Winter
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.6
     audience_rating: 8.6
     critic_rating: 8.6
-    label: AA Winner,Planned,Watching
-    label.remove: Airing,Ended,Dropped,Paused,Planning
+    label: AA Winner,Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   407520:
     title: |-
       Kage no Jitsuryokusha ni Naritakute!
@@ -3631,13 +3671,13 @@ metadata:
       1:
         title: |-
           Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru
-        label: Score,Watching,2026 Winter
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2026 Winter
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
     critic_rating: 6.7
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   318893:
     title: |-
       Kobayashi-san Chi no Maidragon
@@ -4231,13 +4271,13 @@ metadata:
       1:
         title: |-
           Majutsushi Kunon wa Mieteiru
-        label: Score,Watching,2026 Winter
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2026 Winter
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
     critic_rating: 6.6
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   465787:
     title: |-
       Mao
@@ -4311,7 +4351,7 @@ metadata:
       Marriagetoxin
     original_title: |-
       Marriagetoxin
-    genre.sync: Action,Comedy,Drama,Romance,Marriage,Crime,Urban,Surreal Comedy,Assassins,Crossdressing,Bisexual,Femboy,Super Power,LGBTQ+ Themes
+    genre.sync: Action,Comedy,Drama,Romance,Marriage,Crime,Crossdressing,Bisexual,Urban,Assassins,Surreal Comedy,Femboy,Super Power
     studio: bones
     seasons:
       1:
@@ -4449,7 +4489,7 @@ metadata:
       Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de"
     original_title: |-
       My Ribdiculous Reincarnation
-    genre.sync: Comedy,Fantasy,Surreal Comedy,Mixed Media,Isekai,Reincarnation,Gods,Male Protagonist
+    genre.sync: Comedy,Fantasy,Surreal Comedy,Mixed Media,Isekai,Reincarnation,Gods,Male Protagonist,Afterlife
     studio: S.o.K
     seasons:
       1:
@@ -4837,13 +4877,13 @@ metadata:
       1:
         title: |-
           Okiraku Ryoushu no Tanoshii Ryouchi Bouei
-        label: Score,Watching,2026 Winter
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2026 Winter
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 6.8
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   81797:
     title: |-
       One Piece
@@ -5311,8 +5351,14 @@ metadata:
         label: Score,AA Winner,Completed,2024 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.4
-    audience_rating: 24.9
-    critic_rating: 8.3
+      4:
+        title: |-
+          Re:Zero kara Hajimeru Isekai Seikatsu 4th Season
+        label: Score,AA Winner
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    audience_rating: 12.4
+    critic_rating: 8.4
     label: AA Winner,Airing,Dropped
     label.remove: Planned,Ended,Watching,Paused,Planning
   452801:
@@ -5364,7 +5410,7 @@ metadata:
       Replica Datte, Koi wo Suru.
     original_title: |-
       Even a Replica Can Fall in Love
-    genre.sync: Drama,Romance,Supernatural,Clone,Heterosexual,Female Protagonist,School
+    genre.sync: Drama,Romance,Supernatural,Female Protagonist,Clone,Heterosexual,School
     studio: Voil
     seasons:
       1:
@@ -5384,7 +5430,7 @@ metadata:
       Rock wa Lady no Tashinami Deshite
     original_title: |-
       Rock is a Lady’s Modesty
-    genre.sync: Drama,Music,Female Protagonist,Rock Music,Band,Ojou-sama,Primarily Female Cast,Primarily Teen Cast,LGBTQ+ Themes,School,CGI,Seinen,Urban,Yuri
+    genre.sync: Drama,Music,Female Protagonist,Rock Music,Band,Ojou-sama,Primarily Female Cast,Primarily Teen Cast,LGBTQ+ Themes,School,CGI,Seinen,Yuri,Urban
     studio: Bandai Namco Pictures
     seasons:
       1:
@@ -5540,8 +5586,8 @@ metadata:
           Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.1
+        user_rating: 5.8
+    audience_rating: 5.8
     critic_rating: 6.2
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
@@ -7094,13 +7140,13 @@ metadata:
       1:
         title: |-
           Toujima Tanzaburou wa Kamen Rider ni Naritai
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Dropped,2025 Fall
+        label.remove: Completed,Watching,Paused,Planning
         user_rating: 7.5
     audience_rating: 7.5
     critic_rating: 7.8
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   421378:
     title: |-
       Trigun Stampede
@@ -7476,6 +7522,24 @@ metadata:
     critic_rating: 8.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  455164:
+    title: |-
+      Hime Kishi wa Barbaroi no Yome
+    sort_title: |-
+      Hime Kishi wa Barbaroi no Yome
+    original_title: |-
+      The Warrior Princess and the Barbaric King
+    genre.sync: Comedy,Fantasy,Romance,Heterosexual,Shounen,Female Protagonist
+    studio: Jumondou
+    seasons:
+      1:
+        title: |-
+          Hime Kishi wa Barbaroi no Yome
+        label: Score,Watching,2026 Spring
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   455749:
     title: |-
       Watashi wo Tabetai, Hitodenashi
@@ -7483,7 +7547,7 @@ metadata:
       Watashi wo Tabetai, Hitodenashi
     original_title: |-
       This Monster Wants to Eat Me
-    genre.sync: Drama,Horror,Psychological,Romance,Supernatural,Monster Girl,Suicide,Female Protagonist,Youkai,Primarily Female Cast,Tragedy,Mermaid,Orphan,Memory Manipulation,Coastal,Yuri,Interspecies,Mythology,Rural,Seinen,LGBTQ+ Themes,Gore
+    genre.sync: Drama,Horror,Psychological,Romance,Supernatural,Monster Girl,Suicide,Female Protagonist,Youkai,Primarily Female Cast,Memory Manipulation,Tragedy,Mermaid,Orphan,Coastal,Yuri,Interspecies,Mythology,Rural,Seinen,LGBTQ+ Themes,Gore
     studio: Studio Lings
     seasons:
       1:
@@ -7869,7 +7933,7 @@ metadata:
           Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.9
+        user_rating: 8.0
     audience_rating: 7.8
     critic_rating: 8.0
     label: Airing,Completed
@@ -7963,13 +8027,13 @@ metadata:
       1:
         title: |-
           Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku
-        label: Score,Watching,2026 Winter
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2026 Winter
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.2
-    label: Planned,Watching
-    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   461513:
     title: |-
       Yuusha no Kuzu
@@ -8003,13 +8067,13 @@ metadata:
       1:
         title: |-
           Yuusha Party wo Oidasareta Kiyou Binbou
-        label: Score,Watching,2026 Winter
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2026 Winter
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.7
     audience_rating: 6.7
     critic_rating: 6.7
-    label: Planned,Watching
-    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   447955:
     title: |-
       Zenshuu.
