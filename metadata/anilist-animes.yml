@@ -561,7 +561,7 @@ metadata:
       Awajima Hyakkei
     original_title: |-
       A Hundred Scenes of AWAJIMA
-    genre.sync: Drama,Music,Romance,Ensemble Cast,Episodic,Yuri,School,Primarily Female Cast
+    genre.sync: Drama,Music,Romance,Ensemble Cast,Primarily Female Cast,Episodic,School,Boarding School,Josei
     studio: MADHOUSE
     seasons:
       1:
@@ -975,24 +975,6 @@ metadata:
     critic_rating: 8.0
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  461374:
-    title: |-
-      Kamiina Botan, Yoeru Sugata wa Yuri no Hana
-    sort_title: |-
-      Kamiina Botan, Yoeru Sugata wa Yuri no Hana
-    original_title: |-
-      Botan Kamiina Fully Blossoms When Drunk
-    genre.sync: Comedy,Romance,Slice of Life,Yuri,Female Protagonist,Primarily Female Cast,Primarily Adult Cast,Cute Girls Doing Cute Things,College,Bar,LGBTQ+ Themes,Travel,Seinen,Food,Ensemble Cast,Iyashikei
-    studio: Soigne
-    seasons:
-      1:
-        title: |-
-          Kamiina Botan, Yoeru Sugata wa Yuri no Hana
-        label: Score,2026 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   426294:
     title: |-
       Buddy Daddies
@@ -1635,9 +1617,9 @@ metadata:
           Dorohedoro Season 2
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.8
-    critic_rating: 8.1
+        user_rating: 7.9
+    audience_rating: 7.9
+    critic_rating: 8.2
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   354167:
@@ -1720,24 +1702,6 @@ metadata:
     critic_rating: 7.6
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  470659:
-    title: |-
-      Kami no Shizuku
-    sort_title: |-
-      Kami no Shizuku
-    original_title: |-
-      The Drops of God
-    genre.sync: Drama,Mystery,Slice of Life
-    studio: Satelight
-    seasons:
-      1:
-        title: |-
-          Kami no Shizuku
-        label: Score,2026 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   423257:
     title: |-
       Dungeon Meshi
@@ -1856,6 +1820,26 @@ metadata:
     critic_rating: 7.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  468660:
+    title: |-
+      Hidarikiki no Eren
+    sort_title: |-
+      Hidarikiki no Eren
+    original_title: |-
+      Eren the Southpaw
+    genre.sync: Drama
+    studio: Signal.MD
+    seasons:
+      1:
+        title: |-
+          Hidarikiki no Eren
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 5.6
+    audience_rating: 5.6
+    critic_rating: 6.6
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   410031:
     title: |-
       Fairy Tail: 100 Years Quest
@@ -2724,6 +2708,24 @@ metadata:
     critic_rating: 9.0
     label: Ended,Watching
     label.remove: Planned,Airing,Dropped,Paused,Planning
+  465639:
+    title: |-
+      Ichijouma Mankitsu Gurashi!
+    sort_title: |-
+      Ichijouma Mankitsu Gurashi!
+    original_title: |-
+      Ichijyoma Mankitsu Gurashi!
+    genre.sync: Comedy,Ecchi,Slice of Life,Cute Girls Doing Cute Things,Primarily Teen Cast,Female Protagonist,Primarily Female Cast,Work,Urban,Restaurant
+    studio: PRA
+    seasons:
+      1:
+        title: |-
+          Ichijouma Mankitsu Gurashi!
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   385278:
     title: |-
       Ijiranaide, Nagatoro-san
@@ -2863,7 +2865,7 @@ metadata:
           Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.2
+        user_rating: 6.3
     audience_rating: 6.3
     critic_rating: 6.5
     label: Airing,Watching
@@ -3078,6 +3080,26 @@ metadata:
     critic_rating: 7.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+  470659:
+    title: |-
+      Kami no Shizuku
+    sort_title: |-
+      Kami no Shizuku
+    original_title: |-
+      The Drops of God
+    genre.sync: Drama,Mystery,Slice of Life
+    studio: Satelight
+    seasons:
+      1:
+        title: |-
+          Kami no Shizuku
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 5.1
+    audience_rating: 5.1
+    critic_rating: 6.3
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   376729:
     title: |-
       Kami no Tou: Tower of God
@@ -3104,6 +3126,26 @@ metadata:
     critic_rating: 7.2
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  461374:
+    title: |-
+      Kamiina Botan, Yoeru Sugata wa Yuri no Hana
+    sort_title: |-
+      Kamiina Botan, Yoeru Sugata wa Yuri no Hana
+    original_title: |-
+      Botan Kamiina Fully Blossoms When Drunk
+    genre.sync: Comedy,Romance,Slice of Life,Yuri,Female Protagonist,Primarily Female Cast,Primarily Adult Cast,Cute Girls Doing Cute Things,College,Bar,LGBTQ+ Themes,Travel,Seinen,Food,Ensemble Cast,Iyashikei
+    studio: Soigne
+    seasons:
+      1:
+        title: |-
+          Kamiina Botan, Yoeru Sugata wa Yuri no Hana
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.0
+    audience_rating: 7.0
+    critic_rating: 7.5
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   380477:
     title: |-
       Kamitachi ni Hirowareta Otoko
@@ -3474,6 +3516,24 @@ metadata:
     critic_rating: 7.1
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  467414:
+    title: |-
+      Kill Ao
+    sort_title: |-
+      Kill Ao
+    original_title: |-
+      Kill Blue
+    genre.sync: Action,Comedy,Age Regression,Guns,School,School Club,Ensemble Cast,Dissociative Identities,Fake Relationship,Crime,Assassins
+    studio: CUE
+    seasons:
+      1:
+        title: |-
+          Kill Ao
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   272074:
     title: |-
       Kill la Kill
@@ -3886,6 +3946,26 @@ metadata:
     critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  449913:
+    title: |-
+      Kujima Utaeba Ie Hororo
+    sort_title: |-
+      Kujima Utaeba Ie Hororo
+    original_title: |-
+      Kujima: Why Sing, When You Can Warble?
+    genre.sync: Comedy,Fantasy,Slice of Life,Surreal Comedy
+    studio: Studio Hibari
+    seasons:
+      1:
+        title: |-
+          Kujima Utaeba Ie Hororo
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 5.2
+    audience_rating: 5.2
+    critic_rating: 6.3
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   83996:
     title: |-
       Kuroshitsuji
@@ -6904,7 +6984,7 @@ metadata:
           Tensei Shitara Slime Datta Ken 4th Season
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.1
+        user_rating: 8.0
     audience_rating: 8.0
     critic_rating: 8.1
     label: AA Winner,Airing,Watching
@@ -7856,8 +7936,8 @@ metadata:
         user_rating: 0
     audience_rating: 6.6
     critic_rating: 7.0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   412374:
     title: |-
       Yofukashi no Uta
@@ -7984,6 +8064,24 @@ metadata:
     critic_rating: 8.0
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+  457471:
+    title: |-
+      Yowa Yowa Sensei
+    sort_title: |-
+      Yowa Yowa Sensei
+    original_title: |-
+      Yowayowa Sensei
+    genre.sync: Comedy,Ecchi,Romance,Heterosexual
+    studio: Brain's Base
+    seasons:
+      1:
+        title: |-
+          Yowa Yowa Sensei
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   424019:
     title: |-
       Yozakura-san Chi no Daisakusen
