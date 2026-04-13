@@ -2710,12 +2710,12 @@ metadata:
     label.remove: Planned,Airing,Dropped,Paused,Planning
   465639:
     title: |-
-      Ichijouma Mankitsu Gurashi!
+      Ichijouma Mankitsu-gurashi!
     sort_title: |-
-      Ichijouma Mankitsu Gurashi!
+      Ichijouma Mankitsu-gurashi!
     original_title: |-
       Ichijyoma Mankitsu Gurashi!
-    genre.sync: Comedy,Ecchi,Slice of Life,Cute Girls Doing Cute Things,Primarily Teen Cast,Female Protagonist,Primarily Female Cast,Work,Urban,Restaurant
+    genre.sync: Comedy,Ecchi,Slice of Life,Cute Girls Doing Cute Things,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Work,Urban,Restaurant,Yuri
     studio: PRA
     seasons:
       1:
@@ -3985,7 +3985,9 @@ metadata:
           Kuroneko to Majo no Kyoushitsu
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.9
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   83996:
@@ -4060,6 +4062,26 @@ metadata:
     critic_rating: 8.9
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  473228:
+    title: |-
+      Nippon Sangoku
+    sort_title: |-
+      Nippon Sangoku
+    original_title: |-
+      NIPPON SANGOKU: The Three Nations of the Crimson Sun
+    genre.sync: Action,Drama,Sci-Fi,War,Post-Apocalyptic,Dystopian,Male Protagonist,Class Struggle
+    studio: Studio Kafka
+    seasons:
+      1:
+        title: |-
+          Nippon Sangoku
+        label: Score,Watching,2026 Spring
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.9
+    audience_rating: 7.9
+    critic_rating: 8.4
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   467209:
     title: |-
       Liar Game
@@ -4754,6 +4776,32 @@ metadata:
     critic_rating: 7.7
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  426528:
+    title: |-
+      Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
+    sort_title: |-
+      Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
+    original_title: |-
+      The Most Heretical Last Boss Queen: From Villainess to Savior
+    genre.sync: Comedy,Fantasy,Romance,Female Protagonist,Super Power,Ojou-sama,Villainess,Family Life,Reincarnation,Time Skip,Swordplay,Magic,Isekai,Male Harem,Found Family,Royal Affairs,Historical,Ensemble Cast,Medieval,Heterosexual
+    studio: OLM
+    seasons:
+      1:
+        title: |-
+          Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
+        label: Score,Completed,2023 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.9
+      2:
+        title: |-
+          Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2
+        label: Score,Watching,2026 Spring
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 7.2
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -5520,10 +5568,10 @@ metadata:
       4:
         title: |-
           Re:Zero kara Hajimeru Isekai Seikatsu 4th Season
-        label: Score,AA Winner
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    audience_rating: 12.4
+        label: Score,Completed,2026 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 8.5
+    audience_rating: 8.4
     critic_rating: 8.4
     label: AA Winner,Airing,Dropped
     label.remove: Planned,Ended,Watching,Paused,Planning
@@ -7362,7 +7410,7 @@ metadata:
           Tsue to Tsurugi no Wistoria Season 2
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 7.7
     audience_rating: 7.8
     critic_rating: 7.8
     label: Airing,Watching
@@ -8099,7 +8147,7 @@ metadata:
       Yowa Yowa Sensei
     original_title: |-
       Yowayowa Sensei
-    genre.sync: Comedy,Ecchi,Romance,Heterosexual
+    genre.sync: Comedy,Ecchi,Romance,Heterosexual,Shounen,Teacher,Female Harem,Nudity
     studio: Brain's Base
     seasons:
       1:
@@ -8133,8 +8181,8 @@ metadata:
           Yozakura-san Chi no Daisakusen 2nd Season
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    audience_rating: 7.4
+        user_rating: 6.9
+    audience_rating: 7.2
     critic_rating: 7.6
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
