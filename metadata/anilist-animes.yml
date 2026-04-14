@@ -1629,7 +1629,7 @@ metadata:
       Dororo
     original_title: |-
       Dororo
-    genre.sync: Action,Adventure,Drama,Supernatural,Demons,Revenge,Disability,Swordplay,Tragedy,Samurai,Youkai,Estranged Family,Orphan,Anti-Hero,Parenthood,War,Curses,Male Protagonist,Historical,Travel,Rural,Urban Fantasy,Gore,Episodic,Philosophy,Crossdressing,Female Protagonist,Body Horror,Tomboy
+    genre.sync: Action,Adventure,Drama,Supernatural,Demons,Revenge,Disability,Swordplay,Tragedy,Samurai,Youkai,Estranged Family,Orphan,Anti-Hero,Parenthood,War,Curses,Male Protagonist,Historical,Travel,Rural,Urban Fantasy,Gore,Philosophy,Crossdressing,Female Protagonist,Episodic,Body Horror,Tomboy
     studio: MAPPA
     seasons:
       1:
@@ -2503,6 +2503,32 @@ metadata:
     critic_rating: 6.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+  426528:
+    title: |-
+      Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
+    sort_title: |-
+      Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
+    original_title: |-
+      The Most Heretical Last Boss Queen: From Villainess to Savior
+    genre.sync: Comedy,Fantasy,Romance,Female Protagonist,Super Power,Ojou-sama,Villainess,Family Life,Reincarnation,Time Skip,Swordplay,Magic,Isekai,Male Harem,Found Family,Royal Affairs,Historical,Ensemble Cast,Medieval,Heterosexual
+    studio: OLM
+    seasons:
+      1:
+        title: |-
+          Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
+        label: Score,Completed,2023 Summer
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 6.9
+      2:
+        title: |-
+          Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2
+        label: Score,Watching,2026 Spring
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 7.2
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   306743:
     title: |-
       High School Fleet
@@ -2708,6 +2734,24 @@ metadata:
     critic_rating: 9.0
     label: Ended,Watching
     label.remove: Planned,Airing,Dropped,Paused,Planning
+  464717:
+    title: |-
+      Aishiteru Game wo Owarasetai
+    sort_title: |-
+      Aishiteru Game wo Owarasetai
+    original_title: |-
+      I Want to End this Love Game
+    genre.sync: Comedy,Romance,Female Protagonist,Male Protagonist,Heterosexual,CGI
+    studio: Felix Film
+    seasons:
+      1:
+        title: |-
+          Aishiteru Game wo Owarasetai
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   465639:
     title: |-
       Ichijouma Mankitsu-gurashi!
@@ -3726,26 +3770,6 @@ metadata:
     critic_rating: 8.5
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  456679:
-    title: |-
-      Kirio Fanclub
-    sort_title: |-
-      Kirio Fanclub
-    original_title: |-
-      Kirio Fan Club
-    genre.sync: Comedy,Romance,Slice of Life,Female Protagonist,Primarily Teen Cast,Unrequited Love
-    studio: Satelight
-    seasons:
-      1:
-        title: |-
-          Kirio Fanclub
-        label: Score,2026 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.7
-    audience_rating: 5.7
-    critic_rating: 6.2
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   279831:
     title: |-
       Kiseijuu: Sei no Kakuritsu
@@ -3977,7 +4001,7 @@ metadata:
       Kuroneko to Majo no Kyoushitsu
     original_title: |-
       The Classroom of the Black Cat and a Witch
-    genre.sync: Fantasy,Female Protagonist,Animals,Heterosexual,Magic
+    genre.sync: Fantasy,Female Protagonist,Animals,Magic,Heterosexual,Curses,Witch
     studio: LIDENFILMS
     seasons:
       1:
@@ -4062,26 +4086,6 @@ metadata:
     critic_rating: 8.9
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  473228:
-    title: |-
-      Nippon Sangoku
-    sort_title: |-
-      Nippon Sangoku
-    original_title: |-
-      NIPPON SANGOKU: The Three Nations of the Crimson Sun
-    genre.sync: Action,Drama,Sci-Fi,War,Post-Apocalyptic,Dystopian,Male Protagonist,Class Struggle
-    studio: Studio Kafka
-    seasons:
-      1:
-        title: |-
-          Nippon Sangoku
-        label: Score,Watching,2026 Spring
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.9
-    audience_rating: 7.9
-    critic_rating: 8.4
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   467209:
     title: |-
       Liar Game
@@ -4097,9 +4101,9 @@ metadata:
           Liar Game
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
-    critic_rating: 7.1
+        user_rating: 6.4
+    audience_rating: 6.4
+    critic_rating: 6.9
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   318161:
@@ -4776,32 +4780,6 @@ metadata:
     critic_rating: 7.7
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  426528:
-    title: |-
-      Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
-    sort_title: |-
-      Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
-    original_title: |-
-      The Most Heretical Last Boss Queen: From Villainess to Savior
-    genre.sync: Comedy,Fantasy,Romance,Female Protagonist,Super Power,Ojou-sama,Villainess,Family Life,Reincarnation,Time Skip,Swordplay,Magic,Isekai,Male Harem,Found Family,Royal Affairs,Historical,Ensemble Cast,Medieval,Heterosexual
-    studio: OLM
-    seasons:
-      1:
-        title: |-
-          Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
-        label: Score,Completed,2023 Summer
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.9
-      2:
-        title: |-
-          Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2
-        label: Score,Watching,2026 Spring
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
-    critic_rating: 7.2
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -4990,6 +4968,26 @@ metadata:
     critic_rating: 7.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  473228:
+    title: |-
+      Nippon Sangoku
+    sort_title: |-
+      Nippon Sangoku
+    original_title: |-
+      NIPPON SANGOKU: The Three Nations of the Crimson Sun
+    genre.sync: Action,Drama,Sci-Fi,War,Post-Apocalyptic,Dystopian,Male Protagonist,Class Struggle
+    studio: Studio Kafka
+    seasons:
+      1:
+        title: |-
+          Nippon Sangoku
+        label: Score,Watching,2026 Spring
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.9
+    audience_rating: 7.9
+    critic_rating: 8.4
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   452575:
     title: |-
       Niwatori Fighter
@@ -5388,7 +5386,7 @@ metadata:
       Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi
     original_title: |-
       The Klutzy Class Monitor and the Girl with the Short Skirt
-    genre.sync: Comedy,Romance,Slice of Life,Slapstick,School,Tsundere,Urban,Iyashikei,Female Protagonist,Gyaru,Heterosexual
+    genre.sync: Comedy,Romance,Slice of Life,Slapstick,Tsundere,School,Urban,Iyashikei,Female Protagonist,Heterosexual,Male Protagonist,Gyaru
     studio: Zero-G
     seasons:
       1:
@@ -5396,8 +5394,8 @@ metadata:
           Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
+        user_rating: 7.2
+    audience_rating: 7.2
     critic_rating: 7.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -5954,7 +5952,7 @@ metadata:
       Seihantai na Kimi to Boku
     original_title: |-
       You and I Are Polar Opposites
-    genre.sync: Comedy,Drama,Romance,Slice of Life,Heterosexual,School,Coming of Age,Iyashikei,Primarily Teen Cast,Female Protagonist,Urban,Gyaru,Kuudere
+    genre.sync: Comedy,Drama,Romance,Slice of Life,Heterosexual,School,Coming of Age,Iyashikei,Primarily Teen Cast,Ensemble Cast,Gyaru,Urban,Kuudere
     studio: Lapin Track
     seasons:
       1:
@@ -7278,7 +7276,7 @@ metadata:
       Tongari Boushi no Atelier
     original_title: |-
       Witch Hat Atelier
-    genre.sync: Adventure,Drama,Fantasy,Magic,Conspiracy,Witch,Drawing,Memory Manipulation,Female Protagonist,Primarily Female Cast,Coming of Age,Found Family,Travel,Medieval,Seinen,Philosophy,Primarily Child Cast,Rehabilitation,School,Disability,Teacher
+    genre.sync: Adventure,Drama,Fantasy,Magic,Conspiracy,Witch,Memory Manipulation,Drawing,Primarily Female Cast,Female Protagonist,Coming of Age,Found Family,Travel,Philosophy,Medieval,Seinen,Primarily Child Cast,Teacher,Rehabilitation
     studio: BUG FILMS
     seasons:
       1:
@@ -7286,9 +7284,9 @@ metadata:
           Tongari Boushi no Atelier
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.5
-    audience_rating: 8.5
-    critic_rating: 8.8
+        user_rating: 8.6
+    audience_rating: 8.6
+    critic_rating: 8.7
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   385077:
@@ -8012,8 +8010,8 @@ metadata:
         user_rating: 0
     audience_rating: 6.6
     critic_rating: 7.0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   412374:
     title: |-
       Yofukashi no Uta
@@ -8179,13 +8177,13 @@ metadata:
       2:
         title: |-
           Yozakura-san Chi no Daisakusen 2nd Season
-        label: Score,2026 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2026 Spring
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.9
     audience_rating: 7.2
     critic_rating: 7.6
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   330692:
     title: |-
       Yuru Camp△
