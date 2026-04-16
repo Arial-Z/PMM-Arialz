@@ -128,7 +128,7 @@ metadata:
       The Mysterious Cities of Gold
     genre.sync: Adventure,Sci-Fi,Foreign,Historical,Outdoor Activities,Lost Civilization,Anachronism,Ships,Mythology
     studio: Studio Pierrot
-    audience_rating: 7.4
+    audience_rating: 7.5
     critic_rating: 7.8
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
@@ -281,7 +281,7 @@ metadata:
       Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!
     original_title: |-
       Pass the Monster Meat, Milady!
-    genre.sync: Fantasy,Romance,Food,Shoujo,Female Protagonist,Marriage,Magic,Heterosexual,Royal Affairs
+    genre.sync: Fantasy,Romance,Food,Shoujo,Female Protagonist,Marriage,Magic,Royal Affairs
     studio: Asahi Production
     seasons:
       1:
@@ -1327,7 +1327,7 @@ metadata:
       Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)
     original_title: |-
       Can a Boy-Girl Friendship Survive?
-    genre.sync: Comedy,Romance,Love Triangle,Heterosexual,School,Male Protagonist,Horticulture,Unrequited Love,Coming of Age,Female Protagonist,Work,Primarily Teen Cast,Fashion
+    genre.sync: Comedy,Romance,Love Triangle,Heterosexual,School,Male Protagonist,Horticulture,Unrequited Love,Work,Female Protagonist,Fashion,Primarily Teen Cast,Coming of Age
     studio: J.C.STAFF
     seasons:
       1:
@@ -1993,8 +1993,8 @@ metadata:
     studio: Sunrise
     audience_rating: 8.5
     critic_rating: 8.9
-    label: Ended,Watching
-    label.remove: Planned,Airing,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   434127:
     title: |-
       Girls Band Cry
@@ -2120,8 +2120,8 @@ metadata:
       1:
         title: |-
           Grand Blue
-        label: Score,2018 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Completed,2018 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.2
       2:
         title: |-
@@ -2132,7 +2132,7 @@ metadata:
     audience_rating: 8.2
     critic_rating: 8.4
     label: Planned,Watching
-    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
+    label.remove: Airing,Ended,Dropped,Paused,Planning
   376144:
     title: |-
       Great Pretender
@@ -2632,8 +2632,8 @@ metadata:
     studio: MADHOUSE
     audience_rating: 8.9
     critic_rating: 9.0
-    label: Ended,Watching
-    label.remove: Planned,Airing,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   385278:
     title: |-
       Ijiranaide, Nagatoro-san
@@ -5500,9 +5500,9 @@ metadata:
           Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.8
+        user_rating: 5.6
     audience_rating: 5.8
-    critic_rating: 6.2
+    critic_rating: 6.1
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   469451:
@@ -5602,7 +5602,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.5
     audience_rating: 7.5
-    critic_rating: 7.5
+    critic_rating: 7.4
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   257518:
@@ -7815,7 +7815,7 @@ metadata:
           Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.0
+        user_rating: 7.9
     audience_rating: 7.8
     critic_rating: 8.0
     label: Airing,Completed
