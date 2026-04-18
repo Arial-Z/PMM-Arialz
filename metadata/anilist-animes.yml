@@ -2471,26 +2471,6 @@ metadata:
     critic_rating: 8.0
     label: Planned
     label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
-  455164:
-    title: |-
-      Hime Kishi wa Barbaroi no Yome
-    sort_title: |-
-      Hime Kishi wa Barbaroi no Yome
-    original_title: |-
-      The Warrior Princess and the Barbaric King
-    genre.sync: Comedy,Fantasy,Romance,Female Protagonist,Heterosexual,Shounen
-    studio: Jumondou
-    seasons:
-      1:
-        title: |-
-          Hime Kishi wa Barbaroi no Yome
-        label: Score,Watching,2026 Spring
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 6.9
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   293121:
     title: |-
       Himouto! Umaru-chan
@@ -3791,9 +3771,9 @@ metadata:
           Kujima Utaeba Ie Hororo
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.2
-    audience_rating: 5.2
-    critic_rating: 6.3
+        user_rating: 5.4
+    audience_rating: 5.4
+    critic_rating: 6.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   466524:
