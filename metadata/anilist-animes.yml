@@ -1883,7 +1883,7 @@ metadata:
       Fuufu Ijou, Koibito Miman.
     original_title: |-
       More than a Married Couple, but Not Lovers.
-    genre.sync: Comedy,Drama,Ecchi,Romance,Love Triangle,Male Protagonist,Heterosexual,Primarily Teen Cast,Gyaru,Tsundere,School,Fake Relationship,Cohabitation,Nudity,Coming of Age
+    genre.sync: Comedy,Drama,Ecchi,Romance,Love Triangle,Heterosexual,Male Protagonist,Primarily Teen Cast,Gyaru,Tsundere,School,Fake Relationship,Cohabitation,Nudity,Achronological Order
     studio: studio MOTHER
     seasons:
       1:
@@ -2258,8 +2258,8 @@ metadata:
           Haibara-kun no Tsuyokute Seishun New Game
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
+        user_rating: 6.3
+    audience_rating: 6.3
     critic_rating: 6.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -2963,8 +2963,8 @@ metadata:
           Kami no Niwatsuki Kusunoki-tei 
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 7.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -3351,7 +3351,7 @@ metadata:
       Kill Ao
     original_title: |-
       Kill Blue
-    genre.sync: Action,Comedy,Age Regression,Guns,School,School Club,Ensemble Cast,Dissociative Identities,Fake Relationship,Crime,Assassins
+    genre.sync: Action,Comedy,Age Regression,Assassins,Guns,School,School Club,Ensemble Cast,Dissociative Identities,Fake Relationship,Crime
     studio: CUE
     seasons:
       1:
@@ -3359,9 +3359,9 @@ metadata:
           Kill Ao
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 7.2
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   272074:
@@ -3701,7 +3701,7 @@ metadata:
       Koori no Jouheki
     original_title: |-
       The Ramparts of Ice
-    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Ensemble Cast,Shoujo,Female Protagonist
+    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Ensemble Cast,Female Protagonist,Shoujo
     studio: Studio KAI
     seasons:
       1:
@@ -3709,8 +3709,8 @@ metadata:
           Koori no Jouheki
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
+        user_rating: 7.6
+    audience_rating: 7.6
     critic_rating: 7.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -4311,13 +4311,13 @@ metadata:
       1:
         title: |-
           Marriagetoxin
-        label: Score,2026 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2026 Spring
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.4
     audience_rating: 7.4
     critic_rating: 7.6
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   397965:
     title: |-
       Mashiro no Oto
@@ -4717,7 +4717,7 @@ metadata:
       Niwatori Fighter
     original_title: |-
       Rooster Fighter
-    genre.sync: Action,Adventure,Comedy,Supernatural,Revenge,Parody,Animals,Kaiju,Urban Fantasy,Male Protagonist,Super Power,Urban,Surreal Comedy,Demons,Seinen,CGI,Body Horror,Netorare
+    genre.sync: Action,Adventure,Comedy,Supernatural,Male Protagonist,Urban,Revenge,Parody,Animals,Kaiju,Urban Fantasy,Demons,Seinen,Super Power,CGI,Surreal Comedy,Body Horror,Netorare
     studio: SANZIGEN
     seasons:
       1:
@@ -4725,8 +4725,8 @@ metadata:
           Niwatori Fighter
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
+        user_rating: 6.4
+    audience_rating: 6.4
     critic_rating: 6.9
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -6142,7 +6142,7 @@ metadata:
       Silent Witch: Chinmoku no Majo no Kakushigoto
     original_title: |-
       Secrets of the Silent Witch
-    genre.sync: Adventure,Fantasy,Female Protagonist,Magic,School,Witch,Primarily Teen Cast,Royal Affairs,Hikikomori,Coming of Age,Politics,Ojou-sama,Shapeshifting,Class Struggle
+    genre.sync: Adventure,Fantasy,Female Protagonist,Magic,School,Witch,Primarily Teen Cast,Royal Affairs,Hikikomori,Coming of Age,Politics,Ojou-sama,Class Struggle,Disability
     studio: Studio Gokumi
     seasons:
       1:
@@ -6190,8 +6190,8 @@ metadata:
           Snowball Earth
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
+        user_rating: 6.0
+    audience_rating: 6.0
     critic_rating: 6.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -7070,7 +7070,7 @@ metadata:
           Tsue to Tsurugi no Wistoria Season 2
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.7
+        user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 7.8
     label: Airing,Watching
@@ -7195,8 +7195,8 @@ metadata:
           Yamato yo Towa ni: REBEL3199
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.8
-    audience_rating: 7.1
+        user_rating: 5.9
+    audience_rating: 7.2
     critic_rating: 7.8
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
@@ -7707,7 +7707,7 @@ metadata:
       Yomi no Tsugai
     original_title: |-
       Daemons of the Shadow Realm
-    genre.sync: Action,Adventure,Comedy,Fantasy,Male Protagonist,Rural,Shounen,Youkai,Anachronism
+    genre.sync: Action,Adventure,Comedy,Fantasy,Male Protagonist,Shounen,Youkai,Anachronism,Rural
     studio: bones film
     seasons:
       1:
@@ -7715,8 +7715,8 @@ metadata:
           Yomi no Tsugai
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.7
-    audience_rating: 7.7
+        user_rating: 7.8
+    audience_rating: 7.8
     critic_rating: 8.1
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -7821,8 +7821,8 @@ metadata:
           Yozakura-san Chi no Daisakusen 2nd Season
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 7.2
+        user_rating: 7.4
+    audience_rating: 7.4
     critic_rating: 7.6
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
@@ -7889,7 +7889,7 @@ metadata:
       Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku
     original_title: |-
       Sentenced to Be a Hero
-    genre.sync: Action,Drama,Fantasy,Medieval,Conspiracy,Anti-Hero,Demons,Male Protagonist,Gods,Revenge,Gore,Tragedy,Military,Crime,Cosmic Horror,Body Horror
+    genre.sync: Action,Drama,Fantasy,Medieval,Conspiracy,Demons,Male Protagonist,Anti-Hero,Gods,Gore,Revenge,Tragedy,Crime,Military,Cosmic Horror,Body Horror
     studio: Studio KAI
     seasons:
       1:
@@ -7929,7 +7929,7 @@ metadata:
       Yuusha Party wo Oidasareta Kiyou Binbou
     original_title: |-
       Jack-of-All-Trades, Party of None
-    genre.sync: Action,Adventure,Fantasy,Male Protagonist,Dungeon,Magic,CGI
+    genre.sync: Action,Adventure,Fantasy,Male Protagonist,Dungeon,Magic,CGI,Swordplay
     studio: animation studio42
     seasons:
       1:
