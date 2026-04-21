@@ -1541,7 +1541,7 @@ metadata:
       Dorohedoro
     original_title: |-
       Dorohedoro
-    genre.sync: Action,Adventure,Comedy,Fantasy,Horror,Mystery,Dystopian,Monster Boy,Magic,Amnesia,CGI,Full CGI,Gore,Surreal Comedy,Body Horror,Seinen,Ensemble Cast,Curses,Urban Fantasy,Anthropomorphism,Male Protagonist,Henshin,Anti-Hero,Primarily Adult Cast,Revenge,Restaurant,Found Family,Demons,Female Protagonist
+    genre.sync: Action,Adventure,Comedy,Fantasy,Horror,Mystery,Dystopian,Monster Boy,Anthropomorphism,Magic,Amnesia,CGI,Full CGI,Gore,Surreal Comedy,Body Horror,Seinen,Ensemble Cast,Curses,Urban Fantasy,Male Protagonist,Henshin,Anti-Hero,Primarily Adult Cast,Revenge,Restaurant,Found Family,Demons,Female Protagonist
     studio: MAPPA
     seasons:
       0:
@@ -2403,32 +2403,6 @@ metadata:
     critic_rating: 8.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  426528:
-    title: |-
-      Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
-    sort_title: |-
-      Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
-    original_title: |-
-      The Most Heretical Last Boss Queen: From Villainess to Savior
-    genre.sync: Comedy,Fantasy,Romance,Female Protagonist,Super Power,Ojou-sama,Villainess,Family Life,Reincarnation,Time Skip,Swordplay,Magic,Isekai,Male Harem,Found Family,Royal Affairs,Historical,Ensemble Cast,Medieval,Heterosexual
-    studio: OLM
-    seasons:
-      1:
-        title: |-
-          Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.
-        label: Score,Completed,2023 Summer
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.9
-      2:
-        title: |-
-          Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2
-        label: Score,Watching,2026 Spring
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
-    critic_rating: 7.2
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
   306743:
     title: |-
       High School Fleet
@@ -3883,9 +3857,9 @@ metadata:
           Liar Game
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
-    critic_rating: 6.9
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   318161:
@@ -5088,7 +5062,7 @@ metadata:
       Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi
     original_title: |-
       The Klutzy Class Monitor and the Girl with the Short Skirt
-    genre.sync: Comedy,Romance,Slice of Life,Slapstick,Tsundere,School,Urban,Iyashikei,Female Protagonist,Heterosexual,Male Protagonist,Gyaru
+    genre.sync: Comedy,Romance,Slice of Life,Female Protagonist,Slapstick,School,Tsundere,Heterosexual,Iyashikei,Male Protagonist,Coming of Age,Gyaru,Primarily Teen Cast
     studio: Zero-G
     seasons:
       1:
@@ -5492,7 +5466,7 @@ metadata:
       Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?
     original_title: |-
       The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!
-    genre.sync: Action,Adventure,Comedy,Fantasy,Slapstick
+    genre.sync: Action,Adventure,Comedy,Fantasy,Slapstick,Isekai
     studio: Studio Flad
     seasons:
       1:
@@ -5500,8 +5474,8 @@ metadata:
           Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.0
-    audience_rating: 6.0
+        user_rating: 5.9
+    audience_rating: 5.9
     critic_rating: 6.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -6938,7 +6912,7 @@ metadata:
       Tongari Boushi no Atelier
     original_title: |-
       Witch Hat Atelier
-    genre.sync: Adventure,Drama,Fantasy,Magic,Conspiracy,Witch,Memory Manipulation,Drawing,Primarily Female Cast,Female Protagonist,Coming of Age,Found Family,Travel,Philosophy,Medieval,Seinen,Primarily Child Cast,Teacher,Rehabilitation
+    genre.sync: Adventure,Drama,Fantasy,Magic,Conspiracy,Witch,Memory Manipulation,Drawing,Primarily Female Cast,Female Protagonist,Coming of Age,Found Family,Medieval,Travel,Philosophy,Seinen,Primarily Child Cast,Teacher,Rehabilitation,Politics
     studio: BUG FILMS
     seasons:
       1:
@@ -7419,7 +7393,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.4
     audience_rating: 7.4
-    critic_rating: 7.4
+    critic_rating: 7.5
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   433088:
