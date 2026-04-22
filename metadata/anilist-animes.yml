@@ -1549,8 +1549,8 @@ metadata:
       1:
         title: |-
           Dorohedoro
-        label: Score,Completed,2020 Winter
-        label.remove: Watching,Dropped,Paused,Planning
+        label: Score,2020 Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.9
       2:
         title: |-
@@ -1561,7 +1561,7 @@ metadata:
     audience_rating: 7.9
     critic_rating: 8.2
     label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   354167:
     title: |-
       Dororo
@@ -1993,8 +1993,8 @@ metadata:
     studio: Sunrise
     audience_rating: 8.5
     critic_rating: 8.9
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   434127:
     title: |-
       Girls Band Cry
@@ -2120,8 +2120,8 @@ metadata:
       1:
         title: |-
           Grand Blue
-        label: Score,Completed,2018 Summer
-        label.remove: Watching,Dropped,Paused,Planning
+        label: Score,2018 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.2
       2:
         title: |-
@@ -2132,7 +2132,7 @@ metadata:
     audience_rating: 8.2
     critic_rating: 8.4
     label: Planned,Watching
-    label.remove: Airing,Ended,Dropped,Paused,Planning
+    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
   376144:
     title: |-
       Great Pretender
@@ -4279,7 +4279,7 @@ metadata:
       Marriagetoxin
     original_title: |-
       Marriagetoxin
-    genre.sync: Action,Comedy,Drama,Romance,Assassins,Urban,Marriage,Crime,Surreal Comedy,Boys' Love,Crossdressing,Femboy,Bisexual,Primarily Adult Cast,LGBTQ+ Themes,Super Power,Male Protagonist
+    genre.sync: Action,Comedy,Drama,Romance,Assassins,Marriage,Urban,Crime,Surreal Comedy,Femboy,Bisexual,Crossdressing,Primarily Adult Cast,Male Protagonist,Super Power,Boys' Love,Shounen,LGBTQ+ Themes,Mixed Gender Harem,Female Harem,Guns,Urban Fantasy
     studio: bones film
     seasons:
       1:
@@ -4287,8 +4287,8 @@ metadata:
           Marriagetoxin
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.4
+        user_rating: 7.5
+    audience_rating: 7.5
     critic_rating: 7.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -6418,7 +6418,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.1
     audience_rating: 6.1
-    critic_rating: 6.6
+    critic_rating: 6.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   305104:
