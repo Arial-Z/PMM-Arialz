@@ -217,7 +217,7 @@ metadata:
       29-sai Dokushin Chuuken Boukensha no Nichijou
     original_title: |-
       An Adventurer’s Daily Grind at Age 29
-    genre.sync: Adventure,Fantasy,Slice of Life,Iyashikei,Medieval,Succubus
+    genre.sync: Adventure,Fantasy,Slice of Life,Iyashikei,Succubus,Medieval
     studio: HORNETS
     seasons:
       1:
@@ -281,7 +281,7 @@ metadata:
       Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!
     original_title: |-
       Pass the Monster Meat, Milady!
-    genre.sync: Fantasy,Romance,Food,Shoujo,Female Protagonist,Marriage,Magic,Royal Affairs
+    genre.sync: Fantasy,Romance,Food,Shoujo,Female Protagonist,Ojou-sama,Marriage,Magic,Royal Affairs
     studio: Asahi Production
     seasons:
       1:
@@ -643,7 +643,7 @@ metadata:
       BanG Dream! Ave Mujica
     original_title: |-
       Ave Mujica - The Die is Cast -
-    genre.sync: Drama,Music,Psychological,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Incest,Full CGI,LGBTQ+ Themes,Yuri,Acting,Metal Music,Rock Music,Musical Theater,Disability,Ensemble Cast
+    genre.sync: Drama,Music,Psychological,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Full CGI,LGBTQ+ Themes,Yuri,Acting,Metal Music,Rock Music,Musical Theater,Incest,Disability,Ensemble Cast
     studio: SANZIGEN
     seasons:
       1:
@@ -4471,8 +4471,8 @@ metadata:
           Modao Zushi 3
         label: Score,Completed,2021 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.6
-    audience_rating: 8.4
+        user_rating: 8.5
+    audience_rating: 8.3
     critic_rating: 8.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -4759,7 +4759,7 @@ metadata:
       Okiraku Ryoushu no Tanoshii Ryouchi Bouei
     original_title: |-
       Easygoing Territory Defense by the Optimistic Lord
-    genre.sync: Adventure,Fantasy,Male Protagonist,Kingdom Management,Reincarnation,Magic
+    genre.sync: Adventure,Fantasy,Male Protagonist,Reincarnation,Kingdom Management,Magic,Isekai
     studio: NAZ
     seasons:
       1:
@@ -5454,9 +5454,9 @@ metadata:
           Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.6
-    audience_rating: 5.8
-    critic_rating: 6.1
+        user_rating: 5.5
+    audience_rating: 5.7
+    critic_rating: 6.0
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   469451:
@@ -7646,8 +7646,8 @@ metadata:
         user_rating: 0
     audience_rating: 6.6
     critic_rating: 7.0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   412374:
     title: |-
       Yofukashi no Uta
