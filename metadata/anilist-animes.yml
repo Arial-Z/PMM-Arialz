@@ -429,7 +429,7 @@ metadata:
       Apocalypse Hotel
     original_title: |-
       Apocalypse Hotel
-    genre.sync: Comedy,Sci-Fi,Slice of Life,Post-Apocalyptic,Robots,Work,Female Protagonist,Inn,Anthropomorphism,Artificial Intelligence,Surreal Comedy,Aliens,Urban,Time Skip,Iyashikei,Episodic
+    genre.sync: Comedy,Sci-Fi,Slice of Life,Post-Apocalyptic,Robots,Work,Inn,Anthropomorphism,Female Protagonist,Artificial Intelligence,Surreal Comedy,Aliens,Urban,Time Skip,Iyashikei,Episodic
     studio: CygamesPictures
     seasons:
       1:
@@ -1175,26 +1175,6 @@ metadata:
     critic_rating: 8.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  466524:
-    title: |-
-      Kuroneko to Majo no Kyoushitsu
-    sort_title: |-
-      Kuroneko to Majo no Kyoushitsu
-    original_title: |-
-      The Classroom of the Black Cat and a Witch
-    genre.sync: Fantasy,Female Protagonist,Magic,Animals,Witch,Curses,Primarily Teen Cast,Shapeshifting
-    studio: LIDENFILMS
-    seasons:
-      1:
-        title: |-
-          Kuroneko to Majo no Kyoushitsu
-        label: Score,Watching,2026 Spring
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
-    critic_rating: 6.8
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   79995:
     title: |-
       Claymore
@@ -2280,7 +2260,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.3
     audience_rating: 6.3
-    critic_rating: 6.8
+    critic_rating: 6.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   278157:
@@ -2390,7 +2370,7 @@ metadata:
       Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru
     original_title: |-
       HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing
-    genre.sync: Action,Adventure,Fantasy,Creature Taming,Isekai,Video Games,Male Protagonist,Reincarnation,Class Struggle
+    genre.sync: Action,Adventure,Fantasy,Creature Taming,Isekai,Male Protagonist,Video Games,Class Struggle,CGI,Reincarnation
     studio: Yokohama Animation Lab
     seasons:
       1:
@@ -3345,7 +3325,7 @@ metadata:
       Kill Ao
     original_title: |-
       Kill Blue
-    genre.sync: Action,Comedy,Age Regression,Assassins,Guns,School,School Club,Ensemble Cast,Dissociative Identities,Fake Relationship,Crime
+    genre.sync: Action,Comedy,Age Regression,Guns,School,Assassins,School Club,Ensemble Cast,Crime
     studio: CUE
     seasons:
       1:
@@ -3353,9 +3333,9 @@ metadata:
           Kill Ao
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 7.4
+        user_rating: 7.2
+    audience_rating: 7.2
+    critic_rating: 7.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   272074:
@@ -3705,7 +3685,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.6
     audience_rating: 7.6
-    critic_rating: 7.7
+    critic_rating: 7.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   413515:
@@ -3770,6 +3750,26 @@ metadata:
     critic_rating: 6.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+  466524:
+    title: |-
+      Kuroneko to Majo no Kyoushitsu
+    sort_title: |-
+      Kuroneko to Majo no Kyoushitsu
+    original_title: |-
+      The Classroom of the Black Cat and a Witch
+    genre.sync: Fantasy,Female Protagonist,Magic,Animals,Witch,Curses,Primarily Teen Cast,Shapeshifting
+    studio: LIDENFILMS
+    seasons:
+      1:
+        title: |-
+          Kuroneko to Majo no Kyoushitsu
+        label: Score,Watching,2026 Spring
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.4
+    audience_rating: 6.4
+    critic_rating: 6.8
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   83996:
     title: |-
       Kuroshitsuji
@@ -4223,7 +4223,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.6
     audience_rating: 6.6
-    critic_rating: 7.2
+    critic_rating: 7.1
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   432847:
@@ -4699,9 +4699,9 @@ metadata:
           Niwatori Fighter
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
-    critic_rating: 6.9
+        user_rating: 6.5
+    audience_rating: 6.5
+    critic_rating: 6.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   275610:
@@ -6164,8 +6164,8 @@ metadata:
           Snowball Earth
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.0
-    audience_rating: 6.0
+        user_rating: 6.1
+    audience_rating: 6.1
     critic_rating: 6.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -6990,8 +6990,8 @@ metadata:
           Toujima Tanzaburou wa Kamen Rider ni Naritai
         label: Score,Dropped,2025 Fall
         label.remove: Completed,Watching,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
+        user_rating: 7.6
+    audience_rating: 7.6
     critic_rating: 7.8
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
@@ -7044,7 +7044,7 @@ metadata:
           Tsue to Tsurugi no Wistoria Season 2
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.8
+        user_rating: 7.9
     audience_rating: 7.8
     critic_rating: 7.9
     label: Airing,Watching
@@ -7691,7 +7691,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 7.8
-    critic_rating: 8.1
+    critic_rating: 8.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   432808:
