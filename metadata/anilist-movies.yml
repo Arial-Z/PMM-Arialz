@@ -109,6 +109,19 @@ metadata:
     audience_rating: 7.5
     critic_rating: 7.8
     label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt32820897:
+    title: |-
+      Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai
+    sort_title: |-
+      Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai
+    original_title: |-
+      Demon Slayer: Kimetsu no Yaiba Infinity Castle
+    genre.sync: Action,Adventure,Drama,Fantasy,Supernatural,Demons,Male Protagonist,Swordplay,War,Revenge,Shounen,Tragedy,Martial Arts,Super Power,Gore,Afterlife,Dungeon,Suicide,Ensemble Cast
+    studio: ufotable
+    audience_rating: 8.6
+    critic_rating: 8.7
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt0860906:
     title: |-
       Evangelion Shin Movie: Ha
@@ -327,7 +340,7 @@ metadata:
       Kaguya-hime no Monogatari
     original_title: |-
       The Tale of The Princess Kaguya
-    genre.sync: Drama,Fantasy,Romance,Tragedy,Classic Literature,Philosophy,Fairy Tale,Female Protagonist,Historical,Family Life,Rural,Gods
+    genre.sync: Drama,Fantasy,Romance,Tragedy,Philosophy,Classic Literature,Fairy Tale,Female Protagonist,Historical,Family Life,Rural,Gods
     studio: Studio Ghibli
     audience_rating: 8.1
     critic_rating: 8.2
