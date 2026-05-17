@@ -439,7 +439,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.0
     audience_rating: 8.0
-    critic_rating: 8.0
+    critic_rating: 8.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   357019:
@@ -2258,8 +2258,8 @@ metadata:
           Haibara-kun no Tsuyokute Seishun New Game
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
+        user_rating: 6.4
+    audience_rating: 6.4
     critic_rating: 6.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -2365,9 +2365,9 @@ metadata:
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   457532:
     title: |-
-      Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru
+      Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru
     sort_title: |-
-      Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru
+      Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru
     original_title: |-
       HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing
     genre.sync: Action,Adventure,Fantasy,Creature Taming,Isekai,Male Protagonist,Video Games,CGI,Class Struggle,Reincarnation
@@ -2375,7 +2375,7 @@ metadata:
     seasons:
       1:
         title: |-
-          Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru
+          Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru
         label: Score,Dropped,2026 Winter
         label.remove: Completed,Watching,Paused,Planning
         user_rating: 7.1
@@ -2432,7 +2432,7 @@ metadata:
       Hikaru ga Shinda Natsu
     original_title: |-
       The Summer Hikaru Died
-    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Rural,Tragedy,Cosmic Horror,Male Protagonist,Urban Fantasy,Mythology,Body Horror,LGBTQ+ Themes,Gods,Primarily Teen Cast,Curses,Unrequited Love,Boys' Love,Seinen,Philosophy,Mixed Media
+    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Male Protagonist,Rural,Tragedy,Cosmic Horror,Urban Fantasy,Mythology,Body Horror,LGBTQ+ Themes,Gods,Primarily Teen Cast,Curses,Unrequited Love,Boys' Love,Seinen,Philosophy,Mixed Media
     studio: CygamesPictures
     seasons:
       1:
@@ -2929,7 +2929,7 @@ metadata:
       Kami no Niwatsuki Kusunoki-tei 
     original_title: |-
       Kusunoki's Garden of Gods
-    genre.sync: Comedy,Fantasy,Slice of Life,Iyashikei,Youkai,Gods
+    genre.sync: Comedy,Fantasy,Slice of Life,Iyashikei,Gods,Youkai,Exorcism,Rural
     studio: JUVENAGE
     seasons:
       1:
@@ -2937,8 +2937,8 @@ metadata:
           Kami no Niwatsuki Kusunoki-tei 
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
+        user_rating: 7.0
+    audience_rating: 7.0
     critic_rating: 7.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -3675,7 +3675,7 @@ metadata:
       Koori no Jouheki
     original_title: |-
       The Ramparts of Ice
-    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Ensemble Cast,Primarily Teen Cast,Female Protagonist,School
+    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Ensemble Cast,Primarily Teen Cast,Kuudere,Female Protagonist,School
     studio: Studio KAI
     seasons:
       1:
@@ -3987,7 +3987,7 @@ metadata:
       Magic Maker: Isekai Mahou no Tsukurikata
     original_title: |-
       Magic Maker: How to Make Magic in Another World
-    genre.sync: Action,Adventure,Fantasy,Slice of Life,Magic,Isekai,Reincarnation,Family Life,Male Protagonist,Lost Civilization,Demons
+    genre.sync: Action,Adventure,Fantasy,Slice of Life,Magic,Isekai,Reincarnation,Family Life,Male Protagonist
     studio: Studio DEEN
     seasons:
       1:
@@ -4115,7 +4115,7 @@ metadata:
           Mairimashita! Iruma-kun 4
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.8
+        user_rating: 7.9
     audience_rating: 7.8
     critic_rating: 7.9
     label: Airing,Watching
@@ -4699,8 +4699,8 @@ metadata:
           Niwatori Fighter
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
+        user_rating: 6.5
+    audience_rating: 6.5
     critic_rating: 6.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -6156,7 +6156,7 @@ metadata:
       Snowball Earth
     original_title: |-
       Snowball Earth
-    genre.sync: Action,Mecha,Sci-Fi,Full CGI,Post-Apocalyptic,Kaiju,Artificial Intelligence,Snowscape,Robots,Male Protagonist,Aliens
+    genre.sync: Action,Mecha,Sci-Fi,Full CGI,Post-Apocalyptic,Robots,Male Protagonist,Kaiju,Artificial Intelligence,Aliens
     studio: Studio KAI
     seasons:
       1:
@@ -6166,7 +6166,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.2
     audience_rating: 6.2
-    critic_rating: 6.7
+    critic_rating: 6.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   372921:
@@ -6990,8 +6990,8 @@ metadata:
           Toujima Tanzaburou wa Kamen Rider ni Naritai
         label: Score,Dropped,2025 Fall
         label.remove: Completed,Watching,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
+        user_rating: 7.6
+    audience_rating: 7.6
     critic_rating: 7.8
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
@@ -7044,8 +7044,8 @@ metadata:
           Tsue to Tsurugi no Wistoria Season 2
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.1
-    audience_rating: 7.9
+        user_rating: 8.2
+    audience_rating: 8.0
     critic_rating: 8.1
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
@@ -7585,7 +7585,7 @@ metadata:
       Yasei no Last Boss ga Arawareta!
     original_title: |-
       A Wild Last Boss Appeared!
-    genre.sync: Action,Adventure,Fantasy,Magic,Isekai,Video Games,Female Protagonist,Gender Bending,Virtual World,Creature Taming,Shapeshifting,Super Power,Primarily Female Cast,Meta,Memory Manipulation
+    genre.sync: Action,Adventure,Fantasy,Magic,Isekai,Female Protagonist,Gender Bending,Video Games,Virtual World,Super Power,Primarily Female Cast,Creature Taming,Shapeshifting,Meta,Memory Manipulation
     studio: WAO World
     seasons:
       1:
@@ -7681,7 +7681,7 @@ metadata:
       Yomi no Tsugai
     original_title: |-
       Daemons of the Shadow Realm
-    genre.sync: Action,Adventure,Comedy,Fantasy,Male Protagonist,Shounen,Archery,Rural,Youkai,Anachronism,Twins,Urban Fantasy
+    genre.sync: Action,Adventure,Comedy,Fantasy,Shounen,Male Protagonist,Youkai,Archery,Anachronism,Rural,Twins,Urban Fantasy
     studio: bones film
     seasons:
       1:
@@ -7795,7 +7795,7 @@ metadata:
           Yozakura-san Chi no Daisakusen 2nd Season
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.4
+        user_rating: 7.5
     audience_rating: 7.4
     critic_rating: 7.7
     label: Airing,Watching
@@ -7863,7 +7863,7 @@ metadata:
       Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku
     original_title: |-
       Sentenced to Be a Hero
-    genre.sync: Action,Drama,Fantasy,Medieval,Conspiracy,Demons,Male Protagonist,Anti-Hero,Gods,Gore,Revenge,Tragedy,Crime,Military,Cosmic Horror,Body Horror
+    genre.sync: Action,Drama,Fantasy,Medieval,Conspiracy,Demons,Male Protagonist,Anti-Hero,Gods,Gore,Revenge,Tragedy,Crime,Military
     studio: Studio KAI
     seasons:
       1:
