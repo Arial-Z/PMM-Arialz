@@ -1560,8 +1560,8 @@ metadata:
         user_rating: 8.1
     audience_rating: 8.0
     critic_rating: 8.2
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   354167:
     title: |-
       Dororo
@@ -1569,7 +1569,7 @@ metadata:
       Dororo
     original_title: |-
       Dororo
-    genre.sync: Action,Adventure,Drama,Supernatural,Demons,Revenge,Disability,Swordplay,Tragedy,Samurai,Estranged Family,Curses,Youkai,Anti-Hero,Orphan,War,Parenthood,Male Protagonist,Historical,Travel,Rural,Urban Fantasy,Gore,Philosophy,Crossdressing,Female Protagonist,Episodic,Body Horror,Tomboy
+    genre.sync: Action,Adventure,Drama,Supernatural,Demons,Revenge,Disability,Swordplay,Tragedy,Samurai,Estranged Family,Curses,Youkai,Anti-Hero,Orphan,War,Parenthood,Male Protagonist,Travel,Historical,Rural,Urban Fantasy,Gore,Female Protagonist,Philosophy,Crossdressing,Tomboy,Body Horror,Episodic
     studio: MAPPA
     seasons:
       1:
@@ -2879,7 +2879,7 @@ metadata:
       Kaichou wa Maid-sama!
     original_title: |-
       Maid-Sama!
-    genre.sync: Comedy,Drama,Romance,Shoujo,Female Protagonist,Maids,School,Work,Tsundere,Ensemble Cast,Unrequited Love,Heterosexual,Primarily Teen Cast
+    genre.sync: Comedy,Drama,Romance,Shoujo,Female Protagonist,Maids,School,Work,Tsundere,Ensemble Cast,Urban,Unrequited Love,Heterosexual,Primarily Teen Cast
     studio: J.C.STAFF
     seasons:
       0:
@@ -4279,7 +4279,7 @@ metadata:
       Marriagetoxin
     original_title: |-
       Marriagetoxin
-    genre.sync: Action,Comedy,Drama,Romance,Assassins,Marriage,Urban,Crime,Surreal Comedy,Femboy,Crossdressing,Primarily Adult Cast,Bisexual,Male Protagonist,Shounen,Boys' Love,Super Power,Mixed Gender Harem,LGBTQ+ Themes,Female Harem,Heterosexual,Guns,Urban Fantasy
+    genre.sync: Action,Comedy,Drama,Romance,Assassins,Marriage,Urban,Crime,Surreal Comedy,Femboy,Primarily Adult Cast,Crossdressing,Male Protagonist,Bisexual,Super Power,Shounen,Mixed Gender Harem,Female Harem,Urban Fantasy,Heterosexual,LGBTQ+ Themes
     studio: bones film
     seasons:
       1:
@@ -5072,7 +5072,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.4
     audience_rating: 7.4
-    critic_rating: 7.5
+    critic_rating: 7.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   262090:
@@ -5474,9 +5474,7 @@ metadata:
           Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.8
-    audience_rating: 5.8
-    critic_rating: 6.1
+        user_rating: 0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   423732:
@@ -6408,7 +6406,7 @@ metadata:
       Tadaima, Ojamasaremasu!
     original_title: |-
       Pardon the Intrusion, I'm Home!
-    genre.sync: Comedy,Romance,Love Triangle,Heterosexual,Male Harem,Otaku Culture,Shoujo,Primarily Adult Cast
+    genre.sync: Comedy,Romance,Love Triangle,Heterosexual,Male Harem,Otaku Culture,Shoujo,Primarily Adult Cast,Cohabitation
     studio: Tatsunoko Production
     seasons:
       1:
@@ -6416,8 +6414,8 @@ metadata:
           Tadaima, Ojamasaremasu!
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
+        user_rating: 6.2
+    audience_rating: 6.2
     critic_rating: 6.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -6912,7 +6910,7 @@ metadata:
       Tongari Boushi no Atelier
     original_title: |-
       Witch Hat Atelier
-    genre.sync: Adventure,Drama,Fantasy,Magic,Conspiracy,Witch,Drawing,Female Protagonist,Memory Manipulation,Coming of Age,Primarily Female Cast,Found Family,Philosophy,Primarily Child Cast,Ensemble Cast,Medieval,Travel,Rehabilitation,Politics,Seinen,LGBTQ+ Themes,Disability
+    genre.sync: Adventure,Drama,Fantasy,Magic,Conspiracy,Witch,Female Protagonist,Memory Manipulation,Drawing,Coming of Age,Primarily Female Cast,Found Family,Philosophy,Primarily Child Cast,Medieval,Ensemble Cast,Travel,Seinen,Politics,Disability,Revenge
     studio: BUG FILMS
     seasons:
       1:
@@ -7637,7 +7635,7 @@ metadata:
           Yi Ren Zhi Xia 5
         label: Score,Completed,2022 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.5
+        user_rating: 6.6
       6:
         title: |-
           Yi Ren Zhi Xia 6
