@@ -2713,8 +2713,8 @@ metadata:
       1:
         title: |-
           Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
-        label: Score,Completed,2023 Summer
-        label.remove: Watching,Dropped,Paused,Planning
+        label: Score,2023 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.3
       2:
         title: |-
@@ -4471,8 +4471,8 @@ metadata:
           Modao Zushi 3
         label: Score,Completed,2021 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.6
-    audience_rating: 8.4
+        user_rating: 8.5
+    audience_rating: 8.3
     critic_rating: 8.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -4759,7 +4759,7 @@ metadata:
       Okiraku Ryoushu no Tanoshii Ryouchi Bouei
     original_title: |-
       Easygoing Territory Defense by the Optimistic Lord
-    genre.sync: Adventure,Fantasy,Male Protagonist,Reincarnation,Kingdom Management,Magic,Isekai
+    genre.sync: Adventure,Fantasy,Male Protagonist,Reincarnation,Kingdom Management,Magic,Isekai,Medieval,Rural,Estranged Family
     studio: NAZ
     seasons:
       1:
@@ -5474,7 +5474,9 @@ metadata:
           Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 5.8
+    audience_rating: 5.8
+    critic_rating: 6.1
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   423732:
