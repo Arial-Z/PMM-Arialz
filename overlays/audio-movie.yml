@@ -30,8 +30,6 @@ overlays:
       - name: AudioLanguage
         weight: 10
     plex_all: true
-    filters:
-      filepath.regex.not: '(?<=\[)[^]]*?\b(?:FR)\b[^]]*?(?=\])'
         
   Audio-VF:
     template:
