@@ -54,7 +54,7 @@ overlays:
         weight: 30
     plex_all: true
     filters:
-      has_dolby_vision: true
+      dovi: true
 
   HDR:
     template:
