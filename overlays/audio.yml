@@ -47,4 +47,4 @@ overlays:
         weight: 30
     plex_all: true
     filters:
-        audio_language: '(?<=A_\[)[^]]*?\b(?:FR\+|\+FR)\b[^]]*?(?=\])'
+      filepath.regex: '(?<=A_\[)[^]]*?\b(?:FR\+|\+FR)\b[^]]*?(?=\])'
