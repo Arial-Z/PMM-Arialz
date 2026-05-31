@@ -29,23 +29,22 @@ overlays:
     template:
       - name: AudioLanguage
         weight: 10
-    plex_search:
-      all:
+    plex_all:
     filters:
       filepath.regex.not: '(?<=\[)[^]]*?\b(?:FR)\b[^]]*?(?=\])'
         
   Audio-VF:
     template:
       - name: AudioLanguage
-        weight: 10
-    plex_search:
+        weight: 20
+    plex_all:
     filters:
       filepath.regex: '(?<=\[)[^]]*?\b(?:FR)\b[^]]*?(?=\])'
       
   Audio-Multi:
     template:
       - name: AudioLanguage
-        weight: 20
-    plex_search:
-      all:
+        weight: 30
+    plex_all:
+    filters:
         audio_language: '(?<=\[)[^]]*?\b(?:FR\+|\+FR)\b[^]]*?(?=\])'
