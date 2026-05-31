@@ -52,15 +52,15 @@ overlays:
     template:
       - name: DynamicRange
         weight: 30
-    plex_all: true
-    filters:
-      dovi: true
+    smart_filter:
+      all:
+        dovi: true
 
   HDR:
     template:
       - name: DynamicRange
         weight: 20
-    plex_search:
+    smart_filter:
       all:
         hdr: true
 
