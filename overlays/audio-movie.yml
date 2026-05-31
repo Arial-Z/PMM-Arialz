@@ -29,7 +29,7 @@ overlays:
     template:
       - name: AudioLanguage
         weight: 10
-    plex_all:
+    plex_all: true
     filters:
       filepath.regex.not: '(?<=\[)[^]]*?\b(?:FR)\b[^]]*?(?=\])'
         
@@ -37,7 +37,7 @@ overlays:
     template:
       - name: AudioLanguage
         weight: 20
-    plex_all:
+    plex_all: true
     filters:
       filepath.regex: '(?<=\[)[^]]*?\b(?:FR)\b[^]]*?(?=\])'
       
@@ -45,6 +45,6 @@ overlays:
     template:
       - name: AudioLanguage
         weight: 30
-    plex_all:
+    plex_all: true
     filters:
         audio_language: '(?<=\[)[^]]*?\b(?:FR\+|\+FR)\b[^]]*?(?=\])'
