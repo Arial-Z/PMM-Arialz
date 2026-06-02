@@ -2492,7 +2492,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 7.8
-    critic_rating: 8.1
+    critic_rating: 8.0
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   388593:
@@ -4691,7 +4691,7 @@ metadata:
       Nippon Sangoku
     original_title: |-
       NIPPON SANGOKU: The Three Nations of the Crimson Sun
-    genre.sync: Action,Drama,Sci-Fi,War,Politics,Dystopian,Seinen,Military,Philosophy,Class Struggle,Revenge,Post-Apocalyptic,Male Protagonist
+    genre.sync: Action,Drama,Sci-Fi,Politics,War,Dystopian,Seinen,Military,Philosophy,Revenge,Post-Apocalyptic,Class Struggle,Male Protagonist
     studio: Studio Kafka
     seasons:
       1:
@@ -4722,8 +4722,8 @@ metadata:
         user_rating: 6.5
     audience_rating: 6.5
     critic_rating: 7.0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   275610:
     title: |-
       Noragami
@@ -7066,7 +7066,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.2
     audience_rating: 8.1
-    critic_rating: 8.1
+    critic_rating: 8.0
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   390832:
