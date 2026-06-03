@@ -14,7 +14,7 @@ templates:
 
   Text_Rating:                                                               #Critic Rating Text (IMDB Rating)
     overlay:
-      name: text(<<rimdb_rating>>)
+      name: text(<<imdb_rating>>)
       font: fonts/Roboto-Bold.ttf
       font_size: 70
       font_color: "#FFFFFF"
