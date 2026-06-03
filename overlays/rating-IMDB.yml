@@ -1,5 +1,5 @@
 templates:
-  IMDB_Rating:                                                               #IDMB Rating Logo
+  IMDB_Logo:                                                               #IDMB Rating Logo
     overlay:
       name: <<overlay_name>>
       url: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/overlays/img/rating/<<overlay_name>>.png
@@ -12,11 +12,9 @@ templates:
       vertical_offset: 30
       vertical_align: bottom
 
-  Critic_Rating:                                                               #Critic Rating Text (IMDB Rating)
-    default:
-      rating_type: critic_rating
+  Text_Rating:                                                               #Critic Rating Text (IMDB Rating)
     overlay:
-      name: text(<<rating_type>>)
+      name: text(<<rimdb_rating>>)
       font: fonts/Roboto-Bold.ttf
       font_size: 70
       font_color: "#FFFFFF"
@@ -26,16 +24,10 @@ templates:
       vertical_align: bottom
 
 overlays:
-  IMDB_Rating:
+  IMDB_Logo:
     template: [name: IMDB_Rating]
-    plex_search:
-      all:
-        critic_rating.gte: 0.1
-        critic_rating.lte: 10
+    plex_all: true
 
-  critic_rating:
+  Text_Rating:
     template: [name: Critic_Rating]
-    plex_search:
-      all:
-        critic_rating.gte: 0.1
-        critic_rating.lte: 10
+    plex_all: true
