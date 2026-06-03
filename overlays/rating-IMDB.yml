@@ -25,9 +25,9 @@ templates:
 
 overlays:
   IMDB_Logo:
-    template: [name: IMDB_Rating]
+    template: [name: IMDB_Logo]
     plex_all: true
 
   Text_Rating:
-    template: [name: Critic_Rating]
+    template: [name: Text_Rating]
     plex_all: true
