@@ -1871,8 +1871,8 @@ metadata:
           Fumetsu no Anata e Season 3
         label: Score,Watching,2025 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.9
+        user_rating: 7.4
+    audience_rating: 7.8
     critic_rating: 8.0
     label: AA Winner,Ended,Watching
     label.remove: Planned,Airing,Dropped,Paused,Planning
@@ -2420,8 +2420,8 @@ metadata:
           Hikaru ga Shinda Natsu
         label: Score,2025 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.0
-    audience_rating: 8.0
+        user_rating: 8.1
+    audience_rating: 8.1
     critic_rating: 8.0
     label: Planned
     label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -3305,7 +3305,7 @@ metadata:
       Kill Ao
     original_title: |-
       Kill Blue
-    genre.sync: Action,Comedy,Guns,School,Age Regression,Assassins,School Club,Urban,Ensemble Cast,Rehabilitation,Surreal Comedy,Primarily Child Cast,Kuudere,Crime,Shounen
+    genre.sync: Action,Comedy,Guns,School,Age Regression,Assassins,Surreal Comedy,Rehabilitation,Kuudere,Primarily Child Cast,Ensemble Cast,Urban,School Club,Crime,Shounen
     studio: CUE
     seasons:
       1:
@@ -3655,7 +3655,7 @@ metadata:
       Koori no Jouheki
     original_title: |-
       The Ramparts of Ice
-    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Female Protagonist,Primarily Teen Cast,Kuudere,Ensemble Cast,School,Shoujo
+    genre.sync: Comedy,Drama,Romance,Slice of Life,Heterosexual,Primarily Teen Cast,Female Protagonist,Kuudere,Ensemble Cast,School,Shoujo
     studio: Studio KAI
     seasons:
       1:
@@ -3663,8 +3663,8 @@ metadata:
           Koori no Jouheki
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.8
+        user_rating: 7.9
+    audience_rating: 7.9
     critic_rating: 7.9
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -4183,7 +4183,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.6
     audience_rating: 6.6
-    critic_rating: 7.1
+    critic_rating: 7.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   432847:
@@ -4352,9 +4352,9 @@ metadata:
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   461708:
     title: |-
-      Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
+      Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
     sort_title: |-
-      Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
+      Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
     original_title: |-
       The Banished Court Magician Aims to Become the Strongest
     genre.sync: Action,Adventure,Fantasy,Magic,Dungeon,Swordplay
@@ -4362,7 +4362,7 @@ metadata:
     seasons:
       1:
         title: |-
-          Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
+          Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.3
@@ -7561,7 +7561,7 @@ metadata:
       Yomi no Tsugai
     original_title: |-
       Daemons of the Shadow Realm
-    genre.sync: Action,Adventure,Comedy,Fantasy,Supernatural,Shounen,Male Protagonist,Youkai,Archery,Rural,Anachronism,Urban Fantasy,Twins,Demons
+    genre.sync: Action,Adventure,Comedy,Fantasy,Supernatural,Shounen,Male Protagonist,Youkai,Archery,Proxy Battle,Creature Taming,Rural,Anachronism,Urban Fantasy,Twins,Demons
     studio: bones film
     seasons:
       1:
@@ -7571,7 +7571,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 7.8
-    critic_rating: 8.0
+    critic_rating: 7.9
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   432808:
