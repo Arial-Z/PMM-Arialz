@@ -2080,13 +2080,13 @@ metadata:
       5:
         title: |-
           Golden Kamuy: Saishuushou
-        label: Score,2026 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.2
     audience_rating: 8.1
     critic_rating: 8.2
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: Planned,Watching
+    label.remove: Airing,Ended,Dropped,Paused,Planning
   272138:
     title: |-
       Golden Time
