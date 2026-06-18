@@ -371,7 +371,7 @@ metadata:
           Ao no Exorcist
         label: Score,Completed,2011 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 7.2
       2:
         title: |-
           Ao no Exorcist: Kyoto Fujouou-hen
@@ -397,7 +397,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.0
     audience_rating: 7.4
-    critic_rating: 6.0
+    critic_rating: 7.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   407840:
@@ -629,7 +629,9 @@ metadata:
           Bakuman. 3
         label: Score,Completed,2012 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 8.3
+    audience_rating: 8.3
+    critic_rating: 2.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   439765:
@@ -1331,7 +1333,9 @@ metadata:
           Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.5
+    audience_rating: 6.5
+    critic_rating: 6.5
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   454526:
@@ -1377,9 +1381,9 @@ metadata:
           DARKER THAN BLACK: Ryuusei no Gemini
         label: Score,Completed,2009 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 0
-    audience_rating: 7.7
-    critic_rating: 8.0
+        user_rating: 7.1
+    audience_rating: 7.4
+    critic_rating: 7.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   337017:
@@ -1927,7 +1931,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.6
     audience_rating: 6.6
-    critic_rating: 7.0
+    critic_rating: 6.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   279804:
@@ -4413,7 +4417,7 @@ metadata:
           Modao Zushi
         label: Score,Completed,2018 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 8.2
       2:
         title: |-
           Modao Zushi 2
@@ -4426,6 +4430,8 @@ metadata:
         label: Score,Completed,2021 Summer
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 0
+    audience_rating: 8.2
+    critic_rating: 8.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   447925:
@@ -4594,8 +4600,8 @@ metadata:
         user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.2
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   432455:
     title: |-
       Nige Jouzu no Wakagimi
@@ -5371,26 +5377,6 @@ metadata:
     critic_rating: 6.0
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
-  469451:
-    title: |-
-      Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?
-    sort_title: |-
-      Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?
-    original_title: |-
-      The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!
-    genre.sync: Action,Adventure,Comedy,Fantasy,Slapstick,Isekai,Surreal Comedy,Magic
-    studio: Studio Flad
-    seasons:
-      1:
-        title: |-
-          Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?
-        label: Score,Watching,2026 Spring
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.7
-    audience_rating: 5.7
-    critic_rating: 5.9
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   423732:
     title: |-
       Sakamoto Days
