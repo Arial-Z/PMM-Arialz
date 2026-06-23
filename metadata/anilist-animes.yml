@@ -2658,8 +2658,8 @@ metadata:
         user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.4
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   406592:
     title: |-
       Isekai Yakkyoku
@@ -3710,26 +3710,6 @@ metadata:
     critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  466524:
-    title: |-
-      Kuroneko to Majo no Kyoushitsu
-    sort_title: |-
-      Kuroneko to Majo no Kyoushitsu
-    original_title: |-
-      The Classroom of the Black Cat and a Witch
-    genre.sync: Fantasy,Magic,Female Protagonist,Animals,Heterosexual,Witch,Coming of Age,Astronomy,Teacher,Curses,Primarily Teen Cast,Shapeshifting
-    studio: LIDENFILMS
-    seasons:
-      1:
-        title: |-
-          Kuroneko to Majo no Kyoushitsu
-        label: Score,Watching,2026 Spring
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
-    critic_rating: 6.6
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   83996:
     title: |-
       Kuroshitsuji
@@ -4239,7 +4219,7 @@ metadata:
       Marriagetoxin
     original_title: |-
       Marriagetoxin
-    genre.sync: Action,Comedy,Drama,Romance,Marriage,Assassins,Crime,Urban,Surreal Comedy,Femboy,Primarily Adult Cast,Crossdressing,Male Protagonist,Bisexual,Super Power,Urban Fantasy,Shounen,Mixed Gender Harem,Heterosexual,Female Harem,LGBTQ+ Themes
+    genre.sync: Action,Comedy,Drama,Romance,Marriage,Assassins,Crime,Urban,Surreal Comedy,Femboy,Primarily Adult Cast,Crossdressing,Super Power,Bisexual,Male Protagonist,Urban Fantasy,Shounen,Heterosexual,LGBTQ+ Themes,Female Harem
     studio: bones film
     seasons:
       1:
@@ -4631,7 +4611,7 @@ metadata:
       Nippon Sangoku
     original_title: |-
       NIPPON SANGOKU: The Three Nations of the Crimson Sun
-    genre.sync: Action,Drama,Sci-Fi,Politics,War,Dystopian,Seinen,Military,Philosophy,Revenge,Post-Apocalyptic,Class Struggle,Male Protagonist,Ensemble Cast,Satire
+    genre.sync: Action,Drama,Sci-Fi,Politics,War,Dystopian,Military,Seinen,Philosophy,Revenge,Post-Apocalyptic,Class Struggle,Male Protagonist,Satire,Ensemble Cast
     studio: Studio Kafka
     seasons:
       1:
@@ -4639,9 +4619,9 @@ metadata:
           Nippon Sangoku
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.2
-    audience_rating: 8.2
-    critic_rating: 8.5
+        user_rating: 8.3
+    audience_rating: 8.3
+    critic_rating: 8.6
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   452575:
@@ -5184,9 +5164,9 @@ metadata:
           Re:Zero kara Hajimeru Isekai Seikatsu 4th Season
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.8
+        user_rating: 8.9
     audience_rating: 8.4
-    critic_rating: 8.5
+    critic_rating: 8.6
     label: AA Winner,Airing,Dropped
     label.remove: Planned,Ended,Paused,Planning
   299508:
@@ -5508,7 +5488,7 @@ metadata:
       Seihantai na Kimi to Boku
     original_title: |-
       You and I Are Polar Opposites
-    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Ensemble Cast,School,Iyashikei,Primarily Teen Cast,Coming of Age,Gyaru,Kuudere,Urban
+    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Ensemble Cast,School,Iyashikei,Primarily Teen Cast,Coming of Age,Asexual,Gyaru,Kuudere,Urban
     studio: Lapin Track
     seasons:
       1:
@@ -5848,7 +5828,7 @@ metadata:
       Shingeki no Kyojin
     original_title: |-
       Attack on Titan
-    genre.sync: Action,Drama,Fantasy,Mystery,Kaiju,Revenge,Tragedy,Military,Primarily Teen Cast,Post-Apocalyptic,Male Protagonist,Super Power,Henshin,Gore,Memory Manipulation,Dystopian,Swordplay,Ensemble Cast,Vore,Survival,Steampunk,Orphan,Cannibalism,Espionage
+    genre.sync: Action,Drama,Fantasy,Mystery,Kaiju,Revenge,Tragedy,Military,Primarily Teen Cast,Post-Apocalyptic,Male Protagonist,Super Power,Henshin,Dystopian,Memory Manipulation,Gore,Swordplay,Ensemble Cast,Vore,Survival,Steampunk,Orphan,Cannibalism,Espionage
     studio: WIT STUDIO
     seasons:
       0:
@@ -6772,7 +6752,7 @@ metadata:
       Tongari Boushi no Atelier
     original_title: |-
       Witch Hat Atelier
-    genre.sync: Adventure,Drama,Fantasy,Magic,Conspiracy,Witch,Memory Manipulation,Female Protagonist,Drawing,Coming of Age,Primarily Female Cast,Found Family,Philosophy,Primarily Child Cast,Medieval,Ensemble Cast,Travel,Seinen,Politics,Disability,Revenge
+    genre.sync: Adventure,Drama,Fantasy,Magic,Conspiracy,Witch,Drawing,Female Protagonist,Memory Manipulation,Coming of Age,Primarily Female Cast,Found Family,Primarily Child Cast,Philosophy,Medieval,Ensemble Cast,Travel,Seinen,Politics,Disability,Teacher,School
     studio: BUG FILMS
     seasons:
       1:
@@ -6783,8 +6763,8 @@ metadata:
         user_rating: 8.6
     audience_rating: 8.6
     critic_rating: 8.7
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   385077:
     title: |-
       Tonikaku Kawaii
@@ -7503,8 +7483,8 @@ metadata:
           Yi Ren Zhi Xia 6
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.4
-    audience_rating: 6.4
+        user_rating: 5.5
+    audience_rating: 6.5
     critic_rating: 7.0
     label: Ended,Watching
     label.remove: Planned,Airing,Dropped,Paused,Planning
@@ -7657,7 +7637,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.5
     audience_rating: 7.4
-    critic_rating: 7.7
+    critic_rating: 7.6
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   330692:
