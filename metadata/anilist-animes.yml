@@ -2383,6 +2383,24 @@ metadata:
     critic_rating: 8.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  463578:
+    title: |-
+      Heroine? Seijo? Iie, All Works Maid desu (Ko)!
+    sort_title: |-
+      Heroine? Seijo? Iie, All Works Maid desu (Ko)!
+    original_title: |-
+      Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!
+    genre.sync: Comedy,Fantasy,Female Protagonist,Maids,Magic,Reincarnation,Isekai,Ojou-sama,Medieval
+    studio: EMT Squared
+    seasons:
+      1:
+        title: |-
+          Heroine? Seijo? Iie, All Works Maid desu (Ko)!
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   306743:
     title: |-
       High School Fleet
@@ -2710,8 +2728,8 @@ metadata:
         user_rating: 6.4
     audience_rating: 6.4
     critic_rating: 6.5
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   402474:
     title: |-
       Jigokuraku
@@ -5357,8 +5375,8 @@ metadata:
         user_rating: 5.8
     audience_rating: 5.8
     critic_rating: 6.0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   423732:
     title: |-
       Sakamoto Days
@@ -7612,8 +7630,8 @@ metadata:
         user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 7.9
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   424019:
     title: |-
       Yozakura-san Chi no Daisakusen
