@@ -331,9 +331,7 @@ metadata:
           Angolmois: Genkou Kassenki
         label: Score,Completed,2018 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 7.1
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   460341:
@@ -549,15 +547,13 @@ metadata:
           Baby Steps
         label: Score,Completed,2014 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.5
+        user_rating: 0
       2:
         title: |-
           Baby Steps 2
         label: Score,Completed,2015 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.7
-    critic_rating: 7.9
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   381536:
@@ -1841,7 +1837,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.9
     audience_rating: 7.9
-    critic_rating: 8.1
+    critic_rating: 8.0
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   375271:
@@ -2432,7 +2428,7 @@ metadata:
       Hikaru ga Shinda Natsu
     original_title: |-
       The Summer Hikaru Died
-    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Male Protagonist,Rural,Tragedy,Cosmic Horror,Urban Fantasy,Mythology,Body Horror,LGBTQ+ Themes,Primarily Teen Cast,Curses,Unrequited Love,Philosophy,Boys' Love,Seinen,Gods,Mixed Media,Detective,Denpa
+    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Male Protagonist,Rural,Tragedy,Cosmic Horror,Urban Fantasy,Mythology,Body Horror,LGBTQ+ Themes,Primarily Teen Cast,Curses,Unrequited Love,Philosophy,Seinen,Boys' Love,Gods,Mixed Media,Detective,Denpa
     studio: CygamesPictures
     seasons:
       1:
@@ -2937,9 +2933,9 @@ metadata:
           Kami no Niwatsuki Kusunoki-tei 
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
-    critic_rating: 7.3
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.2
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   376729:
@@ -3325,7 +3321,7 @@ metadata:
       Kill Ao
     original_title: |-
       Kill Blue
-    genre.sync: Action,Comedy,Guns,School,Age Regression,Assassins,Surreal Comedy,Rehabilitation,Kuudere,Primarily Child Cast,Ensemble Cast,Urban,School Club,Crime,Shounen
+    genre.sync: Action,Comedy,Guns,School,Age Regression,Assassins,Surreal Comedy,Rehabilitation,Kuudere,Primarily Child Cast,Ensemble Cast,Urban,School Club,Fake Relationship,Crime,Shounen
     studio: CUE
     seasons:
       1:
@@ -3336,8 +3332,8 @@ metadata:
         user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.4
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Planned,Watching
+    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
   272074:
     title: |-
       Kill la Kill
@@ -3675,7 +3671,7 @@ metadata:
       Koori no Jouheki
     original_title: |-
       The Ramparts of Ice
-    genre.sync: Comedy,Drama,Romance,Slice of Life,Heterosexual,Primarily Teen Cast,Female Protagonist,Kuudere,Ensemble Cast,School,Shoujo,Coming of Age,Bullying,Urban,Love Triangle
+    genre.sync: Comedy,Drama,Romance,Slice of Life,Heterosexual,Primarily Teen Cast,Female Protagonist,Kuudere,Ensemble Cast,School,Coming of Age,Shoujo,Bullying,Urban,Love Triangle
     studio: Studio KAI
     seasons:
       1:
@@ -3683,8 +3679,8 @@ metadata:
           Koori no Jouheki
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.9
-    audience_rating: 7.9
+        user_rating: 8.0
+    audience_rating: 8.0
     critic_rating: 8.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -3955,9 +3951,7 @@ metadata:
           Magic Maker: Isekai Mahou no Tsukurikata
         label: Score,Completed,2025 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 6.8
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   278329:
@@ -4173,7 +4167,7 @@ metadata:
       Mao
     original_title: |-
       Mao
-    genre.sync: Drama,Mystery,Romance,Supernatural,Historical
+    genre.sync: Drama,Mystery,Romance,Supernatural,Historical,Female Protagonist,Exorcism
     studio: Sunrise
     seasons:
       1:
@@ -4181,8 +4175,8 @@ metadata:
           Mao
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
+        user_rating: 6.5
+    audience_rating: 6.5
     critic_rating: 7.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -4305,7 +4299,7 @@ metadata:
       Medalist
     original_title: |-
       Medalist
-    genre.sync: Drama,Psychological,Sports,Ice Skating,Coming of Age,Athletics,Female Protagonist,Dancing,Found Family,Seinen,Male Protagonist,Primarily Child Cast
+    genre.sync: Drama,Psychological,Sports,Ice Skating,Coming of Age,Dancing,Athletics,Female Protagonist,Found Family,Seinen,Male Protagonist,Primarily Child Cast,Rehabilitation,Work
     studio: ENGI
     seasons:
       1:
@@ -4659,9 +4653,9 @@ metadata:
           Niwatori Fighter
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 7.1
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.0
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   275610:
@@ -6016,7 +6010,7 @@ metadata:
       Silent Witch: Chinmoku no Majo no Kakushigoto
     original_title: |-
       Secrets of the Silent Witch
-    genre.sync: Adventure,Fantasy,Female Protagonist,Magic,School,Witch,Primarily Teen Cast,Royal Affairs,Hikikomori,Coming of Age,Politics,Ojou-sama,Class Struggle,Disability
+    genre.sync: Adventure,Fantasy,Female Protagonist,Magic,Witch,School,Primarily Teen Cast,Royal Affairs,Hikikomori,Coming of Age,Politics,Disability,Ojou-sama,Class Struggle,Medieval
     studio: Studio Gokumi
     seasons:
       1:
@@ -6206,7 +6200,7 @@ metadata:
       Suisei no Gargantia
     original_title: |-
       Gargantia on the Verdurous Planet
-    genre.sync: Action,Adventure,Mecha,Sci-Fi,Environmental,Lost Civilization,Artificial Intelligence,Post-Apocalyptic,Male Protagonist,Ships,Real Robot,Isekai,Language Barrier,Military,Aliens,Pirates,Tanned Skin,Space,Heterosexual,Super Robot
+    genre.sync: Action,Adventure,Mecha,Sci-Fi,Environmental,Lost Civilization,Artificial Intelligence,Post-Apocalyptic,Ships,Male Protagonist,Real Robot,Language Barrier,Isekai,Military,Aliens,Pirates,Tanned Skin,Space,Heterosexual,Super Robot
     studio: Production I.G
     seasons:
       0:
@@ -6216,9 +6210,7 @@ metadata:
           Suisei no Gargantia
         label: Score,Completed,2013 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.2
-    critic_rating: 7.4
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   407306:
@@ -7751,11 +7743,11 @@ metadata:
           Yuusha no Kuzu
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
+        user_rating: 6.3
+    audience_rating: 6.3
     critic_rating: 6.5
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   460903:
     title: |-
       Yuusha Party wo Oidasareta Kiyou Binbou
