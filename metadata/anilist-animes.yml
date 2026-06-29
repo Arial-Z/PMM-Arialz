@@ -331,7 +331,9 @@ metadata:
           Angolmois: Genkou Kassenki
         label: Score,Completed,2018 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   460341:
@@ -547,13 +549,15 @@ metadata:
           Baby Steps
         label: Score,Completed,2014 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 7.5
       2:
         title: |-
           Baby Steps 2
         label: Score,Completed,2015 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 7.8
+    audience_rating: 7.7
+    critic_rating: 7.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   381536:
@@ -1508,8 +1512,8 @@ metadata:
         user_rating: 7.8
     audience_rating: 8.1
     critic_rating: 8.2
-    label: Airing,Planning
-    label.remove: Planned,Ended,Watching,Dropped,Paused,
+    label: Ended,Planning
+    label.remove: Planned,Airing,Watching,Dropped,Paused,
   411393:
     title: |-
       Disney Twisted-Wonderland: THE ANIMATION - Season 1: EPISODE of HEARTSLABYUL
@@ -3951,7 +3955,9 @@ metadata:
           Magic Maker: Isekai Mahou no Tsukurikata
         label: Score,Completed,2025 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 6.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   278329:
@@ -6043,6 +6049,20 @@ metadata:
     critic_rating: 8.1
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  465973:
+    title: |-
+      Super no Ura de Yani Suu Futari
+    sort_title: |-
+      Super no Ura de Yani Suu Futari
+    original_title: |-
+      Smoking Behind the Supermarket with You
+    genre.sync: Comedy,Romance,Slice of Life,Seinen,Primarily Adult Cast,Heterosexual,Age Gap,Work,Konbini,Iyashikei
+    studio: Asahi Production
+    seasons:
+      0:
+        label.remove: Score
+    label: Planned
+    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   372921:
     title: |-
       Somali to Mori no Kamisama
@@ -6210,7 +6230,9 @@ metadata:
           Suisei no Gargantia
         label: Score,Completed,2013 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 7.2
+    audience_rating: 7.2
+    critic_rating: 7.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   407306:
@@ -6899,8 +6921,8 @@ metadata:
         user_rating: 8.2
     audience_rating: 8.1
     critic_rating: 8.1
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   390832:
     title: |-
       Tsuki ga Michibiku Isekai Douchuu
@@ -7650,8 +7672,8 @@ metadata:
         user_rating: 7.5
     audience_rating: 7.4
     critic_rating: 7.6
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   330692:
     title: |-
       Yuru Camp△
