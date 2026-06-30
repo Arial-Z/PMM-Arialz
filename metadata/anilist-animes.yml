@@ -4631,7 +4631,7 @@ metadata:
       Nippon Sangoku
     original_title: |-
       NIPPON SANGOKU: The Three Nations of the Crimson Sun
-    genre.sync: Action,Drama,Sci-Fi,Politics,War,Dystopian,Military,Seinen,Philosophy,Revenge,Post-Apocalyptic,Class Struggle,Male Protagonist,Satire,Ensemble Cast
+    genre.sync: Action,Drama,Sci-Fi,Politics,War,Military,Dystopian,Seinen,Revenge,Philosophy,Post-Apocalyptic,Male Protagonist,Ensemble Cast,Class Struggle,Gore
     studio: Studio Kafka
     seasons:
       1:
@@ -4639,8 +4639,8 @@ metadata:
           Nippon Sangoku
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.3
-    audience_rating: 8.3
+        user_rating: 8.4
+    audience_rating: 8.4
     critic_rating: 8.6
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
@@ -6049,20 +6049,6 @@ metadata:
     critic_rating: 8.1
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  465973:
-    title: |-
-      Super no Ura de Yani Suu Futari
-    sort_title: |-
-      Super no Ura de Yani Suu Futari
-    original_title: |-
-      Smoking Behind the Supermarket with You
-    genre.sync: Comedy,Romance,Slice of Life,Seinen,Primarily Adult Cast,Heterosexual,Age Gap,Work,Konbini,Iyashikei
-    studio: Asahi Production
-    seasons:
-      0:
-        label.remove: Score
-    label: Planned
-    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   372921:
     title: |-
       Somali to Mori no Kamisama
@@ -6255,6 +6241,20 @@ metadata:
     critic_rating: 8.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  465973:
+    title: |-
+      Super no Ura de Yani Suu Futari
+    sort_title: |-
+      Super no Ura de Yani Suu Futari
+    original_title: |-
+      Smoking Behind the Supermarket with You
+    genre.sync: Comedy,Romance,Slice of Life,Seinen,Primarily Adult Cast,Heterosexual,Age Gap,Work,Konbini,Iyashikei
+    studio: Asahi Production
+    seasons:
+      0:
+        label.remove: Score
+    label: Planned
+    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   259640:
     title: |-
       Sword Art Online
@@ -6786,7 +6786,7 @@ metadata:
       Tongari Boushi no Atelier
     original_title: |-
       Witch Hat Atelier
-    genre.sync: Adventure,Drama,Fantasy,Magic,Conspiracy,Witch,Drawing,Female Protagonist,Memory Manipulation,Coming of Age,Primarily Female Cast,Found Family,Primarily Child Cast,Philosophy,Medieval,Ensemble Cast,Travel,Seinen,Politics,Disability,Teacher,School
+    genre.sync: Adventure,Drama,Fantasy,Magic,Witch,Conspiracy,Female Protagonist,Drawing,Coming of Age,Memory Manipulation,Primarily Female Cast,Found Family,Primarily Child Cast,Medieval,Philosophy,Ensemble Cast,Travel,Politics,Disability
     studio: BUG FILMS
     seasons:
       1:
@@ -6796,9 +6796,9 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.6
     audience_rating: 8.6
-    critic_rating: 8.7
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    critic_rating: 8.6
+    label: Planned,Watching
+    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
   385077:
     title: |-
       Tonikaku Kawaii
@@ -7511,13 +7511,13 @@ metadata:
           Yi Ren Zhi Xia 5
         label: Score,Completed,2022 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.6
+        user_rating: 6.5
       6:
         title: |-
           Yi Ren Zhi Xia 6
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.5
+        user_rating: 5.8
     audience_rating: 6.5
     critic_rating: 7.0
     label: Ended,Watching
