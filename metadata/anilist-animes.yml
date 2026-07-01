@@ -643,7 +643,7 @@ metadata:
       BanG Dream! Ave Mujica
     original_title: |-
       Ave Mujica - The Die is Cast -
-    genre.sync: Drama,Music,Psychological,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Full CGI,Acting,Metal Music,LGBTQ+ Themes,Yuri,Rock Music,Musical Theater,Incest,Disability,Ensemble Cast
+    genre.sync: Drama,Music,Psychological,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Full CGI,Acting,Metal Music,LGBTQ+ Themes,Yuri,Rock Music,Incest,Musical Theater,Disability,Ensemble Cast
     studio: SANZIGEN
     seasons:
       1:
@@ -4250,8 +4250,8 @@ metadata:
         user_rating: 7.5
     audience_rating: 7.5
     critic_rating: 7.5
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   397965:
     title: |-
       Mashiro no Oto
@@ -4712,6 +4712,24 @@ metadata:
     critic_rating: 7.4
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  465988:
+    title: |-
+      Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu
+    sort_title: |-
+      Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu
+    original_title: |-
+      The Oblivious Saint Can't Contain Her Power
+    genre.sync: Drama,Fantasy,Romance
+    studio: Magic Bus
+    seasons:
+      1:
+        title: |-
+          Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   462789:
     title: |-
       Okiraku Ryoushu no Tanoshii Ryouchi Bouei
@@ -5218,7 +5236,7 @@ metadata:
       Rock wa Lady no Tashinami Deshite
     original_title: |-
       Rock is a Lady’s Modesty
-    genre.sync: Drama,Music,Female Protagonist,Rock Music,Band,Ojou-sama,Primarily Female Cast,Primarily Teen Cast,CGI,Seinen,School,LGBTQ+ Themes,Urban,Yuri,Sweat
+    genre.sync: Drama,Music,Female Protagonist,Rock Music,Band,Ojou-sama,Primarily Female Cast,Primarily Teen Cast,Seinen,School,CGI,Sweat,LGBTQ+ Themes,Urban,Yuri
     studio: Bandai Namco Pictures
     seasons:
       1:
@@ -5374,9 +5392,9 @@ metadata:
           Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.8
-    audience_rating: 5.8
-    critic_rating: 6.0
+        user_rating: 6.2
+    audience_rating: 6.1
+    critic_rating: 6.3
     label: Ended,Watching
     label.remove: Planned,Airing,Dropped,Paused,Planning
   423732:
@@ -7257,7 +7275,7 @@ metadata:
       Watashi wo Tabetai, Hitodenashi
     original_title: |-
       This Monster Wants to Eat Me
-    genre.sync: Drama,Horror,Psychological,Romance,Supernatural,Suicide,Monster Girl,Female Protagonist,Youkai,Primarily Female Cast,Memory Manipulation,Tragedy,Orphan,Mermaid,Coastal,Yuri,Interspecies,Mythology,Rural,LGBTQ+ Themes,Seinen,Gore
+    genre.sync: Drama,Horror,Psychological,Romance,Supernatural,Monster Girl,Suicide,Female Protagonist,Youkai,Primarily Female Cast,Memory Manipulation,Tragedy,Orphan,Mermaid,Coastal,Yuri,Interspecies,Mythology,Rural,LGBTQ+ Themes,Seinen,Gore,School
     studio: Studio Lings
     seasons:
       1:
@@ -7643,11 +7661,11 @@ metadata:
           Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.8
+        user_rating: 7.9
     audience_rating: 7.8
     critic_rating: 7.9
-    label: Ended,Watching
-    label.remove: Planned,Airing,Dropped,Paused,Planning
+    label: Planned,Watching
+    label.remove: Airing,Ended,Dropped,Paused,Planning
   424019:
     title: |-
       Yozakura-san Chi no Daisakusen
