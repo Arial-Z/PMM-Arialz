@@ -1844,6 +1844,18 @@ metadata:
     critic_rating: 8.0
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  328670:
+    title: |-
+      Quanzhi Fashi
+    sort_title: |-
+      Quanzhi Fashi
+    original_title: |-
+      Full-Time Magister
+    genre.sync: Action,Fantasy,Magic,Male Protagonist,School,Revenge
+    studio: Foch
+    seasons:
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   375271:
     title: |-
       Fumetsu no Anata e
@@ -4456,6 +4468,26 @@ metadata:
     critic_rating: 7.7
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  465988:
+    title: |-
+      Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu
+    sort_title: |-
+      Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu
+    original_title: |-
+      The Oblivious Saint Can't Contain Her Power
+    genre.sync: Drama,Fantasy,Romance
+    studio: Magic Bus
+    seasons:
+      1:
+        title: |-
+          Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.0
+    audience_rating: 6.0
+    critic_rating: 6.5
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -4712,24 +4744,6 @@ metadata:
     critic_rating: 7.4
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  465988:
-    title: |-
-      Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu
-    sort_title: |-
-      Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu
-    original_title: |-
-      The Oblivious Saint Can't Contain Her Power
-    genre.sync: Drama,Fantasy,Romance
-    studio: Magic Bus
-    seasons:
-      1:
-        title: |-
-          Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu
-        label: Score,2026 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   462789:
     title: |-
       Okiraku Ryoushu no Tanoshii Ryouchi Bouei
@@ -7200,6 +7214,24 @@ metadata:
     critic_rating: 7.5
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
+  467127:
+    title: |-
+      LV999 no Murabito
+    sort_title: |-
+      LV999 no Murabito
+    original_title: |-
+      The Villager of Level 999
+    genre.sync: Action,Adventure,Comedy,Fantasy
+    studio: Brain's Base
+    seasons:
+      1:
+        title: |-
+          LV999 no Murabito
+        label: Score,Watching,2026 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   359274:
     title: |-
       Vinland Saga
