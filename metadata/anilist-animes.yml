@@ -671,7 +671,9 @@ metadata:
           BanG Dream! Yume∞Mita
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   281270:
@@ -1046,7 +1048,9 @@ metadata:
           Yani Neko
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   457766:
@@ -1330,25 +1334,6 @@ metadata:
     critic_rating: 7.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  471497:
-    title: |-
-      Reiwa no Dara-san
-    sort_title: |-
-      Reiwa no Dara-san
-    original_title: |-
-      Dara-san of the Reiwa Era
-    genre.sync: Comedy,Horror,Supernatural,Monster Girl,Youkai,Crossdressing,Nudity
-    studio: Asahi Production
-    seasons:
-      1:
-        title: |-
-          Reiwa no Dara-san
-        label: Score,2026 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 6.6
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   432832:
     title: |-
       Dandadan
@@ -1697,6 +1682,24 @@ metadata:
     critic_rating: 7.6
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  461714:
+    title: |-
+      Kore Kaite Shine
+    sort_title: |-
+      Kore Kaite Shine
+    original_title: |-
+      Draw This, Then Die!
+    genre.sync: Comedy,Slice of Life,Drawing,Female Protagonist,Coastal,Otaku Culture
+    studio: Shin-Ei Animation
+    seasons:
+      1:
+        title: |-
+          Kore Kaite Shine
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   423257:
     title: |-
       Dungeon Meshi
@@ -1815,24 +1818,6 @@ metadata:
     critic_rating: 7.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  453028:
-    title: |-
-      Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru
-    sort_title: |-
-      Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru
-    original_title: |-
-      The Exiled Heavy Knight Knows How to Game the System
-    genre.sync: Action,Fantasy
-    studio: GoHands
-    seasons:
-      1:
-        title: |-
-          Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru
-        label: Score,Watching,2026 Summer
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   410031:
     title: |-
       Fairy Tail: 100 Years Quest
@@ -2432,7 +2417,7 @@ metadata:
         label: Score,Dropped,2026 Winter
         label.remove: Completed,Watching,Paused,Planning
         user_rating: 7.2
-    audience_rating: 7.2
+    audience_rating: -7.2
     critic_rating: 7.2
     label: Planned,Dropped
     label.remove: Airing,Ended,Completed,Watching,Paused,Planning
@@ -3093,6 +3078,24 @@ metadata:
     critic_rating: 7.6
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
+  473913:
+    title: |-
+      Ushiro no Shoumen Kamui-san
+    sort_title: |-
+      Ushiro no Shoumen Kamui-san
+    original_title: |-
+      KAMUI ---He's behind you
+    genre.sync: Comedy,Ecchi,Supernatural,Nudity,Male Protagonist,Public Sex
+    studio: Zero-G
+    seasons:
+      1:
+        title: |-
+          Ushiro no Shoumen Kamui-san
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   454524:
     title: |-
       Kaoru Hana wa Rin to Saku
@@ -4562,13 +4565,13 @@ metadata:
       1:
         title: |-
           Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu
-        label: Score,2026 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2026 Summer
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.0
     audience_rating: 6.0
     critic_rating: 6.5
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   371310:
     title: |-
       Mushoku Tensei: Isekai Ittara Honki Dasu
@@ -5208,6 +5211,24 @@ metadata:
     critic_rating: 7.7
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  471296:
+    title: |-
+      Uchi no Otouto-domo ga Sumimasen
+    sort_title: |-
+      Uchi no Otouto-domo ga Sumimasen
+    original_title: |-
+      Please Excuse My Younger Brothers
+    genre.sync: Comedy,Romance,Slice of Life,Shoujo,Heterosexual
+    studio: Lay-duce
+    seasons:
+      1:
+        title: |-
+          Uchi no Otouto-domo ga Sumimasen
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   417983:
     title: |-
       Ragna Crimson
@@ -5314,6 +5335,26 @@ metadata:
     critic_rating: 8.6
     label: AA Winner,Airing,Dropped
     label.remove: Planned,Ended,Paused,Planning
+  471497:
+    title: |-
+      Reiwa no Dara-san
+    sort_title: |-
+      Reiwa no Dara-san
+    original_title: |-
+      Dara-san of the Reiwa Era
+    genre.sync: Comedy,Horror,Supernatural,Monster Girl,Youkai,Crossdressing,Nudity
+    studio: Asahi Production
+    seasons:
+      1:
+        title: |-
+          Reiwa no Dara-san
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 5.9
+    audience_rating: 5.9
+    critic_rating: 6.6
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   299508:
     title: |-
       ReLIFE
@@ -5825,7 +5866,7 @@ metadata:
       Shangri-La Frontier
     original_title: |-
       Shangri-La Frontier
-    genre.sync: Action,Adventure,Comedy,Fantasy,Sci-Fi,Video Games,Virtual World,Male Protagonist,Otaku Culture,Swordplay,Anthropomorphism,Travel,Shounen
+    genre.sync: Action,Adventure,Comedy,Fantasy,Sci-Fi,Video Games,Virtual World,Male Protagonist,Otaku Culture,Swordplay,Anthropomorphism,Shounen,Travel
     studio: C2C
     seasons:
       1:
@@ -6227,7 +6268,7 @@ metadata:
       Sousou no Frieren
     original_title: |-
       Frieren: Beyond Journey’s End
-    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Female Protagonist,Philosophy,Time Skip,Medieval,Found Family,Kuudere,Demons,Iyashikei,Foreign,Shounen
+    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Female Protagonist,Philosophy,Time Skip,Medieval,Found Family,Kuudere,Iyashikei,Demons,Foreign,Shounen
     studio: MADHOUSE
     seasons:
       1:
@@ -6447,7 +6488,7 @@ metadata:
       Tate no Yuusha no Nariagari
     original_title: |-
       The Rising of the Shield Hero
-    genre.sync: Action,Adventure,Fantasy,Isekai,Male Protagonist,Conspiracy,Travel,Crime,Revenge,Magic,Medieval,Anti-Hero,Tragedy,Bullying,Kemonomimi,Henshin,Politics,Matriarchy,Cult
+    genre.sync: Action,Adventure,Fantasy,Isekai,Male Protagonist,Conspiracy,Travel,Medieval,Revenge,Crime,Magic,Politics,Anti-Hero,Tragedy,Kemonomimi,Bullying,Henshin,Matriarchy,Swordplay,Spearplay,Cult
     studio: Kinema Citrus
     seasons:
       1:
@@ -6593,7 +6634,7 @@ metadata:
       Tensei Shitara Dai Nana Ouji Datta node, Kimamani Majutsu wo Kiwamemasu
     original_title: |-
       I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability
-    genre.sync: Action,Adventure,Fantasy,Magic,Male Protagonist,Reincarnation,Femboy,Creature Taming,Demons,Chibi,Assassins,Spearplay,Medieval,Female Harem,Swordplay,Maids
+    genre.sync: Action,Adventure,Fantasy,Magic,Male Protagonist,Reincarnation,Cute Boys Doing Cute Things,Creature Taming,Femboy,Demons,Chibi,Assassins,Spearplay,Medieval,Female Harem,Swordplay,Maids
     studio: Tsumugi Akita Anime Lab
     seasons:
       1:
@@ -7048,6 +7089,26 @@ metadata:
     critic_rating: 8.1
     label: Ended,Watching
     label.remove: Planned,Airing,Dropped,Paused,Planning
+  453028:
+    title: |-
+      Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru
+    sort_title: |-
+      Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru
+    original_title: |-
+      The Exiled Heavy Knight Knows How to Game the System
+    genre.sync: Action,Fantasy
+    studio: GoHands
+    seasons:
+      1:
+        title: |-
+          Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru
+        label: Score,Watching,2026 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 7.1
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   390832:
     title: |-
       Tsuki ga Michibiku Isekai Douchuu
@@ -7107,7 +7168,7 @@ metadata:
       Tu Bian Yingxiong X
     original_title: |-
       To Be Hero X
-    genre.sync: Action,Drama,Mystery,Supernatural,Dystopian,Superhero,Conspiracy,Urban Fantasy,Achronological Order,Philosophy,Ensemble Cast,Mixed Media,Super Power,Tragedy,Cyberpunk,Anti-Hero,CGI,Urban,Revenge,Body Horror,Henshin,Idol
+    genre.sync: Action,Drama,Mystery,Supernatural,Superhero,Dystopian,Conspiracy,Urban Fantasy,Achronological Order,Super Power,Ensemble Cast,Mixed Media,Anti-Hero,Tragedy,CGI,Revenge,Cyberpunk,Philosophy,Idol
     studio: Paper Plane Animation Studio
     seasons:
       1:
@@ -7200,7 +7261,7 @@ metadata:
       Undead Unluck
     original_title: |-
       Undead Unluck
-    genre.sync: Action,Comedy,Sci-Fi,Supernatural,Male Protagonist,Female Protagonist,Super Power,Shounen,Time Loop,Cosmic Horror,Tragedy,Dissociative Identities,Gore,Foreign,Urban Fantasy,Primarily Adult Cast,Memory Manipulation,Heterosexual,Nudity,Zombie,Time Manipulation,Age Gap,Suicide
+    genre.sync: Action,Comedy,Sci-Fi,Supernatural,Male Protagonist,Female Protagonist,Super Power,Shounen,Urban Fantasy,Time Loop,Cosmic Horror,Tragedy,Dissociative Identities,Gore,Foreign,Primarily Adult Cast,Memory Manipulation,Heterosexual,Nudity,Zombie,Time Manipulation,Age Gap,Suicide
     studio: david production
     seasons:
       1:
@@ -7402,7 +7463,7 @@ metadata:
       Wind Breaker
     original_title: |-
       Wind Breaker
-    genre.sync: Action,Comedy,Drama,Gangs,Delinquents,Male Protagonist,Primarily Male Cast,Shounen,School,Found Family,Urban,Tsundere,Primarily Teen Cast,Coming of Age,Ensemble Cast,Bullying,Martial Arts
+    genre.sync: Action,Comedy,Drama,Gangs,Delinquents,Primarily Male Cast,Male Protagonist,Shounen,School,Urban,Found Family,Tsundere,Martial Arts,Primarily Teen Cast,Coming of Age,Ensemble Cast,Bullying
     studio: CloverWorks
     seasons:
       1:
@@ -7482,7 +7543,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.2
     audience_rating: 7.8
-    critic_rating: 8.0
+    critic_rating: 7.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   341425:
@@ -7546,7 +7607,7 @@ metadata:
           Xian Wang de Richang Shenghuo 5
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.5
+        user_rating: 7.6
     audience_rating: 7.4
     critic_rating: 7.4
     label: Ended,Completed
@@ -7668,7 +7729,7 @@ metadata:
           Yofukashi no Uta Season 2
         label: Score,Watching,2025 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.3
+        user_rating: 8.4
     audience_rating: 8.1
     critic_rating: 8.1
     label: Ended,Watching
@@ -7700,7 +7761,7 @@ metadata:
       Yoru no Kurage wa Oyogenai
     original_title: |-
       Jellyfish Can’t Swim in the Night
-    genre.sync: Drama,Music,Slice of Life,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Drawing,Urban,Band,Idol,Cute Girls Doing Cute Things,Hikikomori
+    genre.sync: Drama,Music,Slice of Life,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Coming of Age,Drawing,Urban,Band,Idol,Cute Girls Doing Cute Things,Hikikomori,LGBTQ+ Themes
     studio: Doga Kobo
     seasons:
       1:
@@ -7962,7 +8023,7 @@ metadata:
       Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto
     original_title: |-
       Zom 100: Bucket List of the Dead
-    genre.sync: Action,Adventure,Comedy,Horror,Supernatural,Zombie,Travel,Post-Apocalyptic,Surreal Comedy,Survival,Rural,Male Protagonist,Urban,Urban Fantasy,Primarily Adult Cast,Slapstick,Rehabilitation,Tsundere,Seinen,Work,Gore,Body Horror
+    genre.sync: Action,Adventure,Comedy,Horror,Supernatural,Zombie,Travel,Post-Apocalyptic,Surreal Comedy,Survival,Rural,Male Protagonist,Urban,Urban Fantasy,Slapstick,Primarily Adult Cast,Rehabilitation,Tsundere,Seinen,Work,Gore,Body Horror
     studio: BUG FILMS
     seasons:
       1:
