@@ -534,24 +534,6 @@ metadata:
     critic_rating: 7.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  450228:
-    title: |-
-      Sayonara Lara
-    sort_title: |-
-      Sayonara Lara
-    original_title: |-
-      Goodbye, Lara
-    genre.sync: Romance,Supernatural,Fairy Tale,Mermaid,Reincarnation,Coastal,Female Protagonist,Interspecies,Time Skip,Curses,Shapeshifting
-    studio: Kinema Citrus
-    seasons:
-      1:
-        title: |-
-          Sayonara Lara
-        label: Score,2026 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   278152:
     title: |-
       Baby Steps
@@ -654,46 +636,6 @@ metadata:
     critic_rating: 8.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  439765:
-    title: |-
-      BanG Dream! Ave Mujica
-    sort_title: |-
-      BanG Dream! Ave Mujica
-    original_title: |-
-      Ave Mujica - The Die is Cast -
-    genre.sync: Drama,Music,Psychological,Band,Female Protagonist,Primarily Female Cast,Primarily Teen Cast,Tragedy,Dissociative Identities,Estranged Family,Full CGI,Acting,Metal Music,LGBTQ+ Themes,Yuri,Rock Music,Incest,Musical Theater,Disability,Ensemble Cast
-    studio: SANZIGEN
-    seasons:
-      1:
-        title: |-
-          BanG Dream! Ave Mujica
-        label: Score,2025 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.1
-    audience_rating: 8.1
-    critic_rating: 8.1
-    label: Planned
-    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
-  467841:
-    title: |-
-      BanG Dream! Yume∞Mita
-    sort_title: |-
-      BanG Dream! Yume∞Mita
-    original_title: |-
-      BanG Dream! YUME∞MITA
-    genre.sync: Music,Primarily Female Cast,Female Protagonist,Primarily Teen Cast,Band,VTuber,School,Full CGI,Virtual World,Urban,Yandere,Blackmail,Bullying
-    studio: NICHICALINE
-    seasons:
-      1:
-        title: |-
-          BanG Dream! Yume∞Mita
-        label: Score,2026 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 7.4
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   281270:
     title: |-
       Barakamon
@@ -1352,26 +1294,6 @@ metadata:
     critic_rating: 7.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  471497:
-    title: |-
-      Reiwa no Dara-san
-    sort_title: |-
-      Reiwa no Dara-san
-    original_title: |-
-      Dara-san of the Reiwa Era
-    genre.sync: Comedy,Horror,Supernatural,Crossdressing,Tomboy,Monster Girl,Youkai,Gods,Curses,Nudity,Shrine Maiden,Femboy
-    studio: Asahi Production
-    seasons:
-      1:
-        title: |-
-          Reiwa no Dara-san
-        label: Score,2026 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.9
-    audience_rating: 5.9
-    critic_rating: 6.6
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   432832:
     title: |-
       Dandadan
@@ -1619,7 +1541,7 @@ metadata:
       Dorohedoro
     original_title: |-
       Dorohedoro
-    genre.sync: Action,Adventure,Comedy,Fantasy,Horror,Mystery,Dystopian,Monster Boy,Anthropomorphism,Magic,Amnesia,CGI,Full CGI,Gore,Surreal Comedy,Body Horror,Seinen,Ensemble Cast,Curses,Urban Fantasy,Male Protagonist,Henshin,Anti-Hero,Primarily Adult Cast,Revenge,Restaurant,Found Family,Demons
+    genre.sync: Action,Adventure,Comedy,Fantasy,Horror,Mystery,Dystopian,Monster Boy,Anthropomorphism,Magic,Amnesia,CGI,Full CGI,Gore,Surreal Comedy,Body Horror,Seinen,Curses,Ensemble Cast,Henshin,Male Protagonist,Urban Fantasy,Anti-Hero,Primarily Adult Cast,Revenge,Found Family,Restaurant,Demons
     studio: MAPPA
     seasons:
       0:
@@ -1720,26 +1642,6 @@ metadata:
     critic_rating: 7.6
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  461714:
-    title: |-
-      Kore Kaite Shine
-    sort_title: |-
-      Kore Kaite Shine
-    original_title: |-
-      Draw This, Then Die!
-    genre.sync: Comedy,Slice of Life,Drawing,Female Protagonist,Coastal,Otaku Culture
-    studio: Shin-Ei Animation
-    seasons:
-      1:
-        title: |-
-          Kore Kaite Shine
-        label: Score,2026 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 7.3
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   423257:
     title: |-
       Dungeon Meshi
@@ -1873,29 +1775,11 @@ metadata:
           Nijusseiki Denki Mokuroku: Eureka・Evrika
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 7.3
+    audience_rating: 7.3
+    critic_rating: 7.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
-  453028:
-    title: |-
-      Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru
-    sort_title: |-
-      Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru
-    original_title: |-
-      The Exiled Heavy Knight Knows How to Game the System
-    genre.sync: Action,Fantasy,CGI
-    studio: GoHands
-    seasons:
-      1:
-        title: |-
-          Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru
-        label: Score,Watching,2026 Summer
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 7.1
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   410031:
     title: |-
       Fairy Tail: 100 Years Quest
@@ -2265,10 +2149,16 @@ metadata:
         label: Score,Watching,2025 Summer
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.4
-    audience_rating: 8.3
-    critic_rating: 8.4
-    label: Planned,Watching
-    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
+      3:
+        title: |-
+          Grand Blue Season 3
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    audience_rating: 16.6
+    critic_rating: 8.5
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   376144:
     title: |-
       Great Pretender
@@ -2304,7 +2194,7 @@ metadata:
       Grow Up Show: Himawari no Circus-dan
     original_title: |-
       Grow Up Show
-    genre.sync: Circus,Cute Girls Doing Cute Things,Female Protagonist
+    genre.sync: Circus,Cute Girls Doing Cute Things,Female Protagonist,Primarily Female Cast,Found Family,Acrobatics
     studio: A-1 Pictures
     seasons:
       1:
@@ -2770,25 +2660,6 @@ metadata:
     critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  471657:
-    title: |-
-      Tetsunabe no Jan!
-    sort_title: |-
-      Tetsunabe no Jan!
-    original_title: |-
-      Iron Wok Jan!
-    genre.sync: Action,Comedy,Food,Restaurant
-    studio: TROYCA
-    seasons:
-      1:
-        title: |-
-          Tetsunabe no Jan!
-        label: Score,2026 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 6.8
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   422186:
     title: |-
       Isekai de Mofumofu Nadenade Suru Tame ni Ganbattemasu.
@@ -2875,6 +2746,26 @@ metadata:
     critic_rating: 7.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  472831:
+    title: |-
+      Iwamoto-senpai no Suisen
+    sort_title: |-
+      Iwamoto-senpai no Suisen
+    original_title: |-
+      Recommendations from Iwamoto-Senpai
+    genre.sync: Action,Supernatural
+    studio: Studio DEEN
+    seasons:
+      1:
+        title: |-
+          Iwamoto-senpai no Suisen
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 5.4
+    audience_rating: 5.4
+    critic_rating: 6.2
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   423121:
     title: |-
       Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
@@ -3862,6 +3753,26 @@ metadata:
     critic_rating: 8.2
     label: Planned
     label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
+  461714:
+    title: |-
+      Kore Kaite Shine
+    sort_title: |-
+      Kore Kaite Shine
+    original_title: |-
+      Draw This, Then Die!
+    genre.sync: Comedy,Slice of Life,Drawing,Female Protagonist,Coastal,Otaku Culture
+    studio: Shin-Ei Animation
+    seasons:
+      1:
+        title: |-
+          Kore Kaite Shine
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 7.3
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   413515:
     title: |-
       Koukyuu no Karasu
@@ -4011,7 +3922,8 @@ metadata:
           Let's Go Kaikigumi
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 5.4
+    audience_rating: 5.4
     critic_rating: 6.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -4037,6 +3949,24 @@ metadata:
     critic_rating: 7.8
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
+  467005:
+    title: |-
+      Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu
+    sort_title: |-
+      Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu
+    original_title: |-
+      A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires
+    genre.sync: Drama,Fantasy,Female Protagonist,Villainess
+    studio: Studio Comet
+    seasons:
+      1:
+        title: |-
+          Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu
+        label: Score,Watching,2026 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   467127:
     title: |-
       LV999 no Murabito
@@ -4168,7 +4098,9 @@ metadata:
           Magic Maker: Isekai Mahou no Tsukurikata
         label: Score,Completed,2025 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 6.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   458309:
@@ -4178,7 +4110,7 @@ metadata:
       Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance
     original_title: |-
       Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance
-    genre.sync: Action,Comedy,Drama,Fantasy,Mahou Shoujo,Female Protagonist,Magic,Henshin,Primarily Female Cast,Demons,Super Power
+    genre.sync: Action,Comedy,Drama,Fantasy,Mahou Shoujo,Female Protagonist,Magic,Henshin,Primarily Female Cast,Demons,Gore,Tragedy,Super Power,Post-Apocalyptic,Found Family,Guns
     studio: Seven Arcs
     seasons:
       1:
@@ -4470,7 +4402,7 @@ metadata:
       Marriagetoxin
     original_title: |-
       Marriagetoxin
-    genre.sync: Action,Comedy,Drama,Romance,Marriage,Assassins,Crime,Urban,Surreal Comedy,Femboy,Primarily Adult Cast,Crossdressing,Super Power,Bisexual,Male Protagonist,Urban Fantasy,Shounen,Heterosexual,LGBTQ+ Themes,Female Harem
+    genre.sync: Action,Comedy,Drama,Romance,Assassins,Marriage,Crime,Urban,Surreal Comedy,Primarily Adult Cast,Femboy,Crossdressing,Super Power,Bisexual,Male Protagonist,Female Harem,Urban Fantasy,Shounen,Heterosexual,LGBTQ+ Themes
     studio: bones film
     seasons:
       1:
@@ -4478,11 +4410,11 @@ metadata:
           Marriagetoxin
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
-    critic_rating: 7.5
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+        user_rating: 7.6
+    audience_rating: 7.6
+    critic_rating: 7.6
+    label: Planned,Watching
+    label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
   397965:
     title: |-
       Mashiro no Oto
@@ -4734,13 +4666,13 @@ metadata:
       3:
         title: |-
           Mushoku Tensei III: Isekai Ittara Honki Dasu
-        label: Score,2026 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2026 Summer
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.6
     audience_rating: 8.4
     critic_rating: 8.6
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   446389:
     title: |-
       Nageki no Bourei wa Intai Shitai
@@ -4888,7 +4820,7 @@ metadata:
       Nippon Sangoku
     original_title: |-
       NIPPON SANGOKU: The Three Nations of the Crimson Sun
-    genre.sync: Action,Drama,Sci-Fi,Politics,War,Military,Dystopian,Seinen,Revenge,Philosophy,Post-Apocalyptic,Male Protagonist,Ensemble Cast,Class Struggle,Gore
+    genre.sync: Action,Drama,Sci-Fi,Politics,War,Military,Seinen,Dystopian,Revenge,Philosophy,Post-Apocalyptic,Ensemble Cast,Male Protagonist,Primarily Adult Cast,Class Struggle,Gore,Tragedy
     studio: Studio Kafka
     seasons:
       1:
@@ -4969,26 +4901,6 @@ metadata:
     critic_rating: 7.4
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  464625:
-    title: |-
-      Oni no Hanayome
-    sort_title: |-
-      Oni no Hanayome
-    original_title: |-
-      The Ogre's Bride
-    genre.sync: Drama,Fantasy,Romance
-    studio: Colored Pencil Animation Japan
-    seasons:
-      1:
-        title: |-
-          Oni no Hanayome
-        label: Score,Watching,2026 Summer
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
-    critic_rating: 7.0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   462789:
     title: |-
       Okiraku Ryoushu no Tanoshii Ryouchi Bouei
@@ -5056,6 +4968,26 @@ metadata:
     critic_rating: 6.9
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  464625:
+    title: |-
+      Oni no Hanayome
+    sort_title: |-
+      Oni no Hanayome
+    original_title: |-
+      The Ogre's Bride
+    genre.sync: Drama,Fantasy,Romance
+    studio: Colored Pencil Animation Japan
+    seasons:
+      1:
+        title: |-
+          Oni no Hanayome
+        label: Score,Watching,2026 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 7.0
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   81178:
     title: |-
       Ookami to Koushinryou
@@ -5372,26 +5304,6 @@ metadata:
     critic_rating: 7.7
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  471296:
-    title: |-
-      Uchi no Otouto-domo ga Sumimasen
-    sort_title: |-
-      Uchi no Otouto-domo ga Sumimasen
-    original_title: |-
-      Please Excuse My Younger Brothers
-    genre.sync: Comedy,Romance,Slice of Life,Shoujo,Heterosexual
-    studio: Lay-duce
-    seasons:
-      1:
-        title: |-
-          Uchi no Otouto-domo ga Sumimasen
-        label: Score,2026 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
-    critic_rating: 6.8
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   417983:
     title: |-
       Ragna Crimson
@@ -5493,29 +5405,29 @@ metadata:
           Re:Zero kara Hajimeru Isekai Seikatsu 4th Season
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.9
-    audience_rating: 8.4
+        user_rating: 9.0
+    audience_rating: 8.5
     critic_rating: 8.6
     label: AA Winner,Airing,Dropped
     label.remove: Planned,Ended,Paused,Planning
-  472831:
+  471497:
     title: |-
-      Iwamoto-senpai no Suisen
+      Reiwa no Dara-san
     sort_title: |-
-      Iwamoto-senpai no Suisen
+      Reiwa no Dara-san
     original_title: |-
-      Recommendations from Iwamoto-Senpai
-    genre.sync: Action,Supernatural
-    studio: Studio DEEN
+      Dara-san of the Reiwa Era
+    genre.sync: Comedy,Horror,Supernatural,Crossdressing,Tomboy,Monster Girl,Youkai,Gods,Curses,Nudity,Shrine Maiden,Femboy
+    studio: Asahi Production
     seasons:
       1:
         title: |-
-          Iwamoto-senpai no Suisen
+          Reiwa no Dara-san
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.4
-    audience_rating: 5.4
-    critic_rating: 6.2
+        user_rating: 5.9
+    audience_rating: 5.9
+    critic_rating: 6.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   299508:
@@ -5830,6 +5742,26 @@ metadata:
     critic_rating: 6.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  450228:
+    title: |-
+      Sayonara Lara
+    sort_title: |-
+      Sayonara Lara
+    original_title: |-
+      Goodbye, Lara
+    genre.sync: Romance,Supernatural,Fairy Tale,Mermaid,Reincarnation,Coastal,Female Protagonist,Interspecies,Time Skip,Curses,Shapeshifting
+    studio: Kinema Citrus
+    seasons:
+      1:
+        title: |-
+          Sayonara Lara
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.3
+    audience_rating: 7.3
+    critic_rating: 7.6
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   457078:
     title: |-
       Seihantai na Kimi to Boku
@@ -5837,7 +5769,7 @@ metadata:
       Seihantai na Kimi to Boku
     original_title: |-
       You and I Are Polar Opposites
-    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Ensemble Cast,School,Iyashikei,Primarily Teen Cast,Coming of Age,Asexual,Gyaru,Kuudere,Urban
+    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Ensemble Cast,School,Primarily Teen Cast,Coming of Age,Iyashikei,Gyaru,Kuudere,Urban,Asexual
     studio: Lapin Track
     seasons:
       1:
@@ -5848,8 +5780,8 @@ metadata:
         user_rating: 8.3
     audience_rating: -8.3
     critic_rating: 8.3
-    label: Planned
-    label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   425756:
     title: |-
       Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
@@ -5959,7 +5891,9 @@ metadata:
           Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 5.9
+    audience_rating: 5.9
+    critic_rating: 6.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   438151:
@@ -6749,7 +6683,7 @@ metadata:
       Tenmaku no Jaadugar
     original_title: |-
       Jaadugar: A Witch in Mongolia
-    genre.sync: Drama,Female Protagonist,Royal Affairs,Historical,Josei,Foreign,Conspiracy,Espionage,War,Tragedy,Politics,Indigenous Cultures,Revenge,Slavery,Kingdom Management,Religion
+    genre.sync: Drama,Tragedy,Female Protagonist,Revenge,Historical,Royal Affairs,Foreign,Josei,Slavery,Conspiracy,Espionage,Educational,War,Politics,Indigenous Cultures,Religion,Coming of Age,Survival,Kingdom Management,Desert,Orphan,Travel,Class Struggle
     studio: Science SARU
     seasons:
       1:
@@ -6954,6 +6888,26 @@ metadata:
     critic_rating: 6.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  471657:
+    title: |-
+      Tetsunabe no Jan!
+    sort_title: |-
+      Tetsunabe no Jan!
+    original_title: |-
+      Iron Wok Jan!
+    genre.sync: Action,Comedy,Food,Restaurant
+    studio: TROYCA
+    seasons:
+      1:
+        title: |-
+          Tetsunabe no Jan!
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.8
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   436948:
     title: |-
       The Fable
@@ -7153,7 +7107,7 @@ metadata:
       Tongari Boushi no Atelier
     original_title: |-
       Witch Hat Atelier
-    genre.sync: Adventure,Drama,Fantasy,Magic,Witch,Conspiracy,Female Protagonist,Drawing,Coming of Age,Memory Manipulation,Primarily Female Cast,Found Family,Primarily Child Cast,Medieval,Philosophy,Ensemble Cast,Travel,Politics,Disability
+    genre.sync: Adventure,Drama,Fantasy,Magic,Witch,Conspiracy,Female Protagonist,Drawing,Memory Manipulation,Primarily Female Cast,Coming of Age,Found Family,Primarily Child Cast,Medieval,Ensemble Cast,Philosophy,Teacher,Seinen,Politics,Travel,Disability
     studio: BUG FILMS
     seasons:
       1:
@@ -7161,8 +7115,8 @@ metadata:
           Tongari Boushi no Atelier
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.6
-    audience_rating: 8.6
+        user_rating: 8.5
+    audience_rating: 8.5
     critic_rating: 8.6
     label: Planned,Watching
     label.remove: Airing,Ended,Completed,Dropped,Paused,Planning
@@ -7290,6 +7244,26 @@ metadata:
     critic_rating: 8.1
     label: Planned,Watching
     label.remove: Airing,Ended,Dropped,Paused,Planning
+  453028:
+    title: |-
+      Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru
+    sort_title: |-
+      Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru
+    original_title: |-
+      The Exiled Heavy Knight Knows How to Game the System
+    genre.sync: Action,Fantasy,CGI
+    studio: GoHands
+    seasons:
+      1:
+        title: |-
+          Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru
+        label: Score,Watching,2026 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 7.1
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   390832:
     title: |-
       Tsuki ga Michibiku Isekai Douchuu
@@ -7362,6 +7336,26 @@ metadata:
     critic_rating: 8.7
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
+  471296:
+    title: |-
+      Uchi no Otouto-domo ga Sumimasen
+    sort_title: |-
+      Uchi no Otouto-domo ga Sumimasen
+    original_title: |-
+      Please Excuse My Younger Brothers
+    genre.sync: Comedy,Romance,Slice of Life,Shoujo,Heterosexual
+    studio: Lay-duce
+    seasons:
+      1:
+        title: |-
+          Uchi no Otouto-domo ga Sumimasen
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.8
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   256705:
     title: |-
       Uchuu Kyoudai
@@ -7435,6 +7429,25 @@ metadata:
     critic_rating: 8.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  470520:
+    title: |-
+      Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.
+    sort_title: |-
+      Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.
+    original_title: |-
+      Love Unseen Beneath the Clear Night Sky
+    genre.sync: Drama,Romance,Disability,Heterosexual,Primarily Adult Cast,College,Urban
+    studio: Makaria
+    seasons:
+      1:
+        title: |-
+          Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 7.3
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   423030:
     title: |-
       Undead Unluck
@@ -7878,7 +7891,7 @@ metadata:
           Yi Ren Zhi Xia 5
         label: Score,Completed,2022 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.5
+        user_rating: 0
       6:
         title: |-
           Yi Ren Zhi Xia 6
