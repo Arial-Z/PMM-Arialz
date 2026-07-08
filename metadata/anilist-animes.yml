@@ -1760,26 +1760,26 @@ metadata:
     critic_rating: 7.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  407704:
+  453028:
     title: |-
-      Nijusseiki Denki Mokuroku: Eureka・Evrika
+      Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru
     sort_title: |-
-      Nijusseiki Denki Mokuroku: Eureka・Evrika
+      Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru
     original_title: |-
-      Sparks of Tomorrow
-    genre.sync: Adventure,Romance,Steampunk,Male Protagonist,Historical
-    studio: Kyoto Animation
+      The Exiled Heavy Knight Knows How to Game the System
+    genre.sync: Action,Fantasy,CGI
+    studio: GoHands
     seasons:
       1:
         title: |-
-          Nijusseiki Denki Mokuroku: Eureka・Evrika
-        label: Score,2026 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.3
-    audience_rating: 7.3
-    critic_rating: 7.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+          Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru
+        label: Score,Watching,2026 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 7.1
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   410031:
     title: |-
       Fairy Tail: 100 Years Quest
@@ -1976,6 +1976,24 @@ metadata:
     critic_rating: 7.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  450475:
+    title: |-
+      Koukaku Kidoutai: THE GHOST IN THE SHELL
+    sort_title: |-
+      Koukaku Kidoutai: THE GHOST IN THE SHELL
+    original_title: |-
+      The Ghost In The Shell
+    genre.sync: Action,Psychological,Sci-Fi,Philosophy,Cyberpunk,Cyborg,Female Protagonist,Artificial Intelligence,Robots,Primarily Adult Cast,Guns,Urban,Police,Politics
+    studio: Science SARU
+    seasons:
+      1:
+        title: |-
+          Koukaku Kidoutai: THE GHOST IN THE SHELL
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   267246:
     title: |-
       Gin no Saji
@@ -2154,9 +2172,9 @@ metadata:
           Grand Blue Season 3
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    audience_rating: 16.6
-    critic_rating: 8.5
+        user_rating: 8.2
+    audience_rating: 8.3
+    critic_rating: 8.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   376144:
@@ -2660,6 +2678,26 @@ metadata:
     critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  476185:
+    title: |-
+      Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru
+    sort_title: |-
+      Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru
+    original_title: |-
+      The Insipid Prince's Furtive Grab for the Throne
+    genre.sync: Action,Comedy,Drama,Fantasy,Romance
+    studio: Maho Film
+    seasons:
+      1:
+        title: |-
+          Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru
+        label: Score,Watching,2026 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.3
+    audience_rating: 6.3
+    critic_rating: 6.6
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   422186:
     title: |-
       Isekai de Mofumofu Nadenade Suru Tame ni Ganbattemasu.
@@ -2764,6 +2802,24 @@ metadata:
         user_rating: 5.4
     audience_rating: 5.4
     critic_rating: 6.2
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+  460899:
+    title: |-
+      Kimi ga Shinu made Koi wo Shitai
+    sort_title: |-
+      Kimi ga Shinu made Koi wo Shitai
+    original_title: |-
+      I Want to Love You Till Your Dying Day
+    genre.sync: Drama,Fantasy,Romance,War,Yuri,Magic,Tragedy,Primarily Female Cast,Primarily Teen Cast,Female Protagonist,School,Gore,Body Horror,LGBTQ+ Themes,Orphan,Military
+    studio: ROLL2
+    seasons:
+      1:
+        title: |-
+          Kimi ga Shinu made Koi wo Shitai
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   423121:
@@ -3964,7 +4020,9 @@ metadata:
           Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   467127:
@@ -4250,7 +4308,7 @@ metadata:
       Majo no Tabitabi
     original_title: |-
       Wandering Witch: The Journey of Elaina
-    genre.sync: Adventure,Fantasy,Slice of Life,Witch,Episodic,Magic,Female Protagonist,Travel,Cute Girls Doing Cute Things,Primarily Female Cast,Time Skip,Medieval,Achronological Order,Tragedy
+    genre.sync: Adventure,Fantasy,Slice of Life,Episodic,Witch,Magic,Female Protagonist,Travel,Cute Girls Doing Cute Things,Primarily Female Cast,Time Skip,Medieval,Achronological Order,Tragedy
     studio: C2C
     seasons:
       1:
@@ -4813,6 +4871,26 @@ metadata:
     critic_rating: 7.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  407704:
+    title: |-
+      Nijusseiki Denki Mokuroku: Eureka・Evrika
+    sort_title: |-
+      Nijusseiki Denki Mokuroku: Eureka・Evrika
+    original_title: |-
+      Sparks of Tomorrow
+    genre.sync: Adventure,Romance,Steampunk,Male Protagonist,Historical
+    studio: Kyoto Animation
+    seasons:
+      1:
+        title: |-
+          Nijusseiki Denki Mokuroku: Eureka・Evrika
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.3
+    audience_rating: 7.3
+    critic_rating: 7.7
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   473228:
     title: |-
       Nippon Sangoku
@@ -5082,8 +5160,8 @@ metadata:
         user_rating: 8.5
     audience_rating: 8.3
     critic_rating: 8.3
-    label: AA Winner,Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: AA Winner,Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   412826:
     title: |-
       Otomege Sekai wa Mob ni Kibishii Sekai desu
@@ -5410,6 +5488,24 @@ metadata:
     critic_rating: 8.6
     label: AA Winner,Airing,Dropped
     label.remove: Planned,Ended,Paused,Planning
+  474027:
+    title: |-
+      Sora wa Akai Kawa no Hotori
+    sort_title: |-
+      Sora wa Akai Kawa no Hotori
+    original_title: |-
+      Red River
+    genre.sync: Action,Adventure,Drama,Fantasy,Romance,Time Manipulation,Historical,Tragedy,Politics,Swordplay,Kingdom Management,Survival,Female Protagonist,Shoujo,Indigenous Cultures,Foreign
+    studio: Tatsunoko Production
+    seasons:
+      1:
+        title: |-
+          Sora wa Akai Kawa no Hotori
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   471497:
     title: |-
       Reiwa no Dara-san
@@ -5615,7 +5711,7 @@ metadata:
           Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.2
+        user_rating: 6.3
     audience_rating: 6.1
     critic_rating: 6.3
     label: Ended,Watching
@@ -5749,7 +5845,7 @@ metadata:
       Sayonara Lara
     original_title: |-
       Goodbye, Lara
-    genre.sync: Romance,Supernatural,Fairy Tale,Mermaid,Reincarnation,Coastal,Female Protagonist,Interspecies,Time Skip,Curses,Shapeshifting
+    genre.sync: Romance,Supernatural,Fairy Tale,Coastal,Mermaid,Female Protagonist,Reincarnation,Interspecies,Urban Fantasy,Time Skip,Curses,Shapeshifting,Witch,Magic
     studio: Kinema Citrus
     seasons:
       1:
@@ -6576,6 +6672,24 @@ metadata:
     critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  402642:
+    title: |-
+      Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai
+    sort_title: |-
+      Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai
+    original_title: |-
+      Young Ladies Don't Play Fighting Games
+    genre.sync: Drama,Video Games,Female Protagonist,Primarily Female Cast,Ojou-sama,Primarily Teen Cast,Yuri,School,E-Sports
+    studio: diomedéa
+    seasons:
+      1:
+        title: |-
+          Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   305104:
     title: |-
       Tanaka-kun wa Itsumo Kedaruge
@@ -6883,9 +6997,7 @@ metadata:
           Teogonia
         label: Score,Completed,2025 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 6.9
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   471657:
@@ -7190,6 +7302,26 @@ metadata:
     critic_rating: 7.8
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
+  470520:
+    title: |-
+      Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.
+    sort_title: |-
+      Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.
+    original_title: |-
+      Love Unseen Beneath the Clear Night Sky
+    genre.sync: Drama,Romance,Disability,Heterosexual,Primarily Adult Cast,College,Urban
+    studio: Makaria
+    seasons:
+      1:
+        title: |-
+          Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.3
+    audience_rating: 7.3
+    critic_rating: 7.3
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   421378:
     title: |-
       Trigun Stampede
@@ -7244,26 +7376,6 @@ metadata:
     critic_rating: 8.1
     label: Planned,Watching
     label.remove: Airing,Ended,Dropped,Paused,Planning
-  453028:
-    title: |-
-      Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru
-    sort_title: |-
-      Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru
-    original_title: |-
-      The Exiled Heavy Knight Knows How to Game the System
-    genre.sync: Action,Fantasy,CGI
-    studio: GoHands
-    seasons:
-      1:
-        title: |-
-          Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru
-        label: Score,Watching,2026 Summer
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 7.1
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   390832:
     title: |-
       Tsuki ga Michibiku Isekai Douchuu
@@ -7429,25 +7541,6 @@ metadata:
     critic_rating: 8.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  470520:
-    title: |-
-      Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.
-    sort_title: |-
-      Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.
-    original_title: |-
-      Love Unseen Beneath the Clear Night Sky
-    genre.sync: Drama,Romance,Disability,Heterosexual,Primarily Adult Cast,College,Urban
-    studio: Makaria
-    seasons:
-      1:
-        title: |-
-          Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.
-        label: Score,2026 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 7.3
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   423030:
     title: |-
       Undead Unluck
@@ -7536,6 +7629,24 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  468049:
+    title: |-
+      Tefuda ga Oome no Victoria
+    sort_title: |-
+      Tefuda ga Oome no Victoria
+    original_title: |-
+      Victoria of Many Faces
+    genre.sync: Action,Drama,Fantasy,Romance
+    studio: Studio DEEN
+    seasons:
+      1:
+        title: |-
+          Tefuda ga Oome no Victoria
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   458058:
     title: |-
       Vigilante: Boku no Hero Academia ILLEGALS
@@ -8023,7 +8134,7 @@ metadata:
           Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.9
+        user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 7.9
     label: Planned,Watching
@@ -8205,9 +8316,7 @@ metadata:
           Zetsuen no Tempest
         label: Score,Completed,2012 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.6
-    critic_rating: 7.9
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   429310:
