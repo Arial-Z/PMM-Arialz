@@ -435,9 +435,7 @@ metadata:
           Apocalypse Hotel
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.0
-    audience_rating: 8.0
-    critic_rating: 8.0
+        user_rating: 0
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   357019:
@@ -2351,6 +2349,24 @@ metadata:
     critic_rating: 6.8
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  468399:
+    title: |-
+      Hanaori-san wa Tensei Shite mo Kenka ga Shitai
+    sort_title: |-
+      Hanaori-san wa Tensei Shite mo Kenka ga Shitai
+    original_title: |-
+      Hanaori-san Still Wants to Fight in the Next Life
+    genre.sync: Comedy,Romance,Supernatural,Reverse Isekai,Parody,Heterosexual,Reincarnation,Age Gap
+    studio: LIDENFILMS
+    seasons:
+      1:
+        title: |-
+          Hanaori-san wa Tensei Shite mo Kenka ga Shitai
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   401856:
     title: |-
       Heion Sedai no Idaten-tachi
@@ -2480,7 +2496,7 @@ metadata:
       Hikaru ga Shinda Natsu
     original_title: |-
       The Summer Hikaru Died
-    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Male Protagonist,Rural,Tragedy,Cosmic Horror,Urban Fantasy,Mythology,Body Horror,LGBTQ+ Themes,Primarily Teen Cast,Curses,Unrequited Love,Philosophy,Seinen,Boys' Love,Gods,Mixed Media,Detective,Denpa
+    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Male Protagonist,Rural,Tragedy,Cosmic Horror,Urban Fantasy,Body Horror,Mythology,LGBTQ+ Themes,Primarily Teen Cast,Curses,Unrequited Love,Philosophy,Seinen,Boys' Love,Gods,Mixed Media,Detective,Denpa
     studio: CygamesPictures
     seasons:
       1:
@@ -2636,6 +2652,26 @@ metadata:
     critic_rating: 9.0
     label: Ended,Watching
     label.remove: Planned,Airing,Dropped,Paused,Planning
+  466092:
+    title: |-
+      Ibitte Konai Gibo to Gishi
+    sort_title: |-
+      Ibitte Konai Gibo to Gishi
+    original_title: |-
+      My Stepmother and Stepsisters Aren’t Wicked
+    genre.sync: Comedy,Slice of Life
+    studio: NEWON
+    seasons:
+      1:
+        title: |-
+          Ibitte Konai Gibo to Gishi
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.0
+    audience_rating: 6.0
+    critic_rating: 6.9
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   385278:
     title: |-
       Ijiranaide, Nagatoro-san
@@ -2783,7 +2819,7 @@ metadata:
           Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
         label: Score,Completed,2023 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.3
+        user_rating: 0
       2:
         title: |-
           Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season
@@ -2796,8 +2832,8 @@ metadata:
         label: Score,Completed,2026 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.6
-    audience_rating: 6.4
-    critic_rating: 6.5
+    audience_rating: 6.5
+    critic_rating: 4.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   402474:
@@ -2992,9 +3028,9 @@ metadata:
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   465799:
     title: |-
-      Kami no Niwatsuki Kusunoki-tei 
+      Kami no Niwatsuki Kusunoki-tei
     sort_title: |-
-      Kami no Niwatsuki Kusunoki-tei 
+      Kami no Niwatsuki Kusunoki-tei
     original_title: |-
       Kusunoki's Garden of Gods
     genre.sync: Comedy,Fantasy,Slice of Life,Gods,Youkai,Iyashikei,Exorcism,Rural
@@ -3002,7 +3038,7 @@ metadata:
     seasons:
       1:
         title: |-
-          Kami no Niwatsuki Kusunoki-tei 
+          Kami no Niwatsuki Kusunoki-tei
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.1
@@ -3095,7 +3131,7 @@ metadata:
       Kaoru Hana wa Rin to Saku
     original_title: |-
       The Fragrant Flower Blooms With Dignity
-    genre.sync: Comedy,Drama,Romance,Heterosexual,Primarily Teen Cast,Male Protagonist,Iyashikei,School,Female Protagonist,Coming of Age,Shounen,Food,Urban,Ensemble Cast
+    genre.sync: Comedy,Drama,Romance,Heterosexual,Primarily Teen Cast,Male Protagonist,Iyashikei,School,Female Protagonist,Coming of Age,Food,Shounen,Urban,Ensemble Cast
     studio: CloverWorks
     seasons:
       1:
@@ -3237,9 +3273,7 @@ metadata:
           Kidou Senshi Gundam GQuuuuuuX
         label: Score,Dropped,2025 Spring
         label.remove: Completed,Watching,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
-    critic_rating: 7.0
+        user_rating: 0
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   254931:
@@ -3399,7 +3433,7 @@ metadata:
       Kill Ao
     original_title: |-
       Kill Blue
-    genre.sync: Action,Comedy,Guns,School,Age Regression,Assassins,School Club,Urban,Shounen,Fake Relationship,Primarily Child Cast,Ensemble Cast,Surreal Comedy
+    genre.sync: Action,Comedy,Guns,School,Age Regression,Assassins,Shounen,Fake Relationship,School Club,Urban,Primarily Child Cast,Ensemble Cast,Age Gap,Surreal Comedy,Crime,Kuudere,Rehabilitation,Arranged Marriage
     studio: CUE
     seasons:
       1:
@@ -3608,7 +3642,7 @@ metadata:
           Kingdom 5th Season
         label: Score,Completed,2024 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 8.5
       6:
         title: |-
           Kingdom 6th Season
@@ -3687,6 +3721,26 @@ metadata:
     critic_rating: 8.1
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  468809:
+    title: |-
+      Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.
+    sort_title: |-
+      Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.
+    original_title: |-
+      I Became a Legend After My 10 Year-Long Last Stand
+    genre.sync: Action,Adventure,Fantasy,Age Regression,Swordplay,Demons
+    studio: Gekkou
+    seasons:
+      1:
+        title: |-
+          Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.
+        label: Score,Watching,2026 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.6
+    audience_rating: 6.6
+    critic_rating: 6.8
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   358181:
     title: |-
       Kono Oto Tomare!
@@ -3768,7 +3822,7 @@ metadata:
       Koori no Jouheki
     original_title: |-
       The Ramparts of Ice
-    genre.sync: Comedy,Drama,Romance,Slice of Life,Heterosexual,Primarily Teen Cast,Female Protagonist,Ensemble Cast,Kuudere,School,Shoujo,Coming of Age,Urban,Bullying
+    genre.sync: Comedy,Drama,Romance,Slice of Life,Heterosexual,Primarily Teen Cast,Female Protagonist,Ensemble Cast,Kuudere,School,Shoujo,Urban,Coming of Age,Love Triangle
     studio: Studio KAI
     seasons:
       1:
@@ -3788,7 +3842,7 @@ metadata:
       Kore Kaite Shine
     original_title: |-
       Draw This, Then Die!
-    genre.sync: Comedy,Slice of Life,Drawing,Female Protagonist,Coastal,Otaku Culture
+    genre.sync: Comedy,Slice of Life,Female Protagonist,Writing,Drawing,Coastal,Otaku Culture
     studio: Shin-Ei Animation
     seasons:
       1:
@@ -3796,9 +3850,9 @@ metadata:
           Kore Kaite Shine
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 7.3
+        user_rating: 7.0
+    audience_rating: 7.0
+    critic_rating: 7.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   450475:
@@ -3955,26 +4009,6 @@ metadata:
     critic_rating: 7.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
-  468809:
-    title: |-
-      Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.
-    sort_title: |-
-      Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.
-    original_title: |-
-      I Became a Legend After My 10 Year-Long Last Stand
-    genre.sync: Action,Adventure,Fantasy,Age Regression,Swordplay,Demons
-    studio: Gekkou
-    seasons:
-      1:
-        title: |-
-          Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.
-        label: Score,Watching,2026 Summer
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 6.8
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   469143:
     title: |-
       Let's Go Kaikigumi
@@ -4723,26 +4757,6 @@ metadata:
     critic_rating: 8.6
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
-  466092:
-    title: |-
-      Ibitte Konai Gibo to Gishi
-    sort_title: |-
-      Ibitte Konai Gibo to Gishi
-    original_title: |-
-      My Stepmother and Stepsisters Aren’t Wicked
-    genre.sync: Comedy,Slice of Life
-    studio: NEWON
-    seasons:
-      1:
-        title: |-
-          Ibitte Konai Gibo to Gishi
-        label: Score,2026 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.0
-    audience_rating: 6.0
-    critic_rating: 6.9
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   446389:
     title: |-
       Nageki no Bourei wa Intai Shitai
@@ -6433,7 +6447,7 @@ metadata:
       Silent Witch: Chinmoku no Majo no Kakushigoto
     original_title: |-
       Secrets of the Silent Witch
-    genre.sync: Drama,Fantasy,Female Protagonist,Magic,Witch,School,Primarily Teen Cast,Royal Affairs,Hikikomori,Coming of Age,Politics,Disability,Ojou-sama,Class Struggle,Medieval
+    genre.sync: Drama,Fantasy,Female Protagonist,Magic,Witch,School,Primarily Teen Cast,Royal Affairs,Hikikomori,Coming of Age,Politics,Disability,Class Struggle,Ojou-sama,Medieval
     studio: Studio Gokumi
     seasons:
       1:
@@ -7387,8 +7401,8 @@ metadata:
           Toujima Tanzaburou wa Kamen Rider ni Naritai
         label: Score,Dropped,2025 Fall
         label.remove: Completed,Watching,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.6
+        user_rating: 7.5
+    audience_rating: 7.5
     critic_rating: 7.8
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
@@ -7553,7 +7567,9 @@ metadata:
           Tu Bian Yingxiong X
         label: Score,Dropped,2025 Spring
         label.remove: Completed,Watching,Paused,Planning
-        user_rating: 0
+        user_rating: 8.5
+    audience_rating: 8.5
+    critic_rating: 8.7
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   471296:
@@ -7563,7 +7579,7 @@ metadata:
       Uchi no Otouto-domo ga Sumimasen
     original_title: |-
       Please Excuse My Younger Brothers
-    genre.sync: Comedy,Romance,Slice of Life,Shoujo,Heterosexual
+    genre.sync: Comedy,Romance,Slice of Life,Shoujo,Heterosexual,Male Harem
     studio: Lay-duce
     seasons:
       1:
@@ -7571,9 +7587,9 @@ metadata:
           Uchi no Otouto-domo ga Sumimasen
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
-    critic_rating: 6.8
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   256705:
@@ -7712,9 +7728,9 @@ metadata:
           Uzaki-chan wa Asobitai! ω
         label: Score,Completed,2022 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 6.9
-    critic_rating: 7.1
+        user_rating: 0
+    audience_rating: 6.7
+    critic_rating: 6.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   400133:
@@ -7978,7 +7994,7 @@ metadata:
           Xian Wang De Richang Shenghuo
         label: Score,Completed,2020 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 7.3
       2:
         title: |-
           Xian Wang De Richang Shenghuo 2
@@ -8003,8 +8019,8 @@ metadata:
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.5
-    audience_rating: 7.5
-    critic_rating: 3.0
+    audience_rating: 7.4
+    critic_rating: 7.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   348002:
@@ -8354,7 +8370,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
-    critic_rating: 6.9
+    critic_rating: 6.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   460903:
