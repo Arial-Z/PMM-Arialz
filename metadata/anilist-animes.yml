@@ -1591,7 +1591,7 @@ metadata:
       Dororo
     original_title: |-
       Dororo
-    genre.sync: Action,Adventure,Drama,Supernatural,Demons,Revenge,Disability,Swordplay,Tragedy,Samurai,Estranged Family,Curses,Youkai,Anti-Hero,Orphan,War,Parenthood,Male Protagonist,Travel,Historical,Rural,Urban Fantasy,Gore,Female Protagonist,Philosophy,Crossdressing,Tomboy,Body Horror,Episodic,Kuudere
+    genre.sync: Action,Adventure,Drama,Supernatural,Demons,Revenge,Disability,Tragedy,Swordplay,Samurai,Estranged Family,Curses,Youkai,Orphan,Anti-Hero,War,Parenthood,Male Protagonist,Historical,Travel,Rural,Urban Fantasy,Gore,Philosophy,Female Protagonist,Crossdressing,Tomboy,Body Horror,Episodic,Kuudere
     studio: MAPPA
     seasons:
       1:
@@ -1898,6 +1898,26 @@ metadata:
     critic_rating: 8.0
     label: AA Winner,Ended,Watching
     label.remove: Planned,Airing,Dropped,Paused,Planning
+  461544:
+    title: |-
+      Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den
+    sort_title: |-
+      Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den
+    original_title: |-
+      Though I Am an Inept Villainess
+    genre.sync: Drama,Romance,Body Swapping,Josei,Female Protagonist,Magic,Royal Affairs,Foreign,Historical
+    studio: Doga Kobo
+    seasons:
+      1:
+        title: |-
+          Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.1
+    audience_rating: 7.1
+    critic_rating: 7.4
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   412806:
     title: |-
       Fuufu Ijou, Koibito Miman.
@@ -4490,7 +4510,7 @@ metadata:
       Marriagetoxin
     original_title: |-
       Marriagetoxin
-    genre.sync: Action,Comedy,Drama,Romance,Assassins,Marriage,Crime,Urban,Surreal Comedy,Primarily Adult Cast,Femboy,Crossdressing,Super Power,Bisexual,Male Protagonist,Female Harem,Urban Fantasy,Shounen,Heterosexual,LGBTQ+ Themes
+    genre.sync: Action,Comedy,Drama,Romance,Assassins,Marriage,Crime,Urban,Surreal Comedy,Primarily Adult Cast,Femboy,Crossdressing,Super Power,Bisexual,Male Protagonist,Female Harem,Urban Fantasy,Shounen,LGBTQ+ Themes,Heterosexual
     studio: bones film
     seasons:
       1:
@@ -4908,7 +4928,7 @@ metadata:
       Nijusseiki Denki Mokuroku: Eureka・Evrika
     original_title: |-
       Sparks of Tomorrow
-    genre.sync: Adventure,Romance,Steampunk,Male Protagonist,Historical
+    genre.sync: Adventure,Romance,Steampunk,Male Protagonist,Tragedy,Mixed Media,Philosophy,Primarily Teen Cast,Heterosexual,Historical,Female Protagonist
     studio: Kyoto Animation
     seasons:
       1:
@@ -4916,8 +4936,8 @@ metadata:
           Nijusseiki Denki Mokuroku: Eureka・Evrika
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.3
-    audience_rating: 7.3
+        user_rating: 7.5
+    audience_rating: 7.5
     critic_rating: 7.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -4928,7 +4948,7 @@ metadata:
       Nippon Sangoku
     original_title: |-
       NIPPON SANGOKU: The Three Nations of the Crimson Sun
-    genre.sync: Action,Drama,Sci-Fi,Politics,War,Military,Seinen,Dystopian,Revenge,Philosophy,Post-Apocalyptic,Ensemble Cast,Male Protagonist,Primarily Adult Cast,Class Struggle,Gore,Tragedy
+    genre.sync: Action,Drama,Sci-Fi,Politics,War,Seinen,Ensemble Cast,Military,Dystopian,Revenge,Philosophy,Primarily Adult Cast,Post-Apocalyptic,Male Protagonist,Class Struggle,Gore,Tragedy,Satire
     studio: Studio Kafka
     seasons:
       1:
@@ -5601,9 +5621,7 @@ metadata:
           Rock wa Lady no Tashinami Deshite
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.7
-    audience_rating: 7.7
-    critic_rating: 7.9
+        user_rating: 0
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   423787:
@@ -5763,14 +5781,14 @@ metadata:
           Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
         label: Score,Completed,2025 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 5.9
+        user_rating: 6.0
       2:
         title: |-
           Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season
         label: Score,Completed,2026 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.3
-    audience_rating: 6.1
+    audience_rating: 6.2
     critic_rating: 6.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -5903,7 +5921,7 @@ metadata:
       Sayonara Lara
     original_title: |-
       Goodbye, Lara
-    genre.sync: Romance,Supernatural,Fairy Tale,Coastal,Mermaid,Female Protagonist,Reincarnation,Interspecies,Urban Fantasy,Time Skip,Curses,Shapeshifting,Witch,Magic
+    genre.sync: Romance,Supernatural,Fairy Tale,Coastal,Female Protagonist,Mermaid,Reincarnation,Time Skip,Curses,Urban Fantasy,LGBTQ+ Themes,Magic,Interspecies,Yuri,Shapeshifting
     studio: Kinema Citrus
     seasons:
       1:
@@ -5911,9 +5929,9 @@ metadata:
           Sayonara Lara
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.3
-    audience_rating: 7.3
-    critic_rating: 7.6
+        user_rating: 7.6
+    audience_rating: 7.6
+    critic_rating: 7.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   457078:
@@ -5923,7 +5941,7 @@ metadata:
       Seihantai na Kimi to Boku
     original_title: |-
       You and I Are Polar Opposites
-    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Ensemble Cast,School,Primarily Teen Cast,Coming of Age,Iyashikei,Gyaru,Kuudere,Urban,Asexual
+    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Ensemble Cast,School,Primarily Teen Cast,Coming of Age,Iyashikei,Asexual,Gyaru,Kuudere,Urban
     studio: Lapin Track
     seasons:
       1:
@@ -6037,7 +6055,7 @@ metadata:
       Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha
     original_title: |-
       The World's Strongest Rearguard
-    genre.sync: Action,Adventure,Fantasy
+    genre.sync: Action,Adventure,Fantasy,Isekai
     studio: Maho Film
     seasons:
       1:
@@ -6045,9 +6063,9 @@ metadata:
           Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.9
-    audience_rating: 5.9
-    critic_rating: 6.2
+        user_rating: 5.8
+    audience_rating: 5.8
+    critic_rating: 6.1
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   438151:
@@ -6283,7 +6301,7 @@ metadata:
       Shingeki no Kyojin
     original_title: |-
       Attack on Titan
-    genre.sync: Action,Drama,Fantasy,Mystery,Kaiju,Revenge,Tragedy,Military,Primarily Teen Cast,Post-Apocalyptic,Male Protagonist,Super Power,Henshin,Dystopian,Memory Manipulation,Gore,Swordplay,Ensemble Cast,Vore,Survival,Steampunk,Orphan,Cannibalism,Espionage
+    genre.sync: Action,Drama,Fantasy,Mystery,Kaiju,Revenge,Tragedy,Military,Primarily Teen Cast,Post-Apocalyptic,Male Protagonist,Super Power,Henshin,Dystopian,Gore,Memory Manipulation,Swordplay,Ensemble Cast,Vore,Survival,Steampunk,Orphan,Cannibalism,Espionage
     studio: WIT STUDIO
     seasons:
       0:
@@ -6464,6 +6482,32 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  401279:
+    title: |-
+      Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu
+    sort_title: |-
+      Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu
+    original_title: |-
+      Skeleton Knight in Another World
+    genre.sync: Action,Adventure,Comedy,Fantasy,Skeleton,Isekai,Male Protagonist,Magic,Slavery,Swordplay,Elf,Conspiracy,Ninja,Kemonomimi,Politics
+    studio: Studio KAI
+    seasons:
+      1:
+        title: |-
+          Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu
+        label: Score,Completed,2022 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.0
+      2:
+        title: |-
+          Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.9
+    audience_rating: 6.9
+    critic_rating: 7.1
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   412696:
     title: |-
       Skip to Loafer
@@ -7125,8 +7169,8 @@ metadata:
           Tetsunabe no Jan!
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
+        user_rating: 6.7
+    audience_rating: 6.7
     critic_rating: 7.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -7170,25 +7214,6 @@ metadata:
     critic_rating: 7.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  461544:
-    title: |-
-      Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den
-    sort_title: |-
-      Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den
-    original_title: |-
-      Though I Am an Inept Villainess
-    genre.sync: Drama,Romance,Body Swapping,Josei,Female Protagonist,Magic,Royal Affairs,Foreign,Historical
-    studio: Doga Kobo
-    seasons:
-      1:
-        title: |-
-          Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den
-        label: Score,2026 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
-    critic_rating: 7.4
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   281249:
     title: |-
       Tokyo Ghoul
@@ -7348,7 +7373,7 @@ metadata:
       Tongari Boushi no Atelier
     original_title: |-
       Witch Hat Atelier
-    genre.sync: Adventure,Drama,Fantasy,Magic,Witch,Conspiracy,Female Protagonist,Drawing,Memory Manipulation,Primarily Female Cast,Coming of Age,Found Family,Primarily Child Cast,Medieval,Ensemble Cast,Philosophy,Teacher,Seinen,Politics,Travel,Disability
+    genre.sync: Adventure,Drama,Fantasy,Magic,Witch,Conspiracy,Female Protagonist,Drawing,Memory Manipulation,Primarily Female Cast,Coming of Age,Found Family,Primarily Child Cast,Ensemble Cast,Medieval,Philosophy,Seinen,Politics,Teacher
     studio: BUG FILMS
     seasons:
       1:
@@ -7358,7 +7383,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.5
     audience_rating: 8.5
-    critic_rating: 8.6
+    critic_rating: 8.5
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   385077:
@@ -7448,7 +7473,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.3
     audience_rating: 7.3
-    critic_rating: 7.3
+    critic_rating: 7.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   421378:
@@ -8109,13 +8134,13 @@ metadata:
           Yi Ren Zhi Xia
         label: Score,Completed,2016 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.4
+        user_rating: 0
       2:
         title: |-
           Yi Ren Zhi Xia 2
         label: Score,Completed,2017 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.1
+        user_rating: 0
       3:
         title: |-
           Yi Ren Zhi Xia 3
@@ -8127,7 +8152,7 @@ metadata:
           Yi Ren Zhi Xia 4
         label: Score,Completed,2021 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.6
+        user_rating: 0
       5:
         title: |-
           Yi Ren Zhi Xia 5
@@ -8139,9 +8164,9 @@ metadata:
           Yi Ren Zhi Xia 6
         label: Score,Completed,2026 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 5.8
-    audience_rating: 6.5
-    critic_rating: 7.0
+        user_rating: 5.9
+    audience_rating: 6.4
+    critic_rating: 4.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   412374:
@@ -8299,7 +8324,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.5
     audience_rating: 7.4
-    critic_rating: 7.6
+    critic_rating: 7.5
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   330692:
