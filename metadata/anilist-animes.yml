@@ -938,7 +938,7 @@ metadata:
       Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu
     original_title: |-
       A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires
-    genre.sync: Drama,Fantasy,Female Protagonist,Villainess,Revenge
+    genre.sync: Drama,Fantasy,Villainess,Female Protagonist,Revenge
     studio: Studio Comet
     seasons:
       1:
@@ -946,9 +946,9 @@ metadata:
           Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 7.0
+        user_rating: 6.9
+    audience_rating: 6.9
+    critic_rating: 7.1
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   426294:
@@ -1064,9 +1064,7 @@ metadata:
           Chao Neng Lifang
         label: Score,Completed,2025 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
-    critic_rating: 7.2
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   289679:
@@ -1218,7 +1216,7 @@ metadata:
       Clevatess: Majuu no Ou to Akago to Kabane no Yuusha
     original_title: |-
       Clevatess
-    genre.sync: Action,Drama,Fantasy,Monster Boy,Tomboy,Female Protagonist,Medieval,Magic,Revenge,Orphan,Parenthood,Swordplay,Primarily Adult Cast,Tragedy,Dystopian,Anti-Hero,Adoption,Demons,Gore,Shapeshifting,Slavery,War,Found Family,Body Horror
+    genre.sync: Action,Drama,Fantasy,Monster Boy,Tomboy,Female Protagonist,Medieval,Magic,Revenge,Orphan,Tragedy,Primarily Adult Cast,Parenthood,Swordplay,Dystopian,Anti-Hero,Adoption,Demons,Gore,Slavery,Shapeshifting,Found Family,War,Body Horror
     studio: Lay-duce
     seasons:
       1:
@@ -1293,7 +1291,6 @@ metadata:
     genre.sync: Action,Adventure,Drama,Fantasy,Shounen,Demons,Male Protagonist,Super Power,Exorcism,Philosophy,Foreign,Urban Fantasy,Primarily Teen Cast,Anachronism
     studio: TMS Entertainment
     audience_rating: 7.6
-    critic_rating: 8.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   312878:
@@ -1389,7 +1386,7 @@ metadata:
       DARKER THAN BLACK: Kuro no Keiyakusha
     original_title: |-
       Darker than Black
-    genre.sync: Action,Mystery,Sci-Fi,Super Power,Anti-Hero,Noir,Crime,Urban,Assassins,Conspiracy,Tragedy,Terrorism,Urban Fantasy,Police,Espionage,Triads,Episodic
+    genre.sync: Action,Mystery,Sci-Fi,Super Power,Anti-Hero,Noir,Crime,Urban,Assassins,Conspiracy,Terrorism,Urban Fantasy,Police,Espionage,Tragedy,Triads,Episodic
     studio: bones
     seasons:
       0:
@@ -1779,7 +1776,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.0
     audience_rating: 7.8
-    critic_rating: 7.8
+    critic_rating: 7.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   410031:
@@ -1911,13 +1908,13 @@ metadata:
       1:
         title: |-
           Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den
-        label: Score,2026 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2026 Summer
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.4
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   412806:
     title: |-
       Fuufu Ijou, Koibito Miman.
@@ -1958,6 +1955,32 @@ metadata:
     critic_rating: 8.2
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  401279:
+    title: |-
+      Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu
+    sort_title: |-
+      Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu
+    original_title: |-
+      Skeleton Knight in Another World
+    genre.sync: Action,Adventure,Comedy,Fantasy,Skeleton,Isekai,Male Protagonist,Magic,Slavery,Swordplay,Elf,Conspiracy,Ninja,Kemonomimi,Politics
+    studio: Studio KAI
+    seasons:
+      1:
+        title: |-
+          Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu
+        label: Score,Completed,2022 Spring
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 7.0
+      2:
+        title: |-
+          Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II
+        label: Score,Watching,2026 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.9
+    audience_rating: 6.9
+    critic_rating: 7.1
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   293996:
     title: |-
       Gakusen Toshi Asterisk
@@ -1975,7 +1998,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.6
     audience_rating: 6.6
-    critic_rating: 6.9
+    critic_rating: 6.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   279804:
@@ -3982,9 +4005,9 @@ metadata:
           Kuroshitsuji: Midori no Majo-hen
         label: Score,Completed,2025 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.1
-    audience_rating: 7.6
-    critic_rating: 7.8
+        user_rating: 0
+    audience_rating: 7.4
+    critic_rating: 7.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   431162:
@@ -5613,7 +5636,7 @@ metadata:
       Rock wa Lady no Tashinami Deshite
     original_title: |-
       Rock is a Lady’s Modesty
-    genre.sync: Drama,Music,Female Protagonist,Rock Music,Band,Ojou-sama,Primarily Female Cast,Primarily Teen Cast,Seinen,School,CGI,Sweat,LGBTQ+ Themes,Urban,Yuri
+    genre.sync: Drama,Music,Female Protagonist,Rock Music,Band,Ojou-sama,Primarily Female Cast,Primarily Teen Cast,Sweat,Seinen,School,CGI,LGBTQ+ Themes,Urban,Yuri
     studio: Bandai Namco Pictures
     seasons:
       1:
@@ -5761,9 +5784,9 @@ metadata:
           Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
-    critic_rating: 6.6
+        user_rating: 6.4
+    audience_rating: 6.4
+    critic_rating: 6.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   455684:
@@ -6482,32 +6505,6 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  401279:
-    title: |-
-      Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu
-    sort_title: |-
-      Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu
-    original_title: |-
-      Skeleton Knight in Another World
-    genre.sync: Action,Adventure,Comedy,Fantasy,Skeleton,Isekai,Male Protagonist,Magic,Slavery,Swordplay,Elf,Conspiracy,Ninja,Kemonomimi,Politics
-    studio: Studio KAI
-    seasons:
-      1:
-        title: |-
-          Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu
-        label: Score,Completed,2022 Spring
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-      2:
-        title: |-
-          Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II
-        label: Score,2026 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
-    critic_rating: 7.1
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   412696:
     title: |-
       Skip to Loafer
@@ -6893,13 +6890,13 @@ metadata:
       1:
         title: |-
           Tefuda ga Oome no Victoria
-        label: Score,2026 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2026 Summer
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
     critic_rating: 7.1
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   80096:
     title: |-
       Tengen Toppa Gurren Lagann
@@ -7463,7 +7460,7 @@ metadata:
       Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.
     original_title: |-
       Love Unseen Beneath the Clear Night Sky
-    genre.sync: Drama,Romance,Disability,Heterosexual,Primarily Adult Cast,College,Tragedy,Urban
+    genre.sync: Drama,Romance,Disability,Heterosexual,Primarily Adult Cast,College
     studio: Makaria
     seasons:
       1:
@@ -7471,8 +7468,8 @@ metadata:
           Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.3
-    audience_rating: 7.3
+        user_rating: 7.6
+    audience_rating: 7.6
     critic_rating: 7.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -7904,7 +7901,7 @@ metadata:
       Watashi wo Tabetai, Hitodenashi
     original_title: |-
       This Monster Wants to Eat Me
-    genre.sync: Drama,Horror,Psychological,Romance,Supernatural,Monster Girl,Suicide,Female Protagonist,Youkai,Primarily Female Cast,Memory Manipulation,Tragedy,Orphan,Mermaid,Coastal,Yuri,Interspecies,Mythology,Rural,LGBTQ+ Themes,Seinen,Gore,School
+    genre.sync: Drama,Horror,Psychological,Romance,Supernatural,Suicide,Monster Girl,Female Protagonist,Youkai,Primarily Female Cast,Memory Manipulation,Tragedy,Orphan,Mermaid,Coastal,Yuri,Mythology,Interspecies,Rural,LGBTQ+ Themes,Seinen,Gore,School
     studio: Studio Lings
     seasons:
       1:
