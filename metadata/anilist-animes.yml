@@ -373,7 +373,7 @@ metadata:
           Ao no Exorcist
         label: Score,Completed,2011 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.3
+        user_rating: 0
       2:
         title: |-
           Ao no Exorcist: Kyoto Fujouou-hen
@@ -399,7 +399,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.0
     audience_rating: 7.4
-    critic_rating: 7.5
+    critic_rating: 6.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   407840:
@@ -627,8 +627,8 @@ metadata:
           Bakuman. 3
         label: Score,Completed,2012 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.3
-    audience_rating: 8.1
+        user_rating: 0
+    audience_rating: 8.0
     critic_rating: 8.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -1354,9 +1354,7 @@ metadata:
           Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
-    critic_rating: 6.5
+        user_rating: 0
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   454526:
@@ -1402,9 +1400,9 @@ metadata:
           DARKER THAN BLACK: Ryuusei no Gemini
         label: Score,Completed,2009 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.4
-    critic_rating: 7.7
+        user_rating: 0
+    audience_rating: 7.7
+    critic_rating: 8.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   337017:
@@ -1996,9 +1994,7 @@ metadata:
           Gakusen Toshi Asterisk
         label: Score,Completed,2016 Spring,2015 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 6.8
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   279804:
@@ -3566,7 +3562,7 @@ metadata:
       Kimi ga Shinu made Koi wo Shitai
     original_title: |-
       I Want to Love You Till Your Dying Day
-    genre.sync: Drama,Fantasy,Romance,Yuri,War,Magic,Tragedy,Primarily Female Cast,Female Protagonist,Primarily Teen Cast,Gore,School,Body Horror,LGBTQ+ Themes,Flat Chest,Orphan,Military
+    genre.sync: Drama,Fantasy,Romance,Yuri,War,Primarily Female Cast,Magic,Tragedy,Female Protagonist,Primarily Teen Cast,School,Military,LGBTQ+ Themes,Body Horror,Gore,Orphan,Boarding School
     studio: ROLL2
     seasons:
       1:
@@ -3909,7 +3905,7 @@ metadata:
       Koukaku Kidoutai: THE GHOST IN THE SHELL
     original_title: |-
       The Ghost In The Shell
-    genre.sync: Action,Psychological,Sci-Fi,Philosophy,Cyberpunk,Female Protagonist,Cyborg,Artificial Intelligence,Robots,Guns,Urban,Primarily Adult Cast,Police,Politics
+    genre.sync: Action,Psychological,Sci-Fi,Philosophy,Cyberpunk,Urban,Cyborg,Artificial Intelligence,Female Protagonist,Robots,Guns,Primarily Adult Cast,Police,Dystopian,Crime,Gore,Seinen
     studio: Science SARU
     seasons:
       1:
@@ -3917,8 +3913,8 @@ metadata:
           Koukaku Kidoutai: THE GHOST IN THE SHELL
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.7
-    audience_rating: 7.7
+        user_rating: 7.8
+    audience_rating: 7.8
     critic_rating: 8.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -4713,7 +4709,7 @@ metadata:
           Modao Zushi
         label: Score,Completed,2018 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.2
+        user_rating: 0
       2:
         title: |-
           Modao Zushi 2
@@ -4727,7 +4723,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.6
     audience_rating: 8.4
-    critic_rating: 8.5
+    critic_rating: 5.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   447925:
@@ -4767,7 +4763,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.3
     audience_rating: 6.3
-    critic_rating: 6.5
+    critic_rating: 6.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   371310:
@@ -6578,7 +6574,7 @@ metadata:
       Sora wa Akai Kawa no Hotori
     original_title: |-
       Red River
-    genre.sync: Action,Adventure,Drama,Fantasy,Romance,Time Manipulation,Historical,Tragedy,Politics,Swordplay,Kingdom Management,Survival,Female Protagonist,Shoujo,Indigenous Cultures,Foreign
+    genre.sync: Action,Adventure,Drama,Fantasy,Romance,Time Manipulation,Female Protagonist,Shoujo,Historical,Politics,Royal Affairs
     studio: Tatsunoko Production
     seasons:
       1:
@@ -6588,7 +6584,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.0
     audience_rating: 6.0
-    critic_rating: 6.6
+    critic_rating: 6.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   424536:
@@ -6806,7 +6802,7 @@ metadata:
       Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai
     original_title: |-
       Young Ladies Don't Play Fighting Games
-    genre.sync: Drama,Video Games,Female Protagonist,Primarily Female Cast,Ojou-sama,Yuri,Primarily Teen Cast,E-Sports,LGBTQ+ Themes,School
+    genre.sync: Drama,Video Games,Female Protagonist,Yuri,Primarily Female Cast,Ojou-sama,E-Sports,LGBTQ+ Themes,Primarily Teen Cast,School
     studio: diomedéa
     seasons:
       1:
@@ -6814,8 +6810,8 @@ metadata:
           Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
+        user_rating: 7.3
+    audience_rating: 7.3
     critic_rating: 7.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -6884,7 +6880,7 @@ metadata:
       Tefuda ga Oome no Victoria
     original_title: |-
       Victoria of Many Faces
-    genre.sync: Action,Drama,Fantasy,Romance
+    genre.sync: Action,Drama,Fantasy,Romance,Josei,Found Family,Female Protagonist,Family Life,Parenthood
     studio: Studio DEEN
     seasons:
       1:
@@ -6892,9 +6888,9 @@ metadata:
           Tefuda ga Oome no Victoria
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
-    critic_rating: 7.1
+        user_rating: 6.9
+    audience_rating: 6.9
+    critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   80096:
@@ -8257,7 +8253,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.1
     audience_rating: 7.9
-    critic_rating: 7.6
+    critic_rating: 8.2
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   329822:
@@ -8475,9 +8471,7 @@ metadata:
           Zetsuen no Tempest
         label: Score,Completed,2012 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.6
-    critic_rating: 7.9
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   429310:
