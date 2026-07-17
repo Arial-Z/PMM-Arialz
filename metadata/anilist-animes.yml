@@ -36,15 +36,15 @@ metadata:
           Hajime no Ippo: New Challenger
         label: Score,Completed,2009 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.5
+        user_rating: 0
       3:
         title: |-
           Hajime no Ippo: Rising
         label: Score,Completed,2013 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.5
-    audience_rating: 8.6
-    critic_rating: 8.7
+        user_rating: 0
+    audience_rating: 8.7
+    critic_rating: 8.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   76013:
@@ -64,7 +64,7 @@ metadata:
           Major
         label: Score,Completed,2004 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.0
+        user_rating: 0
       2:
         title: |-
           Major S2
@@ -96,7 +96,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 0
     audience_rating: 8.1
-    critic_rating: 8.3
+    critic_rating: 6.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   442215:
@@ -153,7 +153,7 @@ metadata:
           [Oshi no Ko] 2nd Season
         label: Score,Completed,2024 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.5
+        user_rating: 0
       3:
         title: |-
           [Oshi no Ko] 3rd Season
@@ -185,9 +185,9 @@ metadata:
           3-gatsu no Lion 2nd Season
         label: Score,AA Winner,Completed,2017 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.9
-    audience_rating: 8.6
-    critic_rating: 8.6
+        user_rating: 0
+    audience_rating: 8.3
+    critic_rating: 8.4
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   432723:
@@ -269,9 +269,7 @@ metadata:
           ACCA: 13-ku Kansatsu-ka
         label: Score,Completed,2017 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
-    critic_rating: 7.7
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   455754:
@@ -311,9 +309,7 @@ metadata:
           Aldnoah.Zero
         label: Score,Completed,2015 Winter,2014 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
-    critic_rating: 7.2
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   348706:
@@ -391,15 +387,15 @@ metadata:
           Ao no Exorcist: Yuki no Hate-hen
         label: Score,Completed,2024 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.4
+        user_rating: 0
       5:
         title: |-
           Ao no Exorcist: Yosuga-hen
         label: Score,Completed,2025 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.0
-    audience_rating: 7.4
-    critic_rating: 6.0
+        user_rating: 0
+    audience_rating: 7.2
+    critic_rating: 5.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   407840:
@@ -671,11 +667,11 @@ metadata:
       3:
         title: |-
           BEASTARS FINAL SEASON Part 1
-        label: Score,Planning,2024 Fall
+        label: Score,Planning,2026 Winter,2024 Fall
         label.remove: Completed,Watching,Dropped,Paused,
-        user_rating: 7.8
-    audience_rating: 7.8
-    critic_rating: 7.8
+        user_rating: 7.6
+    audience_rating: 7.7
+    critic_rating: 7.6
     label: AA Winner,Ended,Planning
     label.remove: Planned,Airing,Watching,Dropped,Paused,
   219771:
@@ -713,9 +709,7 @@ metadata:
           Benriya Saitou-san, Isekai ni Iku
         label: Score,Completed,2023 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.2
-    critic_rating: 7.4
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   331753:
@@ -912,14 +906,14 @@ metadata:
           Boku no Hero Academia 7
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.2
+        user_rating: 0
       8:
         title: |-
           Boku no Hero Academia FINAL SEASON
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.7
-    audience_rating: 8.0
+    audience_rating: 7.9
     critic_rating: 8.0
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -960,9 +954,7 @@ metadata:
           Buddy Daddies
         label: Score,AA Winner,Completed,2023 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.0
-    audience_rating: 8.0
-    critic_rating: 8.1
+        user_rating: 0
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   305075:
@@ -988,15 +980,15 @@ metadata:
           Bungou Stray Dogs 3rd Season
         label: Score,Completed,2019 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.1
+        user_rating: 0
       3:
         title: |-
           Bungou Stray Dogs 4th Season
         label: Score,Completed,2023 Summer,2023 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.4
-    audience_rating: 8.1
-    critic_rating: 8.2
+        user_rating: 0
+    audience_rating: 7.9
+    critic_rating: 7.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   397934:
@@ -1128,9 +1120,9 @@ metadata:
           Chihayafuru 3
         label: Score,Completed,2019 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.5
-    audience_rating: 8.2
-    critic_rating: 8.3
+        user_rating: 0
+    audience_rating: 8.0
+    critic_rating: 8.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   415440:
@@ -1148,9 +1140,7 @@ metadata:
           Chiyu Mahou no Machigatta Tsukaikata
         label: Score,Completed,2024 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
-    critic_rating: 7.5
+        user_rating: 0
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   80644:
@@ -1170,15 +1160,13 @@ metadata:
           Clannad
         label: Score,Completed,2007 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.7
+        user_rating: 0
       2:
         title: |-
           CLANNAD: After Story
         label: Score,Completed,2008 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 0
-    audience_rating: 7.7
-    critic_rating: 8.0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   79995:
@@ -1196,9 +1184,7 @@ metadata:
           Claymore
         label: Score,Completed,2007 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.4
-    critic_rating: 7.7
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   451793:
@@ -1300,9 +1286,7 @@ metadata:
           D.Gray-man HALLOW
         label: Score,Completed,2016 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.4
-    critic_rating: 7.7
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   432832:
@@ -1456,9 +1440,7 @@ metadata:
           Deca-Dence
         label: Score,Completed,2020 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 7.3
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   420550:
@@ -1476,9 +1458,7 @@ metadata:
           Dekiru Neko wa Kyou mo Yuuutsu
         label: Score,Completed,2023 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
-    critic_rating: 7.6
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   273005:
@@ -1510,14 +1490,14 @@ metadata:
           Diamond no Ace act II
         label: Score,Completed,2019 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.2
+        user_rating: 0
       4:
         title: |-
           Diamond no Ace act II: Second Season
         label: Score,Completed,2026 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.9
-    audience_rating: 8.1
+        user_rating: 0
+    audience_rating: 8.2
     critic_rating: 6.2
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
@@ -1692,7 +1672,7 @@ metadata:
           Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II
         label: Score,Completed,2019 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.1
+        user_rating: 0
       3:
         title: |-
           Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III
@@ -1704,15 +1684,15 @@ metadata:
           Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen
         label: Score,Completed,2023 Winter,2022 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.9
+        user_rating: 0
       5:
         title: |-
           Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen
         label: Score,Completed,2024 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 0
-    audience_rating: 7.4
-    critic_rating: 7.6
+    audience_rating: 7.3
+    critic_rating: 7.5
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   412957:
@@ -1831,6 +1811,46 @@ metadata:
     critic_rating: 8.3
     label: Planned
     label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
+  475631:
+    title: |-
+      Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita
+    sort_title: |-
+      Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita
+    original_title: |-
+      The Forsaken Saintess and Her Foodie Roadtrip in Another World
+    genre.sync: Action,Adventure,Comedy,Fantasy,Josei
+    studio: EMT Squared
+    seasons:
+      1:
+        title: |-
+          Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita
+        label: Score,Watching,2026 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.7
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+  465987:
+    title: |-
+      Ryoumin 0-Nin Start no Henkyou Ryoushu-sama
+    sort_title: |-
+      Ryoumin 0-Nin Start no Henkyou Ryoushu-sama
+    original_title: |-
+      The Frontier Lord Begins with Zero Subjects
+    genre.sync: Action,Comedy,Drama,Fantasy,Romance,Slice of Life,Kingdom Management,Cohabitation,Age Gap
+    studio: animation studio42
+    seasons:
+      1:
+        title: |-
+          Ryoumin 0-Nin Start no Henkyou Ryoushu-sama
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 7.0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   467641:
     title: |-
       Fujimoto Tatsuki 17-26
@@ -2061,9 +2081,7 @@ metadata:
           Girls Band Cry
         label: Score,2024 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.3
-    audience_rating: 8.3
-    critic_rating: 8.4
+        user_rating: 0
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   350166:
@@ -2089,9 +2107,9 @@ metadata:
           Goblin Slayer II
         label: Score,Completed,2023 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.1
+        user_rating: 0
     audience_rating: 7.1
-    critic_rating: 7.3
+    critic_rating: 7.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   338455:
@@ -2121,20 +2139,20 @@ metadata:
           Golden Kamuy 3rd Season
         label: Score,Completed,2020 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.3
+        user_rating: 0
       4:
         title: |-
           Golden Kamuy 4th Season
         label: Score,Completed,2022 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.1
+        user_rating: 0
       5:
         title: |-
           Golden Kamuy: Saishuushou
         label: Score,Watching,2026 Winter
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.2
-    audience_rating: 8.1
+    audience_rating: 8.0
     critic_rating: 8.2
     label: Planned,Watching
     label.remove: Airing,Ended,Dropped,Paused,Planning
@@ -2273,9 +2291,7 @@ metadata:
           Guimi Zhi Zhu: Xiaochou Pian
         label: Score,Completed,2025 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.5
-    audience_rating: 8.5
-    critic_rating: 8.6
+        user_rating: 0
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   85249:
@@ -2413,9 +2429,7 @@ metadata:
           Heion Sedai no Idaten-tachi
         label: Score,Completed,2021 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.4
-    critic_rating: 7.6
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   416359:
@@ -2433,9 +2447,7 @@ metadata:
           Helck
         label: Score,Completed,2023 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 7.3
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   457532:
@@ -2454,10 +2466,16 @@ metadata:
         label: Score,Completed,2026 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.2
-    audience_rating: -7.2
+      2:
+        title: |-
+          Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season
+        label: Score,Watching,2026 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.2
+    audience_rating: 7.2
     critic_rating: 7.2
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   263688:
     title: |-
       Hellsing Ova
@@ -2515,9 +2533,7 @@ metadata:
           High School Fleet
         label: Score,Completed,2016 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
-    critic_rating: 7.3
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   450428:
@@ -2563,9 +2579,9 @@ metadata:
           Himouto! Umaru-chan R
         label: Score,2017 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 6.9
-    critic_rating: 7.2
+        user_rating: 0
+    audience_rating: 6.8
+    critic_rating: 7.1
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   366263:
@@ -2587,7 +2603,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 7.8
-    critic_rating: 8.0
+    critic_rating: 7.9
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   388593:
@@ -2643,9 +2659,7 @@ metadata:
           Houkago Teibou Nisshi
         label: Score,2020 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.2
-    critic_rating: 7.5
+        user_rating: 0
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   331787:
@@ -2720,9 +2734,7 @@ metadata:
           Ijiranaide, Nagatoro-san 2nd Attack
         label: Score,Completed,2023 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.3
-    audience_rating: 7.3
-    critic_rating: 3.7
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   422186:
@@ -2778,7 +2790,7 @@ metadata:
           Isekai Nonbiri Nouka
         label: Score,Completed,2023 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.4
+        user_rating: 0
       2:
         title: |-
           Isekai Nonbiri Nouka 2
@@ -2786,7 +2798,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.3
     audience_rating: 7.3
-    critic_rating: 7.4
+    critic_rating: 3.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   406592:
@@ -2900,9 +2912,7 @@ metadata:
           Jormungand
         label: Score,Completed,2012 Fall,2012 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.6
-    critic_rating: 7.8
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   377543:
@@ -3085,12 +3095,11 @@ metadata:
         user_rating: 7.4
       2:
         title: |-
-          Kami no Tou: Tower of God 2nd Season
-        label: Score,Completed,2024 Summer
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 7.0
-    critic_rating: 7.2
+          null
+        label: Score,null Winter
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    critic_rating: 7.6
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   380477:
@@ -3108,15 +3117,13 @@ metadata:
           Kamitachi ni Hirowareta Otoko
         label: Score,Completed,2020 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.8
+        user_rating: 0
       2:
         title: |-
           Kamitachi ni Hirowareta Otoko 2
         label: Score,Completed,2023 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
-    critic_rating: 6.8
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   427919:
@@ -3180,9 +3187,7 @@ metadata:
           Karasu wa Aruji wo Erabanai
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.8
-    critic_rating: 8.1
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   452710:
@@ -3272,7 +3277,7 @@ metadata:
           Kidou Senshi Gundam 00 2nd Season
         label: Score,Completed,2008 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.7
+        user_rating: 0
     audience_rating: 7.8
     critic_rating: 8.1
     label: Ended,Completed
@@ -3412,15 +3417,13 @@ metadata:
           Kidou Senshi Gundam: Tekketsu no Orphans
         label: Score,Completed,2015 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.8
+        user_rating: 0
       2:
         title: |-
           Kidou Senshi Gundam: Tekketsu no Orphans 2
         label: Score,Completed,2016 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.0
-    audience_rating: 7.9
-    critic_rating: 8.1
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   432815:
@@ -3438,9 +3441,7 @@ metadata:
           Kikansha no Mahou wa Tokubetsu desu
         label: Score,Completed,2023 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
-    critic_rating: 7.0
+        user_rating: 0
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   467414:
@@ -3480,9 +3481,7 @@ metadata:
           Kill la Kill
         label: Score,Completed,2013 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.9
-    audience_rating: 7.9
-    critic_rating: 8.0
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   348545:
@@ -3571,8 +3570,16 @@ metadata:
         label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 0
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+      3:
+        title: |-
+          Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 8.0
+    audience_rating: 8.0
+    critic_rating: 2.7
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   387027:
     title: |-
       Kimi to Boku no Saigo no Senjo, Arui wa Sekai ga Hajimaru Seisen
@@ -3632,7 +3639,7 @@ metadata:
           Kingdom
         label: Score,Completed,2012 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.4
+        user_rating: 0
       2:
         title: |-
           Kingdom 2nd Season
@@ -3644,7 +3651,7 @@ metadata:
           Kingdom 3rd Season
         label: Score,Completed,2020 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.6
+        user_rating: 0
       4:
         title: |-
           Kingdom 4th Season
@@ -3663,8 +3670,8 @@ metadata:
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.4
-    audience_rating: 8.2
-    critic_rating: 8.5
+    audience_rating: 8.4
+    critic_rating: 2.9
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   279831:
@@ -3770,9 +3777,7 @@ metadata:
           Kono Oto Tomare!
         label: Score,Completed,2019 Fall,2019 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.1
-    audience_rating: 8.1
-    critic_rating: 8.1
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   420657:
@@ -3790,9 +3795,7 @@ metadata:
           Kono Subarashii Sekai ni Bakuen wo!
         label: Score,Dropped,2023 Spring
         label.remove: Completed,Watching,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.4
-    critic_rating: 7.5
+        user_rating: 0
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   303867:
@@ -4060,9 +4063,7 @@ metadata:
           Little Witch Academia (TV)
         label: Score,Dropped,2017 Winter
         label.remove: Completed,Watching,Paused,Planning
-        user_rating: 7.7
-    audience_rating: 7.7
-    critic_rating: 7.8
+        user_rating: 0
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   467127:
@@ -4150,9 +4151,7 @@ metadata:
           Madougushi Dahlia wa Utsumukanai
         label: Score,Completed,2024 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 6.8
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   262094:
@@ -4236,7 +4235,7 @@ metadata:
           Mahouka Koukou no Rettousei
         label: Score,Completed,2014 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.0
+        user_rating: 0
       2:
         title: |-
           Mahouka Koukou no Rettousei: Raihousha-hen
@@ -4248,9 +4247,7 @@ metadata:
           Mahouka Koukou no Rettousei 3rd Season
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
-    critic_rating: 7.3
+        user_rating: 0
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   394013:
@@ -4268,9 +4265,7 @@ metadata:
           Mahouka Koukou no Yuutousei
         label: Score,Completed,2021 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
-    critic_rating: 6.7
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   316842:
@@ -4328,15 +4323,15 @@ metadata:
           Mairimashita! Iruma-kun 3
         label: Score,Completed,2022 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.8
+        user_rating: 0
       4:
         title: |-
           Mairimashita! Iruma-kun 4
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.0
-    audience_rating: 7.9
-    critic_rating: 4.0
+    audience_rating: 8.0
+    critic_rating: 2.0
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   371436:
@@ -4460,9 +4455,7 @@ metadata:
           Maou 2099
         label: Score,Completed,2024 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.2
-    critic_rating: 7.4
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   375927:
@@ -4486,9 +4479,9 @@ metadata:
           Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II
         label: Score,Completed,2024 Spring,2023 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.9
-    critic_rating: 7.1
+        user_rating: 0
+    audience_rating: 7.2
+    critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   468734:
@@ -4526,9 +4519,7 @@ metadata:
           Mashiro no Oto
         label: Score,Completed,2021 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.3
-    audience_rating: 7.3
-    critic_rating: 7.5
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   421737:
@@ -4708,9 +4699,7 @@ metadata:
           mono
         label: Score,2025 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.6
-    critic_rating: 7.7
+        user_rating: 0
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   465988:
@@ -4816,15 +4805,15 @@ metadata:
           Nanatsu no Taizai: Kamigami no Gekirin
         label: Score,Completed,2019 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.3
+        user_rating: 0
       4:
         title: |-
           Nanatsu no Taizai: Funnu no Shinpan
         label: Score,Completed,2021 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.7
-    critic_rating: 7.1
+        user_rating: 0
+    audience_rating: 7.3
+    critic_rating: 7.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   309206:
@@ -4842,9 +4831,7 @@ metadata:
           Nejimaki Seirei Senki: Tenkyou no Alderamin
         label: Score,Completed,2016 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.3
-    audience_rating: 7.3
-    critic_rating: 7.6
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   416998:
@@ -4864,7 +4851,7 @@ metadata:
         label.remove: Completed,Watching,Paused,Planning
         user_rating: 7.7
     audience_rating: 7.7
-    critic_rating: 7.8
+    critic_rating: 7.6
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   469985:
@@ -4902,11 +4889,15 @@ metadata:
           Nige Jouzu no Wakagimi
         label: Score,Completed,2024 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.7
-    audience_rating: 7.7
-    critic_rating: 7.8
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+        user_rating: 0
+      2:
+        title: |-
+          Nige Jouzu no Wakagimi 2nd Season
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   407704:
     title: |-
       Nijusseiki Denki Mokuroku: Eureka・Evrika
@@ -5010,9 +5001,7 @@ metadata:
           Nozomanu Fushi no Boukensha
         label: Score,Completed,2024 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.4
-    critic_rating: 7.4
+        user_rating: 0
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   462789:
@@ -5145,9 +5134,7 @@ metadata:
           Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF
         label: Score,Dropped,2024 Spring
         label.remove: Completed,Watching,Paused,Planning
-        user_rating: 7.9
-    audience_rating: 7.9
-    critic_rating: 8.1
+        user_rating: 0
     label: Planned,Dropped
     label.remove: Airing,Ended,Completed,Watching,Paused,Planning
   414908:
@@ -5167,9 +5154,7 @@ metadata:
           Ooyukiumi no Kaina
         label: Score,Completed,2023 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
-    critic_rating: 6.7
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   389597:
@@ -5415,9 +5400,9 @@ metadata:
           Quanzhi Gaoshou 3
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.4
-    critic_rating: 5.1
+        user_rating: 0
+    audience_rating: 7.7
+    critic_rating: 5.3
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   417983:
@@ -5493,15 +5478,15 @@ metadata:
           Ranma 1/2 (2024)
         label: Score,2024 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.9
+        user_rating: 0
       2:
         title: |-
           Ranma 1/2 (2024) 2nd Season
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.7
-    audience_rating: 7.8
-    critic_rating: 7.8
+    audience_rating: 7.7
+    critic_rating: 3.8
     label: Planned
     label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   305089:
@@ -5551,7 +5536,7 @@ metadata:
       Reiwa no Dara-san
     original_title: |-
       Dara-san of the Reiwa Era
-    genre.sync: Comedy,Horror,Supernatural,Crossdressing,Tomboy,Monster Girl,Youkai,Gods,Curses,Nudity,Femboy,Shrine Maiden
+    genre.sync: Comedy,Horror,Supernatural,Youkai,Crossdressing,Tomboy,Monster Girl,Gods,Curses,Nudity,Femboy,Shrine Maiden,Female Protagonist
     studio: Asahi Production
     seasons:
       1:
@@ -5665,9 +5650,7 @@ metadata:
           Sabikui Bisco
         label: Score,Completed,2022 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
-    critic_rating: 7.1
+        user_rating: 0
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   401915:
@@ -5805,9 +5788,7 @@ metadata:
           Sakurasou no Pet na Kanojo
         label: Score,Completed,2012 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.8
-    critic_rating: 8.0
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   79089:
@@ -5885,9 +5866,7 @@ metadata:
           Sasaki to Pii-chan
         label: Score,Completed,2024 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 6.8
+        user_rating: 0
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   450228:
@@ -5926,10 +5905,16 @@ metadata:
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.3
-    audience_rating: -8.3
-    critic_rating: 8.3
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+      2:
+        title: |-
+          Seihantai na Kimi to Boku 2nd Season
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 8.2
+    audience_rating: 8.2
+    critic_rating: 8.4
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   425756:
     title: |-
       Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi
@@ -5993,15 +5978,13 @@ metadata:
           Seitokai Yakuindomo
         label: Score,Completed,2010 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.3
+        user_rating: 0
       2:
         title: |-
           Seitokai Yakuindomo＊
         label: Score,Completed,2014 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.4
-    critic_rating: 7.6
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   398193:
@@ -6019,9 +6002,7 @@ metadata:
           Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru
         label: Score,Completed,2021 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.2
-    critic_rating: 7.3
+        user_rating: 0
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   467882:
@@ -6051,7 +6032,7 @@ metadata:
       Sengoku Youko
     original_title: |-
       Sengoku Youko
-    genre.sync: Action,Adventure,Fantasy,Tragedy,Shounen,Demons,Swordplay,Samurai,Dissociative Identities,Shapeshifting,Female Protagonist,Male Protagonist,Magic,Kemonomimi,Ensemble Cast
+    genre.sync: Action,Adventure,Fantasy,Tragedy,Shounen,Demons,Found Family,Swordplay,Samurai,Dissociative Identities,Shapeshifting,Male Protagonist,Magic,Female Protagonist,Kemonomimi,Ensemble Cast
     studio: WHITE FOX
     seasons:
       1:
@@ -6059,15 +6040,15 @@ metadata:
           Sengoku Youko
         label: Score,Watching,2024 Winter
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.9
+        user_rating: 0
       2:
         title: |-
           Sengoku Youko: Senma Konton-hen
         label: Score,Dropped,2024 Summer
         label.remove: Completed,Watching,Paused,Planning
         user_rating: 7.4
-    audience_rating: 7.2
-    critic_rating: 7.3
+    audience_rating: 7.4
+    critic_rating: 3.8
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Paused,Planning
   428030:
@@ -6085,15 +6066,13 @@ metadata:
           Sentai Daishikkaku
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.2
+        user_rating: 0
       2:
         title: |-
           Sentai Daishikkaku 2nd Season
         label: Score,Completed,2025 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 7.1
-    critic_rating: 7.2
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   396876:
@@ -6257,7 +6236,7 @@ metadata:
       Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru
     original_title: |-
       Cautious Hero: The Hero Is Overpowered but Overly Cautious
-    genre.sync: Action,Adventure,Comedy,Fantasy,Isekai,Parody,Magic,Cultivation,Gods,Tragedy,Female Protagonist,Male Protagonist,Reincarnation,Demons,Anti-Hero,Medieval
+    genre.sync: Action,Adventure,Comedy,Fantasy,Isekai,Parody,Magic,Cultivation,Gods,Tragedy,Female Protagonist,Reincarnation,Male Protagonist,Demons,Anti-Hero,Medieval
     studio: WHITE FOX
     seasons:
       1:
@@ -6265,9 +6244,7 @@ metadata:
           Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru
         label: Score,Completed,2019 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.3
-    audience_rating: 7.3
-    critic_rating: 7.5
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   267440:
@@ -6347,9 +6324,7 @@ metadata:
           Shirobako
         label: Score,Completed,2014 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.1
-    audience_rating: 8.1
-    critic_rating: 8.3
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   402640:
@@ -6367,9 +6342,7 @@ metadata:
           Shokei Shoujo no Virgin Road
         label: Score,Completed,2022 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 6.8
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   332983:
@@ -6387,9 +6360,7 @@ metadata:
           Shoujo Shuumatsu Ryokou
         label: Score,AA Winner,Dropped,2017 Fall
         label.remove: Completed,Watching,Paused,Planning
-        user_rating: 8.1
-    audience_rating: 8.1
-    critic_rating: 8.2
+        user_rating: 0
     label: AA Winner,Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   304316:
@@ -6407,15 +6378,15 @@ metadata:
           Shouwa Genroku Rakugo Shinjuu
         label: Score,Completed,2016 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.4
+        user_rating: 0
       2:
         title: |-
           Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen
         label: Score,Completed,2017 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.6
-    audience_rating: 8.5
-    critic_rating: 8.6
+    audience_rating: 8.6
+    critic_rating: 4.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   426018:
@@ -6433,9 +6404,7 @@ metadata:
           Shuumatsu Train Doko e Iku?
         label: Score,2024 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.2
-    critic_rating: 7.4
+        user_rating: 0
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   452832:
@@ -6493,9 +6462,7 @@ metadata:
           Somali to Mori no Kamisama
         label: Score,Dropped,2020 Winter
         label.remove: Completed,Watching,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.6
-    critic_rating: 7.8
+        user_rating: 0
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   401233:
@@ -6513,15 +6480,15 @@ metadata:
           Sono Bisque Doll wa Koi wo Suru
         label: Score,Completed,2022 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.0
+        user_rating: 0
       2:
         title: |-
           Sono Bisque Doll wa Koi wo Suru Season 2
         label: Score,2025 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.2
-    audience_rating: 8.1
-    critic_rating: 8.1
+    audience_rating: 8.2
+    critic_rating: 4.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   474027:
@@ -6551,7 +6518,7 @@ metadata:
       Sousou no Frieren
     original_title: |-
       Frieren: Beyond Journey’s End
-    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Female Protagonist,Philosophy,Time Skip,Medieval,Found Family,Kuudere,Iyashikei,Demons,Foreign,Shounen
+    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Female Protagonist,Philosophy,Time Skip,Medieval,Found Family,Kuudere,Iyashikei,Demons,Shounen,Foreign
     studio: MADHOUSE
     seasons:
       1:
@@ -6593,15 +6560,15 @@ metadata:
           SPY×FAMILY Season 2
         label: Score,AA Winner,Completed,2023 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.0
+        user_rating: 0
       3:
         title: |-
           SPY×FAMILY Season 3
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.2
-    audience_rating: 8.1
-    critic_rating: 8.2
+    audience_rating: 8.2
+    critic_rating: 8.3
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   244061:
@@ -6643,9 +6610,7 @@ metadata:
           Steins;Gate 0
         label: Score,Completed,2018 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.4
-    audience_rating: 8.4
-    critic_rating: 8.6
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   267432:
@@ -6677,7 +6642,7 @@ metadata:
       Summer Time Render
     original_title: |-
       Summer Time Rendering
-    genre.sync: Action,Drama,Mystery,Supernatural,Thriller,Time Manipulation,Urban Fantasy,Time Loop,Primarily Teen Cast,Shapeshifting,Super Power,Reincarnation,Coastal,Mythology,Rural,Tragedy,Alternate Universe,Body Swapping,Ensemble Cast,Dissociative Identities,Cosmic Horror,Heterosexual,Survival,Gods,Religion,Male Protagonist,Shounen,Clone,Gore,Amnesia,Body Horror,Aliens,Unrequited Love
+    genre.sync: Action,Drama,Mystery,Supernatural,Thriller,Survival,Time Manipulation,Urban Fantasy,Time Loop,Primarily Teen Cast,Shapeshifting,Reincarnation,Super Power,Rural,Coastal,Tragedy,Gods,Mythology,Alternate Universe,Ensemble Cast,Cosmic Horror,Dissociative Identities,Body Swapping,Heterosexual,Clone,Shounen,Philosophy,Anthropomorphism,Male Protagonist,Gore,Religion,Amnesia,Body Horror,Unrequited Love
     studio: OLM
     seasons:
       1:
@@ -6685,9 +6650,7 @@ metadata:
           Summer Time Render
         label: Score,Completed,2022 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.3
-    audience_rating: 8.3
-    critic_rating: 8.5
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   465973:
@@ -6741,15 +6704,15 @@ metadata:
           Sword Art Online: Alicization
         label: Score,Completed,2018 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.5
+        user_rating: 0
       4:
         title: |-
           Sword Art Online: Alicization - War of Underworld
         label: Score,Completed,2020 Summer,2019 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.1
-    critic_rating: 7.3
+        user_rating: 0
+    audience_rating: 6.8
+    critic_rating: 6.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   402642:
@@ -6819,7 +6782,7 @@ metadata:
           Tate no Yuusha no Nariagari Season 3
         label: Score,Completed,2023 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.0
+        user_rating: 0
       4:
         title: |-
           Tate no Yuusha no Nariagari Season 4
@@ -6827,7 +6790,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.0
     audience_rating: 7.1
-    critic_rating: 7.1
+    critic_rating: 6.9
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   468049:
@@ -6927,9 +6890,7 @@ metadata:
           Tensai Ouji no Akaji Kokka Saisei Jutsu
         label: Score,Completed,2022 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.2
-    critic_rating: 7.4
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   434704:
@@ -6947,15 +6908,13 @@ metadata:
           Tensei Kizoku, Kantei Skill de Nariagaru
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.1
+        user_rating: 0
       2:
         title: |-
           Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season
         label: Score,Completed,2024 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.3
-    audience_rating: 7.2
-    critic_rating: 7.3
+        user_rating: 0
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   423362:
@@ -6973,9 +6932,7 @@ metadata:
           Tensei Oujo to Tensai Reijou no Mahou Kakumei
         label: Score,Completed,2023 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
-    critic_rating: 7.5
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   426834:
@@ -7099,9 +7056,7 @@ metadata:
           Teogonia
         label: Score,Completed,2025 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 6.9
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   471657:
@@ -7139,9 +7094,7 @@ metadata:
           The Fable
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.8
-    critic_rating: 8.1
+        user_rating: 0
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   378556:
@@ -7159,9 +7112,7 @@ metadata:
           The God Of High School
         label: Score,Completed,2020 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
-    critic_rating: 7.1
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   281249:
@@ -7181,21 +7132,19 @@ metadata:
           Tokyo Ghoul
         label: Score,Completed,2014 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.6
+        user_rating: 0
       2:
         title: |-
           Tokyo Ghoul √A
         label: Score,Completed,2015 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.7
+        user_rating: 0
       3:
         title: |-
           Tokyo Ghoul:re
         label: Score,Completed,2018 Fall,2018 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.8
-    critic_rating: 7.1
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   272043:
@@ -7213,9 +7162,7 @@ metadata:
           Tokyo Ravens
         label: Score,Completed,2013 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 7.4
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   393478:
@@ -7239,17 +7186,37 @@ metadata:
           Tokyo Revengers: Seiya Kessen-hen
         label: Score,Completed,2023 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.5
+        user_rating: 0
       3:
         title: |-
           Tokyo Revengers: Tenjiku-hen
         label: Score,Completed,2023 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.7
-    audience_rating: 7.6
-    critic_rating: 7.7
+        user_rating: 0
+    audience_rating: 7.7
+    critic_rating: 7.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  452039:
+    title: |-
+      Dogul Wang
+    sort_title: |-
+      Dogul Wang
+    original_title: |-
+      Tomb Raider King
+    genre.sync: Action,Adventure,Fantasy,Male Protagonist,Anti-Hero,Magic,Gods,Demons,Time Manipulation
+    studio: STUDIO EEK
+    seasons:
+      1:
+        title: |-
+          Dogul Wang
+        label: Score,Watching,2026 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 6.9
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   421994:
     title: |-
       Tomo-chan wa Onnanoko!
@@ -7285,9 +7252,7 @@ metadata:
           Tonari no Youkai-san
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 7.3
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   426572:
@@ -7305,7 +7270,7 @@ metadata:
           Tondemo Skill de Isekai Hourou Meshi
         label: Score,Completed,2023 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.6
+        user_rating: 0
       2:
         title: |-
           Tondemo Skill de Isekai Hourou Meshi 2
@@ -7313,7 +7278,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.6
     audience_rating: 7.6
-    critic_rating: 7.7
+    critic_rating: 3.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   418666:
@@ -7353,15 +7318,13 @@ metadata:
           Tonikaku Kawaii
         label: Score,AA Winner,Completed,2020 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.7
+        user_rating: 0
       2:
         title: |-
           Tonikaku Kawaii Season 2
         label: Score,Dropped,2023 Spring
         label.remove: Completed,Watching,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.7
-    critic_rating: 7.7
+        user_rating: 0
     label: AA Winner,Ended,Dropped
     label.remove: Planned,Airing,Watching,Paused,Planning
   83277:
@@ -7371,7 +7334,7 @@ metadata:
       Toradora!
     original_title: |-
       Toradora!
-    genre.sync: Comedy,Drama,Romance,Slice of Life,Tsundere,Love Triangle,Primarily Teen Cast,School,Heterosexual,Male Protagonist,Unrequited Love,Flat Chest,Female Protagonist,Slapstick
+    genre.sync: Comedy,Drama,Romance,Slice of Life,Tsundere,Love Triangle,Primarily Teen Cast,School,Heterosexual,Male Protagonist,Unrequited Love,Female Protagonist,Slapstick
     studio: J.C.STAFF
     seasons:
       0:
@@ -7443,7 +7406,7 @@ metadata:
           Trigun Stampede
         label: Score,Completed,2023 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.8
+        user_rating: 7.7
       2:
         title: |-
           Trigun Stargaze
@@ -7469,15 +7432,15 @@ metadata:
           Tsue to Tsurugi no Wistoria
         label: Score,Completed,2024 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.9
+        user_rating: 0
       2:
         title: |-
           Tsue to Tsurugi no Wistoria Season 2
         label: Score,Completed,2026 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.2
-    audience_rating: 8.1
-    critic_rating: 8.1
+    audience_rating: 8.2
+    critic_rating: 4.1
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   453028:
@@ -7495,9 +7458,9 @@ metadata:
           Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
-    critic_rating: 7.1
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   390832:
@@ -7515,15 +7478,13 @@ metadata:
           Tsuki ga Michibiku Isekai Douchuu
         label: Score,Completed,2021 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.7
+        user_rating: 0
       2:
         title: |-
           Tsuki ga Michibiku Isekai Douchuu 2nd Season
         label: Score,Completed,2024 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.8
-    critic_rating: 7.8
+        user_rating: 0
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   352796:
@@ -7541,15 +7502,13 @@ metadata:
           Tsurune: Kazemai Koukou Kyuudou-bu
         label: Score,Completed,2018 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.6
+        user_rating: 0
       2:
         title: |-
           Tsurune: Tsunagari no Issha
         label: Score,Completed,2023 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 0
-    audience_rating: 7.6
-    critic_rating: 7.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   459453:
@@ -7622,7 +7581,7 @@ metadata:
           Uchuu Senkan Yamato 2199
         label: Score,Completed,2012 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.0
+        user_rating: 0
       2:
         title: |-
           Uchuu Senkan Yamato 2202: Ai no Senshi-tachi
@@ -7640,9 +7599,9 @@ metadata:
           Yamato yo Towa ni: REBEL3199
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.0
-    audience_rating: 7.1
-    critic_rating: 7.8
+        user_rating: 0
+    audience_rating: 7.4
+    critic_rating: 5.8
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   453673:
@@ -7680,9 +7639,7 @@ metadata:
           Undead Unluck
         label: Score,Completed,2023 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.6
-    critic_rating: 7.7
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   249872:
@@ -7750,7 +7707,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.9
     audience_rating: 7.9
-    critic_rating: 8.1
+    critic_rating: 7.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   458058:
@@ -7908,21 +7865,19 @@ metadata:
           Working!!
         label: Score,Completed,2010 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.4
+        user_rating: 0
       2:
         title: |-
           Working'!!
         label: Score,Completed,2011 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.6
+        user_rating: 0
       3:
         title: |-
           Working!!!
         label: Score,Completed,2015 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.6
-    critic_rating: 7.8
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   283934:
@@ -7940,21 +7895,19 @@ metadata:
           World Trigger
         label: Score,Completed,2014 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.2
+        user_rating: 0
       2:
         title: |-
           World Trigger 2nd Season
         label: Score,Completed,2021 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.0
+        user_rating: 0
       3:
         title: |-
           World Trigger 3rd Season
         label: Score,Completed,2021 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.2
-    audience_rating: 7.8
-    critic_rating: 8.0
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   341425:
@@ -7974,9 +7927,7 @@ metadata:
           Wotaku ni Koi wa Muzukashii
         label: Score,Completed,2018 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.8
-    critic_rating: 7.9
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   376751:
@@ -8012,7 +7963,7 @@ metadata:
           Xian Wang De Richang Shenghuo 4
         label: Score,Completed,2023 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.5
+        user_rating: 0
       5:
         title: |-
           Xian Wang de Richang Shenghuo 5
@@ -8020,7 +7971,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.5
     audience_rating: 7.4
-    critic_rating: 7.4
+    critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   348002:
@@ -8049,6 +8000,26 @@ metadata:
     critic_rating: 6.8
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  473423:
+    title: |-
+      Yani Neko
+    sort_title: |-
+      Yani Neko
+    original_title: |-
+      Chainsmoker Cat
+    genre.sync: Comedy,Slice of Life,Surreal Comedy,Drugs,Female Protagonist,Nekomimi,Kemonomimi,Primarily Female Cast,Urban,Episodic,Rehabilitation,Primarily Adult Cast,Urban Fantasy,Class Struggle,Satire,Hikikomori,Delinquents,Seinen
+    studio: Bibury Animation Studios
+    seasons:
+      1:
+        title: |-
+          Yani Neko
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 7.1
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   453694:
     title: |-
       Yasei no Last Boss ga Arawareta!
@@ -8108,14 +8079,14 @@ metadata:
           Yi Ren Zhi Xia 5
         label: Score,Completed,2022 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.6
+        user_rating: 0
       6:
         title: |-
           Yi Ren Zhi Xia 6
         label: Score,Completed,2026 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 5.9
-    audience_rating: 6.4
+    audience_rating: 6.2
     critic_rating: 4.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -8134,15 +8105,15 @@ metadata:
           Yofukashi no Uta
         label: Score,Completed,2022 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.9
+        user_rating: 0
       2:
         title: |-
           Yofukashi no Uta Season 2
         label: Score,Watching,2025 Summer
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.4
-    audience_rating: 8.1
-    critic_rating: 8.1
+    audience_rating: 8.4
+    critic_rating: 4.2
     label: Ended,Watching
     label.remove: Planned,Airing,Dropped,Paused,Planning
   452711:
@@ -8180,9 +8151,7 @@ metadata:
           Yoru no Kurage wa Oyogenai
         label: Score,2024 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.6
-    critic_rating: 7.7
+        user_rating: 0
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   315500:
@@ -8234,7 +8203,7 @@ metadata:
           Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season
         label: Score,Completed,2022 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.9
+        user_rating: 0
       3:
         title: |-
           Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season
@@ -8247,8 +8216,8 @@ metadata:
         label: Score,Completed,2026 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.8
-    audience_rating: 7.8
-    critic_rating: 7.9
+    audience_rating: 7.7
+    critic_rating: 7.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   424019:
@@ -8284,7 +8253,7 @@ metadata:
       Yuru Camp△
     original_title: |-
       Laid-Back Camp
-    genre.sync: Comedy,Slice of Life,Outdoor Activities,Camping,Iyashikei,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Yuri,Rural,Primarily Teen Cast,Food,Educational,Travel,School Club,Kuudere,Seinen,Episodic
+    genre.sync: Comedy,Slice of Life,Outdoor Activities,Camping,Iyashikei,Cute Girls Doing Cute Things,Primarily Female Cast,Female Protagonist,Rural,Food,Primarily Teen Cast,Educational,Travel,School Club,Kuudere,Seinen,Episodic
     studio: C-Station
     seasons:
       0:
@@ -8294,21 +8263,19 @@ metadata:
           Yuru Camp△
         label: Score,2018 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.1
+        user_rating: 0
       2:
         title: |-
           Yuru Camp△ SEASON 2
         label: Score,2021 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.4
+        user_rating: 0
       3:
         title: |-
           Yuru Camp△ SEASON 3
         label: Score,2024 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.0
-    audience_rating: 8.2
-    critic_rating: 8.3
+        user_rating: 0
     label: Planned
     label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   385542:
@@ -8446,8 +8413,6 @@ metadata:
           Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto
         label: Score,Completed,2023 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.6
-    critic_rating: 7.7
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
