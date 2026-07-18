@@ -1521,6 +1521,26 @@ metadata:
     critic_rating: 6.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  452039:
+    title: |-
+      Dogul Wang
+    sort_title: |-
+      Dogul Wang
+    original_title: |-
+      Tomb Raider King
+    genre.sync: Action,Adventure,Fantasy,Male Protagonist,Anti-Hero,Magic,Gods,Demons,Time Manipulation
+    studio: STUDIO EEK
+    seasons:
+      1:
+        title: |-
+          Dogul Wang
+        label: Score,Watching,2026 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 6.9
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   370761:
     title: |-
       Dorohedoro
@@ -1722,7 +1742,7 @@ metadata:
       Enen no Shouboutai
     original_title: |-
       Fire Force
-    genre.sync: Action,Drama,Sci-Fi,Supernatural,Firefighters,Urban Fantasy,Super Power,Demons,Shounen,Conspiracy,Cult,Religion,Urban,Male Protagonist,Post-Apocalyptic,Steampunk,Ensemble Cast,Tragedy,Dystopian
+    genre.sync: Action,Drama,Sci-Fi,Supernatural,Firefighters,Urban Fantasy,Super Power,Demons,Shounen,Conspiracy,Cult,Religion,Urban,Male Protagonist,Post-Apocalyptic,Steampunk,Tragedy,Ensemble Cast,Rescue,Dystopian,Slapstick
     studio: david production
     seasons:
       1:
@@ -1730,7 +1750,7 @@ metadata:
           Enen no Shouboutai
         label: Score,Completed,2019 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.6
+        user_rating: 0
       2:
         title: |-
           Enen no Shouboutai: Ni no Shou
@@ -1743,8 +1763,8 @@ metadata:
         label: Score,Completed,2026 Winter,2025 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.0
-    audience_rating: 7.8
-    critic_rating: 7.9
+    audience_rating: 7.9
+    critic_rating: 5.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   410031:
@@ -1811,46 +1831,6 @@ metadata:
     critic_rating: 8.3
     label: Planned
     label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
-  475631:
-    title: |-
-      Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita
-    sort_title: |-
-      Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita
-    original_title: |-
-      The Forsaken Saintess and Her Foodie Roadtrip in Another World
-    genre.sync: Action,Adventure,Comedy,Fantasy,Josei
-    studio: EMT Squared
-    seasons:
-      1:
-        title: |-
-          Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita
-        label: Score,Watching,2026 Summer
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
-    critic_rating: 6.7
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
-  465987:
-    title: |-
-      Ryoumin 0-Nin Start no Henkyou Ryoushu-sama
-    sort_title: |-
-      Ryoumin 0-Nin Start no Henkyou Ryoushu-sama
-    original_title: |-
-      The Frontier Lord Begins with Zero Subjects
-    genre.sync: Action,Comedy,Drama,Fantasy,Romance,Slice of Life,Kingdom Management,Cohabitation,Age Gap
-    studio: animation studio42
-    seasons:
-      1:
-        title: |-
-          Ryoumin 0-Nin Start no Henkyou Ryoushu-sama
-        label: Score,2026 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
-    critic_rating: 7.0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   467641:
     title: |-
       Fujimoto Tatsuki 17-26
@@ -2003,6 +1983,26 @@ metadata:
         title: |-
           Gakusen Toshi Asterisk
         label: Score,Completed,2016 Spring,2015 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  82099:
+    title: |-
+      Kara no Kyoukai: Fukan Fuukei
+    sort_title: |-
+      Kara no Kyoukai: Fukan Fuukei
+    original_title: |-
+      the Garden of sinners Chapter 1: Thanatos. (Overlooking View)
+    genre.sync: Action,Mystery,Supernatural,Thriller,Suicide,Urban,Female Protagonist,Urban Fantasy,Ghost,Super Power,Dissociative Identities,Philosophy,Gore,Achronological Order,Tragedy
+    studio: ufotable
+    seasons:
+      0:
+        label.remove: Score
+      1:
+        title: |-
+          Kara no Kyoukai: Fukan Fuukei
+        label: Score,Completed,2007 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 0
     label: Ended,Completed
@@ -2171,9 +2171,7 @@ metadata:
           Golden Time
         label: Score,Completed,2013 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
-    critic_rating: 7.7
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   343913:
@@ -2543,7 +2541,7 @@ metadata:
       Hikaru ga Shinda Natsu
     original_title: |-
       The Summer Hikaru Died
-    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Male Protagonist,Rural,Tragedy,Cosmic Horror,Urban Fantasy,Body Horror,Mythology,LGBTQ+ Themes,Primarily Teen Cast,Curses,Unrequited Love,Philosophy,Seinen,Boys' Love,Gods,Mixed Media,Detective,Denpa
+    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Male Protagonist,Rural,Tragedy,Cosmic Horror,Urban Fantasy,Body Horror,Mythology,LGBTQ+ Themes,Primarily Teen Cast,Curses,Unrequited Love,Seinen,Philosophy,Boys' Love,Gods,Mixed Media,Detective,School,Denpa
     studio: CygamesPictures
     seasons:
       1:
@@ -2854,7 +2852,7 @@ metadata:
           Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
         label: Score,Completed,2023 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.3
+        user_rating: 6.2
       2:
         title: |-
           Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season
@@ -2867,7 +2865,7 @@ metadata:
         label: Score,Completed,2026 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.7
-    audience_rating: 6.5
+    audience_rating: 6.4
     critic_rating: 6.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -3095,10 +3093,11 @@ metadata:
         user_rating: 7.4
       2:
         title: |-
-          null
-        label: Score,null Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+          Kami no Tou: Tower of God 2nd Season
+        label: Score,Completed,2024 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 0
+    audience_rating: 7.4
     critic_rating: 7.6
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -3459,8 +3458,8 @@ metadata:
           Kill Ao
         label: Score,Completed,2026 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.3
-    audience_rating: 7.3
+        user_rating: 7.4
+    audience_rating: 7.4
     critic_rating: 7.3
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
@@ -3663,7 +3662,7 @@ metadata:
           Kingdom 5th Season
         label: Score,Completed,2024 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.5
+        user_rating: 0
       6:
         title: |-
           Kingdom 6th Season
@@ -3671,7 +3670,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.4
     audience_rating: 8.4
-    critic_rating: 2.9
+    critic_rating: 1.5
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   279831:
@@ -3859,7 +3858,7 @@ metadata:
       Kore Kaite Shine
     original_title: |-
       Draw This, Then Die!
-    genre.sync: Comedy,Slice of Life,Female Protagonist,Writing,Drawing,Coastal,Otaku Culture
+    genre.sync: Comedy,Slice of Life,Female Protagonist,Writing,Drawing,Otaku Culture,Iyashikei,Coastal
     studio: Shin-Ei Animation
     seasons:
       1:
@@ -3867,9 +3866,9 @@ metadata:
           Kore Kaite Shine
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
-    critic_rating: 7.4
+        user_rating: 7.3
+    audience_rating: 7.3
+    critic_rating: 7.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   450475:
@@ -5635,6 +5634,26 @@ metadata:
     critic_rating: 7.6
     label: Planned,Dropped
     label.remove: Airing,Ended,Completed,Watching,Paused,Planning
+  465987:
+    title: |-
+      Ryoumin 0-Nin Start no Henkyou Ryoushu-sama
+    sort_title: |-
+      Ryoumin 0-Nin Start no Henkyou Ryoushu-sama
+    original_title: |-
+      The Frontier Lord Begins with Zero Subjects
+    genre.sync: Action,Comedy,Drama,Fantasy,Romance,Slice of Life,Kingdom Management,Cohabitation,Age Gap
+    studio: animation studio42
+    seasons:
+      1:
+        title: |-
+          Ryoumin 0-Nin Start no Henkyou Ryoushu-sama
+        label: Score,2026 Summer
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 7.0
+    label: Airing
+    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   398387:
     title: |-
       Sabikui Bisco
@@ -6192,21 +6211,21 @@ metadata:
           Shiguang Dailiren
         label: Score,Dropped,2021 Spring
         label.remove: Completed,Watching,Paused,Planning
-        user_rating: 8.6
+        user_rating: 0
       2:
         title: |-
           Shiguang Dailiren II
         label: Score,2023 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.6
+        user_rating: 0
       3:
         title: |-
           Shiguang Dailiren: Yingdu Pian
         label: Score,2024 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.3
-    audience_rating: 8.5
-    critic_rating: 8.5
+    audience_rating: 8.3
+    critic_rating: 2.8
     label: Planned,Dropped
     label.remove: Airing,Ended,Completed,Watching,Paused,Planning
   449857:
@@ -6675,6 +6694,26 @@ metadata:
     critic_rating: 8.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+  475631:
+    title: |-
+      Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita
+    sort_title: |-
+      Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita
+    original_title: |-
+      The Forsaken Saintess and Her Foodie Roadtrip in Another World
+    genre.sync: Action,Adventure,Comedy,Fantasy,Josei
+    studio: EMT Squared
+    seasons:
+      1:
+        title: |-
+          Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita
+        label: Score,Watching,2026 Summer
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 6.2
+    audience_rating: 6.2
+    critic_rating: 6.7
+    label: Airing,Watching
+    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   259640:
     title: |-
       Sword Art Online
@@ -7197,26 +7236,6 @@ metadata:
     critic_rating: 7.8
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  452039:
-    title: |-
-      Dogul Wang
-    sort_title: |-
-      Dogul Wang
-    original_title: |-
-      Tomb Raider King
-    genre.sync: Action,Adventure,Fantasy,Male Protagonist,Anti-Hero,Magic,Gods,Demons,Time Manipulation
-    studio: STUDIO EEK
-    seasons:
-      1:
-        title: |-
-          Dogul Wang
-        label: Score,Watching,2026 Summer
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 6.9
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   421994:
     title: |-
       Tomo-chan wa Onnanoko!
@@ -7232,9 +7251,7 @@ metadata:
           Tomo-chan wa Onnanoko!
         label: Score,Dropped,2023 Winter
         label.remove: Completed,Watching,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.6
-    critic_rating: 7.7
+        user_rating: 0
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   418368:
@@ -7526,9 +7543,7 @@ metadata:
           Tu Bian Yingxiong X
         label: Score,Dropped,2025 Spring
         label.remove: Completed,Watching,Paused,Planning
-        user_rating: 8.5
-    audience_rating: 8.5
-    critic_rating: 8.7
+        user_rating: 0
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   471296:
@@ -7538,7 +7553,7 @@ metadata:
       Uchi no Otouto-domo ga Sumimasen
     original_title: |-
       Please Excuse My Younger Brothers
-    genre.sync: Comedy,Romance,Slice of Life,Shoujo,Heterosexual,Male Harem
+    genre.sync: Comedy,Romance,Slice of Life,Shoujo,Heterosexual,Female Protagonist
     studio: Lay-duce
     seasons:
       1:
@@ -7546,8 +7561,8 @@ metadata:
           Uchi no Otouto-domo ga Sumimasen
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
+        user_rating: 6.6
+    audience_rating: 6.6
     critic_rating: 7.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -7619,9 +7634,7 @@ metadata:
           Uma Musume: Cinderella Gray
         label: Score,Completed,2025 Fall,2025 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.6
-    audience_rating: 8.6
-    critic_rating: 8.6
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   423030:
@@ -7671,7 +7684,7 @@ metadata:
       Uzaki-chan wa Asobitai!
     original_title: |-
       Uzaki-chan Wants to Hang Out!
-    genre.sync: Comedy,Ecchi,Romance,Slice of Life,Slapstick,Large Breasts,Primarily Adult Cast,Male Protagonist,Heterosexual,Female Protagonist,Tomboy,College,Urban,Episodic,Seinen
+    genre.sync: Comedy,Ecchi,Romance,Slice of Life,Slapstick,Primarily Adult Cast,Male Protagonist,Heterosexual,Female Protagonist,Tomboy,College,Urban,Episodic,Seinen
     studio: ENGI
     seasons:
       1:
@@ -7679,15 +7692,13 @@ metadata:
           Uzaki-chan wa Asobitai!
         label: Score,Completed,2020 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.7
+        user_rating: 0
       2:
         title: |-
           Uzaki-chan wa Asobitai! ω
         label: Score,Completed,2022 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 0
-    audience_rating: 6.7
-    critic_rating: 6.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   400133:
@@ -7725,15 +7736,15 @@ metadata:
           Vigilante: Boku no Hero Academia ILLEGALS
         label: Score,Dropped,2025 Spring
         label.remove: Completed,Watching,Paused,Planning
-        user_rating: 7.6
+        user_rating: 0
       2:
         title: |-
           Vigilante: Boku no Hero Academia ILLEGALS 2nd Season
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.4
-    audience_rating: 7.5
-    critic_rating: 7.5
+    audience_rating: 7.4
+    critic_rating: 3.7
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   359274:
@@ -7945,7 +7956,7 @@ metadata:
           Xian Wang De Richang Shenghuo
         label: Score,Completed,2020 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.3
+        user_rating: 0
       2:
         title: |-
           Xian Wang De Richang Shenghuo 2
@@ -7971,7 +7982,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.5
     audience_rating: 7.4
-    critic_rating: 7.3
+    critic_rating: 4.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   348002:
@@ -8085,9 +8096,9 @@ metadata:
           Yi Ren Zhi Xia 6
         label: Score,Completed,2026 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 5.9
-    audience_rating: 6.2
-    critic_rating: 4.6
+        user_rating: 0
+    audience_rating: 6.6
+    critic_rating: 4.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   412374:
