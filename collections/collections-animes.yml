@@ -18,7 +18,7 @@ collections:
       all:
         label: Airing
         unplayed_episodes: true
-      sort_by: viewed.desc
+      sort_by: added.desc
     sort_title: |-
       !1 - Ongoing à voir
     collection_mode: show_items
