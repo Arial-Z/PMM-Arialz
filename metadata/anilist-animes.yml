@@ -1987,26 +1987,6 @@ metadata:
         user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  82099:
-    title: |-
-      Kara no Kyoukai: Fukan Fuukei
-    sort_title: |-
-      Kara no Kyoukai: Fukan Fuukei
-    original_title: |-
-      the Garden of sinners Chapter 1: Thanatos. (Overlooking View)
-    genre.sync: Action,Mystery,Supernatural,Thriller,Suicide,Urban,Female Protagonist,Urban Fantasy,Ghost,Super Power,Dissociative Identities,Philosophy,Gore,Achronological Order,Tragedy
-    studio: ufotable
-    seasons:
-      0:
-        label.remove: Score
-      1:
-        title: |-
-          Kara no Kyoukai: Fukan Fuukei
-        label: Score,Completed,2007 Fall
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 0
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   279804:
     title: |-
       Gekkan Shoujo Nozaki-kun
@@ -3171,6 +3151,26 @@ metadata:
     critic_rating: 8.5
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+  82099:
+    title: |-
+      Kara no Kyoukai: Fukan Fuukei
+    sort_title: |-
+      Kara no Kyoukai: Fukan Fuukei
+    original_title: |-
+      the Garden of sinners Chapter 1: Thanatos. (Overlooking View)
+    genre.sync: Action,Mystery,Supernatural,Thriller,Suicide,Urban,Female Protagonist,Urban Fantasy,Ghost,Super Power,Dissociative Identities,Philosophy,Gore,Achronological Order,Tragedy
+    studio: ufotable
+    seasons:
+      0:
+        label.remove: Score
+      1:
+        title: |-
+          Kara no Kyoukai: Fukan Fuukei
+        label: Score,Completed,2007 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   441260:
     title: |-
       Karasu wa Aruji wo Erabanai
