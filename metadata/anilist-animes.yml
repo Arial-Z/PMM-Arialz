@@ -70,7 +70,7 @@ metadata:
           Major S2
         label: Score,Completed,2006 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.9
+        user_rating: 0
       3:
         title: |-
           Major S3
@@ -82,21 +82,19 @@ metadata:
           Major S4
         label: Score,Completed,2008 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.0
+        user_rating: 0
       5:
         title: |-
           Major S5
         label: Score,Completed,2009 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.3
+        user_rating: 0
       6:
         title: |-
           Major S6
         label: Score,Completed,2010 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 0
-    audience_rating: 8.1
-    critic_rating: 6.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   442215:
@@ -114,9 +112,7 @@ metadata:
           Sand Land: The Series
         label: Score,Completed,2024 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.4
-    critic_rating: 7.5
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   78783:
@@ -327,9 +323,7 @@ metadata:
           Angolmois: Genkou Kassenki
         label: Score,Completed,2018 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 7.1
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   460341:
@@ -539,15 +533,13 @@ metadata:
           Baby Steps
         label: Score,Completed,2014 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.5
+        user_rating: 0
       2:
         title: |-
           Baby Steps 2
         label: Score,Completed,2015 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.7
-    critic_rating: 7.9
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   381536:
@@ -763,7 +755,7 @@ metadata:
       Black Torch
     original_title: |-
       Black Torch
-    genre.sync: Action,Adventure,Fantasy,Sci-Fi,Supernatural,Urban Fantasy,Youkai
+    genre.sync: Action,Adventure,Fantasy,Sci-Fi,Supernatural,Urban Fantasy,Youkai,Shounen,Male Protagonist
     studio: 100studio
     seasons:
       1:
@@ -1900,7 +1892,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
-    critic_rating: 7.4
+    critic_rating: 7.6
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   412806:
@@ -2221,7 +2213,7 @@ metadata:
       Grow Up Show: Himawari no Circus-dan
     original_title: |-
       Grow Up Show
-    genre.sync: Circus,Cute Girls Doing Cute Things,Female Protagonist,Primarily Female Cast,Acrobatics
+    genre.sync: Circus,Cute Girls Doing Cute Things,Female Protagonist,Primarily Female Cast,Yuri,Acrobatics
     studio: A-1 Pictures
     seasons:
       1:
@@ -2229,9 +2221,9 @@ metadata:
           Grow Up Show: Himawari no Circus-dan
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
-    critic_rating: 7.2
+        user_rating: 6.8
+    audience_rating: 6.8
+    critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   79071:
@@ -2379,7 +2371,7 @@ metadata:
       Hanaori-san wa Tensei Shite mo Kenka ga Shitai
     original_title: |-
       Hanaori-san Still Wants to Fight in the Next Life
-    genre.sync: Comedy,Romance,Supernatural,Reverse Isekai,Parody,Heterosexual,Reincarnation,Age Gap
+    genre.sync: Comedy,Romance,Supernatural,Reverse Isekai,Age Gap,Parody,Heterosexual,Reincarnation
     studio: LIDENFILMS
     seasons:
       1:
@@ -2389,7 +2381,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.6
     audience_rating: 6.6
-    critic_rating: 7.0
+    critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   401856:
@@ -2804,7 +2796,7 @@ metadata:
       Iwamoto-senpai no Suisen
     original_title: |-
       Recommendations from Iwamoto-Senpai
-    genre.sync: Action,Supernatural,Military
+    genre.sync: Action,Supernatural,Super Power
     studio: Studio DEEN
     seasons:
       1:
@@ -2812,9 +2804,9 @@ metadata:
           Iwamoto-senpai no Suisen
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.4
-    audience_rating: 5.4
-    critic_rating: 6.2
+        user_rating: 5.3
+    audience_rating: 5.3
+    critic_rating: 6.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   423121:
@@ -2832,7 +2824,7 @@ metadata:
           Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
         label: Score,Completed,2023 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.2
+        user_rating: 0
       2:
         title: |-
           Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season
@@ -2845,8 +2837,8 @@ metadata:
         label: Score,Completed,2026 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.7
-    audience_rating: 6.4
-    critic_rating: 6.5
+    audience_rating: 6.6
+    critic_rating: 4.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   402474:
@@ -4204,7 +4196,7 @@ metadata:
       Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance
     original_title: |-
       Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance
-    genre.sync: Action,Comedy,Drama,Fantasy,Mahou Shoujo,Female Protagonist,Drugs,Magic,Swordplay,Post-Apocalyptic,Super Power,Tragedy,Gore,Demons,Primarily Female Cast,Henshin,Found Family,Yuri,Guns,LGBTQ+ Themes
+    genre.sync: Action,Comedy,Drama,Fantasy,Mahou Shoujo,Female Protagonist,Henshin,Drugs,Primarily Female Cast,Demons,Gore,Tragedy,Super Power,Magic,Swordplay,Post-Apocalyptic,Guns,LGBTQ+ Themes,Found Family,Yuri
     studio: Seven Arcs
     seasons:
       1:
@@ -4388,15 +4380,13 @@ metadata:
           Major 2nd
         label: Score,Completed,2018 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.2
+        user_rating: 0
       2:
         title: |-
           Major 2nd Season 2
         label: Score,Completed,2020 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 0
-    audience_rating: 7.2
-    critic_rating: 7.4
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   459339:
@@ -4894,7 +4884,9 @@ metadata:
           Nige Jouzu no Wakagimi 2nd Season
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 7.2
+    audience_rating: 7.2
+    critic_rating: 3.8
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   407704:
@@ -5085,8 +5077,8 @@ metadata:
           Oni no Hanayome
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
+        user_rating: 6.9
+    audience_rating: 6.9
     critic_rating: 7.1
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -6065,9 +6057,7 @@ metadata:
           Sengoku Youko: Senma Konton-hen
         label: Score,Dropped,2024 Summer
         label.remove: Completed,Watching,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.4
-    critic_rating: 3.8
+        user_rating: 0
     label: Ended,Dropped
     label.remove: Planned,Airing,Completed,Paused,Planning
   428030:
@@ -6223,9 +6213,7 @@ metadata:
           Shiguang Dailiren: Yingdu Pian
         label: Score,2024 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.3
-    audience_rating: 8.3
-    critic_rating: 2.8
+        user_rating: 0
     label: Planned,Dropped
     label.remove: Airing,Ended,Completed,Watching,Paused,Planning
   449857:
@@ -6649,9 +6637,7 @@ metadata:
           Suisei no Gargantia
         label: Score,Completed,2013 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.2
-    critic_rating: 7.4
+        user_rating: 0
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   407306:
@@ -6679,7 +6665,7 @@ metadata:
       Super no Ura de Yani Suu Futari
     original_title: |-
       Smoking Behind the Supermarket with You
-    genre.sync: Comedy,Romance,Slice of Life,Seinen,Primarily Adult Cast,Heterosexual,Age Gap,Konbini,Work,Iyashikei,Female Protagonist
+    genre.sync: Comedy,Romance,Slice of Life,Seinen,Primarily Adult Cast,Heterosexual,Konbini,Work,Age Gap,Drugs,Iyashikei,Female Protagonist,Office
     studio: Asahi Production
     seasons:
       0:
@@ -6689,9 +6675,9 @@ metadata:
           Super no Ura de Yani Suu Futari
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.3
-    audience_rating: 8.3
-    critic_rating: 8.5
+        user_rating: 8.2
+    audience_rating: 8.2
+    critic_rating: 8.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   475631:
@@ -6901,7 +6887,7 @@ metadata:
       Tenmaku no Jaadugar
     original_title: |-
       Jaadugar: A Witch in Mongolia
-    genre.sync: Drama,Indigenous Cultures,Politics,Tragedy,Female Protagonist,War,Revenge,Historical,Foreign,Educational,Royal Affairs,Josei,Slavery,Coming of Age,Survival,Espionage,Time Skip,Kingdom Management,Conspiracy,Class Struggle,Desert,Travel,Orphan,Religion,Philosophy,Biographical
+    genre.sync: Drama,Indigenous Cultures,Politics,Tragedy,Female Protagonist,Educational,Revenge,War,Historical,Royal Affairs,Foreign,Slavery,Kingdom Management,Biographical,Class Struggle,Josei,Coming of Age,Survival,Conspiracy,Espionage,Time Skip,Desert,Travel,Orphan,Philosophy,Religion
     studio: Science SARU
     seasons:
       1:
@@ -6909,8 +6895,8 @@ metadata:
           Tenmaku no Jaadugar
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.0
-    audience_rating: 8.0
+        user_rating: 8.1
+    audience_rating: 8.1
     critic_rating: 8.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -7602,7 +7588,7 @@ metadata:
           Uchuu Senkan Yamato 2202: Ai no Senshi-tachi
         label: Score,2017 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.4
+        user_rating: 0
       3:
         title: |-
           Uchuu Senkan Yamato 2205: Aratanaru Tabidachi
@@ -7615,8 +7601,6 @@ metadata:
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 0
-    audience_rating: 7.4
-    critic_rating: 5.8
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   453673:
@@ -7968,7 +7952,7 @@ metadata:
           Xian Wang De Richang Shenghuo 3
         label: Score,Completed,2022 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.3
+        user_rating: 0
       4:
         title: |-
           Xian Wang De Richang Shenghuo 4
@@ -7981,8 +7965,8 @@ metadata:
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.5
-    audience_rating: 7.4
-    critic_rating: 4.4
+    audience_rating: 7.5
+    critic_rating: 1.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   348002:
