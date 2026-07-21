@@ -1222,7 +1222,7 @@ metadata:
       Clevatess: Majuu no Ou to Akago to Kabane no Yuusha
     original_title: |-
       Clevatess
-    genre.sync: Action,Drama,Fantasy,Monster Boy,Tomboy,Female Protagonist,Medieval,Magic,Revenge,Orphan,Tragedy,Primarily Adult Cast,Parenthood,Swordplay,Dystopian,Anti-Hero,Adoption,Demons,Gore,Slavery,Shapeshifting,Found Family,War,Body Horror
+    genre.sync: Action,Drama,Fantasy,Monster Boy,Tomboy,Female Protagonist,Medieval,Magic,Orphan,Revenge,Tragedy,Primarily Adult Cast,Parenthood,Adoption,Swordplay,Dystopian,Anti-Hero,Shapeshifting,Demons,Gore,Slavery,Found Family,War,Body Horror
     studio: Lay-duce
     seasons:
       1:
@@ -1393,7 +1393,7 @@ metadata:
       DARKER THAN BLACK: Kuro no Keiyakusha
     original_title: |-
       Darker than Black
-    genre.sync: Action,Mystery,Sci-Fi,Super Power,Anti-Hero,Noir,Crime,Urban,Assassins,Conspiracy,Terrorism,Urban Fantasy,Police,Espionage,Tragedy,Triads,Episodic
+    genre.sync: Action,Mystery,Sci-Fi,Super Power,Anti-Hero,Noir,Crime,Urban,Assassins,Conspiracy,Terrorism,Urban Fantasy,Police,Tragedy,Triads,Espionage,Episodic
     studio: bones
     seasons:
       0:
@@ -4445,7 +4445,7 @@ metadata:
       Majo no Tabitabi
     original_title: |-
       Wandering Witch: The Journey of Elaina
-    genre.sync: Adventure,Fantasy,Slice of Life,Episodic,Witch,Magic,Female Protagonist,Travel,Cute Girls Doing Cute Things,Primarily Female Cast,Time Skip,Medieval,Achronological Order,Tragedy
+    genre.sync: Adventure,Fantasy,Slice of Life,Episodic,Witch,Magic,Travel,Female Protagonist,Cute Girls Doing Cute Things,Medieval,Time Skip,Primarily Female Cast,Achronological Order,Tragedy
     studio: C2C
     seasons:
       1:
@@ -5007,13 +5007,13 @@ metadata:
       2:
         title: |-
           Nige Jouzu no Wakagimi 2nd Season
-        label: Score,2026 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2026 Summer
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.2
     audience_rating: 7.4
     critic_rating: 7.7
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   407704:
     title: |-
       Nijusseiki Denki Mokuroku: Eureka Evrika
@@ -5300,8 +5300,8 @@ metadata:
           Ore dake Level Up na Ken: Season 2 - Arise from the Shadow
         label: Score,Completed,2025 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.5
-    audience_rating: 8.3
+        user_rating: 8.4
+    audience_rating: 8.2
     critic_rating: 8.3
     label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
@@ -5495,6 +5495,14 @@ metadata:
     genre.sync: Action,Fantasy,Magic,Male Protagonist,School,Revenge
     studio: Foch
     seasons:
+      7:
+        title: |-
+          Quanzhi Fashi 7
+        label: Score,2026 Spring
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 5.8
+    audience_rating: 5.8
+    critic_rating: 6.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   326270:
@@ -5876,9 +5884,9 @@ metadata:
           Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
-    critic_rating: 6.5
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 6.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   455684:
@@ -7586,8 +7594,8 @@ metadata:
           Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.6
+        user_rating: 7.7
+    audience_rating: 7.7
     critic_rating: 7.9
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
