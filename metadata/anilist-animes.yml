@@ -1,5 +1,18 @@
 # Romaji-Renamer v1.25.4+
 metadata:
+  114801:
+    title: |-
+      Fairy Tail
+    sort_title: |-
+      Fairy Tail
+    original_title: |-
+      Fairy Tail
+    genre.sync: Action,Adventure,Comedy,Fantasy,Magic,Shounen,Fairy Tale,Found Family,Ensemble Cast,Male Protagonist,Female Protagonist,Dragons,Anthropomorphism,Time Skip,Super Power,Work
+    studio: A-1 Pictures
+    audience_rating: 7.2
+    critic_rating: 7.6
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   79685:
     title: |-
       Hajime no Ippo
@@ -915,7 +928,7 @@ metadata:
       8:
         title: |-
           Boku no Hero Academia FINAL SEASON
-        label: Score,Completed,2025 Fall
+        label: Score,AA Winner,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.7
     audience_rating: 8.0
@@ -1326,7 +1339,7 @@ metadata:
       2:
         title: |-
           Dandadan 2nd Season
-        label: Score,Completed,2025 Summer
+        label: Score,AA Winner,Completed,2025 Summer
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.3
     audience_rating: 8.3
@@ -1962,12 +1975,12 @@ metadata:
       1:
         title: |-
           Gachiakuta
-        label: Score,Completed,2025 Summer
+        label: Score,AA Winner,Completed,2025 Summer
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.2
     audience_rating: 8.2
     critic_rating: 8.2
-    label: Planned,Completed
+    label: AA Winner,Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   401279:
     title: |-
@@ -3204,12 +3217,12 @@ metadata:
       1:
         title: |-
           Kaoru Hana wa Rin to Saku
-        label: Score,2025 Summer
+        label: Score,AA Winner,2025 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.5
     audience_rating: 8.5
     critic_rating: 8.5
-    label: Ended
+    label: AA Winner,Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   82099:
     title: |-
@@ -3610,7 +3623,7 @@ metadata:
       Kimi ga Shinu made Koi wo Shitai
     original_title: |-
       I Want to Love You Till Your Dying Day
-    genre.sync: Drama,Fantasy,Romance,Yuri,War,Primarily Female Cast,Magic,Tragedy,Female Protagonist,Primarily Teen Cast,School,Military,LGBTQ+ Themes,Body Horror,Gore,Orphan,Boarding School
+    genre.sync: Drama,Fantasy,Romance,Yuri,War,Primarily Female Cast,Tragedy,Magic,Female Protagonist,Primarily Teen Cast,School,Military,Ghost,LGBTQ+ Themes,Body Horror,Gore,Orphan,Boarding School
     studio: ROLL2
     seasons:
       1:
@@ -3960,7 +3973,7 @@ metadata:
       Koukaku Kidoutai: THE GHOST IN THE SHELL
     original_title: |-
       The Ghost In The Shell
-    genre.sync: Action,Psychological,Sci-Fi,Philosophy,Cyberpunk,Urban,Cyborg,Artificial Intelligence,Female Protagonist,Robots,Guns,Primarily Adult Cast,Police,Dystopian,Crime,Gore,Seinen
+    genre.sync: Action,Psychological,Sci-Fi,Philosophy,Cyberpunk,Cyborg,Urban,Artificial Intelligence,Female Protagonist,Robots,Primarily Adult Cast,Guns,Police,Dystopian,Crime,Gore
     studio: Science SARU
     seasons:
       1:
@@ -3968,8 +3981,8 @@ metadata:
           Koukaku Kidoutai: THE GHOST IN THE SHELL
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.8
+        user_rating: 7.7
+    audience_rating: 7.7
     critic_rating: 8.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -4080,7 +4093,7 @@ metadata:
       2:
         title: |-
           Kusuriya no Hitorigoto 2nd Season
-        label: Score,Completed,2025 Winter
+        label: Score,AA Winner,Completed,2025 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.8
     audience_rating: 8.8
@@ -5285,7 +5298,7 @@ metadata:
       2:
         title: |-
           Ore dake Level Up na Ken: Season 2 - Arise from the Shadow
-        label: Score,Completed,2025 Winter
+        label: Score,AA Winner,Completed,2025 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.4
     audience_rating: 8.2
@@ -5487,8 +5500,8 @@ metadata:
           Quanzhi Fashi 7
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.8
-    audience_rating: 5.8
+        user_rating: 5.9
+    audience_rating: 5.9
     critic_rating: 6.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -6679,9 +6692,9 @@ metadata:
           Sora wa Akai Kawa no Hotori
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.0
-    audience_rating: 6.0
-    critic_rating: 6.5
+        user_rating: 5.9
+    audience_rating: 5.9
+    critic_rating: 6.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   424536:
@@ -6737,7 +6750,7 @@ metadata:
       3:
         title: |-
           SPY×FAMILY Season 3
-        label: Score,Completed,2025 Fall
+        label: Score,AA Winner,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.2
     audience_rating: 8.1
@@ -6929,7 +6942,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.3
     audience_rating: 7.3
-    critic_rating: 7.4
+    critic_rating: 7.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   305104:
@@ -6997,7 +7010,7 @@ metadata:
       Tefuda ga Oome no Victoria
     original_title: |-
       Victoria of Many Faces
-    genre.sync: Action,Drama,Fantasy,Romance,Josei,Found Family,Female Protagonist,Family Life,Parenthood
+    genre.sync: Action,Drama,Fantasy,Romance,Found Family,Josei,Family Life,Parenthood,Female Protagonist
     studio: Studio DEEN
     seasons:
       1:
@@ -7005,9 +7018,9 @@ metadata:
           Tefuda ga Oome no Victoria
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
-    critic_rating: 7.2
+        user_rating: 7.0
+    audience_rating: 7.0
+    critic_rating: 7.3
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   80096:
