@@ -803,8 +803,8 @@ metadata:
     studio: Studio Pierrot
     audience_rating: 7.9
     critic_rating: 8.0
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   408629:
     title: |-
       Blue Lock
@@ -2494,8 +2494,8 @@ metadata:
       1:
         title: |-
           Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru
-        label: Score,2026 Winter
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Completed,2026 Winter
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.2
       2:
         title: |-
@@ -2506,7 +2506,7 @@ metadata:
     audience_rating: 7.2
     critic_rating: 7.2
     label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   263688:
     title: |-
       Hellsing Ova
