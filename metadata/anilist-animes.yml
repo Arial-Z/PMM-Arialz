@@ -779,7 +779,7 @@ metadata:
       Black Torch
     original_title: |-
       Black Torch
-    genre.sync: Action,Adventure,Fantasy,Sci-Fi,Supernatural,Urban Fantasy,Youkai,Shounen,Male Protagonist
+    genre.sync: Action,Adventure,Fantasy,Sci-Fi,Supernatural,Youkai,Shounen,Male Protagonist,Urban Fantasy
     studio: 100studio
     seasons:
       1:
@@ -789,7 +789,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.2
     audience_rating: 7.2
-    critic_rating: 7.4
+    critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   74796:
@@ -803,8 +803,8 @@ metadata:
     studio: Studio Pierrot
     audience_rating: 7.9
     critic_rating: 8.0
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   408629:
     title: |-
       Blue Lock
@@ -1939,7 +1939,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.3
     audience_rating: 7.3
-    critic_rating: 7.6
+    critic_rating: 7.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   412806:
@@ -2266,7 +2266,7 @@ metadata:
       Grow Up Show: Himawari no Circus-dan
     original_title: |-
       Grow Up Show
-    genre.sync: Circus,Cute Girls Doing Cute Things,Female Protagonist,Primarily Female Cast,Yuri,Acrobatics
+    genre.sync: Adventure,Slice of Life,Sports,Circus,Cute Girls Doing Cute Things,Female Protagonist,Yuri,Primarily Female Cast,Acrobatics,LGBTQ+ Themes
     studio: A-1 Pictures
     seasons:
       1:
@@ -2274,9 +2274,9 @@ metadata:
           Grow Up Show: Himawari no Circus-dan
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
-    critic_rating: 7.1
+        user_rating: 6.9
+    audience_rating: 6.9
+    critic_rating: 7.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   79071:
@@ -2436,9 +2436,9 @@ metadata:
           Hanaori-san wa Tensei Shite mo Kenka ga Shitai
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
-    critic_rating: 7.1
+        user_rating: 6.7
+    audience_rating: 6.7
+    critic_rating: 7.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   401856:
@@ -2881,7 +2881,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 5.3
     audience_rating: 5.3
-    critic_rating: 6.1
+    critic_rating: 5.9
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   423121:
@@ -4137,7 +4137,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 5.4
     audience_rating: 5.4
-    critic_rating: 6.2
+    critic_rating: 6.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   318161:
@@ -4305,7 +4305,7 @@ metadata:
       Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance
     original_title: |-
       Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance
-    genre.sync: Action,Comedy,Drama,Fantasy,Mahou Shoujo,Female Protagonist,Henshin,Drugs,Primarily Female Cast,Demons,Gore,Tragedy,Super Power,Magic,Swordplay,Post-Apocalyptic,Guns,LGBTQ+ Themes,Found Family,Yuri
+    genre.sync: Action,Comedy,Drama,Fantasy,Mahou Shoujo,Female Protagonist,Henshin,Drugs,Primarily Female Cast,Demons,Gore,Tragedy,Super Power,Magic,Post-Apocalyptic,Guns,LGBTQ+ Themes,Found Family,Yuri
     studio: Seven Arcs
     seasons:
       1:
@@ -4863,7 +4863,7 @@ metadata:
           Mushoku Tensei III: Isekai Ittara Honki Dasu
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.6
+        user_rating: 8.5
     audience_rating: 8.4
     critic_rating: 8.5
     label: Airing,Watching
@@ -6850,7 +6850,7 @@ metadata:
       Super no Ura de Yani Suu Futari
     original_title: |-
       Smoking Behind the Supermarket with You
-    genre.sync: Comedy,Romance,Slice of Life,Seinen,Primarily Adult Cast,Heterosexual,Konbini,Work,Age Gap,Drugs,Iyashikei,Female Protagonist,Office
+    genre.sync: Comedy,Romance,Slice of Life,Seinen,Primarily Adult Cast,Heterosexual,Konbini,Work,Age Gap,Drugs,Iyashikei,Female Protagonist
     studio: Asahi Production
     seasons:
       0:
@@ -7072,7 +7072,7 @@ metadata:
       Tenmaku no Jaadugar
     original_title: |-
       Jaadugar: A Witch in Mongolia
-    genre.sync: Drama,Indigenous Cultures,Politics,Tragedy,Female Protagonist,Educational,Revenge,War,Historical,Royal Affairs,Foreign,Slavery,Kingdom Management,Biographical,Class Struggle,Josei,Coming of Age,Survival,Conspiracy,Espionage,Time Skip,Desert,Travel,Orphan,Philosophy,Religion
+    genre.sync: Drama,Indigenous Cultures,Politics,Tragedy,Female Protagonist,Educational,Revenge,Royal Affairs,Historical,War,Foreign,Slavery,Time Skip,Kingdom Management,Class Struggle,Josei,Biographical,Travel,Survival,Coming of Age,Espionage,Conspiracy,Orphan,Religion,Philosophy,Desert
     studio: Science SARU
     seasons:
       1:
@@ -7294,7 +7294,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
-    critic_rating: 7.0
+    critic_rating: 7.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   436948:
