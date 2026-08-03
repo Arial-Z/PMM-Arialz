@@ -884,7 +884,8 @@ metadata:
     studio: 8-bit
     audience_rating: 7.4
     critic_rating: 7.2
-    label.remove: Completed,Watching,Dropped,Paused,Planning
+    label: Completed
+    label.remove: Watching,Dropped,Paused,Planning
   tt0808506:
     title: |-
       Toki wo Kakeru Shoujo

@@ -190,26 +190,6 @@ metadata:
     critic_rating: 8.6
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  432723:
-    title: |-
-      3-nen Z-gumi Ginpachi-sensei
-    sort_title: |-
-      3-nen Z-gumi Ginpachi-sensei
-    original_title: |-
-      GINTAMA - Mr. Ginpachi's Zany Class
-    genre.sync: Comedy,School,Surreal Comedy,Parody
-    studio: Bandai Namco Pictures
-    seasons:
-      1:
-        title: |-
-          3-nen Z-gumi Ginpachi-sensei
-        label: Score,Watching,2025 Fall
-        label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
-    critic_rating: 7.6
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   463334:
     title: |-
       29-sai Dokushin Chuuken Boukensha no Nichijou
@@ -787,8 +767,8 @@ metadata:
           Black Torch
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.2
+        user_rating: 7.1
+    audience_rating: 7.1
     critic_rating: 7.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -1381,8 +1361,8 @@ metadata:
           DARK MOON: Kuro no Tsuki - Tsuki no Saidan
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
+        user_rating: 6.3
+    audience_rating: 6.3
     critic_rating: 6.4
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
@@ -1937,9 +1917,9 @@ metadata:
           Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.4
-    critic_rating: 7.8
+        user_rating: 7.5
+    audience_rating: 7.5
+    critic_rating: 7.9
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   412806:
@@ -2003,9 +1983,9 @@ metadata:
           Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.9
-    critic_rating: 7.0
+        user_rating: 6.7
+    audience_rating: 6.8
+    critic_rating: 6.9
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   293996:
@@ -2274,8 +2254,8 @@ metadata:
           Grow Up Show: Himawari no Circus-dan
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
+        user_rating: 7.0
+    audience_rating: 7.0
     critic_rating: 7.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -2428,7 +2408,7 @@ metadata:
       Hanaori-san wa Tensei Shite mo Kenka ga Shitai
     original_title: |-
       Hanaori-san Still Wants to Fight in the Next Life
-    genre.sync: Comedy,Romance,Supernatural,Reverse Isekai,Age Gap,Parody,Heterosexual,Reincarnation
+    genre.sync: Comedy,Romance,Supernatural,Parody,Reverse Isekai,Heterosexual,Age Gap,Slapstick,Reincarnation,School
     studio: LIDENFILMS
     seasons:
       1:
@@ -3791,7 +3771,7 @@ metadata:
       Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru
     original_title: |-
       Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power
-    genre.sync: Action,Adventure,Fantasy,Reincarnation,Politics,Royal Affairs,Time Skip,Conspiracy,Swordplay,Magic,Maids,Arranged Marriage,Male Protagonist
+    genre.sync: Action,Adventure,Fantasy,Reincarnation,Politics,Royal Affairs,Time Skip,Conspiracy,Swordplay,Magic,Slavery,Maids,Arranged Marriage,Male Protagonist
     studio: CompTown
     seasons:
       1:
@@ -4313,8 +4293,8 @@ metadata:
           Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
+        user_rating: 6.6
+    audience_rating: 6.6
     critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -5021,7 +5001,7 @@ metadata:
       Nijusseiki Denki Mokuroku: Eureka Evrika
     original_title: |-
       Sparks of Tomorrow
-    genre.sync: Adventure,Romance,Steampunk,Philosophy
+    genre.sync: Adventure,Romance,Steampunk,Boys' Love
     studio: Kyoto Animation
     seasons:
       1:
@@ -5031,7 +5011,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.6
     audience_rating: 7.6
-    critic_rating: 7.8
+    critic_rating: 7.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   473228:
@@ -5051,7 +5031,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.4
     audience_rating: 8.4
-    critic_rating: 8.6
+    critic_rating: 8.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   452575:
@@ -5614,15 +5594,15 @@ metadata:
           Ranma 1/2 (2024)
         label: Score,2024 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.9
+        user_rating: 0
       2:
         title: |-
           Ranma 1/2 (2024) 2nd Season
         label: Score,2025 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.7
-    audience_rating: 7.8
-    critic_rating: 7.8
+    audience_rating: 7.7
+    critic_rating: 3.8
     label: Planned
     label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
   305089:
@@ -5662,7 +5642,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 9.0
     audience_rating: 8.5
-    critic_rating: 8.6
+    critic_rating: 8.5
     label: AA Winner,Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   471497:
@@ -6044,7 +6024,7 @@ metadata:
       Sayonara Lara
     original_title: |-
       Goodbye, Lara
-    genre.sync: Romance,Supernatural,Fairy Tale,Female Protagonist,Coastal,Mermaid,Time Skip,Urban Fantasy,Curses,Reincarnation,Yuri,Interspecies,Magic,Boxing,Shapeshifting
+    genre.sync: Romance,Supernatural,Female Protagonist,Fairy Tale,Mermaid,Coastal,Urban Fantasy,Yuri,Time Skip,Curses,Reincarnation,Interspecies,Magic,Boxing
     studio: Kinema Citrus
     seasons:
       1:
@@ -6054,7 +6034,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.6
     audience_rating: 7.6
-    critic_rating: 7.8
+    critic_rating: 7.9
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   457078:
@@ -6064,7 +6044,7 @@ metadata:
       Seihantai na Kimi to Boku
     original_title: |-
       You and I Are Polar Opposites
-    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Ensemble Cast,School,Primarily Teen Cast,Coming of Age,Iyashikei,Gyaru,Kuudere,Urban
+    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Ensemble Cast,School,Primarily Teen Cast,Coming of Age,Iyashikei,Gyaru,Kuudere,Urban,Female Protagonist
     studio: Lapin Track
     seasons:
       1:
@@ -6184,7 +6164,7 @@ metadata:
       Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha
     original_title: |-
       The World's Strongest Rearguard
-    genre.sync: Action,Adventure,Fantasy,Female Harem,Isekai
+    genre.sync: Action,Adventure,Fantasy,Isekai,Female Harem,Male Protagonist
     studio: Maho Film
     seasons:
       1:
@@ -6194,7 +6174,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 5.7
     audience_rating: 5.7
-    critic_rating: 5.9
+    critic_rating: 5.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   438151:
@@ -6430,7 +6410,7 @@ metadata:
       Shingeki no Kyojin
     original_title: |-
       Attack on Titan
-    genre.sync: Action,Drama,Fantasy,Mystery,Kaiju,Revenge,Tragedy,Military,Primarily Teen Cast,Male Protagonist,Henshin,Post-Apocalyptic,Survival,Super Power,Steampunk,Memory Manipulation,Dystopian,Gore,Swordplay,Ensemble Cast,Orphan,Cannibalism,Espionage,Kuudere
+    genre.sync: Action,Drama,Fantasy,Mystery,Kaiju,Revenge,Tragedy,Military,Henshin,Male Protagonist,Primarily Teen Cast,Post-Apocalyptic,Survival,Super Power,Memory Manipulation,Gore,Steampunk,Dystopian,Swordplay,Ensemble Cast,Kuudere,Cannibalism,Espionage,Orphan
     studio: WIT STUDIO
     seasons:
       0:
@@ -7072,7 +7052,7 @@ metadata:
       Tenmaku no Jaadugar
     original_title: |-
       Jaadugar: A Witch in Mongolia
-    genre.sync: Drama,Indigenous Cultures,Politics,Tragedy,Female Protagonist,Educational,Revenge,Royal Affairs,Historical,War,Foreign,Slavery,Time Skip,Kingdom Management,Class Struggle,Josei,Biographical,Travel,Survival,Coming of Age,Espionage,Conspiracy,Orphan,Religion,Philosophy,Desert
+    genre.sync: Drama,Tragedy,Politics,Indigenous Cultures,Female Protagonist,Revenge,Royal Affairs,War,Historical,Slavery,Foreign,Time Skip,Class Struggle,Coming of Age,Biographical,Orphan,Travel,Espionage,Conspiracy,Josei,Survival,Philosophy,Religion,Kingdom Management
     studio: Science SARU
     seasons:
       1:
@@ -7080,8 +7060,8 @@ metadata:
           Tenmaku no Jaadugar
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.1
-    audience_rating: 8.1
+        user_rating: 8.2
+    audience_rating: 8.2
     critic_rating: 8.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -8307,7 +8287,7 @@ metadata:
           Yi Ren Zhi Xia 6
         label: Score,Completed,2026 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 5.9
+        user_rating: 5.8
     audience_rating: 6.5
     critic_rating: 7.0
     label: Ended,Completed
