@@ -769,7 +769,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.1
-    critic_rating: 7.2
+    critic_rating: 7.1
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   74796:
@@ -1917,9 +1917,9 @@ metadata:
           Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
-    critic_rating: 7.9
+        user_rating: 7.6
+    audience_rating: 7.6
+    critic_rating: 8.1
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   412806:
@@ -2246,7 +2246,7 @@ metadata:
       Grow Up Show: Himawari no Circus-dan
     original_title: |-
       Grow Up Show
-    genre.sync: Adventure,Slice of Life,Sports,Circus,Cute Girls Doing Cute Things,Female Protagonist,Yuri,Primarily Female Cast,Acrobatics,LGBTQ+ Themes
+    genre.sync: Adventure,Slice of Life,Sports,Circus,Cute Girls Doing Cute Things,Female Protagonist,Primarily Female Cast,Yuri,Acrobatics
     studio: A-1 Pictures
     seasons:
       1:
@@ -2416,8 +2416,8 @@ metadata:
           Hanaori-san wa Tensei Shite mo Kenka ga Shitai
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.7
-    audience_rating: 6.7
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 7.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -2859,9 +2859,9 @@ metadata:
           Iwamoto-senpai no Suisen
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.3
-    audience_rating: 5.3
-    critic_rating: 5.9
+        user_rating: 5.2
+    audience_rating: 5.2
+    critic_rating: 5.8
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   423121:
@@ -4293,8 +4293,8 @@ metadata:
           Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.6
-    audience_rating: 6.6
+        user_rating: 6.5
+    audience_rating: 6.5
     critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -4491,7 +4491,7 @@ metadata:
       Majutsushi Kunon wa Mieteiru
     original_title: |-
       Kunon the Sorcerer Can See
-    genre.sync: Action,Adventure,Fantasy,Magic,Male Protagonist,Disability,College,Primarily Teen Cast,Chuunibyou,Maids,Boarding School
+    genre.sync: Action,Adventure,Fantasy,Magic,Disability,Male Protagonist,College,Primarily Teen Cast,Chuunibyou,Maids,Boarding School,Surreal Comedy
     studio: Platinum Vision
     seasons:
       1:
@@ -4577,7 +4577,7 @@ metadata:
       Marriagetoxin
     original_title: |-
       Marriagetoxin
-    genre.sync: Action,Comedy,Drama,Romance,Assassins,Marriage,Crime,Urban,Surreal Comedy,Primarily Adult Cast,Crossdressing,Femboy,Super Power,Bisexual,Male Protagonist,Female Harem,Urban Fantasy,Shounen,LGBTQ+ Themes,Heterosexual
+    genre.sync: Action,Comedy,Drama,Romance,Assassins,Marriage,Crime,Urban,Primarily Adult Cast,Surreal Comedy,Super Power,Crossdressing,Male Protagonist,Femboy,Bisexual,Female Harem,Urban Fantasy,Heterosexual,Shounen,LGBTQ+ Themes
     studio: bones film
     seasons:
       1:
@@ -4845,7 +4845,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 8.5
     audience_rating: 8.4
-    critic_rating: 8.5
+    critic_rating: 8.4
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   446389:
@@ -5001,7 +5001,7 @@ metadata:
       Nijusseiki Denki Mokuroku: Eureka Evrika
     original_title: |-
       Sparks of Tomorrow
-    genre.sync: Adventure,Romance,Steampunk,Boys' Love
+    genre.sync: Adventure,Romance,Steampunk,Male Protagonist,Female Protagonist
     studio: Kyoto Animation
     seasons:
       1:
@@ -5009,8 +5009,8 @@ metadata:
           Nijusseiki Denki Mokuroku: Eureka Evrika
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.6
+        user_rating: 7.5
+    audience_rating: 7.5
     critic_rating: 7.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -5021,7 +5021,7 @@ metadata:
       Nippon Sangoku
     original_title: |-
       NIPPON SANGOKU: The Three Nations of the Crimson Sun
-    genre.sync: Action,Drama,Sci-Fi,Politics,War,Military,Ensemble Cast,Seinen,Dystopian,Philosophy,Primarily Adult Cast,Revenge,Post-Apocalyptic,Male Protagonist,Gore,Class Struggle,Tragedy,Satire
+    genre.sync: Action,Drama,Sci-Fi,Politics,War,Dystopian,Military,Philosophy,Seinen,Primarily Adult Cast,Post-Apocalyptic,Revenge,Ensemble Cast,Male Protagonist,Class Struggle,Gore,Tragedy
     studio: Studio Kafka
     seasons:
       1:
@@ -5186,7 +5186,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.9
     audience_rating: 6.9
-    critic_rating: 7.1
+    critic_rating: 7.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   81178:
@@ -6024,7 +6024,7 @@ metadata:
       Sayonara Lara
     original_title: |-
       Goodbye, Lara
-    genre.sync: Romance,Supernatural,Female Protagonist,Fairy Tale,Mermaid,Coastal,Urban Fantasy,Yuri,Time Skip,Curses,Reincarnation,Interspecies,Magic,Boxing
+    genre.sync: Romance,Supernatural,Female Protagonist,Fairy Tale,Mermaid,Coastal,Urban Fantasy,Time Skip,Curses,Reincarnation,Interspecies,LGBTQ+ Themes,Magic,Boxing
     studio: Kinema Citrus
     seasons:
       1:
@@ -6058,7 +6058,7 @@ metadata:
           Seihantai na Kimi to Boku 2nd Season
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.1
+        user_rating: 8.2
     audience_rating: 8.2
     critic_rating: 8.4
     label: Airing
@@ -6164,7 +6164,7 @@ metadata:
       Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha
     original_title: |-
       The World's Strongest Rearguard
-    genre.sync: Action,Adventure,Fantasy,Isekai,Female Harem,Male Protagonist
+    genre.sync: Action,Adventure,Fantasy,Nudity
     studio: Maho Film
     seasons:
       1:
@@ -6172,8 +6172,8 @@ metadata:
           Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 5.7
-    audience_rating: 5.7
+        user_rating: 5.6
+    audience_rating: 5.6
     critic_rating: 5.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -6830,7 +6830,7 @@ metadata:
       Super no Ura de Yani Suu Futari
     original_title: |-
       Smoking Behind the Supermarket with You
-    genre.sync: Comedy,Romance,Slice of Life,Seinen,Primarily Adult Cast,Heterosexual,Konbini,Work,Age Gap,Drugs,Iyashikei,Female Protagonist
+    genre.sync: Comedy,Romance,Slice of Life,Seinen,Primarily Adult Cast,Heterosexual,Drugs,Work,Konbini,Age Gap,Iyashikei,Female Protagonist,Male Protagonist
     studio: Asahi Production
     seasons:
       0:
@@ -7052,7 +7052,7 @@ metadata:
       Tenmaku no Jaadugar
     original_title: |-
       Jaadugar: A Witch in Mongolia
-    genre.sync: Drama,Tragedy,Politics,Indigenous Cultures,Female Protagonist,Revenge,Royal Affairs,War,Historical,Slavery,Foreign,Time Skip,Class Struggle,Coming of Age,Biographical,Orphan,Travel,Espionage,Conspiracy,Josei,Survival,Philosophy,Religion,Kingdom Management
+    genre.sync: Drama,Tragedy,Politics,Indigenous Cultures,Female Protagonist,Conspiracy,Revenge,Royal Affairs,War,Slavery,Foreign,Historical,Time Skip,Coming of Age,Class Struggle,Biographical,Orphan,Travel,Espionage,Survival,Josei,Philosophy,Religion,Kingdom Management
     studio: Science SARU
     seasons:
       1:
@@ -7062,7 +7062,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.2
     audience_rating: 8.2
-    critic_rating: 8.4
+    critic_rating: 8.5
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   400961:
@@ -7576,7 +7576,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 7.8
-    critic_rating: 7.9
+    critic_rating: 8.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   421378:
@@ -8287,7 +8287,7 @@ metadata:
           Yi Ren Zhi Xia 6
         label: Score,Completed,2026 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 5.8
+        user_rating: 5.9
     audience_rating: 6.5
     critic_rating: 7.0
     label: Ended,Completed
