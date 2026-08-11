@@ -1601,13 +1601,13 @@ metadata:
       1:
         title: |-
           Dororo
-        label: Score,AA Winner,Watching,2019 Winter
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,AA Winner,Completed,2019 Winter
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.1
     audience_rating: 8.1
     critic_rating: 8.3
-    label: AA Winner,Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: AA Winner,Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   355774:
     title: |-
       Dr. STONE
@@ -4425,7 +4425,7 @@ metadata:
       Majo no Tabitabi
     original_title: |-
       Wandering Witch: The Journey of Elaina
-    genre.sync: Adventure,Fantasy,Slice of Life,Episodic,Witch,Magic,Travel,Female Protagonist,Cute Girls Doing Cute Things,Medieval,Time Skip,Primarily Female Cast,Achronological Order,Tragedy
+    genre.sync: Adventure,Fantasy,Slice of Life,Episodic,Witch,Magic,Travel,Female Protagonist,Medieval,Primarily Female Cast,Time Skip,Cute Girls Doing Cute Things,Achronological Order,Tragedy
     studio: C2C
     seasons:
       1:
@@ -5482,7 +5482,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 5.9
     audience_rating: 5.9
-    critic_rating: 6.7
+    critic_rating: 6.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   326270:
@@ -5864,9 +5864,9 @@ metadata:
           Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.0
-    audience_rating: 6.0
-    critic_rating: 6.4
+        user_rating: 5.9
+    audience_rating: 5.9
+    critic_rating: 6.3
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   455684:
@@ -7566,7 +7566,7 @@ metadata:
       Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.
     original_title: |-
       Love Unseen Beneath the Clear Night Sky
-    genre.sync: Drama,Romance,Disability,Heterosexual,College,Tragedy,Primarily Adult Cast,Male Protagonist
+    genre.sync: Drama,Romance,Disability,Heterosexual,College,Tragedy,Iyashikei,Primarily Adult Cast,Male Protagonist
     studio: Makaria
     seasons:
       1:
@@ -7574,8 +7574,8 @@ metadata:
           Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.8
-    audience_rating: 7.8
+        user_rating: 7.9
+    audience_rating: 7.9
     critic_rating: 8.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
