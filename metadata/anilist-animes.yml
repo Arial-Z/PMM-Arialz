@@ -858,7 +858,7 @@ metadata:
       Boku no Hero Academia
     original_title: |-
       My Hero Academia
-    genre.sync: Action,Adventure,Comedy,Super Power,Superhero,Shounen,Primarily Teen Cast,Male Protagonist,Crime,School,Urban Fantasy,Rescue,Ensemble Cast,Bullying
+    genre.sync: Action,Adventure,Comedy,Super Power,Superhero,Shounen,Primarily Teen Cast,Male Protagonist,Crime,School,Rescue,Urban Fantasy,Ensemble Cast,Bullying
     studio: bones
     seasons:
       0:
@@ -1060,7 +1060,7 @@ metadata:
       Charlotte
     original_title: |-
       Charlotte
-    genre.sync: Comedy,Drama,Romance,Sci-Fi,Supernatural,Super Power,Time Manipulation,Tragedy,Urban Fantasy,Primarily Teen Cast,Male Protagonist,Urban,School Club,School,Body Swapping,Amnesia,Female Protagonist,Tsundere,Dissociative Identities
+    genre.sync: Comedy,Drama,Romance,Sci-Fi,Supernatural,Super Power,Time Manipulation,Tragedy,Urban Fantasy,Primarily Teen Cast,Male Protagonist,Urban,School Club,School,Body Swapping,Amnesia,Tsundere,Dissociative Identities,Female Protagonist
     studio: P.A.WORKS
     seasons:
       0:
@@ -1134,7 +1134,7 @@ metadata:
       Chiyu Mahou no Machigatta Tsukaikata
     original_title: |-
       The Wrong Way to Use Healing Magic
-    genre.sync: Action,Fantasy,Isekai,Magic,Fitness,Demons,Male Protagonist,War
+    genre.sync: Action,Fantasy,Isekai,Magic,Demons,Male Protagonist,Survival,War,Fitness
     studio: Shin-Ei Animation
     seasons:
       1:
@@ -1154,7 +1154,7 @@ metadata:
       Clannad
     original_title: |-
       Clannad
-    genre.sync: Comedy,Drama,Romance,Slice of Life,Supernatural,Coming of Age,Ensemble Cast,School,Family Life,Urban Fantasy,Male Protagonist,Primarily Teen Cast,Heterosexual,School Club,Tragedy,Female Protagonist,Ghost,Primarily Female Cast,Amnesia
+    genre.sync: Comedy,Drama,Romance,Slice of Life,Supernatural,Coming of Age,Ensemble Cast,School,Family Life,Urban Fantasy,Male Protagonist,Heterosexual,Primarily Teen Cast,School Club,Tragedy,Female Protagonist,Ghost,Primarily Female Cast,Amnesia
     studio: Animation Do
     seasons:
       0:
@@ -1401,7 +1401,7 @@ metadata:
       Darling in the Franxx
     original_title: |-
       DARLING in the FRANXX
-    genre.sync: Action,Drama,Mecha,Psychological,Romance,Sci-Fi,Cohabitation,Psychosexual,Super Robot,Orphan,Post-Apocalyptic,Primarily Teen Cast,Dystopian,Coming of Age,Tragedy,Conspiracy,Demons,Robots,Lost Civilization,Kaiju,Found Family,Heterosexual,Monster Girl,Memory Manipulation,Male Protagonist,Aliens,Travel,Environmental,Love Triangle,Unrequited Love,Politics,Military
+    genre.sync: Action,Drama,Mecha,Psychological,Romance,Sci-Fi,Cohabitation,Psychosexual,Super Robot,Orphan,Post-Apocalyptic,Primarily Teen Cast,Dystopian,Coming of Age,Tragedy,Robots,Conspiracy,Demons,Heterosexual,Found Family,Lost Civilization,Monster Girl,Kaiju,Memory Manipulation,Male Protagonist,Aliens,Travel,Environmental,Love Triangle,Military,Politics,Unrequited Love
     studio: TRIGGER
     seasons:
       1:
@@ -1845,8 +1845,8 @@ metadata:
           Fate/strange Fake
         label: Score,2026 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.3
-    audience_rating: 8.3
+        user_rating: 8.2
+    audience_rating: 8.2
     critic_rating: 8.3
     label: Planned
     label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -2514,7 +2514,7 @@ metadata:
       Heroine? Seijo? Iie, All Works Maid desu (Ko)!
     original_title: |-
       Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!
-    genre.sync: Comedy,Fantasy,Female Protagonist,Magic,Maids,Ojou-sama,Reincarnation,Isekai,Medieval
+    genre.sync: Comedy,Fantasy,Magic,Female Protagonist,Maids,Ojou-sama,Reincarnation,Isekai,Medieval
     studio: EMT Squared
     seasons:
       1:
@@ -2522,8 +2522,8 @@ metadata:
           Heroine? Seijo? Iie, All Works Maid desu (Ko)!
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
+        user_rating: 6.9
+    audience_rating: 6.9
     critic_rating: 7.1
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -3253,7 +3253,7 @@ metadata:
       Katainaka no Ossan, Kensei ni Naru
     original_title: |-
       From Old Country Bumpkin to Master Swordsman
-    genre.sync: Action,Adventure,Comedy,Fantasy,Medieval,Teacher,Swordplay,Seinen,Primarily Adult Cast,Male Protagonist,Family Life,Age Gap,Female Harem
+    genre.sync: Action,Adventure,Comedy,Fantasy,Medieval,Teacher,Swordplay,Seinen,Primarily Adult Cast,Male Protagonist,Family Life,Female Harem,School,Age Gap
     studio: Hayabusa Film
     seasons:
       1:
@@ -3409,7 +3409,7 @@ metadata:
       Kidou Senshi Gundam SEED DESTINY
     original_title: |-
       Mobile Suit Gundam Seed Destiny
-    genre.sync: Action,Drama,Mecha,Romance,Sci-Fi,Male Protagonist,Tragedy,War,Military,Real Robot,Space,Primarily Teen Cast,Memory Manipulation
+    genre.sync: Action,Drama,Mecha,Romance,Sci-Fi,Tragedy,Male Protagonist,War,Military,Real Robot,Space,Primarily Teen Cast,Memory Manipulation
     studio: Sunrise
     seasons:
       1:
@@ -3537,7 +3537,7 @@ metadata:
       Kill la Kill
     original_title: |-
       Kill la Kill
-    genre.sync: Action,Comedy,Ecchi,Henshin,Female Protagonist,Revenge,Nudity,Surreal Comedy,Class Struggle,Parody,Dystopian,Super Power,Tomboy,Aliens,Coming of Age,Age Gap,School,Primarily Teen Cast,Military,Cosmic Horror,Anti-Hero,Cult,Orphan,Psychosexual,Tokusatsu,Bullying,Incest,Tsundere
+    genre.sync: Action,Comedy,Ecchi,Henshin,Female Protagonist,Revenge,Nudity,Surreal Comedy,Class Struggle,Parody,Dystopian,Super Power,Tomboy,Aliens,Coming of Age,Age Gap,School,Primarily Teen Cast,Military,Cosmic Horror,Anti-Hero,Cult,Orphan,Psychosexual,Tokusatsu,Bullying,Tsundere
     studio: TRIGGER
     seasons:
       0:
@@ -3643,7 +3643,7 @@ metadata:
           Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.0
+        user_rating: 7.9
     audience_rating: 7.8
     critic_rating: 7.9
     label: Airing
@@ -3669,7 +3669,7 @@ metadata:
           Kimi to Boku no Saigo no Senjou, Arui wa Sekai ga Hajimaru Seisen Season II
         label: Score,Completed,2024 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.7
+        user_rating: 6.8
     audience_rating: 6.7
     critic_rating: 6.8
     label: Ended,Completed
@@ -3973,7 +3973,7 @@ metadata:
       Koukyuu no Karasu
     original_title: |-
       Raven of the Inner Palace
-    genre.sync: Drama,Fantasy,Mystery,Supernatural,Female Protagonist,Foreign,Historical,Detective,Primarily Adult Cast,Kuudere,Mythology,Magic,Necromancy,Episodic,Shoujo,Conspiracy,Politics,Ghost,Tsundere,Ojou-sama
+    genre.sync: Drama,Fantasy,Mystery,Supernatural,Female Protagonist,Foreign,Historical,Detective,Primarily Adult Cast,Kuudere,Mythology,Exiled,Necromancy,Magic,Episodic,Shoujo,Conspiracy,Politics,Ghost,Tsundere,Ojou-sama
     studio: Bandai Namco Pictures
     seasons:
       1:
@@ -4015,7 +4015,7 @@ metadata:
       Kuroshitsuji
     original_title: |-
       Black Butler
-    genre.sync: Action,Comedy,Fantasy,Mystery,Supernatural,Butler,Tragedy,Crime,Demons,Revenge,Historical,Anti-Hero,Detective,Male Protagonist,Foreign,Assassins,Mythology,Gender Bending
+    genre.sync: Action,Comedy,Fantasy,Mystery,Supernatural,Butler,Crime,Tragedy,Demons,Revenge,Historical,Anti-Hero,Detective,Male Protagonist,Foreign,Assassins,Mythology,Gender Bending
     studio: A-1 Pictures
     seasons:
       0:
@@ -4061,7 +4061,7 @@ metadata:
       Kusuriya no Hitorigoto
     original_title: |-
       The Apothecary Diaries
-    genre.sync: Drama,Mystery,Female Protagonist,Medicine,Ancient China,Drugs,Historical,Detective,Conspiracy,Politics,Foreign,Royal Affairs,Work,Primarily Adult Cast,Adoption,Heterosexual,Alchemy,Episodic
+    genre.sync: Drama,Mystery,Female Protagonist,Medicine,Ancient China,Drugs,Historical,Detective,Conspiracy,Politics,Royal Affairs,Work,Foreign,Primarily Adult Cast,Adoption,Heterosexual,Alchemy,Episodic
     studio: OLM
     seasons:
       1:
@@ -4149,7 +4149,7 @@ metadata:
       LV999 no Murabito
     original_title: |-
       The Villager of Level 999
-    genre.sync: Action,Adventure,Comedy,Fantasy,Parody,Magic,Demons,Male Protagonist,Medieval
+    genre.sync: Action,Adventure,Comedy,Fantasy,Magic,Demons,Parody,Male Protagonist,Medieval
     studio: Brain's Base
     seasons:
       1:
@@ -4159,7 +4159,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.1
     audience_rating: 6.1
-    critic_rating: 6.3
+    critic_rating: 6.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   414057:
@@ -4169,7 +4169,7 @@ metadata:
       Lycoris Recoil
     original_title: |-
       Lycoris Recoil
-    genre.sync: Action,Slice of Life,Female Protagonist,Primarily Female Cast,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Found Family,Work,Kuudere,Espionage,Orphan,Restaurant,Yuri,Cute Girls Doing Cute Things
+    genre.sync: Action,Slice of Life,Female Protagonist,Primarily Female Cast,Crime,Guns,Assassins,Terrorism,Conspiracy,Urban,Found Family,Work,Kuudere,Espionage,Orphan,Restaurant,Cute Girls Doing Cute Things
     studio: A-1 Pictures
     seasons:
       0:
@@ -4191,7 +4191,7 @@ metadata:
       Made in Abyss
     original_title: |-
       Made in Abyss
-    genre.sync: Adventure,Drama,Fantasy,Horror,Mystery,Sci-Fi,Survival,Outdoor Activities,Primarily Child Cast,Environmental,Travel,Cosmic Horror,Curses,Body Horror,Chibi,Tragedy,Philosophy,Lost Civilization,Dungeon,Seinen,Female Protagonist,Orphan,Gore,Amnesia,Wilderness
+    genre.sync: Adventure,Drama,Fantasy,Horror,Mystery,Sci-Fi,Survival,Outdoor Activities,Primarily Child Cast,Environmental,Travel,Cosmic Horror,Body Horror,Curses,Tragedy,Chibi,Philosophy,Lost Civilization,Dungeon,Seinen,Female Protagonist,Orphan,Gore,Amnesia,Eco-Horror,Wilderness
     studio: Kinema Citrus
     seasons:
       0:
@@ -4821,7 +4821,7 @@ metadata:
       Mushoku Tensei: Isekai Ittara Honki Dasu
     original_title: |-
       Mushoku Tensei: Jobless Reincarnation
-    genre.sync: Adventure,Drama,Ecchi,Fantasy,Isekai,Reincarnation,Magic,Male Protagonist,Rehabilitation,Coming of Age,Virginity,Travel,Age Regression,Primarily Child Cast,Heterosexual,Family Life,Hypersexuality,Hikikomori,Female Harem,Nudity
+    genre.sync: Adventure,Drama,Ecchi,Fantasy,Isekai,Reincarnation,Magic,Male Protagonist,Rehabilitation,Coming of Age,Virginity,Travel,Age Regression,Hypersexuality,Female Harem,Heterosexual,Primarily Child Cast,Family Life,Hikikomori,Nudity
     studio: Studio Bind
     seasons:
       0:
@@ -5129,7 +5129,7 @@ metadata:
       One Piece
     original_title: |-
       One Piece
-    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Pirates,Travel,Shounen,Ensemble Cast,Super Power,Found Family,Male Protagonist,Tragedy,Ships,Conspiracy,Slapstick,Prophecy,Time Skip,Politics,War,Dystopian,Slavery,Fugitive,Gods,Crime,Swordplay,Lost Civilization,Philosophy,Henshin,Monster Boy,Shapeshifting,Cyborg,Food,Primarily Adult Cast
+    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Pirates,Travel,Shounen,Ensemble Cast,Super Power,Found Family,Male Protagonist,Tragedy,Conspiracy,Ships,Prophecy,Slapstick,Politics,Time Skip,War,Dystopian,Slavery,Fugitive,Gods,Crime,Lost Civilization,Swordplay,Philosophy,Henshin,Monster Boy,Cyborg,Primarily Adult Cast,Food,Shapeshifting
     studio: Toei Animation
     audience_rating: 8.7
     critic_rating: 8.7
@@ -5546,7 +5546,7 @@ metadata:
       Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku
     original_title: |-
       From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage
-    genre.sync: Action,Adventure,Fantasy,Slavery,Estranged Family,Reincarnation,School,Male Protagonist,Magic
+    genre.sync: Action,Adventure,Fantasy,Reincarnation,Slavery,Estranged Family,Magic,School,Male Protagonist
     studio: EMT Squared
     seasons:
       1:
@@ -5556,7 +5556,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
-    critic_rating: 6.6
+    critic_rating: 6.5
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   299506:
