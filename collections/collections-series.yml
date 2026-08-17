@@ -15,34 +15,34 @@ collections:
     visible_home: true
     visible_shared: true
 
-  Series ajoutées récemment:
-    collection_filtering: user
-    smart_filter:
-      limit: 50
-      all:
-        episode_added: 30
-        unplayed_episodes: true
-      sort_by: episode_added.desc
-    sort_title: |-
-      !0 - Series ajoutees recemment
-    collection_mode: hide
-    visible_library: true
-    visible_home: true
-    visible_shared: true
+#  Series ajoutées récemment:
+#    collection_filtering: user
+#    smart_filter:
+#      limit: 50
+#      all:
+#        episode_added: 30
+#        unplayed_episodes: true
+#      sort_by: episode_added.desc
+#    sort_title: |-
+#      !0 - Series ajoutees recemment
+#    collection_mode: hide
+#    visible_library: true
+#    visible_home: true
+#    visible_shared: true
 
-  Series recommandées par Guilhem:
-    smart_filter:
-      all:
-        label: Arialzapprouved
-        unplayed_episodes: true
-      sort_by: title.asc
-    sort_title: |-
-      !2 - Series recommandees par Guilhem
-    collection_mode: hide
-    visible_library: true
-    visible_home: true
-    visible_shared: true
-    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/series/arialzapprouved.jpg
+#  Series recommandées par Guilhem:
+#    smart_filter:
+#      all:
+#        label: Arialzapprouved
+#        unplayed_episodes: true
+#      sort_by: title.asc
+#    sort_title: |-
+#      !2 - Series recommandees par Guilhem
+#    collection_mode: hide
+#    visible_library: true
+#    visible_home: true
+#    visible_shared: true
+#    url_poster: https://raw.githubusercontent.com/Arial-Z/PMM-Arialz/main/collections/img/series/arialzapprouved.jpg
 
   Star Trek:
     plex_search:
