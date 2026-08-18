@@ -952,7 +952,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
-    critic_rating: 7.0
+    critic_rating: 6.9
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   426294:
@@ -3285,13 +3285,13 @@ metadata:
       2:
         title: |-
           Katainaka no Ossan, Kensei ni Naru II
-        label: Score,2026 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2026 Summer
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.0
     critic_rating: 7.1
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   132941:
     title: |-
       Katanagatari
@@ -4445,7 +4445,7 @@ metadata:
       Majo no Tabitabi
     original_title: |-
       Wandering Witch: The Journey of Elaina
-    genre.sync: Adventure,Fantasy,Slice of Life,Episodic,Witch,Magic,Travel,Female Protagonist,Medieval,Primarily Female Cast,Time Skip,Cute Girls Doing Cute Things,Achronological Order,Tragedy
+    genre.sync: Adventure,Fantasy,Slice of Life,Episodic,Witch,Magic,Travel,Female Protagonist,Medieval,Time Skip,Primarily Female Cast,Achronological Order,Cute Girls Doing Cute Things,Tragedy
     studio: C2C
     seasons:
       1:
@@ -4783,7 +4783,7 @@ metadata:
           Modao Zushi 2
         label: Score,Completed,2019 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.4
+        user_rating: 8.3
       3:
         title: |-
           Modao Zushi 3
@@ -7608,7 +7608,7 @@ metadata:
       Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.
     original_title: |-
       Love Unseen Beneath the Clear Night Sky
-    genre.sync: Drama,Romance,Disability,Heterosexual,College,Tragedy,Iyashikei,Primarily Adult Cast,Male Protagonist
+    genre.sync: Drama,Romance,Disability,Tragedy,Heterosexual,College,Iyashikei,Primarily Adult Cast,Male Protagonist
     studio: Makaria
     seasons:
       1:
