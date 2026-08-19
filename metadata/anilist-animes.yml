@@ -1046,13 +1046,13 @@ metadata:
       1:
         title: |-
           Champignon no Majo
-        label: Score,Dropped,2026 Winter
-        label.remove: Completed,Watching,Paused,Planning
+        label: Score,Watching,2026 Winter
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 6.7
-    label: Ended,Dropped
-    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   461311:
     title: |-
       Chao Neng Lifang
@@ -3633,7 +3633,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.4
     audience_rating: 7.4
-    critic_rating: 7.8
+    critic_rating: 7.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   432050:
@@ -6714,9 +6714,9 @@ metadata:
           Sora wa Akai Kawa no Hotori
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.0
-    audience_rating: 6.0
-    critic_rating: 6.0
+        user_rating: 6.1
+    audience_rating: 6.1
+    critic_rating: 5.9
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   424536:
@@ -6954,7 +6954,7 @@ metadata:
       Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai
     original_title: |-
       Young Ladies Don't Play Fighting Games
-    genre.sync: Drama,Video Games,Female Protagonist,Advertisement,Primarily Female Cast,E-Sports,Yuri,LGBTQ+ Themes,Boarding School,Ojou-sama
+    genre.sync: Drama,Video Games,Female Protagonist,Primarily Female Cast,E-Sports,Advertisement,Boarding School,Yuri,Ojou-sama,Primarily Teen Cast,LGBTQ+ Themes
     studio: diomedéa
     seasons:
       1:
@@ -7032,7 +7032,7 @@ metadata:
       Tefuda ga Oome no Victoria
     original_title: |-
       Victoria of Many Faces
-    genre.sync: Action,Drama,Fantasy,Romance,Found Family,Parenthood,Female Protagonist,Josei,Family Life
+    genre.sync: Action,Drama,Fantasy,Romance,Found Family,Family Life,Parenthood,Female Protagonist,Josei
     studio: Studio DEEN
     seasons:
       1:
@@ -7594,13 +7594,13 @@ metadata:
       1:
         title: |-
           Toujima Tanzaburou wa Kamen Rider ni Naritai
-        label: Score,Dropped,2025 Fall
-        label.remove: Completed,Watching,Paused,Planning
+        label: Score,Watching,2025 Fall
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.5
     audience_rating: 7.5
     critic_rating: 7.8
-    label: Ended,Dropped
-    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   470520:
     title: |-
       Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.
