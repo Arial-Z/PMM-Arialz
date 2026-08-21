@@ -429,7 +429,7 @@ metadata:
       Apocalypse Hotel
     original_title: |-
       Apocalypse Hotel
-    genre.sync: Comedy,Sci-Fi,Slice of Life,Post-Apocalyptic,Robots,Work,Inn,Anthropomorphism,Female Protagonist,Artificial Intelligence,Surreal Comedy,Aliens,Urban,Time Skip,Iyashikei,Episodic
+    genre.sync: Comedy,Sci-Fi,Slice of Life,Post-Apocalyptic,Robots,Work,Inn,Anthropomorphism,Female Protagonist,Artificial Intelligence,Aliens,Surreal Comedy,Urban,Time Skip,Iyashikei,Episodic
     studio: CygamesPictures
     seasons:
       1:
@@ -2488,7 +2488,7 @@ metadata:
       Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru
     original_title: |-
       HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing
-    genre.sync: Action,Adventure,Fantasy,Creature Taming,Isekai,Male Protagonist,Video Games,Animals,Seinen,Class Struggle,Reincarnation
+    genre.sync: Action,Adventure,Fantasy,Creature Taming,Isekai,Male Protagonist,Video Games,Animals,Class Struggle,Reincarnation
     studio: Yokohama Animation Lab
     seasons:
       1:
@@ -3849,7 +3849,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.4
     audience_rating: 6.4
-    critic_rating: 6.5
+    critic_rating: 6.4
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   358181:
@@ -3872,25 +3872,6 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  420657:
-    title: |-
-      null
-    sort_title: |-
-      null
-    original_title: |-
-      null
-    genre.sync: 
-    seasons:
-      1:
-        title: |-
-          Kono Subarashii Sekai ni Bakuen wo!
-        label: Score,Dropped,2023 Spring
-        label.remove: Completed,Watching,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.4
-    critic_rating: 7.5
-    label: Ended,Dropped
-    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   303867:
     title: |-
       Kono Subarashii Sekai ni Shukufuku wo!
@@ -3940,8 +3921,8 @@ metadata:
           Koori no Jouheki
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.2
-    audience_rating: 8.2
+        user_rating: 8.3
+    audience_rating: 8.3
     critic_rating: 8.2
     label: Planned
     label.remove: Airing,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -4540,7 +4521,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.6
     audience_rating: 6.6
-    critic_rating: 7.0
+    critic_rating: 6.9
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   432847:
@@ -5030,8 +5011,8 @@ metadata:
           Nige Jouzu no Wakagimi 2nd Season
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.6
+        user_rating: 7.6
+    audience_rating: 7.7
     critic_rating: 7.7
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
@@ -5082,7 +5063,7 @@ metadata:
       Niwatori Fighter
     original_title: |-
       Rooster Fighter
-    genre.sync: Action,Adventure,Comedy,Supernatural,Male Protagonist,Revenge,Urban,Parody,Animals,Kaiju,CGI,Urban Fantasy,Body Horror,Super Power,Demons,Seinen,Surreal Comedy
+    genre.sync: Action,Adventure,Comedy,Supernatural,Male Protagonist,Revenge,Urban,Animals,Kaiju,CGI,Urban Fantasy,Super Power,Demons,Seinen,Parody,Surreal Comedy
     studio: SANZIGEN
     seasons:
       1:
@@ -5143,6 +5124,26 @@ metadata:
     critic_rating: 7.4
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+  420657:
+    title: |-
+      Kono Subarashii Sekai ni Bakuen wo!
+    sort_title: |-
+      Kono Subarashii Sekai ni Bakuen wo!
+    original_title: |-
+      KONOSUBA -An Explosion on This Wonderful World!
+    genre.sync: Adventure,Comedy,Fantasy,Female Protagonist,Chuunibyou,Magic,Primarily Female Cast,Primarily Teen Cast,Slapstick,Parody,Witch,Travel,Rural,Demons,School
+    studio: Drive
+    seasons:
+      1:
+        title: |-
+          Kono Subarashii Sekai ni Bakuen wo!
+        label: Score,Dropped,2023 Spring
+        label.remove: Completed,Watching,Paused,Planning
+        user_rating: 7.4
+    audience_rating: 7.4
+    critic_rating: 7.5
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   462789:
     title: |-
       Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisan-kei Majutsu de Na mo na Kimura wo Saikyou no Jousai Toshi ni
@@ -5693,7 +5694,7 @@ metadata:
       Reiwa no Dara-san
     original_title: |-
       Dara-san of the Reiwa Era
-    genre.sync: Comedy,Horror,Supernatural,Youkai,Monster Girl,Crossdressing,Tomboy,Shrine Maiden,Femboy,Curses,Nudity,Female Protagonist,Mythology
+    genre.sync: Comedy,Horror,Supernatural,Youkai,Monster Girl,Crossdressing,Tomboy,Shrine Maiden,Femboy,Curses,Female Protagonist,Nudity,Mythology
     studio: Asahi Production
     seasons:
       1:
@@ -6377,7 +6378,7 @@ metadata:
       Shiguang Dailiren
     original_title: |-
       Link Click
-    genre.sync: Drama,Mystery,Supernatural,Thriller,Time Manipulation,Body Swapping,Super Power,Photography,Male Protagonist,Tragedy,Primarily Adult Cast,Crime,Urban Fantasy,Urban,Memory Manipulation,Natural Disaster,Episodic
+    genre.sync: Drama,Mystery,Supernatural,Thriller,Time Manipulation,Body Swapping,Super Power,Photography,Male Protagonist,Tragedy,Primarily Adult Cast,Crime,Urban Fantasy,Urban,Memory Manipulation,Natural Disaster,Boys' Love,Episodic
     studio: Studio LAN
     seasons:
       0:
@@ -6541,8 +6542,8 @@ metadata:
           Shokei Shoujo no Virgin Road
         label: Score,Completed,2022 Spring
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.2
-    audience_rating: 7.2
+        user_rating: 6.9
+    audience_rating: 6.9
     critic_rating: 6.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -6679,7 +6680,7 @@ metadata:
       Sono Bisque Doll wa Koi wo Suru
     original_title: |-
       My Dress-Up Darling
-    genre.sync: Comedy,Ecchi,Romance,Slice of Life,Cosplay,Otaku Culture,Fashion,Male Protagonist,Heterosexual,Primarily Teen Cast,Female Protagonist,Gyaru,Seinen,Photography
+    genre.sync: Comedy,Ecchi,Romance,Slice of Life,Cosplay,Otaku Culture,Fashion,Male Protagonist,Heterosexual,Primarily Teen Cast,Female Protagonist,Gyaru,Seinen,Modeling,Iyashikei,Urban,Photography
     studio: CloverWorks
     seasons:
       1:
@@ -6725,7 +6726,7 @@ metadata:
       Sousou no Frieren
     original_title: |-
       Frieren: Beyond Journey’s End
-    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Female Protagonist,Philosophy,Time Skip,Medieval,Found Family,Kuudere,Iyashikei,Demons,Shounen,Foreign
+    genre.sync: Adventure,Drama,Fantasy,Travel,Magic,Elf,Female Protagonist,Philosophy,Time Skip,Medieval,Found Family,Kuudere,Shounen,Demons,Foreign,Iyashikei
     studio: MADHOUSE
     seasons:
       1:
@@ -6785,7 +6786,7 @@ metadata:
       Steins;Gate
     original_title: |-
       Steins;Gate
-    genre.sync: Drama,Psychological,Sci-Fi,Thriller,Time Manipulation,Alternate Universe,Time Loop,Conspiracy,Tragedy,Memory Manipulation,Denpa,Male Protagonist,Urban,Dystopian,Primarily Adult Cast,Philosophy,Chuunibyou,Dissociative Identities,Tsundere,Otaku Culture,Heterosexual
+    genre.sync: Drama,Psychological,Sci-Fi,Thriller,Time Manipulation,Alternate Universe,Time Loop,Conspiracy,Tragedy,Memory Manipulation,Denpa,Male Protagonist,Urban,Dystopian,Primarily Adult Cast,Philosophy,Chuunibyou,Dissociative Identities,Cosmic Horror,Tsundere,Otaku Culture
     studio: WHITE FOX
     seasons:
       0:
@@ -6993,7 +6994,7 @@ metadata:
       Tate no Yuusha no Nariagari
     original_title: |-
       The Rising of the Shield Hero
-    genre.sync: Action,Adventure,Fantasy,Isekai,Male Protagonist,Conspiracy,Travel,Medieval,Revenge,Crime,Magic,Politics,Anti-Hero,Tragedy,Kemonomimi,Bullying,Henshin,Matriarchy,Swordplay,Spearplay,Cult
+    genre.sync: Action,Adventure,Fantasy,Isekai,Male Protagonist,Conspiracy,Travel,Medieval,Revenge,Crime,Magic,Politics,Anti-Hero,Tragedy,Kemonomimi,Bullying,Henshin,Swordplay,Spearplay,Cult,Matriarchy
     studio: Kinema Citrus
     seasons:
       1:
@@ -7273,7 +7274,7 @@ metadata:
           Tensei Shitara Slime Datta Ken 4th Season
         label: Score,Watching,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.2
+        user_rating: 8.3
     audience_rating: 8.1
     critic_rating: 8.1
     label: AA Winner,Airing,Watching
@@ -7783,7 +7784,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
-    critic_rating: 7.1
+    critic_rating: 7.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   256705:
@@ -7846,7 +7847,7 @@ metadata:
       Uma Musume: Cinderella Gray
     original_title: |-
       Umamusume: Cinderella Gray
-    genre.sync: Drama,Sports,Athletics,Primarily Female Cast,Female Protagonist,Kemonomimi,Seinen,Historical,Fitness
+    genre.sync: Drama,Sports,Athletics,Primarily Female Cast,Female Protagonist,Kemonomimi,Seinen,Historical,Fitness,Disability
     studio: CygamesPictures
     seasons:
       1:
@@ -8250,7 +8251,7 @@ metadata:
       Yani Neko
     original_title: |-
       Chainsmoker Cat
-    genre.sync: Comedy,Slice of Life,Drugs,Female Protagonist,Surreal Comedy,Nekomimi,Kemonomimi,Primarily Female Cast,Episodic,Urban,Class Struggle,Primarily Adult Cast,Rehabilitation,Urban Fantasy,Delinquents
+    genre.sync: Comedy,Ecchi,Slice of Life,Drugs,Female Protagonist,Surreal Comedy,Kemonomimi,Nekomimi,Primarily Female Cast,Episodic,Urban,Class Struggle,Primarily Adult Cast,Rehabilitation,Urban Fantasy,Satire,Delinquents
     studio: Bibury Animation Studios
     seasons:
       1:
@@ -8366,7 +8367,7 @@ metadata:
       Yomi no Tsugai
     original_title: |-
       Daemons of the Shadow Realm
-    genre.sync: Action,Adventure,Comedy,Fantasy,Supernatural,Shounen,Male Protagonist,Youkai,Archery,Anachronism,Proxy Battle,Creature Taming,Urban Fantasy,Twins,Rural,Demons,Conspiracy
+    genre.sync: Action,Adventure,Comedy,Fantasy,Supernatural,Shounen,Youkai,Male Protagonist,Archery,Anachronism,Urban Fantasy,Proxy Battle,Creature Taming,Twins,Rural,Demons,Conspiracy
     studio: bones film
     seasons:
       1:
