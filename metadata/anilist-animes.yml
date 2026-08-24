@@ -779,7 +779,7 @@ metadata:
       Black Torch
     original_title: |-
       Black Torch
-    genre.sync: Action,Adventure,Fantasy,Sci-Fi,Supernatural,Youkai,Shounen,Male Protagonist,Urban Fantasy
+    genre.sync: Action,Adventure,Fantasy,Sci-Fi,Supernatural,Shounen,Youkai,Male Protagonist,Urban Fantasy
     studio: 100studio
     seasons:
       1:
@@ -1929,7 +1929,7 @@ metadata:
       Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den
     original_title: |-
       Though I Am an Inept Villainess
-    genre.sync: Drama,Romance,Body Swapping,Female Protagonist,Josei,Royal Affairs,Ancient China,Historical,Foreign,Villainess,Magic
+    genre.sync: Drama,Romance,Body Swapping,Female Protagonist,Josei,Royal Affairs,Ancient China,Villainess,Historical,Foreign,Magic
     studio: Doga Kobo
     seasons:
       1:
@@ -1937,8 +1937,8 @@ metadata:
           Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.6
+        user_rating: 7.7
+    audience_rating: 7.7
     critic_rating: 8.1
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -2266,7 +2266,7 @@ metadata:
       Grow Up Show: Himawari no Circus-dan
     original_title: |-
       Grow Up Show
-    genre.sync: Adventure,Slice of Life,Sports,Circus,Cute Girls Doing Cute Things,Female Protagonist,Primarily Female Cast,Acrobatics,Yuri
+    genre.sync: Adventure,Slice of Life,Sports,Circus,Female Protagonist,Cute Girls Doing Cute Things,Primarily Female Cast,Acrobatics,Yuri,Estranged Family,Orphan
     studio: A-1 Pictures
     seasons:
       1:
@@ -2881,7 +2881,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 5.2
     audience_rating: 5.2
-    critic_rating: 5.8
+    critic_rating: 5.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   423121:
@@ -3872,6 +3872,26 @@ metadata:
     critic_rating: 8.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+  420657:
+    title: |-
+      Kono Subarashii Sekai ni Bakuen wo!
+    sort_title: |-
+      Kono Subarashii Sekai ni Bakuen wo!
+    original_title: |-
+      KONOSUBA -An Explosion on This Wonderful World!
+    genre.sync: Adventure,Comedy,Fantasy,Female Protagonist,Chuunibyou,Magic,Primarily Female Cast,Primarily Teen Cast,Slapstick,Parody,Witch,Travel,Rural,Demons,School
+    studio: Drive
+    seasons:
+      1:
+        title: |-
+          Kono Subarashii Sekai ni Bakuen wo!
+        label: Score,Dropped,2023 Spring
+        label.remove: Completed,Watching,Paused,Planning
+        user_rating: 7.4
+    audience_rating: 7.4
+    critic_rating: 7.5
+    label: Ended,Dropped
+    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   303867:
     title: |-
       Kono Subarashii Sekai ni Shukufuku wo!
@@ -4115,8 +4135,8 @@ metadata:
           Let's Go Kaikigumi
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.5
-    audience_rating: 5.5
+        user_rating: 5.6
+    audience_rating: 5.6
     critic_rating: 6.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -4285,7 +4305,7 @@ metadata:
       Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance
     original_title: |-
       Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance
-    genre.sync: Action,Comedy,Drama,Fantasy,Mahou Shoujo,Female Protagonist,Spearplay,Magic,Drugs,Post-Apocalyptic,Super Power,Tragedy,Gore,Demons,Primarily Female Cast,Henshin,Guns,LGBTQ+ Themes,Found Family,Yuri
+    genre.sync: Action,Comedy,Drama,Mahou Shoujo,Sci-Fi,Female Protagonist,Spearplay,Magic,Drugs,Post-Apocalyptic,Super Power,Tragedy,Gore,Demons,Primarily Female Cast,Henshin,Guns,LGBTQ+ Themes,Found Family,Yuri
     studio: Seven Arcs
     seasons:
       1:
@@ -4295,7 +4315,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.5
     audience_rating: 6.5
-    critic_rating: 7.1
+    critic_rating: 7.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   278329:
@@ -5033,7 +5053,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.5
     audience_rating: 7.5
-    critic_rating: 7.7
+    critic_rating: 7.6
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   473228:
@@ -5124,26 +5144,6 @@ metadata:
     critic_rating: 7.4
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
-  420657:
-    title: |-
-      Kono Subarashii Sekai ni Bakuen wo!
-    sort_title: |-
-      Kono Subarashii Sekai ni Bakuen wo!
-    original_title: |-
-      KONOSUBA -An Explosion on This Wonderful World!
-    genre.sync: Adventure,Comedy,Fantasy,Female Protagonist,Chuunibyou,Magic,Primarily Female Cast,Primarily Teen Cast,Slapstick,Parody,Witch,Travel,Rural,Demons,School
-    studio: Drive
-    seasons:
-      1:
-        title: |-
-          Kono Subarashii Sekai ni Bakuen wo!
-        label: Score,Dropped,2023 Spring
-        label.remove: Completed,Watching,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.4
-    critic_rating: 7.5
-    label: Ended,Dropped
-    label.remove: Planned,Airing,Completed,Watching,Paused,Planning
   462789:
     title: |-
       Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisan-kei Majutsu de Na mo na Kimura wo Saikyou no Jousai Toshi ni
@@ -6066,7 +6066,7 @@ metadata:
       Sayonara Lara
     original_title: |-
       Goodbye, Lara
-    genre.sync: Drama,Fantasy,Romance,Female Protagonist,Fairy Tale,Mermaid,Coastal,Urban Fantasy,Time Skip,Curses,Yuri,Reincarnation,Interspecies,Magic,LGBTQ+ Themes,Boxing
+    genre.sync: Drama,Fantasy,Romance,Female Protagonist,Mermaid,Fairy Tale,Coastal,Urban Fantasy,Time Skip,Curses,Reincarnation,Interspecies,Magic,Yuri,Boxing
     studio: Kinema Citrus
     seasons:
       1:
@@ -6872,7 +6872,7 @@ metadata:
       Super no Ura de Yani Suu Futari
     original_title: |-
       Smoking Behind the Supermarket with You
-    genre.sync: Comedy,Romance,Slice of Life,Seinen,Primarily Adult Cast,Heterosexual,Drugs,Work,Konbini,Age Gap,Iyashikei,Female Protagonist,Male Protagonist
+    genre.sync: Comedy,Romance,Slice of Life,Seinen,Heterosexual,Primarily Adult Cast,Drugs,Work,Konbini,Age Gap,Iyashikei,Female Protagonist,Male Protagonist
     studio: Asahi Production
     seasons:
       0:
@@ -6884,7 +6884,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.2
     audience_rating: 8.2
-    critic_rating: 8.4
+    critic_rating: 8.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   475631:
@@ -7094,7 +7094,7 @@ metadata:
       Tenmaku no Jaadugar
     original_title: |-
       Jaadugar: A Witch in Mongolia
-    genre.sync: Adventure,Drama,Tragedy,Politics,Indigenous Cultures,Female Protagonist,Conspiracy,Revenge,Royal Affairs,War,Slavery,Foreign,Historical,Time Skip,Coming of Age,Class Struggle,Biographical,Orphan,Travel,Philosophy,Josei,Espionage,Survival,Religion,Kingdom Management
+    genre.sync: Adventure,Drama,Tragedy,Politics,Indigenous Cultures,Female Protagonist,Revenge,Conspiracy,Royal Affairs,Slavery,War,Foreign,Historical,Time Skip,Coming of Age,Biographical,Class Struggle,Orphan,Travel,Espionage,Josei,Philosophy,Religion,Survival,Kingdom Management
     studio: Science SARU
     seasons:
       1:
@@ -7316,7 +7316,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.0
     audience_rating: 7.0
-    critic_rating: 7.2
+    critic_rating: 7.3
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   436948:
@@ -7518,7 +7518,7 @@ metadata:
       Tongari Boushi no Atelier
     original_title: |-
       Witch Hat Atelier
-    genre.sync: Adventure,Drama,Fantasy,Magic,Witch,Conspiracy,Female Protagonist,Drawing,Memory Manipulation,Primarily Female Cast,Coming of Age,Primarily Child Cast,Found Family,Ensemble Cast,Medieval,Philosophy,Politics,Teacher,Disability
+    genre.sync: Adventure,Drama,Fantasy,Magic,Witch,Conspiracy,Female Protagonist,Drawing,Memory Manipulation,Primarily Female Cast,Coming of Age,Primarily Child Cast,Found Family,Medieval,Ensemble Cast,Philosophy,Politics,Teacher,Seinen,Disability
     studio: BUG FILMS
     seasons:
       1:
@@ -8149,7 +8149,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.2
     audience_rating: 7.8
-    critic_rating: 8.0
+    critic_rating: 7.9
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   341425:
