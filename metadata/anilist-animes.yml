@@ -3623,7 +3623,7 @@ metadata:
       Kimi ga Shinu made Koi wo Shitai
     original_title: |-
       I Want to Love You Till Your Dying Day
-    genre.sync: Drama,Fantasy,Romance,Yuri,War,Tragedy,Primarily Female Cast,Female Protagonist,Magic,Primarily Teen Cast,School,Military,LGBTQ+ Themes,Orphan,Body Horror,Gore,Boarding School,Dystopian
+    genre.sync: Drama,Fantasy,Romance,Yuri,War,Tragedy,Primarily Female Cast,Female Protagonist,Magic,Primarily Teen Cast,School,Military,LGBTQ+ Themes,Body Horror,Orphan,Gore,Dystopian
     studio: ROLL2
     seasons:
       1:
@@ -3631,9 +3631,7 @@ metadata:
           Kimi ga Shinu made Koi wo Shitai
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.4
-    critic_rating: 7.7
+        user_rating: 0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   432050:
@@ -3973,7 +3971,7 @@ metadata:
       Koukaku Kidoutai: THE GHOST IN THE SHELL
     original_title: |-
       The Ghost In The Shell
-    genre.sync: Action,Psychological,Sci-Fi,Philosophy,Cyberpunk,Cyborg,Urban,Artificial Intelligence,Female Protagonist,Robots,Primarily Adult Cast,Guns,Police
+    genre.sync: Action,Psychological,Sci-Fi,Philosophy,Primarily Adult Cast,Cyberpunk,Cyborg,Urban,Artificial Intelligence,Female Protagonist,Robots,Guns,Police
     studio: Science SARU
     seasons:
       1:
@@ -3981,9 +3979,7 @@ metadata:
           Koukaku Kidoutai: THE GHOST IN THE SHELL
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.6
-    audience_rating: 7.6
-    critic_rating: 7.9
+        user_rating: 0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   413515:
@@ -4115,9 +4111,7 @@ metadata:
           Kuzu no Honkai
         label: Score,2017 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
-    critic_rating: 7.1
+        user_rating: 0
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   469143:
@@ -4829,9 +4823,7 @@ metadata:
           Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.3
-    audience_rating: 6.3
-    critic_rating: 6.5
+        user_rating: 0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   371310:
@@ -5522,8 +5514,8 @@ metadata:
           Quanzhi Fashi 7
         label: Score,2026 Spring
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
+        user_rating: 6.2
+    audience_rating: 6.2
     critic_rating: 6.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -6714,9 +6706,7 @@ metadata:
           Sora wa Akai Kawa no Hotori
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.1
-    audience_rating: 6.1
-    critic_rating: 5.9
+        user_rating: 0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   424536:
@@ -6954,7 +6944,7 @@ metadata:
       Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai
     original_title: |-
       Young Ladies Don't Play Fighting Games
-    genre.sync: Drama,Video Games,Female Protagonist,Primarily Female Cast,E-Sports,Advertisement,Boarding School,Yuri,Ojou-sama,Primarily Teen Cast,LGBTQ+ Themes
+    genre.sync: Drama,Video Games,Female Protagonist,Primarily Female Cast,E-Sports,Advertisement,Yuri,Boarding School,Primarily Teen Cast,Ojou-sama,LGBTQ+ Themes
     studio: diomedéa
     seasons:
       1:
@@ -6962,9 +6952,7 @@ metadata:
           Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.4
-    audience_rating: 7.4
-    critic_rating: 7.5
+        user_rating: 0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   305104:
@@ -7040,9 +7028,7 @@ metadata:
           Tefuda ga Oome no Victoria
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
-    critic_rating: 7.3
+        user_rating: 0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   80096:
@@ -8380,6 +8366,24 @@ metadata:
     critic_rating: 7.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+  283942:
+    title: |-
+      Akatsuki no Yona
+    sort_title: |-
+      Akatsuki no Yona
+    original_title: |-
+      Yona of the Dawn
+    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance,Female Protagonist,Dragons,Shoujo,Ensemble Cast,Fugitive,Royal Affairs,Travel,Mythology,Primarily Male Cast,Historical,Coming of Age,Politics,Revenge,Reincarnation,Ancient China,Tragedy,Found Family,Primarily Adult Cast,Orphan,Male Harem,Heterosexual
+    studio: Studio Pierrot
+    seasons:
+      1:
+        title: |-
+          Akatsuki no Yona
+        label: Score,Completed,2014 Fall
+        label.remove: Watching,Dropped,Paused,Planning
+        user_rating: 0
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   432808:
     title: |-
       Yoru no Kurage wa Oyogenai
@@ -8423,9 +8427,9 @@ metadata:
           Youjo Senki II
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 8.1
-    audience_rating: 7.9
-    critic_rating: 8.1
+        user_rating: 0
+    audience_rating: 7.8
+    critic_rating: 8.0
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
   329822:
