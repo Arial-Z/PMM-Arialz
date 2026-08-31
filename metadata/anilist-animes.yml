@@ -807,8 +807,8 @@ metadata:
           Black Torch
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
+        user_rating: 7.0
+    audience_rating: 7.0
     critic_rating: 7.0
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -1607,7 +1607,7 @@ metadata:
       Dorohedoro
     original_title: |-
       Dorohedoro
-    genre.sync: Action,Adventure,Comedy,Fantasy,Horror,Mystery,Dystopian,Monster Boy,Anthropomorphism,Magic,Amnesia,CGI,Full CGI,Gore,Surreal Comedy,Body Horror,Seinen,Curses,Ensemble Cast,Henshin,Male Protagonist,Urban Fantasy,Anti-Hero,Primarily Adult Cast,Revenge,Found Family,Restaurant,Demons
+    genre.sync: Action,Adventure,Comedy,Fantasy,Horror,Mystery,Dystopian,Monster Boy,Anthropomorphism,Magic,Amnesia,CGI,Full CGI,Gore,Surreal Comedy,Body Horror,Seinen,Curses,Ensemble Cast,Henshin,Anti-Hero,Urban Fantasy,Male Protagonist,Primarily Adult Cast,Revenge,Found Family,Restaurant,Demons
     studio: MAPPA
     seasons:
       0:
@@ -1949,7 +1949,7 @@ metadata:
       Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den
     original_title: |-
       Though I Am an Inept Villainess
-    genre.sync: Drama,Romance,Body Swapping,Female Protagonist,Josei,Royal Affairs,Ancient China,Villainess,Historical,Foreign,Magic
+    genre.sync: Drama,Romance,Body Swapping,Female Protagonist,Josei,Royal Affairs,Ancient China,Historical,Villainess,Foreign,Magic
     studio: Doga Kobo
     seasons:
       1:
@@ -1959,7 +1959,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.7
     audience_rating: 7.7
-    critic_rating: 8.1
+    critic_rating: 8.2
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
   412806:
@@ -2294,8 +2294,8 @@ metadata:
           Grow Up Show: Himawari no Circus-dan
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.0
+        user_rating: 7.1
+    audience_rating: 7.1
     critic_rating: 7.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -2456,9 +2456,9 @@ metadata:
           Hanaori-san wa Tensei Shite mo Kenka ga Shitai
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
-    critic_rating: 7.0
+        user_rating: 6.9
+    audience_rating: 6.9
+    critic_rating: 7.1
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   401856:
@@ -2899,8 +2899,8 @@ metadata:
           Iwamoto-senpai no Suisen
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.2
-    audience_rating: 5.2
+        user_rating: 5.1
+    audience_rating: 5.1
     critic_rating: 5.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -3821,7 +3821,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.6
     audience_rating: 6.6
-    critic_rating: 6.7
+    critic_rating: 6.6
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   318893:
@@ -4157,7 +4157,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 5.6
     audience_rating: 5.6
-    critic_rating: 6.3
+    critic_rating: 6.4
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   318161:
@@ -4325,7 +4325,7 @@ metadata:
       Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance
     original_title: |-
       Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance
-    genre.sync: Action,Comedy,Drama,Mahou Shoujo,Sci-Fi,Female Protagonist,Spearplay,Magic,Drugs,Post-Apocalyptic,Super Power,Tragedy,Gore,Demons,Primarily Female Cast,Henshin,Guns,LGBTQ+ Themes,Found Family,Yuri
+    genre.sync: Action,Comedy,Drama,Mahou Shoujo,Sci-Fi,Female Protagonist,Tragedy,Drugs,Post-Apocalyptic,Spearplay,Super Power,Gore,Demons,Primarily Female Cast,Magic,Henshin,Guns,Found Family
     studio: Seven Arcs
     seasons:
       1:
@@ -4333,8 +4333,8 @@ metadata:
           Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.5
-    audience_rating: 6.5
+        user_rating: 6.4
+    audience_rating: 6.4
     critic_rating: 7.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -5063,7 +5063,7 @@ metadata:
       Nijusseiki Denki Mokuroku: Eureka Evrika
     original_title: |-
       Sparks of Tomorrow
-    genre.sync: Adventure,Romance,Steampunk,Male Protagonist,Female Protagonist
+    genre.sync: Adventure,Romance,Steampunk,Male Protagonist
     studio: Kyoto Animation
     seasons:
       1:
@@ -5238,7 +5238,7 @@ metadata:
       Oni no Hanayome
     original_title: |-
       The Ogre's Bride
-    genre.sync: Drama,Fantasy,Romance,Shoujo,Heterosexual,Female Protagonist
+    genre.sync: Drama,Fantasy,Romance,Shoujo,Female Protagonist,Heterosexual
     studio: Colored Pencil Animation Japan
     seasons:
       1:
@@ -6086,7 +6086,7 @@ metadata:
       Sayonara Lara
     original_title: |-
       Goodbye, Lara
-    genre.sync: Drama,Fantasy,Romance,Female Protagonist,Mermaid,Fairy Tale,Coastal,Urban Fantasy,Time Skip,Curses,Reincarnation,Interspecies,Magic,Yuri,Boxing
+    genre.sync: Drama,Fantasy,Romance,Female Protagonist,Mermaid,Fairy Tale,Coastal,Urban Fantasy,Time Skip,Curses,Reincarnation,Interspecies,Yuri,Magic,Boxing
     studio: Kinema Citrus
     seasons:
       1:
@@ -6226,7 +6226,7 @@ metadata:
       Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha
     original_title: |-
       The World's Strongest Rearguard
-    genre.sync: Action,Adventure,Fantasy,Nudity
+    genre.sync: Action,Adventure,Fantasy
     studio: Maho Film
     seasons:
       1:
@@ -6892,7 +6892,7 @@ metadata:
       Super no Ura de Yani Suu Futari
     original_title: |-
       Smoking Behind the Supermarket with You
-    genre.sync: Comedy,Romance,Slice of Life,Seinen,Heterosexual,Primarily Adult Cast,Drugs,Work,Konbini,Age Gap,Iyashikei,Female Protagonist,Male Protagonist
+    genre.sync: Comedy,Romance,Slice of Life,Seinen,Heterosexual,Primarily Adult Cast,Drugs,Work,Konbini,Age Gap,Female Protagonist,Iyashikei,Male Protagonist,Episodic
     studio: Asahi Production
     seasons:
       0:
@@ -7114,7 +7114,7 @@ metadata:
       Tenmaku no Jaadugar
     original_title: |-
       Jaadugar: A Witch in Mongolia
-    genre.sync: Adventure,Drama,Tragedy,Politics,Indigenous Cultures,Female Protagonist,Revenge,Conspiracy,Royal Affairs,Slavery,War,Foreign,Historical,Time Skip,Coming of Age,Biographical,Class Struggle,Orphan,Travel,Espionage,Josei,Philosophy,Religion,Survival,Kingdom Management
+    genre.sync: Adventure,Drama,Tragedy,Politics,Indigenous Cultures,Female Protagonist,Revenge,Conspiracy,Royal Affairs,Slavery,Foreign,Historical,War,Time Skip,Coming of Age,Biographical,Class Struggle,Orphan,Travel,Philosophy,Espionage,Josei,Religion,Kingdom Management,Survival
     studio: Science SARU
     seasons:
       1:
@@ -7638,7 +7638,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.9
     audience_rating: 7.9
-    critic_rating: 8.1
+    critic_rating: 8.0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   421378:
