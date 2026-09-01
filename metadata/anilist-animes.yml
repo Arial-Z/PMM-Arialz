@@ -417,7 +417,7 @@ metadata:
           Ao no Exorcist: Yosuga-hen
         label: Score,Completed,2025 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.9
+        user_rating: 8.0
     audience_rating: 7.4
     critic_rating: 7.5
     label: Ended,Completed
@@ -962,7 +962,7 @@ metadata:
       Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu
     original_title: |-
       A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires
-    genre.sync: Drama,Fantasy,Villainess,Female Protagonist,Revenge,Gore,Magic
+    genre.sync: Drama,Fantasy,Villainess,Anti-Hero,Female Protagonist,Revenge,Gore,Magic
     studio: Studio Comet
     seasons:
       1:
@@ -970,8 +970,8 @@ metadata:
           Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu
         label: Score,Watching,2026 Summer
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
+        user_rating: 6.7
+    audience_rating: 6.7
     critic_rating: 6.8
     label: Airing,Watching
     label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
@@ -7063,8 +7063,8 @@ metadata:
         user_rating: 7.1
     audience_rating: 7.1
     critic_rating: 7.4
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   80096:
     title: |-
       Tengen Toppa Gurren Lagann
@@ -7628,7 +7628,7 @@ metadata:
       Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.
     original_title: |-
       Love Unseen Beneath the Clear Night Sky
-    genre.sync: Drama,Romance,Disability,Tragedy,Heterosexual,Primarily Adult Cast,College,Male Protagonist,Amnesia,Iyashikei
+    genre.sync: Drama,Romance,Disability,Tragedy,Heterosexual,Primarily Adult Cast,College,Amnesia,Male Protagonist,Iyashikei
     studio: Makaria
     seasons:
       1:
