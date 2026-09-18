@@ -3910,8 +3910,8 @@ metadata:
         user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.3
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   358181:
     title: |-
       Kono Oto Tomare!
@@ -5873,8 +5873,8 @@ metadata:
         user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 6.8
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   398387:
     title: |-
       Sabikui Bisco
