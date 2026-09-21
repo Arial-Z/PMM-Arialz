@@ -968,13 +968,13 @@ metadata:
       1:
         title: |-
           Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu
-        label: Score,Watching,2026 Summer
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2026 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.7
     audience_rating: 6.7
     critic_rating: 6.7
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   426294:
     title: |-
       Buddy Daddies
@@ -2066,8 +2066,8 @@ metadata:
         user_rating: 6.5
     audience_rating: 6.8
     critic_rating: 6.8
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   293996:
     title: |-
       Gakusen Toshi Asterisk
@@ -2289,8 +2289,8 @@ metadata:
         user_rating: 8.2
     audience_rating: 8.3
     critic_rating: 8.4
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   376144:
     title: |-
       Great Pretender
@@ -5969,8 +5969,8 @@ metadata:
         user_rating: 5.8
     audience_rating: 5.8
     critic_rating: 6.3
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   455684:
     title: |-
       Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?
@@ -6971,8 +6971,8 @@ metadata:
         user_rating: 6.1
     audience_rating: 6.1
     critic_rating: 6.4
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   259640:
     title: |-
       Sword Art Online
@@ -7685,8 +7685,8 @@ metadata:
         user_rating: 7.9
     audience_rating: 7.9
     critic_rating: 8.0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   421378:
     title: |-
       Trigun Stampede
