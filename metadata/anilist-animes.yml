@@ -2924,26 +2924,6 @@ metadata:
     critic_rating: 7.2
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  472831:
-    title: |-
-      Iwamoto-senpai no Suisen
-    sort_title: |-
-      Iwamoto-senpai no Suisen
-    original_title: |-
-      Recommendations from Iwamoto-Senpai
-    genre.sync: Action,Supernatural,Super Power,Male Protagonist,Primarily Male Cast
-    studio: Studio DEEN
-    seasons:
-      1:
-        title: |-
-          Iwamoto-senpai no Suisen
-        label: Score,2026 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 5.1
-    audience_rating: 5.1
-    critic_rating: 5.9
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   423121:
     title: |-
       Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou
@@ -3345,13 +3325,13 @@ metadata:
       2:
         title: |-
           Katainaka no Ossan, Kensei ni Naru II
-        label: Score,Watching,2026 Summer
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2026 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.0
     audience_rating: 6.9
     critic_rating: 7.1
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   132941:
     title: |-
       Katanagatari
@@ -5411,8 +5391,8 @@ metadata:
         user_rating: 6.8
     audience_rating: 6.9
     critic_rating: 7.0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   391625:
     title: |-
       Ousama Ranking
@@ -8487,13 +8467,13 @@ metadata:
       2:
         title: |-
           Youjo Senki II
-        label: Score,Watching,2026 Summer
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2026 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.0
     audience_rating: 7.9
     critic_rating: 8.1
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   329822:
     title: |-
       Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
