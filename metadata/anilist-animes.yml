@@ -5386,13 +5386,13 @@ metadata:
       2:
         title: |-
           Otomege Sekai wa Mob ni Kibishii Sekai desu 2
-        label: Score,Watching,2026 Summer
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2026 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.9
     critic_rating: 7.0
-    label: Ended,Watching
-    label.remove: Planned,Airing,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   391625:
     title: |-
       Ousama Ranking
@@ -5745,8 +5745,8 @@ metadata:
         user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 7.0
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   299508:
     title: |-
       ReLIFE
@@ -6931,8 +6931,8 @@ metadata:
         user_rating: 8.2
     audience_rating: 8.2
     critic_rating: 8.3
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   475631:
     title: |-
       Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita
@@ -8308,8 +8308,8 @@ metadata:
         user_rating: 6.7
     audience_rating: 6.7
     critic_rating: 7.1
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   453694:
     title: |-
       Yasei no Last Boss ga Arawareta!
