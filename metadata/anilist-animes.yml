@@ -2560,13 +2560,13 @@ metadata:
       2:
         title: |-
           Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season
-        label: Score,Watching,2026 Summer
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2026 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.1
     audience_rating: 7.2
     critic_rating: 7.2
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   263688:
     title: |-
       Hellsing Ova
@@ -2810,8 +2810,8 @@ metadata:
         user_rating: 6.4
     audience_rating: 6.4
     critic_rating: 6.8
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   385278:
     title: |-
       Ijiranaide, Nagatoro-san
@@ -4004,8 +4004,8 @@ metadata:
         user_rating: 7.8
     audience_rating: 7.8
     critic_rating: 7.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   450475:
     title: |-
       Koukaku Kidoutai: THE GHOST IN THE SHELL
@@ -7318,13 +7318,13 @@ metadata:
       4:
         title: |-
           Tensei Shitara Slime Datta Ken 4th Season
-        label: Score,Watching,2026 Spring
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2026 Spring
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.3
     audience_rating: 8.1
     critic_rating: 8.1
-    label: AA Winner,Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: AA Winner,Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   448537:
     title: |-
       Teogonia
