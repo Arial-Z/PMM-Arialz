@@ -805,13 +805,13 @@ metadata:
       1:
         title: |-
           Black Torch
-        label: Score,Watching,2026 Summer
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2026 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.9
     audience_rating: 6.9
     critic_rating: 6.7
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   74796:
     title: |-
       Bleach
@@ -4901,13 +4901,13 @@ metadata:
       3:
         title: |-
           Mushoku Tensei III: Isekai Ittara Honki Dasu
-        label: Score,Watching,2026 Summer
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2026 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.5
     audience_rating: 8.4
     critic_rating: 8.5
-    label: Ended,Watching
-    label.remove: Planned,Airing,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   446389:
     title: |-
       Nageki no Bourei wa Intai Shitai
@@ -7198,13 +7198,13 @@ metadata:
       3:
         title: |-
           Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season
-        label: Score,2026 Fall
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2026 Fall
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 0
     audience_rating: 7.2
     critic_rating: 7.3
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   423362:
     title: |-
       Tensei Oujo to Tensai Reijou no Mahou Kakumei
