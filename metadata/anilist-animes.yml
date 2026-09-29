@@ -3674,8 +3674,8 @@ metadata:
         user_rating: 7.4
     audience_rating: 7.4
     critic_rating: 7.7
-    label: Airing
-    label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
+    label: Ended
+    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   432050:
     title: |-
       Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo
@@ -3885,13 +3885,13 @@ metadata:
       1:
         title: |-
           Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.
-        label: Score,Watching,2026 Summer
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2026 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.2
     audience_rating: 6.2
     critic_rating: 6.2
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   358181:
     title: |-
       Kono Oto Tomare!
@@ -7200,8 +7200,8 @@ metadata:
           Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season
         label: Score,Watching,2026 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 0
-    audience_rating: 7.2
+        user_rating: 6.4
+    audience_rating: 6.9
     critic_rating: 7.3
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
