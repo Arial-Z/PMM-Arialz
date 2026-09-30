@@ -1259,8 +1259,8 @@ metadata:
         user_rating: 7.6
     audience_rating: 7.7
     critic_rating: 7.8
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   79525:
     title: |-
       Code Geass: Hangyaku no Lelouch
@@ -1598,8 +1598,8 @@ metadata:
         user_rating: 6.6
     audience_rating: 6.6
     critic_rating: 6.6
-    label: Airing,Watching
-    label.remove: Planned,Ended,Completed,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   370761:
     title: |-
       Dorohedoro
@@ -5725,8 +5725,8 @@ metadata:
         user_rating: 9.0
     audience_rating: 8.5
     critic_rating: 8.5
-    label: AA Winner,Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: AA Winner,Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   471497:
     title: |-
       Reiwa no Dara-san
@@ -7287,10 +7287,15 @@ metadata:
         label: Score,Completed,2022 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.4
-    audience_rating: 7.4
+      2:
+        title: |-
+          Tensei Shitara Ken Deshita 2nd Season
+        label: Score,Planning,2026 Fall
+        label.remove: Completed,Watching,Dropped,Paused,
+        user_rating: 0
     critic_rating: 7.5
-    label: Planned,Planning
-    label.remove: Airing,Ended,Watching,Dropped,Paused,
+    label: Airing,Planning
+    label.remove: Planned,Ended,Watching,Dropped,Paused,
   352408:
     title: |-
       Tensei Shitara Slime Datta Ken
