@@ -2600,13 +2600,13 @@ metadata:
       1:
         title: |-
           Heroine? Seijo? Iie, All Works Maid desu (Ko)!
-        label: Score,Watching,2026 Summer
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2026 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.0
     audience_rating: 7.0
     critic_rating: 7.0
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   306743:
     title: |-
       High School Fleet
@@ -3987,7 +3987,8 @@ metadata:
           Koori no Jouheki 2nd Season
         label: Score,2026 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 8.1
+    audience_rating: 8.2
     critic_rating: 8.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -4141,10 +4142,16 @@ metadata:
         label: Score,AA Winner,Completed,2025 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.8
-    audience_rating: 8.8
+      3:
+        title: |-
+          Kusuriya no Hitorigoto 3rd Season
+        label: Score,2026 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    audience_rating: 17.6
     critic_rating: 8.9
-    label: AA Winner,Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: AA Winner,Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   318895:
     title: |-
       Kuzu no Honkai
@@ -5079,8 +5086,8 @@ metadata:
         user_rating: 7.6
     audience_rating: 7.7
     critic_rating: 7.7
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   407704:
     title: |-
       Nijusseiki Denki Mokuroku: Eureka Evrika
@@ -7504,10 +7511,16 @@ metadata:
         label: Score,Completed,2023 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.7
-    audience_rating: 7.6
-    critic_rating: 7.7
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+      4:
+        title: |-
+          Tokyo Revengers: Santen Sensou-hen
+        label: Score,2026 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
+    audience_rating: 11.4
+    critic_rating: 7.8
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   421994:
     title: |-
       Tomo-chan wa Onnanoko!
