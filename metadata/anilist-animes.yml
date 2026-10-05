@@ -8368,10 +8368,16 @@ metadata:
         label: Score,Completed,2025 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.4
-    audience_rating: -7.4
-    critic_rating: 7.5
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+      2:
+        title: |-
+          Yasei no Last Boss ga Arawareta! 2nd Season
+        label: Score,Watching,2026 Fall
+        label.remove: Completed,Dropped,Paused,Planning
+        user_rating: 7.1
+    audience_rating: 7.2
+    critic_rating: 7.6
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   313488:
     title: |-
       Yi Ren Zhi Xia
