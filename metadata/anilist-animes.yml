@@ -3572,10 +3572,15 @@ metadata:
         label: Score,Completed,2023 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.9
-    audience_rating: 6.9
+      2:
+        title: |-
+          Kikansha no Mahou wa Tokubetsu desu 2nd Season
+        label: Score,2026 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
     critic_rating: 7.0
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   467414:
     title: |-
       Kill Ao
@@ -6119,10 +6124,15 @@ metadata:
         label: Score,Completed,2024 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.7
-    audience_rating: 6.7
+      2:
+        title: |-
+          Sasaki to Pii-chan Season 2
+        label: Score,2026 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
     critic_rating: 6.8
-    label: Planned,Completed
-    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   450228:
     title: |-
       Sayonara Lara
