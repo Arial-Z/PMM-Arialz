@@ -438,10 +438,16 @@ metadata:
         label: Score,Completed,2022 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.1
-    audience_rating: -8.1
+      2:
+        title: |-
+          Aoashi 2nd Season
+        label: Score,2026 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 7.8
+    audience_rating: 7.9
     critic_rating: 8.1
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: Airing,Completed
+    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   453846:
     title: |-
       Apocalypse Hotel
