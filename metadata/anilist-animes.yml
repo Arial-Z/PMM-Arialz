@@ -4004,9 +4004,9 @@ metadata:
           Koori no Jouheki 2nd Season
         label: Score,2026 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.1
-    audience_rating: 8.2
-    critic_rating: 8.3
+        user_rating: 0
+    audience_rating: 8.3
+    critic_rating: 8.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   461714:
@@ -7331,13 +7331,13 @@ metadata:
       2:
         title: |-
           Tensei Shitara Ken Deshita 2nd Season
-        label: Score,Planning,2026 Fall
-        label.remove: Completed,Watching,Dropped,Paused,
+        label: Score,Watching,2026 Fall
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 0
     audience_rating: 7.4
     critic_rating: 7.5
-    label: Airing,Planning
-    label.remove: Planned,Ended,Watching,Dropped,Paused,
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   352408:
     title: |-
       Tensei Shitara Slime Datta Ken
