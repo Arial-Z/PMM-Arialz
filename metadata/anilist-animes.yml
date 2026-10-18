@@ -723,9 +723,7 @@ metadata:
           Black Clover 2nd Season
         label: Score,2026 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.7
-    audience_rating: 8.7
-    critic_rating: 4.4
+        user_rating: 0
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   79604:
@@ -5259,9 +5257,7 @@ metadata:
           Ranma 1/2 (2024) 3rd Season
         label: Score,2026 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.7
-    audience_rating: 7.7
-    critic_rating: 2.6
+        user_rating: 0
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   305089:
@@ -6657,8 +6653,8 @@ metadata:
           Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season
         label: Score,Watching,2026 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.1
-    audience_rating: 7.1
+        user_rating: 7.0
+    audience_rating: 7.0
     critic_rating: 2.5
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
