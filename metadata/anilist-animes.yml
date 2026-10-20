@@ -1315,6 +1315,12 @@ metadata:
         label: Score,AA Winner,Completed,2022 Summer
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.5
+      2:
+        title: |-
+          Cyberpunk: Edgerunners 2
+        label: Score,2026 Fall
+        label.remove: Completed,Watching,Dropped,Paused,Planning
+        user_rating: 0
     audience_rating: 8.5
     critic_rating: 8.6
     label: AA Winner,Ended,Completed
