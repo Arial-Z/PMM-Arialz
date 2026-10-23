@@ -1570,13 +1570,13 @@ metadata:
       4:
         title: |-
           Diamond no Ace act II: Second Season
-        label: Score,Completed,2026 Fall,2026 Spring
-        label.remove: Watching,Dropped,Paused,Planning
+        label: Score,Watching,2026 Fall,2026 Spring
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 8.1
     critic_rating: 8.1
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   411393:
     title: |-
       Disney Twisted-Wonderland: THE ANIMATION - Season 1: EPISODE of HEARTSLABYUL
@@ -5595,13 +5595,13 @@ metadata:
       7:
         title: |-
           Quanzhi Fashi 7
-        label: Score,2026 Spring
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Watching,2026 Spring
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 6.3
     audience_rating: 6.3
     critic_rating: 6.8
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   326270:
     title: |-
       Quanzhi Gaoshou
@@ -5889,13 +5889,13 @@ metadata:
       1:
         title: |-
           Ryoumin 0-Nin Start no Henkyou Ryoushu-sama
-        label: Score,2026 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
+        label: Score,Completed,2026 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.8
     audience_rating: 6.8
     critic_rating: 6.8
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   398387:
     title: |-
       Sabikui Bisco
@@ -8582,13 +8582,13 @@ metadata:
       2:
         title: |-
           Yozakura-san Chi no Daisakusen 2nd Season
-        label: Score,Completed,2026 Fall,2026 Spring
-        label.remove: Watching,Dropped,Paused,Planning
+        label: Score,Watching,2026 Fall,2026 Spring
+        label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.3
     audience_rating: 7.3
     critic_rating: 7.6
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Airing,Watching
+    label.remove: Planned,Ended,Dropped,Paused,Planning
   330692:
     title: |-
       Yuru Camp△
