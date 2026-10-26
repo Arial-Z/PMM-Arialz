@@ -835,8 +835,8 @@ metadata:
     studio: Studio Pierrot
     audience_rating: 7.9
     critic_rating: 8.0
-    label: Airing,Watching
-    label.remove: Planned,Ended,Dropped,Paused,Planning
+    label: Ended,Watching
+    label.remove: Planned,Airing,Dropped,Paused,Planning
   408629:
     title: |-
       Blue Lock
@@ -1320,7 +1320,7 @@ metadata:
           Cyberpunk: Edgerunners 2
         label: Score,2026 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.2
+        user_rating: 8.4
     audience_rating: 8.4
     critic_rating: 8.5
     label: AA Winner,Ended,Completed
