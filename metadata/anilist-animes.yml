@@ -1322,7 +1322,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.4
     audience_rating: 8.4
-    critic_rating: 8.5
+    critic_rating: 8.4
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   79635:
@@ -1572,7 +1572,7 @@ metadata:
           Diamond no Ace act II: Second Season
         label: Score,Watching,2026 Fall,2026 Spring
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.8
+        user_rating: 7.9
     audience_rating: 8.1
     critic_rating: 8.1
     label: Airing,Watching
@@ -3895,26 +3895,6 @@ metadata:
     critic_rating: 8.1
     label: AA Winner,Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  468809:
-    title: |-
-      Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.
-    sort_title: |-
-      Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.
-    original_title: |-
-      I Became a Legend After My 10 Year-Long Last Stand
-    genre.sync: Action,Adventure,Fantasy,Age Regression,Swordplay,Demons,Time Skip
-    studio: Gekkou
-    seasons:
-      1:
-        title: |-
-          Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.
-        label: Score,Completed,2026 Summer
-        label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
-    critic_rating: 6.2
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   358181:
     title: |-
       Kono Oto Tomare!
@@ -4373,26 +4353,6 @@ metadata:
     critic_rating: 6.8
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
-  458309:
-    title: |-
-      Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance
-    sort_title: |-
-      Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance
-    original_title: |-
-      Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance
-    genre.sync: Action,Comedy,Drama,Mahou Shoujo,Sci-Fi,Female Protagonist,Primarily Female Cast,Henshin,Drugs,Demons,Post-Apocalyptic,Magic,Super Power,Guns,Found Family,Gore,Tragedy
-    studio: Seven Arcs
-    seasons:
-      1:
-        title: |-
-          Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance
-        label: Score,2026 Summer
-        label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.4
-    audience_rating: 6.4
-    critic_rating: 6.8
-    label: Ended
-    label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   278329:
     title: |-
       Mahouka Koukou no Rettousei
@@ -6141,7 +6101,7 @@ metadata:
           Sasaki to Pii-chan Season 2
         label: Score,2026 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.9
+        user_rating: 7.0
     audience_rating: 6.8
     critic_rating: 7.0
     label: Airing,Completed
