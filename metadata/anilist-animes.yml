@@ -2713,7 +2713,7 @@ metadata:
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.8
     audience_rating: 7.8
-    critic_rating: 8.0
+    critic_rating: 7.9
     label: Planned,Completed
     label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   388593:
@@ -3696,7 +3696,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 7.5
     audience_rating: 7.5
-    critic_rating: 7.6
+    critic_rating: 7.5
     label: Ended
     label.remove: Planned,Airing,Completed,Watching,Dropped,Paused,Planning
   432050:
@@ -3992,7 +3992,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.1
     audience_rating: 8.2
-    critic_rating: 8.3
+    critic_rating: 8.2
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
   461714:
@@ -7187,8 +7187,8 @@ metadata:
           Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season
         label: Score,Watching,2026 Fall
         label.remove: Completed,Dropped,Paused,Planning
-        user_rating: 7.0
-    audience_rating: 7.2
+        user_rating: 6.9
+    audience_rating: 7.1
     critic_rating: 7.3
     label: Airing,Watching
     label.remove: Planned,Ended,Dropped,Paused,Planning
@@ -7421,7 +7421,7 @@ metadata:
           Tokyo Ghoul
         label: Score,Completed,2014 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.6
+        user_rating: 0
       2:
         title: |-
           Tokyo Ghoul √A
@@ -7434,8 +7434,8 @@ metadata:
         label: Score,Completed,2018 Fall,2018 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.2
-    audience_rating: 6.8
-    critic_rating: 7.1
+    audience_rating: 6.4
+    critic_rating: 4.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   272043:
