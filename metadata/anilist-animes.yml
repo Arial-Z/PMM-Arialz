@@ -1320,7 +1320,7 @@ metadata:
           Cyberpunk: Edgerunners 2
         label: Score,2026 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.4
+        user_rating: 8.3
     audience_rating: 8.4
     critic_rating: 8.4
     label: AA Winner,Ended,Completed
@@ -4230,13 +4230,13 @@ metadata:
       1:
         title: |-
           LV999 no Murabito
-        label: Score,Watching,2026 Summer
-        label.remove: Completed,Dropped,Paused,Planning
+        label: Score,Completed,2026 Summer
+        label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.1
     audience_rating: 6.1
     critic_rating: 6.1
-    label: Ended,Watching
-    label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   414057:
     title: |-
       Lycoris Recoil
@@ -7421,7 +7421,7 @@ metadata:
           Tokyo Ghoul
         label: Score,Completed,2014 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 0
+        user_rating: 7.6
       2:
         title: |-
           Tokyo Ghoul √A
@@ -7434,8 +7434,8 @@ metadata:
         label: Score,Completed,2018 Fall,2018 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.2
-    audience_rating: 6.4
-    critic_rating: 4.5
+    audience_rating: 6.8
+    critic_rating: 7.1
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   272043:
