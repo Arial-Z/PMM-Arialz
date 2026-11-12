@@ -7847,8 +7847,8 @@ metadata:
         user_rating: 6.4
     audience_rating: 7.3
     critic_rating: 7.8
-    label: Airing,Completed
-    label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
+    label: Ended,Completed
+    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
   453673:
     title: |-
       Uma Musume: Cinderella Gray
