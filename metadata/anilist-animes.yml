@@ -445,7 +445,7 @@ metadata:
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.1
     audience_rating: 8.1
-    critic_rating: 8.1
+    critic_rating: 8.2
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
   453846:
@@ -777,8 +777,8 @@ metadata:
           Black Clover 2nd Season
         label: Score,2026 Fall
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 8.7
-    audience_rating: 8.3
+        user_rating: 8.8
+    audience_rating: 8.4
     critic_rating: 8.5
     label: Airing,Completed
     label.remove: Planned,Ended,Watching,Dropped,Paused,Planning
@@ -7607,7 +7607,7 @@ metadata:
         label.remove: Completed,Dropped,Paused,Planning
         user_rating: 7.5
     audience_rating: 7.5
-    critic_rating: 7.8
+    critic_rating: 7.7
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
   470520:
