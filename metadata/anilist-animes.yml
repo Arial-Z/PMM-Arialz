@@ -54,7 +54,7 @@ metadata:
       Major
     original_title: |-
       Major
-    genre.sync: Comedy,Drama,Sports,Baseball,Male Protagonist,Coming of Age,Tragedy,Shounen,Parenthood,Primarily Child Cast,Adoption
+    genre.sync: Comedy,Drama,Sports,Baseball,Male Protagonist,Coming of Age,Tragedy,Shounen,Parenthood,Adoption,Primarily Child Cast,Heterosexual,Time Skip
     studio: Studio Hibari
     seasons:
       0:
@@ -281,7 +281,7 @@ metadata:
       Akatsuki no Yona
     original_title: |-
       Yona of the Dawn
-    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance,Female Protagonist,Dragons,Shoujo,Ensemble Cast,Fugitive,Royal Affairs,Travel,Mythology,Primarily Male Cast,Historical,Coming of Age,Politics,Revenge,Reincarnation,Ancient China,Tragedy,Found Family,Primarily Adult Cast,Orphan,Male Harem,Heterosexual
+    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Romance,Female Protagonist,Shoujo,Dragons,Ensemble Cast,Fugitive,Royal Affairs,Travel,Historical,Coming of Age,Primarily Male Cast,Mythology,Politics,Reincarnation,Revenge,Ancient China,Male Harem,Tragedy,Found Family,Primarily Adult Cast,Orphan,Heterosexual
     studio: Studio Pierrot
     seasons:
       1:
@@ -301,7 +301,7 @@ metadata:
       Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!
     original_title: |-
       Pass the Monster Meat, Milady!
-    genre.sync: Fantasy,Romance,Food,Shoujo,Female Protagonist,Ojou-sama,Marriage,Magic,Royal Affairs
+    genre.sync: Fantasy,Romance,Food,Female Protagonist,Ojou-sama,Marriage,Magic,Royal Affairs
     studio: Asahi Production
     seasons:
       1:
@@ -455,7 +455,7 @@ metadata:
       Apocalypse Hotel
     original_title: |-
       Apocalypse Hotel
-    genre.sync: Comedy,Sci-Fi,Slice of Life,Post-Apocalyptic,Robots,Work,Inn,Anthropomorphism,Female Protagonist,Artificial Intelligence,Surreal Comedy,Aliens,Urban,Time Skip,Episodic,Iyashikei
+    genre.sync: Comedy,Sci-Fi,Slice of Life,Post-Apocalyptic,Robots,Work,Inn,Anthropomorphism,Artificial Intelligence,Surreal Comedy,Aliens,Female Protagonist,Urban,Time Skip,Episodic,Iyashikei
     studio: CygamesPictures
     seasons:
       1:
@@ -607,7 +607,7 @@ metadata:
           Bai Yao Pu 2
         label: Score,2021 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.2
+        user_rating: 7.1
       3:
         title: |-
           Bai Yao Pu: Jingshi Pian
@@ -619,14 +619,14 @@ metadata:
           Bai Yao Pu: Si Fu Pian
         label: Score,2024 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.0
+        user_rating: 6.9
       5:
         title: |-
           Bai Yao Pu: Luoyang Pian
         label: Score,2025 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 6.5
-    audience_rating: 7.0
+    audience_rating: 6.9
     critic_rating: 7.6
     label: Ended,Watching
     label.remove: Planned,Airing,Completed,Dropped,Paused,Planning
@@ -819,8 +819,8 @@ metadata:
           Black Torch
         label: Score,Completed,2026 Summer
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.9
-    audience_rating: 6.9
+        user_rating: 6.8
+    audience_rating: 6.8
     critic_rating: 6.7
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -1098,7 +1098,7 @@ metadata:
       1:
         title: |-
           Chao Neng Lifang
-        label: Score,Completed,2025 Winter
+        label: Score,Completed,2025 Spring
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.0
     audience_rating: 7.0
@@ -1134,7 +1134,7 @@ metadata:
       Chi. Chikyuu no Undou ni Tsuite
     original_title: |-
       Orb: On the Movements of the Earth
-    genre.sync: Drama,Psychological,Astronomy,Philosophy,Religion,Ensemble Cast,Seinen,Foreign,Historical,Tragedy,Medieval,Time Skip,Fugitive,Conspiracy,Torture,Primarily Male Cast,Female Protagonist,Male Protagonist
+    genre.sync: Drama,Psychological,Astronomy,Philosophy,Religion,Ensemble Cast,Seinen,Foreign,Historical,Tragedy,Medieval,Time Skip,Fugitive,Conspiracy,Torture,Primarily Male Cast,Rural,Female Protagonist,Male Protagonist,Politics,Meta,Suicide
     studio: MADHOUSE
     seasons:
       1:
@@ -1431,7 +1431,7 @@ metadata:
       DARKER THAN BLACK: Kuro no Keiyakusha
     original_title: |-
       Darker than Black
-    genre.sync: Action,Mystery,Sci-Fi,Super Power,Anti-Hero,Crime,Noir,Urban,Assassins,Conspiracy,Urban Fantasy,Terrorism,Tragedy,Police,Triads,Espionage,Episodic
+    genre.sync: Action,Mystery,Sci-Fi,Super Power,Anti-Hero,Crime,Noir,Urban,Assassins,Conspiracy,Urban Fantasy,Terrorism,Tragedy,Police,Triads,Espionage
     studio: bones
     seasons:
       0:
@@ -1491,7 +1491,7 @@ metadata:
       2:
         title: |-
           Dawang Raoming 2
-        label: Score,Completed,2023 Fall
+        label: Score,Completed,2024 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.5
     critic_rating: 7.6
@@ -1878,8 +1878,8 @@ metadata:
           Fate/stay night
         label: Score,Completed,2006 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 6.8
-    audience_rating: 6.8
+        user_rating: 6.9
+    audience_rating: 6.9
     critic_rating: 7.3
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -2263,7 +2263,7 @@ metadata:
       Golden Time
     original_title: |-
       Golden Time
-    genre.sync: Drama,Romance,Amnesia,Memory Manipulation,Female Protagonist,Male Protagonist,College,Love Triangle,Dissociative Identities,Tragedy,Heterosexual,Coming of Age,Primarily Adult Cast,Ghost,Yandere
+    genre.sync: Drama,Romance,Amnesia,Memory Manipulation,Male Protagonist,Female Protagonist,College,Love Triangle,Dissociative Identities,Tragedy,Heterosexual,Coming of Age,Primarily Adult Cast,Ghost,Yandere
     studio: J.C.STAFF
     seasons:
       1:
@@ -2383,13 +2383,13 @@ metadata:
       Guimi Zhi Zhu: Xiaochou Pian
     original_title: |-
       Lord of Mysteries
-    genre.sync: Action,Drama,Fantasy,Mystery,Supernatural,Thriller,Conspiracy,Male Protagonist,Magic,Cult,Religion,Cosmic Horror,Gods,Body Horror,Gore,Primarily Adult Cast,Detective,Steampunk,Seinen,Isekai,Lost Civilization,Tragedy,Cultivation,Alchemy,Foreign
+    genre.sync: Action,Drama,Fantasy,Mystery,Supernatural,Thriller,Conspiracy,Male Protagonist,Magic,Cult,Religion,Cosmic Horror,Gods,Body Horror,Gore,Primarily Adult Cast,Detective,Steampunk,Isekai,Lost Civilization,Tragedy,Cultivation,Alchemy,Foreign
     studio: B.CMAY PICTURES
     seasons:
       1:
         title: |-
           Guimi Zhi Zhu: Xiaochou Pian
-        label: Score,Completed,2025 Spring
+        label: Score,Completed,2025 Summer
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 8.5
     audience_rating: 8.5
@@ -2633,7 +2633,7 @@ metadata:
       Hikaru ga Shinda Natsu
     original_title: |-
       The Summer Hikaru Died
-    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Male Protagonist,Rural,Cosmic Horror,Tragedy,Urban Fantasy,Mythology,Body Horror,LGBTQ+ Themes,Primarily Teen Cast,Unrequited Love,Boys' Love,Gods,Curses,Philosophy,Seinen,Mixed Media,School
+    genre.sync: Horror,Mystery,Psychological,Supernatural,Thriller,Monster Boy,Male Protagonist,Rural,Cosmic Horror,Tragedy,Boys' Love,Urban Fantasy,Mythology,Body Horror,LGBTQ+ Themes,Primarily Teen Cast,Unrequited Love,Gods,Curses,Philosophy,Seinen,Mixed Media,School
     studio: CygamesPictures
     seasons:
       1:
@@ -2783,7 +2783,7 @@ metadata:
       Hunter×hunter (2011)
     original_title: |-
       Hunter x Hunter (2011)
-    genre.sync: Action,Adventure,Fantasy,Shounen,Super Power,Male Protagonist,Tragedy,Travel,Philosophy,Ensemble Cast,Martial Arts,Primarily Male Cast,Revenge,Chimera,Anthropomorphism,Primarily Teen Cast,Coming of Age,Criminal Organization,Crime,Virtual World,Assassins,Urban Fantasy,Environmental
+    genre.sync: Action,Adventure,Fantasy,Shounen,Super Power,Male Protagonist,Tragedy,Travel,Philosophy,Ensemble Cast,Martial Arts,Primarily Male Cast,Revenge,Chimera,Anthropomorphism,Primarily Teen Cast,Coming of Age,Criminal Organization,Crime,Urban Fantasy,Virtual World,Assassins,Environmental
     studio: MADHOUSE
     audience_rating: 8.9
     critic_rating: 9.0
@@ -2842,7 +2842,7 @@ metadata:
       Isekai de Mofumofu Nadenade Suru Tame ni Ganbattemasu.
     original_title: |-
       Fluffy Paradise
-    genre.sync: Adventure,Fantasy,Slice of Life,Isekai,Animals,Female Protagonist,Reincarnation,Magic,Iyashikei,Anthropomorphism,Dragons,Shoujo,Goblin,Politics
+    genre.sync: Adventure,Fantasy,Slice of Life,Isekai,Animals,Female Protagonist,Reincarnation,Magic,Iyashikei,Anthropomorphism,Dragons,Goblin,Politics
     studio: EMT Squared
     seasons:
       1:
@@ -2960,7 +2960,7 @@ metadata:
       Jigokuraku
     original_title: |-
       Hell’s Paradise
-    genre.sync: Action,Adventure,Mystery,Supernatural,Survival,Swordplay,Body Horror,Gore,Shounen,Ninja,Samurai,Battle Royale,Religion,Travel,Historical,Tragedy,Anti-Hero,Fugitive,Nudity,Primarily Adult Cast,Gods,Death Game,Super Power,Cultivation
+    genre.sync: Action,Adventure,Mystery,Supernatural,Survival,Swordplay,Body Horror,Gore,Shounen,Ninja,Samurai,Battle Royale,Religion,Travel,Historical,Tragedy,Fugitive,Anti-Hero,Nudity,Primarily Adult Cast,Gods,Death Game,Super Power,Cultivation
     studio: MAPPA
     seasons:
       1:
@@ -3040,7 +3040,7 @@ metadata:
       Kage no Jitsuryokusha ni Naritakute!
     original_title: |-
       The Eminence in Shadow
-    genre.sync: Action,Comedy,Fantasy,Isekai,Chuunibyou,Male Protagonist,Parody,Anti-Hero,Magic,Cult,Swordplay,Acting,Reincarnation,Primarily Female Cast,Meta,Satire,Female Harem,Conspiracy,Espionage,Assassins,Politics,Nudity,Elf
+    genre.sync: Action,Comedy,Fantasy,Isekai,Chuunibyou,Male Protagonist,Parody,Anti-Hero,Magic,Cult,Acting,Swordplay,Reincarnation,Primarily Female Cast,Meta,Satire,Female Harem,Conspiracy,Espionage,Assassins,Politics,Nudity,Elf
     studio: Nexus
     seasons:
       1:
@@ -3248,7 +3248,7 @@ metadata:
       Kaoru Hana wa Rin to Saku
     original_title: |-
       The Fragrant Flower Blooms With Dignity
-    genre.sync: Comedy,Drama,Romance,Heterosexual,Primarily Teen Cast,Male Protagonist,School,Female Protagonist,Iyashikei,Coming of Age,Food,Urban,Shounen,Ensemble Cast
+    genre.sync: Comedy,Drama,Romance,Heterosexual,Primarily Teen Cast,Male Protagonist,School,Female Protagonist,Iyashikei,Food,Urban,Ensemble Cast,Coming of Age
     studio: CloverWorks
     seasons:
       1:
@@ -4022,7 +4022,7 @@ metadata:
       Koukyuu no Karasu
     original_title: |-
       Raven of the Inner Palace
-    genre.sync: Drama,Fantasy,Mystery,Supernatural,Female Protagonist,Foreign,Historical,Detective,Primarily Adult Cast,Kuudere,Mythology,Exiled,Episodic,Magic,Necromancy,Shoujo,Ghost,Conspiracy,Politics,Tsundere,Ojou-sama
+    genre.sync: Drama,Fantasy,Mystery,Supernatural,Female Protagonist,Foreign,Historical,Detective,Primarily Adult Cast,Kuudere,Mythology,Exiled,Episodic,Magic,Necromancy,Ghost,Conspiracy,Politics,Tsundere,Ojou-sama
     studio: Bandai Namco Pictures
     seasons:
       1:
@@ -4118,7 +4118,7 @@ metadata:
           Kusuriya no Hitorigoto
         label: Score,AA Winner,Completed,2023 Fall
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 8.8
+        user_rating: 8.7
       2:
         title: |-
           Kusuriya no Hitorigoto 2nd Season
@@ -4394,7 +4394,7 @@ metadata:
       Mahoutsukai no Yome
     original_title: |-
       The Ancient Magus' Bride
-    genre.sync: Drama,Fantasy,Romance,Slice of Life,Supernatural,Magic,Female Protagonist,Fairy,Mythology,Monster Boy,Tragedy,Found Family,Heterosexual,Urban Fantasy,Teacher,Skeleton,Interspecies,Dragons,Foreign,Age Gap,Body Horror,Philosophy,Shapeshifting,Primarily Adult Cast
+    genre.sync: Drama,Fantasy,Romance,Slice of Life,Supernatural,Magic,Female Protagonist,Fairy,Mythology,Monster Boy,Tragedy,Found Family,Heterosexual,Urban Fantasy,Teacher,Skeleton,Interspecies,Dragons,Foreign,Age Gap,Body Horror,Philosophy,Shapeshifting,Primarily Adult Cast,Suicide
     studio: WIT STUDIO
     seasons:
       0:
@@ -4836,7 +4836,7 @@ metadata:
       Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu
     original_title: |-
       The Oblivious Saint Can't Contain Her Power
-    genre.sync: Drama,Fantasy,Romance,Religion,Female Protagonist,Arranged Marriage
+    genre.sync: Drama,Fantasy,Romance,Arranged Marriage,Religion,Shoujo,Female Protagonist
     studio: Magic Bus
     seasons:
       1:
@@ -5012,7 +5012,7 @@ metadata:
       Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken
     original_title: |-
       Always a Catch!
-    genre.sync: Comedy,Fantasy,Romance,Heterosexual,Royal Affairs,Female Protagonist,Shoujo,Tomboy
+    genre.sync: Comedy,Fantasy,Romance,Royal Affairs,Heterosexual,Tomboy,Female Protagonist,Martial Arts
     studio: TROYCA
     seasons:
       1:
@@ -5186,7 +5186,7 @@ metadata:
       One Piece
     original_title: |-
       One Piece
-    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Pirates,Travel,Ensemble Cast,Shounen,Super Power,Found Family,Male Protagonist,Tragedy,Ships,Conspiracy,Slapstick,Prophecy,Royal Affairs,Time Skip,Politics,War,Slavery,Dystopian,Fugitive,Gods,Crime,Swordplay,Lost Civilization,Henshin,Monster Boy,Cyborg,Shapeshifting,Anti-Hero,Philosophy,Primarily Adult Cast,Food
+    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Pirates,Travel,Shounen,Ensemble Cast,Super Power,Found Family,Male Protagonist,Tragedy,Ships,Conspiracy,Slapstick,Prophecy,Royal Affairs,Time Skip,Politics,War,Slavery,Dystopian,Fugitive,Crime,Gods,Swordplay,Lost Civilization,Henshin,Monster Boy,Cyborg,Primarily Adult Cast,Food,Anti-Hero,Philosophy,Shapeshifting
     studio: Toei Animation
     audience_rating: 8.7
     critic_rating: 8.7
@@ -5233,7 +5233,7 @@ metadata:
       Oni no Hanayome
     original_title: |-
       The Ogre's Bride
-    genre.sync: Drama,Fantasy,Romance,Shoujo,Female Protagonist,Heterosexual
+    genre.sync: Drama,Fantasy,Romance,Female Protagonist,Heterosexual
     studio: Colored Pencil Animation Japan
     seasons:
       1:
@@ -5323,7 +5323,7 @@ metadata:
       Ore dake Level Up na Ken
     original_title: |-
       Solo Leveling
-    genre.sync: Action,Adventure,Fantasy,Dungeon,Male Protagonist,Urban Fantasy,Super Power,Magic,Necromancy,Cultivation,Survival,Shounen,Gore,Anti-Hero,War
+    genre.sync: Action,Adventure,Fantasy,Dungeon,Male Protagonist,Urban Fantasy,Super Power,Magic,Necromancy,Cultivation,Survival,Gore,Anti-Hero,War
     studio: A-1 Pictures
     seasons:
       1:
@@ -5563,7 +5563,7 @@ metadata:
       2:
         title: |-
           Quanzhi Gaoshou 2
-        label: Score,Completed,2020 Summer
+        label: Score,Completed,2020 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.7
       3:
@@ -6093,7 +6093,7 @@ metadata:
       Sayonara Lara
     original_title: |-
       Goodbye, Lara
-    genre.sync: Drama,Fantasy,Romance,Mermaid,Female Protagonist,Fairy Tale,Coastal,Urban Fantasy,Coming of Age,Curses,Interspecies,Reincarnation,Boxing,Time Skip,Tragedy,Magic
+    genre.sync: Drama,Fantasy,Romance,Mermaid,Female Protagonist,Fairy Tale,Coastal,Urban Fantasy,Curses,Coming of Age,Interspecies,Reincarnation,Time Skip,Tragedy,Magic,Philosophy
     studio: Kinema Citrus
     seasons:
       1:
@@ -6113,7 +6113,7 @@ metadata:
       Seihantai na Kimi to Boku
     original_title: |-
       You and I Are Polar Opposites
-    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Ensemble Cast,School,Primarily Teen Cast,Coming of Age,Iyashikei,Kuudere,Gyaru,Urban,Female Protagonist
+    genre.sync: Comedy,Romance,Slice of Life,Heterosexual,Ensemble Cast,School,Primarily Teen Cast,Coming of Age,Iyashikei,Kuudere,Female Protagonist,Gyaru,Urban
     studio: Lapin Track
     seasons:
       1:
@@ -6425,7 +6425,7 @@ metadata:
       3:
         title: |-
           Shiguang Dailiren: Yingdu Pian
-        label: Score,2024 Fall
+        label: Score,2025 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
         user_rating: 8.3
       4:
@@ -6653,7 +6653,7 @@ metadata:
       Silent Witch: Chinmoku no Majo no Kakushigoto
     original_title: |-
       Secrets of the Silent Witch
-    genre.sync: Drama,Fantasy,Female Protagonist,Magic,Witch,School,Primarily Teen Cast,Royal Affairs,Hikikomori,Coming of Age,Disability,Politics,Ojou-sama,Class Struggle,Rehabilitation,Medieval
+    genre.sync: Drama,Fantasy,Female Protagonist,Magic,Witch,School,Primarily Teen Cast,Royal Affairs,Hikikomori,Coming of Age,Politics,Disability,Ojou-sama,Class Struggle,Rehabilitation,Medieval
     studio: Studio Gokumi
     seasons:
       1:
@@ -6747,8 +6747,8 @@ metadata:
           Sora wa Akai Kawa no Hotori
         label: Score,2026 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.2
-    audience_rating: 6.2
+        user_rating: 6.1
+    audience_rating: 6.1
     critic_rating: 5.7
     label: Airing
     label.remove: Planned,Ended,Completed,Watching,Dropped,Paused,Planning
@@ -6841,7 +6841,7 @@ metadata:
       Steins;Gate 0
     original_title: |-
       Steins;Gate 0
-    genre.sync: Drama,Psychological,Sci-Fi,Thriller,Alternate Universe,War,Time Manipulation,Artificial Intelligence,Tragedy,Dystopian,Dissociative Identities,Post-Apocalyptic,Urban,Age Regression,Time Skip,Philosophy,Amnesia,Male Protagonist,Seinen
+    genre.sync: Drama,Psychological,Sci-Fi,Thriller,Alternate Universe,War,Time Manipulation,Artificial Intelligence,Tragedy,Dystopian,Dissociative Identities,Post-Apocalyptic,Urban,Age Regression,Time Skip,Amnesia,Philosophy,Male Protagonist
     studio: WHITE FOX
     seasons:
       0:
@@ -7165,8 +7165,8 @@ metadata:
           Tensei Oujo to Tensai Reijou no Mahou Kakumei
         label: Score,Completed,2023 Winter
         label.remove: Watching,Dropped,Paused,Planning
-        user_rating: 7.5
-    audience_rating: 7.5
+        user_rating: 7.6
+    audience_rating: 7.6
     critic_rating: 7.5
     label: Ended,Completed
     label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
@@ -7691,7 +7691,7 @@ metadata:
       Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru
     original_title: |-
       The Exiled Heavy Knight Knows How to Game the System
-    genre.sync: Action,Fantasy,Exiled,CGI,Isekai,Male Protagonist,Reincarnation,Dungeon,Swordplay,Class Struggle,Estranged Family,Fishing,Magic,Gore
+    genre.sync: Action,Fantasy,Exiled,Isekai,CGI,Male Protagonist,Reincarnation,Dungeon,Swordplay,Class Struggle,Estranged Family,Fishing,Magic,Gore
     studio: GoHands
     seasons:
       1:
@@ -7832,7 +7832,7 @@ metadata:
           Uchuu Senkan Yamato 2202: Ai no Senshi-tachi
         label: Score,2017 Winter
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 7.5
+        user_rating: 7.4
       3:
         title: |-
           Uchuu Senkan Yamato 2205: Aratanaru Tabidachi
@@ -7844,7 +7844,7 @@ metadata:
           Yamato yo Towa ni: REBEL3199
         label: Score,2024 Summer
         label.remove: Completed,Watching,Dropped,Paused,Planning
-        user_rating: 6.6
+        user_rating: 6.7
     audience_rating: 7.4
     critic_rating: 7.8
     label: Ended,Completed
@@ -8208,25 +8208,25 @@ metadata:
       3:
         title: |-
           Xian Wang De Richang Shenghuo 3
-        label: Score,Completed,2022 Summer
+        label: Score,Completed,2022 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.3
       4:
         title: |-
           Xian Wang De Richang Shenghuo 4
-        label: Score,Completed,2023 Fall
+        label: Score,Completed,2024 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.5
       5:
         title: |-
           Xian Wang de Richang Shenghuo 5
-        label: Score,Completed,2025 Fall
+        label: Score,Completed,2026 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 7.6
     audience_rating: 7.4
     critic_rating: 7.4
-    label: Ended,Completed
-    label.remove: Planned,Airing,Watching,Dropped,Paused,Planning
+    label: Planned,Completed
+    label.remove: Airing,Ended,Watching,Dropped,Paused,Planning
   348002:
     title: |-
       Yakusoku no Neverland
@@ -8330,13 +8330,13 @@ metadata:
       4:
         title: |-
           Yi Ren Zhi Xia 4
-        label: Score,Completed,2021 Summer
+        label: Score,Completed,2021 Fall
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.7
       5:
         title: |-
           Yi Ren Zhi Xia 5
-        label: Score,Completed,2022 Fall
+        label: Score,Completed,2023 Winter
         label.remove: Watching,Dropped,Paused,Planning
         user_rating: 6.6
       6:
@@ -8356,7 +8356,7 @@ metadata:
       Yofukashi no Uta
     original_title: |-
       Call of the Night
-    genre.sync: Comedy,Psychological,Romance,Slice of Life,Supernatural,Vampire,Urban Fantasy,Urban,Female Protagonist,Male Protagonist,Femdom,Aromantic,Heterosexual,Coming of Age,Primarily Female Cast,Age Gap,Shounen,Psychosexual
+    genre.sync: Comedy,Psychological,Romance,Slice of Life,Supernatural,Vampire,Urban Fantasy,Urban,Female Protagonist,Male Protagonist,Aromantic,Femdom,Heterosexual,Coming of Age,Primarily Female Cast,Age Gap,Shounen,Psychosexual
     studio: LIDENFILMS
     seasons:
       1:
@@ -8382,7 +8382,7 @@ metadata:
       Yomi no Tsugai
     original_title: |-
       Daemons of the Shadow Realm
-    genre.sync: Action,Adventure,Comedy,Fantasy,Supernatural,Shounen,Youkai,Male Protagonist,Proxy Battle,Twins,Urban Fantasy,Creature Taming,Found Family,Guns,Archery,Anachronism,Rural,Conspiracy,Demons
+    genre.sync: Action,Adventure,Comedy,Fantasy,Supernatural,Shounen,Youkai,Male Protagonist,Proxy Battle,Twins,Urban Fantasy,Creature Taming,Found Family,Guns,Anachronism,Archery,Rural,Conspiracy,Demons
     studio: bones film
     seasons:
       1:
